@@ -28,6 +28,32 @@ async function removeUnused(category) {
   };
 }
 
+async function addMetadata(cat) {
+  // add description, total lessons, total words, total hours
+  console.log(`added metadata in ${cat.id}`);
+
+  const category = JSON.parse(fs.readFileSync(`./category/${cat.id}.json`));
+
+  const description = category.description;
+  const totalLessons = category.list.length;
+  const totalWords = category.list.reduce((acc, lesson) => acc + parseInt(lesson.words), 0);
+  const totalMinutes = category.list.reduce((acc, lesson) => acc + parseInt(lesson.time), 0);
+
+  const totalHoursEn = `${totalMinutes < 60 ? "" : `${Math.floor(totalMinutes / 60)}h`} ${totalMinutes % 60}m`;
+  const totalHoursId = `${totalMinutes < 60 ? "" : `${Math.floor(totalMinutes / 60)}j`} ${totalMinutes % 60}m`;
+
+  return {
+    ...cat,
+    description,
+    totalLessons,
+    totalWords,
+    totalHours: {
+      en: totalHoursEn.trim(),
+      id: totalHoursId.trim(),
+    },
+  };
+}
+
 async function main() {
   const categories = JSON.parse(fs.readFileSync("categories.json"));
 
@@ -35,7 +61,7 @@ async function main() {
 
   for (let i = 0; i < categories.length; i += 10) {
     const batch = categories.slice(i, i + 10);
-    const result = await Promise.all(batch.map((category) => removeUnused(category)));
+    const result = await Promise.all(batch.map((category) => addMetadata(category)));
     translated.push(...result);
   }
 
