@@ -4,7 +4,6 @@ const fs = require("fs");
 const path = require("path");
 
 // const uri = "https://langeek.co/en/vocab/topic-related";
-const uri = "https://langeek.co/en/vocab/category/187/adverbs-time-place";
 
 // TODO: Get all categories per id by parsing html
 /**
@@ -19,7 +18,8 @@ const uri = "https://langeek.co/en/vocab/category/187/adverbs-time-place";
 
 const folderPath = path.join(__dirname, "category");
 
-async function main() {
+async function processData(id, name) {
+  const uri = `https://langeek.co/en/vocab/category/${id}/${name}`;
   const { data } = await axios.get(uri);
 
   const $ = load(data);
@@ -72,7 +72,15 @@ async function main() {
     });
   });
 
-  fs.writeFileSync(path.join(folderPath, "187.json"), JSON.stringify({ title, description, list }, null, 2));
+  fs.writeFileSync(path.join(folderPath, `${id}.json`), JSON.stringify({ title, description, list }, null, 2));
+}
+
+async function main() {
+  const categories = JSON.parse(fs.readFileSync("categories.json"));
+  for (const category of categories) {
+    await processData(category.id, category.urlId);
+    console.log(`Done processing category ${category.id}`);
+  }
 }
 
 main().catch(console.error);
