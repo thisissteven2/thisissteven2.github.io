@@ -1,0 +1,963 @@
+{
+  "id": 2179,
+  "title": {
+    "en": "Hot Drinks",
+    "id": "Minuman panas"
+  },
+  "description": {
+    "en": "Here you will learn the names of some hot drinks in English such as \"espresso\", \"oolong\", and \"instant coffee\".",
+    "id": "Di sini Anda akan mempelajari nama -nama beberapa minuman panas dalam bahasa Inggris seperti \"espresso\", \"oolong\", dan \"kopi instan\"."
+  },
+  "cards": [
+    {
+      "id": 290435,
+      "translation": {
+        "en": {
+          "short": "coffee",
+          "long": "a drink made by mixing hot water with crushed coffee beans, which is usually brown",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi",
+          "long": "Minuman yang dibuat dengan mencampur air panas dengan biji kopi yang dihancurkan, yang biasanya berwarna cokelat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290435.jpeg",
+      "simplified": "咖啡",
+      "traditional": "咖啡",
+      "pinyin": "kāfēi"
+    },
+    {
+      "id": 290436,
+      "translation": {
+        "en": {
+          "short": "espresso",
+          "long": "a kind of strong black drink made by forcing hot water or steam through coffee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "espreso",
+          "long": "semacam minuman hitam yang kuat yang dibuat dengan memaksa air panas atau uap melalui kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290436.jpeg",
+      "simplified": "浓咖啡",
+      "traditional": "濃咖啡",
+      "pinyin": "nóng kāfēi"
+    },
+    {
+      "id": 290438,
+      "translation": {
+        "en": {
+          "short": "cappuccino",
+          "long": "a type of coffee made from espresso mixed with hot milk or cream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cappuccino",
+          "long": "Jenis kopi yang terbuat dari espresso dicampur dengan susu panas atau krim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290438.jpeg",
+      "simplified": "热奶咖啡",
+      "traditional": "熱奶咖啡",
+      "pinyin": "rè nǎi kāfēi"
+    },
+    {
+      "id": 290439,
+      "translation": {
+        "en": {
+          "short": "black tea",
+          "long": "a type of tea made from the leaves of the Camellia sinensis plant that has been fully oxidized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh hitam",
+          "long": "Jenis teh yang terbuat dari daun tanaman camellia sinensis yang telah sepenuhnya teroksidasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290439.jpeg",
+      "simplified": "红茶",
+      "traditional": "紅茶",
+      "pinyin": "hóngchá"
+    },
+    {
+      "id": 290441,
+      "translation": {
+        "en": {
+          "short": "matcha",
+          "long": "a type of powdered green tea that is traditionally used in Japanese tea ceremonies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matcha",
+          "long": "Jenis teh hijau bubuk yang secara tradisional digunakan dalam upacara teh Jepang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290441.jpeg",
+      "simplified": "抹茶",
+      "traditional": "抹茶",
+      "pinyin": "mǒchá"
+    },
+    {
+      "id": 290442,
+      "translation": {
+        "en": {
+          "short": "green tea",
+          "long": "a type of tea made from the leaves and buds of the tea plant, and it has a green color and a slightly bitter taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh hijau",
+          "long": "Jenis teh yang terbuat dari daun dan kuncup tanaman teh, dan memiliki warna hijau dan sedikit rasa pahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290442.jpeg",
+      "simplified": "绿茶",
+      "traditional": "綠茶",
+      "pinyin": "lǜchá"
+    },
+    {
+      "id": 290444,
+      "translation": {
+        "en": {
+          "short": "cortado",
+          "long": "a type of coffee beverage that consists of equal parts espresso and steamed milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cortado",
+          "long": "Jenis minuman kopi yang terdiri dari espresso bagian yang sama dan susu kukus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290444.jpeg",
+      "simplified": "科尔塔多",
+      "traditional": "科爾塔多",
+      "pinyin": "Kēěr tǎ duō"
+    },
+    {
+      "id": 290449,
+      "translation": {
+        "en": {
+          "short": "Earl Grey",
+          "long": "a type of black tea that is flavored with oil extracted from the rind of bergamot oranges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Earl Grey",
+          "long": "Jenis teh hitam yang dibumbui dengan minyak yang diekstraksi dari kulit jeruk Bergamot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290449.jpeg",
+      "simplified": "格雷伯爵茶",
+      "traditional": "格雷伯爵茶",
+      "pinyin": "Géléi Bó jué chá"
+    },
+    {
+      "id": 290452,
+      "translation": {
+        "en": {
+          "short": "ristretto",
+          "long": "a short and concentrated shot of espresso that is brewed with a smaller amount of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ristretto",
+          "long": "Tembakan espresso pendek dan terkonsentrasi yang diseduh dengan jumlah air yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290452.jpeg",
+      "simplified": "里斯特雷托",
+      "traditional": "里斯特雷托",
+      "pinyin": "lǐ Sī tè Léi tuō"
+    },
+    {
+      "id": 290457,
+      "translation": {
+        "en": {
+          "short": "oolong",
+          "long": "a type of tea made from the leaves of the Camellia sinensis plant that has been partially oxidized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oolong",
+          "long": "Jenis teh yang terbuat dari daun tanaman camellia sinensis yang telah sebagian teroksidasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290457.jpeg",
+      "simplified": "乌龙茶",
+      "traditional": "烏龍茶",
+      "pinyin": "wūlóng chá"
+    },
+    {
+      "id": 290458,
+      "translation": {
+        "en": {
+          "short": "Turkish coffee",
+          "long": "a type of coffee drink made from finely ground coffee beans and water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi Turki",
+          "long": "Jenis minuman kopi yang terbuat dari biji kopi dan air yang ditumbuk halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290458.jpeg",
+      "simplified": "土耳其咖啡",
+      "traditional": "土耳其咖啡",
+      "pinyin": "Tǔěr qí kāfēi"
+    },
+    {
+      "id": 290464,
+      "translation": {
+        "en": {
+          "short": "mint tea",
+          "long": "a type of tea made from fresh or dried mint leaves steeped in hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh mint",
+          "long": "Jenis teh yang terbuat dari daun mint segar atau kering yang ditumbuk dalam air panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290464.jpeg",
+      "simplified": "薄荷茶",
+      "traditional": "薄荷茶",
+      "pinyin": "bòhe chá"
+    },
+    {
+      "id": 290470,
+      "translation": {
+        "en": {
+          "short": "flat white",
+          "long": "a coffee-based beverage consisting of a shot of espresso with steamed milk and a thin layer of microfoam on top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putih datar",
+          "long": "Minuman berbasis kopi yang terdiri dari suntikan espresso dengan susu kukus dan lapisan tipis microfoam di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290470.jpeg",
+      "simplified": "纯白色",
+      "traditional": "純白色",
+      "pinyin": "chúnbái sè"
+    },
+    {
+      "id": 290472,
+      "translation": {
+        "en": {
+          "short": "Caffe Americano",
+          "long": "a coffee-based beverage made by diluting a shot of espresso with hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Caffe Americano",
+          "long": "Minuman berbasis kopi yang dibuat dengan mengencerkan suntikan espresso dengan air panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290472.jpeg",
+      "simplified": "美式咖啡",
+      "traditional": "美式咖啡",
+      "pinyin": "Měishì kā fēi"
+    },
+    {
+      "id": 290474,
+      "translation": {
+        "en": {
+          "short": "rooibos",
+          "long": "a type of herbal tea made from the leaves of the Aspalathus linearis plant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rooibos",
+          "long": "Jenis teh herbal yang terbuat dari daun tanaman aspalathus linearis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290474.jpeg",
+      "simplified": "路易波士茶",
+      "traditional": "路易波士茶",
+      "pinyin": "Lùyì Bō Shì chá"
+    },
+    {
+      "id": 290477,
+      "translation": {
+        "en": {
+          "short": "white tea",
+          "long": "a type of tea made from the youngest leaves and buds of the tea plant, which are minimally processed to preserve their delicate flavors and natural appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh putih",
+          "long": "Jenis teh yang terbuat dari daun dan kuncup termuda dari tanaman teh, yang diproses minimal untuk menjaga rasa halus dan penampilan alami mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290477.jpeg",
+      "simplified": "白茶",
+      "traditional": "白茶",
+      "pinyin": "Bái chá"
+    },
+    {
+      "id": 290479,
+      "translation": {
+        "en": {
+          "short": "salep",
+          "long": "a traditional Middle Eastern beverage made from a starchy powder extracted from the roots of certain species of orchids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salep",
+          "long": "Minuman tradisional Timur Tengah yang terbuat dari bubuk bertepung yang diekstraksi dari akar spesies anggrek tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290479.jpeg",
+      "simplified": "萨勒普",
+      "traditional": "薩勒普",
+      "pinyin": "Sà lè pǔ"
+    },
+    {
+      "id": 290484,
+      "translation": {
+        "en": {
+          "short": "mate",
+          "long": "a traditional South American beverage made from steeping dried leaves of the yerba maté plant in hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasangan",
+          "long": "Minuman tradisional Amerika Selatan yang terbuat dari daun kering yang merengek dari tanaman Yerba Maté di air panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290484.jpeg",
+      "simplified": "伴侣",
+      "traditional": "伴侶",
+      "pinyin": "bànlǚ"
+    },
+    {
+      "id": 290485,
+      "translation": {
+        "en": {
+          "short": "macchiato",
+          "long": "a drink consisting of espresso coffee and a small amount of milk on top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Macchiato",
+          "long": "Minuman yang terdiri dari kopi espresso dan sedikit susu di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290485.jpeg",
+      "simplified": "MacChiato",
+      "traditional": "MacChiato",
+      "pinyin": ""
+    },
+    {
+      "id": 290487,
+      "translation": {
+        "en": {
+          "short": "long black",
+          "long": "a coffee beverage made by pouring a double shot of espresso over hot water, creating a strong, black coffee with a layer of crema on top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hitam panjang",
+          "long": "Minuman kopi yang dibuat dengan menuangkan bidikan ganda espresso di atas air panas, menciptakan kopi hitam yang kuat dengan lapisan crema di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290487.jpeg",
+      "simplified": "长黑",
+      "traditional": "長黑",
+      "pinyin": "cháng Hēi"
+    },
+    {
+      "id": 290489,
+      "translation": {
+        "en": {
+          "short": "white coffee",
+          "long": "a type of coffee made from coffee beans that are lightly roasted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi putih",
+          "long": "Jenis kopi yang terbuat dari biji kopi yang dipanggang ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290489.jpeg",
+      "simplified": "加奶咖啡",
+      "traditional": "加奶咖啡",
+      "pinyin": "Jiā nǎi kāfēi"
+    },
+    {
+      "id": 290492,
+      "translation": {
+        "en": {
+          "short": "Darjeeling",
+          "long": "a type of black tea made from the leaves of the Camellia sinensis plant that is grown in the Darjeeling region of India",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Darjeeling",
+          "long": "Jenis teh hitam yang terbuat dari daun tanaman Camellia sinensis yang ditanam di wilayah Darjeeling di India",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290492.jpeg",
+      "simplified": "大吉岭",
+      "traditional": "大吉嶺",
+      "pinyin": "Dàjí lǐng"
+    },
+    {
+      "id": 290493,
+      "translation": {
+        "en": {
+          "short": "English Breakfast tea",
+          "long": "a type of black tea made from the leaves of the Camellia sinensis plant that is blended with other black teas for a strong, full-bodied flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teh sarapan Inggris",
+          "long": "Jenis teh hitam yang terbuat dari daun tanaman camellia sinensis yang dicampur dengan teh hitam lainnya untuk rasa yang kuat dan bertubuh penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290493.jpeg",
+      "simplified": "英式早餐茶",
+      "traditional": "英式早餐茶",
+      "pinyin": "Yīngshì zǎocān chá"
+    },
+    {
+      "id": 290496,
+      "translation": {
+        "en": {
+          "short": "milk tea",
+          "long": "a type of tea-based beverage that typically includes black tea, milk, and sweeteners",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh susu",
+          "long": "Jenis minuman berbasis teh yang biasanya mencakup teh hitam, susu, dan pemanis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290496.jpeg",
+      "simplified": "奶茶",
+      "traditional": "奶茶",
+      "pinyin": "nǎichá"
+    },
+    {
+      "id": 290501,
+      "translation": {
+        "en": {
+          "short": "French press",
+          "long": "a manual coffee brewing device that uses steeping and pressing to extract the flavors from coffee grounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pers Prancis",
+          "long": "Perangkat pembuatan bir manual yang menggunakan penyeduhan dan penekanan untuk mengekstraksi rasa dari bubuk kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290501.jpeg",
+      "simplified": "法国媒体",
+      "traditional": "法國媒體",
+      "pinyin": "Fǎguó méitǐ"
+    },
+    {
+      "id": 290503,
+      "translation": {
+        "en": {
+          "short": "masala chai",
+          "long": "a traditional Indian tea beverage made with black tea, milk, and a blend of spices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masala chai",
+          "long": "Minuman teh India tradisional yang dibuat dengan teh hitam, susu, dan campuran rempah -rempah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290503.jpeg",
+      "simplified": "马萨拉柴",
+      "traditional": "馬薩拉柴",
+      "pinyin": "Mǎ Sà lā Chái"
+    },
+    {
+      "id": 290504,
+      "translation": {
+        "en": {
+          "short": "tea",
+          "long": "a drink we make by soaking dried tea leaves in hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh",
+          "long": "Minuman yang kami buat dengan merendam daun teh kering di air panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290504.jpeg",
+      "simplified": "茶",
+      "traditional": "茶",
+      "pinyin": "chá"
+    },
+    {
+      "id": 290507,
+      "translation": {
+        "en": {
+          "short": "Irish coffee",
+          "long": "a type of coffee drink made from espresso, Irish whiskey, and sugar, topped with cream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi Irlandia",
+          "long": "Jenis minuman kopi yang terbuat dari espresso, wiski Irlandia, dan gula, atasnya dengan krim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290507.jpeg",
+      "simplified": "爱尔兰咖啡",
+      "traditional": "愛爾蘭咖啡",
+      "pinyin": "Aìěr lán kāfēi"
+    },
+    {
+      "id": 290508,
+      "translation": {
+        "en": {
+          "short": "hot toddy",
+          "long": "a type of hot drink made from whiskey, honey, lemon, and hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Toddy panas",
+          "long": "Jenis minuman panas yang terbuat dari wiski, madu, lemon, dan air panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290508.jpeg",
+      "simplified": "热棕榈酒",
+      "traditional": "熱棕櫚酒",
+      "pinyin": "rè zōnglǘ jiǔ"
+    },
+    {
+      "id": 290509,
+      "translation": {
+        "en": {
+          "short": "hot chocolate",
+          "long": "a hot drink, made by mixing cocoa powder with water or milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "coklat panas",
+          "long": "minuman panas, dibuat dengan mencampur bubuk kakao dengan air atau susu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290509.jpeg",
+      "simplified": "热巧克力",
+      "traditional": "熱巧克力",
+      "pinyin": "rè qiǎokè lì"
+    },
+    {
+      "id": 290510,
+      "translation": {
+        "en": {
+          "short": "herbal tea",
+          "long": "a hot drink that is made by soaking different fruits, leaves, flowers, etc. in hot water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teh herbal",
+          "long": "minuman panas yang dibuat dengan merendam buah, daun, bunga, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290510.jpeg",
+      "simplified": "草药茶",
+      "traditional": "草藥茶",
+      "pinyin": "cǎoyào chá"
+    },
+    {
+      "id": 290522,
+      "translation": {
+        "en": {
+          "short": "beef tea",
+          "long": "a drink made by leaving beef in boiling water, served hot and given to patients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teh Daging Sapi",
+          "long": "minuman yang dibuat dengan meninggalkan daging sapi dalam air mendidih, disajikan panas dan diberikan kepada pasien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290522.jpeg",
+      "simplified": "牛肉茶",
+      "traditional": "牛肉茶",
+      "pinyin": "niúròu chá"
+    },
+    {
+      "id": 290524,
+      "translation": {
+        "en": {
+          "short": "chai",
+          "long": "a type of tea beverage that originated in India and typically consists of black tea, milk, and a blend of spices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chai",
+          "long": "Jenis minuman teh yang berasal dari India dan biasanya terdiri dari teh hitam, susu, dan campuran rempah -rempah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290524.jpeg",
+      "simplified": "柴",
+      "traditional": "柴",
+      "pinyin": "Chái"
+    },
+    {
+      "id": 290525,
+      "translation": {
+        "en": {
+          "short": "chocolate",
+          "long": "a type of hot drink made from cocoa powder, milk, and sugar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cokelat",
+          "long": "Jenis minuman panas yang terbuat dari bubuk kakao, susu, dan gula",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290525.jpeg",
+      "simplified": "巧克力",
+      "traditional": "巧克力",
+      "pinyin": "qiǎokè lì"
+    },
+    {
+      "id": 290527,
+      "translation": {
+        "en": {
+          "short": "decaffeinated coffee",
+          "long": "a type of coffee that has had most of its caffeine content removed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kopi tanpa kafein",
+          "long": "Jenis kopi yang telah menghilangkan sebagian besar kandungan kafeinnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290527.jpeg",
+      "simplified": "脫除咖啡因的咖啡",
+      "traditional": "脫除咖啡因的咖啡",
+      "pinyin": "tuōchú kāfēi yīn de kāfēi"
+    },
+    {
+      "id": 290529,
+      "translation": {
+        "en": {
+          "short": "double-double",
+          "long": "a term often used in Canada to refer to a coffee order with two creams and two sugars added to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "double-double",
+          "long": "Istilah yang sering digunakan di Kanada untuk merujuk pada pesanan kopi dengan dua krim dan dua gula ditambahkan ke dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290529.jpeg",
+      "simplified": "双双",
+      "traditional": "雙雙",
+      "pinyin": "Shuāng Shuāng"
+    },
+    {
+      "id": 290530,
+      "translation": {
+        "en": {
+          "short": "drinking chocolate",
+          "long": "a beverage made from melted chocolate or cocoa powder, often sweetened and mixed with milk or water, and served hot or cold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Minum cokelat",
+          "long": "minuman yang terbuat dari cokelat cair atau bubuk kakao, sering dimaniskan dan dicampur dengan susu atau air, dan disajikan panas atau dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290530.jpeg",
+      "simplified": "喝巧克力",
+      "traditional": "喝巧克力",
+      "pinyin": "hē qiǎokè lì"
+    },
+    {
+      "id": 290532,
+      "translation": {
+        "en": {
+          "short": "Joe",
+          "long": "a slang term for coffee, commonly used in North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Joe",
+          "long": "Istilah bahasa gaul untuk kopi, biasa digunakan di Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290532.jpeg",
+      "simplified": "乔",
+      "traditional": "喬",
+      "pinyin": "Qiáo"
+    },
+    {
+      "id": 290533,
+      "translation": {
+        "en": {
+          "short": "mocha",
+          "long": "a type of drink made with mocha coffee, chocolate, and milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "moka",
+          "long": "Jenis minuman yang dibuat dengan kopi moka, cokelat, dan susu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290533.jpeg",
+      "simplified": "摩卡",
+      "traditional": "摩卡",
+      "pinyin": "mókǎ"
+    },
+    {
+      "id": 290534,
+      "translation": {
+        "en": {
+          "short": "cafe au lait",
+          "long": "a coffee beverage that consists of brewed coffee and steamed milk in equal parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cafe au lait",
+          "long": "minuman kopi yang terdiri dari kopi yang diseduh dan susu kukus di bagian yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290534.jpeg",
+      "simplified": "牛奶咖啡",
+      "traditional": "牛奶咖啡",
+      "pinyin": "niúnǎi kāfēi"
+    },
+    {
+      "id": 290537,
+      "translation": {
+        "en": {
+          "short": "drip coffee",
+          "long": "a simple and popular brewing method in which hot water is poured over ground coffee beans contained in a filter, allowing the water to slowly drip through and extract the coffee flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi tetes",
+          "long": "Metode pembuatan bir yang sederhana dan populer di mana air panas dituangkan di atas biji kopi bubuk yang terkandung dalam filter, memungkinkan air secara perlahan menetes dan mengekstrak rasa kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290537.jpeg",
+      "simplified": "滴漏式咖啡",
+      "traditional": "滴漏式咖啡",
+      "pinyin": "dīlòu shì kāfēi"
+    },
+    {
+      "id": 290538,
+      "translation": {
+        "en": {
+          "short": "instant coffee",
+          "long": "a type of coffee that has been processed, brewed, and dried into a concentrated form, allowing for quick and easy preparation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi instan",
+          "long": "Jenis kopi yang telah diproses, diseduh, dan dikeringkan menjadi bentuk terkonsentrasi, memungkinkan persiapan yang cepat dan mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290538.jpeg",
+      "simplified": "即冲即饮咖啡",
+      "traditional": "即衝即飲咖啡",
+      "pinyin": "jí chōng jí yǐn kāfēi"
+    },
+    {
+      "id": 290540,
+      "translation": {
+        "en": {
+          "short": "Arabica",
+          "long": "a species of coffee plant, known for its mild and nuanced flavor profile",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arabika",
+          "long": "Spesies tanaman kopi, yang dikenal karena profil rasanya yang ringan dan bernuansa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290540.jpeg",
+      "simplified": "阿拉比卡",
+      "traditional": "阿拉比卡",
+      "pinyin": "A1lā Bǐ kǎ"
+    },
+    {
+      "id": 290541,
+      "translation": {
+        "en": {
+          "short": "robusta coffee",
+          "long": "a type of coffee plant known for its hardiness and high caffeine content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kopi Robusta",
+          "long": "Jenis tanaman kopi yang dikenal karena kekerasan dan kandungan kafein yang tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290541.jpeg",
+      "simplified": "罗布斯塔咖啡",
+      "traditional": "羅布斯塔咖啡",
+      "pinyin": "luóbù Sī tǎ kāfēi"
+    },
+    {
+      "id": 290544,
+      "translation": {
+        "en": {
+          "short": "affogato",
+          "long": "a classic Italian dessert made by pouring a shot of hot espresso over a scoop of vanilla ice cream or gelato",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "affogato",
+          "long": "Makanan penutup Italia klasik yang dibuat dengan menuangkan suntikan espresso panas di atas satu sendok es krim vanilla atau gelato",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290544.jpeg",
+      "simplified": "阿芙佳朵",
+      "traditional": "阿芙佳朵",
+      "pinyin": "A1 fú Jiā duǒ"
+    },
+    {
+      "id": 290593,
+      "translation": {
+        "en": {
+          "short": "filter coffee",
+          "long": "a method of brewing coffee in which hot water passes through coffee grounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyaring kopi",
+          "long": "Metode pembuatan kopi di mana air panas melewati bubuk kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290593.jpeg",
+      "simplified": "过滤式咖啡",
+      "traditional": "過濾式咖啡",
+      "pinyin": "guòlǜ shì kāfēi"
+    },
+    {
+      "id": 290598,
+      "translation": {
+        "en": {
+          "short": "milk coffee",
+          "long": "any type of coffee that is made with the addition of milk, either steamed or frothed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kopi susu",
+          "long": "Semua jenis kopi yang dibuat dengan penambahan susu, baik dikukus atau berbusa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290598.jpeg",
+      "simplified": "牛奶咖啡",
+      "traditional": "牛奶咖啡",
+      "pinyin": "niúnǎi kāfēi"
+    },
+    {
+      "id": 336508,
+      "translation": {
+        "en": {
+          "short": "Americano",
+          "long": "a type of coffee drink made by adding hot water to a shot or two of espresso, creating a milder and larger coffee beverage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Americano",
+          "long": "Jenis minuman kopi yang dibuat dengan menambahkan air panas ke satu atau dua bidikan espresso, menciptakan minuman kopi yang lebih ringan dan lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336508.jpeg",
+      "simplified": "美式咖啡",
+      "traditional": "美式咖啡",
+      "pinyin": "Měishì kā fēi"
+    },
+    {
+      "id": 336509,
+      "translation": {
+        "en": {
+          "short": "cafe noir",
+          "long": "a French term that refers to a simple cup of black coffee without any added milk or cream, typically made with a dark roast coffee bean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cafe noir",
+          "long": "Istilah Prancis yang mengacu pada secangkir kopi hitam sederhana tanpa susu atau krim tambahan, biasanya dibuat dengan biji kopi panggang gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336509.jpeg",
+      "simplified": "咖啡馆黑色",
+      "traditional": "咖啡館黑色",
+      "pinyin": "kāfēi guǎn hēisè"
+    },
+    {
+      "id": 336510,
+      "translation": {
+        "en": {
+          "short": "latte",
+          "long": "a drink made from espresso with steamed milk on top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "latte",
+          "long": "Minuman yang terbuat dari espresso dengan susu kukus di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336510.jpeg",
+      "simplified": "拿铁",
+      "traditional": "拿鐵",
+      "pinyin": "nátiě"
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "id": 168,
+  "title": {
+    "en": "Electronic Devices",
+    "id": "Perangkat elektronik"
+  },
+  "description": {
+    "en": "Here you will learn some English words about electronic devices, such as \"gadget\", \"mechanical\", \"update\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perangkat elektronik, seperti \"gadget\", \"mekanik\", \"pembaruan\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 213442,
+      "translation": {
+        "en": {
+          "short": "gadget",
+          "long": "a mechanical tool or an electronic device that is useful for doing something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gawai",
+          "long": "alat mekanik atau perangkat elektronik yang berguna untuk melakukan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213442.jpeg",
+      "simplified": "电子设备或工具",
+      "traditional": "電子設備或工具",
+      "pinyin": "diànzǐ shèbèi huò gōngjù"
+    },
+    {
+      "id": 213443,
+      "translation": {
+        "en": {
+          "short": "device",
+          "long": "a portable electronic gadet that can connect to the internet, such as a laptop, smartphone, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat",
+          "long": "Gadet elektronik portabel yang dapat terhubung ke internet, seperti laptop, smartphone, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213443.jpeg",
+      "simplified": "设备",
+      "traditional": "裝置",
+      "pinyin": "shèbèi"
+    },
+    {
+      "id": 213445,
+      "translation": {
+        "en": {
+          "short": "mechanical",
+          "long": "(of an object) powered by machinery or an engine",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mekanis",
+          "long": "(dari suatu objek) ditenagai oleh mesin atau mesin",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213445.jpeg",
+      "simplified": "机械的",
+      "traditional": "機械的",
+      "pinyin": "jīxiè de"
+    },
+    {
+      "id": 213446,
+      "translation": {
+        "en": {
+          "short": "electronic",
+          "long": "(of a device) having very small parts such as chips and obtaining power from electricity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "elektronik",
+          "long": "(dari suatu perangkat) memiliki bagian yang sangat kecil seperti chip dan mendapatkan daya dari listrik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213446.jpeg",
+      "simplified": "电子的",
+      "traditional": "電子的",
+      "pinyin": "diànzǐ de"
+    },
+    {
+      "id": 213448,
+      "translation": {
+        "en": {
+          "short": "ingenious",
+          "long": "(of an idea, object, etc.) unique and working very well which has resulted from creativity and clever thinking",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berbakat",
+          "long": "(ide, objek, dll.) Unik dan bekerja dengan sangat baik yang dihasilkan dari kreativitas dan pemikiran yang cerdas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213448.jpeg",
+      "simplified": "巧妙",
+      "traditional": "巧妙",
+      "pinyin": "qiǎomiào"
+    },
+    {
+      "id": 213474,
+      "translation": {
+        "en": {
+          "short": "intuitive",
+          "long": "(of computer software) easily learnt and understood, therefore making usage simpler",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "intuitif",
+          "long": "(perangkat lunak komputer) dengan mudah dipelajari dan dipahami, oleh karena itu membuat penggunaan lebih sederhana",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213474.jpeg",
+      "simplified": "方便使用的",
+      "traditional": "方便使用的",
+      "pinyin": "fāngbiàn shǐyòng de"
+    },
+    {
+      "id": 213470,
+      "translation": {
+        "en": {
+          "short": "latest",
+          "long": "referring to the most recent or newest version of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terbaru",
+          "long": "mengacu pada versi terbaru atau terbaru dari sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213470.jpeg",
+      "simplified": "最新版本或型号",
+      "traditional": "最新版本或型號",
+      "pinyin": "zuìxīn bǎnběn huò xínghào"
+    },
+    {
+      "id": 213476,
+      "translation": {
+        "en": {
+          "short": "obsolete",
+          "long": "outdated and gone out of use because a new thing has replaced it",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "usang",
+          "long": "usang dan tidak digunakan karena hal baru telah menggantinya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213476.jpeg",
+      "simplified": "过时的",
+      "traditional": "過時的",
+      "pinyin": "guòshí de"
+    },
+    {
+      "id": 213475,
+      "translation": {
+        "en": {
+          "short": "outdated",
+          "long": "no longer matching the current trends or standards because of being too old",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "usang",
+          "long": "tidak lagi cocok dengan tren atau standar saat ini karena terlalu tua",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213475.jpeg",
+      "simplified": "过时",
+      "traditional": "過時",
+      "pinyin": "guòshí"
+    },
+    {
+      "id": 213449,
+      "translation": {
+        "en": {
+          "short": "novel",
+          "long": "new and unlike anything else",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "novel",
+          "long": "Baru dan tidak seperti yang lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213449.jpeg",
+      "simplified": "新的",
+      "traditional": "新的",
+      "pinyin": "Xīn de"
+    },
+    {
+      "id": 213451,
+      "translation": {
+        "en": {
+          "short": "to power",
+          "long": "to supply with the needed energy to make something work",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kekuatan",
+          "long": "untuk memasok dengan energi yang dibutuhkan untuk membuat sesuatu bekerja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213451.jpeg",
+      "simplified": "上台",
+      "traditional": "上台",
+      "pinyin": "shàngtái"
+    },
+    {
+      "id": 213457,
+      "translation": {
+        "en": {
+          "short": "to charge",
+          "long": "to fill an electronic device with energy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengisi",
+          "long": "untuk mengisi perangkat elektronik dengan energi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213457.jpeg",
+      "simplified": "为设备充电",
+      "traditional": "為設備充電",
+      "pinyin": "wéi shèbèi chōngdiàn"
+    },
+    {
+      "id": 213458,
+      "translation": {
+        "en": {
+          "short": "to recharge",
+          "long": "to refill an electronic device with energy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengisi ulang",
+          "long": "untuk mengisi ulang perangkat elektronik dengan energi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213458.jpeg",
+      "simplified": "收费",
+      "traditional": "收費",
+      "pinyin": "shōufèi"
+    },
+    {
+      "id": 213459,
+      "translation": {
+        "en": {
+          "short": "to drain",
+          "long": "to gradually or completely use up the available resources",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menguras",
+          "long": "untuk secara bertahap atau sepenuhnya menggunakan sumber daya yang tersedia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213459.jpeg",
+      "simplified": "排水",
+      "traditional": "排水",
+      "pinyin": "páishuǐ"
+    },
+    {
+      "id": 213462,
+      "translation": {
+        "en": {
+          "short": "to boot",
+          "long": "to start a computer, typically involves setting up hardware elements to prepare the computer for use",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk boot",
+          "long": "Untuk memulai komputer, biasanya melibatkan pengaturan elemen perangkat keras untuk menyiapkan komputer untuk digunakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213462.jpeg",
+      "simplified": "启动",
+      "traditional": "啟動",
+      "pinyin": "qǐdòng"
+    },
+    {
+      "id": 213463,
+      "translation": {
+        "en": {
+          "short": "to start up",
+          "long": "(of an electronic device or machine) to start working",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk memulai",
+          "long": "(dari perangkat atau mesin elektronik) untuk mulai bekerja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213463.jpeg",
+      "simplified": "发动",
+      "traditional": "發動",
+      "pinyin": "fādòng"
+    },
+    {
+      "id": 213464,
+      "translation": {
+        "en": {
+          "short": "to shut down",
+          "long": "to make something stop working",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ditutup",
+          "long": "untuk membuat sesuatu berhenti bekerja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213464.jpeg",
+      "simplified": "关",
+      "traditional": "關",
+      "pinyin": "Guān"
+    },
+    {
+      "id": 213466,
+      "translation": {
+        "en": {
+          "short": "to update",
+          "long": "to make something more useful or modern by adding the most recent information to it, improving its faults, or making new features available for it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperbaharui",
+          "long": "Untuk membuat sesuatu yang lebih bermanfaat atau modern dengan menambahkan informasi terbaru ke dalamnya, meningkatkan kesalahannya, atau membuat fitur baru tersedia untuk itu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213466.jpeg",
+      "simplified": "更新一些东西",
+      "traditional": "更新一些東西",
+      "pinyin": "gēngxīn yīxiē dōngxī"
+    },
+    {
+      "id": 213450,
+      "translation": {
+        "en": {
+          "short": "battery",
+          "long": "an object that turns chemical energy to electricity to give power to a device or machine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baterai",
+          "long": "objek yang mengubah energi kimia menjadi listrik untuk memberikan daya ke perangkat atau mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213450.jpeg",
+      "simplified": "电池",
+      "traditional": "電池",
+      "pinyin": "diànchí"
+    },
+    {
+      "id": 213453,
+      "translation": {
+        "en": {
+          "short": "capacity",
+          "long": "the quantity that is possible by a machine, etc. to produce",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapasitas",
+          "long": "Jumlah yang dimungkinkan oleh mesin, dll untuk menghasilkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213453.jpeg",
+      "simplified": "容量",
+      "traditional": "容量",
+      "pinyin": "róngliàng"
+    },
+    {
+      "id": 213469,
+      "translation": {
+        "en": {
+          "short": "signal",
+          "long": "a series of electrical or radio waves carrying data to a radio, television station, or mobile phone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinyal",
+          "long": "Serangkaian gelombang listrik atau radio yang membawa data ke radio, stasiun televisi, atau ponsel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213469.jpeg",
+      "simplified": "信号",
+      "traditional": "訊號",
+      "pinyin": "xìnhào"
+    },
+    {
+      "id": 213471,
+      "translation": {
+        "en": {
+          "short": "generation",
+          "long": "a class or step of technological development",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "generasi",
+          "long": "kelas atau langkah pengembangan teknologi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213471.jpeg",
+      "simplified": "代",
+      "traditional": "代",
+      "pinyin": "dài"
+    },
+    {
+      "id": 213465,
+      "translation": {
+        "en": {
+          "short": "process",
+          "long": "the occurrence of a program that is being run by an operating system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "proses",
+          "long": "Terjadinya program yang dijalankan oleh sistem operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213465.jpeg",
+      "simplified": "过程",
+      "traditional": "過程",
+      "pinyin": "guòchéng"
+    },
+    {
+      "id": 213478,
+      "translation": {
+        "en": {
+          "short": "charger",
+          "long": "a device that can refill a battery with electrical energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengisi daya",
+          "long": "perangkat yang dapat mengisi ulang baterai dengan energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213478.jpeg",
+      "simplified": "充电器",
+      "traditional": "充電器",
+      "pinyin": "chōngdiàn qì"
+    },
+    {
+      "id": 213480,
+      "translation": {
+        "en": {
+          "short": "cable",
+          "long": "a wire for transmitting electricity that is protected within a rubber case",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel",
+          "long": "Kawat untuk mentransmisikan listrik yang dilindungi dalam wadah karet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213480.jpeg",
+      "simplified": "电缆",
+      "traditional": "電纜",
+      "pinyin": "diànlǎn"
+    },
+    {
+      "id": 213479,
+      "translation": {
+        "en": {
+          "short": "memory",
+          "long": "a piece of electronic object in a computer where data is stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyimpanan",
+          "long": "Sepotong objek elektronik di komputer tempat data disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213479.jpeg",
+      "simplified": "设备内存",
+      "traditional": "設備內存",
+      "pinyin": "shèbèi nèicún"
+    },
+    {
+      "id": 213484,
+      "translation": {
+        "en": {
+          "short": "screen",
+          "long": "the visual data shown on a smartphone or computer monitor or display",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layar",
+          "long": "Data visual yang ditampilkan pada smartphone atau monitor atau tampilan komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213484.jpeg",
+      "simplified": "显示屏",
+      "traditional": "顯示屏",
+      "pinyin": "xiǎnshì píng"
+    },
+    {
+      "id": 213482,
+      "translation": {
+        "en": {
+          "short": "controller",
+          "long": "a piece of equipment by which a machine is operated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengontrol",
+          "long": "sepotong peralatan yang digunakan mesin dioperasikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213482.jpeg",
+      "simplified": "设备控制器",
+      "traditional": "設備控制器",
+      "pinyin": "shèbèi kòngzhì qì"
+    },
+    {
+      "id": 213483,
+      "translation": {
+        "en": {
+          "short": "control panel",
+          "long": "a flat screen with the controls of a machine or device on it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panel kendali",
+          "long": "Layar datar dengan kontrol mesin atau perangkat di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213483.jpeg",
+      "simplified": "操纵台",
+      "traditional": "操縱台",
+      "pinyin": "cāozòng Tái"
+    },
+    {
+      "id": 237249,
+      "translation": {
+        "en": {
+          "short": "microscope",
+          "long": "an instrument that makes looking at tiny objects or organisms possible by enlarging them which is useful in scientific studies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mikroskop",
+          "long": "Instrumen yang membuat melihat benda -benda kecil atau organisme yang dimungkinkan dengan memperbesar mereka yang berguna dalam studi ilmiah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237249.jpeg",
+      "simplified": "显微镜",
+      "traditional": "顯微鏡",
+      "pinyin": "xiǎnwēi jìng"
+    },
+    {
+      "id": 237250,
+      "translation": {
+        "en": {
+          "short": "magnifying glass",
+          "long": "a glassy object that is capable of making small objects seem larger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaca pembesar",
+          "long": "objek kaca yang mampu membuat benda kecil tampak lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237250.jpeg",
+      "simplified": "放大玻璃",
+      "traditional": "放大玻璃",
+      "pinyin": "fàngdà bōli"
+    },
+    {
+      "id": 251458,
+      "translation": {
+        "en": {
+          "short": "compass",
+          "long": "a device with a needle that always points to the north, used to find direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kompas",
+          "long": "perangkat dengan jarum yang selalu menunjuk ke utara, digunakan untuk menemukan arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/251458.jpeg",
+      "simplified": "罗盘",
+      "traditional": "羅盤",
+      "pinyin": "luópán"
+    },
+    {
+      "id": 213485,
+      "translation": {
+        "en": {
+          "short": "drone",
+          "long": "a flying vehicle such as an aircraft that is controlled from afar and has no pilot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dengung",
+          "long": "Kendaraan terbang seperti pesawat terbang yang dikendalikan dari jauh dan tidak memiliki pilot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213485.jpeg",
+      "simplified": "远程无人机",
+      "traditional": "遠程無人機",
+      "pinyin": "yuǎnchéng wúrén jī"
+    },
+    {
+      "id": 263586,
+      "translation": {
+        "en": {
+          "short": "cutting-edge",
+          "long": "having the latest and most advanced features",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "canggih",
+          "long": "Memiliki fitur terbaru dan paling canggih",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263586.jpeg",
+      "simplified": "最现代的",
+      "traditional": "最現代的",
+      "pinyin": "zuì Xiàndài de"
+    },
+    {
+      "id": 292878,
+      "translation": {
+        "en": {
+          "short": "off",
+          "long": "used to describe the state of something such as an electrical device, machine, etc., when it is not being used or powered",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "mati",
+          "long": "digunakan untuk menggambarkan keadaan sesuatu seperti perangkat listrik, mesin, dll., Saat tidak digunakan atau didukung",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/292878.jpeg",
+      "simplified": "离开",
+      "traditional": "離開",
+      "pinyin": "líkāi"
+    },
+    {
+      "id": 389139,
+      "translation": {
+        "en": {
+          "short": "touchscreen",
+          "long": "a display by which the user can interact with a computer, smartphone, etc. by touching its surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layar sentuh",
+          "long": "Tampilan yang dengannya pengguna dapat berinteraksi dengan komputer, smartphone, dll. Dengan menyentuh permukaannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389139.jpeg",
+      "simplified": "触摸屏",
+      "traditional": "觸控螢幕",
+      "pinyin": "chùmō píng"
+    }
+  ]
+}

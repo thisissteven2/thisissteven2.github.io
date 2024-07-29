@@ -1,0 +1,697 @@
+{
+  "id": 578,
+  "title": {
+    "en": "The Immune System",
+    "id": "Sistem kekebalan tubuh"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the immune system, such as \"antibody\", \"basophil\", and \"lymphocyte\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan sistem kekebalan tubuh, seperti \"antibodi\", \"basofil\", dan \"limfosit\"."
+  },
+  "cards": [
+    {
+      "id": 272135,
+      "translation": {
+        "en": {
+          "short": "white blood cell",
+          "long": "one of the many cells that protects the body against diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel darah putih",
+          "long": "salah satu dari banyak sel yang melindungi tubuh dari penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272135.jpeg",
+      "simplified": "白细胞",
+      "traditional": "白細胞",
+      "pinyin": "báixì bāo"
+    },
+    {
+      "id": 271962,
+      "translation": {
+        "en": {
+          "short": "antibody",
+          "long": "a blood protein produced to fight diseases or infections, or in response to foreign substances in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antibodi",
+          "long": "protein darah yang dihasilkan untuk melawan penyakit atau infeksi, atau sebagai respons terhadap zat asing dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271962.jpeg",
+      "simplified": "抗体",
+      "traditional": "抗體",
+      "pinyin": "kàngtǐ"
+    },
+    {
+      "id": 271963,
+      "translation": {
+        "en": {
+          "short": "antigen",
+          "long": "any foreign substance in the body that can trigger a response from the immune system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antigen",
+          "long": "zat asing apa pun dalam tubuh yang dapat memicu respons dari sistem kekebalan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271963.jpeg",
+      "simplified": "抗原",
+      "traditional": "抗原",
+      "pinyin": "kàngyuán"
+    },
+    {
+      "id": 271964,
+      "translation": {
+        "en": {
+          "short": "basophil",
+          "long": "a type of white blood cell involved in allergic reactions and immune responses in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "basofil",
+          "long": "Jenis sel darah putih yang terlibat dalam reaksi alergi dan respons imun dalam tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271964.jpeg",
+      "simplified": "嗜碱性粒细胞",
+      "traditional": "嗜鹼性粒細胞",
+      "pinyin": "shìjiǎn xìng lì xì bāo"
+    },
+    {
+      "id": 272023,
+      "translation": {
+        "en": {
+          "short": "lymphocyte",
+          "long": "a type of white blood cell involved in the immune response, responsible for recognizing and destroying foreign invaders in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limfosit",
+          "long": "Jenis sel darah putih yang terlibat dalam respons imun, bertanggung jawab untuk mengenali dan menghancurkan penjajah asing di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272023.jpeg",
+      "simplified": "淋巴细胞",
+      "traditional": "淋巴細胞",
+      "pinyin": "línbā xì bāo"
+    },
+    {
+      "id": 271967,
+      "translation": {
+        "en": {
+          "short": "B lymphocyte",
+          "long": "an immune cell that produces antibodies to help protect the body against infections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "B limfosit",
+          "long": "sel kekebalan tubuh yang menghasilkan antibodi untuk membantu melindungi tubuh dari infeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271967.jpeg",
+      "simplified": "B淋巴细胞",
+      "traditional": "B淋巴細胞",
+      "pinyin": "bī línbā xì bāo"
+    },
+    {
+      "id": 272000,
+      "translation": {
+        "en": {
+          "short": "T lymphocyte",
+          "long": "a type of white blood cell that plays a central role in the immune response by recognizing and attacking infected or abnormal cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "T limfosit",
+          "long": "Jenis sel darah putih yang memainkan peran sentral dalam respons imun dengan mengenali dan menyerang sel yang terinfeksi atau abnormal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272000.jpeg",
+      "simplified": "T淋巴细胞",
+      "traditional": "T淋巴細胞",
+      "pinyin": "T línbā xì bāo"
+    },
+    {
+      "id": 271966,
+      "translation": {
+        "en": {
+          "short": "antigen-presenting cell",
+          "long": "a type of immune cell that displays foreign antigens on its surface to activate other cells of the immune system, such as T cells and B cells, to mount an immune response against the pathogen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel penyaji antigen",
+          "long": "Jenis sel kekebalan tubuh yang menampilkan antigen asing pada permukaannya untuk mengaktifkan sel -sel lain dari sistem kekebalan tubuh, seperti sel T dan sel B, untuk memasang respons imun terhadap patogen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271966.jpeg",
+      "simplified": "抗原呈递细胞",
+      "traditional": "抗原呈遞細胞",
+      "pinyin": "kàngyuán chéngdì xìbāo"
+    },
+    {
+      "id": 271968,
+      "translation": {
+        "en": {
+          "short": "cytokine",
+          "long": "a small protein that regulates immune responses and cell communication in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sitokin",
+          "long": "protein kecil yang mengatur respons imun dan komunikasi sel dalam tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271968.jpeg",
+      "simplified": "细胞因子",
+      "traditional": "細胞因子",
+      "pinyin": "xìbāo yīn zǐ"
+    },
+    {
+      "id": 272053,
+      "translation": {
+        "en": {
+          "short": "monocyte",
+          "long": "a type of white blood cell involved in immune responses and inflammation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monosit",
+          "long": "Jenis sel darah putih yang terlibat dalam respons imun dan peradangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272053.jpeg",
+      "simplified": "单核细胞",
+      "traditional": "單核細胞",
+      "pinyin": "dānhé xì bāo"
+    },
+    {
+      "id": 271973,
+      "translation": {
+        "en": {
+          "short": "memory B cell",
+          "long": "an immune cell that can respond more quickly and effectively to a pathogen upon re-exposure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel B memori",
+          "long": "sel kekebalan yang dapat merespons lebih cepat dan efektif terhadap patogen saat paparan ulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271973.jpeg",
+      "simplified": "内存B单元",
+      "traditional": "內存B單元",
+      "pinyin": "nèicún bī dānyuán"
+    },
+    {
+      "id": 272017,
+      "translation": {
+        "en": {
+          "short": "memory T cell",
+          "long": "an immune cell that retains information about previously encountered pathogens to mount a quicker and more efficient immune response upon re-exposure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel T memori",
+          "long": "sel kekebalan yang menyimpan informasi tentang patogen yang ditemui sebelumnya untuk memasang respons imun yang lebih cepat dan lebih efisien saat paparan ulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272017.jpeg",
+      "simplified": "记忆T单元格",
+      "traditional": "記憶T單元格",
+      "pinyin": "jìyì T dānyuán gé"
+    },
+    {
+      "id": 271977,
+      "translation": {
+        "en": {
+          "short": "plasma cell",
+          "long": "a mature B lymphocyte that secretes antibodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel plasma",
+          "long": "Limfosit B dewasa yang mengeluarkan antibodi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271977.jpeg",
+      "simplified": "浆细胞",
+      "traditional": "漿細胞",
+      "pinyin": "jiāng xìbāo"
+    },
+    {
+      "id": 271979,
+      "translation": {
+        "en": {
+          "short": "dendritic cell",
+          "long": "a type of immune cell that plays a critical role in presenting antigens to other immune cells, helping to initiate and regulate immune responses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel dendritik",
+          "long": "Jenis sel kekebalan yang memainkan peran penting dalam menyajikan antigen ke sel kekebalan tubuh lainnya, membantu memulai dan mengatur respons imun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271979.jpeg",
+      "simplified": "树突状细胞",
+      "traditional": "樹突狀細胞",
+      "pinyin": "shùtū zhuàng xì bāo"
+    },
+    {
+      "id": 271993,
+      "translation": {
+        "en": {
+          "short": "granulocyte",
+          "long": "a type of white blood cell characterized by cytoplasmic granules and involved in the body's immune response",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Granulosit",
+          "long": "Jenis sel darah putih yang ditandai dengan butiran sitoplasma dan terlibat dalam respons imun tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271993.jpeg",
+      "simplified": "粒细胞",
+      "traditional": "粒細胞",
+      "pinyin": "lìxì bāo"
+    },
+    {
+      "id": 271997,
+      "translation": {
+        "en": {
+          "short": "human leukocyte antigen",
+          "long": "a group of proteins that are found on the surface of cells and play a key role in the immune system recognition and response",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Antigen leukosit manusia",
+          "long": "Sekelompok protein yang ditemukan di permukaan sel dan memainkan peran kunci dalam pengenalan dan respons sistem kekebalan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271997.jpeg",
+      "simplified": "人白细胞抗原",
+      "traditional": "人白細胞抗原",
+      "pinyin": "rén báixì bāo kàngyuán"
+    },
+    {
+      "id": 272002,
+      "translation": {
+        "en": {
+          "short": "cytotoxic t cell",
+          "long": "a type of immune cell that can directly kill infected or abnormal cells in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel T sitotoksik",
+          "long": "Jenis sel kekebalan yang dapat secara langsung membunuh sel yang terinfeksi atau abnormal dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272002.jpeg",
+      "simplified": "细胞毒性T细胞",
+      "traditional": "細胞毒性T細胞",
+      "pinyin": "xìbāo dú xìng T xìbāo"
+    },
+    {
+      "id": 272018,
+      "translation": {
+        "en": {
+          "short": "helper T cell",
+          "long": "a type of immune cell that plays a central role in coordinating and regulating immune responses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel T helper",
+          "long": "Jenis sel kekebalan tubuh yang memainkan peran sentral dalam mengoordinasikan dan mengatur respons imun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272018.jpeg",
+      "simplified": "助手T细胞",
+      "traditional": "助手T細胞",
+      "pinyin": "zhùshǒu T xìbāo"
+    },
+    {
+      "id": 272021,
+      "translation": {
+        "en": {
+          "short": "regulatory T cell",
+          "long": "a type of immune cell that helps maintain immune balance and prevent excessive immune responses in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sel T Regulatory",
+          "long": "Jenis sel kekebalan tubuh yang membantu menjaga keseimbangan kekebalan tubuh dan mencegah respons kekebalan yang berlebihan dalam tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272021.jpeg",
+      "simplified": "调节性T细胞",
+      "traditional": "調節性T細胞",
+      "pinyin": "tiáojié xìng T xìbāo"
+    },
+    {
+      "id": 272044,
+      "translation": {
+        "en": {
+          "short": "major histocompatibility complex ",
+          "long": "a set of genes that help the immune system recognize and respond to foreign substances in the body by presenting them to immune cells for identification",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kompleks histokompatibilitas utama ",
+          "long": "satu set gen yang membantu sistem kekebalan mengenali dan merespons zat asing dalam tubuh dengan menyajikannya ke sel kekebalan tubuh untuk identifikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272044.jpeg",
+      "simplified": "主要的组织相容性复合物 ",
+      "traditional": "主要的組織相容性複合物 ",
+      "pinyin": "zhǔyào de zǔzhī xiāngróng xìng fùhé wù"
+    },
+    {
+      "id": 272048,
+      "translation": {
+        "en": {
+          "short": "macrophage",
+          "long": "a type of white blood cell that engulfs and destroys foreign substances, pathogens, and cellular debris in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makrofag",
+          "long": "Jenis sel darah putih yang menelan dan menghancurkan zat asing, patogen, dan puing -puing seluler di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272048.jpeg",
+      "simplified": "巨噬细胞",
+      "traditional": "巨噬細胞",
+      "pinyin": "jùshì xì bāo"
+    },
+    {
+      "id": 272049,
+      "translation": {
+        "en": {
+          "short": "phagocyte",
+          "long": "a type of immune cell in the human body that engulfs and eliminates pathogens and foreign particles through the process of phagocytosis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fagosit",
+          "long": "Jenis sel kekebalan tubuh dalam tubuh manusia yang menelan dan menghilangkan patogen dan partikel asing melalui proses fagositosis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272049.jpeg",
+      "simplified": "吞噬细胞",
+      "traditional": "吞噬細胞",
+      "pinyin": "tūnshì xì bāo"
+    },
+    {
+      "id": 272052,
+      "translation": {
+        "en": {
+          "short": "mast cell",
+          "long": "a type of immune cell that releases chemical mediators involved in allergic reactions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel mast",
+          "long": "Jenis sel kekebalan yang melepaskan mediator kimia yang terlibat dalam reaksi alergi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272052.jpeg",
+      "simplified": "肥大细胞",
+      "traditional": "肥大細胞",
+      "pinyin": "féidà xìbāo"
+    },
+    {
+      "id": 272081,
+      "translation": {
+        "en": {
+          "short": "neutrophil",
+          "long": "a type of white blood cell that helps defend the body against bacterial infections by engulfing and destroying bacteria",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "neutrofil",
+          "long": "Jenis sel darah putih yang membantu mempertahankan tubuh terhadap infeksi bakteri dengan menelan dan menghancurkan bakteri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272081.jpeg",
+      "simplified": "中性粒细胞",
+      "traditional": "中性粒細胞",
+      "pinyin": "zhōngxìng lì xì bāo"
+    },
+    {
+      "id": 272097,
+      "translation": {
+        "en": {
+          "short": "leukocyte",
+          "long": "a key component of the immune system responsible for defending the body against infections and diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "leukosit",
+          "long": "Komponen kunci dari sistem kekebalan tubuh yang bertanggung jawab untuk mempertahankan tubuh terhadap infeksi dan penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272097.jpeg",
+      "simplified": "白细胞",
+      "traditional": "白細胞",
+      "pinyin": "báixì bāo"
+    },
+    {
+      "id": 272103,
+      "translation": {
+        "en": {
+          "short": "myeloid-derived suppressor cell",
+          "long": "a type of immune cell that has the ability to suppress immune responses, and they are often associated with pathological conditions such as cancer and inflammation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sel penekan yang diturunkan myeloid",
+          "long": "Jenis sel kekebalan yang memiliki kemampuan untuk menekan respons imun, dan mereka sering dikaitkan dengan kondisi patologis seperti kanker dan peradangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272103.jpeg",
+      "simplified": "髓样衍生的抑制细胞",
+      "traditional": "髓樣衍生的抑制細胞",
+      "pinyin": "suǐ yàng yǎnshēng de yìzhì xìbāo"
+    },
+    {
+      "id": 272082,
+      "translation": {
+        "en": {
+          "short": "eosinophil",
+          "long": "a specialized type of white blood cell found in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Eosinofil",
+          "long": "Jenis sel darah putih khusus yang ditemukan di tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272082.jpeg",
+      "simplified": "嗜酸性粒细胞",
+      "traditional": "嗜酸性粒細胞",
+      "pinyin": "shìsuān xìng lì xì bāo"
+    },
+    {
+      "id": 272146,
+      "translation": {
+        "en": {
+          "short": "natural killer cell",
+          "long": "a type of immune cell that is capable of recognizing and destroying infected or cancerous cells in the body without prior sensitization or activation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel pembunuh alami",
+          "long": "Jenis sel kekebalan yang mampu mengenali dan menghancurkan sel yang terinfeksi atau kanker dalam tubuh tanpa sensitisasi atau aktivasi sebelumnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272146.jpeg",
+      "simplified": "天然杀手细胞",
+      "traditional": "天然殺手細胞",
+      "pinyin": "tiānrán shāshǒu xìbāo"
+    },
+    {
+      "id": 273106,
+      "translation": {
+        "en": {
+          "short": "adenoid",
+          "long": "(usually plural) each of the pair of large lymphoid tissues high up in the throat and behind the nose that have to be removed if swollen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "adenoide",
+          "long": "(biasanya jamak) Masing -masing dari pasangan jaringan limfoid besar tinggi di tenggorokan dan di belakang hidung yang harus diangkat jika bengkak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273106.jpeg",
+      "simplified": "腺样体",
+      "traditional": "腺樣體",
+      "pinyin": "xiànyàng tǐ"
+    },
+    {
+      "id": 273107,
+      "translation": {
+        "en": {
+          "short": "tonsil",
+          "long": "(anatomy) each of the pair of lymphoid tissues in the pharynx at the side of the tongue root",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tonsil",
+          "long": "(Anatomi) Masing -masing pasangan jaringan limfoid di faring di sisi akar lidah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273107.jpeg",
+      "simplified": "扁桃体",
+      "traditional": "扁桃體",
+      "pinyin": "biǎntáo tǐ"
+    },
+    {
+      "id": 273111,
+      "translation": {
+        "en": {
+          "short": "spleen",
+          "long": "(anatomy) an abdominal organ that controls the quality of the blood cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limpa",
+          "long": "(Anatomi) Organ perut yang mengontrol kualitas sel darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273111.jpeg",
+      "simplified": "脾",
+      "traditional": "脾",
+      "pinyin": "pí"
+    },
+    {
+      "id": 273264,
+      "translation": {
+        "en": {
+          "short": "lymph node",
+          "long": "a small organ in the lymphatic system that filters and traps foreign substances, helping to fight infections and support immune responses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelenjar getah bening",
+          "long": "Organ kecil dalam sistem limfatik yang menyaring dan menjebak zat asing, membantu melawan infeksi dan mendukung respons imun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273264.jpeg",
+      "simplified": "淋巴结",
+      "traditional": "淋巴結",
+      "pinyin": "línbā jié"
+    },
+    {
+      "id": 329076,
+      "translation": {
+        "en": {
+          "short": "macrocyte",
+          "long": "an abnormally large red blood cell found in the bloodstream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Makrosit",
+          "long": "sel darah merah besar yang tidak normal ditemukan di aliran darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329076.jpeg",
+      "simplified": "大细胞",
+      "traditional": "大細胞",
+      "pinyin": "dà xìbāo"
+    },
+    {
+      "id": 329079,
+      "translation": {
+        "en": {
+          "short": "microcyte",
+          "long": "an abnormally small red blood cell that can indicate certain types of anemia or underlying health conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mikrokit",
+          "long": "sel darah merah kecil yang tidak normal yang dapat menunjukkan jenis anemia tertentu atau kondisi kesehatan yang mendasarinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329079.jpeg",
+      "simplified": "小细胞",
+      "traditional": "小細胞",
+      "pinyin": "xiǎo xìbāo"
+    },
+    {
+      "id": 329135,
+      "translation": {
+        "en": {
+          "short": "reticulocyte",
+          "long": "an immature form of a red blood cell that indicates active blood cell production in the bone marrow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "retikulosit",
+          "long": "Bentuk tidak matang dari sel darah merah yang menunjukkan produksi sel darah aktif di sumsum tulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329135.jpeg",
+      "simplified": "网状细胞",
+      "traditional": "網狀細胞",
+      "pinyin": "wǎng zhuàng xìbāo"
+    },
+    {
+      "id": 329137,
+      "translation": {
+        "en": {
+          "short": "poikilocyte",
+          "long": "an abnormally shaped red blood cell that deviates from the normal biconcave disc shape, often seen in certain blood disorders or pathologies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "poikilocyte",
+          "long": "sel darah merah berbentuk abnormal yang menyimpang dari bentuk cakram bikoncave normal, sering terlihat pada gangguan darah atau patologi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329137.jpeg",
+      "simplified": "异色红细胞",
+      "traditional": "異色紅細胞",
+      "pinyin": "yì sè hóngxì bāo"
+    }
+  ]
+}

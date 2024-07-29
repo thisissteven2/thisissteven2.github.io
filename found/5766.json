@@ -1,0 +1,944 @@
+{
+  "id": 5766,
+  "title": {
+    "en": "Establishments and Academies",
+    "id": "Perusahaan dan akademi"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to establishments and academies such as \"community college\", \"art school\", and \"conservatory\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan perusahaan dan akademi seperti \"community college\", \"sekolah seni\", dan \"konservatori\"."
+  },
+  "cards": [
+    {
+      "id": 394025,
+      "translation": {
+        "en": {
+          "short": "day school",
+          "long": "a school where students attend classes during the day and return home in the evenings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah harian",
+          "long": "sekolah tempat siswa menghadiri kelas di siang hari dan kembali ke rumah di malam hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394025.jpeg",
+      "simplified": "走读学校",
+      "traditional": "走讀學校",
+      "pinyin": "zǒudú xuéxiào"
+    },
+    {
+      "id": 394026,
+      "translation": {
+        "en": {
+          "short": "night school",
+          "long": "a school offering classes in the evening, allowing working adults to attend outside of typical daytime hours",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah malam",
+          "long": "Sekolah yang menawarkan kelas di malam hari, memungkinkan orang dewasa yang bekerja untuk hadir di luar jam -jam siang hari yang khas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394026.jpeg",
+      "simplified": "夜校",
+      "traditional": "夜校",
+      "pinyin": "yèxiào"
+    },
+    {
+      "id": 392755,
+      "translation": {
+        "en": {
+          "short": "public school",
+          "long": "a school that is funded and operated by the government and is typically open to all students within a certain geographic area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah negeri",
+          "long": "sebuah sekolah yang didanai dan dioperasikan oleh pemerintah dan biasanya terbuka untuk semua siswa dalam wilayah geografis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392755.jpeg",
+      "simplified": "公立学校",
+      "traditional": "公立學校",
+      "pinyin": "gōnglì xué xiào"
+    },
+    {
+      "id": 392759,
+      "translation": {
+        "en": {
+          "short": "state school",
+          "long": "a school that provides free education due to being funded by the government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah negeri",
+          "long": "sebuah sekolah yang menyediakan pendidikan gratis karena didanai oleh pemerintah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392759.jpeg",
+      "simplified": "公立学校",
+      "traditional": "公立學校",
+      "pinyin": "gōnglì xué xiào"
+    },
+    {
+      "id": 392757,
+      "translation": {
+        "en": {
+          "short": "private school",
+          "long": "a school that receives money from the parents of the students instead of the government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah swasta",
+          "long": "sebuah sekolah yang menerima uang dari orang tua siswa, bukan pemerintah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392757.jpeg",
+      "simplified": "私立学校",
+      "traditional": "私立學校",
+      "pinyin": "sīlì xué xiào"
+    },
+    {
+      "id": 392763,
+      "translation": {
+        "en": {
+          "short": "independent school",
+          "long": "a private educational institution that operates independently of government control, often funded by tuition fees, donations, and endowments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah independen",
+          "long": "lembaga pendidikan swasta yang beroperasi secara independen dari kontrol pemerintah, sering didanai oleh biaya kuliah, sumbangan, dan endowmen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392763.jpeg",
+      "simplified": "独立学院",
+      "traditional": "獨立學院",
+      "pinyin": "dúlì xuéyuàn"
+    },
+    {
+      "id": 392758,
+      "translation": {
+        "en": {
+          "short": "boarding school",
+          "long": "a school where students live and study during the school year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Berasrama",
+          "long": "sekolah tempat siswa tinggal dan belajar selama tahun ajaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392758.jpeg",
+      "simplified": "寄宿学校",
+      "traditional": "寄宿學校",
+      "pinyin": "jìsù xué xiào"
+    },
+    {
+      "id": 392766,
+      "translation": {
+        "en": {
+          "short": "state university",
+          "long": "a public college funded by the government of the state where it is located",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Universitas Negeri",
+          "long": "sebuah perguruan tinggi negeri yang didanai oleh pemerintah negara bagian tempat ia berada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392766.jpeg",
+      "simplified": "州立大学",
+      "traditional": "州立大學",
+      "pinyin": "Zhōulì Dà xué"
+    },
+    {
+      "id": 392767,
+      "translation": {
+        "en": {
+          "short": "community college",
+          "long": "a two-year college providing higher education, primarily for students from the local community",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Komunitas kampus",
+          "long": "Sebuah perguruan tinggi dua tahun yang menyediakan pendidikan tinggi, terutama untuk siswa dari komunitas setempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392767.jpeg",
+      "simplified": "社区大学",
+      "traditional": "社區大學",
+      "pinyin": "shèqū Dàxué"
+    },
+    {
+      "id": 392769,
+      "translation": {
+        "en": {
+          "short": "special school",
+          "long": "a school for students who need extra help with learning because of disabilities or learning difficulties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah khusus",
+          "long": "sekolah untuk siswa yang membutuhkan bantuan tambahan dalam belajar karena kecacatan atau kesulitan belajar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392769.jpeg",
+      "simplified": "特殊学校",
+      "traditional": "特殊學校",
+      "pinyin": "tèshū xuéxiào"
+    },
+    {
+      "id": 392770,
+      "translation": {
+        "en": {
+          "short": "magnet school",
+          "long": "(the United States) a public school that is designed to offer specialized programs beyond the standard curriculum; typically located in a large city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah magnet",
+          "long": "(Amerika Serikat) Sekolah umum yang dirancang untuk menawarkan program khusus di luar kurikulum standar; biasanya terletak di kota besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392770.jpeg",
+      "simplified": "磁铁学校",
+      "traditional": "磁鐵學校",
+      "pinyin": "cítiě xuéxiào"
+    },
+    {
+      "id": 392771,
+      "translation": {
+        "en": {
+          "short": "vocational school",
+          "long": "an educational institution that provides specialized training and instruction in a particular trade, skill, or profession",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah Menengah Kejuruan",
+          "long": "lembaga pendidikan yang menyediakan pelatihan dan pengajaran khusus dalam perdagangan, keterampilan, atau profesi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392771.jpeg",
+      "simplified": "专业学校",
+      "traditional": "專業學校",
+      "pinyin": "zhuānyè xuéxiào"
+    },
+    {
+      "id": 392772,
+      "translation": {
+        "en": {
+          "short": "charter school",
+          "long": "a publicly funded school that operates independently from the traditional public school system, often with a specific educational focus or approach",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah piagam",
+          "long": "sekolah yang didanai publik yang beroperasi secara independen dari sistem sekolah umum tradisional, seringkali dengan fokus atau pendekatan pendidikan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392772.jpeg",
+      "simplified": "特许学校",
+      "traditional": "特許學校",
+      "pinyin": "tèxǔ xuéxiào"
+    },
+    {
+      "id": 392774,
+      "translation": {
+        "en": {
+          "short": "polytechnic school",
+          "long": "an educational place where people learn practical skills for jobs like engineering or computer technology",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Politeknik",
+          "long": "tempat pendidikan di mana orang belajar keterampilan praktis untuk pekerjaan seperti teknik atau teknologi komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392774.jpeg",
+      "simplified": "中转",
+      "traditional": "中轉",
+      "pinyin": "zhōngzhuǎn"
+    },
+    {
+      "id": 392776,
+      "translation": {
+        "en": {
+          "short": "business school",
+          "long": "a university or college where students study subjects related to business, such as economics, management, and finance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah bisnis",
+          "long": "universitas atau perguruan tinggi tempat siswa mempelajari mata pelajaran yang terkait dengan bisnis, seperti ekonomi, manajemen, dan keuangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392776.jpeg",
+      "simplified": "商学院",
+      "traditional": "商學院",
+      "pinyin": "shāngxué yuàn"
+    },
+    {
+      "id": 392777,
+      "translation": {
+        "en": {
+          "short": "medical school",
+          "long": "a college or a department in a university where students study medicine to become medical doctors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah medis",
+          "long": "sebuah perguruan tinggi atau departemen di universitas tempat siswa belajar kedokteran untuk menjadi dokter medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392777.jpeg",
+      "simplified": "医学院",
+      "traditional": "醫學院",
+      "pinyin": "yīxué yuàn"
+    },
+    {
+      "id": 392778,
+      "translation": {
+        "en": {
+          "short": "trade school",
+          "long": "an educational institution that provides hands-on training and instruction in specific trades or vocational skills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah perdagangan",
+          "long": "lembaga pendidikan yang memberikan pelatihan dan instruksi langsung dalam perdagangan tertentu atau keterampilan kejuruan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392778.jpeg",
+      "simplified": "贸易学校",
+      "traditional": "貿易學校",
+      "pinyin": "màoyì xuéxiào"
+    },
+    {
+      "id": 392779,
+      "translation": {
+        "en": {
+          "short": "law school",
+          "long": "a graduate school that offers programs leading to a Juris Doctor degree and prepares students for careers in law",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah hukum",
+          "long": "Sekolah pascasarjana yang menawarkan program yang mengarah ke gelar Dokter Juris dan mempersiapkan siswa untuk karier dalam bidang hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392779.jpeg",
+      "simplified": "法学院",
+      "traditional": "法學院",
+      "pinyin": "fǎxué yuàn"
+    },
+    {
+      "id": 392780,
+      "translation": {
+        "en": {
+          "short": "engineering school",
+          "long": "a higher education institution that offers academic programs specializing in engineering disciplines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah teknik",
+          "long": "lembaga pendidikan tinggi yang menawarkan program akademik yang berspesialisasi dalam disiplin ilmu teknik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392780.jpeg",
+      "simplified": "工程学院",
+      "traditional": "工程學院",
+      "pinyin": "gōngchéng xué yuàn"
+    },
+    {
+      "id": 392781,
+      "translation": {
+        "en": {
+          "short": "dental school",
+          "long": "a specialized institution of higher education that provides professional training and education in dentistry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah gigi",
+          "long": "Lembaga pendidikan tinggi khusus yang menyediakan pelatihan dan pendidikan profesional di bidang kedokteran gigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392781.jpeg",
+      "simplified": "牙科学校",
+      "traditional": "牙科學校",
+      "pinyin": "yákē xuéxiào"
+    },
+    {
+      "id": 392787,
+      "translation": {
+        "en": {
+          "short": "pharmacy school",
+          "long": "a college or university where students receive education and training to become pharmacists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah farmasi",
+          "long": "sebuah perguruan tinggi atau universitas tempat siswa menerima pendidikan dan pelatihan untuk menjadi apoteker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392787.jpeg",
+      "simplified": "药学院",
+      "traditional": "藥學院",
+      "pinyin": "yàoxué yuàn"
+    },
+    {
+      "id": 392775,
+      "translation": {
+        "en": {
+          "short": "art school",
+          "long": "any educational institution formed to train individuals in visual or fine arts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah seni",
+          "long": "Setiap lembaga pendidikan yang dibentuk untuk melatih individu dalam seni visual atau rupa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392775.jpeg",
+      "simplified": "美术学校",
+      "traditional": "美術學校",
+      "pinyin": "měishù xuéxiào"
+    },
+    {
+      "id": 407361,
+      "translation": {
+        "en": {
+          "short": "drama school",
+          "long": "an educational institution where students learn acting, stagecraft, and performance skills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drama sekolah",
+          "long": "lembaga pendidikan tempat siswa belajar akting, stagecraft, dan keterampilan kinerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407361.jpeg",
+      "simplified": "戏剧学校",
+      "traditional": "戲劇學校",
+      "pinyin": "xìjù xuéxiào"
+    },
+    {
+      "id": 392783,
+      "translation": {
+        "en": {
+          "short": "film school",
+          "long": "an educational institution where students learn about various aspects of filmmaking, including directing, producing, screenwriting, and cinematography",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah film",
+          "long": "Lembaga pendidikan tempat siswa belajar tentang berbagai aspek pembuatan film, termasuk mengarahkan, memproduksi, menulis skenario, dan sinematografi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392783.jpeg",
+      "simplified": "电影学校",
+      "traditional": "電影學校",
+      "pinyin": "diànyǐng xuéxiào"
+    },
+    {
+      "id": 392784,
+      "translation": {
+        "en": {
+          "short": "music school",
+          "long": "an institution that offers specialized training and education in various aspects of music, including performance, composition, theory, and music history",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah musik",
+          "long": "Lembaga yang menawarkan pelatihan khusus dan pendidikan dalam berbagai aspek musik, termasuk kinerja, komposisi, teori, dan sejarah musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392784.jpeg",
+      "simplified": "音乐学校",
+      "traditional": "音樂學校",
+      "pinyin": "yīnyuè xué jiào"
+    },
+    {
+      "id": 392789,
+      "translation": {
+        "en": {
+          "short": "cooking school",
+          "long": "a college or university where students learn culinary skills, techniques, and knowledge related to cooking and food preparation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah memasak",
+          "long": "Sebuah perguruan tinggi atau universitas di mana siswa belajar keterampilan kuliner, teknik, dan pengetahuan yang berkaitan dengan memasak dan persiapan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392789.jpeg",
+      "simplified": "烹饪学校",
+      "traditional": "烹飪學校",
+      "pinyin": "pēngrèn xuéxiào"
+    },
+    {
+      "id": 392792,
+      "translation": {
+        "en": {
+          "short": "journalism school",
+          "long": "an educational institution where students receive training in journalism, including reporting, writing, editing, and multimedia storytelling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah jurnalisme",
+          "long": "Lembaga pendidikan di mana siswa menerima pelatihan jurnalisme, termasuk pelaporan, penulisan, pengeditan, dan mendongeng multimedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392792.jpeg",
+      "simplified": "新闻学院",
+      "traditional": "新聞學院",
+      "pinyin": "xīnwén xué yuàn"
+    },
+    {
+      "id": 392785,
+      "translation": {
+        "en": {
+          "short": "normal school",
+          "long": "an institution that primarily trains teachers for elementary education",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah normal",
+          "long": "sebuah lembaga yang terutama melatih guru untuk pendidikan dasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392785.jpeg",
+      "simplified": "师范",
+      "traditional": "師範",
+      "pinyin": "shīfàn"
+    },
+    {
+      "id": 392818,
+      "translation": {
+        "en": {
+          "short": "conservatory",
+          "long": "a school or college that people attend to for studying music, theater, or some other form of art",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konservatori",
+          "long": "sekolah atau perguruan tinggi yang orang hadiri untuk belajar musik, teater, atau bentuk seni lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392818.jpeg",
+      "simplified": "音乐学院",
+      "traditional": "音樂學院",
+      "pinyin": "yīnyuè xué yuàn"
+    },
+    {
+      "id": 392801,
+      "translation": {
+        "en": {
+          "short": "Ivy League",
+          "long": "a group of eight private institutions of higher education in the United States known for their academic excellence, selective admissions policies, and competitive sports programs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Liga Ivy",
+          "long": "Sekelompok delapan lembaga swasta pendidikan tinggi di Amerika Serikat yang dikenal karena keunggulan akademik mereka, kebijakan penerimaan selektif, dan program olahraga kompetitif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392801.jpeg",
+      "simplified": "常春藤联盟",
+      "traditional": "常春藤聯盟",
+      "pinyin": "chángchūn téng liánméng"
+    },
+    {
+      "id": 392800,
+      "translation": {
+        "en": {
+          "short": "deemed university",
+          "long": "(in India) an institution recognized by the government as having university status, typically due to its academic excellence and capacity for research and teaching",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dianggap universitas",
+          "long": "(Di India) Lembaga yang diakui oleh pemerintah memiliki status universitas, biasanya karena keunggulan akademik dan kapasitasnya untuk penelitian dan pengajaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392800.jpeg",
+      "simplified": "视为大学",
+      "traditional": "視為大學",
+      "pinyin": "shìwéi Dàxué"
+    },
+    {
+      "id": 392808,
+      "translation": {
+        "en": {
+          "short": "gymnasium",
+          "long": "a type of secondary school that focuses on preparing students for higher education or university",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang olahraga",
+          "long": "Jenis sekolah menengah yang berfokus pada persiapan siswa untuk pendidikan tinggi atau universitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392808.jpeg",
+      "simplified": "健身房",
+      "traditional": "健身房",
+      "pinyin": "jiànshēn fáng"
+    },
+    {
+      "id": 392817,
+      "translation": {
+        "en": {
+          "short": "graduate school",
+          "long": "a department in a university or college that offers graduates an advanced or further degree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lulusan sekolah",
+          "long": "departemen di universitas atau perguruan tinggi yang menawarkan lulusan tingkat lanjut atau lebih lanjut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392817.jpeg",
+      "simplified": "研究所",
+      "traditional": "研究所",
+      "pinyin": "yánjiū suǒ"
+    },
+    {
+      "id": 394021,
+      "translation": {
+        "en": {
+          "short": "seminary",
+          "long": "an educational institution, often affiliated with a religious denomination, that provides training and education for individuals seeking to become clergy or religious leaders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seminari",
+          "long": "Lembaga pendidikan, yang sering berafiliasi dengan denominasi agama, yang menyediakan pelatihan dan pendidikan bagi individu yang ingin menjadi pendeta atau pemimpin agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394021.jpeg",
+      "simplified": "神学院",
+      "traditional": "神學院",
+      "pinyin": "shénxué yuàn"
+    },
+    {
+      "id": 392819,
+      "translation": {
+        "en": {
+          "short": "yeshiva",
+          "long": "a Jewish educational institution where students study religious texts and teachings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Yeshiva",
+          "long": "lembaga pendidikan Yahudi di mana siswa mempelajari teks dan ajaran agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392819.jpeg",
+      "simplified": "Yeshiva",
+      "traditional": "Yeshiva",
+      "pinyin": ""
+    },
+    {
+      "id": 392803,
+      "translation": {
+        "en": {
+          "short": "academy school",
+          "long": "a public school in England that has more freedom to control its curriculum and budget than traditional schools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Akademi",
+          "long": "sekolah umum di Inggris yang memiliki lebih banyak kebebasan untuk mengendalikan kurikulum dan anggarannya daripada sekolah tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392803.jpeg",
+      "simplified": "学院学校",
+      "traditional": "學院學校",
+      "pinyin": "xuéyuàn xuéxiào"
+    },
+    {
+      "id": 392793,
+      "translation": {
+        "en": {
+          "short": "grammar school",
+          "long": "a type of secondary school in the UK that traditionally provided education in classical languages and literature, as well as mathematics and sciences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah tata bahasa",
+          "long": "Jenis Sekolah Menengah di Inggris yang secara tradisional memberikan pendidikan dalam bahasa dan sastra klasik, serta matematika dan sains",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392793.jpeg",
+      "simplified": "文法学校",
+      "traditional": "文法學校",
+      "pinyin": "wénfǎ xuéxiào"
+    },
+    {
+      "id": 392794,
+      "translation": {
+        "en": {
+          "short": "secondary modern school",
+          "long": "a type of secondary school in the UK that provides a general education for students who do not attend grammar schools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Modern Sekunder",
+          "long": "Jenis sekolah menengah di Inggris yang menyediakan pendidikan umum untuk siswa yang tidak bersekolah di sekolah tata bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392794.jpeg",
+      "simplified": "现代中等学校",
+      "traditional": "現代中等學校",
+      "pinyin": "Xiàndài zhōngděng xuéxiào"
+    },
+    {
+      "id": 392795,
+      "translation": {
+        "en": {
+          "short": "crammer",
+          "long": "a coaching center or school in Britain that offers intensive exam preparation courses, typically focusing on short-term study to achieve high scores",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penipu",
+          "long": "Pusat pelatihan atau sekolah di Inggris yang menawarkan kursus persiapan ujian intensif, biasanya berfokus pada studi jangka pendek untuk mencapai skor tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392795.jpeg",
+      "simplified": "谎言",
+      "traditional": "謊言",
+      "pinyin": "huǎngyán"
+    },
+    {
+      "id": 392797,
+      "translation": {
+        "en": {
+          "short": "City Technology College",
+          "long": "a type of state-funded secondary school in England that focuses on providing specialized education in technology and vocational subjects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "City Technology College",
+          "long": "Jenis sekolah menengah yang didanai negara di Inggris yang berfokus pada penyediaan pendidikan khusus dalam teknologi dan mata pelajaran kejuruan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392797.jpeg",
+      "simplified": "城市科技学院",
+      "traditional": "城市科技學院",
+      "pinyin": "chéngshì kējì xuéyuàn"
+    },
+    {
+      "id": 392805,
+      "translation": {
+        "en": {
+          "short": "community school",
+          "long": "a type of school in the UK that is run by the local government and often offers services beyond regular education, like clubs and healthcare",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah komunitas",
+          "long": "Jenis sekolah di Inggris yang dijalankan oleh pemerintah daerah dan sering menawarkan layanan di luar pendidikan reguler, seperti klub dan perawatan kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392805.jpeg",
+      "simplified": "社区学校",
+      "traditional": "社區學校",
+      "pinyin": "shèqū xuéxiào"
+    },
+    {
+      "id": 392807,
+      "translation": {
+        "en": {
+          "short": "foundation school",
+          "long": "a type of school in England and Wales that is funded by the state but has more freedom to manage its own affairs, often with input from a governing body or foundation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Yayasan",
+          "long": "Jenis sekolah di Inggris dan Wales yang didanai oleh negara tetapi memiliki lebih banyak kebebasan untuk mengelola urusannya sendiri, seringkali dengan masukan dari badan atau yayasan pemerintahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392807.jpeg",
+      "simplified": "基础学校",
+      "traditional": "基礎學校",
+      "pinyin": "jīchǔ xuéxiào"
+    },
+    {
+      "id": 392810,
+      "translation": {
+        "en": {
+          "short": "university technical college",
+          "long": "a type of secondary school in England that provides technical and vocational education, often in partnership with local businesses and universities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "University Technical College",
+          "long": "Jenis sekolah menengah di Inggris yang menyediakan pendidikan teknis dan kejuruan, seringkali dalam kemitraan dengan bisnis dan universitas lokal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392810.jpeg",
+      "simplified": "大学技术学院",
+      "traditional": "大學技術學院",
+      "pinyin": "Dàxué jìshù xuéyuàn"
+    },
+    {
+      "id": 392812,
+      "translation": {
+        "en": {
+          "short": "free school",
+          "long": "a type of independent school in England that is funded by the government but has more autonomy over its curriculum and management",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah gratis",
+          "long": "Jenis sekolah independen di Inggris yang didanai oleh pemerintah tetapi memiliki lebih banyak otonomi atas kurikulum dan manajemennya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392812.jpeg",
+      "simplified": "免费学校",
+      "traditional": "免費學校",
+      "pinyin": "miǎnfèi xuéxiào"
+    },
+    {
+      "id": 392814,
+      "translation": {
+        "en": {
+          "short": "voluntary aided school",
+          "long": "a school in England and Wales funded by the state but maintained by a religious or charitable organization, allowing for religious influence in admissions and education",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah bantu sukarela",
+          "long": "sebuah sekolah di Inggris dan Wales yang didanai oleh negara tetapi dikelola oleh organisasi agama atau amal, yang memungkinkan pengaruh agama dalam penerimaan dan pendidikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392814.jpeg",
+      "simplified": "志愿资助学校",
+      "traditional": "志願資助學校",
+      "pinyin": "zhìyuàn zīzhù xuéxiào"
+    },
+    {
+      "id": 392816,
+      "translation": {
+        "en": {
+          "short": "voluntary controlled school",
+          "long": "a type of school in England and Wales that is mainly funded and managed by the local authority but has a connection to a religious or charitable organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah yang dikendalikan sukarela",
+          "long": "Jenis sekolah di Inggris dan Wales yang sebagian besar didanai dan dikelola oleh otoritas lokal tetapi memiliki hubungan dengan organisasi beragama atau amal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392816.jpeg",
+      "simplified": "自愿控制的学校",
+      "traditional": "自願控制的學校",
+      "pinyin": "zìyuàn kòngzhì de xuéxiào"
+    },
+    {
+      "id": 392891,
+      "translation": {
+        "en": {
+          "short": "sixth-form college",
+          "long": "a school in the UK for students aged 16 to 18, where they study advanced subjects before going to university or starting a career",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perguruan Tinggi Bentuk Keenam",
+          "long": "sebuah sekolah di Inggris untuk siswa berusia 16 hingga 18 tahun, di mana mereka mempelajari mata pelajaran lanjutan sebelum pergi ke universitas atau memulai karir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392891.jpeg",
+      "simplified": "六年级学院",
+      "traditional": "六年級學院",
+      "pinyin": "liù niánjí xuéyuàn"
+    },
+    {
+      "id": 392820,
+      "translation": {
+        "en": {
+          "short": "alma mater",
+          "long": "the university, college, or school that one used to study at",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Alma mater",
+          "long": "universitas, perguruan tinggi, atau sekolah yang biasa dipelajari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392820.jpeg",
+      "simplified": "母校",
+      "traditional": "母校",
+      "pinyin": "mǔxiào"
+    },
+    {
+      "id": 392798,
+      "translation": {
+        "en": {
+          "short": "redbrick university",
+          "long": "a prestigious British institution known for its traditional academic excellence and redbrick buildings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Universitas Redbrick",
+          "long": "Lembaga Inggris bergengsi yang dikenal karena keunggulan akademik tradisional dan bangunan redbrick",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392798.jpeg",
+      "simplified": "红砖大学",
+      "traditional": "紅磚大學",
+      "pinyin": "Hóng zhuān Dàxué"
+    }
+  ]
+}

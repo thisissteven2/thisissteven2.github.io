@@ -1,0 +1,621 @@
+{
+  "id": 80,
+  "title": {
+    "en": "Geography",
+    "id": "Geografi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about geography, such as \"Antarctic\", \"eastern\", \"highland\", etc. that are needed for the IELTS exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang geografi, seperti \"Antartika\", \"timur\", \"dataran tinggi\", dll. Yang diperlukan untuk ujian IELTS."
+  },
+  "cards": [
+    {
+      "id": 210513,
+      "translation": {
+        "en": {
+          "short": "ashore",
+          "long": "toward the land from the direction of a ship or the sea",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke darat",
+          "long": "menuju tanah dari arah kapal atau laut",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210513.jpeg",
+      "simplified": "岸上",
+      "traditional": "岸上",
+      "pinyin": "ànshàng"
+    },
+    {
+      "id": 210514,
+      "translation": {
+        "en": {
+          "short": "Antarctic",
+          "long": "the extremely cold region surrounding the South Pole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daerah Kutub Selatan",
+          "long": "wilayah yang sangat dingin di sekitar Kutub Selatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210514.jpeg",
+      "simplified": "南极洲",
+      "traditional": "南極洲",
+      "pinyin": "Nánjí zhōu"
+    },
+    {
+      "id": 210516,
+      "translation": {
+        "en": {
+          "short": "Arctic",
+          "long": "the frozen regions surrounding the North Pole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arktik",
+          "long": "daerah beku di sekitar Kutub Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210516.jpeg",
+      "simplified": "北极",
+      "traditional": "北極",
+      "pinyin": "běijí"
+    },
+    {
+      "id": 210517,
+      "translation": {
+        "en": {
+          "short": "bank",
+          "long": "land along the sides of a river, canal, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bank",
+          "long": "Mendarat di sepanjang sisi sungai, kanal, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210517.jpeg",
+      "simplified": "岸",
+      "traditional": "岸",
+      "pinyin": "àn"
+    },
+    {
+      "id": 210518,
+      "translation": {
+        "en": {
+          "short": "bend",
+          "long": "a curve in a road, river, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membengkokkan",
+          "long": "Kurva di jalan, sungai, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210518.jpeg",
+      "simplified": "路弯",
+      "traditional": "路彎",
+      "pinyin": "Lù wān"
+    },
+    {
+      "id": 210519,
+      "translation": {
+        "en": {
+          "short": "coastline",
+          "long": "the boundary between land and water, particularly as seen on a map or from above",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis pantai",
+          "long": "batas antara darat dan air, terutama seperti yang terlihat pada peta atau dari atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210519.jpeg",
+      "simplified": "海岸线",
+      "traditional": "海岸線",
+      "pinyin": "hǎiàn xiàn"
+    },
+    {
+      "id": 210521,
+      "translation": {
+        "en": {
+          "short": "eastern",
+          "long": "related to or positioned in the direction of the east",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Timur",
+          "long": "terkait atau diposisikan ke arah timur",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210521.jpeg",
+      "simplified": "东",
+      "traditional": "東",
+      "pinyin": "Dōng"
+    },
+    {
+      "id": 210522,
+      "translation": {
+        "en": {
+          "short": "western",
+          "long": "related to or positioned in the direction of the west",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "barat",
+          "long": "terkait atau diposisikan ke arah barat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210522.jpeg",
+      "simplified": "西",
+      "traditional": "西",
+      "pinyin": "Xī"
+    },
+    {
+      "id": 210523,
+      "translation": {
+        "en": {
+          "short": "northern",
+          "long": "related to or positioned in the direction of the north",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sebelah utara",
+          "long": "terkait atau diposisikan ke arah utara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210523.jpeg",
+      "simplified": "北方",
+      "traditional": "北方",
+      "pinyin": "běifāng"
+    },
+    {
+      "id": 210524,
+      "translation": {
+        "en": {
+          "short": "southern",
+          "long": "related to or situated in the direction of the south",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Selatan",
+          "long": "terkait atau terletak di arah selatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210524.jpeg",
+      "simplified": "南部",
+      "traditional": "南部",
+      "pinyin": "nánbù"
+    },
+    {
+      "id": 210525,
+      "translation": {
+        "en": {
+          "short": "geographical",
+          "long": "related to the study or characteristics of the Earth's surface, including its features, landscapes, and locations",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "geografis",
+          "long": "terkait dengan studi atau karakteristik permukaan bumi, termasuk fitur, lanskap, dan lokasinya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210525.jpeg",
+      "simplified": "地理的",
+      "traditional": "地理的",
+      "pinyin": "dìlǐ de"
+    },
+    {
+      "id": 210526,
+      "translation": {
+        "en": {
+          "short": "port",
+          "long": "a city or town that has a harbor where ships can be loaded or unloaded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelabuhan",
+          "long": "sebuah kota atau kota yang memiliki pelabuhan di mana kapal dapat dimuat atau diturunkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210526.jpeg",
+      "simplified": "端口",
+      "traditional": "端口",
+      "pinyin": "duānkǒu"
+    },
+    {
+      "id": 210527,
+      "translation": {
+        "en": {
+          "short": "woodland",
+          "long": "land that is filled with many trees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Woodland",
+          "long": "tanah yang dipenuhi dengan banyak pohon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210527.jpeg",
+      "simplified": "林地",
+      "traditional": "林地",
+      "pinyin": "líndì"
+    },
+    {
+      "id": 210528,
+      "translation": {
+        "en": {
+          "short": "canyon",
+          "long": "a valley that is deep and has very steep sides, through which a river is flowing usually",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ngarai",
+          "long": "sebuah lembah yang dalam dan memiliki sisi yang sangat curam, di mana sungai biasanya mengalir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210528.jpeg",
+      "simplified": "峡谷",
+      "traditional": "峽谷",
+      "pinyin": "xiágǔ"
+    },
+    {
+      "id": 210529,
+      "translation": {
+        "en": {
+          "short": "equator",
+          "long": "a hypothetical line around the Earth that divides it into Northern and Southern hemispheres",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "khatulistiwa",
+          "long": "Garis hipotetis di sekitar bumi yang membaginya menjadi belahan utara dan selatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210529.jpeg",
+      "simplified": "赤道",
+      "traditional": "赤道",
+      "pinyin": "chìdào"
+    },
+    {
+      "id": 210530,
+      "translation": {
+        "en": {
+          "short": "formation",
+          "long": "(geology) a body of rock with a particular set of characteristics that make it distinct from the surrounding land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembentukan",
+          "long": "(Geologi) Badan batu dengan serangkaian karakteristik tertentu yang membuatnya berbeda dari tanah di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210530.jpeg",
+      "simplified": "编队",
+      "traditional": "編隊",
+      "pinyin": "biānduì"
+    },
+    {
+      "id": 210531,
+      "translation": {
+        "en": {
+          "short": "highland",
+          "long": "land with mountains or hills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dataran tinggi",
+          "long": "Mendarat dengan pegunungan atau bukit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210531.jpeg",
+      "simplified": "高地",
+      "traditional": "高地",
+      "pinyin": "gāodì"
+    },
+    {
+      "id": 210532,
+      "translation": {
+        "en": {
+          "short": "glacier",
+          "long": "a large mass of ice that forms over long periods of time, especially in polar regions or high mountains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gletser",
+          "long": "Massa es besar yang terbentuk dalam jangka waktu yang lama, terutama di daerah kutub atau pegunungan tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210532.jpeg",
+      "simplified": "冰川",
+      "traditional": "冰川",
+      "pinyin": "bīngchuān"
+    },
+    {
+      "id": 210533,
+      "translation": {
+        "en": {
+          "short": "freshwater",
+          "long": "water that does not contain salt and is suitable for consumption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air tawar",
+          "long": "air yang tidak mengandung garam dan cocok untuk dikonsumsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210533.jpeg",
+      "simplified": "淡水",
+      "traditional": "淡水",
+      "pinyin": "Dànshuǐ"
+    },
+    {
+      "id": 210534,
+      "translation": {
+        "en": {
+          "short": "reef",
+          "long": "a ridge of rock or a line of sand near the surface of a body of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Terumbu",
+          "long": "Punggung batu atau garis pasir di dekat permukaan badan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210534.jpeg",
+      "simplified": "礁",
+      "traditional": "礁",
+      "pinyin": "jiāo"
+    },
+    {
+      "id": 210535,
+      "translation": {
+        "en": {
+          "short": "seabed",
+          "long": "the ground at the bottom of the sea or the floor of the ocean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dasar laut",
+          "long": "tanah di dasar laut atau dasar lautan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210535.jpeg",
+      "simplified": "海底",
+      "traditional": "海底",
+      "pinyin": "hǎidǐ"
+    },
+    {
+      "id": 210536,
+      "translation": {
+        "en": {
+          "short": "waterway",
+          "long": "a river, canal, etc. that boats can navigate through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan air",
+          "long": "Sungai, kanal, dll. Perahu itu dapat menavigasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210536.jpeg",
+      "simplified": "水路",
+      "traditional": "水路",
+      "pinyin": "shuǐlù"
+    },
+    {
+      "id": 210537,
+      "translation": {
+        "en": {
+          "short": "zone",
+          "long": "a part on the surface of the Earth marked by specific coordinates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daerah",
+          "long": "Bagian di permukaan bumi yang ditandai dengan koordinat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210537.jpeg",
+      "simplified": "区",
+      "traditional": "區",
+      "pinyin": "Oū"
+    },
+    {
+      "id": 210538,
+      "translation": {
+        "en": {
+          "short": "tropical",
+          "long": "associated with or characteristic of the tropics, regions of the Earth near the equator known for their warm climate and lush vegetation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tropis",
+          "long": "Terkait dengan atau karakteristik daerah tropis, daerah bumi dekat khatulistiwa yang dikenal karena iklim hangat dan vegetasi yang subur",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210538.jpeg",
+      "simplified": "热带",
+      "traditional": "熱帶",
+      "pinyin": "rèdài"
+    },
+    {
+      "id": 210539,
+      "translation": {
+        "en": {
+          "short": "stream",
+          "long": "a small and narrow river that runs on or under the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sungai kecil",
+          "long": "Sungai kecil dan sempit yang mengalir di atau di bawah bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210539.jpeg",
+      "simplified": "流",
+      "traditional": "流",
+      "pinyin": "liú"
+    },
+    {
+      "id": 210540,
+      "translation": {
+        "en": {
+          "short": "horizon",
+          "long": "the line where the sky and earth seem to come in contact with each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cakrawala",
+          "long": "garis di mana langit dan bumi tampaknya bersentuhan satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210540.jpeg",
+      "simplified": "地平线",
+      "traditional": "地平線",
+      "pinyin": "dìpíng xiàn"
+    },
+    {
+      "id": 210541,
+      "translation": {
+        "en": {
+          "short": "gulf",
+          "long": "an area of sea that is partly surrounded by land, with a narrow opening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teluk",
+          "long": "Area laut yang sebagian dikelilingi oleh darat, dengan lubang yang sempit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210541.jpeg",
+      "simplified": "海湾",
+      "traditional": "海灣",
+      "pinyin": "Hǎiwān"
+    },
+    {
+      "id": 210542,
+      "translation": {
+        "en": {
+          "short": "latitude",
+          "long": "the distance of a point north or south of the equator that is measured in degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garis Lintang",
+          "long": "jarak titik utara atau selatan khatulistiwa yang diukur dalam derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210542.jpeg",
+      "simplified": "纬度",
+      "traditional": "緯度",
+      "pinyin": "wěidù"
+    },
+    {
+      "id": 210543,
+      "translation": {
+        "en": {
+          "short": "longitude",
+          "long": "the distance of a point east or west of the meridian at Greenwich that is measured in degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis bujur",
+          "long": "jarak titik timur atau barat meridian di Greenwich yang diukur dalam derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210543.jpeg",
+      "simplified": "经度",
+      "traditional": "經度",
+      "pinyin": "jīngdù"
+    },
+    {
+      "id": 226755,
+      "translation": {
+        "en": {
+          "short": "mountaintop",
+          "long": "the top or the summit of a mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak gunung",
+          "long": "bagian atas atau puncak gunung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/226755.jpeg",
+      "simplified": "山顶",
+      "traditional": "山頂",
+      "pinyin": "shāndǐng"
+    },
+    {
+      "id": 264218,
+      "translation": {
+        "en": {
+          "short": "Arctic",
+          "long": "belonging or related to the region around the North Pole",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Arktik",
+          "long": "milik atau terkait dengan wilayah di sekitar Kutub Utara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264218.jpeg",
+      "simplified": "北极",
+      "traditional": "北極",
+      "pinyin": "běijí"
+    },
+    {
+      "id": 226767,
+      "translation": {
+        "en": {
+          "short": "genetically modified",
+          "long": "having had an altered genetic structure in order to serve a particular purpose, such as being more resistant to disease, bearing more fruit, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rekayasa genetika",
+          "long": "Setelah memiliki struktur genetik yang berubah untuk melayani tujuan tertentu, seperti lebih tahan terhadap penyakit, menghasilkan lebih banyak buah, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/226767.jpeg",
+      "simplified": "转基因",
+      "traditional": "基因改造",
+      "pinyin": "zhuǎnjī yīn"
+    }
+  ]
+}

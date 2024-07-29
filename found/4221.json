@@ -1,0 +1,450 @@
+{
+  "id": 4221,
+  "title": {
+    "en": "Types and Variants of Chess",
+    "id": "Jenis dan varian catur"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the different types and variants of chess such as \"shogi\", \"blitz chess\", and \"shatranj\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan berbagai jenis dan varian catur seperti \"shogi\", \"catur blitz\", dan \"shatranj\"."
+  },
+  "cards": [
+    {
+      "id": 356448,
+      "translation": {
+        "en": {
+          "short": "xiangqi",
+          "long": "a two-player strategy board game from China, where players move pieces with different abilities across a board to capture their opponent's pieces and ultimately checkmate their opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "xiangqi",
+          "long": "Permainan papan strategi dua pemain dari China, di mana pemain memindahkan potongan dengan kemampuan yang berbeda di seluruh papan untuk menangkap karya lawan mereka dan akhirnya membuat sekakmat raja lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356448.jpeg",
+      "simplified": "象棋",
+      "traditional": "象棋",
+      "pinyin": "xiàngqí"
+    },
+    {
+      "id": 356449,
+      "translation": {
+        "en": {
+          "short": "shogi",
+          "long": "a two-player strategy board game from Japan, similar to chess, where players move pieces with different abilities across a board to capture their opponent's pieces and ultimately checkmate their opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shogi",
+          "long": "Permainan papan strategi dua pemain dari Jepang, mirip dengan catur, di mana pemain memindahkan potongan dengan kemampuan yang berbeda di seluruh papan untuk menangkap potongan lawan mereka dan akhirnya membuat sekakmat raja lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356449.jpeg",
+      "simplified": "将棋",
+      "traditional": "將棋",
+      "pinyin": "jiàngqí"
+    },
+    {
+      "id": 356450,
+      "translation": {
+        "en": {
+          "short": "janggi",
+          "long": "a two-player strategy board game from Korea, similar to Xiangqi and Shogi, where players move pieces with different abilities across a board to capture their opponent's pieces and ultimately checkmate their opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "JANGGI",
+          "long": "Permainan papan strategi dua pemain dari Korea, mirip dengan Xiangqi dan Shogi, di mana para pemain memindahkan potongan dengan kemampuan yang berbeda di seluruh papan untuk menangkap potongan lawan mereka dan akhirnya membuat sekakmat raja lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356450.jpeg",
+      "simplified": "姜吉",
+      "traditional": "姜吉",
+      "pinyin": "Jiāng Jí"
+    },
+    {
+      "id": 356451,
+      "translation": {
+        "en": {
+          "short": "chaturanga",
+          "long": "an ancient Indian board game that is believed to be the earliest form of chess",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "chaturanga",
+          "long": "permainan papan India kuno yang diyakini sebagai bentuk catur paling awal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356451.jpeg",
+      "simplified": "查图兰加",
+      "traditional": "查圖蘭加",
+      "pinyin": "Zhā tú Lán Jiā"
+    },
+    {
+      "id": 356453,
+      "translation": {
+        "en": {
+          "short": "Racing Kings",
+          "long": "a chess variant where both players race their king to the eighth rank to win the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Balap Raja",
+          "long": "varian catur di mana kedua pemain balapan raja mereka ke peringkat kedelapan untuk memenangkan pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356453.jpeg",
+      "simplified": "赛车之王",
+      "traditional": "賽車之王",
+      "pinyin": "sàichē zhī Wáng"
+    },
+    {
+      "id": 356455,
+      "translation": {
+        "en": {
+          "short": "horde chess",
+          "long": "a chess variant in which one player, with a larger army of pawns and knights, plays against another player with a regular set of pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Horde",
+          "long": "varian catur di mana satu pemain, dengan pasukan pion dan ksatria yang lebih besar, bermain melawan pemain lain dengan set piece reguler",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356455.jpeg",
+      "simplified": "部落棋",
+      "traditional": "部落棋",
+      "pinyin": "bùluò qí"
+    },
+    {
+      "id": 356457,
+      "translation": {
+        "en": {
+          "short": "crazyhouse chess",
+          "long": "a chess variant where captured pieces can be reintroduced into play as one's own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CHESSHOUSE CHESS",
+          "long": "varian catur di mana potongan -potongan yang ditangkap dapat diperkenalkan kembali menjadi miliknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356457.jpeg",
+      "simplified": "疯狂屋象棋",
+      "traditional": "瘋狂屋象棋",
+      "pinyin": "fēngkuáng wū xiàngqí"
+    },
+    {
+      "id": 356459,
+      "translation": {
+        "en": {
+          "short": "three-check chess",
+          "long": "a chess variant where the objective is to give the opponent's king three checks, instead of checkmate, to win the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catur tiga cek",
+          "long": "varian catur di mana tujuannya adalah untuk memberikan tiga cek kepada raja lawan, bukannya sekakmat, untuk memenangkan permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356459.jpeg",
+      "simplified": "三棋棋",
+      "traditional": "三棋棋",
+      "pinyin": "Sān qí qí"
+    },
+    {
+      "id": 356461,
+      "translation": {
+        "en": {
+          "short": "blitz chess",
+          "long": "a variant of Chess with faster time controls, where players have limited time to make their moves, typically ranging from a few minutes to a few seconds per move",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Blitz",
+          "long": "Varian catur dengan kontrol waktu yang lebih cepat, di mana pemain memiliki waktu terbatas untuk melakukan gerakan mereka, biasanya mulai dari beberapa menit hingga beberapa detik per gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356461.jpeg",
+      "simplified": "闪电战棋",
+      "traditional": "閃電戰棋",
+      "pinyin": "shǎndiàn zhàn qí"
+    },
+    {
+      "id": 356463,
+      "translation": {
+        "en": {
+          "short": "makruk",
+          "long": "a two-player strategy board game from Thailand, similar to chess, where players move pieces with different abilities across a board to capture their opponent's pieces and ultimately checkmate their opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Makruk",
+          "long": "Permainan papan strategi dua pemain dari Thailand, mirip dengan catur, di mana pemain memindahkan potongan dengan kemampuan yang berbeda di seluruh papan untuk menangkap potongan lawan mereka dan akhirnya membuat sekakmat raja lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356463.jpeg",
+      "simplified": "马克鲁克",
+      "traditional": "馬克魯克",
+      "pinyin": "Mǎkè Lǔ Kè"
+    },
+    {
+      "id": 356465,
+      "translation": {
+        "en": {
+          "short": "blindfold chess",
+          "long": "a form of chess play where a player does not look at the board but keeps track of the game in their mind, relying solely on their memory and visualization skills to make moves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catur penutup mata",
+          "long": "Suatu bentuk permainan catur di mana seorang pemain tidak melihat papan tetapi melacak permainan dalam pikiran mereka, hanya mengandalkan ingatan dan keterampilan visualisasi mereka untuk membuat gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356465.jpeg",
+      "simplified": "蒙眼象棋",
+      "traditional": "蒙眼象棋",
+      "pinyin": "méng yǎn xiàngqí"
+    },
+    {
+      "id": 356467,
+      "translation": {
+        "en": {
+          "short": "bughouse chess",
+          "long": "a variant of chess played with four players in teams of two, where captured pieces can be passed to a teammate and dropped back onto the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Bughouse",
+          "long": "Varian catur yang dimainkan dengan empat pemain dalam tim dua, di mana potongan yang ditangkap dapat diteruskan ke rekan satu tim dan jatuh kembali ke papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356467.jpeg",
+      "simplified": "精神病院国际象棋",
+      "traditional": "精神病院國際象棋",
+      "pinyin": "jīngshén bìng yuàn guójì xiàng qí"
+    },
+    {
+      "id": 356469,
+      "translation": {
+        "en": {
+          "short": "four-player chess",
+          "long": "a chess variant designed to be played by four players on a square board with additional squares and pieces to accommodate the increased number of players",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Empat Pemain",
+          "long": "Varian catur yang dirancang untuk dimainkan oleh empat pemain di papan persegi dengan kotak dan potongan tambahan untuk mengakomodasi peningkatan jumlah pemain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356469.jpeg",
+      "simplified": "四人棋",
+      "traditional": "四人棋",
+      "pinyin": "sì rén qí"
+    },
+    {
+      "id": 356472,
+      "translation": {
+        "en": {
+          "short": "shatranj",
+          "long": "an ancient form of chess that originated in Persia, considered the precursor to modern chess, played on an 8x8 board with different pieces and rules",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shatranj",
+          "long": "Bentuk catur kuno yang berasal dari Persia, dianggap sebagai pendahulu catur modern, dimainkan di papan 8x8 dengan potongan dan aturan yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356472.jpeg",
+      "simplified": "沙特拉杰",
+      "traditional": "沙特拉傑",
+      "pinyin": "Shātè lā jié"
+    },
+    {
+      "id": 356474,
+      "translation": {
+        "en": {
+          "short": "circular chess",
+          "long": "a variant of the traditional chess game played on a circular board with unique movement patterns for some pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catur melingkar",
+          "long": "Varian dari permainan catur tradisional yang dimainkan di papan melingkar dengan pola gerakan yang unik untuk beberapa bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356474.jpeg",
+      "simplified": "圆形棋",
+      "traditional": "圓形棋",
+      "pinyin": "yuánxíng qí"
+    },
+    {
+      "id": 356476,
+      "translation": {
+        "en": {
+          "short": "Gothic chess",
+          "long": "a chess variant that introduces new pieces and changes the initial setup of the traditional chess game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Gothic",
+          "long": "Varian catur yang memperkenalkan potongan baru dan mengubah pengaturan awal dari permainan catur tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356476.jpeg",
+      "simplified": "哥特式国际象棋",
+      "traditional": "哥特式國際象棋",
+      "pinyin": "gētè shì guójì xiàng qí"
+    },
+    {
+      "id": 356478,
+      "translation": {
+        "en": {
+          "short": "atomic chess",
+          "long": "a chess variant where capturing a piece causes an \"explosion,\" removing the capturing piece and all adjacent pieces from the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Atom",
+          "long": "varian catur di mana menangkap sepotong menyebabkan \"ledakan,\" menghilangkan potongan penangkap dan semua potongan yang berdekatan dari papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356478.jpeg",
+      "simplified": "原子棋",
+      "traditional": "原子棋",
+      "pinyin": "yuánzǐ qí"
+    },
+    {
+      "id": 356480,
+      "translation": {
+        "en": {
+          "short": "janus chess",
+          "long": "a chess variant played on a 10x8 board with two extra pawns per player and new pieces called \"Janus\" that can move like a bishop or a knight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Janus",
+          "long": "Varian catur dimainkan di papan 10x8 dengan dua pion tambahan per pemain dan karya baru yang disebut \"Janus\" yang dapat bergerak seperti uskup atau seorang ksatria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356480.jpeg",
+      "simplified": "两面象棋",
+      "traditional": "兩面象棋",
+      "pinyin": "liǎngmiàn xiàngqí"
+    },
+    {
+      "id": 356482,
+      "translation": {
+        "en": {
+          "short": "almost chess",
+          "long": "a chess variant played on a 10x8 board with two missing squares in the center, limiting the movement of pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hampir catur",
+          "long": "Varian catur dimainkan di papan 10x8 dengan dua kotak yang hilang di tengah, membatasi pergerakan potongan -potongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356482.jpeg",
+      "simplified": "几乎是国际象棋",
+      "traditional": "幾乎是國際象棋",
+      "pinyin": "jīhū shì guójì xiàng qí"
+    },
+    {
+      "id": 356484,
+      "translation": {
+        "en": {
+          "short": "hexagonal chess",
+          "long": "a variant of chess played on a hexagonal board, where the movement rules are modified to suit the new board shape, creating a unique and different playing experience from traditional chess on a square board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catur heksagonal",
+          "long": "Varian catur yang dimainkan di papan heksagonal, di mana aturan gerakan dimodifikasi agar sesuai dengan bentuk papan baru, menciptakan pengalaman bermain yang unik dan berbeda dari catur tradisional di papan persegi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356484.jpeg",
+      "simplified": "六角棋",
+      "traditional": "六角棋",
+      "pinyin": "liùjiǎo qí"
+    },
+    {
+      "id": 356486,
+      "translation": {
+        "en": {
+          "short": "grand chess",
+          "long": "a large-board variant of chess that uses a 10x10 board and introduces additional pieces and expanded rules, offering new strategic possibilities compared to traditional chess",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grand Chess",
+          "long": "Varian besar catur yang menggunakan papan 10x10 dan memperkenalkan potongan tambahan dan aturan yang diperluas, menawarkan kemungkinan strategis baru dibandingkan dengan catur tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356486.jpeg",
+      "simplified": "大棋",
+      "traditional": "大棋",
+      "pinyin": "dà qí"
+    },
+    {
+      "id": 356488,
+      "translation": {
+        "en": {
+          "short": "sittuyin",
+          "long": "a traditional chess variant played in Myanmar on a 64-square board with unique pieces and rules distinct from standard chess",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sittuyin",
+          "long": "Varian catur tradisional yang dimainkan di Myanmar di papan 64 square dengan potongan-potongan unik dan aturan yang berbeda dari catur standar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356488.jpeg",
+      "simplified": "实都因",
+      "traditional": "實都因",
+      "pinyin": "shí Dū yīn"
+    },
+    {
+      "id": 356490,
+      "translation": {
+        "en": {
+          "short": "Tamerlane chess",
+          "long": "a historical chess variant played on a 10x10 board with extra pieces and unique rules, inspired by the historical conqueror Timur",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Tamerlane",
+          "long": "Varian catur historis yang dimainkan di papan 10x10 dengan potongan tambahan dan aturan unik, terinspirasi oleh penakluk sejarah Timur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356490.jpeg",
+      "simplified": "帖木儿象棋",
+      "traditional": "帖木兒象棋",
+      "pinyin": "Tiēmù ér xiàngqí"
+    }
+  ]
+}

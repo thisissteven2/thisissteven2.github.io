@@ -1,0 +1,754 @@
+{
+  "id": 801,
+  "title": {
+    "en": "The Environment and Energy",
+    "id": "Lingkungan dan energi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the environment and energy, such as \"planet\", \"habitat\", \"resource\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang lingkungan dan energi, seperti \"planet\", \"habitat\", \"sumber daya\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 244165,
+      "translation": {
+        "en": {
+          "short": "planet",
+          "long": "a huge round object that moves in an orbit, around the sun or any other star",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "planet",
+          "long": "objek bundar besar yang bergerak dalam orbit, di sekitar matahari atau bintang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244165.jpeg",
+      "simplified": "行星",
+      "traditional": "行星",
+      "pinyin": "xíngxīng"
+    },
+    {
+      "id": 236357,
+      "translation": {
+        "en": {
+          "short": "atmosphere",
+          "long": "the different types of gases that surround the earth or other planets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suasana",
+          "long": "berbagai jenis gas yang mengelilingi bumi atau planet lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236357.jpeg",
+      "simplified": "大气",
+      "traditional": "大氣",
+      "pinyin": "dàqì"
+    },
+    {
+      "id": 236358,
+      "translation": {
+        "en": {
+          "short": "habitat",
+          "long": "the place or area in which certain animals, birds, or plants naturally exist, lives, and grows",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "habitat",
+          "long": "Tempat atau area di mana hewan, burung, atau tumbuhan tertentu secara alami ada, hidup, dan tumbuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236358.jpeg",
+      "simplified": "栖息地",
+      "traditional": "棲息地",
+      "pinyin": "qīxī dì"
+    },
+    {
+      "id": 236372,
+      "translation": {
+        "en": {
+          "short": "resource",
+          "long": "(usually plural) a country's gas, oil, trees, etc. that are considered valuable and therefore can be sold to gain wealth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumber",
+          "long": "(biasanya jamak) Gas, minyak, pohon, dll. Yang dianggap berharga dan karenanya dapat dijual untuk mendapatkan kekayaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236372.jpeg",
+      "simplified": "自然资源",
+      "traditional": "自然資源",
+      "pinyin": "zìrán zī yuán"
+    },
+    {
+      "id": 236365,
+      "translation": {
+        "en": {
+          "short": "power",
+          "long": "the energy that is obtained through different means, such as electrical or solar, to operate different equipment or machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekuatan",
+          "long": "Energi yang diperoleh melalui cara yang berbeda, seperti listrik atau matahari, untuk mengoperasikan berbagai peralatan atau mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236365.jpeg",
+      "simplified": "能源",
+      "traditional": "能源",
+      "pinyin": "néngyuán"
+    },
+    {
+      "id": 236327,
+      "translation": {
+        "en": {
+          "short": "fuel",
+          "long": "any substance that can produce energy or heat when burned",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan bakar",
+          "long": "zat apa pun yang dapat menghasilkan energi atau panas saat dibakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236327.jpeg",
+      "simplified": "燃料",
+      "traditional": "燃料",
+      "pinyin": "ránliào"
+    },
+    {
+      "id": 236330,
+      "translation": {
+        "en": {
+          "short": "fossil fuel",
+          "long": "a fuel that is found in nature and obtained from the remains of plants and animals that died millions of years ago, such as coal and gas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan bakar fosil",
+          "long": "bahan bakar yang ditemukan di alam dan diperoleh dari sisa -sisa tumbuhan dan hewan yang mati jutaan tahun yang lalu, seperti batubara dan gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236330.jpeg",
+      "simplified": "化石燃料",
+      "traditional": "化石燃料",
+      "pinyin": "huàshí rán liào"
+    },
+    {
+      "id": 236328,
+      "translation": {
+        "en": {
+          "short": "coal",
+          "long": "a type of fossil fuel, which is black and found in the ground, typically used as a source of energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu bara",
+          "long": "Jenis bahan bakar fosil, yang berwarna hitam dan ditemukan di tanah, biasanya digunakan sebagai sumber energi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236328.jpeg",
+      "simplified": "煤炭",
+      "traditional": "煤炭",
+      "pinyin": "méitàn"
+    },
+    {
+      "id": 236362,
+      "translation": {
+        "en": {
+          "short": "oil",
+          "long": "a liquid found deep under the ground that is used as a fuel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak",
+          "long": "cairan yang ditemukan jauh di bawah tanah yang digunakan sebagai bahan bakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236362.jpeg",
+      "simplified": "油",
+      "traditional": "油",
+      "pinyin": "yóu"
+    },
+    {
+      "id": 236332,
+      "translation": {
+        "en": {
+          "short": "energy",
+          "long": "a source of power that can be used to produce heat, light, or to operate different machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "energi",
+          "long": "Sumber daya yang dapat digunakan untuk menghasilkan panas, cahaya, atau untuk mengoperasikan mesin yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236332.jpeg",
+      "simplified": "能源",
+      "traditional": "能源",
+      "pinyin": "néngyuán"
+    },
+    {
+      "id": 236333,
+      "translation": {
+        "en": {
+          "short": "atomic energy",
+          "long": "a clean and powerful energy that is obtained by splitting atoms, which then can be used to produce heat, electricity, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "energi Atom",
+          "long": "Energi bersih dan kuat yang diperoleh dengan memisahkan atom, yang kemudian dapat digunakan untuk menghasilkan panas, listrik, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236333.jpeg",
+      "simplified": "原子能",
+      "traditional": "原子能",
+      "pinyin": "yuánzǐ néng"
+    },
+    {
+      "id": 236335,
+      "translation": {
+        "en": {
+          "short": "carbon footprint",
+          "long": "the amount of carbon dioxide that an organization or person releases into the atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jejak karbon",
+          "long": "Jumlah karbon dioksida yang dilepaskan oleh suatu organisasi atau orang ke atmosfer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236335.jpeg",
+      "simplified": "碳足迹",
+      "traditional": "碳足跡",
+      "pinyin": "tànzú jì"
+    },
+    {
+      "id": 236336,
+      "translation": {
+        "en": {
+          "short": "carbon dioxide",
+          "long": "a type of gas with no color and smell that is produced by burning carbon or during breathing out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karbon dioksida",
+          "long": "Jenis gas tanpa warna dan bau yang diproduksi oleh pembakaran karbon atau saat bernafas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236336.jpeg",
+      "simplified": "二氧化碳",
+      "traditional": "二氧化碳",
+      "pinyin": "èryǎng huà tàn"
+    },
+    {
+      "id": 236338,
+      "translation": {
+        "en": {
+          "short": "clean",
+          "long": "having no harmful substances that could cause pollution",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "membersihkan",
+          "long": "tidak memiliki zat berbahaya yang dapat menyebabkan polusi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236338.jpeg",
+      "simplified": "干净的",
+      "traditional": "乾淨的",
+      "pinyin": "gānjìng de"
+    },
+    {
+      "id": 236347,
+      "translation": {
+        "en": {
+          "short": "cleanup",
+          "long": "the act of removing harmful or dirty substances from somewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membersihkan",
+          "long": "tindakan menghilangkan zat berbahaya atau kotor dari suatu tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236347.jpeg",
+      "simplified": "净化",
+      "traditional": "淨化",
+      "pinyin": "jìnghuà"
+    },
+    {
+      "id": 236351,
+      "translation": {
+        "en": {
+          "short": "eco-friendly",
+          "long": "causing or having little to no harm to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ramah lingkungan",
+          "long": "menyebabkan atau memiliki sedikit atau tidak ada salahnya bagi lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236351.jpeg",
+      "simplified": "环保的",
+      "traditional": "環保的",
+      "pinyin": "huánbǎo de"
+    },
+    {
+      "id": 236354,
+      "translation": {
+        "en": {
+          "short": "green",
+          "long": "(of a substance or product) causing no harm to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hijau",
+          "long": "(suatu zat atau produk) tidak menyebabkan kerusakan pada lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236354.jpeg",
+      "simplified": "绿色的",
+      "traditional": "綠色的",
+      "pinyin": "lǜsè de"
+    },
+    {
+      "id": 236341,
+      "translation": {
+        "en": {
+          "short": "to pollute",
+          "long": "to damage the environment by releasing harmful chemicals or substances to the air, water, or land",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mencemari",
+          "long": "untuk merusak lingkungan dengan melepaskan bahan kimia atau zat berbahaya ke udara, air, atau tanah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236341.jpeg",
+      "simplified": "污染",
+      "traditional": "污染",
+      "pinyin": "wūrǎn"
+    },
+    {
+      "id": 236350,
+      "translation": {
+        "en": {
+          "short": "to consume",
+          "long": "to use a supply of energy, fuel, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengkonsumsi",
+          "long": "untuk menggunakan pasokan energi, bahan bakar, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236350.jpeg",
+      "simplified": "消耗",
+      "traditional": "消耗",
+      "pinyin": "xiāohào"
+    },
+    {
+      "id": 236345,
+      "translation": {
+        "en": {
+          "short": "climate crisis",
+          "long": "an urgent situation in which proper action must be taken to remove the threats done to the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "krisis iklim",
+          "long": "Situasi mendesak di mana tindakan yang tepat harus diambil untuk menghilangkan ancaman yang dilakukan terhadap lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236345.jpeg",
+      "simplified": "气候危机",
+      "traditional": "氣候危機",
+      "pinyin": "qìhòu wēijī"
+    },
+    {
+      "id": 236360,
+      "translation": {
+        "en": {
+          "short": "natural disaster",
+          "long": "any destruction caused by the nature that results in a great amount of damage or the death of many, such as an earthquake, flood, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bencana alam",
+          "long": "Kerusakan apa pun yang disebabkan oleh sifat yang mengakibatkan sejumlah besar kerusakan atau kematian banyak orang, seperti gempa bumi, banjir, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236360.jpeg",
+      "simplified": "自然灾害",
+      "traditional": "自然災害",
+      "pinyin": "zìrán zāi hài"
+    },
+    {
+      "id": 236352,
+      "translation": {
+        "en": {
+          "short": "volcanic eruption",
+          "long": "the sudden release of lava, gases, and ash from a volcano",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "erupsi vulkanik",
+          "long": "pelepasan lava, gas, dan abu yang tiba -tiba dari gunung berapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236352.jpeg",
+      "simplified": "火山爆发",
+      "traditional": "火山爆發",
+      "pinyin": "huǒshān bào fā"
+    },
+    {
+      "id": 236353,
+      "translation": {
+        "en": {
+          "short": "garbage",
+          "long": "things such as household materials that have no use anymore",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampah",
+          "long": "hal -hal seperti bahan rumah tangga yang tidak ada lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236353.jpeg",
+      "simplified": "垃圾",
+      "traditional": "垃圾",
+      "pinyin": "lājī"
+    },
+    {
+      "id": 236371,
+      "translation": {
+        "en": {
+          "short": "waste",
+          "long": "materials that have no use and are unwanted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limbah",
+          "long": "bahan yang tidak digunakan dan tidak diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236371.jpeg",
+      "simplified": "废物",
+      "traditional": "廢物",
+      "pinyin": "fèiwù"
+    },
+    {
+      "id": 236355,
+      "translation": {
+        "en": {
+          "short": "greenhouse gas",
+          "long": "any type of gas, particularly carbon dioxide, that contributes to global warming by trapping heat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gas rumah kaca",
+          "long": "Semua jenis gas, terutama karbon dioksida, yang berkontribusi terhadap pemanasan global dengan menjebak panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236355.jpeg",
+      "simplified": "温室气体",
+      "traditional": "溫室氣體",
+      "pinyin": "wēnshì qì tǐ"
+    },
+    {
+      "id": 236356,
+      "translation": {
+        "en": {
+          "short": "greenhouse effect",
+          "long": "a global problem that is caused by the increase of harmful gases such as carbon dioxide which results in gradual warming of the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek rumah kaca",
+          "long": "Masalah global yang disebabkan oleh peningkatan gas berbahaya seperti karbon dioksida yang mengakibatkan pemanasan secara bertahap di bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236356.jpeg",
+      "simplified": "温室效应",
+      "traditional": "溫室效應",
+      "pinyin": "wēnshì xiào yìng"
+    },
+    {
+      "id": 236363,
+      "translation": {
+        "en": {
+          "short": "toxic",
+          "long": "consisting of poisonous substances",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "beracun",
+          "long": "terdiri dari zat beracun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236363.jpeg",
+      "simplified": "有毒的",
+      "traditional": "有毒的",
+      "pinyin": "yǒudú de"
+    },
+    {
+      "id": 236364,
+      "translation": {
+        "en": {
+          "short": "poisonous",
+          "long": "consisting of toxic substances that can cause harm or death",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "beracun",
+          "long": "terdiri dari zat beracun yang dapat menyebabkan kerusakan atau kematian",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236364.jpeg",
+      "simplified": "有毒",
+      "traditional": "有毒",
+      "pinyin": "yǒudú"
+    },
+    {
+      "id": 236366,
+      "translation": {
+        "en": {
+          "short": "air pollution",
+          "long": "toxic and harmful substances in the air that can cause illnesses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polusi udara",
+          "long": "zat beracun dan berbahaya di udara yang dapat menyebabkan penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236366.jpeg",
+      "simplified": "空气污染",
+      "traditional": "空氣污染",
+      "pinyin": "kōngqì wū rǎn"
+    },
+    {
+      "id": 236375,
+      "translation": {
+        "en": {
+          "short": "smoke",
+          "long": "a cloud of chemicals produced by burning something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "merokok",
+          "long": "awan bahan kimia yang diproduksi dengan membakar sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236375.jpeg",
+      "simplified": "烟雾",
+      "traditional": "煙霧",
+      "pinyin": "yānwù"
+    },
+    {
+      "id": 236368,
+      "translation": {
+        "en": {
+          "short": "power plant",
+          "long": "a large building in which electricity is made",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembangkit listrik",
+          "long": "bangunan besar di mana listrik dibuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236368.jpeg",
+      "simplified": "发电厂",
+      "traditional": "發電廠",
+      "pinyin": "fādiàn chǎng"
+    },
+    {
+      "id": 236369,
+      "translation": {
+        "en": {
+          "short": "to recycle",
+          "long": "to make a waste product usable again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendaur ulang",
+          "long": "untuk membuat produk limbah dapat digunakan lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236369.jpeg",
+      "simplified": "回收",
+      "traditional": "回收",
+      "pinyin": "huíshōu"
+    },
+    {
+      "id": 236370,
+      "translation": {
+        "en": {
+          "short": "recycling",
+          "long": "the process of making waste products usable again",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mendaur ulang",
+          "long": "Proses membuat produk limbah dapat digunakan lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236370.jpeg",
+      "simplified": "回收",
+      "traditional": "回收",
+      "pinyin": "huíshōu"
+    },
+    {
+      "id": 236373,
+      "translation": {
+        "en": {
+          "short": "renewable",
+          "long": "(of a resource, energy, etc.) naturally restored as fast as or faster than they are used up",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diperbarui",
+          "long": "(dari sumber daya, energi, dll.) Secara alami dipulihkan secepat atau lebih cepat dari yang digunakan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236373.jpeg",
+      "simplified": "可再生",
+      "traditional": "可再生",
+      "pinyin": "kězài shēng"
+    },
+    {
+      "id": 236782,
+      "translation": {
+        "en": {
+          "short": "emergency",
+          "long": "an unexpected and usually dangerous situation needing immediate attention or action",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keadaan darurat",
+          "long": "situasi yang tidak terduga dan biasanya berbahaya membutuhkan perhatian atau tindakan segera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236782.jpeg",
+      "simplified": "急",
+      "traditional": "急",
+      "pinyin": "jí"
+    },
+    {
+      "id": 258105,
+      "translation": {
+        "en": {
+          "short": "to rot",
+          "long": "to become destroyed, often due to the action of bacteria or fungi over time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menjadi busuk",
+          "long": "untuk dihancurkan, seringkali karena aksi bakteri atau jamur dari waktu ke waktu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258105.jpeg",
+      "simplified": "腐烂",
+      "traditional": "腐爛",
+      "pinyin": "fǔlàn"
+    },
+    {
+      "id": 394032,
+      "translation": {
+        "en": {
+          "short": "filth",
+          "long": "any substance that is dirty, disgusting, or unpleasant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotoran",
+          "long": "zat apa pun yang kotor, menjijikkan, atau tidak menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394032.jpeg",
+      "simplified": "污物",
+      "traditional": "污物",
+      "pinyin": "wū wù"
+    },
+    {
+      "id": 258185,
+      "translation": {
+        "en": {
+          "short": "to rot",
+          "long": "to cause a particular thing to decay or decompose",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menjadi busuk",
+          "long": "menyebabkan hal tertentu membusuk atau membusuk",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258185.jpeg",
+      "simplified": "腐烂",
+      "traditional": "腐爛",
+      "pinyin": "fǔlàn"
+    },
+    {
+      "id": 264026,
+      "translation": {
+        "en": {
+          "short": "act of God",
+          "long": "an earthquake, storm, or any other natural event that humans cannot prevent or control",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tindakan Tuhan",
+          "long": "gempa bumi, badai, atau peristiwa alam lainnya yang tidak dapat dicegah atau dikendalikan manusia",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264026.jpeg",
+      "simplified": "自然灾害",
+      "traditional": "自然災害",
+      "pinyin": "zìrán zāi hài"
+    }
+  ]
+}

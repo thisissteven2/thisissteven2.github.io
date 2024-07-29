@@ -1,0 +1,545 @@
+{
+  "id": 795,
+  "title": {
+    "en": "Mathematics",
+    "id": "Matematika"
+  },
+  "description": {
+    "en": "Here you will learn some English words about Mathematics, such as \"add up\", \"subtract\", and \"multiply\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang matematika, seperti \"add up\", \"kurangi\", dan \"multiply\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 236039,
+      "translation": {
+        "en": {
+          "short": "to calculate",
+          "long": "to find a number or amount using mathematics",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menghitung",
+          "long": "untuk menemukan angka atau jumlah menggunakan matematika",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236039.jpeg",
+      "simplified": "计算",
+      "traditional": "計算",
+      "pinyin": "jìsuàn"
+    },
+    {
+      "id": 236040,
+      "translation": {
+        "en": {
+          "short": "calculation",
+          "long": "the act of finding a number or amount using mathematics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perhitungan",
+          "long": "tindakan menemukan angka atau jumlah menggunakan matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236040.jpeg",
+      "simplified": "数",
+      "traditional": "數",
+      "pinyin": "shǔ"
+    },
+    {
+      "id": 236032,
+      "translation": {
+        "en": {
+          "short": "to add",
+          "long": "(mathematics) to put numbers or amounts together and find the total",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menambahkan",
+          "long": "(Matematika) untuk menyatukan angka atau jumlah dan temukan totalnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236032.jpeg",
+      "simplified": "加",
+      "traditional": "加",
+      "pinyin": "Jiā"
+    },
+    {
+      "id": 236036,
+      "translation": {
+        "en": {
+          "short": "to add up",
+          "long": "to find the total of a set of numbers or quantities",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bertambah",
+          "long": "untuk menemukan total satu set angka atau jumlah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236036.jpeg",
+      "simplified": "将数字彼此相加",
+      "traditional": "將數字彼此相加",
+      "pinyin": "jiāng shùzì bǐcǐ xiāngjiā"
+    },
+    {
+      "id": 236033,
+      "translation": {
+        "en": {
+          "short": "to subtract",
+          "long": "(mathematics) to take a number from another number and find out the difference",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengurangi",
+          "long": "(Matematika) untuk mengambil nomor dari nomor lain dan mencari tahu perbedaannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236033.jpeg",
+      "simplified": "减去",
+      "traditional": "減去",
+      "pinyin": "jiǎnqù"
+    },
+    {
+      "id": 236034,
+      "translation": {
+        "en": {
+          "short": "to multiply",
+          "long": "(mathematics) to add a number to itself a certain number of times",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melipatgandakan",
+          "long": "(Matematika) untuk menambahkan angka ke dirinya sendiri beberapa kali",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236034.jpeg",
+      "simplified": "乘以",
+      "traditional": "乘以",
+      "pinyin": "chéngyǐ"
+    },
+    {
+      "id": 236035,
+      "translation": {
+        "en": {
+          "short": "to divide",
+          "long": "(mathematics) to calculate how many times a number contains another number",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "membagi",
+          "long": "(Matematika) Untuk menghitung berapa kali angka berisi nomor lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236035.jpeg",
+      "simplified": "划分",
+      "traditional": "劃分",
+      "pinyin": "huàfēn"
+    },
+    {
+      "id": 236042,
+      "translation": {
+        "en": {
+          "short": "to count",
+          "long": "to determine the number of people or objects in a group",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghitung",
+          "long": "untuk menentukan jumlah orang atau objek dalam suatu kelompok",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236042.jpeg",
+      "simplified": "计数人或物体",
+      "traditional": "計數人或物體",
+      "pinyin": "jìshù rén huò wùtǐ"
+    },
+    {
+      "id": 236041,
+      "translation": {
+        "en": {
+          "short": "count",
+          "long": "the act of saying the numbers out loud in an order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghitung",
+          "long": "tindakan mengatakan angka -angkanya dengan keras dalam suatu pesanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236041.jpeg",
+      "simplified": "筹",
+      "traditional": "籌",
+      "pinyin": "chóu"
+    },
+    {
+      "id": 236037,
+      "translation": {
+        "en": {
+          "short": "average",
+          "long": "calculated by adding a set of numbers together and dividing this amount by the total number of amounts in that set",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rata-rata",
+          "long": "dihitung dengan menambahkan satu set angka bersama -sama dan membagi jumlah ini dengan jumlah total jumlah dalam set itu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236037.jpeg",
+      "simplified": "数学平均数",
+      "traditional": "數學平均數",
+      "pinyin": "shùxué píngjūn shù"
+    },
+    {
+      "id": 236043,
+      "translation": {
+        "en": {
+          "short": "to equal",
+          "long": "to be the same size, value, number, etc. as something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk setara",
+          "long": "menjadi ukuran, nilai, angka, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236043.jpeg",
+      "simplified": "等于",
+      "traditional": "等於",
+      "pinyin": "děngyú"
+    },
+    {
+      "id": 236044,
+      "translation": {
+        "en": {
+          "short": "figure",
+          "long": "a symbol that represents any number between 0 and 9",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angka",
+          "long": "simbol yang mewakili angka apa pun antara 0 dan 9",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236044.jpeg",
+      "simplified": "数字",
+      "traditional": "數字",
+      "pinyin": "shùzì"
+    },
+    {
+      "id": 236045,
+      "translation": {
+        "en": {
+          "short": "mathematics",
+          "long": "the study of numbers and shapes that involves calculation and description",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matematika",
+          "long": "Studi tentang angka dan bentuk yang melibatkan perhitungan dan deskripsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236045.jpeg",
+      "simplified": "数学",
+      "traditional": "數學",
+      "pinyin": "shùxué"
+    },
+    {
+      "id": 236063,
+      "translation": {
+        "en": {
+          "short": "thousand",
+          "long": "the number 1 followed by 3 zeros",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "ribu",
+          "long": "angka 1 diikuti oleh 3 nol",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236063.jpeg",
+      "simplified": "一千号",
+      "traditional": "一千號",
+      "pinyin": "yī qiān háo"
+    },
+    {
+      "id": 236046,
+      "translation": {
+        "en": {
+          "short": "million",
+          "long": "the number 1 followed by 6 zeros",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "juta",
+          "long": "angka 1 diikuti oleh 6 nol",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236046.jpeg",
+      "simplified": "一百万",
+      "traditional": "一百萬",
+      "pinyin": "yī bǎiwàn"
+    },
+    {
+      "id": 236038,
+      "translation": {
+        "en": {
+          "short": "billion",
+          "long": "the number 1 followed by 9 zeros",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "miliar",
+          "long": "angka 1 diikuti oleh 9 nol",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236038.jpeg",
+      "simplified": "十亿",
+      "traditional": "十億",
+      "pinyin": "shíyì"
+    },
+    {
+      "id": 236049,
+      "translation": {
+        "en": {
+          "short": "minus sign",
+          "long": "the sign (-) that is used in mathematics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda kurang",
+          "long": "Tanda (-) yang digunakan dalam matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236049.jpeg",
+      "simplified": "减号",
+      "traditional": "減號",
+      "pinyin": "jiǎnhào"
+    },
+    {
+      "id": 236051,
+      "translation": {
+        "en": {
+          "short": "plus sign",
+          "long": "the sign (+) that is used in mathematics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda tambah",
+          "long": "Tanda (+) yang digunakan dalam matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236051.jpeg",
+      "simplified": "加号",
+      "traditional": "加號",
+      "pinyin": "jiāhào"
+    },
+    {
+      "id": 236053,
+      "translation": {
+        "en": {
+          "short": "negative",
+          "long": "(of a number) less than zero",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "negatif",
+          "long": "(dari angka) kurang dari nol",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236053.jpeg",
+      "simplified": "消极的",
+      "traditional": "消極的",
+      "pinyin": "xiāojí de"
+    },
+    {
+      "id": 236054,
+      "translation": {
+        "en": {
+          "short": "positive",
+          "long": "(of a number) higher than zero",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "positif",
+          "long": "(dari angka) lebih tinggi dari nol",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236054.jpeg",
+      "simplified": "积极的",
+      "traditional": "積極的",
+      "pinyin": "jījí de"
+    },
+    {
+      "id": 236055,
+      "translation": {
+        "en": {
+          "short": "number",
+          "long": "a word, sign, or symbol that represents a specific quantity or amount",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor",
+          "long": "kata, tanda, atau simbol yang mewakili jumlah atau jumlah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236055.jpeg",
+      "simplified": "数",
+      "traditional": "數",
+      "pinyin": "shǔ"
+    },
+    {
+      "id": 236132,
+      "translation": {
+        "en": {
+          "short": "operation",
+          "long": "(mathematics) a process according to which a calculation is done, such as adding, dividing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi",
+          "long": "(Matematika) Suatu proses yang menurutnya perhitungan dilakukan, seperti menambahkan, membagi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236132.jpeg",
+      "simplified": "运算",
+      "traditional": "運算",
+      "pinyin": "yùnsuàn"
+    },
+    {
+      "id": 236057,
+      "translation": {
+        "en": {
+          "short": "sign",
+          "long": "a symbol or letters used in math, music, or other subjects to show an instruction, idea, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda",
+          "long": "Simbol atau huruf yang digunakan dalam matematika, musik, atau mata pelajaran lain untuk menunjukkan instruksi, ide, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236057.jpeg",
+      "simplified": "数学符号",
+      "traditional": "數學符號",
+      "pinyin": "shùxué fúhào"
+    },
+    {
+      "id": 236060,
+      "translation": {
+        "en": {
+          "short": "symbol",
+          "long": "a mark or set of characters that shows a certain meaning, particularly in fields like chemistry, music, or science",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "simbol",
+          "long": "tanda atau serangkaian karakter yang menunjukkan makna tertentu, terutama di bidang seperti kimia, musik, atau sains",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236060.jpeg",
+      "simplified": "符号",
+      "traditional": "符號",
+      "pinyin": "fúhào"
+    },
+    {
+      "id": 236059,
+      "translation": {
+        "en": {
+          "short": "solution",
+          "long": "a correct answer to a problem in mathematics or a puzzle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "larutan",
+          "long": "Jawaban yang benar untuk masalah dalam matematika atau teka -teki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236059.jpeg",
+      "simplified": "解",
+      "traditional": "解",
+      "pinyin": "Xiè"
+    },
+    {
+      "id": 236062,
+      "translation": {
+        "en": {
+          "short": "sum",
+          "long": "the whole amount of numbers added together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jumlah",
+          "long": "seluruh jumlah angka ditambahkan bersama -sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236062.jpeg",
+      "simplified": "和",
+      "traditional": "和",
+      "pinyin": "hé"
+    },
+    {
+      "id": 236064,
+      "translation": {
+        "en": {
+          "short": "total",
+          "long": "the whole amount of numbers that are added together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "total",
+          "long": "seluruh jumlah angka yang ditambahkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236064.jpeg",
+      "simplified": "总计",
+      "traditional": "總計",
+      "pinyin": "zǒngjì"
+    },
+    {
+      "id": 236137,
+      "translation": {
+        "en": {
+          "short": "percent",
+          "long": "in or for every one hundred, shown by the symbol (%)",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "persen",
+          "long": "di atau untuk setiap seratus, ditunjukkan oleh simbol (%)",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236137.jpeg",
+      "simplified": "百分",
+      "traditional": "百分",
+      "pinyin": "bǎifēn"
+    }
+  ]
+}

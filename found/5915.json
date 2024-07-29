@@ -1,0 +1,944 @@
+{
+  "id": 5915,
+  "title": {
+    "en": "Social Sciences",
+    "id": "Ilmu Sosial"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to social sciences, such as \"minority\", \"patriarchal\", \"census\", etc. that you will need to ace your SATs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan ilmu sosial, seperti \"minoritas\", \"patriarkal\", \"sensus\", dll. Yang Anda perlukan untuk menyaksikan sats Anda."
+  },
+  "cards": [
+    {
+      "id": 397427,
+      "translation": {
+        "en": {
+          "short": "segregation",
+          "long": "the policy of separating a group of people from the rest based on racial, sexual, or religious grounds and discriminating against them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemisahan",
+          "long": "Kebijakan memisahkan sekelompok orang dari yang lain berdasarkan alasan ras, seksual, atau agama dan mendiskriminasi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397427.jpeg",
+      "simplified": "歧视（种族、性别等）",
+      "traditional": "歧視（種族、性別等）",
+      "pinyin": "qíshì zhǒngzú xìngbié děng"
+    },
+    {
+      "id": 397462,
+      "translation": {
+        "en": {
+          "short": "discrimination",
+          "long": "the practice of treating a person or different categories of people less fairly than others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diskriminasi",
+          "long": "praktik memperlakukan seseorang atau kategori orang yang berbeda kurang adil dari yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397462.jpeg",
+      "simplified": "区别",
+      "traditional": "區別",
+      "pinyin": "qūbié"
+    },
+    {
+      "id": 397448,
+      "translation": {
+        "en": {
+          "short": "ethnicity",
+          "long": "the state of belonging to a certain ethnic group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "etnisitas",
+          "long": "Keadaan milik kelompok etnis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397448.jpeg",
+      "simplified": "种族",
+      "traditional": "種族",
+      "pinyin": "zhǒngzú"
+    },
+    {
+      "id": 397454,
+      "translation": {
+        "en": {
+          "short": "minority",
+          "long": "a small group of people who differ in race, religion, etc. and are often mistreated by the society",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minoritas",
+          "long": "sekelompok kecil orang yang berbeda dalam ras, agama, dll. Dan sering dianiaya oleh masyarakat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397454.jpeg",
+      "simplified": "少数民族",
+      "traditional": "少數民族",
+      "pinyin": "shǎoshù mín zú"
+    },
+    {
+      "id": 397431,
+      "translation": {
+        "en": {
+          "short": "activism",
+          "long": "the action of striving to bring about social or political reform, especially as a member of an organization with specific objectives",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aktivisme",
+          "long": "Tindakan berusaha untuk menghasilkan reformasi sosial atau politik, terutama sebagai anggota organisasi dengan tujuan spesifik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397431.jpeg",
+      "simplified": "社会或政治改革",
+      "traditional": "社會或政治改革",
+      "pinyin": "shèhuì huò zhèngzhì gǎi gé"
+    },
+    {
+      "id": 397432,
+      "translation": {
+        "en": {
+          "short": "agency",
+          "long": "the capacity or power of an individual or entity to take action, make decisions, and influence or control their environment or circumstances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agen",
+          "long": "kapasitas atau kekuatan individu atau entitas untuk mengambil tindakan, membuat keputusan, dan mempengaruhi atau mengendalikan lingkungan atau keadaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397432.jpeg",
+      "simplified": "机构",
+      "traditional": "機構",
+      "pinyin": "jīgòu"
+    },
+    {
+      "id": 397433,
+      "translation": {
+        "en": {
+          "short": "clan",
+          "long": "a large group of people who are related to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klan",
+          "long": "sekelompok besar orang yang berhubungan satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397433.jpeg",
+      "simplified": "氏族",
+      "traditional": "氏族",
+      "pinyin": "shìzú"
+    },
+    {
+      "id": 397437,
+      "translation": {
+        "en": {
+          "short": "chiefdom",
+          "long": "a form of sociopolitical organization in which a centralized authority governs a community or a collection of communities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kepala",
+          "long": "Suatu bentuk organisasi sosiopolitik di mana otoritas terpusat mengatur komunitas atau kumpulan komunitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397437.jpeg",
+      "simplified": "酋长国",
+      "traditional": "酋長國",
+      "pinyin": "qiúzhǎng guó"
+    },
+    {
+      "id": 397438,
+      "translation": {
+        "en": {
+          "short": "collective",
+          "long": "a cooperative or united group of individuals, entities, or elements working together for a common purpose or interest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolektif",
+          "long": "kelompok individu, entitas, atau elemen yang bekerja sama atau bersatu yang bekerja bersama untuk tujuan atau minat yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397438.jpeg",
+      "simplified": "合作企业成员",
+      "traditional": "合作企業成員",
+      "pinyin": "hézuò qǐyè chéngyuán"
+    },
+    {
+      "id": 397440,
+      "translation": {
+        "en": {
+          "short": "demographic",
+          "long": "the statistical characteristics of a population, such as age, gender, and ethnicity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demografis",
+          "long": "Karakteristik statistik suatu populasi, seperti usia, jenis kelamin, dan etnisitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397440.jpeg",
+      "simplified": "人口统计",
+      "traditional": "人口統計",
+      "pinyin": "rénkǒu tǒngjì"
+    },
+    {
+      "id": 397451,
+      "translation": {
+        "en": {
+          "short": "urbanization",
+          "long": "the process of people moving from rural areas to urban areas, resulting in the growth of cities and the expansion of urban areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urbanisasi",
+          "long": "Proses orang yang pindah dari daerah pedesaan ke daerah perkotaan, menghasilkan pertumbuhan kota dan perluasan daerah perkotaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397451.jpeg",
+      "simplified": "都市化",
+      "traditional": "都市化",
+      "pinyin": "dūshì huà"
+    },
+    {
+      "id": 397447,
+      "translation": {
+        "en": {
+          "short": "civilization",
+          "long": "a society that has developed its own culture and institutions in a particular period of time or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peradaban",
+          "long": "masyarakat yang telah mengembangkan budaya dan institusi sendiri dalam periode waktu atau tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397447.jpeg",
+      "simplified": "文明",
+      "traditional": "文明",
+      "pinyin": "wénmíng"
+    },
+    {
+      "id": 397430,
+      "translation": {
+        "en": {
+          "short": "bureaucracy",
+          "long": "an organizational structure characterized by strict procedures, rules, and regulations designed to manage complex tasks or activities efficiently",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "birokrasi",
+          "long": "Struktur organisasi yang ditandai dengan prosedur, aturan, dan peraturan yang ketat yang dirancang untuk mengelola tugas atau kegiatan yang kompleks secara efisien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397430.jpeg",
+      "simplified": "官僚",
+      "traditional": "官僚",
+      "pinyin": "guānliáo"
+    },
+    {
+      "id": 397446,
+      "translation": {
+        "en": {
+          "short": "socialization",
+          "long": "the process through which individuals within a society or group learn and internalize behavior patterns, norms, values, and customs through interactions, education, and social experiences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sosialisasi",
+          "long": "Proses yang melaluinya individu dalam masyarakat atau kelompok mempelajari dan menginternalisasi pola perilaku, norma, nilai, dan kebiasaan melalui interaksi, pendidikan, dan pengalaman sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397446.jpeg",
+      "simplified": "社会化",
+      "traditional": "社會化",
+      "pinyin": "shèhuì huà"
+    },
+    {
+      "id": 397449,
+      "translation": {
+        "en": {
+          "short": "civil right",
+          "long": "any of the rights of individuals to receive equal treatment and protection under the law, regardless of their race, gender, religion, disability, or other characteristics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hak sipil",
+          "long": "Salah satu hak individu untuk menerima perlakuan dan perlindungan yang sama berdasarkan hukum, terlepas dari ras, jenis kelamin, agama, kecacatan, atau karakteristik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397449.jpeg",
+      "simplified": "公民权利",
+      "traditional": "公民權利",
+      "pinyin": "gōngmín quán lì"
+    },
+    {
+      "id": 397441,
+      "translation": {
+        "en": {
+          "short": "status quo",
+          "long": "the situation or condition that is currently at hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Status quo",
+          "long": "situasi atau kondisi yang saat ini sudah dekat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397441.jpeg",
+      "simplified": "现状",
+      "traditional": "現狀",
+      "pinyin": "xiànzhuàng"
+    },
+    {
+      "id": 397442,
+      "translation": {
+        "en": {
+          "short": "industrialization",
+          "long": "the process of developing and expanding industries within a region or country, involving the increased production of goods through the use of advanced machinery, technology, and organized labor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "industrialisasi",
+          "long": "Proses pengembangan dan memperluas industri di dalam suatu wilayah atau negara, yang melibatkan peningkatan produksi barang melalui penggunaan mesin, teknologi, dan tenaga kerja yang terorganisir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397442.jpeg",
+      "simplified": "工业化",
+      "traditional": "工業化",
+      "pinyin": "gōngyè huà"
+    },
+    {
+      "id": 397455,
+      "translation": {
+        "en": {
+          "short": "aristocracy",
+          "long": "people in the highest class of society who have a lot of power and wealth and usually high ranks and titles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aristokrasi",
+          "long": "Orang -orang di kelas tertinggi masyarakat yang memiliki banyak kekuatan dan kekayaan dan biasanya peringkat dan judul tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397455.jpeg",
+      "simplified": "贵族",
+      "traditional": "貴族",
+      "pinyin": "guìzú"
+    },
+    {
+      "id": 397456,
+      "translation": {
+        "en": {
+          "short": "royalty",
+          "long": "kings and queens and any member of their families",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "royalti",
+          "long": "raja dan ratu dan anggota keluarga mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397456.jpeg",
+      "simplified": "王权",
+      "traditional": "王權",
+      "pinyin": "wángquán"
+    },
+    {
+      "id": 397457,
+      "translation": {
+        "en": {
+          "short": "metropolis",
+          "long": "a large, important city that serves as a significant economic, political, or cultural center for a region or country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metropolis",
+          "long": "Kota besar dan penting yang berfungsi sebagai pusat ekonomi, politik, atau budaya yang signifikan untuk suatu wilayah atau negara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397457.jpeg",
+      "simplified": "都会",
+      "traditional": "都會",
+      "pinyin": "dūhuì"
+    },
+    {
+      "id": 397458,
+      "translation": {
+        "en": {
+          "short": "infrastructure",
+          "long": "the basic physical structures and systems that support and enable the functioning of a society or organization, such as roads and bridges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "infrastruktur",
+          "long": "Struktur dan sistem fisik dasar yang mendukung dan memungkinkan fungsi masyarakat atau organisasi, seperti jalan dan jembatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397458.jpeg",
+      "simplified": "基础设施",
+      "traditional": "基礎設施",
+      "pinyin": "jīchǔ shè shī"
+    },
+    {
+      "id": 397460,
+      "translation": {
+        "en": {
+          "short": "legitimacy",
+          "long": "the state of being valid, justifiable, or morally acceptable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "legitimasi",
+          "long": "keadaan menjadi valid, dapat dibenarkan, atau dapat diterima secara moral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397460.jpeg",
+      "simplified": "合法性",
+      "traditional": "合法性",
+      "pinyin": "héfǎ xìng"
+    },
+    {
+      "id": 397429,
+      "translation": {
+        "en": {
+          "short": "theory of mind",
+          "long": "the understanding that others have thoughts, feelings, and perspectives that are different from one's own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teori pikiran",
+          "long": "pemahaman bahwa orang lain memiliki pikiran, perasaan, dan perspektif yang berbeda dari milik seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397429.jpeg",
+      "simplified": "心理理论",
+      "traditional": "心理理論",
+      "pinyin": "xīnlǐ lǐlùn"
+    },
+    {
+      "id": 397461,
+      "translation": {
+        "en": {
+          "short": "civil disobedience",
+          "long": "the deliberate and nonviolent refusal to obey certain laws, demands, or commands of a government or authority, typically as a form of protest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembangkangan sipil",
+          "long": "penolakan yang disengaja dan tanpa kekerasan untuk mematuhi undang -undang, tuntutan, atau perintah tertentu dari pemerintah atau otoritas, biasanya sebagai bentuk protes",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397461.jpeg",
+      "simplified": "公民抗命",
+      "traditional": "公民抗命",
+      "pinyin": "gōngmín kàngmìng"
+    },
+    {
+      "id": 397444,
+      "translation": {
+        "en": {
+          "short": "nonconformity",
+          "long": "the behavior or attitude that does not follow established norms, conventions, or expectations within a society or group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketidaksesuaian",
+          "long": "perilaku atau sikap yang tidak mengikuti norma, konvensi, atau harapan mapan dalam suatu masyarakat atau kelompok",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397444.jpeg",
+      "simplified": "不合格",
+      "traditional": "不合格",
+      "pinyin": "bùhé gé"
+    },
+    {
+      "id": 397464,
+      "translation": {
+        "en": {
+          "short": "outcast",
+          "long": "a person who has been rejected or excluded from a social group or society, often due to their behavior, beliefs, or social status",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang buangan",
+          "long": "seseorang yang telah ditolak atau dikecualikan dari kelompok sosial atau masyarakat, seringkali karena perilaku, kepercayaan, atau status sosial mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397464.jpeg",
+      "simplified": "流浪",
+      "traditional": "流浪",
+      "pinyin": "liúlàng"
+    },
+    {
+      "id": 397465,
+      "translation": {
+        "en": {
+          "short": "refugee",
+          "long": "a person who is forced to leave their own country because of war, natural disaster, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengungsi",
+          "long": "Seseorang yang terpaksa meninggalkan negara mereka sendiri karena perang, bencana alam, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397465.jpeg",
+      "simplified": "难民",
+      "traditional": "難民",
+      "pinyin": "nànmín"
+    },
+    {
+      "id": 397471,
+      "translation": {
+        "en": {
+          "short": "commune",
+          "long": "a local administrative unit in certain countries, functioning as the smallest division of government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komune",
+          "long": "unit administrasi lokal di negara -negara tertentu, berfungsi sebagai pembagian pemerintah terkecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397471.jpeg",
+      "simplified": "公社",
+      "traditional": "公社",
+      "pinyin": "gōngshè"
+    },
+    {
+      "id": 397473,
+      "translation": {
+        "en": {
+          "short": "outskirts",
+          "long": "the outer areas or parts of a city or town",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinggiran",
+          "long": "area luar atau bagian kota atau kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397473.jpeg",
+      "simplified": "郊区",
+      "traditional": "郊區",
+      "pinyin": "JiāoQū"
+    },
+    {
+      "id": 397482,
+      "translation": {
+        "en": {
+          "short": "rat race",
+          "long": "a draining and stressful lifestyle that consists of constantly competing with others for success, wealth, power, etc. and so leaving no room for rest and pleasure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perlombaan Tikus",
+          "long": "Gaya hidup yang menguras tenaga dan stres yang terdiri dari terus -menerus bersaing dengan orang lain untuk sukses, kekayaan, kekuasaan, dll. Dan dengan demikian tidak meninggalkan ruang untuk istirahat dan kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397482.jpeg",
+      "simplified": "艰苦而富有挑战性的生活方式",
+      "traditional": "艱苦而富有挑戰性的生活方式",
+      "pinyin": "jiānkǔ ér fùyǒu tiǎozhàn xìng de shēnghuó fāng shì"
+    },
+    {
+      "id": 397474,
+      "translation": {
+        "en": {
+          "short": "parish",
+          "long": "an area with a church of its own that is under the care of a priest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paroki",
+          "long": "Area dengan gereja sendiri yang berada di bawah perawatan seorang imam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397474.jpeg",
+      "simplified": "地方教会区",
+      "traditional": "地方教會區",
+      "pinyin": "dìfāng jiāohuì Oū"
+    },
+    {
+      "id": 397479,
+      "translation": {
+        "en": {
+          "short": "caste",
+          "long": "a system that divides the people of a society into different social classes based on their wealth, privilage, or profession",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kasta",
+          "long": "Suatu sistem yang membagi orang -orang dari suatu masyarakat menjadi kelas sosial yang berbeda berdasarkan kekayaan, hak istimewa, atau profesi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397479.jpeg",
+      "simplified": "种姓",
+      "traditional": "種姓",
+      "pinyin": "zhǒngxìng"
+    },
+    {
+      "id": 397480,
+      "translation": {
+        "en": {
+          "short": "echelon",
+          "long": "a level or rank in an organization, profession, or society, indicating a person's status or authority within that hierarchy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eselon",
+          "long": "level atau peringkat dalam suatu organisasi, profesi, atau masyarakat, menunjukkan status atau otoritas seseorang dalam hierarki itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397480.jpeg",
+      "simplified": "梯队",
+      "traditional": "梯隊",
+      "pinyin": "tīduì"
+    },
+    {
+      "id": 397481,
+      "translation": {
+        "en": {
+          "short": "station",
+          "long": "a person's social rank or position within a structured hierarchy or society",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stasiun",
+          "long": "pangkat atau posisi sosial seseorang dalam hierarki atau masyarakat terstruktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397481.jpeg",
+      "simplified": "站",
+      "traditional": "站",
+      "pinyin": "zhàn"
+    },
+    {
+      "id": 397478,
+      "translation": {
+        "en": {
+          "short": "classist",
+          "long": "marked by discrimination against or prejudice toward individuals or groups based on their social class",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "classist",
+          "long": "ditandai dengan diskriminasi terhadap atau prasangka terhadap individu atau kelompok berdasarkan kelas sosial mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397478.jpeg",
+      "simplified": "分类主义者",
+      "traditional": "分類主義者",
+      "pinyin": "fēnlèi zhǔyì zhě"
+    },
+    {
+      "id": 397469,
+      "translation": {
+        "en": {
+          "short": "humble",
+          "long": "having a low social rank or position, often characterized by modesty",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rendah hati",
+          "long": "memiliki pangkat atau posisi sosial yang rendah, sering ditandai dengan kesopanan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397469.jpeg",
+      "simplified": "谦逊的",
+      "traditional": "謙遜的",
+      "pinyin": "qiānxùn de"
+    },
+    {
+      "id": 397450,
+      "translation": {
+        "en": {
+          "short": "socioeconomic",
+          "long": "referring to factors or conditions that involve both social and economic aspects",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Sosial Ekonomi",
+          "long": "mengacu pada faktor atau kondisi yang melibatkan aspek sosial dan ekonomi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397450.jpeg",
+      "simplified": "社会经济的",
+      "traditional": "社會經濟的",
+      "pinyin": "shèhuì jīng jì de"
+    },
+    {
+      "id": 397468,
+      "translation": {
+        "en": {
+          "short": "patriarchal",
+          "long": "relating to a social system where men hold primary power and authority over women and families",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "patriarkhal",
+          "long": "berkaitan dengan sistem sosial di mana pria memegang kekuatan dan otoritas utama atas perempuan dan keluarga",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397468.jpeg",
+      "simplified": "父权制的",
+      "traditional": "父權制的",
+      "pinyin": "fùquán zhì de"
+    },
+    {
+      "id": 397467,
+      "translation": {
+        "en": {
+          "short": "indigenous",
+          "long": "relating to the original inhabitants of a particular region or country, who have distinct cultural, social, and historical ties to that land",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asli",
+          "long": "berkaitan dengan penduduk asli suatu wilayah atau negara tertentu, yang memiliki ikatan budaya, sosial, dan historis yang berbeda dengan tanah itu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397467.jpeg",
+      "simplified": "土著",
+      "traditional": "土著",
+      "pinyin": "tǔzhù"
+    },
+    {
+      "id": 397476,
+      "translation": {
+        "en": {
+          "short": "humanitarian",
+          "long": "involved in or related to helping people who are in need to improve their living conditions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kemanusiaan",
+          "long": "terlibat dalam atau terkait dengan membantu orang yang membutuhkan untuk meningkatkan kondisi kehidupan mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397476.jpeg",
+      "simplified": "人道主义的",
+      "traditional": "人道主義的",
+      "pinyin": "réndào zhǔ yì de"
+    },
+    {
+      "id": 397475,
+      "translation": {
+        "en": {
+          "short": "cosmopolitan",
+          "long": "including a wide range of people with different nationalities and cultures",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kosmopolitan",
+          "long": "termasuk berbagai macam orang dengan kebangsaan dan budaya yang berbeda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397475.jpeg",
+      "simplified": "大都会",
+      "traditional": "大都會",
+      "pinyin": "dàdū huì"
+    },
+    {
+      "id": 397459,
+      "translation": {
+        "en": {
+          "short": "utopian",
+          "long": "referring to a vision of an ideal society, where everything is flawless or nearly perfect",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "utopis",
+          "long": "mengacu pada visi masyarakat yang ideal, di mana semuanya sempurna atau hampir sempurna",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397459.jpeg",
+      "simplified": "乌托邦的",
+      "traditional": "烏托邦的",
+      "pinyin": "wūtuō bāng de"
+    },
+    {
+      "id": 397445,
+      "translation": {
+        "en": {
+          "short": "progressive",
+          "long": "advocating for social, political, or economic reform and improvement",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "progresif",
+          "long": "mengadvokasi reformasi dan peningkatan sosial, politik, atau ekonomi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397445.jpeg",
+      "simplified": "进步",
+      "traditional": "進步",
+      "pinyin": "jìnbù"
+    },
+    {
+      "id": 397443,
+      "translation": {
+        "en": {
+          "short": "militant",
+          "long": "displaying violent acts for the sake of a social or political aim",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "militan",
+          "long": "Menampilkan tindakan kekerasan demi tujuan sosial atau politik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397443.jpeg",
+      "simplified": "好战的",
+      "traditional": "好戰的",
+      "pinyin": "hàozhàn de"
+    },
+    {
+      "id": 397452,
+      "translation": {
+        "en": {
+          "short": "suburban",
+          "long": "characteristic of or relating to a residential area outside a city or town",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Suburban",
+          "long": "Karakteristik atau terkait dengan daerah perumahan di luar kota atau kota",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397452.jpeg",
+      "simplified": "郊区的",
+      "traditional": "郊區的",
+      "pinyin": "JiāoQū de"
+    },
+    {
+      "id": 397453,
+      "translation": {
+        "en": {
+          "short": "to marginalize",
+          "long": "to treat a person, group, or concept as insignificant or of secondary or minor importance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meminggirkan",
+          "long": "untuk memperlakukan seseorang, kelompok, atau konsep sebagai tidak penting atau penting atau kecil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397453.jpeg",
+      "simplified": "边缘化",
+      "traditional": "邊緣化",
+      "pinyin": "biānyuán huà"
+    },
+    {
+      "id": 397439,
+      "translation": {
+        "en": {
+          "short": "to census",
+          "long": "to systematically collect and record demographic data about a population",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Sensus",
+          "long": "Untuk secara sistematis mengumpulkan dan merekam data demografis tentang suatu populasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397439.jpeg",
+      "simplified": "人口普查",
+      "traditional": "人口普查",
+      "pinyin": "rénkǒu pǔ chá"
+    },
+    {
+      "id": 397470,
+      "translation": {
+        "en": {
+          "short": "to assimilate",
+          "long": "to integrate into a new environment, often by adopting its language, norms, values, and practices",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengasimilasi",
+          "long": "untuk berintegrasi ke dalam lingkungan baru, seringkali dengan mengadopsi bahasa, norma, nilai, dan praktiknya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397470.jpeg",
+      "simplified": "吸收",
+      "traditional": "吸收",
+      "pinyin": "xīshōu"
+    },
+    {
+      "id": 397463,
+      "translation": {
+        "en": {
+          "short": "to rehabilitate",
+          "long": "to help someone to restore to a healthy and independent state after a period of imprisonment, addiction, illness, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merehabilitasi",
+          "long": "untuk membantu seseorang memulihkan ke negara yang sehat dan mandiri setelah periode hukuman penjara, kecanduan, penyakit, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397463.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    }
+  ]
+}

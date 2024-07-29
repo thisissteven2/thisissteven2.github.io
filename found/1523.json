@@ -1,0 +1,773 @@
+{
+  "id": 1523,
+  "title": {
+    "en": "Body Care Products",
+    "id": "Produk Perawatan Tubuh"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to body care products such as \"towel\", \"shampoo\", and \"lather\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan produk perawatan tubuh seperti \"handuk\", \"sampo\", dan \"busa\"."
+  },
+  "cards": [
+    {
+      "id": 271080,
+      "translation": {
+        "en": {
+          "short": "bath",
+          "long": "a large and long container that we fill with water and get inside of to clean and wash our body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandi",
+          "long": "wadah besar dan panjang yang kami isi dengan air dan masuk ke dalam untuk membersihkan dan mencuci tubuh kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271080.jpeg",
+      "simplified": "浴",
+      "traditional": "浴",
+      "pinyin": "yù"
+    },
+    {
+      "id": 271124,
+      "translation": {
+        "en": {
+          "short": "bath bomb",
+          "long": "a small fizzy cosmetic product that dissolves in water, releasing fragrances, colors, and nourishing ingredients for a pleasant bath-time experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bom mandi",
+          "long": "Produk kosmetik bersoda kecil yang larut dalam air, melepaskan wewangian, warna, dan bahan-bahan bergizi untuk pengalaman mandi yang menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271124.jpeg",
+      "simplified": "浴炸弹",
+      "traditional": "浴炸彈",
+      "pinyin": "yù zhàdàn"
+    },
+    {
+      "id": 271125,
+      "translation": {
+        "en": {
+          "short": "bath salts",
+          "long": "a type of water-soluble substances, typically containing minerals, essential oils, and fragrances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garam mandi",
+          "long": "Jenis zat yang larut dalam air, biasanya mengandung mineral, minyak esensial, dan wewangian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271125.jpeg",
+      "simplified": "浴盐",
+      "traditional": "浴鹽",
+      "pinyin": "yùyán"
+    },
+    {
+      "id": 271128,
+      "translation": {
+        "en": {
+          "short": "bath oil",
+          "long": "a liquid product, typically infused with oils and moisturizing ingredients, used in bathwater to soften the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Minyak mandi",
+          "long": "Produk cair, biasanya diresapi dengan minyak dan bahan pelembab, digunakan dalam air mandi untuk melembutkan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271128.jpeg",
+      "simplified": "沐浴油",
+      "traditional": "沐浴油",
+      "pinyin": "mùyù yóu"
+    },
+    {
+      "id": 271130,
+      "translation": {
+        "en": {
+          "short": "shower gel",
+          "long": "a liquid soap used in the shower that creates a foamy lather to cleanse and refresh the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun mandi cair",
+          "long": "sabun cair yang digunakan di kamar mandi yang menciptakan busa berbusa untuk membersihkan dan menyegarkan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271130.jpeg",
+      "simplified": "沐浴露",
+      "traditional": "沐浴露",
+      "pinyin": "mùyù lù"
+    },
+    {
+      "id": 271132,
+      "translation": {
+        "en": {
+          "short": "shampoo bar",
+          "long": "a solid bar that cleanses and nourishes the hair like regular shampoo, but in a solid form without plastic packaging",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bar Shampoo",
+          "long": "Bilah padat yang membersihkan dan menyehatkan rambut seperti sampo biasa, tetapi dalam bentuk padat tanpa kemasan plastik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271132.jpeg",
+      "simplified": "洗发皂",
+      "traditional": "洗髮皂",
+      "pinyin": "xǐfà zào"
+    },
+    {
+      "id": 271133,
+      "translation": {
+        "en": {
+          "short": "shampoo",
+          "long": "a liquid used to wash one's hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampo",
+          "long": "cairan yang digunakan untuk mencuci rambut seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271133.jpeg",
+      "simplified": "洗头",
+      "traditional": "洗頭",
+      "pinyin": "xǐtóu"
+    },
+    {
+      "id": 271134,
+      "translation": {
+        "en": {
+          "short": "essential oil",
+          "long": "a concentrated, aromatic liquid derived from plants, typically used in personal care and aromatherapy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Minyak esensial",
+          "long": "Cairan aromatik terkonsentrasi yang berasal dari tanaman, biasanya digunakan dalam perawatan pribadi dan aromaterapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271134.jpeg",
+      "simplified": "香精油",
+      "traditional": "香精油",
+      "pinyin": "xiāngjīng yóu"
+    },
+    {
+      "id": 271137,
+      "translation": {
+        "en": {
+          "short": "body wash",
+          "long": "a liquid soap used in the shower or bath that lathers and moisturizes the skin for clean and hydrated skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun mandi",
+          "long": "sabun cair yang digunakan di kamar mandi atau kamar mandi yang membius dan melembabkan kulit untuk kulit yang bersih dan terhidrasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271137.jpeg",
+      "simplified": "沐浴露",
+      "traditional": "沐浴露",
+      "pinyin": "mùyù lù"
+    },
+    {
+      "id": 271141,
+      "translation": {
+        "en": {
+          "short": "body scrub",
+          "long": "a cosmetic product used to exfoliate and cleanse the skin while bathing or showering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lulur Tubuh",
+          "long": "Produk kosmetik yang digunakan untuk mengelupas dan membersihkan kulit saat mandi atau mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271141.jpeg",
+      "simplified": "身体磨砂",
+      "traditional": "身體磨砂",
+      "pinyin": "shēntǐ móshā"
+    },
+    {
+      "id": 271162,
+      "translation": {
+        "en": {
+          "short": "massage soap",
+          "long": "a special soap used for both cleansing and massaging the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun pijat",
+          "long": "sabun istimewa yang digunakan untuk membersihkan dan memijat kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271162.jpeg",
+      "simplified": "按摩皂",
+      "traditional": "按摩皂",
+      "pinyin": "ànmó zào"
+    },
+    {
+      "id": 271164,
+      "translation": {
+        "en": {
+          "short": "massage oil",
+          "long": "a special oil used during massages to make the skin slippery for smooth hand movements and a relaxing experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak pijat",
+          "long": "Minyak khusus yang digunakan selama pijat untuk membuat kulit licin untuk gerakan tangan yang halus dan pengalaman santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271164.jpeg",
+      "simplified": "按摩油",
+      "traditional": "按摩油",
+      "pinyin": "ànmó yóu"
+    },
+    {
+      "id": 271168,
+      "translation": {
+        "en": {
+          "short": "soap petal",
+          "long": "colorful, thin pieces of soap that look like flower petals and can be used for cleansing or decoration when dissolved in water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Petal sabun",
+          "long": "Potongan -potongan sabun yang berwarna -warni yang terlihat seperti kelopak bunga dan dapat digunakan untuk pembersihan atau dekorasi saat dilarutkan dalam air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271168.jpeg",
+      "simplified": "肥皂花瓣",
+      "traditional": "肥皂花瓣",
+      "pinyin": "féizào huābàn"
+    },
+    {
+      "id": 271171,
+      "translation": {
+        "en": {
+          "short": "body brush",
+          "long": "a brush used on the body to exfoliate the skin, promote circulation, and enhance skin texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuas tubuh",
+          "long": "Sikat yang digunakan pada tubuh untuk mengelupas kulit, meningkatkan sirkulasi, dan meningkatkan tekstur kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271171.jpeg",
+      "simplified": "身体刷",
+      "traditional": "身體刷",
+      "pinyin": "shēntǐ shuā"
+    },
+    {
+      "id": 271172,
+      "translation": {
+        "en": {
+          "short": "loofah",
+          "long": "a scrubbing sponge made from the fibrous skeleton of the dried fruit of a plant in the cucumber family, used for exfoliating and cleansing the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Loofah",
+          "long": "spons yang menggosok yang terbuat dari kerangka berserat buah kering dari tanaman dalam keluarga mentimun, digunakan untuk mengelupas dan membersihkan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271172.jpeg",
+      "simplified": "丝瓜络",
+      "traditional": "絲瓜絡",
+      "pinyin": "sīguā lào"
+    },
+    {
+      "id": 271175,
+      "translation": {
+        "en": {
+          "short": "bath sponge",
+          "long": "a soft, porous sponge used for applying soap or body wash during bathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spons mandi",
+          "long": "spons yang lembut dan berpori digunakan untuk mengoleskan sabun atau pencucian tubuh saat mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271175.jpeg",
+      "simplified": "沐浴海绵",
+      "traditional": "沐浴海綿",
+      "pinyin": "mùyù hǎimián"
+    },
+    {
+      "id": 271176,
+      "translation": {
+        "en": {
+          "short": "towel",
+          "long": "a piece of cloth or paper that you use for drying your body or things such as dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "handuk",
+          "long": "selembar kain atau kertas yang Anda gunakan untuk mengeringkan tubuh atau benda seperti hidangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271176.jpeg",
+      "simplified": "毛巾",
+      "traditional": "毛巾",
+      "pinyin": "máojīn"
+    },
+    {
+      "id": 271177,
+      "translation": {
+        "en": {
+          "short": "pumice stone",
+          "long": "a natural or synthetic abrasive tool used for exfoliating and smoothing rough or calloused skin, typically on the feet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu apung",
+          "long": "Alat abrasif alami atau sintetis yang digunakan untuk mengelupas dan menghaluskan kulit kasar atau kapalan, biasanya pada kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271177.jpeg",
+      "simplified": "浮石",
+      "traditional": "浮石",
+      "pinyin": "fúshí"
+    },
+    {
+      "id": 271179,
+      "translation": {
+        "en": {
+          "short": "scented candle",
+          "long": "a fragrant candle used for creating a cozy atmosphere or relaxation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lilin beraroma",
+          "long": "lilin harum yang digunakan untuk menciptakan suasana atau relaksasi yang nyaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271179.jpeg",
+      "simplified": "香味蜡烛",
+      "traditional": "香味蠟燭",
+      "pinyin": "xiāngwèi làzhú"
+    },
+    {
+      "id": 271180,
+      "translation": {
+        "en": {
+          "short": "slipper",
+          "long": "soft and comfortable footwear worn indoors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sandal",
+          "long": "alas kaki yang lembut dan nyaman dipakai di dalam ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271180.jpeg",
+      "simplified": "拖鞋",
+      "traditional": "拖鞋",
+      "pinyin": "tuōxié"
+    },
+    {
+      "id": 271185,
+      "translation": {
+        "en": {
+          "short": "shower puff",
+          "long": "a soft, mesh or fabric-based puff used in the shower for lathering body wash or soap, and gently exfoliating the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puff mandi",
+          "long": "Puff yang lembut, mesh atau kain yang digunakan di kamar mandi untuk menyabuni pencuci atau sabun, dan dengan lembut mengelupas kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271185.jpeg",
+      "simplified": "淋浴粉扑",
+      "traditional": "淋浴粉撲",
+      "pinyin": "línyù fěnpū"
+    },
+    {
+      "id": 271188,
+      "translation": {
+        "en": {
+          "short": "shower caddy",
+          "long": "a container used in the shower to hold and organize toiletries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Caddy mandi",
+          "long": "wadah yang digunakan di kamar mandi untuk menahan dan mengatur perlengkapan mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271188.jpeg",
+      "simplified": "淋浴间",
+      "traditional": "淋浴間",
+      "pinyin": "línyù jiān"
+    },
+    {
+      "id": 271214,
+      "translation": {
+        "en": {
+          "short": "basin",
+          "long": "a fixed bathroom sink with running water, used for washing hands and face",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baskom",
+          "long": "wastafel kamar mandi tetap dengan air mengalir, digunakan untuk mencuci tangan dan wajah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271214.jpeg",
+      "simplified": "盆地",
+      "traditional": "盆地",
+      "pinyin": "péndì"
+    },
+    {
+      "id": 271215,
+      "translation": {
+        "en": {
+          "short": "bathtub",
+          "long": "a large container that we fill with water and sit or lie in to wash our body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bak mandi",
+          "long": "wadah besar yang kita isi dengan air dan duduk atau berbaring untuk mencuci tubuh kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271215.jpeg",
+      "simplified": "浴盆",
+      "traditional": "浴盆",
+      "pinyin": "yùpén"
+    },
+    {
+      "id": 271216,
+      "translation": {
+        "en": {
+          "short": "handbasin",
+          "long": "a small, bowl-shaped sink typically found in bathrooms or powder rooms, designed for washing hands and face",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Handbasin",
+          "long": "Wastafel kecil berbentuk mangkuk biasanya ditemukan di kamar mandi atau kamar bedak, dirancang untuk mencuci tangan dan wajah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271216.jpeg",
+      "simplified": "洗手盆",
+      "traditional": "洗手盆",
+      "pinyin": "xǐshǒu pén"
+    },
+    {
+      "id": 271217,
+      "translation": {
+        "en": {
+          "short": "hip bath",
+          "long": "a bathing method in which only the hips and lower body are immersed in water for therapeutic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandi pinggul",
+          "long": "Metode mandi di mana hanya pinggul dan tubuh bagian bawah yang direndam dalam air untuk tujuan terapeutik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271217.jpeg",
+      "simplified": "澡盆",
+      "traditional": "澡盆",
+      "pinyin": "zǎopén"
+    },
+    {
+      "id": 271218,
+      "translation": {
+        "en": {
+          "short": "hot tub",
+          "long": "a large container, often made of wood, that can be filled with hot water and is big enough to fit several people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bak mandi air panas",
+          "long": "wadah besar, sering terbuat dari kayu, yang dapat diisi dengan air panas dan cukup besar untuk menyesuaikan beberapa orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271218.jpeg",
+      "simplified": "热水浴缸",
+      "traditional": "熱水浴缸",
+      "pinyin": "rèshuǐ yùgāng"
+    },
+    {
+      "id": 271224,
+      "translation": {
+        "en": {
+          "short": "tub",
+          "long": "a large container filled with water that is used for bathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bak mandi",
+          "long": "wadah besar yang diisi dengan air yang digunakan untuk mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271224.jpeg",
+      "simplified": "桶",
+      "traditional": "桶",
+      "pinyin": "tǒng"
+    },
+    {
+      "id": 271227,
+      "translation": {
+        "en": {
+          "short": "washbasin",
+          "long": "a container that a person can use to wash their hands and face, usually found in a bathroom, which has a faucet to turn on the water and a drain to let the water out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wastafel",
+          "long": "sebuah wadah yang dapat digunakan seseorang untuk mencuci tangan dan wajah mereka, biasanya ditemukan di kamar mandi, yang memiliki keran untuk menyalakan air dan saluran air untuk membiarkan air keluar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271227.jpeg",
+      "simplified": "脸盆",
+      "traditional": "臉盆",
+      "pinyin": "liǎnpén"
+    },
+    {
+      "id": 271228,
+      "translation": {
+        "en": {
+          "short": "washstand",
+          "long": "a furniture piece or fixture consisting of a basin, water source, and often a countertop or storage space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wastafel",
+          "long": "Sepotong atau perlengkapan furnitur yang terdiri dari baskom, sumber air, dan seringkali ruang penyimpanan atau penyimpanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271228.jpeg",
+      "simplified": "洗涤台",
+      "traditional": "洗滌台",
+      "pinyin": "xǐdí Tái"
+    },
+    {
+      "id": 271232,
+      "translation": {
+        "en": {
+          "short": "lather",
+          "long": "the thick, foamy substance formed when soap or shampoo is mixed with water during the process of washing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busa",
+          "long": "Zat tebal dan berbusa terbentuk saat sabun atau sampo dicampur dengan air selama proses pencucian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271232.jpeg",
+      "simplified": "泡沫",
+      "traditional": "泡沫",
+      "pinyin": "pàomò"
+    },
+    {
+      "id": 271234,
+      "translation": {
+        "en": {
+          "short": "soap",
+          "long": "the substance we use with water for washing and cleaning our body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun mandi",
+          "long": "zat yang kita gunakan dengan air untuk mencuci dan membersihkan tubuh kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271234.jpeg",
+      "simplified": "肥皂",
+      "traditional": "肥皂",
+      "pinyin": "féizào"
+    },
+    {
+      "id": 271235,
+      "translation": {
+        "en": {
+          "short": "soapsuds",
+          "long": "the foamy or bubbly substance created when soap is mixed with water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busa sabun",
+          "long": "zat berbusa atau ceria dibuat saat sabun dicampur dengan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271235.jpeg",
+      "simplified": "肥皂水",
+      "traditional": "肥皂水",
+      "pinyin": "féizào shuǐ"
+    },
+    {
+      "id": 272438,
+      "translation": {
+        "en": {
+          "short": "shower wine holder",
+          "long": "a device or accessory used to hold a glass of wine while taking a shower",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemegang anggur mandi",
+          "long": "Perangkat atau aksesori yang digunakan untuk menampung segelas anggur saat mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272438.jpeg",
+      "simplified": "淋浴酒架",
+      "traditional": "淋浴酒架",
+      "pinyin": "línyù jiǔ jià"
+    },
+    {
+      "id": 272446,
+      "translation": {
+        "en": {
+          "short": "bath pillow",
+          "long": "a soft cushion used in the bath for comfort and support of the head, neck, and back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bantal mandi",
+          "long": "Bantal lembut yang digunakan di bak mandi untuk kenyamanan dan dukungan kepala, leher, dan punggung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272446.jpeg",
+      "simplified": "浴枕",
+      "traditional": "浴枕",
+      "pinyin": "yù zhěn"
+    },
+    {
+      "id": 272544,
+      "translation": {
+        "en": {
+          "short": "soap dish",
+          "long": "a small tray or container, usually made of porcelain, ceramic, or plastic, used to hold bar soap or other types of soap in the bathroom or kitchen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun cuci piring",
+          "long": "Baki atau wadah kecil, biasanya terbuat dari porselen, keramik, atau plastik, digunakan untuk menahan sabun batang atau sabun jenis lainnya di kamar mandi atau dapur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272544.jpeg",
+      "simplified": "肥皂盒",
+      "traditional": "肥皂盒",
+      "pinyin": "féizào hé"
+    },
+    {
+      "id": 274345,
+      "translation": {
+        "en": {
+          "short": "shower cap",
+          "long": "a waterproof head covering worn to protect the hair from getting wet while showering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "topi mandi",
+          "long": "Penutup kepala tahan air yang dikenakan untuk melindungi rambut dari basah saat mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274345.jpeg",
+      "simplified": "浴帽",
+      "traditional": "浴帽",
+      "pinyin": "yùmào"
+    },
+    {
+      "id": 274382,
+      "translation": {
+        "en": {
+          "short": "washcloth",
+          "long": "a small square or rectangular piece of fabric used for cleansing the body during bathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lap mandi",
+          "long": "sepotong kain persegi kecil atau persegi panjang yang digunakan untuk membersihkan tubuh saat mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274382.jpeg",
+      "simplified": "面巾",
+      "traditional": "面巾",
+      "pinyin": "miànjīn"
+    },
+    {
+      "id": 274383,
+      "translation": {
+        "en": {
+          "short": "showerhead",
+          "long": "a plumbing fixture that is attached to a shower and delivers water for bathing or washing purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pancuran",
+          "long": "Perlengkapan pipa yang melekat pada pancuran dan mengantarkan air untuk mandi atau mencuci tujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274383.jpeg",
+      "simplified": "淋浴喷头",
+      "traditional": "淋浴噴頭",
+      "pinyin": "línyù pēntóu"
+    },
+    {
+      "id": 272885,
+      "translation": {
+        "en": {
+          "short": "bath powder",
+          "long": "a fine, scented powder used to enhance bathing experiences by adding fragrance and a silky feel to the bathwater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bubuk mandi",
+          "long": "Bubuk yang bagus dan beraroma digunakan untuk meningkatkan pengalaman mandi dengan menambahkan wewangian dan nuansa halus ke air mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272885.jpeg",
+      "simplified": "沐浴粉",
+      "traditional": "沐浴粉",
+      "pinyin": "mùyù fěn"
+    }
+  ]
+}

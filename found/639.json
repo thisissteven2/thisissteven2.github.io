@@ -1,0 +1,906 @@
+{
+  "id": 639,
+  "title": {
+    "en": "Book Distribution",
+    "id": "Distribusi buku"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to book distribution such as \"archive\", \"commissioning\", and \"launch event\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan distribusi buku seperti \"arsip\", \"commissioning\", dan \"acara peluncuran\"."
+  },
+  "cards": [
+    {
+      "id": 344161,
+      "translation": {
+        "en": {
+          "short": "International Standard Book Number",
+          "long": "a unique identifier assigned to books and other monographic publications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nomor buku standar internasional",
+          "long": "Pengidentifikasi unik yang ditugaskan untuk buku dan publikasi monografi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344161.jpeg",
+      "simplified": "国际标准簿号",
+      "traditional": "國際標準簿號",
+      "pinyin": "guójì biāozhǔn bù háo"
+    },
+    {
+      "id": 344163,
+      "translation": {
+        "en": {
+          "short": "ASIN",
+          "long": "a unique identifier assigned by Amazon.com to products listed on their website",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "SEPERTI DALAM",
+          "long": "Pengidentifikasi unik yang ditugaskan oleh Amazon.com untuk produk yang tercantum di situs web mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344163.jpeg",
+      "simplified": "asin",
+      "traditional": "asin",
+      "pinyin": ""
+    },
+    {
+      "id": 344165,
+      "translation": {
+        "en": {
+          "short": "UPC",
+          "long": "a barcode symbology used for tracking trade items in stores, and it consists of a unique 12-digit code assigned to each product",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "UPC",
+          "long": "Simbologi barcode yang digunakan untuk melacak item perdagangan di toko, dan terdiri dari kode 12 digit unik yang ditetapkan untuk setiap produk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344165.jpeg",
+      "simplified": "UPC",
+      "traditional": "UPC",
+      "pinyin": "P"
+    },
+    {
+      "id": 344170,
+      "translation": {
+        "en": {
+          "short": "BISAC",
+          "long": "a set of standardized codes used in the book industry to classify and categorize books based on their subject matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bisac",
+          "long": "Satu set kode standar yang digunakan dalam industri buku untuk mengklasifikasikan dan mengkategorikan buku berdasarkan materi pelajarannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344170.jpeg",
+      "simplified": "bisac",
+      "traditional": "bisac",
+      "pinyin": ""
+    },
+    {
+      "id": 344166,
+      "translation": {
+        "en": {
+          "short": "archive",
+          "long": "a place or a collection of records or documents of historical importance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "arsip",
+          "long": "tempat atau kumpulan catatan atau dokumen yang sangat penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344166.jpeg",
+      "simplified": "档案",
+      "traditional": "檔案",
+      "pinyin": "dàngàn"
+    },
+    {
+      "id": 344168,
+      "translation": {
+        "en": {
+          "short": "audio rights",
+          "long": "the legal rights granted to a person or entity to produce, distribute, and sell audio versions of a written work, such as a book, to the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hak Audio",
+          "long": "Hak -hak hukum yang diberikan kepada seseorang atau entitas untuk memproduksi, mendistribusikan, dan menjual versi audio karya tertulis, seperti buku, kepada publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344168.jpeg",
+      "simplified": "音频权利",
+      "traditional": "音頻權利",
+      "pinyin": "yīnpín quánlì"
+    },
+    {
+      "id": 344171,
+      "translation": {
+        "en": {
+          "short": "book fair",
+          "long": "a large event where publishers, booksellers, authors, and readers come together to showcase and promote books",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pameran buku",
+          "long": "Acara besar di mana penerbit, penjual buku, penulis, dan pembaca berkumpul untuk menampilkan dan mempromosikan buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344171.jpeg",
+      "simplified": "书展",
+      "traditional": "書展",
+      "pinyin": "Shū Zhǎn"
+    },
+    {
+      "id": 344173,
+      "translation": {
+        "en": {
+          "short": "book tour",
+          "long": "a series of public appearances by an author, typically at bookstores, libraries, and literary festivals, to promote and market their recently published book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tur buku",
+          "long": "Serangkaian penampilan publik oleh seorang penulis, biasanya di toko buku, perpustakaan, dan festival sastra, untuk mempromosikan dan memasarkan buku mereka yang baru diterbitkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344173.jpeg",
+      "simplified": "图书之旅",
+      "traditional": "圖書之旅",
+      "pinyin": "túshū zhī lǚ"
+    },
+    {
+      "id": 344174,
+      "translation": {
+        "en": {
+          "short": "bookstore",
+          "long": "a shop that sells books, magazines, and sometimes stationery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko buku",
+          "long": "toko yang menjual buku, majalah, dan terkadang alat tulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344174.jpeg",
+      "simplified": "书店",
+      "traditional": "書店",
+      "pinyin": "shūdiàn"
+    },
+    {
+      "id": 344176,
+      "translation": {
+        "en": {
+          "short": "cataloging",
+          "long": "the process of creating bibliographic descriptions and assigning standardized metadata to books and other library materials for organization and access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Katalog",
+          "long": "Proses membuat deskripsi bibliografi dan menetapkan metadata standar untuk buku dan bahan perpustakaan lainnya untuk organisasi dan akses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344176.jpeg",
+      "simplified": "分类",
+      "traditional": "分類",
+      "pinyin": "fēnlèi"
+    },
+    {
+      "id": 344178,
+      "translation": {
+        "en": {
+          "short": "co-edition",
+          "long": "a publishing arrangement in which two or more publishers from different countries or language regions collaborate to publish and market a book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "edisi co-edisi",
+          "long": "pengaturan penerbitan di mana dua atau lebih penerbit dari berbagai negara atau daerah bahasa berkolaborasi untuk menerbitkan dan memasarkan buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344178.jpeg",
+      "simplified": "联合编辑",
+      "traditional": "聯合編輯",
+      "pinyin": "liánhé biānjí"
+    },
+    {
+      "id": 344180,
+      "translation": {
+        "en": {
+          "short": "collection development",
+          "long": "the process of selecting and acquiring materials, such as books, journals, and databases, for a library or other information resource center, based on the needs and interests of the community it serves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pengembangan Koleksi",
+          "long": "Proses memilih dan memperoleh materi, seperti buku, jurnal, dan basis data, untuk perpustakaan atau pusat sumber daya informasi lainnya, berdasarkan kebutuhan dan minat masyarakat yang dilayaninya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344180.jpeg",
+      "simplified": "收集开发",
+      "traditional": "收集開發",
+      "pinyin": "shōují kāifā"
+    },
+    {
+      "id": 344182,
+      "translation": {
+        "en": {
+          "short": "IFLA",
+          "long": "a global organization that represents the interests of libraries and information professionals worldwide",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ifla",
+          "long": "organisasi global yang mewakili kepentingan perpustakaan dan profesional informasi di seluruh dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344182.jpeg",
+      "simplified": "ifla",
+      "traditional": "ifla",
+      "pinyin": ""
+    },
+    {
+      "id": 344184,
+      "translation": {
+        "en": {
+          "short": "commissioning",
+          "long": "the act of hiring or assigning a person, group or company to create or produce a particular work, such as a book, artwork, or music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "commissioning",
+          "long": "tindakan mempekerjakan atau menugaskan seseorang, kelompok atau perusahaan untuk membuat atau menghasilkan karya tertentu, seperti buku, karya seni, atau musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344184.jpeg",
+      "simplified": "调试",
+      "traditional": "偵錯",
+      "pinyin": "tiáoshì"
+    },
+    {
+      "id": 344185,
+      "translation": {
+        "en": {
+          "short": "copy editing",
+          "long": "the process of reviewing and correcting written material to improve accuracy, readability, and overall quality, with a focus on grammar, punctuation, spelling, and syntax",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salin pengeditan",
+          "long": "Proses meninjau dan memperbaiki materi tertulis untuk meningkatkan akurasi, keterbacaan, dan kualitas keseluruhan, dengan fokus pada tata bahasa, tanda baca, ejaan, dan sintaksis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344185.jpeg",
+      "simplified": "复制编辑",
+      "traditional": "複製編輯",
+      "pinyin": "fùzhì biānjí"
+    },
+    {
+      "id": 344187,
+      "translation": {
+        "en": {
+          "short": "copywriting",
+          "long": "the act of writing text for advertising or other forms of marketing communications to persuade or influence people to take some action",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "copywriting",
+          "long": "Tindakan menulis teks untuk iklan atau bentuk komunikasi pemasaran lainnya untuk membujuk atau mempengaruhi orang untuk mengambil tindakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344187.jpeg",
+      "simplified": "文案写作",
+      "traditional": "文案寫作",
+      "pinyin": "wénàn xiězuò"
+    },
+    {
+      "id": 344189,
+      "translation": {
+        "en": {
+          "short": "direct-to-reader sales",
+          "long": "a business model in which publishers sell their books directly to consumers, bypassing traditional retail channels such as bookstores or online marketplaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penjualan langsung ke pembaca",
+          "long": "Model bisnis di mana penerbit menjual buku mereka langsung ke konsumen, melewati saluran ritel tradisional seperti toko buku atau pasar online",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344189.jpeg",
+      "simplified": "直接阅读器销售",
+      "traditional": "直接閱讀器銷售",
+      "pinyin": "zhíjiē yuèdú qì xiāoshòu"
+    },
+    {
+      "id": 344190,
+      "translation": {
+        "en": {
+          "short": "distribution channel",
+          "long": "a way through which a company delivers its products to the customers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran distribusi",
+          "long": "cara melaluinya perusahaan mengirimkan produknya kepada pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344190.jpeg",
+      "simplified": "分销渠道",
+      "traditional": "分銷渠道",
+      "pinyin": "fēnxiāo qúdào"
+    },
+    {
+      "id": 344193,
+      "translation": {
+        "en": {
+          "short": "film rights",
+          "long": "the legal rights to adapt a written work into a film or other visual media, typically negotiated and purchased by film producers or studios from book publishers or authors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hak Film",
+          "long": "Hak hukum untuk mengadaptasi karya tertulis ke dalam film atau media visual lainnya, biasanya dinegosiasikan dan dibeli oleh produser film atau studio dari penerbit atau penulis buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344193.jpeg",
+      "simplified": "电影权利",
+      "traditional": "電影權利",
+      "pinyin": "diànyǐng quánlì"
+    },
+    {
+      "id": 344195,
+      "translation": {
+        "en": {
+          "short": "foreign rights",
+          "long": "the rights granted by an author or publisher to publish and sell a book in a language or country other than its original language or country of publication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hak Asing",
+          "long": "Hak yang diberikan oleh penulis atau penerbit untuk menerbitkan dan menjual buku dalam bahasa atau negara selain bahasa aslinya atau negara publikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344195.jpeg",
+      "simplified": "外国权利",
+      "traditional": "外國權利",
+      "pinyin": "wàiguó quánlì"
+    },
+    {
+      "id": 344197,
+      "translation": {
+        "en": {
+          "short": "hybrid publishing",
+          "long": "a publishing model that combines elements of traditional publishing and self-publishing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penerbitan Hibrida",
+          "long": "Model Penerbitan yang Menggabungkan Elemen Penerbitan Tradisional dan Penerbitan Mandiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344197.jpeg",
+      "simplified": "混合出版",
+      "traditional": "混合出版",
+      "pinyin": "hùnhé chūbǎn"
+    },
+    {
+      "id": 344198,
+      "translation": {
+        "en": {
+          "short": "indexing",
+          "long": "the process of creating an alphabetical list of keywords and topics discussed in a book or document, along with their corresponding page numbers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengindeksan",
+          "long": "Proses membuat daftar kata kunci dan topik abjad yang dibahas dalam buku atau dokumen, bersama dengan nomor halaman yang sesuai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344198.jpeg",
+      "simplified": "索引",
+      "traditional": "索引",
+      "pinyin": "suǒyǐn"
+    },
+    {
+      "id": 344200,
+      "translation": {
+        "en": {
+          "short": "launch event",
+          "long": "a promotional event, often held in person or virtually, to celebrate and introduce a new book, product, or service to the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Luncurkan acara",
+          "long": "Acara promosi, sering diadakan secara langsung atau secara virtual, untuk merayakan dan memperkenalkan buku, produk, atau layanan baru kepada publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344200.jpeg",
+      "simplified": "发射事件",
+      "traditional": "發射事件",
+      "pinyin": "fāshè shìjiàn"
+    },
+    {
+      "id": 344204,
+      "translation": {
+        "en": {
+          "short": "marketing campaign",
+          "long": "a coordinated and strategic series of activities that promote a product, service, or brand to a target audience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kampanye pemasaran",
+          "long": "serangkaian kegiatan yang terkoordinasi dan strategis yang mempromosikan produk, layanan, atau merek ke audiens target",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344204.jpeg",
+      "simplified": "营销活动",
+      "traditional": "營銷活動",
+      "pinyin": "yíngxiāo huódòng"
+    },
+    {
+      "id": 344206,
+      "translation": {
+        "en": {
+          "short": "merchandising rights",
+          "long": "the rights to use a book's or an author's name, image, or story in connection with the sale of merchandise, such as toys, clothing, or accessories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hak Merchandising",
+          "long": "Hak untuk menggunakan nama buku atau penulis, gambar, atau cerita sehubungan dengan penjualan barang dagangan, seperti mainan, pakaian, atau aksesori",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344206.jpeg",
+      "simplified": "商品权利",
+      "traditional": "商品權利",
+      "pinyin": "shāngpǐn quánlì"
+    },
+    {
+      "id": 344208,
+      "translation": {
+        "en": {
+          "short": "point of sale",
+          "long": "the physical location or device where a product or service is sold to a customer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik penjualan",
+          "long": "Lokasi fisik atau perangkat tempat produk atau layanan dijual kepada pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344208.jpeg",
+      "simplified": "销售点",
+      "traditional": "銷售點",
+      "pinyin": "xiāoshòu diǎn"
+    },
+    {
+      "id": 344210,
+      "translation": {
+        "en": {
+          "short": "post press",
+          "long": "the stage in the book production process that occurs after printing, including binding, finishing, trimming, and packaging",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Posting Press",
+          "long": "Tahap dalam proses produksi buku yang terjadi setelah dicetak, termasuk mengikat, menyelesaikan, pemangkasan, dan pengemasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344210.jpeg",
+      "simplified": "帖子出版",
+      "traditional": "帖子出版",
+      "pinyin": "tiězi chūbǎn"
+    },
+    {
+      "id": 344212,
+      "translation": {
+        "en": {
+          "short": "prepress",
+          "long": "the process of preparing digital files for printing, including tasks such as typesetting, proofreading, and color correction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prepress",
+          "long": "Proses mempersiapkan file digital untuk dicetak, termasuk tugas -tugas seperti pengaturan huruf, proofreading, dan koreksi warna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344212.jpeg",
+      "simplified": "prepress",
+      "traditional": "prepress",
+      "pinyin": ""
+    },
+    {
+      "id": 344213,
+      "translation": {
+        "en": {
+          "short": "printing",
+          "long": "the business of producing printed materials such as books, magazines, brochures, flyers, and other similar items using various printing technologies and techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencetakan",
+          "long": "Bisnis memproduksi bahan cetak seperti buku, majalah, brosur, selebaran, dan barang -barang serupa lainnya menggunakan berbagai teknologi dan teknik pencetakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344213.jpeg",
+      "simplified": "印花",
+      "traditional": "印花",
+      "pinyin": "yìnhuā"
+    },
+    {
+      "id": 344217,
+      "translation": {
+        "en": {
+          "short": "print-on-demand",
+          "long": "a book publishing model that allows books to be printed and shipped only when an order is received, typically using digital printing technology",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "print-on-demand",
+          "long": "Model penerbitan buku yang memungkinkan buku dicetak dan dikirim hanya saat pesanan diterima, biasanya menggunakan teknologi pencetakan digital",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344217.jpeg",
+      "simplified": "按需打印",
+      "traditional": "按需打印",
+      "pinyin": "ànxū dǎyìn"
+    },
+    {
+      "id": 344220,
+      "translation": {
+        "en": {
+          "short": "proofreading",
+          "long": "the process of carefully reviewing a text in order to identify and correct errors to ensure that the final product is free of errors and ready for publication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "proofreading",
+          "long": "Proses meninjau teks dengan cermat untuk mengidentifikasi dan memperbaiki kesalahan untuk memastikan bahwa produk akhir bebas dari kesalahan dan siap untuk dipublikasikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344220.jpeg",
+      "simplified": "校对",
+      "traditional": "校對",
+      "pinyin": "jiàoduì"
+    },
+    {
+      "id": 344221,
+      "translation": {
+        "en": {
+          "short": "publicity",
+          "long": "actions or information that are meant to gain the support or attention of the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "publisitas",
+          "long": "tindakan atau informasi yang dimaksudkan untuk mendapatkan dukungan atau perhatian publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344221.jpeg",
+      "simplified": "公开",
+      "traditional": "公開",
+      "pinyin": "gōngkāi"
+    },
+    {
+      "id": 344224,
+      "translation": {
+        "en": {
+          "short": "return",
+          "long": "the unsold books that are returned by retailers or distributors to the publisher or wholesaler for credit or refund",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kembali",
+          "long": "Buku -buku yang tidak terjual yang dikembalikan oleh pengecer atau distributor kepada penerbit atau pedagang grosir untuk kredit atau pengembalian uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344224.jpeg",
+      "simplified": "归还",
+      "traditional": "歸還",
+      "pinyin": "guīhuán"
+    },
+    {
+      "id": 344226,
+      "translation": {
+        "en": {
+          "short": "royalty",
+          "long": "a payment made to the author or creator of a work for each copy of the work that is sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "royalti",
+          "long": "pembayaran yang dilakukan kepada penulis atau pencipta sebuah karya untuk setiap salinan karya yang dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344226.jpeg",
+      "simplified": "版权",
+      "traditional": "版權",
+      "pinyin": "bǎnquán"
+    },
+    {
+      "id": 344229,
+      "translation": {
+        "en": {
+          "short": "self-publishing",
+          "long": "the act of publishing and marketing a book or other media by the author or creator of the work, without the involvement of a traditional publisher",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menerbitkan sendiri",
+          "long": "Tindakan penerbitan dan pemasaran buku atau media lain oleh penulis atau pencipta karya, tanpa keterlibatan penerbit tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344229.jpeg",
+      "simplified": "自我出版",
+      "traditional": "自我出版",
+      "pinyin": "zìwǒ chūbǎn"
+    },
+    {
+      "id": 344232,
+      "translation": {
+        "en": {
+          "short": "shelf space",
+          "long": "the amount of physical space in a bookstore or library that is designated for displaying and storing books or other products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang rak",
+          "long": "Jumlah ruang fisik di toko buku atau perpustakaan yang ditunjuk untuk memajang dan menyimpan buku atau produk lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344232.jpeg",
+      "simplified": "货架空间",
+      "traditional": "貨架空間",
+      "pinyin": "huòjià kōngjiān"
+    },
+    {
+      "id": 344238,
+      "translation": {
+        "en": {
+          "short": "subsidiary rights",
+          "long": "the various rights to exploit a book or other intellectual property, beyond the primary right to publish and distribute it in its original form",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hak anak perusahaan",
+          "long": "Berbagai hak untuk mengeksploitasi buku atau kekayaan intelektual lainnya, di luar hak utama untuk menerbitkan dan mendistribusikannya dalam bentuk aslinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344238.jpeg",
+      "simplified": "子公司权利",
+      "traditional": "子公司權利",
+      "pinyin": "zǐgōng sī quánlì"
+    },
+    {
+      "id": 344241,
+      "translation": {
+        "en": {
+          "short": "translation rights",
+          "long": "the permission granted to an individual or organization to translate and publish a book or other literary work in a language other than the original",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hak terjemahan",
+          "long": "izin yang diberikan kepada individu atau organisasi untuk menerjemahkan dan menerbitkan buku atau karya sastra lainnya dalam bahasa selain aslinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344241.jpeg",
+      "simplified": "翻译权",
+      "traditional": "翻譯權",
+      "pinyin": "fānyì Quán"
+    },
+    {
+      "id": 344242,
+      "translation": {
+        "en": {
+          "short": "typesetting",
+          "long": "the process of arranging the type of a text and preparing it for printing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyusunan huruf",
+          "long": "proses mengatur jenis teks dan mempersiapkannya untuk mencetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344242.jpeg",
+      "simplified": "排版",
+      "traditional": "排版",
+      "pinyin": "páibǎn"
+    },
+    {
+      "id": 344244,
+      "translation": {
+        "en": {
+          "short": "vanity press",
+          "long": "a type of publishing company that charges authors to publish their work and provides little or no editorial or marketing support",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vanity Press",
+          "long": "Jenis perusahaan penerbitan yang menagih penulis untuk mempublikasikan karya mereka dan menyediakan sedikit atau tidak ada dukungan editorial atau pemasaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344244.jpeg",
+      "simplified": "虚荣出版社",
+      "traditional": "虛榮出版社",
+      "pinyin": "xūróng chūbǎn shè"
+    },
+    {
+      "id": 344245,
+      "translation": {
+        "en": {
+          "short": "bestseller",
+          "long": "an item, especially a book, that is bought by a large number of people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjualan terbaik",
+          "long": "Barang, terutama buku, yang dibeli oleh sejumlah besar orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344245.jpeg",
+      "simplified": "畅销书",
+      "traditional": "暢銷書",
+      "pinyin": "chàngxiāo shū"
+    },
+    {
+      "id": 344246,
+      "translation": {
+        "en": {
+          "short": "library",
+          "long": "a place in which collections of books and sometimes newspapers, movies, music, etc. are kept for people to read or borrow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perpustakaan",
+          "long": "Tempat di mana koleksi buku dan terkadang surat kabar, film, musik, dll. Disimpan agar orang membaca atau meminjam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344246.jpeg",
+      "simplified": "图书馆",
+      "traditional": "圖書館",
+      "pinyin": "túshū guǎn"
+    },
+    {
+      "id": 344272,
+      "translation": {
+        "en": {
+          "short": "national library",
+          "long": "a library that holds a collection of materials that represent the cultural and intellectual heritage of a nation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perpustakaan Nasional",
+          "long": "perpustakaan yang memegang kumpulan bahan yang mewakili warisan budaya dan intelektual suatu bangsa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344272.jpeg",
+      "simplified": "国家图书馆",
+      "traditional": "國家圖書館",
+      "pinyin": "guójiā tú shū guǎn"
+    },
+    {
+      "id": 344284,
+      "translation": {
+        "en": {
+          "short": "private library",
+          "long": "a collection of books and other materials, owned and maintained by an individual or a private organization, rather than a public institution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perpustakaan Pribadi",
+          "long": "Koleksi buku dan materi lainnya, dimiliki dan dikelola oleh individu atau organisasi swasta, bukan lembaga publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344284.jpeg",
+      "simplified": "私人图书馆",
+      "traditional": "私人圖書館",
+      "pinyin": "sīrén túshū guǎn"
+    },
+    {
+      "id": 344285,
+      "translation": {
+        "en": {
+          "short": "public library",
+          "long": "a free community resource that offers a wide variety of books, media, and other educational materials for people to borrow and use for personal and educational purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perpustakaan Umum",
+          "long": "Sumber daya komunitas gratis yang menawarkan berbagai buku, media, dan materi pendidikan lainnya bagi orang untuk meminjam dan digunakan untuk tujuan pribadi dan pendidikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344285.jpeg",
+      "simplified": "公共图书馆",
+      "traditional": "公共圖書館",
+      "pinyin": "gōnggòng túshū guǎn"
+    },
+    {
+      "id": 344287,
+      "translation": {
+        "en": {
+          "short": "research library",
+          "long": "a type of library that serves the needs of researchers, scholars, and students by providing access to specialized materials and resources for advanced study and research",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perpustakaan Penelitian",
+          "long": "Jenis perpustakaan yang melayani kebutuhan peneliti, sarjana, dan siswa dengan menyediakan akses ke bahan dan sumber daya khusus untuk studi dan penelitian lanjutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344287.jpeg",
+      "simplified": "研究图书馆",
+      "traditional": "研究圖書館",
+      "pinyin": "yánjiū túshū guǎn"
+    },
+    {
+      "id": 344289,
+      "translation": {
+        "en": {
+          "short": "special library",
+          "long": "a library that serves a specialized clientele and typically contains specialized resources in the field or subject area of the organization it serves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perpustakaan Khusus",
+          "long": "Perpustakaan yang melayani pelanggan khusus dan biasanya berisi sumber daya khusus di lapangan atau bidang subjek organisasi yang dilayaninya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344289.jpeg",
+      "simplified": "特别图书馆",
+      "traditional": "特別圖書館",
+      "pinyin": "tèbié túshū guǎn"
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "id": 4201,
+  "title": {
+    "en": "Newspaper and Magazine",
+    "id": "Surat Kabar dan Majalah"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to newspapers and magazines  such as \"feature\", \"column\", and \"gazette\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan surat kabar dan majalah seperti \"fitur\", \"kolom\", dan \"gazette\"."
+  },
+  "cards": [
+    {
+      "id": 355479,
+      "translation": {
+        "en": {
+          "short": "feature",
+          "long": "a lengthy article in a newspaper or magazine, often written by a specialist about a certain topic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fitur",
+          "long": "Artikel panjang di surat kabar atau majalah, sering ditulis oleh spesialis tentang topik tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355479.jpeg",
+      "simplified": "特征",
+      "traditional": "特徵",
+      "pinyin": "tèzhēng"
+    },
+    {
+      "id": 355480,
+      "translation": {
+        "en": {
+          "short": "column",
+          "long": "a section of a newspaper or magazine that regularly publishes articles about a particular subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom",
+          "long": "Bagian dari surat kabar atau majalah yang secara teratur menerbitkan artikel tentang subjek tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355480.jpeg",
+      "simplified": "柱",
+      "traditional": "柱",
+      "pinyin": "zhù"
+    },
+    {
+      "id": 355481,
+      "translation": {
+        "en": {
+          "short": "advice column",
+          "long": "a section or part in a newspaper in which people are given advice regarding their personal problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom nasihat",
+          "long": "bagian atau bagian dalam surat kabar di mana orang diberi nasihat tentang masalah pribadi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355481.jpeg",
+      "simplified": "咨询专栏（报纸、杂志等）",
+      "traditional": "諮詢專欄（報紙、雜誌等）",
+      "pinyin": "zīxún zhuānlán bàozhǐ zázhì děng"
+    },
+    {
+      "id": 355484,
+      "translation": {
+        "en": {
+          "short": "gossip column",
+          "long": "a segment in a newspaper assigned to stories about the lives of the celebrities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom gosip",
+          "long": "Segmen di surat kabar yang ditugaskan untuk cerita tentang kehidupan para selebriti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355484.jpeg",
+      "simplified": "八卦专栏",
+      "traditional": "八卦專欄",
+      "pinyin": "bāguà zhuānlán"
+    },
+    {
+      "id": 355486,
+      "translation": {
+        "en": {
+          "short": "personal column",
+          "long": "a segment in a newspaper or magazine devoted to personal messages or advertizements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom pribadi",
+          "long": "Segmen di surat kabar atau majalah yang dikhususkan untuk pesan dan iklan pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355486.jpeg",
+      "simplified": "个人专栏",
+      "traditional": "個人專欄",
+      "pinyin": "gèrén zhuānlán"
+    },
+    {
+      "id": 355482,
+      "translation": {
+        "en": {
+          "short": "dispatch",
+          "long": "a newspaper report, usually sent from another town or a foreign country, often on a military-related matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menugaskan",
+          "long": "Laporan surat kabar, biasanya dikirim dari kota lain atau negara asing, seringkali dengan masalah yang berhubungan dengan militer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355482.jpeg",
+      "simplified": "牒",
+      "traditional": "牒",
+      "pinyin": "dié"
+    },
+    {
+      "id": 355483,
+      "translation": {
+        "en": {
+          "short": "editorial",
+          "long": "a newspaper article expressing the views of the editor on a particular subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tajuk rencana",
+          "long": "Artikel surat kabar yang menyatakan pandangan editor tentang subjek tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355483.jpeg",
+      "simplified": "社论",
+      "traditional": "社論",
+      "pinyin": "shèlùn"
+    },
+    {
+      "id": 355485,
+      "translation": {
+        "en": {
+          "short": "horoscope",
+          "long": "a forecast of an individual's future based on their zodiac sign or date of birth, especially as published in a newspaper or magazine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "horoskop",
+          "long": "Prakiraan masa depan seseorang berdasarkan tanda zodiak atau tanggal lahir, terutama seperti yang diterbitkan di surat kabar atau majalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355485.jpeg",
+      "simplified": "星座运势",
+      "traditional": "星座運勢",
+      "pinyin": "xīngzuò yùn shì"
+    },
+    {
+      "id": 355487,
+      "translation": {
+        "en": {
+          "short": "preview",
+          "long": "a piece published in a newspaper or magazine that describes a movie, or a TV show before it is aired",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pratinjau",
+          "long": "Sepotong yang diterbitkan di sebuah surat kabar atau majalah yang menggambarkan film, atau acara TV sebelum ditayangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355487.jpeg",
+      "simplified": "预览",
+      "traditional": "預覽",
+      "pinyin": "yùlǎn"
+    },
+    {
+      "id": 355489,
+      "translation": {
+        "en": {
+          "short": "review",
+          "long": "a type of periodical publication that features critical essays or evaluations of contemporary literature, art, or current events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinjauan",
+          "long": "Jenis publikasi berkala yang menampilkan esai kritis atau evaluasi literatur kontemporer, seni, atau peristiwa terkini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355489.jpeg",
+      "simplified": "评论",
+      "traditional": "評論",
+      "pinyin": "pínglùn"
+    },
+    {
+      "id": 355488,
+      "translation": {
+        "en": {
+          "short": "rave review",
+          "long": "an article published in a newspaper or magazine that praises a movie, book, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ulasan Rave",
+          "long": "Sebuah artikel yang diterbitkan di surat kabar atau majalah yang memuji film, buku, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355488.jpeg",
+      "simplified": "狂欢审查",
+      "traditional": "狂歡審查",
+      "pinyin": "kuánghuān shěnchá"
+    },
+    {
+      "id": 355490,
+      "translation": {
+        "en": {
+          "short": "sidebar",
+          "long": "a brief piece in a newspaper printed next to the main article, providing additional information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilah sisi",
+          "long": "Sepotong singkat di surat kabar yang dicetak di sebelah artikel utama, memberikan informasi tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355490.jpeg",
+      "simplified": "报纸侧边栏",
+      "traditional": "報紙側邊欄",
+      "pinyin": "bàozhǐ cèbiān lán"
+    },
+    {
+      "id": 355491,
+      "translation": {
+        "en": {
+          "short": "silly season",
+          "long": "a time, usually in summer, when newspapers are filled with insignificant stories because there are not that many important news",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musim konyol",
+          "long": "Suatu waktu, biasanya di musim panas, ketika surat kabar dipenuhi dengan cerita yang tidak penting karena tidak ada banyak berita penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355491.jpeg",
+      "simplified": "愚蠢的季节",
+      "traditional": "愚蠢的季節",
+      "pinyin": "yúchǔn de jìjié"
+    },
+    {
+      "id": 355492,
+      "translation": {
+        "en": {
+          "short": "press",
+          "long": "newspapers, journalists, and magazines as a whole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tekan",
+          "long": "surat kabar, jurnalis, dan majalah secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355492.jpeg",
+      "simplified": "出版社",
+      "traditional": "出版社",
+      "pinyin": "chūbǎn shè"
+    },
+    {
+      "id": 355493,
+      "translation": {
+        "en": {
+          "short": "stop press",
+          "long": "the most recent and important news that is added to a newspaper at the last moment before printing or after the start of the printing process, especially as a heading",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berita terakhir",
+          "long": "Berita terbaru dan penting yang ditambahkan ke koran pada saat terakhir sebelum mencetak atau setelah dimulainya proses pencetakan, terutama sebagai judul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355493.jpeg",
+      "simplified": "停止按",
+      "traditional": "停止按",
+      "pinyin": "tíngzhǐ àn"
+    },
+    {
+      "id": 355494,
+      "translation": {
+        "en": {
+          "short": "broadsheet",
+          "long": "a newspaper that is published on a large piece of paper regarded as more serious",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Broadsheet",
+          "long": "sebuah koran yang diterbitkan di selembar kertas besar yang dianggap lebih serius",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355494.jpeg",
+      "simplified": "大报",
+      "traditional": "大報",
+      "pinyin": "dà bào"
+    },
+    {
+      "id": 355495,
+      "translation": {
+        "en": {
+          "short": "cartoon",
+          "long": "a humorous drawing on the topics that are covered in the news, usually published in a newspaper or magazine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kartun",
+          "long": "Gambar lucu pada topik yang diliput dalam berita, biasanya diterbitkan di koran atau majalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355495.jpeg",
+      "simplified": "动画片",
+      "traditional": "動畫片",
+      "pinyin": "dònghuà piàn"
+    },
+    {
+      "id": 355496,
+      "translation": {
+        "en": {
+          "short": "center spread",
+          "long": "the middle pages of a magazine or newspaper that face each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyebaran tengah",
+          "long": "halaman tengah majalah atau koran yang saling berhadapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355496.jpeg",
+      "simplified": "中心传播",
+      "traditional": "中心傳播",
+      "pinyin": "zhōngxīn chuánbō"
+    },
+    {
+      "id": 355497,
+      "translation": {
+        "en": {
+          "short": "circulation",
+          "long": "the number of copies of a newspaper or magazine sold at regular intervals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sirkulasi",
+          "long": "Jumlah salinan koran atau majalah yang dijual secara berkala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355497.jpeg",
+      "simplified": "流通（书籍等）",
+      "traditional": "流通（書籍等）",
+      "pinyin": "liútōng shūjí děng"
+    },
+    {
+      "id": 355498,
+      "translation": {
+        "en": {
+          "short": "clipping",
+          "long": "a story or article cut from a newspaper or magazine to be kept",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guntingan",
+          "long": "cerita atau artikel yang dipotong dari koran atau majalah untuk disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355498.jpeg",
+      "simplified": "剪报（报纸或杂志）",
+      "traditional": "剪報（報紙或雜誌）",
+      "pinyin": "jiǎnbào bàozhǐ huò zázhì"
+    },
+    {
+      "id": 355499,
+      "translation": {
+        "en": {
+          "short": "column inch",
+          "long": "a unit of measurement used in print media to determine the amount of space occupied by an article, advertisement, or other content within a column of a newspaper or magazine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inci kolom",
+          "long": "Unit pengukuran yang digunakan dalam media cetak untuk menentukan jumlah ruang yang ditempati oleh artikel, iklan, atau konten lain dalam kolom koran atau majalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355499.jpeg",
+      "simplified": "柱英寸",
+      "traditional": "柱英寸",
+      "pinyin": "zhù yīngcùn"
+    },
+    {
+      "id": 355500,
+      "translation": {
+        "en": {
+          "short": "daily",
+          "long": "a type of newspaper that is published everyday except Sunday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sehari-hari",
+          "long": "Jenis koran yang diterbitkan setiap hari kecuali hari Minggu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355500.jpeg",
+      "simplified": "日报",
+      "traditional": "日報",
+      "pinyin": "rìbào"
+    },
+    {
+      "id": 355501,
+      "translation": {
+        "en": {
+          "short": "weekly",
+          "long": "a newspaper or periodical that is published once a week",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mingguan",
+          "long": "koran atau berkala yang diterbitkan seminggu sekali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355501.jpeg",
+      "simplified": "周刊",
+      "traditional": "周刊",
+      "pinyin": "zhōukān"
+    },
+    {
+      "id": 355502,
+      "translation": {
+        "en": {
+          "short": "biweekly",
+          "long": "something that occurs or is published every two weeks, typically referring to a publication, such as a newspaper or magazine, that is issued or updated once every two weeks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dua minggu sekali",
+          "long": "sesuatu yang terjadi atau diterbitkan setiap dua minggu, biasanya mengacu pada publikasi, seperti koran atau majalah, yang dikeluarkan atau diperbarui setiap dua minggu sekali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355502.jpeg",
+      "simplified": "双周刊",
+      "traditional": "雙周刊",
+      "pinyin": "Shuāng zhōukān"
+    },
+    {
+      "id": 355503,
+      "translation": {
+        "en": {
+          "short": "edition",
+          "long": "the total number of copies of a newspaper, book, etc. that is published at one time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "edisi",
+          "long": "Jumlah total salinan koran, buku, dll. Yang diterbitkan pada satu waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355503.jpeg",
+      "simplified": "版",
+      "traditional": "版",
+      "pinyin": "bǎn"
+    },
+    {
+      "id": 355504,
+      "translation": {
+        "en": {
+          "short": "evening paper",
+          "long": "a type of newspaper that is published after midday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kertas malam",
+          "long": "Jenis koran yang diterbitkan setelah tengah hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355504.jpeg",
+      "simplified": "晚报",
+      "traditional": "晚報",
+      "pinyin": "wǎnbào"
+    },
+    {
+      "id": 355505,
+      "translation": {
+        "en": {
+          "short": "front page",
+          "long": "the first and main page of a newspaper in which important news pieces are printed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman Depan",
+          "long": "Halaman pertama dan utama dari sebuah koran di mana karya -karya penting dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355505.jpeg",
+      "simplified": "报纸头版",
+      "traditional": "報紙頭版",
+      "pinyin": "bàozhǐ tóubǎn"
+    },
+    {
+      "id": 355506,
+      "translation": {
+        "en": {
+          "short": "gazette",
+          "long": "an official journal or newspaper that contains serious information about decision making and policies, published by an organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surat kabar",
+          "long": "jurnal resmi atau surat kabar yang berisi informasi serius tentang pengambilan keputusan dan kebijakan, yang diterbitkan oleh sebuah organisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355506.jpeg",
+      "simplified": "官方杂志",
+      "traditional": "官方雜誌",
+      "pinyin": "guānfāng zázhì"
+    },
+    {
+      "id": 355507,
+      "translation": {
+        "en": {
+          "short": "headline",
+          "long": "the large words in the upper part of a page of a newspaper, article, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tajuk utama",
+          "long": "Kata -kata besar di bagian atas halaman koran, artikel, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355507.jpeg",
+      "simplified": "标题",
+      "traditional": "標題",
+      "pinyin": "biāotí"
+    },
+    {
+      "id": 355508,
+      "translation": {
+        "en": {
+          "short": "masthead",
+          "long": "the title of a magazine or newspaper at the top of the first page",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepala surat",
+          "long": "Judul majalah atau koran di bagian atas halaman pertama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355508.jpeg",
+      "simplified": "标头",
+      "traditional": "標頭",
+      "pinyin": "biāo tóu"
+    },
+    {
+      "id": 355509,
+      "translation": {
+        "en": {
+          "short": "obituary",
+          "long": "an article or report, especially in a newspaper, published soon after the death of a person, typically containing details about their life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berita kematian",
+          "long": "Sebuah artikel atau laporan, terutama di sebuah surat kabar, diterbitkan segera setelah kematian seseorang, biasanya berisi detail tentang kehidupan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355509.jpeg",
+      "simplified": "讣告",
+      "traditional": "訃告",
+      "pinyin": "fùgào"
+    },
+    {
+      "id": 355510,
+      "translation": {
+        "en": {
+          "short": "offprint",
+          "long": "an article that has been separately published as a piece in a magazine or newspaper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cetakan ulang",
+          "long": "Sebuah artikel yang telah diterbitkan secara terpisah sebagai karya di majalah atau surat kabar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355510.jpeg",
+      "simplified": "单行本",
+      "traditional": "單行本",
+      "pinyin": "dānxíng běn"
+    },
+    {
+      "id": 355511,
+      "translation": {
+        "en": {
+          "short": "op-ed",
+          "long": "a section in the newspaper that contains personal opinions about the news and feature articles, opposite the editorial page",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "op-ed",
+          "long": "Bagian di surat kabar yang berisi pendapat pribadi tentang berita dan artikel fitur, di seberang halaman editorial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355511.jpeg",
+      "simplified": "报纸的评论部分",
+      "traditional": "報紙的評論部分",
+      "pinyin": "bàozhǐ de pínglùn bùfen"
+    },
+    {
+      "id": 355513,
+      "translation": {
+        "en": {
+          "short": "organ",
+          "long": "a newspaper, periodical, or magazine published by a particular group or organization to promote their views",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "organ",
+          "long": "Surat Kabar, Berkala, atau Majalah yang diterbitkan oleh grup atau organisasi tertentu untuk mempromosikan pandangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355513.jpeg",
+      "simplified": "特定团体出版的报纸",
+      "traditional": "特定團體出版的報紙",
+      "pinyin": "tèdìng tuántǐ chūbǎn de bàozhǐ"
+    },
+    {
+      "id": 355514,
+      "translation": {
+        "en": {
+          "short": "copy",
+          "long": "the written content or text that is prepared for publication, such as articles, headlines, advertisements, or any textual material that appears in newspapers, magazines, brochures, or other printed materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyalin",
+          "long": "Konten atau teks tertulis yang disiapkan untuk publikasi, seperti artikel, berita utama, iklan, atau materi tekstual apa pun yang muncul di surat kabar, majalah, brosur, atau bahan cetak lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355514.jpeg",
+      "simplified": "份",
+      "traditional": "份",
+      "pinyin": "fèn"
+    },
+    {
+      "id": 355515,
+      "translation": {
+        "en": {
+          "short": "pull-out",
+          "long": "a part of a magazine, newspaper, etc. that can be taken out easily and kept separately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penarikan",
+          "long": "Bagian dari majalah, koran, dll. Yang dapat dikeluarkan dengan mudah dan disimpan secara terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355515.jpeg",
+      "simplified": "撤退",
+      "traditional": "撤退",
+      "pinyin": "chètuì"
+    },
+    {
+      "id": 355516,
+      "translation": {
+        "en": {
+          "short": "scandal sheet",
+          "long": "a newspaper or magazine that mostly contains stories about the bad behavior and private lives of the celebrities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lembar Skandal",
+          "long": "sebuah surat kabar atau majalah yang sebagian besar berisi cerita tentang perilaku buruk dan kehidupan pribadi para selebriti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355516.jpeg",
+      "simplified": "丑闻表",
+      "traditional": "醜聞表",
+      "pinyin": "chǒuwén biǎo"
+    },
+    {
+      "id": 355517,
+      "translation": {
+        "en": {
+          "short": "supplement",
+          "long": "a separate section, usually in the form of a colored magazine, sold with a newspaper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suplemen",
+          "long": "Bagian terpisah, biasanya dalam bentuk majalah berwarna, dijual dengan koran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355517.jpeg",
+      "simplified": "补充",
+      "traditional": "補充",
+      "pinyin": "bǔchōng"
+    },
+    {
+      "id": 355518,
+      "translation": {
+        "en": {
+          "short": "tabloid",
+          "long": "a newspaper with smaller pages and many pictures, covering stories about famous people and not much serious news",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pil",
+          "long": "Koran dengan halaman yang lebih kecil dan banyak gambar, meliput cerita tentang orang -orang terkenal dan tidak banyak berita serius",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355518.jpeg",
+      "simplified": "小报（报纸格式）",
+      "traditional": "小報（報紙格式）",
+      "pinyin": "xiǎobào bàozhǐ géshì"
+    },
+    {
+      "id": 355519,
+      "translation": {
+        "en": {
+          "short": "publication",
+          "long": "a printed work, such as a book, magazine, etc. that is publicly distributed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "publikasi",
+          "long": "Karya cetak, seperti buku, majalah, dll. Yang didistribusikan secara publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355519.jpeg",
+      "simplified": "发布",
+      "traditional": "發布",
+      "pinyin": "fābù"
+    },
+    {
+      "id": 355520,
+      "translation": {
+        "en": {
+          "short": "classified magazine",
+          "long": "a publication focused on classified advertisements, enabling individuals and businesses to promote products, services, or job opportunities in categorized sections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "majalah rahasia",
+          "long": "Publikasi yang berfokus pada iklan rahasia, memungkinkan individu dan bisnis untuk mempromosikan produk, layanan, atau peluang kerja di bagian yang dikategorikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355520.jpeg",
+      "simplified": "分类杂志",
+      "traditional": "分類雜誌",
+      "pinyin": "fēnlèi zázhì"
+    },
+    {
+      "id": 355521,
+      "translation": {
+        "en": {
+          "short": "local newspaper",
+          "long": "a print publication that delivers news and information specific to a particular community or region, serving as a primary source of local news for residents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Koran lokal",
+          "long": "publikasi cetak yang memberikan berita dan informasi khusus untuk komunitas atau wilayah tertentu, berfungsi sebagai sumber utama berita lokal untuk penduduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355521.jpeg",
+      "simplified": "当地报纸",
+      "traditional": "當地報紙",
+      "pinyin": "dāngdì bàozhǐ"
+    },
+    {
+      "id": 355522,
+      "translation": {
+        "en": {
+          "short": "newsprint",
+          "long": "an affordable, uncoated paper with a rough texture, commonly used for printing newspapers due to its lightweight and absorbent properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kertas koran",
+          "long": "Kertas yang terjangkau dan tidak dilapisi dengan tekstur kasar, biasanya digunakan untuk mencetak koran karena sifatnya yang ringan dan menyerap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355522.jpeg",
+      "simplified": "新闻版",
+      "traditional": "新聞版",
+      "pinyin": "xīnwén bǎn"
+    },
+    {
+      "id": 355523,
+      "translation": {
+        "en": {
+          "short": "byline",
+          "long": "a line that gives the writer's name, usually at the beginning or end of a column",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "byline",
+          "long": "garis yang memberi nama penulis, biasanya di awal atau akhir kolom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355523.jpeg",
+      "simplified": "提到作者姓名的行",
+      "traditional": "提到作者姓名的行",
+      "pinyin": "tídào zuòzhě xìngmíng de háng"
+    },
+    {
+      "id": 355524,
+      "translation": {
+        "en": {
+          "short": "journal",
+          "long": "a magazine or newspaper that gives information about a specific topic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jurnal",
+          "long": "majalah atau surat kabar yang memberikan informasi tentang topik tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355524.jpeg",
+      "simplified": "日志",
+      "traditional": "紀錄",
+      "pinyin": "rìzhì"
+    },
+    {
+      "id": 355525,
+      "translation": {
+        "en": {
+          "short": "subscription",
+          "long": "a newspaper or magazine enables individuals to regularly receive and access the publication's content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berlangganan",
+          "long": "Surat kabar atau majalah memungkinkan individu untuk secara teratur menerima dan mengakses konten publikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355525.jpeg",
+      "simplified": "订阅",
+      "traditional": "訂閱",
+      "pinyin": "dìngyuè"
+    },
+    {
+      "id": 356046,
+      "translation": {
+        "en": {
+          "short": "syndication",
+          "long": "the distribution of articles, columns, comics, or other content to multiple newspapers or publications for publication, allowing wider readership and exposure to the content across various outlets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sindikasi",
+          "long": "Distribusi artikel, kolom, komik, atau konten lain ke beberapa surat kabar atau publikasi untuk publikasi, memungkinkan pembaca yang lebih luas dan paparan konten di berbagai outlet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356046.jpeg",
+      "simplified": "联合组织",
+      "traditional": "聯合組織",
+      "pinyin": "liánhé zǔ zhī"
+    },
+    {
+      "id": 390859,
+      "translation": {
+        "en": {
+          "short": "rave",
+          "long": "an enthusiastic article published in a magazine or newspaper about a particular film, book, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sambutan hangat",
+          "long": "Artikel antusias yang diterbitkan di majalah atau koran tentang film, buku, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390859.jpeg",
+      "simplified": "鼓舞人心的文章",
+      "traditional": "鼓舞人心的文章",
+      "pinyin": "gǔwǔ rénxīn de wénzhāng"
+    },
+    {
+      "id": 390860,
+      "translation": {
+        "en": {
+          "short": "write-up",
+          "long": "a written account in a newspaper to review a book, performance, or event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulisan",
+          "long": "akun tertulis di surat kabar untuk meninjau buku, pertunjukan, atau acara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390860.jpeg",
+      "simplified": "写上去",
+      "traditional": "寫上去",
+      "pinyin": "xiě shàngqù"
+    },
+    {
+      "id": 390861,
+      "translation": {
+        "en": {
+          "short": "back issue",
+          "long": "an earlier copy of a magazine or a newspaper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masalah kembali",
+          "long": "salinan majalah atau koran sebelumnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390861.jpeg",
+      "simplified": "旧报纸或杂志",
+      "traditional": "舊報紙或雜誌",
+      "pinyin": "jiù bàozhǐ huò zázhì"
+    }
+  ]
+}

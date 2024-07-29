@@ -1,0 +1,829 @@
+{
+  "id": 6000,
+  "title": {
+    "en": "Player Roles in Team Sports",
+    "id": "Peran pemain dalam olahraga tim"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 401759,
+      "translation": {
+        "en": {
+          "short": "offense",
+          "long": "(in sports) the players of a team who are trying to score against the rival team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelanggaran",
+          "long": "(dalam olahraga) Para pemain tim yang mencoba mencetak gol melawan tim saingannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401759.jpeg",
+      "simplified": "罪行",
+      "traditional": "罪行",
+      "pinyin": "zuìxíng"
+    },
+    {
+      "id": 401761,
+      "translation": {
+        "en": {
+          "short": "defense",
+          "long": "(in sports) the players who try to not allow the opposing team to score; the position or role of these players on the field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertahanan",
+          "long": "(dalam olahraga) Para pemain yang mencoba untuk tidak mengizinkan tim lawan untuk mencetak gol; Posisi atau peran para pemain ini di lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401761.jpeg",
+      "simplified": "防御",
+      "traditional": "防禦",
+      "pinyin": "fángyù"
+    },
+    {
+      "id": 401764,
+      "translation": {
+        "en": {
+          "short": "halfback",
+          "long": "a versatile player in soccer or American football positioned between the forwards and defenders, responsible for both offensive and defensive duties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelandang tengah",
+          "long": "Pemain serba guna dalam sepak bola atau sepak bola Amerika yang diposisikan antara penyerang dan pembela, yang bertanggung jawab atas tugas ofensif dan defensif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401764.jpeg",
+      "simplified": "中卫",
+      "traditional": "中衛",
+      "pinyin": "Zhōngwèi"
+    },
+    {
+      "id": 401767,
+      "translation": {
+        "en": {
+          "short": "reliever",
+          "long": "a pitcher who comes into the game from the bullpen to replace another pitcher",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pereda",
+          "long": "seorang pelempar yang datang ke permainan dari bullpen untuk menggantikan pitcher lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401767.jpeg",
+      "simplified": "缓解剂",
+      "traditional": "緩解劑",
+      "pinyin": "huǎnjiě jì"
+    },
+    {
+      "id": 401780,
+      "translation": {
+        "en": {
+          "short": "middle reliever",
+          "long": "(baseball) a pitcher who enters the game after the starting pitcher but before the closer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pereda tengah",
+          "long": "(Baseball) Seorang pitcher yang memasuki permainan setelah pitcher awal tetapi sebelum lebih dekat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401780.jpeg",
+      "simplified": "中间缓解者",
+      "traditional": "中間緩解者",
+      "pinyin": "zhōngjiān huǎnjiě zhě"
+    },
+    {
+      "id": 401784,
+      "translation": {
+        "en": {
+          "short": "midfielder",
+          "long": "a player who operates primarily in the central area of the field in sports like soccer or rugby, with both defensive and offensive roles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gelandang",
+          "long": "Seorang pemain yang beroperasi terutama di area pusat lapangan dalam olahraga seperti sepak bola atau rugby, dengan peran defensif dan ofensif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401784.jpeg",
+      "simplified": "中场",
+      "traditional": "中場",
+      "pinyin": "zhōngchǎng"
+    },
+    {
+      "id": 401796,
+      "translation": {
+        "en": {
+          "short": "long reliever",
+          "long": "(baseball) a pitcher who enters a game in relief of the starting pitcher and typically pitches multiple innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pereda yang lama",
+          "long": "(Baseball) Seorang pitcher yang memasuki permainan dengan melegakan pitcher awal dan biasanya melempar banyak inning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401796.jpeg",
+      "simplified": "长缓解剂",
+      "traditional": "長緩解劑",
+      "pinyin": "cháng huǎnjiě jì"
+    },
+    {
+      "id": 401818,
+      "translation": {
+        "en": {
+          "short": "setup man",
+          "long": "(baseball) a relief pitcher who precedes the closer, usually pitching in the eighth inning to maintain the team's lead",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setup man",
+          "long": "(Baseball) Pitcher bantuan yang mendahului semakin dekat, biasanya melempar di inning kedelapan untuk mempertahankan keunggulan tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401818.jpeg",
+      "simplified": "设置人",
+      "traditional": "設置人",
+      "pinyin": "shèzhì rén"
+    },
+    {
+      "id": 401824,
+      "translation": {
+        "en": {
+          "short": "left-handed specialist",
+          "long": "a player in baseball, who excels in facing or pitching against left-handed opponents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spesialis kidal",
+          "long": "Seorang pemain dalam bisbol, yang unggul dalam menghadapi atau melempar lawan kidal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401824.jpeg",
+      "simplified": "左撇子专家",
+      "traditional": "左撇子專家",
+      "pinyin": "zuǒpiě zi zhuānjiā"
+    },
+    {
+      "id": 401837,
+      "translation": {
+        "en": {
+          "short": "swingman",
+          "long": "a versatile player who can play effectively at multiple positions, typically in basketball or baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Swingman",
+          "long": "Pemain serba guna yang dapat bermain secara efektif di berbagai posisi, biasanya dalam bola basket atau baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401837.jpeg",
+      "simplified": "摇摆人",
+      "traditional": "搖擺人",
+      "pinyin": "yáobǎi rén"
+    },
+    {
+      "id": 401842,
+      "translation": {
+        "en": {
+          "short": "bowler",
+          "long": "(cricket) a player who throws the ball to the batsman",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bowler",
+          "long": "(kriket) Seorang pemain yang melempar bola ke batsman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401842.jpeg",
+      "simplified": "投球手",
+      "traditional": "投球手",
+      "pinyin": "tóu qiúshǒu"
+    },
+    {
+      "id": 401843,
+      "translation": {
+        "en": {
+          "short": "wicket-keeper",
+          "long": "(cricket) the player who stands behind the stumps to catch deliveries from the bowler and attempt to dismiss batsmen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjaga gawang",
+          "long": "(kriket) Pemain yang berdiri di belakang tunggul untuk menangkap pengiriman dari bowler dan mencoba untuk mengabaikan batsmen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401843.jpeg",
+      "simplified": "守门员",
+      "traditional": "守門員",
+      "pinyin": "shǒumén yuán"
+    },
+    {
+      "id": 401846,
+      "translation": {
+        "en": {
+          "short": "fielder",
+          "long": "a player on the cricket team who positions themselves strategically to stop or catch the ball hit by the batsman, aiming to dismiss them or prevent runs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fielder",
+          "long": "Seorang pemain di tim kriket yang memposisikan diri mereka secara strategis untuk berhenti atau menangkap bola yang dilanda batsman, yang bertujuan untuk mengabaikan mereka atau mencegah lari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401846.jpeg",
+      "simplified": "外野手",
+      "traditional": "外野手",
+      "pinyin": "wài yě shǒu"
+    },
+    {
+      "id": 401848,
+      "translation": {
+        "en": {
+          "short": "runner",
+          "long": "a player who is currently advancing or attempting to advance along the bases after hitting the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelari",
+          "long": "Seorang pemain yang saat ini maju atau berusaha untuk maju di sepanjang pangkalan setelah memukul bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401848.jpeg",
+      "simplified": "浇口",
+      "traditional": "澆口",
+      "pinyin": "jiāo kǒu"
+    },
+    {
+      "id": 401947,
+      "translation": {
+        "en": {
+          "short": "wide midfielder",
+          "long": "a soccer player who operates primarily on the flanks of the field, contributing both defensively and offensively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelandang lebar",
+          "long": "pemain sepak bola yang beroperasi terutama di sisi lapangan, berkontribusi baik secara defensif dan ofensif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401947.jpeg",
+      "simplified": "边前卫",
+      "traditional": "邊前衛",
+      "pinyin": "biān qiánwèi"
+    },
+    {
+      "id": 401950,
+      "translation": {
+        "en": {
+          "short": "punter",
+          "long": "an American football player who specializes in punting the ball to the opposing team, usually on fourth down, to change field position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemain profesional",
+          "long": "Seorang pemain sepak bola Amerika yang berspesialisasi dalam mengayuh bola ke tim lawan, biasanya pada keempat turun, untuk mengubah posisi lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401950.jpeg",
+      "simplified": "下注者",
+      "traditional": "下注者",
+      "pinyin": "xiàzhù zhě"
+    },
+    {
+      "id": 401952,
+      "translation": {
+        "en": {
+          "short": "most valuable player",
+          "long": "the palyer that is judged to be the most significant or useful in the team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemain paling berharga",
+          "long": "pemain yang dinilai sebagai yang paling signifikan atau berguna dalam tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401952.jpeg",
+      "simplified": "最有价值球员",
+      "traditional": "最有價值球員",
+      "pinyin": "zuì yǒujià zhí qiúyuán"
+    },
+    {
+      "id": 401955,
+      "translation": {
+        "en": {
+          "short": "kicker",
+          "long": "a player who specializes in kicking the ball, usually for field goals, extra points, and kickoffs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kicker",
+          "long": "Seorang pemain yang berspesialisasi dalam menendang bola, biasanya untuk gol lapangan, poin tambahan, dan kickoffs",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401955.jpeg",
+      "simplified": "踢球",
+      "traditional": "踢球",
+      "pinyin": "tī qiú"
+    },
+    {
+      "id": 401968,
+      "translation": {
+        "en": {
+          "short": "inherited runner",
+          "long": "(baseball) a baserunner on base when a relief pitcher enters the game, with the responsibility of the previous pitcher",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelari yang diwariskan",
+          "long": "(Baseball) Baserunner di pangkalan ketika pelempar bantuan memasuki permainan, dengan tanggung jawab pitcher sebelumnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401968.jpeg",
+      "simplified": "继承的跑步者",
+      "traditional": "繼承的跑步者",
+      "pinyin": "jìchéng de pǎobù zhě"
+    },
+    {
+      "id": 401980,
+      "translation": {
+        "en": {
+          "short": "spinner",
+          "long": "a player in cricket who specializes in bowling spin deliveries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemintal",
+          "long": "Seorang pemain dalam kriket yang berspesialisasi dalam pengiriman bowling spin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401980.jpeg",
+      "simplified": "蜘蛛",
+      "traditional": "蜘蛛",
+      "pinyin": "zhīzhū"
+    },
+    {
+      "id": 401989,
+      "translation": {
+        "en": {
+          "short": "opener",
+          "long": "a player who starts a game or match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuka",
+          "long": "pemain yang memulai permainan atau pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401989.jpeg",
+      "simplified": "开场白",
+      "traditional": "開場白",
+      "pinyin": "kāichǎng bái"
+    },
+    {
+      "id": 401990,
+      "translation": {
+        "en": {
+          "short": "wing back",
+          "long": "a defensive player in sports, typically football or soccer, who plays as both a full back and a winger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sayap belakang",
+          "long": "Pemain defensif dalam olahraga, biasanya sepak bola atau sepak bola, yang bermain sebagai punggung penuh dan pemain sayap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401990.jpeg",
+      "simplified": "边后卫",
+      "traditional": "邊後衛",
+      "pinyin": "biān hòuwèi"
+    },
+    {
+      "id": 401991,
+      "translation": {
+        "en": {
+          "short": "defenseman",
+          "long": "a player in sports such as hockey or soccer who primarily plays on the defensive end of the field or rink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemain bertahan",
+          "long": "Seorang pemain dalam olahraga seperti hoki atau sepak bola yang terutama bermain di ujung pertahanan lapangan atau arena",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401991.jpeg",
+      "simplified": "防守队员",
+      "traditional": "防守隊員",
+      "pinyin": "fángshǒu duìyuán"
+    },
+    {
+      "id": 401993,
+      "translation": {
+        "en": {
+          "short": "taxi squad",
+          "long": "a group of reserve players on a sports team who are available to be called up to the main roster as needed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pasukan Taksi",
+          "long": "sekelompok pemain cadangan di tim olahraga yang tersedia untuk dipanggil ke daftar utama sesuai kebutuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401993.jpeg",
+      "simplified": "的士队",
+      "traditional": "的士隊",
+      "pinyin": "dīshì duì"
+    },
+    {
+      "id": 401852,
+      "translation": {
+        "en": {
+          "short": "fielder",
+          "long": "any player on the baseball defensive team who positions themselves in the field to catch or field the ball hit by the batter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fielder",
+          "long": "Setiap pemain di tim defensif bisbol yang memposisikan diri di lapangan untuk menangkap atau menurunkan bola yang dilanda adonan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401852.jpeg",
+      "simplified": "外野手",
+      "traditional": "外野手",
+      "pinyin": "wài yě shǒu"
+    },
+    {
+      "id": 401853,
+      "translation": {
+        "en": {
+          "short": "runner",
+          "long": "any player who is currently carrying the football during a play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelari",
+          "long": "pemain mana pun yang saat ini membawa sepak bola selama bermain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401853.jpeg",
+      "simplified": "浇口",
+      "traditional": "澆口",
+      "pinyin": "jiāo kǒu"
+    },
+    {
+      "id": 401875,
+      "translation": {
+        "en": {
+          "short": "captain",
+          "long": "the player in charge of a sports team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kapten",
+          "long": "Pemain yang bertanggung jawab atas tim olahraga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401875.jpeg",
+      "simplified": "队长",
+      "traditional": "隊長",
+      "pinyin": "duìzhǎng"
+    },
+    {
+      "id": 401876,
+      "translation": {
+        "en": {
+          "short": "all-rounder",
+          "long": "(cricket) a player skilled in both batting and bowling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "serba",
+          "long": "(kriket) Seorang pemain yang terampil dalam pukulan dan bowling",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401876.jpeg",
+      "simplified": "多面手",
+      "traditional": "多面手",
+      "pinyin": "duōmiàn shǒu"
+    },
+    {
+      "id": 401884,
+      "translation": {
+        "en": {
+          "short": "hybrid player",
+          "long": "a player who excels in multiple roles within their sport",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemain Hibrida",
+          "long": "seorang pemain yang unggul dalam berbagai peran dalam olahraga mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401884.jpeg",
+      "simplified": "混合型玩家",
+      "traditional": "混合型玩家",
+      "pinyin": "hùnhé xíng wánjiā"
+    },
+    {
+      "id": 401887,
+      "translation": {
+        "en": {
+          "short": "lineman",
+          "long": "am American football player player who lines up in the line of scrimmage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang kebut",
+          "long": "AM American Football Player Player yang berbaris di barisan scrimmage",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401887.jpeg",
+      "simplified": "线人",
+      "traditional": "線人",
+      "pinyin": "xiànrén"
+    },
+    {
+      "id": 401901,
+      "translation": {
+        "en": {
+          "short": "utility player",
+          "long": "a versatile player who can play multiple positions competently",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemain Utilitas",
+          "long": "pemain serba guna yang dapat memainkan banyak posisi secara kompeten",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401901.jpeg",
+      "simplified": "实用玩家",
+      "traditional": "實用玩家",
+      "pinyin": "shíyòng wánjiā"
+    },
+    {
+      "id": 402681,
+      "translation": {
+        "en": {
+          "short": "opposite hitter",
+          "long": "a volleyball player who primarily attacks from the right side of the court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lawan pemukul",
+          "long": "seorang pemain bola voli yang terutama menyerang dari sisi kanan lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402681.jpeg",
+      "simplified": "对面的击球手",
+      "traditional": "對面的擊球手",
+      "pinyin": "duìmiàn de jīqiú shǒu"
+    },
+    {
+      "id": 402751,
+      "translation": {
+        "en": {
+          "short": "batsman",
+          "long": "a baseball player from the batting team who takes their turn to bat and attempts to score runs by hitting the ball delivered by the bowler",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batsman",
+          "long": "Seorang pemain baseball dari tim pemukul yang mengambil giliran mereka untuk kelelawar dan mencoba mencetak gol dengan memukul bola yang dikirim oleh bowler",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402751.jpeg",
+      "simplified": "击球手",
+      "traditional": "擊球手",
+      "pinyin": "jīqiú shǒu"
+    },
+    {
+      "id": 402753,
+      "translation": {
+        "en": {
+          "short": "batswoman",
+          "long": "a female cricket player who bats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Batswoman",
+          "long": "pemain kriket wanita yang kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402753.jpeg",
+      "simplified": "蝙蝠侠",
+      "traditional": "蝙蝠俠",
+      "pinyin": "Biānfú xiá"
+    },
+    {
+      "id": 402772,
+      "translation": {
+        "en": {
+          "short": "fireballer",
+          "long": "a baseball pitcher who throws very fast pitches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fireballer",
+          "long": "pelempar baseball yang melempar pitch yang sangat cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402772.jpeg",
+      "simplified": "消防员",
+      "traditional": "消防員",
+      "pinyin": "xiāofáng yuán"
+    },
+    {
+      "id": 403186,
+      "translation": {
+        "en": {
+          "short": "breakaway",
+          "long": "(rugby) a player who breaks away from the opposing team's defense, often with the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berpisah",
+          "long": "(Rugby) Seorang pemain yang melepaskan diri dari pertahanan tim lawan, seringkali dengan bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403186.jpeg",
+      "simplified": "摆脱",
+      "traditional": "擺脫",
+      "pinyin": "bǎituō"
+    },
+    {
+      "id": 403700,
+      "translation": {
+        "en": {
+          "short": "wing forward",
+          "long": "a player in rugby union positioned on the side of the scrum, primarily responsible for attacking and defending at the breakdown",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sayap ke depan",
+          "long": "Seorang pemain di rugby union yang diposisikan di sisi scrum, terutama bertanggung jawab untuk menyerang dan bertahan pada gangguan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403700.jpeg",
+      "simplified": "边锋",
+      "traditional": "邊鋒",
+      "pinyin": "biānfēng"
+    },
+    {
+      "id": 407479,
+      "translation": {
+        "en": {
+          "short": "backstop",
+          "long": "(baseball) the catcher, who stands behind home plate and is responsible for catching pitches, preventing passed balls, and managing the defense",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghalang",
+          "long": "(Baseball) Penangkap, yang berdiri di belakang home plate dan bertanggung jawab untuk menangkap lapangan, mencegah bola yang dilewati, dan mengelola pertahanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407479.jpeg",
+      "simplified": "赈",
+      "traditional": "賑",
+      "pinyin": "zhèn"
+    },
+    {
+      "id": 407862,
+      "translation": {
+        "en": {
+          "short": "hooker",
+          "long": "a rugby player in the front row of the scrum who uses their feet to hook the ball back to their team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelacur",
+          "long": "Pemain rugby di barisan depan scrum yang menggunakan kaki mereka untuk mengaitkan bola kembali ke tim mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407862.jpeg",
+      "simplified": "妓女",
+      "traditional": "妓女",
+      "pinyin": "jìnǚ"
+    },
+    {
+      "id": 407866,
+      "translation": {
+        "en": {
+          "short": "starting pitcher",
+          "long": "the baseball player who begins the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Starting Pitcher",
+          "long": "pemain baseball yang memulai permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407866.jpeg",
+      "simplified": "先发投手",
+      "traditional": "先發投手",
+      "pinyin": "xiānfā tóu shǒu"
+    },
+    {
+      "id": 407867,
+      "translation": {
+        "en": {
+          "short": "prop",
+          "long": "(rugby) a forward player who supports the scrum and is responsible for providing power and stability",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menopang",
+          "long": "(Rugby) Seorang pemain maju yang mendukung scrum dan bertanggung jawab untuk memberikan kekuatan dan stabilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407867.jpeg",
+      "simplified": "支柱",
+      "traditional": "支柱",
+      "pinyin": "zhīzhù"
+    },
+    {
+      "id": 407872,
+      "translation": {
+        "en": {
+          "short": "closer",
+          "long": "a relief pitcher who is brought in to pitch the final innings, usually the ninth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lebih dekat",
+          "long": "pelempar bantuan yang dibawa untuk melempar babak terakhir, biasanya kesembilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407872.jpeg",
+      "simplified": "更近",
+      "traditional": "更近",
+      "pinyin": "gēng jìn"
+    },
+    {
+      "id": 407875,
+      "translation": {
+        "en": {
+          "short": "point forward",
+          "long": "a forward in basketball who handles playmaking duties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menunjuk ke depan",
+          "long": "Seorang penyerang dalam bola basket yang menangani tugas playmaking",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407875.jpeg",
+      "simplified": "向前指",
+      "traditional": "向前指",
+      "pinyin": "xiàngqián zhǐ"
+    }
+  ]
+}

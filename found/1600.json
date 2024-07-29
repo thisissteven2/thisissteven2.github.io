@@ -1,0 +1,393 @@
+{
+  "id": 1600,
+  "title": {
+    "en": "The Skin",
+    "id": "Kulit"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the skin, such as \"epidermis\", \"foreskin\", and \"cuticle\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan kulit, seperti \"epidermis\", \"kulup\", dan \"kutikula\"."
+  },
+  "cards": [
+    {
+      "id": 273422,
+      "translation": {
+        "en": {
+          "short": "epidermis",
+          "long": "(anatomy) the outer layer of the skin that overlays the dermis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kulit ari",
+          "long": "(Anatomi) Lapisan luar kulit yang menutupi dermis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273422.jpeg",
+      "simplified": "表皮",
+      "traditional": "表皮",
+      "pinyin": "biǎopí"
+    },
+    {
+      "id": 273423,
+      "translation": {
+        "en": {
+          "short": "dermis",
+          "long": "the layer of skin beneath the epidermis, containing blood vessels, nerves, and connective tissue",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dermis",
+          "long": "Lapisan kulit di bawah epidermis, mengandung pembuluh darah, saraf, dan jaringan ikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273423.jpeg",
+      "simplified": "真皮",
+      "traditional": "真皮",
+      "pinyin": "zhēnpí"
+    },
+    {
+      "id": 273424,
+      "translation": {
+        "en": {
+          "short": "hypodermis",
+          "long": "the deepest layer of the skin that contains fat cells, blood vessels, and nerves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hipodermis",
+          "long": "lapisan kulit terdalam yang mengandung sel -sel lemak, pembuluh darah, dan saraf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273424.jpeg",
+      "simplified": "皮下组织",
+      "traditional": "皮下組織",
+      "pinyin": "píxià zǔzhī"
+    },
+    {
+      "id": 273425,
+      "translation": {
+        "en": {
+          "short": "stratum basale",
+          "long": "the deepest layer of the epidermis where new skin cells are formed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stratum Basale",
+          "long": "lapisan terdalam epidermis di mana sel -sel kulit baru terbentuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273425.jpeg",
+      "simplified": "基底层",
+      "traditional": "基底層",
+      "pinyin": "jīdǐ céng"
+    },
+    {
+      "id": 273427,
+      "translation": {
+        "en": {
+          "short": "stratum spinosum",
+          "long": "a layer of the epidermis (outermost layer of the skin) composed of keratinocytes that play a role in the skin's barrier function and provide structural support to the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stratum spinosum",
+          "long": "Lapisan epidermis (lapisan terluar kulit) yang terdiri dari keratinosit yang berperan dalam fungsi penghalang kulit dan memberikan dukungan struktural pada kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273427.jpeg",
+      "simplified": "棘层",
+      "traditional": "棘層",
+      "pinyin": "jí céng"
+    },
+    {
+      "id": 273428,
+      "translation": {
+        "en": {
+          "short": "stratum granulosum",
+          "long": "a layer of the epidermis characterized by granular cells that produce keratin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stratum granulosum",
+          "long": "Lapisan epidermis yang ditandai oleh sel granular yang menghasilkan keratin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273428.jpeg",
+      "simplified": "颗粒层",
+      "traditional": "顆粒層",
+      "pinyin": "kēlì céng"
+    },
+    {
+      "id": 273429,
+      "translation": {
+        "en": {
+          "short": "stratum lucidum",
+          "long": "a translucent layer of the epidermis found in thick skin regions of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stratum Lucidum",
+          "long": "Lapisan epidermis tembus cahaya yang ditemukan di daerah kulit yang tebal di tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273429.jpeg",
+      "simplified": "透明层",
+      "traditional": "透明層",
+      "pinyin": "tòumíng céng"
+    },
+    {
+      "id": 273430,
+      "translation": {
+        "en": {
+          "short": "stratum corneum",
+          "long": "the outermost layer of the skin consisting of dead cells forming a protective barrier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stratum korneum",
+          "long": "Lapisan kulit terluar yang terdiri dari sel -sel mati yang membentuk penghalang pelindung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273430.jpeg",
+      "simplified": "角质层",
+      "traditional": "角質層",
+      "pinyin": "jiǎozhì céng"
+    },
+    {
+      "id": 273432,
+      "translation": {
+        "en": {
+          "short": "papillary dermis",
+          "long": "the top layer of the skin's second layer (dermis) and contains blood vessels, nerves, and connective tissue, contributing to the skin's structure and sensitivity to touch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dermis papiler",
+          "long": "Lapisan atas lapisan kedua kulit (dermis) dan mengandung pembuluh darah, saraf, dan jaringan ikat, berkontribusi pada struktur kulit dan sensitivitas untuk disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273432.jpeg",
+      "simplified": "真皮乳头层",
+      "traditional": "真皮乳頭層",
+      "pinyin": "zhēnpí rǔtóu céng"
+    },
+    {
+      "id": 273434,
+      "translation": {
+        "en": {
+          "short": "reticular dermis",
+          "long": "the bottom layer of the skin's dermis that gives the skin strength, elasticity, and contains structures like sweat glands, hair follicles, and blood vessels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dermis reticular",
+          "long": "Lapisan bawah dermis kulit yang memberikan kekuatan kulit, elastisitas, dan mengandung struktur seperti kelenjar keringat, folikel rambut, dan pembuluh darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273434.jpeg",
+      "simplified": "网状真皮",
+      "traditional": "網狀真皮",
+      "pinyin": "wǎng zhuàng zhēnpí"
+    },
+    {
+      "id": 273435,
+      "translation": {
+        "en": {
+          "short": "sweat duct",
+          "long": "a small tubular structure that carries sweat from the sweat glands to the skin's surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran keringat",
+          "long": "Struktur tubular kecil yang membawa keringat dari kelenjar keringat ke permukaan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273435.jpeg",
+      "simplified": "汗管",
+      "traditional": "汗管",
+      "pinyin": "hán guǎn"
+    },
+    {
+      "id": 273442,
+      "translation": {
+        "en": {
+          "short": "keratinocyte",
+          "long": "a type of skin cell that produces the protein keratin, which is an important component of the epidermis (outermost layer of the skin)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keratinosit",
+          "long": "Jenis sel kulit yang menghasilkan protein keratin, yang merupakan komponen penting dari epidermis (lapisan luar kulit)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273442.jpeg",
+      "simplified": "角质形成细胞",
+      "traditional": "角質形成細胞",
+      "pinyin": "jiǎozhì xíngchéng xìbāo"
+    },
+    {
+      "id": 273443,
+      "translation": {
+        "en": {
+          "short": "melanocyte",
+          "long": "a skin cell responsible for producing melanin, the pigment that determines skin, hair, and eye color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melanosit",
+          "long": "sel kulit yang bertanggung jawab untuk memproduksi melanin, pigmen yang menentukan kulit, rambut, dan warna mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273443.jpeg",
+      "simplified": "黑色素细胞",
+      "traditional": "黑色素細胞",
+      "pinyin": "hēisè sù xìbāo"
+    },
+    {
+      "id": 273454,
+      "translation": {
+        "en": {
+          "short": "langerhans cell",
+          "long": "a type of immune cell found in the skin's epidermis that plays a role in defending against foreign substances and pathogens, helping to regulate the immune response in the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sel Langerhans",
+          "long": "Jenis sel kekebalan yang ditemukan di epidermis kulit yang berperan dalam mempertahankan zat dan patogen asing, membantu mengatur respons imun pada kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273454.jpeg",
+      "simplified": "朗格汉斯细胞",
+      "traditional": "朗格漢斯細胞",
+      "pinyin": "lǎng gé Hànsī xìbāo"
+    },
+    {
+      "id": 273458,
+      "translation": {
+        "en": {
+          "short": "Merkel cell",
+          "long": "a specialized cell found in the skin's epidermis that is involved in the perception of touch and pressure, serving as sensory receptors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sel Merkel",
+          "long": "Sel khusus yang ditemukan dalam epidermis kulit yang terlibat dalam persepsi sentuhan dan tekanan, berfungsi sebagai reseptor sensorik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273458.jpeg",
+      "simplified": "默克尔细胞",
+      "traditional": "默克爾細胞",
+      "pinyin": "Mòkè ěr xìbāo"
+    },
+    {
+      "id": 273476,
+      "translation": {
+        "en": {
+          "short": "hair follicle",
+          "long": "a small structure in the skin that produces and supports the growth of hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Folikel rambut",
+          "long": "struktur kecil di kulit yang menghasilkan dan mendukung pertumbuhan rambut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273476.jpeg",
+      "simplified": "毛囊",
+      "traditional": "毛囊",
+      "pinyin": "máonáng"
+    },
+    {
+      "id": 273494,
+      "translation": {
+        "en": {
+          "short": "subcutaneous fat",
+          "long": "the layer of fat beneath the skin that provides insulation, cushioning, and energy storage in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lemak subkutan",
+          "long": "Lapisan lemak di bawah kulit yang menyediakan isolasi, bantalan, dan penyimpanan energi di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273494.jpeg",
+      "simplified": "皮下脂肪",
+      "traditional": "皮下脂肪",
+      "pinyin": "píxià zhīfáng"
+    },
+    {
+      "id": 273511,
+      "translation": {
+        "en": {
+          "short": "cuticle",
+          "long": "a layer of dead skin at the base of a fingernail or toenail",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kutikula",
+          "long": "satu lapisan kulit mati di pangkal kuku atau kuku kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273511.jpeg",
+      "simplified": "表皮",
+      "traditional": "表皮",
+      "pinyin": "biǎopí"
+    },
+    {
+      "id": 273512,
+      "translation": {
+        "en": {
+          "short": "foreskin",
+          "long": "a protective fold of skin that covers the glans of the penis in males or the clitoral hood in females",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kulup",
+          "long": "Lipatan pelindung kulit yang menutupi kelenjar penis pada pria atau tudung klitoris pada wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273512.jpeg",
+      "simplified": "包皮",
+      "traditional": "包皮",
+      "pinyin": "bāopí"
+    },
+    {
+      "id": 274130,
+      "translation": {
+        "en": {
+          "short": "scalp",
+          "long": "the skin under one's hair, covering the head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencatut",
+          "long": "kulit di bawah rambutnya, menutupi kepala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274130.jpeg",
+      "simplified": "头皮皮肤",
+      "traditional": "頭皮皮膚",
+      "pinyin": "tóupí pífū"
+    }
+  ]
+}

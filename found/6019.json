@@ -1,0 +1,868 @@
+{
+  "id": 6019,
+  "title": {
+    "en": "Arithmetic and Statistics",
+    "id": "Aritmatika dan statistik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to arithmetic and statistics, such as \"estimate\", \"median\", \"divisible\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan aritmatika dan statistik, seperti \"perkiraan\", \"median\", \"dapat dibagi\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 402046,
+      "translation": {
+        "en": {
+          "short": "integer",
+          "long": "any number without fractions or decimals, including positive numbers, negative numbers, and zero",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan bulat",
+          "long": "Angka apa pun tanpa pecahan atau desimal, termasuk angka positif, angka negatif, dan nol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402046.jpeg",
+      "simplified": "整数",
+      "traditional": "整數",
+      "pinyin": "zhěngshù"
+    },
+    {
+      "id": 402047,
+      "translation": {
+        "en": {
+          "short": "fraction",
+          "long": "a part of a whole number, such as ½",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pecahan",
+          "long": "bagian dari seluruh bilangan bulat, seperti ½",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402047.jpeg",
+      "simplified": "分数（数学）",
+      "traditional": "分數（數學）",
+      "pinyin": "fēnshù shùxué"
+    },
+    {
+      "id": 402048,
+      "translation": {
+        "en": {
+          "short": "decimal",
+          "long": "(mathematics) a number less than one, called a fraction, that is represented as a period followed by the number of tenths, hundredths, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "desimal",
+          "long": "(Matematika) Angka kurang dari satu, disebut fraksi, yang direpresentasikan sebagai periode diikuti oleh jumlah persepuluh, ratusan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402048.jpeg",
+      "simplified": "小数",
+      "traditional": "小數",
+      "pinyin": "xiǎoshù"
+    },
+    {
+      "id": 402049,
+      "translation": {
+        "en": {
+          "short": "mean",
+          "long": "(mathematics) the average value of a set of quantities calculated by adding them, and dividing them by the total number of the quantities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berarti",
+          "long": "(Matematika) Nilai rata -rata satu set jumlah yang dihitung dengan menambahkannya, dan membaginya dengan jumlah total jumlah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402049.jpeg",
+      "simplified": "平均值",
+      "traditional": "平均值",
+      "pinyin": "píngjūn zhí"
+    },
+    {
+      "id": 402050,
+      "translation": {
+        "en": {
+          "short": "average",
+          "long": "calculated by adding a set of numbers together and dividing this amount by the total number of amounts in that set",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rata-rata",
+          "long": "dihitung dengan menambahkan satu set angka bersama -sama dan membagi jumlah ini dengan jumlah total jumlah dalam set itu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402050.jpeg",
+      "simplified": "数学平均数",
+      "traditional": "數學平均數",
+      "pinyin": "shùxué píngjūn shù"
+    },
+    {
+      "id": 402053,
+      "translation": {
+        "en": {
+          "short": "mixed number",
+          "long": "a combination of a whole number and a proper fraction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor campuran",
+          "long": "kombinasi dari seluruh bilangan bulat dan fraksi yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402053.jpeg",
+      "simplified": "混合数字",
+      "traditional": "混合數字",
+      "pinyin": "hùnhé shùzì"
+    },
+    {
+      "id": 402054,
+      "translation": {
+        "en": {
+          "short": "prime number",
+          "long": "a number greater than 1 with only two devisors which can be itself or 1",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan prima",
+          "long": "angka lebih besar dari 1 dengan hanya dua devisor yang bisa sendiri atau 1",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402054.jpeg",
+      "simplified": "素数",
+      "traditional": "素數",
+      "pinyin": "sùshù"
+    },
+    {
+      "id": 402055,
+      "translation": {
+        "en": {
+          "short": "rational number",
+          "long": "a number that can be expressed as the fraction of two integers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan rasional",
+          "long": "angka yang dapat dinyatakan sebagai fraksi dua bilangan bulat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402055.jpeg",
+      "simplified": "有理数",
+      "traditional": "有理數",
+      "pinyin": "yǒulǐ shù"
+    },
+    {
+      "id": 402056,
+      "translation": {
+        "en": {
+          "short": "irrational number",
+          "long": "a number incapable of being expressed as a ratio of two integers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan irasional",
+          "long": "angka yang tidak mampu dinyatakan sebagai rasio dua bilangan bulat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402056.jpeg",
+      "simplified": "无理数",
+      "traditional": "無理數",
+      "pinyin": "wúlǐ shù"
+    },
+    {
+      "id": 402057,
+      "translation": {
+        "en": {
+          "short": "complex number",
+          "long": "a number that has both a real part and a part involving a unit that, when squared, gives a negative result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan kompleks",
+          "long": "Angka yang memiliki bagian nyata dan bagian yang melibatkan unit yang, saat kuadrat, memberikan hasil negatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402057.jpeg",
+      "simplified": "复数",
+      "traditional": "複數",
+      "pinyin": "fùshù"
+    },
+    {
+      "id": 402058,
+      "translation": {
+        "en": {
+          "short": "real number",
+          "long": "any number that can be found on the number line, including both positive and negative numbers, zero, and fractions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan real",
+          "long": "Angka apa pun yang dapat ditemukan pada garis angka, termasuk angka positif dan negatif, nol, dan fraksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402058.jpeg",
+      "simplified": "实数",
+      "traditional": "實數",
+      "pinyin": "shíshù"
+    },
+    {
+      "id": 402059,
+      "translation": {
+        "en": {
+          "short": "whole number",
+          "long": "any positive number without fractions or decimals, including zero",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilangan bulat",
+          "long": "Angka positif apa pun tanpa pecahan atau desimal, termasuk nol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402059.jpeg",
+      "simplified": "全数",
+      "traditional": "全數",
+      "pinyin": "quánshù"
+    },
+    {
+      "id": 402060,
+      "translation": {
+        "en": {
+          "short": "root",
+          "long": "a value that, when multiplied by itself a specified number of times, results in the given number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akar",
+          "long": "nilai yang, ketika dikalikan dengan sendirinya beberapa kali tertentu, menghasilkan nomor yang diberikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402060.jpeg",
+      "simplified": "根",
+      "traditional": "根",
+      "pinyin": "gēn"
+    },
+    {
+      "id": 402061,
+      "translation": {
+        "en": {
+          "short": "range",
+          "long": "the difference between the highest and lowest values in a set of numbers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jangkauan",
+          "long": "Perbedaan antara nilai tertinggi dan terendah dalam satu set angka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402061.jpeg",
+      "simplified": "范围",
+      "traditional": "範圍",
+      "pinyin": "fànwéi"
+    },
+    {
+      "id": 402062,
+      "translation": {
+        "en": {
+          "short": "solution",
+          "long": "a correct answer to a problem in mathematics or a puzzle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "larutan",
+          "long": "Jawaban yang benar untuk masalah dalam matematika atau teka -teki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402062.jpeg",
+      "simplified": "解",
+      "traditional": "解",
+      "pinyin": "Xiè"
+    },
+    {
+      "id": 402063,
+      "translation": {
+        "en": {
+          "short": "product",
+          "long": "the result of multiplying two or more numbers or quantities together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "produk",
+          "long": "hasil dari mengalikan dua atau lebih angka atau jumlah bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402063.jpeg",
+      "simplified": "产品",
+      "traditional": "產品",
+      "pinyin": "chǎnpǐn"
+    },
+    {
+      "id": 402064,
+      "translation": {
+        "en": {
+          "short": "factor",
+          "long": "(mathematics) one of the numbers that another number can be divided by",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "faktor",
+          "long": "(Matematika) Salah satu angka yang dapat dibagi oleh nomor lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402064.jpeg",
+      "simplified": "因数（数学）",
+      "traditional": "因數（數學）",
+      "pinyin": "yīnshù shùxué"
+    },
+    {
+      "id": 402066,
+      "translation": {
+        "en": {
+          "short": "value",
+          "long": "(mathematics) an amount that is shown by a sign or letter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nilai",
+          "long": "(Matematika) Jumlah yang ditunjukkan oleh tanda atau surat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402066.jpeg",
+      "simplified": "值（数学）",
+      "traditional": "值（數學）",
+      "pinyin": "zhí shùxué"
+    },
+    {
+      "id": 402067,
+      "translation": {
+        "en": {
+          "short": "inequality",
+          "long": "a statement that compares two quantities, expressions, or values and indicates their relative sizes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketidaksamaan",
+          "long": "pernyataan yang membandingkan dua kuantitas, ekspresi, atau nilai dan menunjukkan ukuran relatifnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402067.jpeg",
+      "simplified": "不等式",
+      "traditional": "不等式",
+      "pinyin": "bùděng shì"
+    },
+    {
+      "id": 402069,
+      "translation": {
+        "en": {
+          "short": "equation",
+          "long": "(mathematics) a statement indicating the equality between two values",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persamaan",
+          "long": "(Matematika) Pernyataan yang menunjukkan kesetaraan antara dua nilai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402069.jpeg",
+      "simplified": "方程",
+      "traditional": "方程",
+      "pinyin": "fāngchéng"
+    },
+    {
+      "id": 402070,
+      "translation": {
+        "en": {
+          "short": "minimum",
+          "long": "having the least or smallest amount possible",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "minimum",
+          "long": "memiliki jumlah yang paling sedikit atau terkecil",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402070.jpeg",
+      "simplified": "最低限度",
+      "traditional": "最低限度",
+      "pinyin": "zuìdī xiàn dù"
+    },
+    {
+      "id": 402071,
+      "translation": {
+        "en": {
+          "short": "exponential",
+          "long": "a mathematical expression where a number is multiplied by itself a certain number of times determined by a variable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eksponensial",
+          "long": "ekspresi matematika di mana angka dikalikan dengan sendirinya beberapa kali ditentukan oleh variabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402071.jpeg",
+      "simplified": "幂数的",
+      "traditional": "冪數的",
+      "pinyin": "mì shǔ de"
+    },
+    {
+      "id": 402073,
+      "translation": {
+        "en": {
+          "short": "arithmetic sequence",
+          "long": "a sequence of numbers in which the difference between any two consecutive terms is constant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Urutan aritmatika",
+          "long": "Urutan angka di mana perbedaan antara dua istilah berturut -turut adalah konstan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402073.jpeg",
+      "simplified": "算术序列",
+      "traditional": "算術序列",
+      "pinyin": "suànshù xùliè"
+    },
+    {
+      "id": 402074,
+      "translation": {
+        "en": {
+          "short": "divisible",
+          "long": "having the quality of being divided, especially by a number",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terbagi",
+          "long": "memiliki kualitas dibagi, terutama dengan angka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402074.jpeg",
+      "simplified": "可分割的",
+      "traditional": "可分割的",
+      "pinyin": "kěfēn gē de"
+    },
+    {
+      "id": 402075,
+      "translation": {
+        "en": {
+          "short": "to square",
+          "long": "to multiply a value or number by itself",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk persegi",
+          "long": "untuk melipatgandakan nilai atau angka dengan sendirinya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402075.jpeg",
+      "simplified": "使 ... 自乘",
+      "traditional": "使 ... 自乘",
+      "pinyin": "shǐ zìchéng"
+    },
+    {
+      "id": 402076,
+      "translation": {
+        "en": {
+          "short": "improper fraction",
+          "long": "a fraction where the the top number is greater than or equal to the equal to the bottom number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fraksi yang tidak tepat",
+          "long": "sebagian kecil di mana angka atas lebih besar dari atau sama dengan sama dengan angka bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402076.jpeg",
+      "simplified": "假分数",
+      "traditional": "假分數",
+      "pinyin": "jiǎfēn shù"
+    },
+    {
+      "id": 402078,
+      "translation": {
+        "en": {
+          "short": "quotient",
+          "long": "the result obtained by dividing one quantity or number by another, expressed as the outcome of a division operation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hasil bagi",
+          "long": "Hasil yang diperoleh dengan membagi satu kuantitas atau angka dengan yang lain, dinyatakan sebagai hasil dari operasi divisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402078.jpeg",
+      "simplified": "商",
+      "traditional": "商",
+      "pinyin": "Shāng"
+    },
+    {
+      "id": 402079,
+      "translation": {
+        "en": {
+          "short": "common ratio",
+          "long": "the constant ratio between consecutive terms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasio umum",
+          "long": "rasio konstan antara persyaratan berturut -turut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402079.jpeg",
+      "simplified": "公比",
+      "traditional": "公比",
+      "pinyin": "gōng Bǐ"
+    },
+    {
+      "id": 402080,
+      "translation": {
+        "en": {
+          "short": "common multiple",
+          "long": "a number that is a multiple of two or more given numbers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ganda umum",
+          "long": "angka yang merupakan kelipatan dari dua atau lebih angka yang diberikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402080.jpeg",
+      "simplified": "公倍",
+      "traditional": "公倍",
+      "pinyin": "gōng bèi"
+    },
+    {
+      "id": 402081,
+      "translation": {
+        "en": {
+          "short": "common factor",
+          "long": "a number that divides exactly into two or more given numbers without leaving a remainder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "faktor umum",
+          "long": "Angka yang membelah tepat menjadi dua atau lebih angka yang diberikan tanpa meninggalkan sisa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402081.jpeg",
+      "simplified": "公约数",
+      "traditional": "公約數",
+      "pinyin": "gōngyuē shù"
+    },
+    {
+      "id": 402082,
+      "translation": {
+        "en": {
+          "short": "common denominator",
+          "long": "(mathematics) a number divisible by all the numbers that are below the line in a set of fractions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "faktor persekutuan",
+          "long": "(Matematika) Angka yang dapat dibagi dengan semua angka yang berada di bawah garis dalam satu set pecahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402082.jpeg",
+      "simplified": "公分母",
+      "traditional": "公分母",
+      "pinyin": "gōngfēn mǔ"
+    },
+    {
+      "id": 402083,
+      "translation": {
+        "en": {
+          "short": "least common denominator",
+          "long": "the smallest positive integer that is a common multiple of the denominators of two or more fractions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyebut yang paling tidak umum",
+          "long": "Integer positif terkecil yang merupakan kelipatan umum dari denominator dua atau lebih fraksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402083.jpeg",
+      "simplified": "最小公分母",
+      "traditional": "最小公分母",
+      "pinyin": "zuìxiǎo gōng fēn mǔ"
+    },
+    {
+      "id": 402084,
+      "translation": {
+        "en": {
+          "short": "probability",
+          "long": "(mathematics) a number representing the chances of something specific happening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemungkinan",
+          "long": "(Matematika) Angka yang mewakili peluang sesuatu yang spesifik terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402084.jpeg",
+      "simplified": "概率（数学）",
+      "traditional": "概率（數學）",
+      "pinyin": "gàilǜ shùxué"
+    },
+    {
+      "id": 402051,
+      "translation": {
+        "en": {
+          "short": "median",
+          "long": "a statistical measure that represents the middle value of a data set when the values are arranged in ascending or descending order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "median",
+          "long": "Ukuran statistik yang mewakili nilai tengah set data ketika nilai diatur dalam urutan naik atau turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402051.jpeg",
+      "simplified": "中位数",
+      "traditional": "中位數",
+      "pinyin": "zhōngwèi shù"
+    },
+    {
+      "id": 402052,
+      "translation": {
+        "en": {
+          "short": "mode",
+          "long": "the value that appears most frequently in a data set",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mode",
+          "long": "nilai yang paling sering muncul dalam set data",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402052.jpeg",
+      "simplified": "模式",
+      "traditional": "模式",
+      "pinyin": "móshì"
+    },
+    {
+      "id": 402077,
+      "translation": {
+        "en": {
+          "short": "bimodal",
+          "long": "having or involving two distinct modes, peaks, or most frequent values",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bimodal",
+          "long": "Memiliki atau melibatkan dua mode yang berbeda, puncak, atau nilai yang paling sering",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402077.jpeg",
+      "simplified": "双峰",
+      "traditional": "雙峰",
+      "pinyin": "Shuāngfēng"
+    },
+    {
+      "id": 402085,
+      "translation": {
+        "en": {
+          "short": "to estimate",
+          "long": "to guess the value, number, quantity, size, etc. of something without exact calculation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperkirakan",
+          "long": "Untuk menebak nilai, angka, kuantitas, ukuran, dll. Dari sesuatu tanpa perhitungan yang tepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402085.jpeg",
+      "simplified": "估计某事",
+      "traditional": "估計某事",
+      "pinyin": "gūjì mǒushì"
+    },
+    {
+      "id": 402086,
+      "translation": {
+        "en": {
+          "short": "frequency",
+          "long": "the number of times a particular event occurs within a specific period or among a set of observations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "frekuensi",
+          "long": "berapa kali peristiwa tertentu terjadi dalam periode tertentu atau di antara serangkaian pengamatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402086.jpeg",
+      "simplified": "频率",
+      "traditional": "頻率",
+      "pinyin": "pínlǜ"
+    },
+    {
+      "id": 402087,
+      "translation": {
+        "en": {
+          "short": "distribution",
+          "long": "(statistics) the way statistical data are arranged that shows the frequency in which the values of a variable are repeated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "distribusi",
+          "long": "(Statistik) Cara data statistik diatur yang menunjukkan frekuensi di mana nilai -nilai suatu variabel diulangi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402087.jpeg",
+      "simplified": "分配",
+      "traditional": "分配",
+      "pinyin": "fēnpèi"
+    },
+    {
+      "id": 402088,
+      "translation": {
+        "en": {
+          "short": "standard deviation",
+          "long": "a measure of how much the values in a set typically differ from the average",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deviasi standar",
+          "long": "ukuran seberapa banyak nilai dalam set biasanya berbeda dari rata -rata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402088.jpeg",
+      "simplified": "标准差",
+      "traditional": "標準差",
+      "pinyin": "biāozhǔn chā"
+    },
+    {
+      "id": 402089,
+      "translation": {
+        "en": {
+          "short": "margin of error",
+          "long": "the range within which the true value is expected to fall, accounting for potential inaccuracies in measurement or sampling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "margin kesalahan",
+          "long": "Kisaran di mana nilai sebenarnya diharapkan turun, akuntansi untuk potensi ketidakakuratan dalam pengukuran atau pengambilan sampel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402089.jpeg",
+      "simplified": "误差范围",
+      "traditional": "誤差範圍",
+      "pinyin": "wùchā fànwéi"
+    },
+    {
+      "id": 402090,
+      "translation": {
+        "en": {
+          "short": "random",
+          "long": "occurring in such a way that each possible outcome has a certain probability of occurring, but the specific outcome cannot be predicted with certainty",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "acak",
+          "long": "terjadi sedemikian rupa sehingga setiap hasil yang mungkin memiliki kemungkinan terjadi, tetapi hasil spesifik tidak dapat diprediksi dengan pasti",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402090.jpeg",
+      "simplified": "随机的",
+      "traditional": "隨機的",
+      "pinyin": "suíjī de"
+    },
+    {
+      "id": 402091,
+      "translation": {
+        "en": {
+          "short": "trend line",
+          "long": "a straight line drawn through a set of data points on a graph to represent the general direction or pattern of the data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garis tren",
+          "long": "Garis lurus yang ditarik melalui serangkaian titik data pada grafik untuk mewakili arah atau pola data umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402091.jpeg",
+      "simplified": "趋势线",
+      "traditional": "趨勢線",
+      "pinyin": "qūshì xiàn"
+    },
+    {
+      "id": 402092,
+      "translation": {
+        "en": {
+          "short": "dot plot",
+          "long": "a type of statistical chart consisting of dots that represent individual data points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dot Plot",
+          "long": "Jenis grafik statistik yang terdiri dari titik -titik yang mewakili titik data individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402092.jpeg",
+      "simplified": "点图",
+      "traditional": "點圖",
+      "pinyin": "diǎn tú"
+    },
+    {
+      "id": 402093,
+      "translation": {
+        "en": {
+          "short": "linear model",
+          "long": "a mathematical representation that describes the relationship between two or more variables using a linear equation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "model linier",
+          "long": "representasi matematika yang menggambarkan hubungan antara dua atau lebih variabel menggunakan persamaan linier",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402093.jpeg",
+      "simplified": "线性模型",
+      "traditional": "線性模型",
+      "pinyin": "xiànxìng móxíng"
+    }
+  ]
+}

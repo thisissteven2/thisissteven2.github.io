@@ -1,0 +1,811 @@
+{
+  "id": 580,
+  "title": {
+    "en": "The Digestive System",
+    "id": "Sistem pencernaan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the digestive system, such as \"gut\", \"rectum\", and \"colon\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan sistem pencernaan, seperti \"usus\", \"rektum\", dan \"usus besar\"."
+  },
+  "cards": [
+    {
+      "id": 273023,
+      "translation": {
+        "en": {
+          "short": "throat",
+          "long": "a passage in the neck through which food and air pass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenggorokan",
+          "long": "Sebuah lorong di leher tempat makanan dan udara lewat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273023.jpeg",
+      "simplified": "喉",
+      "traditional": "喉",
+      "pinyin": "hóu"
+    },
+    {
+      "id": 272874,
+      "translation": {
+        "en": {
+          "short": "pharynx",
+          "long": "(anatomy) the passage in the throat that connects the mouth to the gullet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tekak",
+          "long": "(Anatomi) Bagian di tenggorokan yang menghubungkan mulut ke kerongkongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272874.jpeg",
+      "simplified": "咽",
+      "traditional": "咽",
+      "pinyin": "yān"
+    },
+    {
+      "id": 272851,
+      "translation": {
+        "en": {
+          "short": "bile",
+          "long": "a greenish-brown alkaline fluid that is produced by the liver in order to help the body digest fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "empedu",
+          "long": "Cairan alkali coklat kehijauan yang diproduksi oleh hati untuk membantu tubuh mencerna lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272851.jpeg",
+      "simplified": "胆汁",
+      "traditional": "膽汁",
+      "pinyin": "dǎnzhī"
+    },
+    {
+      "id": 272857,
+      "translation": {
+        "en": {
+          "short": "appendix",
+          "long": "a sack of tissue that is attached to the large intestine and is surgically removed if infected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampiran",
+          "long": "sekarung jaringan yang melekat pada usus besar dan diangkat dengan pembedahan jika terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272857.jpeg",
+      "simplified": "附录",
+      "traditional": "附錄",
+      "pinyin": "fùlù"
+    },
+    {
+      "id": 272877,
+      "translation": {
+        "en": {
+          "short": "small intestine",
+          "long": "a long, tubular organ in the digestive system responsible for nutrient absorption from food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus halus",
+          "long": "Organ panjang dan tubular dalam sistem pencernaan yang bertanggung jawab atas penyerapan nutrisi dari makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272877.jpeg",
+      "simplified": "小肠",
+      "traditional": "小腸",
+      "pinyin": "xiǎocháng"
+    },
+    {
+      "id": 272870,
+      "translation": {
+        "en": {
+          "short": "intestine",
+          "long": "a long, continuous tube in the body through which the food coming from the stomach moves and is passed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus",
+          "long": "tabung panjang dan kontinu di dalam tubuh yang melaluinya makanan yang berasal dari perut bergerak dan dilewatkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272870.jpeg",
+      "simplified": "肠",
+      "traditional": "腸",
+      "pinyin": "cháng"
+    },
+    {
+      "id": 272872,
+      "translation": {
+        "en": {
+          "short": "esophagus",
+          "long": "a muscular tube that connects the throat to the stomach, allowing for the passage of food and liquids during digestion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerongkongan",
+          "long": "tabung berotot yang menghubungkan tenggorokan ke perut, memungkinkan untuk lewatnya makanan dan cairan selama pencernaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272872.jpeg",
+      "simplified": "食管",
+      "traditional": "食管",
+      "pinyin": "shíguǎn"
+    },
+    {
+      "id": 272876,
+      "translation": {
+        "en": {
+          "short": "stomach",
+          "long": "the body part inside our body where the food that we eat goes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perut",
+          "long": "bagian tubuh di dalam tubuh kita di mana makanan yang kita makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272876.jpeg",
+      "simplified": "胃",
+      "traditional": "胃",
+      "pinyin": "wèi"
+    },
+    {
+      "id": 272871,
+      "translation": {
+        "en": {
+          "short": "liver",
+          "long": "a vital organ in the body that cleans the blood of harmful substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hati",
+          "long": "organ vital dalam tubuh yang membersihkan darah zat berbahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272871.jpeg",
+      "simplified": "肝",
+      "traditional": "肝",
+      "pinyin": "gān"
+    },
+    {
+      "id": 272858,
+      "translation": {
+        "en": {
+          "short": "bile duct",
+          "long": "the tube that carries bile from the liver or the gall bladder to the first segment of the small intestine, also known as duodenum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran empedu",
+          "long": "tabung yang membawa empedu dari hati atau kandung empedu ke segmen pertama usus kecil, juga dikenal sebagai duodenum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272858.jpeg",
+      "simplified": "胆管",
+      "traditional": "膽管",
+      "pinyin": "dǎnguǎn"
+    },
+    {
+      "id": 272860,
+      "translation": {
+        "en": {
+          "short": "canal",
+          "long": "a tubular passage in the body through which air, liquid or food can pass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanal",
+          "long": "lorong tubular di dalam tubuh tempat udara, cairan atau makanan dapat dilewati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272860.jpeg",
+      "simplified": "运河",
+      "traditional": "運河",
+      "pinyin": "yùnhé"
+    },
+    {
+      "id": 272861,
+      "translation": {
+        "en": {
+          "short": "colon",
+          "long": "(anatomy) the main part of the large intestine, between the caecum to the rectum, where water is removed from solid waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus besar",
+          "long": "(Anatomi) Bagian utama dari usus besar, antara caecum ke rektum, di mana air dikeluarkan dari limbah padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272861.jpeg",
+      "simplified": "结肠",
+      "traditional": "結腸",
+      "pinyin": "jiécháng"
+    },
+    {
+      "id": 272867,
+      "translation": {
+        "en": {
+          "short": "gullet",
+          "long": "the duct through which food is passed from the throat to the stomach",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenggorokan",
+          "long": "saluran melalui mana makanan ditularkan dari tenggorokan ke perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272867.jpeg",
+      "simplified": "食道",
+      "traditional": "食道",
+      "pinyin": "shídào"
+    },
+    {
+      "id": 272868,
+      "translation": {
+        "en": {
+          "short": "gut",
+          "long": "the lower part of digestive tract responsible for food absorption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus",
+          "long": "Bagian bawah saluran pencernaan yang bertanggung jawab atas penyerapan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272868.jpeg",
+      "simplified": "胆",
+      "traditional": "膽",
+      "pinyin": "dǎn"
+    },
+    {
+      "id": 272869,
+      "translation": {
+        "en": {
+          "short": "gallbladder",
+          "long": "a small, pear-shaped organ located beneath the liver in which the body stores a strong digestive fluid produced by the liver",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kantong empedu",
+          "long": "Organ kecil berbentuk pir yang terletak di bawah hati di mana tubuh menyimpan cairan pencernaan yang kuat yang diproduksi oleh hati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272869.jpeg",
+      "simplified": "胆囊",
+      "traditional": "膽囊",
+      "pinyin": "dǎnnáng"
+    },
+    {
+      "id": 272873,
+      "translation": {
+        "en": {
+          "short": "pancreas",
+          "long": "a large gland in the body that produces insulin and glucagon and substances that help the body digest food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pankreas",
+          "long": "Kelenjar besar di dalam tubuh yang menghasilkan insulin dan glukagon dan zat yang membantu tubuh mencerna makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272873.jpeg",
+      "simplified": "胰腺",
+      "traditional": "胰腺",
+      "pinyin": "yíxiàn"
+    },
+    {
+      "id": 272875,
+      "translation": {
+        "en": {
+          "short": "rectum",
+          "long": "the final part of the large intestine where waste is collected before being passed through the anus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dubur",
+          "long": "Bagian terakhir dari usus besar di mana limbah dikumpulkan sebelum dilewatkan melalui anus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272875.jpeg",
+      "simplified": "直肠",
+      "traditional": "直腸",
+      "pinyin": "zhícháng"
+    },
+    {
+      "id": 272878,
+      "translation": {
+        "en": {
+          "short": "duodenum",
+          "long": "the initial segment of the small intestine that receives partially digested food from the stomach for further digestion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus duabelas jari",
+          "long": "Segmen awal usus kecil yang menerima sebagian makanan yang dicerna dari lambung untuk pencernaan lebih lanjut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272878.jpeg",
+      "simplified": "十二指肠",
+      "traditional": "十二指腸",
+      "pinyin": "shíèr zhǐ cháng"
+    },
+    {
+      "id": 272879,
+      "translation": {
+        "en": {
+          "short": "ascending colon",
+          "long": "the segment of the colon that travels vertically along the right side of the abdominal cavity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus besar naik",
+          "long": "Segmen usus besar yang bergerak secara vertikal di sepanjang sisi kanan rongga perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272879.jpeg",
+      "simplified": "升结肠",
+      "traditional": "升結腸",
+      "pinyin": "shēngjié cháng"
+    },
+    {
+      "id": 272880,
+      "translation": {
+        "en": {
+          "short": "descending colon",
+          "long": "the segment of the large intestine that travels downward on the left side of the abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Turunnya usus besar",
+          "long": "Segmen usus besar yang bergerak ke bawah di sisi kiri perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272880.jpeg",
+      "simplified": "降结肠",
+      "traditional": "降結腸",
+      "pinyin": "jiàngjié cháng"
+    },
+    {
+      "id": 272881,
+      "translation": {
+        "en": {
+          "short": "transverse colon",
+          "long": "the section of the large intestine that extends horizontally across the abdomen, connecting the ascending and descending colons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolon melintang",
+          "long": "Bagian usus besar yang memanjang secara horizontal melintasi perut, menghubungkan titik -titik naik dan turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272881.jpeg",
+      "simplified": "横结肠",
+      "traditional": "橫結腸",
+      "pinyin": "héngjié cháng"
+    },
+    {
+      "id": 272882,
+      "translation": {
+        "en": {
+          "short": "cecum",
+          "long": "the first part of the large intestine, located in the lower right abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cecum",
+          "long": "Bagian pertama dari usus besar, terletak di perut kanan bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272882.jpeg",
+      "simplified": "盲肠",
+      "traditional": "盲腸",
+      "pinyin": "mángcháng"
+    },
+    {
+      "id": 272883,
+      "translation": {
+        "en": {
+          "short": "sigmoid colon",
+          "long": "the curved segment of the large intestine that links the descending colon to the rectum, forming an \"S\" shape in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sigmoid Colon",
+          "long": "Segmen melengkung dari usus besar yang menghubungkan usus besar yang turun ke rektum, membentuk bentuk \"S\" dalam tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272883.jpeg",
+      "simplified": "乙状结肠结肠",
+      "traditional": "乙狀結腸結腸",
+      "pinyin": "yǐzhuàng jié cháng jiécháng"
+    },
+    {
+      "id": 272884,
+      "translation": {
+        "en": {
+          "short": "jejunum",
+          "long": "the middle section of the small intestine, located between the duodenum and the ileum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jejunum",
+          "long": "Bagian tengah usus kecil, terletak di antara duodenum dan ileum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272884.jpeg",
+      "simplified": "空肠",
+      "traditional": "空腸",
+      "pinyin": "kōngcháng"
+    },
+    {
+      "id": 272935,
+      "translation": {
+        "en": {
+          "short": "hepatic flexure",
+          "long": "a sharp bend in the colon located in the upper-right quadrant of the abdomen where the ascending colon meets the transverse colon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Flexure hati",
+          "long": "tikungan tajam di usus besar yang terletak di kuadran kanan atas perut di mana usus besar menemui usus besar melintang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272935.jpeg",
+      "simplified": "肝曲",
+      "traditional": "肝曲",
+      "pinyin": "gān Qū"
+    },
+    {
+      "id": 272941,
+      "translation": {
+        "en": {
+          "short": "splenic flexure",
+          "long": "a sharp bend in the colon located in the upper-left quadrant of the abdomen where the transverse colon meets the descending colon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lentur limpa",
+          "long": "tikungan tajam di usus besar yang terletak di kuadran kiri atas perut di mana usus melintang bertemu dengan usus besar yang menurun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272941.jpeg",
+      "simplified": "脾曲",
+      "traditional": "脾曲",
+      "pinyin": "pí Qū"
+    },
+    {
+      "id": 272943,
+      "translation": {
+        "en": {
+          "short": "ileum",
+          "long": "the final segment of the small intestine that connects to the large intestine in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ileum",
+          "long": "Segmen akhir usus kecil yang terhubung ke usus besar di tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272943.jpeg",
+      "simplified": "回肠",
+      "traditional": "迴腸",
+      "pinyin": "huícháng"
+    },
+    {
+      "id": 272944,
+      "translation": {
+        "en": {
+          "short": "pancreatic duct",
+          "long": "a duct that carries digestive enzymes from the pancreas to the small intestine for the breakdown and absorption of food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran pankreas",
+          "long": "saluran yang membawa enzim pencernaan dari pankreas ke usus kecil untuk gangguan dan penyerapan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272944.jpeg",
+      "simplified": "胰管",
+      "traditional": "胰管",
+      "pinyin": "yí guǎn"
+    },
+    {
+      "id": 272945,
+      "translation": {
+        "en": {
+          "short": "common bile duct",
+          "long": "a duct that transports bile from the liver and gallbladder to the small intestine for digestion and absorption of fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran empedu umum",
+          "long": "saluran yang mengangkut empedu dari hati dan kandung empedu ke usus kecil untuk pencernaan dan penyerapan lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272945.jpeg",
+      "simplified": "胆总管",
+      "traditional": "膽總管",
+      "pinyin": "dǎn zǒngguǎn"
+    },
+    {
+      "id": 272849,
+      "translation": {
+        "en": {
+          "short": "anus",
+          "long": "a hole at the end of an animal or human's body from which the faeces leaves the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dubur",
+          "long": "Sebuah lubang di ujung binatang atau tubuh manusia dari mana kotoran meninggalkan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272849.jpeg",
+      "simplified": "肛门",
+      "traditional": "肛門",
+      "pinyin": "gāngmén"
+    },
+    {
+      "id": 272949,
+      "translation": {
+        "en": {
+          "short": "anal canal",
+          "long": "the terminal portion of the large intestine that extends from the rectum to the anus and is responsible for the passage of fecal matter during defecation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran anal",
+          "long": "Bagian terminal usus besar yang memanjang dari rektum ke anus dan bertanggung jawab atas berlalunya tinja selama buang air besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/272949.jpeg",
+      "simplified": "肛管",
+      "traditional": "肛管",
+      "pinyin": "gāng guǎn"
+    },
+    {
+      "id": 273271,
+      "translation": {
+        "en": {
+          "short": "alimentary canal",
+          "long": "the tube-like structure in the human body through which food passes, extending from the mouth to the anus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran pencernaan",
+          "long": "Struktur seperti tabung dalam tubuh manusia melalui mana makanan lewat, memanjang dari mulut ke anus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273271.jpeg",
+      "simplified": "消化道",
+      "traditional": "消化道",
+      "pinyin": "xiāohuà dào"
+    },
+    {
+      "id": 273416,
+      "translation": {
+        "en": {
+          "short": "bladder",
+          "long": "a sac-like organ inside the body where urine is stored before being passed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kandung kemih",
+          "long": "organ seperti kantung di dalam tubuh tempat urin disimpan sebelum dilewati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273416.jpeg",
+      "simplified": "膀胱",
+      "traditional": "膀胱",
+      "pinyin": "pángguāng"
+    },
+    {
+      "id": 273417,
+      "translation": {
+        "en": {
+          "short": "kidney",
+          "long": "each of the two bean-shaped organs in the lower back of the body that separate wastes from the blood and make urine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ginjal",
+          "long": "Masing-masing dari dua organ berbentuk kacang di bagian bawah tubuh yang memisahkan limbah dari darah dan membuat urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273417.jpeg",
+      "simplified": "肾",
+      "traditional": "腎",
+      "pinyin": "shèn"
+    },
+    {
+      "id": 273418,
+      "translation": {
+        "en": {
+          "short": "urethra",
+          "long": "(anatomy) the tube in most mammals that carries urine out of the body, which also carries sperm in males",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uretra",
+          "long": "(Anatomi) Tabung di sebagian besar mamalia yang membawa urin keluar dari tubuh, yang juga membawa sperma pada pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273418.jpeg",
+      "simplified": "尿道",
+      "traditional": "尿道",
+      "pinyin": "niàodào"
+    },
+    {
+      "id": 273419,
+      "translation": {
+        "en": {
+          "short": "ureter",
+          "long": "a narrow tube that transports urine from the kidneys to the urinary bladder in the human body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran kencing",
+          "long": "tabung sempit yang mengangkut urin dari ginjal ke kandung kemih di tubuh manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273419.jpeg",
+      "simplified": "输尿管",
+      "traditional": "輸尿管",
+      "pinyin": "shūniào guǎn"
+    },
+    {
+      "id": 273420,
+      "translation": {
+        "en": {
+          "short": "renal pelvis",
+          "long": "the central collecting region of the kidney where urine from the renal calyces is gathered before it travels to the ureter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panggul ginjal",
+          "long": "Wilayah pengumpul pusat ginjal di mana urin dari calyces ginjal dikumpulkan sebelum melakukan perjalanan ke ureter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273420.jpeg",
+      "simplified": "肾盂",
+      "traditional": "腎盂",
+      "pinyin": "shènyú"
+    },
+    {
+      "id": 273421,
+      "translation": {
+        "en": {
+          "short": "renal cortex",
+          "long": "the outermost layer of the kidney that houses the functional units responsible for urine production and filtration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "korteks ginjal",
+          "long": "Lapisan terluar ginjal yang menampung unit fungsional yang bertanggung jawab atas produksi dan penyaringan urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273421.jpeg",
+      "simplified": "肾皮质",
+      "traditional": "腎皮質",
+      "pinyin": "shèn pízhì"
+    },
+    {
+      "id": 274354,
+      "translation": {
+        "en": {
+          "short": "renal medulla",
+          "long": "the inner part of the kidney that produces urine and regulates water and electrolyte balance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Medula ginjal",
+          "long": "Bagian dalam ginjal yang menghasilkan urin dan mengatur keseimbangan air dan elektrolit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274354.jpeg",
+      "simplified": "肾髓质",
+      "traditional": "腎髓質",
+      "pinyin": "shèn suǐ zhì"
+    },
+    {
+      "id": 273282,
+      "translation": {
+        "en": {
+          "short": "pepsin",
+          "long": "an enzyme produced in the stomach that helps in the digestion of proteins by breaking them down into smaller peptides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pepsin",
+          "long": "enzim yang diproduksi di lambung yang membantu pencernaan protein dengan memecahnya menjadi peptida yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273282.jpeg",
+      "simplified": "胃蛋白酶",
+      "traditional": "胃蛋白酶",
+      "pinyin": "wèidàn bái méi"
+    },
+    {
+      "id": 273283,
+      "translation": {
+        "en": {
+          "short": "villus",
+          "long": "a microscopic, finger-like structure found in the lining of the small intestine, responsible for enhancing the absorption of nutrients into the bloodstream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Villus",
+          "long": "Struktur mikroskopis, seperti jari yang ditemukan di lapisan usus kecil, bertanggung jawab untuk meningkatkan penyerapan nutrisi ke dalam aliran darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273283.jpeg",
+      "simplified": "绒毛",
+      "traditional": "絨毛",
+      "pinyin": "róngmáo"
+    },
+    {
+      "id": 274552,
+      "translation": {
+        "en": {
+          "short": "saliva",
+          "long": "the liquid produced in the mouth to make chewing and swallowing easier and to prepare food for digestion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air liur",
+          "long": "cairan yang diproduksi di mulut untuk membuat mengunyah dan menelan lebih mudah dan menyiapkan makanan untuk pencernaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274552.jpeg",
+      "simplified": "唾液",
+      "traditional": "唾液",
+      "pinyin": "tuòyè"
+    }
+  ]
+}

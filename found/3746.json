@@ -1,0 +1,963 @@
+{
+  "id": 3746,
+  "title": {
+    "en": "Ballet",
+    "id": "Balet"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to ballet such as \"plié\", \"échappé\", and \"sauté\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan balet seperti \"Plié\", \"échappé\", dan \"tumis\"."
+  },
+  "cards": [
+    {
+      "id": 335187,
+      "translation": {
+        "en": {
+          "short": "pirouette",
+          "long": "a ballet movement involving a rapid rotation or spin executed on one foot, often with the other leg extended and turned out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putaran",
+          "long": "Gerakan balet yang melibatkan rotasi cepat atau putaran yang dieksekusi dengan satu kaki, seringkali dengan kaki yang lain diperpanjang dan ternyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335187.jpeg",
+      "simplified": "旋转",
+      "traditional": "旋轉",
+      "pinyin": "xuánzhuǎn"
+    },
+    {
+      "id": 335210,
+      "translation": {
+        "en": {
+          "short": "plie",
+          "long": "a knee bend with an upright posture, used as a fundamental exercise and basic movement in ballet technique to develop strength, flexibility, and control",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Plie",
+          "long": "tikungan lutut dengan postur tegak, digunakan sebagai latihan mendasar dan pergerakan dasar dalam teknik balet untuk mengembangkan kekuatan, fleksibilitas, dan kontrol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335210.jpeg",
+      "simplified": "普利耶",
+      "traditional": "普利耶",
+      "pinyin": "pǔ Lì yē"
+    },
+    {
+      "id": 335213,
+      "translation": {
+        "en": {
+          "short": "arabesque",
+          "long": "a classical ballet position where the dancer stands on one leg with the other leg extended behind, often with arms in various graceful positions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arab",
+          "long": "Posisi balet klasik di mana penari berdiri dengan satu kaki dengan kaki lainnya terentang di belakang, sering dengan lengan di berbagai posisi anggun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335213.jpeg",
+      "simplified": "蔓藤花纹",
+      "traditional": "蔓藤花紋",
+      "pinyin": "mán téng huāwén"
+    },
+    {
+      "id": 335248,
+      "translation": {
+        "en": {
+          "short": "attitude",
+          "long": "a ballet position where one leg is lifted and bent behind the body with the knee turned out and the foot pointed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sikap",
+          "long": "Posisi balet di mana satu kaki diangkat dan ditekuk di belakang tubuh dengan lutut ternyata dan kaki menunjuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335248.jpeg",
+      "simplified": "态度",
+      "traditional": "態度",
+      "pinyin": "tàidu"
+    },
+    {
+      "id": 335274,
+      "translation": {
+        "en": {
+          "short": "ballon",
+          "long": "a ballet term for the quality of lightness and buoyancy in a dancer's jumps or leaps, creating a sense of suspension or hovering in the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ballon",
+          "long": "Istilah balet untuk kualitas cahaya dan daya apung dalam lompatan atau penari lompatan, menciptakan rasa suspensi atau melayang di udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335274.jpeg",
+      "simplified": "气球",
+      "traditional": "氣球",
+      "pinyin": "qìqiú"
+    },
+    {
+      "id": 335301,
+      "translation": {
+        "en": {
+          "short": "assemble",
+          "long": "a ballet jump where one foot leaves the ground and the other foot meets it in the air, used for fluid transitions and dynamic movements in ballet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berkumpul",
+          "long": "Lompatan balet di mana satu kaki meninggalkan tanah dan kaki lainnya menemuinya di udara, digunakan untuk transisi cairan dan gerakan dinamis dalam balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335301.jpeg",
+      "simplified": "集合",
+      "traditional": "集合",
+      "pinyin": "jíhé"
+    },
+    {
+      "id": 335319,
+      "translation": {
+        "en": {
+          "short": "barre",
+          "long": "a horizontal handrail used in ballet for balance and stability during warm-up exercises and technique practice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barre",
+          "long": "Handrail horizontal yang digunakan dalam balet untuk keseimbangan dan stabilitas selama latihan pemanasan dan latihan teknik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335319.jpeg",
+      "simplified": "巴雷",
+      "traditional": "巴雷",
+      "pinyin": "Bā Léi"
+    },
+    {
+      "id": 335326,
+      "translation": {
+        "en": {
+          "short": "brise",
+          "long": "a ballet step where a dancer jumps, brushes one leg against the other in a crossed position, and lands on the opposite leg",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brise",
+          "long": "Langkah balet di mana seorang penari melompat, menyikat satu kaki ke arah yang lain dalam posisi bersilang, dan mendarat di kaki yang berlawanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335326.jpeg",
+      "simplified": "布里斯",
+      "traditional": "布里斯",
+      "pinyin": "bù lǐ Sī"
+    },
+    {
+      "id": 335634,
+      "translation": {
+        "en": {
+          "short": "pas de chat",
+          "long": "a ballet term for a sideways jump where the knees are brought up towards the chest and the feet extend into a diamond shape, resembling the leap of a cat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas de chat",
+          "long": "Istilah balet untuk lompatan ke samping di mana lutut dibawa ke arah dada dan kaki memanjang ke bentuk berlian, menyerupai lompatan kucing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335634.jpeg",
+      "simplified": "闲聊",
+      "traditional": "閒聊",
+      "pinyin": "xiánliáo"
+    },
+    {
+      "id": 335380,
+      "translation": {
+        "en": {
+          "short": "degage",
+          "long": "a movement where the working leg is lifted off the floor, typically with a pointed foot and a sense of ease and freedom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Degage",
+          "long": "Gerakan di mana kaki kerja diangkat dari lantai, biasanya dengan kaki runcing dan rasa mudah dan kebebasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335380.jpeg",
+      "simplified": "德加格",
+      "traditional": "德加格",
+      "pinyin": "Dé Jiā gé"
+    },
+    {
+      "id": 335637,
+      "translation": {
+        "en": {
+          "short": "pas de deux",
+          "long": "a ballet duet performed by two dancers, often showcasing synchronized movements and intricate choreography",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas de deux",
+          "long": "Duet balet yang dilakukan oleh dua penari, sering menunjukkan gerakan yang disinkronkan dan koreografi yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335637.jpeg",
+      "simplified": "双人舞",
+      "traditional": "雙人舞",
+      "pinyin": "shuāngrén wǔ"
+    },
+    {
+      "id": 335638,
+      "translation": {
+        "en": {
+          "short": "glissade",
+          "long": "a ballet step in which one foot slides smoothly along the floor to meet the other foot, often executed as part of a larger sequence or combination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meluncur sambil berdiri",
+          "long": "Langkah balet di mana satu kaki meluncur dengan lancar di sepanjang lantai untuk memenuhi kaki yang lain, sering dieksekusi sebagai bagian dari urutan atau kombinasi yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335638.jpeg",
+      "simplified": "滑步",
+      "traditional": "滑步",
+      "pinyin": "Huá Bù"
+    },
+    {
+      "id": 335655,
+      "translation": {
+        "en": {
+          "short": "fouette",
+          "long": "a ballet turning step where one leg whips around the body while maintaining balance on the supporting leg, known for its grace and dynamic appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fouette",
+          "long": "Langkah belok balet di mana satu kaki mencambuk di sekitar tubuh sambil mempertahankan keseimbangan pada kaki pendukung, yang dikenal karena keanggunan dan penampilannya yang dinamis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335655.jpeg",
+      "simplified": "富埃特",
+      "traditional": "富埃特",
+      "pinyin": "Fù Aī tè"
+    },
+    {
+      "id": 335669,
+      "translation": {
+        "en": {
+          "short": "jete",
+          "long": "a big jump in ballet where one leaps into the air with one leg forward and the other leg back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jete",
+          "long": "lompatan besar dalam balet di mana seseorang melompat ke udara dengan satu kaki ke depan dan kaki lainnya kembali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335669.jpeg",
+      "simplified": "杰特",
+      "traditional": "傑特",
+      "pinyin": "jié tè"
+    },
+    {
+      "id": 335443,
+      "translation": {
+        "en": {
+          "short": "saute",
+          "long": "a ballet jump or spring from both feet into the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tumis",
+          "long": "lompatan balet atau pegas dari kedua kaki ke udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335443.jpeg",
+      "simplified": "炒",
+      "traditional": "炒",
+      "pinyin": "chǎo"
+    },
+    {
+      "id": 335500,
+      "translation": {
+        "en": {
+          "short": "rond de jambe",
+          "long": "a ballet leg movement in a circular motion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rond de Jambe",
+          "long": "gerakan kaki balet dalam gerakan melingkar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335500.jpeg",
+      "simplified": "让贝轮",
+      "traditional": "讓貝輪",
+      "pinyin": "ràng Bèi lún"
+    },
+    {
+      "id": 335533,
+      "translation": {
+        "en": {
+          "short": "port de bras",
+          "long": "a ballet term for arm movements and positioning that adds grace and expressiveness to a dancer's performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Port de Bras",
+          "long": "Istilah balet untuk gerakan lengan dan posisi yang menambah rahmat dan ekspresif pada kinerja penari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335533.jpeg",
+      "simplified": "布拉斯港",
+      "traditional": "布拉斯港",
+      "pinyin": "bù lā Sī Gǎng"
+    },
+    {
+      "id": 335553,
+      "translation": {
+        "en": {
+          "short": "pointe",
+          "long": "ballet dancing on the tips of the toes with specialized shoes for advanced dancers, creating elegant and ethereal movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pointe",
+          "long": "Balet menari di ujung jari kaki dengan sepatu khusus untuk penari canggih, menciptakan gerakan yang elegan dan halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335553.jpeg",
+      "simplified": "足尖",
+      "traditional": "足尖",
+      "pinyin": "zújiān"
+    },
+    {
+      "id": 335580,
+      "translation": {
+        "en": {
+          "short": "pas de basque",
+          "long": "a dance step where the legs cross while moving sideways or diagonally, commonly used in various dance styles such as ballet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas de Basque",
+          "long": "Langkah dansa di mana kaki menyeberang saat bergerak ke samping atau diagonal, biasanya digunakan dalam berbagai gaya tarian seperti balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335580.jpeg",
+      "simplified": "巴斯克海峡",
+      "traditional": "巴斯克海峽",
+      "pinyin": "Bāsī kè hǎixiá"
+    },
+    {
+      "id": 335592,
+      "translation": {
+        "en": {
+          "short": "pas de bourree",
+          "long": "a dance step or movement involving a quick transfer of weight from one foot to the other, commonly used in ballet, jazz, and contemporary dance styles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas de bourree",
+          "long": "Langkah tarian atau gerakan yang melibatkan transfer berat yang cepat dari satu kaki ke yang lain, biasanya digunakan dalam balet, jazz, dan gaya tari kontemporer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335592.jpeg",
+      "simplified": "帕斯德布尔里",
+      "traditional": "帕斯德布爾里",
+      "pinyin": "Pàsī Dé Bùěr lǐ"
+    },
+    {
+      "id": 335342,
+      "translation": {
+        "en": {
+          "short": "chasse",
+          "long": "a ballet step where one foot swiftly follows the other in a sliding or gliding motion, often used to transition between movements or positions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chasse",
+          "long": "Langkah balet di mana satu kaki dengan cepat mengikuti yang lain dalam gerakan geser atau meluncur, sering digunakan untuk transisi antara gerakan atau posisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335342.jpeg",
+      "simplified": "追逐",
+      "traditional": "追逐",
+      "pinyin": "zhuīzhú"
+    },
+    {
+      "id": 335349,
+      "translation": {
+        "en": {
+          "short": "sissonne",
+          "long": "a type of jump or leap where a dancer jumps from both feet, extends one leg to the front or side while the other leg remains in the air, and lands on the extended leg",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sissonne",
+          "long": "Jenis lompatan atau lompatan di mana seorang penari melompat dari kedua kaki, memanjang satu kaki ke depan atau sisi sementara kaki lainnya tetap di udara, dan mendarat di kaki yang diperpanjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335349.jpeg",
+      "simplified": "西松",
+      "traditional": "西松",
+      "pinyin": "Xīsōng"
+    },
+    {
+      "id": 335357,
+      "translation": {
+        "en": {
+          "short": "tour en l'air",
+          "long": "a ballet jump with one or more rotations in the air, showcasing a dancer's turning ability and skill",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tur en l'as",
+          "long": "Lompatan balet dengan satu atau lebih rotasi di udara, menampilkan kemampuan dan keterampilan belok penari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335357.jpeg",
+      "simplified": "空中旅行",
+      "traditional": "空中旅行",
+      "pinyin": "kōngzhōng lǚxíng"
+    },
+    {
+      "id": 335695,
+      "translation": {
+        "en": {
+          "short": "calypso leap",
+          "long": "a dynamic jump in contemporary dance that combines a 180-degree turn with an extended leg behind the body, creating a visually striking movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Calypso Leap",
+          "long": "Lompatan dinamis dalam tarian kontemporer yang menggabungkan belokan 180 derajat dengan kaki yang diperpanjang di belakang tubuh, menciptakan gerakan yang mencolok secara visual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335695.jpeg",
+      "simplified": "卡利普索飞跃",
+      "traditional": "卡利普索飛躍",
+      "pinyin": "kǎ Lì pǔ Suǒ fēiyuè"
+    },
+    {
+      "id": 335747,
+      "translation": {
+        "en": {
+          "short": "cabriole",
+          "long": "a ballet jump where one leg is kicked in the air while the other follows, meeting it before landing, often used to showcase a dancer's athleticism and skill",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cabriole",
+          "long": "Lompatan balet di mana satu kaki ditendang di udara sementara yang lain mengikuti, bertemu sebelum mendarat, sering digunakan untuk menampilkan atletis dan keterampilan penari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335747.jpeg",
+      "simplified": "敞篷车",
+      "traditional": "敞篷車",
+      "pinyin": "chǎngpéng chē"
+    },
+    {
+      "id": 335778,
+      "translation": {
+        "en": {
+          "short": "demi-pointe",
+          "long": "ballet dancing on the balls of the feet with the heels slightly off the ground, serving as a preparatory stage for dancing en pointe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Demi-pointe",
+          "long": "Balet menari di atas bola kaki dengan tumit sedikit dari tanah, berfungsi sebagai tahap persiapan untuk menari en pointe",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335778.jpeg",
+      "simplified": "半足尖",
+      "traditional": "半足尖",
+      "pinyin": "bàn zújiān"
+    },
+    {
+      "id": 335780,
+      "translation": {
+        "en": {
+          "short": "a la seconde",
+          "long": "a ballet term that describes movements or steps executed to the side, with one leg extended to the side of the body",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "a la seconde",
+          "long": "istilah balet yang menggambarkan gerakan atau langkah yang dieksekusi ke samping, dengan satu kaki diperluas ke sisi tubuh",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335780.jpeg",
+      "simplified": "点菜",
+      "traditional": "點菜",
+      "pinyin": "diǎncài"
+    },
+    {
+      "id": 335782,
+      "translation": {
+        "en": {
+          "short": "tendu",
+          "long": "(of a position) fully extended and stretched, usually with a pointed foot and maintaining proper alignment and control",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tendu",
+          "long": "(dari suatu posisi) sepenuhnya diperpanjang dan diregangkan, biasanya dengan kaki yang runcing dan mempertahankan keberpihakan dan kontrol yang tepat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335782.jpeg",
+      "simplified": "滕杜",
+      "traditional": "滕杜",
+      "pinyin": "Téng Dù"
+    },
+    {
+      "id": 335784,
+      "translation": {
+        "en": {
+          "short": "changement de pied",
+          "long": "a ballet term that describes a jump in which a dancer changes their feet in the air, often performed with a beat or a switch of the legs, resulting in a seamless and graceful movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perubahan de pied",
+          "long": "Istilah balet yang menggambarkan lompatan di mana penari mengubah kaki mereka di udara, sering dilakukan dengan ketukan atau saklar kaki, menghasilkan gerakan yang mulus dan anggun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335784.jpeg",
+      "simplified": "改变",
+      "traditional": "改變",
+      "pinyin": "gǎibiàn"
+    },
+    {
+      "id": 335787,
+      "translation": {
+        "en": {
+          "short": "second position",
+          "long": "a ballet stance with feet apart, arms extended to the sides, used as a base for many movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "posisi kedua",
+          "long": "Sikap balet dengan kaki terpisah, lengan terentang ke samping, digunakan sebagai dasar untuk banyak gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335787.jpeg",
+      "simplified": "第二位置",
+      "traditional": "第二位置",
+      "pinyin": "dìèr wèi zhì"
+    },
+    {
+      "id": 335789,
+      "translation": {
+        "en": {
+          "short": "tour jete",
+          "long": "a ballet jump where the dancer leaps through the air with one leg extended forward and the other leg thrown back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tur Jete",
+          "long": "Lompatan balet di mana penari melompat melewati udara dengan satu kaki diperpanjang ke depan dan kaki lainnya dilemparkan ke belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335789.jpeg",
+      "simplified": "旅游喷气机",
+      "traditional": "旅遊噴氣機",
+      "pinyin": "lǚyóu pēnqì jī"
+    },
+    {
+      "id": 335791,
+      "translation": {
+        "en": {
+          "short": "developpe",
+          "long": "a ballet term for smoothly lifting and extending the working leg from a position close to the body to an open position, typically at 90 degrees or higher",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengembangkan",
+          "long": "Istilah balet untuk mengangkat dengan lancar dan memperluas kaki yang bekerja dari posisi yang dekat dengan tubuh ke posisi terbuka, biasanya pada 90 derajat atau lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335791.jpeg",
+      "simplified": "发展",
+      "traditional": "發展",
+      "pinyin": "fāzhǎn"
+    },
+    {
+      "id": 335793,
+      "translation": {
+        "en": {
+          "short": "epaulement",
+          "long": "a ballet term that refers to the positioning and movement of the shoulders, head, and neck in relation to the rest of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Epaulement",
+          "long": "istilah balet yang mengacu pada posisi dan pergerakan bahu, kepala, dan leher dalam kaitannya dengan seluruh tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335793.jpeg",
+      "simplified": "肩章",
+      "traditional": "肩章",
+      "pinyin": "jiānzhāng"
+    },
+    {
+      "id": 335795,
+      "translation": {
+        "en": {
+          "short": "echappe",
+          "long": "a jump from a closed to an open position with pointed feet, and then returning to the closed position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Echappe",
+          "long": "lompatan dari posisi tertutup ke posisi terbuka dengan kaki runcing, dan kemudian kembali ke posisi tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335795.jpeg",
+      "simplified": "埃卡佩",
+      "traditional": "埃卡佩",
+      "pinyin": "Aī kǎ pèi"
+    },
+    {
+      "id": 335798,
+      "translation": {
+        "en": {
+          "short": "first position",
+          "long": "the basic stance with heels together and toes turned out, commonly used as a starting position for ballet movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "posisi pertama",
+          "long": "Sikap dasar dengan tumit bersama dan jari kaki ternyata, biasanya digunakan sebagai posisi awal untuk gerakan balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335798.jpeg",
+      "simplified": "第一位置",
+      "traditional": "第一位置",
+      "pinyin": "dìyī wèizhi"
+    },
+    {
+      "id": 335802,
+      "translation": {
+        "en": {
+          "short": "fourth position",
+          "long": "a ballet stance where one foot is placed in front of the other, with the heel of the front foot positioned near the arch of the back foot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "posisi keempat",
+          "long": "Sikap balet di mana satu kaki ditempatkan di depan yang lain, dengan tumit kaki depan diposisikan di dekat lengkungan kaki belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335802.jpeg",
+      "simplified": "第四位置",
+      "traditional": "第四位置",
+      "pinyin": "dì sì wèizhi"
+    },
+    {
+      "id": 335804,
+      "translation": {
+        "en": {
+          "short": "retire",
+          "long": "a ballet movement where a dancer lifts one foot and draws it up to the side of the standing leg, often used as a preparation for other movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pensiun",
+          "long": "Gerakan balet di mana seorang penari mengangkat satu kaki dan menariknya ke sisi kaki berdiri, sering digunakan sebagai persiapan untuk gerakan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335804.jpeg",
+      "simplified": "退休",
+      "traditional": "退休",
+      "pinyin": "tuìxiū"
+    },
+    {
+      "id": 335806,
+      "translation": {
+        "en": {
+          "short": "releve",
+          "long": "a movement in which a ballet dancer rises up onto the balls of their feet, lifting their heels off the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Releve",
+          "long": "sebuah gerakan di mana seorang penari balet naik ke bola kaki mereka, mengangkat tumit mereka dari tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335806.jpeg",
+      "simplified": "相关",
+      "traditional": "相關",
+      "pinyin": "xiāngguān"
+    },
+    {
+      "id": 335809,
+      "translation": {
+        "en": {
+          "short": "fish dive",
+          "long": "a dynamic movement where one partner jumps or dives into the arms of another partner, creating a visually striking moment in contemporary and modern dance choreography",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Menyelam ikan",
+          "long": "Gerakan dinamis di mana satu pasangan melompat atau menyelam ke pelukan pasangan lain, menciptakan momen yang mencolok secara visual dalam koreografi tari kontemporer dan modern",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335809.jpeg",
+      "simplified": "鱼潜",
+      "traditional": "魚潛",
+      "pinyin": "Yú qián"
+    },
+    {
+      "id": 335811,
+      "translation": {
+        "en": {
+          "short": "fondu",
+          "long": "melting quality in dance, referring to a smooth and gradual lowering or melting movement, often associated with fluidity, grace, and control in ballet",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Fondu",
+          "long": "Kualitas mencair dalam tarian, mengacu pada gerakan penurunan atau peleburan yang halus dan bertahap, sering dikaitkan dengan fluiditas, rahmat, dan kontrol dalam balet",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335811.jpeg",
+      "simplified": "火锅",
+      "traditional": "火鍋",
+      "pinyin": "huǒguō"
+    },
+    {
+      "id": 335814,
+      "translation": {
+        "en": {
+          "short": "port de deux",
+          "long": "a dance movement or pose performed by two dancers together, often showcasing their coordination, balance, and harmony in a duet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Port deux",
+          "long": "Gerakan tarian atau pose yang dilakukan oleh dua penari bersama, sering menunjukkan koordinasi, keseimbangan, dan harmoni mereka dalam duet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335814.jpeg",
+      "simplified": "双港",
+      "traditional": "雙港",
+      "pinyin": "Shuāng Gǎng"
+    },
+    {
+      "id": 335817,
+      "translation": {
+        "en": {
+          "short": "fifth position",
+          "long": "a ballet stance where one foot is placed against the other foot, with the feet turned out, often used for steps, poses, and turns in ballet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "posisi kelima",
+          "long": "Sikap balet di mana satu kaki ditempatkan di kaki yang lain, dengan kaki ternyata, sering digunakan untuk langkah, berpose, dan berbelok dalam balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335817.jpeg",
+      "simplified": "第五名",
+      "traditional": "第五名",
+      "pinyin": "dìwǔ míng"
+    },
+    {
+      "id": 335820,
+      "translation": {
+        "en": {
+          "short": "batterie",
+          "long": "a ballet term for quick and intricate foot movements, often performed in mid-air, showcasing a dancer's agility and coordination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baterai",
+          "long": "Istilah balet untuk gerakan kaki yang cepat dan rumit, sering dilakukan di udara, menampilkan kelincahan dan koordinasi penari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335820.jpeg",
+      "simplified": "电池",
+      "traditional": "電池",
+      "pinyin": "diànchí"
+    },
+    {
+      "id": 336418,
+      "translation": {
+        "en": {
+          "short": "grand battement",
+          "long": "a ballet term for a high kick with a straight leg and pointed foot, often used in warm-up exercises and ballet combinations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Battement Grand",
+          "long": "Istilah balet untuk tendangan tinggi dengan kaki lurus dan kaki runcing, sering digunakan dalam latihan pemanasan dan kombinasi balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336418.jpeg",
+      "simplified": "大巴特门",
+      "traditional": "大巴特門",
+      "pinyin": "dàbā tè Mén"
+    },
+    {
+      "id": 336420,
+      "translation": {
+        "en": {
+          "short": "petit battement",
+          "long": "a ballet term for a small, quick beating movement of the foot used in warm-up exercises and ballet combinations to develop foot articulation and control",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perang Petit",
+          "long": "Istilah balet untuk gerakan pemukulan kecil yang cepat digunakan dalam latihan pemanasan dan kombinasi balet untuk mengembangkan artikulasi dan kontrol kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336420.jpeg",
+      "simplified": "小巴特门特",
+      "traditional": "小巴特門特",
+      "pinyin": "xiǎobā tè Mén tè"
+    },
+    {
+      "id": 336422,
+      "translation": {
+        "en": {
+          "short": "divertissement",
+          "long": "a ballet term that refers to a short, self-contained dance piece or a suite of dances, typically featuring solo or ensemble performances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiburan",
+          "long": "Istilah balet yang mengacu pada potongan tari pendek dan mandiri atau serangkaian tarian, biasanya menampilkan pertunjukan solo atau ansambel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336422.jpeg",
+      "simplified": "消遣",
+      "traditional": "消遣",
+      "pinyin": "xiāoqiǎn"
+    },
+    {
+      "id": 337574,
+      "translation": {
+        "en": {
+          "short": "pas",
+          "long": "(ballet) a step or movement, typically forming part of a choreographed sequence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas",
+          "long": "(balet) Langkah atau gerakan, biasanya membentuk bagian dari urutan koreografi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337574.jpeg",
+      "simplified": "爹",
+      "traditional": "爹",
+      "pinyin": "diē"
+    },
+    {
+      "id": 337575,
+      "translation": {
+        "en": {
+          "short": "pas seul",
+          "long": "(ballet) a solo dance performed by a single dancer, highlighting their technical ability, expression, and artistry.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pas seul",
+          "long": "(balet) Tarian solo yang dilakukan oleh seorang penari tunggal, menyoroti kemampuan teknis, ekspresi, dan seni mereka.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337575.jpeg",
+      "simplified": "帕斯瑟尔",
+      "traditional": "帕斯瑟爾",
+      "pinyin": "Pàsī sè ěr"
+    },
+    {
+      "id": 342223,
+      "translation": {
+        "en": {
+          "short": "allegro",
+          "long": "a fast and lively style of ballet dance featuring jumps, leaps, and quick footwork, used to showcase a dancer's speed, athleticism, and artistry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alegro",
+          "long": "Gaya tarian balet yang cepat dan semarak yang menampilkan lompatan, lompatan, dan gerak kaki cepat, digunakan untuk menampilkan kecepatan, atletis, dan seni penari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/342223.jpeg",
+      "simplified": "快板",
+      "traditional": "快板",
+      "pinyin": "kuàibǎn"
+    },
+    {
+      "id": 342301,
+      "translation": {
+        "en": {
+          "short": "adagio",
+          "long": "a movement or composition intended to be played at a slow tempo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Adagio",
+          "long": "gerakan atau komposisi yang dimaksudkan untuk dimainkan pada tempo lambat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/342301.jpeg",
+      "simplified": "缓慢地",
+      "traditional": "緩慢地",
+      "pinyin": "huǎnmàn de"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "id": 995,
+  "title": {
+    "en": "The Animal Kingdom",
+    "id": "Kerajaan Hewan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the animal kingdom, such as \"feline\", \"game\", \"prey\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kerajaan hewan, seperti \"kucing\", \"permainan\", \"mangsa\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 243462,
+      "translation": {
+        "en": {
+          "short": "amphibious",
+          "long": "relating to a classification of animals living both in water and on land",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "amfibi",
+          "long": "Berkaitan dengan klasifikasi hewan yang hidup baik di dalam air maupun di darat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243462.jpeg",
+      "simplified": "水陆两用",
+      "traditional": "水陸兩用",
+      "pinyin": "shuǐlù liǎng yòng"
+    },
+    {
+      "id": 243463,
+      "translation": {
+        "en": {
+          "short": "canine",
+          "long": "a mammal with claws that can't retract and often has a long snout, and often used for companionship, hunting, or guarding purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anjing",
+          "long": "mamalia dengan cakar yang tidak dapat ditarik kembali dan sering kali memiliki moncong panjang, dan sering digunakan untuk persahabatan, perburuan, atau tujuan penjagaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243463.jpeg",
+      "simplified": "类似犬科动物的",
+      "traditional": "類似犬科動物的",
+      "pinyin": "lèisì quǎnkē dòngwù de"
+    },
+    {
+      "id": 243470,
+      "translation": {
+        "en": {
+          "short": "feline",
+          "long": "any animal in the cat family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "licik",
+          "long": "Hewan apa pun di keluarga kucing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243470.jpeg",
+      "simplified": "猫科动物",
+      "traditional": "貓科動物",
+      "pinyin": "māokē dòngwù"
+    },
+    {
+      "id": 243464,
+      "translation": {
+        "en": {
+          "short": "whisker",
+          "long": "any of the long, stiff hairs that grow on the face of a cat, mouse, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kumis",
+          "long": "Rambut panjang dan kaku yang tumbuh di wajah kucing, tikus, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243464.jpeg",
+      "simplified": "腮须胡须",
+      "traditional": "腮須鬍鬚",
+      "pinyin": "sāi xū húxū"
+    },
+    {
+      "id": 243466,
+      "translation": {
+        "en": {
+          "short": "tusk",
+          "long": "each of the curved pointy teeth of some animals such as elephants, boars, etc., especially one that stands out from the closed mouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gading",
+          "long": "Masing -masing gigi runcing melengkung dari beberapa hewan seperti gajah, babi hutan, dll., Terutama yang menonjol dari mulut tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243466.jpeg",
+      "simplified": "长牙",
+      "traditional": "長牙",
+      "pinyin": "chángyá"
+    },
+    {
+      "id": 243467,
+      "translation": {
+        "en": {
+          "short": "snout",
+          "long": "the long and protruding facial part of an animal which comprises its nose and mouth, especially in a mammal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "moncong",
+          "long": "bagian wajah yang panjang dan menonjol dari seekor hewan yang terdiri dari hidung dan mulutnya, terutama pada mamalia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243467.jpeg",
+      "simplified": "鼻子",
+      "traditional": "鼻子",
+      "pinyin": "bízi"
+    },
+    {
+      "id": 243468,
+      "translation": {
+        "en": {
+          "short": "fang",
+          "long": "one of the two long and sharp teeth that some animals such as dogs, wolfs, or snakes have",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taring",
+          "long": "Salah satu dari dua gigi panjang dan tajam yang dimiliki beberapa hewan seperti anjing, serigala, atau ular",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243468.jpeg",
+      "simplified": "尖牙",
+      "traditional": "尖牙",
+      "pinyin": "jiānyá"
+    },
+    {
+      "id": 243469,
+      "translation": {
+        "en": {
+          "short": "fauna",
+          "long": "the animals of a particular geological period or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fauna",
+          "long": "Hewan -hewan dari periode atau wilayah geologis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243469.jpeg",
+      "simplified": "动物区系",
+      "traditional": "動物區系",
+      "pinyin": "dòngwù Oū xì"
+    },
+    {
+      "id": 243474,
+      "translation": {
+        "en": {
+          "short": "lair",
+          "long": "a place where a wild animal lives, hides, or takes refuge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarang",
+          "long": "tempat di mana seekor binatang liar hidup, bersembunyi, atau berlindung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243474.jpeg",
+      "simplified": "巢穴",
+      "traditional": "巢穴",
+      "pinyin": "cháoxué"
+    },
+    {
+      "id": 243465,
+      "translation": {
+        "en": {
+          "short": "vermin",
+          "long": "small animals or insects that are believed to be destructive and are difficult to handle when they appear in a considerable number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hama",
+          "long": "hewan kecil atau serangga yang diyakini destruktif dan sulit ditangani ketika mereka muncul dalam jumlah yang cukup besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243465.jpeg",
+      "simplified": "害虫",
+      "traditional": "害蟲",
+      "pinyin": "hàichóng"
+    },
+    {
+      "id": 243471,
+      "translation": {
+        "en": {
+          "short": "game",
+          "long": "animals or birds that are hunted for food or sport",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permainan",
+          "long": "hewan atau burung yang diburu untuk makanan atau olahraga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243471.jpeg",
+      "simplified": "游戏",
+      "traditional": "遊戲",
+      "pinyin": "yóuxì"
+    },
+    {
+      "id": 243472,
+      "translation": {
+        "en": {
+          "short": "to graze",
+          "long": "(of sheep, cows, etc.) to feed on the grass in a field",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merumput",
+          "long": "(domba, sapi, dll.) Untuk memberi makan rumput di ladang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243472.jpeg",
+      "simplified": "放牧",
+      "traditional": "放牧",
+      "pinyin": "fàngmù"
+    },
+    {
+      "id": 243473,
+      "translation": {
+        "en": {
+          "short": "to hibernate",
+          "long": "(of some animals or plants) to spend the winter sleeping deeply",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk hibernasi",
+          "long": "(dari beberapa hewan atau tumbuhan) untuk menghabiskan musim dingin tidur nyenyak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243473.jpeg",
+      "simplified": "过冬",
+      "traditional": "過冬",
+      "pinyin": "guòdōng"
+    },
+    {
+      "id": 243475,
+      "translation": {
+        "en": {
+          "short": "litter",
+          "long": "a group of newly-born mammals from the same mother",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampah",
+          "long": "sekelompok mamalia yang baru lahir dari ibu yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243475.jpeg",
+      "simplified": "窝",
+      "traditional": "窩",
+      "pinyin": "wō"
+    },
+    {
+      "id": 243476,
+      "translation": {
+        "en": {
+          "short": "predator",
+          "long": "any animal that lives by hunting and eating other animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "predator",
+          "long": "hewan apa pun yang hidup dengan berburu dan makan hewan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243476.jpeg",
+      "simplified": "捕食者",
+      "traditional": "捕食者",
+      "pinyin": "bǔshí zhě"
+    },
+    {
+      "id": 243477,
+      "translation": {
+        "en": {
+          "short": "prey",
+          "long": "an animal that is hunted and eaten by another animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangsa",
+          "long": "binatang yang diburu dan dimakan oleh hewan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243477.jpeg",
+      "simplified": "猎物",
+      "traditional": "獵物",
+      "pinyin": "lièwù"
+    },
+    {
+      "id": 243478,
+      "translation": {
+        "en": {
+          "short": "bird of prey",
+          "long": "a bird, such as an eagle or a hawk, that feeds on animal flesh",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "burung pemangsa",
+          "long": "seekor burung, seperti elang atau elang, yang memakan daging binatang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243478.jpeg",
+      "simplified": "鸷",
+      "traditional": "鷙",
+      "pinyin": "zhì"
+    },
+    {
+      "id": 243479,
+      "translation": {
+        "en": {
+          "short": "chirp",
+          "long": "a short sharp sound characteristic of a bird or an insect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kicauan",
+          "long": "Karakteristik suara pendek yang tajam dari seekor burung atau serangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243479.jpeg",
+      "simplified": "叽叽喳喳",
+      "traditional": "嘰嘰喳喳",
+      "pinyin": "jījī zhā zhā"
+    },
+    {
+      "id": 243480,
+      "translation": {
+        "en": {
+          "short": "crest",
+          "long": "a prominent feature exhibited by some birds on their heads, consisting of feathers, fur, or skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "fitur terkemuka yang dipamerkan oleh beberapa burung di kepala mereka, terdiri dari bulu, bulu, atau kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243480.jpeg",
+      "simplified": "波峰",
+      "traditional": "波峰",
+      "pinyin": "bōfēng"
+    },
+    {
+      "id": 243481,
+      "translation": {
+        "en": {
+          "short": "fowl",
+          "long": "a domesticated bird that is particularly kept for its meat and eggs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unggas",
+          "long": "burung jinak yang khususnya disimpan untuk daging dan telurnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243481.jpeg",
+      "simplified": "鸡",
+      "traditional": "雞",
+      "pinyin": "jī"
+    },
+    {
+      "id": 243482,
+      "translation": {
+        "en": {
+          "short": "to incubate",
+          "long": "to keep an egg in a favorable condition to help it develop until it hatches",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk diinkubasi",
+          "long": "untuk menjaga telur dalam kondisi yang menguntungkan untuk membantunya berkembang sampai menetas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243482.jpeg",
+      "simplified": "孵化",
+      "traditional": "孵化",
+      "pinyin": "fūhuà"
+    },
+    {
+      "id": 243483,
+      "translation": {
+        "en": {
+          "short": "nestling",
+          "long": "a bird that is too young to leave the nest built by its parents, especially one that has not yet learned how to fly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bersarang",
+          "long": "seekor burung yang terlalu muda untuk meninggalkan sarang yang dibangun oleh orang tuanya, terutama yang belum belajar bagaimana terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243483.jpeg",
+      "simplified": "雏鸟",
+      "traditional": "雛鳥",
+      "pinyin": "chú diǎo"
+    },
+    {
+      "id": 243484,
+      "translation": {
+        "en": {
+          "short": "plumage",
+          "long": "the feathers of a bird covering its body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu burung",
+          "long": "bulu -bulu burung yang menutupi tubuhnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243484.jpeg",
+      "simplified": "羽毛",
+      "traditional": "羽毛",
+      "pinyin": "yǔmáo"
+    },
+    {
+      "id": 243485,
+      "translation": {
+        "en": {
+          "short": "talon",
+          "long": "a long, sharp nail on the foot of some birds, especially birds of prey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cakar",
+          "long": "Paku yang panjang dan tajam di kaki beberapa burung, terutama burung pemangsa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243485.jpeg",
+      "simplified": "爪",
+      "traditional": "爪",
+      "pinyin": "zhǎo"
+    },
+    {
+      "id": 243486,
+      "translation": {
+        "en": {
+          "short": "sponge",
+          "long": "a marine invertebrate with a body full of holes through which water can circulate and nutrients can be absorbed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spons",
+          "long": "Invertebrata laut dengan tubuh yang penuh lubang di mana air dapat bersirkulasi dan nutrisi dapat diserap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243486.jpeg",
+      "simplified": "海绵",
+      "traditional": "海綿",
+      "pinyin": "hǎimián"
+    },
+    {
+      "id": 243487,
+      "translation": {
+        "en": {
+          "short": "school",
+          "long": "a large number of fish or sea mammals that swim together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah",
+          "long": "sejumlah besar mamalia ikan atau laut yang berenang bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243487.jpeg",
+      "simplified": "学校",
+      "traditional": "學校",
+      "pinyin": "xuéxiào"
+    },
+    {
+      "id": 243488,
+      "translation": {
+        "en": {
+          "short": "clam",
+          "long": "an edible marine shellfish living in sand or mud",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerang",
+          "long": "Kerang laut yang dapat dimakan yang hidup di pasir atau lumpur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243488.jpeg",
+      "simplified": "蛤",
+      "traditional": "蛤",
+      "pinyin": "gé"
+    },
+    {
+      "id": 243489,
+      "translation": {
+        "en": {
+          "short": "crustacean",
+          "long": "a sea creature with a hard shell and jointed legs such as crabs and lobsters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "krustasea",
+          "long": "makhluk laut dengan cangkang keras dan kaki bersendi seperti kepiting dan lobster",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243489.jpeg",
+      "simplified": "甲壳动物",
+      "traditional": "甲殼動物",
+      "pinyin": "jiǎqiào dòng wù"
+    },
+    {
+      "id": 243490,
+      "translation": {
+        "en": {
+          "short": "arachnid",
+          "long": "a class of terrestrial arthropods that breathe air and have four pairs of limbs, such as spiders, scorpions, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arachnid",
+          "long": "Kelas arthropoda terestrial yang menghirup udara dan memiliki empat pasang anggota badan, seperti laba -laba, kalajengking, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243490.jpeg",
+      "simplified": "蛛形纲动物",
+      "traditional": "蛛形綱動物",
+      "pinyin": "zhūxíng gāng dòngwù"
+    },
+    {
+      "id": 243491,
+      "translation": {
+        "en": {
+          "short": "tapeworm",
+          "long": "a parasitic flatworm that is shaped like a ribbon and lives in the intestines of mammals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cacing pita",
+          "long": "Cacing datar parasit yang berbentuk seperti pita dan tinggal di usus mamalia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243491.jpeg",
+      "simplified": "绦虫",
+      "traditional": "絛蟲",
+      "pinyin": "tāochóng"
+    },
+    {
+      "id": 243492,
+      "translation": {
+        "en": {
+          "short": "silverfish",
+          "long": "a small wingless insect that is silvery and nocturnal, which feeds on paper products or clothing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gegat",
+          "long": "Serangga kecil tanpa sayap yang keperakan dan malam hari, yang memakan produk atau pakaian kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243492.jpeg",
+      "simplified": "蠹虫",
+      "traditional": "蠹蟲",
+      "pinyin": "dùchóng"
+    },
+    {
+      "id": 243493,
+      "translation": {
+        "en": {
+          "short": "arthropod",
+          "long": "an invertebrate animal with a segmented body and a chitinous exoskeleton, such as a spider, crab, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arthropod",
+          "long": "Hewan invertebrata dengan tubuh tersegmentasi dan exoskeleton chitinous, seperti laba -laba, kepiting, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243493.jpeg",
+      "simplified": "节肢动物",
+      "traditional": "節肢動物",
+      "pinyin": "jiézhī dòng wù"
+    },
+    {
+      "id": 243494,
+      "translation": {
+        "en": {
+          "short": "centipede",
+          "long": "an arthropod with many pairs of legs and a pair of poisonous fangs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lipan",
+          "long": "Sebuah arthropoda dengan banyak pasang kaki dan sepasang taring beracun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243494.jpeg",
+      "simplified": "蜈",
+      "traditional": "蜈",
+      "pinyin": "wú"
+    },
+    {
+      "id": 243501,
+      "translation": {
+        "en": {
+          "short": "chrysalis",
+          "long": "the stage of the metamorphosis that comes between the larval and adult stages of a moth or butterfly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepompong",
+          "long": "Tahap metamorfosis yang datang antara tahap larva dan dewasa dari ngengat atau kupu -kupu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243501.jpeg",
+      "simplified": "蛹",
+      "traditional": "蛹",
+      "pinyin": "yǒng"
+    },
+    {
+      "id": 243495,
+      "translation": {
+        "en": {
+          "short": "cocoon",
+          "long": "a silky covering that the larvae of some insects make around themselves during metamorphosis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepompong",
+          "long": "Sebuah penutup sutra bahwa larva beberapa serangga membuat di sekitar diri mereka selama metamorfosis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243495.jpeg",
+      "simplified": "茧",
+      "traditional": "繭",
+      "pinyin": "jiǎn"
+    },
+    {
+      "id": 243497,
+      "translation": {
+        "en": {
+          "short": "larva",
+          "long": "a young form of an insect or an animal that has come out of the egg but has not yet developed into an adult",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "larva",
+          "long": "bentuk muda serangga atau hewan yang keluar dari telur tetapi belum berkembang menjadi orang dewasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243497.jpeg",
+      "simplified": "幼虫",
+      "traditional": "幼蟲",
+      "pinyin": "yòuchóng"
+    },
+    {
+      "id": 243496,
+      "translation": {
+        "en": {
+          "short": "exoskeleton",
+          "long": "the hard outer covering that supports the body of an animal, such as an arthropod",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Exoskeleton",
+          "long": "Penutup luar yang keras yang mendukung tubuh binatang, seperti arthropoda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243496.jpeg",
+      "simplified": "外骨骼",
+      "traditional": "外骨骼",
+      "pinyin": "wàigǔ gé"
+    },
+    {
+      "id": 243498,
+      "translation": {
+        "en": {
+          "short": "louse",
+          "long": "a small parasitic insect that lives and feeds on the body of warm-blooded animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kutu",
+          "long": "Serangga parasit kecil yang hidup dan memakan tubuh hewan berdarah panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243498.jpeg",
+      "simplified": "虱",
+      "traditional": "蝨",
+      "pinyin": "shī"
+    },
+    {
+      "id": 243499,
+      "translation": {
+        "en": {
+          "short": "mollusk",
+          "long": "any invertebrate that lives in aquatic or damp habitats and has a soft unsegmented body, often covered with a shell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "moluska",
+          "long": "Setiap invertebrata yang hidup di habitat akuatik atau lembab dan memiliki tubuh yang tidak divermentasi lembut, sering ditutupi dengan cangkang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243499.jpeg",
+      "simplified": "软体动物",
+      "traditional": "軟體動物",
+      "pinyin": "ruǎntǐ dòng wù"
+    },
+    {
+      "id": 243500,
+      "translation": {
+        "en": {
+          "short": "leech",
+          "long": "a parasitic or predatory worm of the annelid family that lives in freshwaters and drinks blood by attaching itself to its prey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lintah",
+          "long": "Cacing parasit atau predator dari keluarga Annelid yang tinggal di watwater dan minum darah dengan melampirkan dirinya pada mangsanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243500.jpeg",
+      "simplified": "水蛭",
+      "traditional": "水蛭",
+      "pinyin": "shuǐzhì"
+    }
+  ]
+}

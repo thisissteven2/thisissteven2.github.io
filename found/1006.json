@@ -1,0 +1,735 @@
+{
+  "id": 1006,
+  "title": {
+    "en": "Politics",
+    "id": "Politik"
+  },
+  "description": {
+    "en": "Here you will learn some English words about politics, such as \"electoral\", \"coalition\", \"bilateral\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang politik, seperti \"pemilihan\", \"koalisi\", \"bilateral\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 243869,
+      "translation": {
+        "en": {
+          "short": "candidacy",
+          "long": "the fact or condition of being a candidate in an election",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencalonan",
+          "long": "fakta atau kondisi menjadi kandidat dalam pemilihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243869.jpeg",
+      "simplified": "候选资格",
+      "traditional": "候選資格",
+      "pinyin": "hòuxuǎn zīgé"
+    },
+    {
+      "id": 243897,
+      "translation": {
+        "en": {
+          "short": "electoral",
+          "long": "related to voting, elections, or the process of choosing representatives through voting mechanisms",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Pemilihan",
+          "long": "terkait dengan pemungutan suara, pemilihan, atau proses memilih perwakilan melalui mekanisme pemungutan suara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243897.jpeg",
+      "simplified": "与选举有关的",
+      "traditional": "與選舉有關的",
+      "pinyin": "yú xuǎnjǔ yǒuguān de"
+    },
+    {
+      "id": 243912,
+      "translation": {
+        "en": {
+          "short": "parliamentary",
+          "long": "relating to a form of government where the legislature, known as parliament, has significant control over making laws and monitoring the government",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "parlementer",
+          "long": "berkaitan dengan bentuk pemerintahan di mana legislatif, yang dikenal sebagai parlemen, memiliki kontrol yang signifikan atas membuat undang -undang dan memantau pemerintah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243912.jpeg",
+      "simplified": "议会",
+      "traditional": "議會",
+      "pinyin": "yìhuì"
+    },
+    {
+      "id": 243901,
+      "translation": {
+        "en": {
+          "short": "congressional",
+          "long": "relating to the United States Congress, which makes laws and oversees the government",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Kongres",
+          "long": "Berkaitan dengan Kongres Amerika Serikat, yang membuat undang -undang dan mengawasi pemerintah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243901.jpeg",
+      "simplified": "国会的",
+      "traditional": "國會的",
+      "pinyin": "Guóhuì de"
+    },
+    {
+      "id": 243899,
+      "translation": {
+        "en": {
+          "short": "electoral college",
+          "long": "(in the US) a group of people who represent American citizens in all of the states and who formally cast votes to elect the president and vice president",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perguruan Tinggi Pemilihan",
+          "long": "(Di AS) Sekelompok orang yang mewakili warga negara Amerika di seluruh negara bagian dan yang secara resmi memberikan suara untuk memilih Presiden dan Wakil Presiden",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243899.jpeg",
+      "simplified": "选举团",
+      "traditional": "選舉團",
+      "pinyin": "Xuǎnjǔ tuán"
+    },
+    {
+      "id": 243900,
+      "translation": {
+        "en": {
+          "short": "constituency",
+          "long": "a group of people in a specific area who elect a representative to a legislative position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daerah pemilihan",
+          "long": "sekelompok orang di bidang tertentu yang memilih perwakilan untuk posisi legislatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243900.jpeg",
+      "simplified": "顾客",
+      "traditional": "顧客",
+      "pinyin": "gùkè"
+    },
+    {
+      "id": 243861,
+      "translation": {
+        "en": {
+          "short": "absentee ballot",
+          "long": "a ballot filled out and mailed in advance of an election by a voter who is not able to attend the polls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Surat suara yang absen",
+          "long": "pemungutan suara yang diisi dan dikirim sebelum pemilihan oleh seorang pemilih yang tidak dapat menghadiri pemilihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243861.jpeg",
+      "simplified": "缺席选票",
+      "traditional": "缺席選票",
+      "pinyin": "quēxí xuǎnpiào"
+    },
+    {
+      "id": 243876,
+      "translation": {
+        "en": {
+          "short": "chancellor",
+          "long": "the head of state in some countries, like Germany",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanselir",
+          "long": "Kepala Negara di beberapa negara, seperti Jerman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243876.jpeg",
+      "simplified": "校长",
+      "traditional": "校長",
+      "pinyin": "xiàozhǎng"
+    },
+    {
+      "id": 243844,
+      "translation": {
+        "en": {
+          "short": "activism",
+          "long": "the action of striving to bring about social or political reform, especially as a member of an organization with specific objectives",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aktivisme",
+          "long": "Tindakan berusaha untuk menghasilkan reformasi sosial atau politik, terutama sebagai anggota organisasi dengan tujuan spesifik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243844.jpeg",
+      "simplified": "社会或政治改革",
+      "traditional": "社會或政治改革",
+      "pinyin": "shèhuì huò zhèngzhì gǎi gé"
+    },
+    {
+      "id": 243845,
+      "translation": {
+        "en": {
+          "short": "coalition",
+          "long": "an alliance between two or more countries or between political parties when forming a government or during elections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koalisi",
+          "long": "Aliansi antara dua atau lebih negara atau antara partai politik saat membentuk pemerintahan atau selama pemilihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243845.jpeg",
+      "simplified": "联盟",
+      "traditional": "聯盟",
+      "pinyin": "liánméng"
+    },
+    {
+      "id": 243851,
+      "translation": {
+        "en": {
+          "short": "referendum",
+          "long": "the process by which all the people of a country have the opportunity to vote on a single political question",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "referendum",
+          "long": "Proses yang dengannya semua orang di suatu negara memiliki kesempatan untuk memberikan suara pada satu pertanyaan politik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243851.jpeg",
+      "simplified": "公投",
+      "traditional": "公投",
+      "pinyin": "gōngtóu"
+    },
+    {
+      "id": 243908,
+      "translation": {
+        "en": {
+          "short": "inauguration",
+          "long": "a formal ceremony at which a person is admitted to office",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inaugurasi",
+          "long": "upacara formal di mana seseorang dirawat di kantor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243908.jpeg",
+      "simplified": "就职典礼",
+      "traditional": "就職典禮",
+      "pinyin": "jiùzhí diǎn lǐ"
+    },
+    {
+      "id": 243866,
+      "translation": {
+        "en": {
+          "short": "bilateral",
+          "long": "concerning two groups or countries",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bilateral",
+          "long": "tentang dua kelompok atau negara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243866.jpeg",
+      "simplified": "双边",
+      "traditional": "雙邊",
+      "pinyin": "shuāngbiān"
+    },
+    {
+      "id": 243871,
+      "translation": {
+        "en": {
+          "short": "capitol",
+          "long": "a building in Washington DC where the Congress assembles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Capitol",
+          "long": "Sebuah bangunan di Washington DC di mana Kongres berkumpul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243871.jpeg",
+      "simplified": "国会大厦",
+      "traditional": "國會大廈",
+      "pinyin": "guóhuì dà shà"
+    },
+    {
+      "id": 243864,
+      "translation": {
+        "en": {
+          "short": "apolitical",
+          "long": "having no interest or involvement in politics",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "apolitis",
+          "long": "tidak memiliki minat atau keterlibatan dalam politik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243864.jpeg",
+      "simplified": "非政治性的",
+      "traditional": "非政治性的",
+      "pinyin": "Fēi zhèngzhì xìng de"
+    },
+    {
+      "id": 243847,
+      "translation": {
+        "en": {
+          "short": "autonomy",
+          "long": "(of a country, region, etc.) the state of being independent and free from external control",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "otonomi",
+          "long": "(dari suatu negara, wilayah, dll.) Keadaan mandiri dan bebas dari kontrol eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243847.jpeg",
+      "simplified": "独立",
+      "traditional": "獨立",
+      "pinyin": "dúlì"
+    },
+    {
+      "id": 243849,
+      "translation": {
+        "en": {
+          "short": "autonomous",
+          "long": "(of countries, organizations, regions, etc.) not governed by another force, and is in control of itself",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "otonom",
+          "long": "(Negara, organisasi, wilayah, dll.) Tidak diatur oleh kekuatan lain, dan mengendalikan dirinya sendiri",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243849.jpeg",
+      "simplified": "自主性",
+      "traditional": "自主性",
+      "pinyin": "zìzhǔ xìng"
+    },
+    {
+      "id": 243850,
+      "translation": {
+        "en": {
+          "short": "secularism",
+          "long": "the doctrine that separates the state from religious associations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekularisme",
+          "long": "doktrin yang memisahkan negara dari asosiasi agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243850.jpeg",
+      "simplified": "世俗主义",
+      "traditional": "世俗主義",
+      "pinyin": "shìsú zhǔyì"
+    },
+    {
+      "id": 243852,
+      "translation": {
+        "en": {
+          "short": "capitalism",
+          "long": "an economic and political system in which industry, businesses, and properties belong to the private sector rather than the government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapitalisme",
+          "long": "Sistem ekonomi dan politik di mana industri, bisnis, dan properti milik sektor swasta daripada pemerintah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243852.jpeg",
+      "simplified": "资本主义",
+      "traditional": "資本主義",
+      "pinyin": "zīběn zhǔ yì"
+    },
+    {
+      "id": 243859,
+      "translation": {
+        "en": {
+          "short": "liberalism",
+          "long": "the political belief that promotes personal freedom, democracy, gradual changes in society, and free trade",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liberalisme",
+          "long": "Keyakinan politik yang mempromosikan kebebasan pribadi, demokrasi, perubahan bertahap dalam masyarakat, dan perdagangan bebas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243859.jpeg",
+      "simplified": "自由主义",
+      "traditional": "自由主義",
+      "pinyin": "zìyóu zhǔ yì"
+    },
+    {
+      "id": 243853,
+      "translation": {
+        "en": {
+          "short": "colonialism",
+          "long": "the practice of gaining total or partial political control over another country, exploiting its resources, and occupying it with settlers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolonialisme",
+          "long": "praktik mendapatkan kontrol politik total atau parsial atas negara lain, mengeksploitasi sumber dayanya, dan mendudukinya dengan pemukim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243853.jpeg",
+      "simplified": "殖民主义",
+      "traditional": "殖民主義",
+      "pinyin": "zhímín zhǔ yì"
+    },
+    {
+      "id": 243856,
+      "translation": {
+        "en": {
+          "short": "isolationism",
+          "long": "the political practice of only being concerned with one's home country and not getting involved in international affairs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isolasionisme",
+          "long": "praktik politik hanya peduli dengan negara asal seseorang dan tidak terlibat dalam urusan internasional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243856.jpeg",
+      "simplified": "孤立主义",
+      "traditional": "孤立主義",
+      "pinyin": "gūlì zhǔyì"
+    },
+    {
+      "id": 243854,
+      "translation": {
+        "en": {
+          "short": "populism",
+          "long": "a type of politics that purports to represent the opinions and desires of ordinary people in order to gain their support",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "populisme",
+          "long": "jenis politik yang dimaksudkan untuk mewakili pendapat dan keinginan orang biasa untuk mendapatkan dukungan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243854.jpeg",
+      "simplified": "https://en.wikipedia.org/wiki/Populism",
+      "traditional": "HTTPS://恩.Wikipedia.org/wiki/populism",
+      "pinyin": "w w P"
+    },
+    {
+      "id": 243860,
+      "translation": {
+        "en": {
+          "short": "fascism",
+          "long": "an extreme right-wing political attitude or system characterized by a strong central government, aggressively promoting one's country or race above others, as well as prohibiting any opposition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fasisme",
+          "long": "Sikap atau sistem politik sayap kanan ekstrem yang ditandai oleh pemerintah pusat yang kuat, secara agresif mempromosikan negara atau ras seseorang di atas yang lain, serta melarang oposisi apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243860.jpeg",
+      "simplified": "黑衫党",
+      "traditional": "黑衫黨",
+      "pinyin": "Hēi shān Dǎng"
+    },
+    {
+      "id": 243855,
+      "translation": {
+        "en": {
+          "short": "oligarchy",
+          "long": "a political system in which a small group of high-powered people control a country or organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "oligarki",
+          "long": "Sistem politik di mana sekelompok kecil orang bertenaga tinggi mengendalikan suatu negara atau organisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243855.jpeg",
+      "simplified": "寡头政治",
+      "traditional": "寡頭政治",
+      "pinyin": "guǎtóu zhèng zhì"
+    },
+    {
+      "id": 243906,
+      "translation": {
+        "en": {
+          "short": "feudalism",
+          "long": "a social and land-owning system in medieval Europe in which people were granted land and protection by a nobleman in exchange, they had to fight and work for him",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "feodalisme",
+          "long": "Sistem sosial dan kepemilikan tanah di Eropa abad pertengahan di mana orang diberikan tanah dan perlindungan oleh seorang bangsawan sebagai gantinya, mereka harus bertarung dan bekerja untuknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243906.jpeg",
+      "simplified": "封建",
+      "traditional": "封建",
+      "pinyin": "fēngjiàn"
+    },
+    {
+      "id": 243857,
+      "translation": {
+        "en": {
+          "short": "idealism",
+          "long": "the belief in or pursuit of high principles, values, or ideals, often with a focus on the potential for perfection or improvement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "idealisme",
+          "long": "Keyakinan pada atau mengejar prinsip, nilai, atau cita -cita tinggi, seringkali dengan fokus pada potensi kesempurnaan atau peningkatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243857.jpeg",
+      "simplified": "唯心主义",
+      "traditional": "唯心主義",
+      "pinyin": "wéixīn zhǔ yì"
+    },
+    {
+      "id": 243898,
+      "translation": {
+        "en": {
+          "short": "demagogue",
+          "long": "a politician who appeals to the desires and prejudices of ordinary people instead of valid arguments in order to gain support",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demagog",
+          "long": "seorang politisi yang memohon keinginan dan prasangka orang biasa alih -alih argumen yang valid untuk mendapatkan dukungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243898.jpeg",
+      "simplified": "煽动政治家",
+      "traditional": "煽動政治家",
+      "pinyin": "shāndòng zhèngzhì jiā"
+    },
+    {
+      "id": 243902,
+      "translation": {
+        "en": {
+          "short": "confederation",
+          "long": "an organization that consists of countries, parties, or businesses which have formed an alliance to help one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konfederasi",
+          "long": "organisasi yang terdiri dari negara, partai, atau bisnis yang telah membentuk aliansi untuk saling membantu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243902.jpeg",
+      "simplified": "联盟",
+      "traditional": "聯盟",
+      "pinyin": "liánméng"
+    },
+    {
+      "id": 243904,
+      "translation": {
+        "en": {
+          "short": "federation",
+          "long": "the union of organizations, regions, countries, etc. to form a larger organization or government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "federasi",
+          "long": "Persatuan Organisasi, Wilayah, Negara, dll. Untuk membentuk organisasi atau pemerintah yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243904.jpeg",
+      "simplified": "联邦",
+      "traditional": "聯邦",
+      "pinyin": "liánbāng"
+    },
+    {
+      "id": 243903,
+      "translation": {
+        "en": {
+          "short": "fanatic",
+          "long": "an overenthusiastic individual, especially one who is devoted to a radical political or religious cause",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fanatik",
+          "long": "individu yang terlalu antusias, terutama yang dikhususkan untuk tujuan politik atau agama yang radikal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243903.jpeg",
+      "simplified": "盲信",
+      "traditional": "盲信",
+      "pinyin": "máng xìn"
+    },
+    {
+      "id": 243910,
+      "translation": {
+        "en": {
+          "short": "nationalism",
+          "long": "a strong feeling of love and pride for one's country, often associated with thinking that country is also superior to any other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nasionalisme",
+          "long": "Perasaan cinta dan kebanggaan yang kuat untuk negara seseorang, sering dikaitkan dengan pemikiran bahwa negara itu juga lebih unggul dari yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243910.jpeg",
+      "simplified": "民族独立运动",
+      "traditional": "民族獨立運動",
+      "pinyin": "mínzú dúlì yùndòng"
+    },
+    {
+      "id": 243905,
+      "translation": {
+        "en": {
+          "short": "federalism",
+          "long": "a political system in which a central government controls the affairs of each self-governed state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "federalisme",
+          "long": "sistem politik di mana pemerintah pusat mengendalikan urusan masing-masing negara yang diperintah sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243905.jpeg",
+      "simplified": "联邦制",
+      "traditional": "聯邦制",
+      "pinyin": "liánbāng zhì"
+    },
+    {
+      "id": 243907,
+      "translation": {
+        "en": {
+          "short": "imperialism",
+          "long": "a system in which one country controls or has influence over other countries, often by winning wars against them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "imperialisme",
+          "long": "Suatu sistem di mana satu negara mengendalikan atau memiliki pengaruh terhadap negara lain, seringkali dengan memenangkan perang melawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243907.jpeg",
+      "simplified": "帝国主义",
+      "traditional": "帝國主義",
+      "pinyin": "dìguó zhǔ yì"
+    },
+    {
+      "id": 243909,
+      "translation": {
+        "en": {
+          "short": "to lobby",
+          "long": "to make an attempt to persuade politicians to agree or disagree with a law being made or changed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke lobi",
+          "long": "untuk berusaha membujuk para politisi untuk menyetujui atau tidak setuju dengan undang -undang yang dibuat atau diubah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243909.jpeg",
+      "simplified": "游说",
+      "traditional": "遊說",
+      "pinyin": "yóushuì"
+    },
+    {
+      "id": 243911,
+      "translation": {
+        "en": {
+          "short": "nonpartisan",
+          "long": "being politically neutral, unbiased, and not supporting any particular party",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "non -partisan",
+          "long": "secara politis netral, tidak memihak, dan tidak mendukung partai tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243911.jpeg",
+      "simplified": "无党派",
+      "traditional": "無黨派",
+      "pinyin": "wúdǎng pài"
+    },
+    {
+      "id": 243913,
+      "translation": {
+        "en": {
+          "short": "rally",
+          "long": "a large gathering of the public, especially those supporting a particular political idea or party",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rapat umum",
+          "long": "pertemuan besar masyarakat, terutama mereka yang mendukung ide politik atau partai tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243913.jpeg",
+      "simplified": "集会",
+      "traditional": "集會",
+      "pinyin": "jíhuì"
+    },
+    {
+      "id": 243914,
+      "translation": {
+        "en": {
+          "short": "utopia",
+          "long": "an imaginary state or location where everything is perfect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "utopia",
+          "long": "keadaan imajiner atau lokasi di mana semuanya sempurna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243914.jpeg",
+      "simplified": "一切都很理想的地方",
+      "traditional": "一切都很理想的地方",
+      "pinyin": "yīqiè Dū hěn lǐxiǎng de dìfāng"
+    }
+  ]
+}

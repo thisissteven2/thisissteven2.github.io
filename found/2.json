@@ -1,0 +1,564 @@
+{
+  "id": 2,
+  "title": {
+    "en": "Numbers 0 to 100",
+    "id": "Angka 0 hingga 100"
+  },
+  "description": {
+    "en": "Here you will learn to count from \"0\" to \"100\" in English, prepared for A1 learners.",
+    "id": "Di sini Anda akan belajar menghitung dari \"0\" ke \"100\" dalam bahasa Inggris, siap untuk pelajar A1."
+  },
+  "cards": [
+    {
+      "id": 220530,
+      "translation": {
+        "en": {
+          "short": "zero",
+          "long": "the number 0",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "nol",
+          "long": "Angka 0",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220530.jpeg",
+      "simplified": "零号",
+      "traditional": "零號",
+      "pinyin": "línghào"
+    },
+    {
+      "id": 220531,
+      "translation": {
+        "en": {
+          "short": "one",
+          "long": "the number 1",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "satu",
+          "long": "Angka 1",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220531.jpeg",
+      "simplified": "第一",
+      "traditional": "第一",
+      "pinyin": "dìyī"
+    },
+    {
+      "id": 220532,
+      "translation": {
+        "en": {
+          "short": "two",
+          "long": "the number 2",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "dua",
+          "long": "angka 2",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220532.jpeg",
+      "simplified": "第二",
+      "traditional": "第二",
+      "pinyin": "dìèr"
+    },
+    {
+      "id": 220533,
+      "translation": {
+        "en": {
+          "short": "three",
+          "long": "the number 3",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tiga",
+          "long": "angka 3",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220533.jpeg",
+      "simplified": "第三",
+      "traditional": "第三",
+      "pinyin": "dì Sān"
+    },
+    {
+      "id": 220534,
+      "translation": {
+        "en": {
+          "short": "four",
+          "long": "the number 4",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "empat",
+          "long": "angka 4",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220534.jpeg",
+      "simplified": "排名第四",
+      "traditional": "排名第四",
+      "pinyin": "páimíng dì sì"
+    },
+    {
+      "id": 220535,
+      "translation": {
+        "en": {
+          "short": "five",
+          "long": "the number 5",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "lima",
+          "long": "angka 5",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220535.jpeg",
+      "simplified": "五",
+      "traditional": "五",
+      "pinyin": "wǔ"
+    },
+    {
+      "id": 220536,
+      "translation": {
+        "en": {
+          "short": "six",
+          "long": "the number 6",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "enam",
+          "long": "angka 6",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220536.jpeg",
+      "simplified": "六号",
+      "traditional": "六號",
+      "pinyin": "liù háo"
+    },
+    {
+      "id": 220537,
+      "translation": {
+        "en": {
+          "short": "seven",
+          "long": "the number 7",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tujuh",
+          "long": "angka 7",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220537.jpeg",
+      "simplified": "七号",
+      "traditional": "七號",
+      "pinyin": "qī háo"
+    },
+    {
+      "id": 220538,
+      "translation": {
+        "en": {
+          "short": "eight",
+          "long": "the number 8",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "delapan",
+          "long": "angka 8",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220538.jpeg",
+      "simplified": "八号",
+      "traditional": "八號",
+      "pinyin": "bā háo"
+    },
+    {
+      "id": 220539,
+      "translation": {
+        "en": {
+          "short": "nine",
+          "long": "the number 9",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "sembilan",
+          "long": "angka 9",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220539.jpeg",
+      "simplified": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ"
+    },
+    {
+      "id": 220540,
+      "translation": {
+        "en": {
+          "short": "ten",
+          "long": "the number 10",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "sepuluh",
+          "long": "angka 10",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220540.jpeg",
+      "simplified": "十号",
+      "traditional": "十號",
+      "pinyin": "shí háo"
+    },
+    {
+      "id": 220541,
+      "translation": {
+        "en": {
+          "short": "eleven",
+          "long": "the number 11",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "sebelas",
+          "long": "angka 11",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220541.jpeg",
+      "simplified": "十一",
+      "traditional": "十一",
+      "pinyin": "ShíYī"
+    },
+    {
+      "id": 220542,
+      "translation": {
+        "en": {
+          "short": "twelve",
+          "long": "the number 12",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "dua belas",
+          "long": "angka 12",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220542.jpeg",
+      "simplified": "十二",
+      "traditional": "十二",
+      "pinyin": "shíèr"
+    },
+    {
+      "id": 220543,
+      "translation": {
+        "en": {
+          "short": "thirteen",
+          "long": "the number 13",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tigabelas",
+          "long": "angka 13",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220543.jpeg",
+      "simplified": "十三",
+      "traditional": "十三",
+      "pinyin": "shísān"
+    },
+    {
+      "id": 220544,
+      "translation": {
+        "en": {
+          "short": "fourteen",
+          "long": "the number 14",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "empat belas",
+          "long": "angka 14",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220544.jpeg",
+      "simplified": "十四号",
+      "traditional": "十四號",
+      "pinyin": "shísì háo"
+    },
+    {
+      "id": 220545,
+      "translation": {
+        "en": {
+          "short": "fifteen",
+          "long": "the number 15",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "limabelas",
+          "long": "angka 15",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220545.jpeg",
+      "simplified": "十五号",
+      "traditional": "十五號",
+      "pinyin": "shíwǔ háo"
+    },
+    {
+      "id": 220546,
+      "translation": {
+        "en": {
+          "short": "sixteen",
+          "long": "the number 16",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "enambelas",
+          "long": "angka 16",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220546.jpeg",
+      "simplified": "十六",
+      "traditional": "十六",
+      "pinyin": "shíliù"
+    },
+    {
+      "id": 220547,
+      "translation": {
+        "en": {
+          "short": "seventeen",
+          "long": "the number 17",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tujuh belas",
+          "long": "angka 17",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220547.jpeg",
+      "simplified": "十七号",
+      "traditional": "十七號",
+      "pinyin": "shíqī háo"
+    },
+    {
+      "id": 220548,
+      "translation": {
+        "en": {
+          "short": "eighteen",
+          "long": "the number 18",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "delapan belas",
+          "long": "angka 18",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220548.jpeg",
+      "simplified": "十八号",
+      "traditional": "十八號",
+      "pinyin": "shíbā háo"
+    },
+    {
+      "id": 220549,
+      "translation": {
+        "en": {
+          "short": "nineteen",
+          "long": "the number 19",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "sembilan belas",
+          "long": "angka 19",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220549.jpeg",
+      "simplified": "十九号",
+      "traditional": "十九號",
+      "pinyin": "shíjiǔ háo"
+    },
+    {
+      "id": 220550,
+      "translation": {
+        "en": {
+          "short": "twenty",
+          "long": "the number 20",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "dua puluh",
+          "long": "angka 20",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220550.jpeg",
+      "simplified": "二十号",
+      "traditional": "二十號",
+      "pinyin": "èrshí háo"
+    },
+    {
+      "id": 220551,
+      "translation": {
+        "en": {
+          "short": "thirty",
+          "long": "the number 30",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tigapuluh",
+          "long": "angka 30",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220551.jpeg",
+      "simplified": "三十号",
+      "traditional": "三十號",
+      "pinyin": "sānshí háo"
+    },
+    {
+      "id": 220552,
+      "translation": {
+        "en": {
+          "short": "forty",
+          "long": "the number 40",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "empat puluh",
+          "long": "angka 40",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220552.jpeg",
+      "simplified": "四十号",
+      "traditional": "四十號",
+      "pinyin": "sìshí háo"
+    },
+    {
+      "id": 220553,
+      "translation": {
+        "en": {
+          "short": "fifty",
+          "long": "the number 50",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "lima puluh",
+          "long": "angka 50",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220553.jpeg",
+      "simplified": "五十号",
+      "traditional": "五十號",
+      "pinyin": "wǔshí háo"
+    },
+    {
+      "id": 220554,
+      "translation": {
+        "en": {
+          "short": "sixty",
+          "long": "the number 60",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "enam puluh",
+          "long": "angka 60",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220554.jpeg",
+      "simplified": "六十号",
+      "traditional": "六十號",
+      "pinyin": "liùshí háo"
+    },
+    {
+      "id": 220555,
+      "translation": {
+        "en": {
+          "short": "seventy",
+          "long": "the number 70",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "tujuh puluh",
+          "long": "Angka 70",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220555.jpeg",
+      "simplified": "七十号",
+      "traditional": "七十號",
+      "pinyin": "qīshí háo"
+    },
+    {
+      "id": 220556,
+      "translation": {
+        "en": {
+          "short": "eighty",
+          "long": "the number 80",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "delapan puluh",
+          "long": "angka 80",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220556.jpeg",
+      "simplified": "八十号",
+      "traditional": "八十號",
+      "pinyin": "bāshí háo"
+    },
+    {
+      "id": 220557,
+      "translation": {
+        "en": {
+          "short": "ninety",
+          "long": "the number 90",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "sembilan puluh",
+          "long": "angka 90",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220557.jpeg",
+      "simplified": "九十号",
+      "traditional": "九十號",
+      "pinyin": "jiǔshí háo"
+    },
+    {
+      "id": 220558,
+      "translation": {
+        "en": {
+          "short": "hundred",
+          "long": "the number 100",
+          "partOfSpeech": "numeral"
+        },
+        "id": {
+          "short": "ratus",
+          "long": "Angka 100",
+          "partOfSpeech": "angka"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220558.jpeg",
+      "simplified": "一百号",
+      "traditional": "一百號",
+      "pinyin": "yī Bǎi háo"
+    }
+  ]
+}

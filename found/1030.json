@@ -1,0 +1,678 @@
+{
+  "id": 1030,
+  "title": {
+    "en": "Mathematics",
+    "id": "Matematika"
+  },
+  "description": {
+    "en": "Here you will learn some English words about mathematics, such as \"factor\", \"radius\", \"infinite\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang matematika, seperti \"faktor\", \"radius\", \"tak terbatas\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 244897,
+      "translation": {
+        "en": {
+          "short": "diameter",
+          "long": "a straight line from one side of a round object, particularly a circle, passing through the center and joining the other side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diameter",
+          "long": "Garis lurus dari satu sisi objek bundar, terutama lingkaran, melewati tengah dan bergabung dengan sisi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244897.jpeg",
+      "simplified": "直径",
+      "traditional": "直徑",
+      "pinyin": "zhíjìng"
+    },
+    {
+      "id": 244914,
+      "translation": {
+        "en": {
+          "short": "radius",
+          "long": "the length of a straight line drawn from the center of a circle to any point on its outer boundary",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radius",
+          "long": "Panjang garis lurus yang ditarik dari pusat lingkaran ke titik mana pun di batas luarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244914.jpeg",
+      "simplified": "半径",
+      "traditional": "半徑",
+      "pinyin": "bànjìng"
+    },
+    {
+      "id": 244915,
+      "translation": {
+        "en": {
+          "short": "ratio",
+          "long": "the relation between two amounts indicating how much larger one value is than the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perbandingan",
+          "long": "Hubungan antara dua jumlah yang menunjukkan seberapa besar nilai satu lebih besar dari yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244915.jpeg",
+      "simplified": "比",
+      "traditional": "比",
+      "pinyin": "Bǐ"
+    },
+    {
+      "id": 244896,
+      "translation": {
+        "en": {
+          "short": "decimal",
+          "long": "(mathematics) a number less than one, called a fraction, that is represented as a period followed by the number of tenths, hundredths, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "desimal",
+          "long": "(Matematika) Angka kurang dari satu, disebut fraksi, yang direpresentasikan sebagai periode diikuti oleh jumlah persepuluh, ratusan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244896.jpeg",
+      "simplified": "小数",
+      "traditional": "小數",
+      "pinyin": "xiǎoshù"
+    },
+    {
+      "id": 244898,
+      "translation": {
+        "en": {
+          "short": "equation",
+          "long": "(mathematics) a statement indicating the equality between two values",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persamaan",
+          "long": "(Matematika) Pernyataan yang menunjukkan kesetaraan antara dua nilai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244898.jpeg",
+      "simplified": "方程",
+      "traditional": "方程",
+      "pinyin": "fāngchéng"
+    },
+    {
+      "id": 244919,
+      "translation": {
+        "en": {
+          "short": "subtraction",
+          "long": "the process or act of taking away one number from another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengurangan",
+          "long": "proses atau tindakan mengambil satu nomor dari yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244919.jpeg",
+      "simplified": "减法",
+      "traditional": "減法",
+      "pinyin": "jiǎnfǎ"
+    },
+    {
+      "id": 244901,
+      "translation": {
+        "en": {
+          "short": "formula",
+          "long": "(mathematics) a rule or law represented in symbols, letters, or numbers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumus",
+          "long": "(Matematika) Peraturan atau hukum yang diwakili dalam simbol, surat, atau angka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244901.jpeg",
+      "simplified": "式",
+      "traditional": "式",
+      "pinyin": "shì"
+    },
+    {
+      "id": 244903,
+      "translation": {
+        "en": {
+          "short": "function",
+          "long": "(mathematics) a quantity whose value changes according to another quantity's varying value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fungsi",
+          "long": "(Matematika) Suatu kuantitas yang nilainya berubah sesuai dengan nilai kuantitas lain yang bervariasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244903.jpeg",
+      "simplified": "函数（数学）",
+      "traditional": "函數（數學）",
+      "pinyin": "hánshù shùxué"
+    },
+    {
+      "id": 244900,
+      "translation": {
+        "en": {
+          "short": "factor",
+          "long": "(mathematics) one of the numbers that another number can be divided by",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "faktor",
+          "long": "(Matematika) Salah satu angka yang dapat dibagi oleh nomor lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244900.jpeg",
+      "simplified": "因数（数学）",
+      "traditional": "因數（數學）",
+      "pinyin": "yīnshù shùxué"
+    },
+    {
+      "id": 244924,
+      "translation": {
+        "en": {
+          "short": "dividend",
+          "long": "(mathematics) the number to be divided in a division problem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dividen",
+          "long": "(Matematika) Jumlah yang akan dibagi dalam masalah divisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244924.jpeg",
+      "simplified": "除以另一个数的数",
+      "traditional": "除以另一個數的數",
+      "pinyin": "chúyǐ lìngyī gèshù de shǔ"
+    },
+    {
+      "id": 244925,
+      "translation": {
+        "en": {
+          "short": "divisor",
+          "long": "(mathematics) the number that divides another number in a division problem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembagi",
+          "long": "(Matematika) Jumlah yang membagi nomor lain dalam masalah divisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244925.jpeg",
+      "simplified": "除数（数学）",
+      "traditional": "除數（數學）",
+      "pinyin": "chúshù shùxué"
+    },
+    {
+      "id": 244907,
+      "translation": {
+        "en": {
+          "short": "mathematical",
+          "long": "related to or used in mathematics",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "matematis",
+          "long": "terkait atau digunakan dalam matematika",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244907.jpeg",
+      "simplified": "数学相关的",
+      "traditional": "數學相關的",
+      "pinyin": "shùxué xiāngguān de"
+    },
+    {
+      "id": 245210,
+      "translation": {
+        "en": {
+          "short": "minimal",
+          "long": "very small in amount or degree, often the smallest possible",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "minimal",
+          "long": "jumlah atau derajat yang sangat kecil, seringkali",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245210.jpeg",
+      "simplified": "最低（数量或程度）",
+      "traditional": "最低（數量或程度）",
+      "pinyin": "zuì dī shùliàng huò chéngdù"
+    },
+    {
+      "id": 244909,
+      "translation": {
+        "en": {
+          "short": "numerical",
+          "long": "represented in numbers",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "numerik",
+          "long": "diwakili dalam angka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244909.jpeg",
+      "simplified": "数值",
+      "traditional": "數值",
+      "pinyin": "shùzhí"
+    },
+    {
+      "id": 245148,
+      "translation": {
+        "en": {
+          "short": "countless",
+          "long": "indicating too many to be counted",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tak terhitung",
+          "long": "menunjukkan terlalu banyak untuk dihitung",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245148.jpeg",
+      "simplified": "无数",
+      "traditional": "無數",
+      "pinyin": "wúshù"
+    },
+    {
+      "id": 245164,
+      "translation": {
+        "en": {
+          "short": "endless",
+          "long": "very great in number, amount, or size and seeming to be without end or limit",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tak ada habisnya",
+          "long": "jumlah, jumlah, atau ukuran yang sangat bagus dan tampaknya tanpa akhir atau batas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245164.jpeg",
+      "simplified": "无尽的",
+      "traditional": "無盡的",
+      "pinyin": "wújìn de"
+    },
+    {
+      "id": 244905,
+      "translation": {
+        "en": {
+          "short": "infinite",
+          "long": "(of a math sequence) having the ability to be continued forever",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tak terbatas",
+          "long": "(dari urutan matematika) memiliki kemampuan untuk dilanjutkan selamanya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244905.jpeg",
+      "simplified": "无穷",
+      "traditional": "無窮",
+      "pinyin": "wúqióng"
+    },
+    {
+      "id": 244910,
+      "translation": {
+        "en": {
+          "short": "ordinal",
+          "long": "a number that indicates the position of something in a sequence, such as third, second, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urut",
+          "long": "Angka yang menunjukkan posisi sesuatu dalam urutan, seperti ketiga, kedua, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244910.jpeg",
+      "simplified": "顺序数",
+      "traditional": "順序數",
+      "pinyin": "shùnxù shù"
+    },
+    {
+      "id": 244895,
+      "translation": {
+        "en": {
+          "short": "bracket",
+          "long": "each of the two symbols [ ] used to indicate that the enclosed numbers or words should be considered separately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengurung",
+          "long": "Masing -masing dari dua simbol [] digunakan untuk menunjukkan bahwa angka atau kata terlampir harus dipertimbangkan secara terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244895.jpeg",
+      "simplified": "托架",
+      "traditional": "托架",
+      "pinyin": "tuōjià"
+    },
+    {
+      "id": 244917,
+      "translation": {
+        "en": {
+          "short": "segment",
+          "long": "(geometry) a part of a circle that is separated from the rest by a line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segmen",
+          "long": "(Geometri) Bagian dari lingkaran yang dipisahkan dari yang lain oleh garis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244917.jpeg",
+      "simplified": "圆弧段",
+      "traditional": "圓弧段",
+      "pinyin": "yuánhú Duàn"
+    },
+    {
+      "id": 244918,
+      "translation": {
+        "en": {
+          "short": "solid",
+          "long": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padat",
+          "long": "(Geometri) Bentuk yang bukan dua dimensi karena memiliki tinggi, lebar, dan panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244918.jpeg",
+      "simplified": "3d 形状",
+      "traditional": "3d 形狀",
+      "pinyin": "xíngzhuàng"
+    },
+    {
+      "id": 244899,
+      "translation": {
+        "en": {
+          "short": "to express",
+          "long": "(mathematics) to indicate something by a formula, symbol, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengekspresikan",
+          "long": "(Matematika) Untuk menunjukkan sesuatu dengan formula, simbol, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244899.jpeg",
+      "simplified": "表达（通过数学公式）",
+      "traditional": "表達（通過數學公式）",
+      "pinyin": "biǎodá tōngguò shùxué gōng shì"
+    },
+    {
+      "id": 244920,
+      "translation": {
+        "en": {
+          "short": "to total",
+          "long": "to add up numbers or quantities to find the overall amount",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "total",
+          "long": "untuk menambahkan angka atau jumlah untuk menemukan jumlah keseluruhan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244920.jpeg",
+      "simplified": "添加（数字）",
+      "traditional": "添加（數字）",
+      "pinyin": "tiānjiā shùzì"
+    },
+    {
+      "id": 244908,
+      "translation": {
+        "en": {
+          "short": "metric system",
+          "long": "a standard of measurement that is based on the kilogram, the meter, and the liter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem metrik",
+          "long": "Standar pengukuran yang didasarkan pada kilogram, meter, dan liter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244908.jpeg",
+      "simplified": "公制",
+      "traditional": "公制",
+      "pinyin": "gōngzhì"
+    },
+    {
+      "id": 244927,
+      "translation": {
+        "en": {
+          "short": "barrel",
+          "long": "a unit for measuring oil and beer that equals 42 US gallons or 35 imperial gallons for oil and 36 imperial gallons for beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "barel",
+          "long": "Unit untuk mengukur minyak dan bir yang sama dengan 42 galon AS atau 35 galon kekaisaran untuk minyak dan 36 galon kekaisaran untuk bir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244927.jpeg",
+      "simplified": "相当于一桶的量",
+      "traditional": "相當於一桶的量",
+      "pinyin": "xiāngdāng yú yī tǒng de liáng"
+    },
+    {
+      "id": 244904,
+      "translation": {
+        "en": {
+          "short": "hectare",
+          "long": "a land measurement unit that equals 10000 square meters or 2471 acres",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hektar",
+          "long": "unit pengukuran lahan yang sama dengan 10000 meter persegi atau 2471 hektar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244904.jpeg",
+      "simplified": "公顷",
+      "traditional": "公頃",
+      "pinyin": "gōngqǐng"
+    },
+    {
+      "id": 244928,
+      "translation": {
+        "en": {
+          "short": "horsepower",
+          "long": "a unit for measuring an engine's power",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daya kuda",
+          "long": "unit untuk mengukur tenaga mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244928.jpeg",
+      "simplified": "马力",
+      "traditional": "馬力",
+      "pinyin": "mǎlì"
+    },
+    {
+      "id": 244911,
+      "translation": {
+        "en": {
+          "short": "pace",
+          "long": "a measure of length that equals the distance traveled between two steps during a walk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laju",
+          "long": "Ukuran panjang yang sama dengan jarak yang ditempuh antara dua langkah selama berjalan -jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244911.jpeg",
+      "simplified": "步伐",
+      "traditional": "步伐",
+      "pinyin": "bùfá"
+    },
+    {
+      "id": 244912,
+      "translation": {
+        "en": {
+          "short": "pint",
+          "long": "a measure equal to 16 fluid ounces, often used for measuring liquids such as beer or milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pint",
+          "long": "Ukuran yang sama dengan 16 ons cairan, sering digunakan untuk mengukur cairan seperti bir atau susu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244912.jpeg",
+      "simplified": "品脱（体积测量单位）",
+      "traditional": "品脫（體積測量單位）",
+      "pinyin": "pǐntuō tǐjī cèliáng dānwèi"
+    },
+    {
+      "id": 244913,
+      "translation": {
+        "en": {
+          "short": "proof",
+          "long": "a scale for measuring the strength of alcoholic beverages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bukti",
+          "long": "skala untuk mengukur kekuatan minuman beralkohol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244913.jpeg",
+      "simplified": "酒精纯度等级",
+      "traditional": "酒精純度等級",
+      "pinyin": "jiǔjīng chúndù děngjí"
+    },
+    {
+      "id": 244926,
+      "translation": {
+        "en": {
+          "short": "quart",
+          "long": "a unit of volume measurement the United States for liquids, equal to 32 fluid ounces or approximately 946 milliliters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuart",
+          "long": "Unit pengukuran volume Amerika Serikat untuk cairan, sama dengan 32 ons cairan atau sekitar 946 mililiter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244926.jpeg",
+      "simplified": "夸脱（计量单位）",
+      "traditional": "夸脫（計量單位）",
+      "pinyin": "kuā tuō jìliàng dānwèi"
+    },
+    {
+      "id": 244916,
+      "translation": {
+        "en": {
+          "short": "score",
+          "long": "a set or group of twenty or approximately twenty people or things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skor",
+          "long": "sekelompok atau sekelompok dua puluh atau sekitar dua puluh orang atau hal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244916.jpeg",
+      "simplified": "二十个人或事物",
+      "traditional": "二十個人或事物",
+      "pinyin": "èrshí gèrén huò shìwù"
+    },
+    {
+      "id": 384847,
+      "translation": {
+        "en": {
+          "short": "miles per hour",
+          "long": "the distance traveled in miles in relation to the time passed when doing so",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mil per jam",
+          "long": "Jarak menempuh jarak dalam mil sehubungan dengan waktu berlalu saat melakukannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384847.jpeg",
+      "simplified": "英里/小时",
+      "traditional": "英里/小時",
+      "pinyin": "yīnglǐ xiǎoshí"
+    },
+    {
+      "id": 244921,
+      "translation": {
+        "en": {
+          "short": "value",
+          "long": "(mathematics) an amount that is shown by a sign or letter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nilai",
+          "long": "(Matematika) Jumlah yang ditunjukkan oleh tanda atau surat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244921.jpeg",
+      "simplified": "值（数学）",
+      "traditional": "值（數學）",
+      "pinyin": "zhí shùxué"
+    },
+    {
+      "id": 244922,
+      "translation": {
+        "en": {
+          "short": "variable",
+          "long": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "variabel",
+          "long": "(Matematika) Kuantitas yang mampu mengasumsikan nilai yang berbeda dalam suatu perhitungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244922.jpeg",
+      "simplified": "变量（数学）",
+      "traditional": "變量（數學）",
+      "pinyin": "biànliàng shùxué"
+    }
+  ]
+}

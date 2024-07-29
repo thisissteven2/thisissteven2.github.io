@@ -1,0 +1,906 @@
+{
+  "id": 700,
+  "title": {
+    "en": "Unity and Harmony",
+    "id": "Persatuan dan harmoni"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to unity and harmony such as \"positive\", \"quite\", and \"ratify\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan persatuan dan harmoni seperti \"positif\", \"cukup\", dan \"ratifikasi\"."
+  },
+  "cards": [
+    {
+      "id": 231056,
+      "translation": {
+        "en": {
+          "short": "pact",
+          "long": "a formal agreement between parties, particularly to help one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pakta",
+          "long": "kesepakatan formal antara para pihak, terutama untuk saling membantu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231056.jpeg",
+      "simplified": "协议",
+      "traditional": "協定",
+      "pinyin": "xiéyì"
+    },
+    {
+      "id": 231057,
+      "translation": {
+        "en": {
+          "short": "party",
+          "long": "one of the sides in a legal agreement or dispute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berpesta",
+          "long": "salah satu pihak dalam perjanjian hukum atau perselisihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231057.jpeg",
+      "simplified": "党",
+      "traditional": "黨",
+      "pinyin": "Dǎng"
+    },
+    {
+      "id": 231058,
+      "translation": {
+        "en": {
+          "short": "to patch up",
+          "long": "to put an end to an argument with someone in order to make peace with them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menambal",
+          "long": "untuk mengakhiri pertengkaran dengan seseorang untuk berdamai dengan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231058.jpeg",
+      "simplified": "与某人和解",
+      "traditional": "與某人和解",
+      "pinyin": "yú mǒurén héjiě"
+    },
+    {
+      "id": 231059,
+      "translation": {
+        "en": {
+          "short": "peace offering",
+          "long": "an offering made to become friends with someone after upsetting them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Persembahan Damai",
+          "long": "persembahan dibuat untuk berteman dengan seseorang setelah membuat mereka kesal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231059.jpeg",
+      "simplified": "平安祭",
+      "traditional": "平安祭",
+      "pinyin": "píngān Zhài"
+    },
+    {
+      "id": 231061,
+      "translation": {
+        "en": {
+          "short": "point taken",
+          "long": "used to show that one has accepted that someone else's argument or opinion is valid",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "poin diambil",
+          "long": "Digunakan untuk menunjukkan bahwa seseorang telah menerima bahwa argumen atau pendapat orang lain valid",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231061.jpeg",
+      "simplified": "采取的点",
+      "traditional": "採取的點",
+      "pinyin": "cǎiqǔ de diǎn"
+    },
+    {
+      "id": 231062,
+      "translation": {
+        "en": {
+          "short": "positive",
+          "long": "displaying approval, support, or agreement",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "positif",
+          "long": "Menampilkan persetujuan, dukungan, atau perjanjian",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231062.jpeg",
+      "simplified": "积极的",
+      "traditional": "積極的",
+      "pinyin": "jījí de"
+    },
+    {
+      "id": 231063,
+      "translation": {
+        "en": {
+          "short": "positively",
+          "long": "in a way that shows a good or optimistic attitude, expressing approval, joy, or support",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara positif",
+          "long": "dengan cara yang menunjukkan sikap yang baik atau optimis, menyatakan persetujuan, kegembiraan, atau dukungan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231063.jpeg",
+      "simplified": "以积极的方式",
+      "traditional": "以積極的方式",
+      "pinyin": "yǐ jījí de fāngshì"
+    },
+    {
+      "id": 231065,
+      "translation": {
+        "en": {
+          "short": "to [pour] oil on troubled waters",
+          "long": "to say things in order to settle a dispute or disagreement",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [menuangkan] minyak di perairan bermasalah",
+          "long": "untuk mengatakan hal -hal untuk menyelesaikan perselisihan atau ketidaksepakatan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231065.jpeg",
+      "simplified": "平息紧张局势",
+      "traditional": "平息緊張局勢",
+      "pinyin": "píngxī jǐnzhāng júshì"
+    },
+    {
+      "id": 231067,
+      "translation": {
+        "en": {
+          "short": "precisely",
+          "long": "used to express complete agreement",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "dengan tepat",
+          "long": "Digunakan untuk mengungkapkan kesepakatan lengkap",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231067.jpeg",
+      "simplified": "恰恰",
+      "traditional": "恰恰",
+      "pinyin": "qiàqià"
+    },
+    {
+      "id": 231069,
+      "translation": {
+        "en": {
+          "short": "prenuptial agreement",
+          "long": "an agreement between a couple before marriage in which they agree how much of each other's property each will receive upon divorce or death",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjanjian pranikah",
+          "long": "Kesepakatan antara pasangan sebelum menikah di mana mereka setuju berapa banyak properti masing -masing yang akan diterima setelah perceraian atau kematian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231069.jpeg",
+      "simplified": "婚前协议",
+      "traditional": "婚前協議",
+      "pinyin": "hūnqián xiéyì"
+    },
+    {
+      "id": 231071,
+      "translation": {
+        "en": {
+          "short": "protocol",
+          "long": "the original form of an agreement, particularly a treaty between states, etc.; an addition to a treaty or agreement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "protokol",
+          "long": "Bentuk asli dari suatu perjanjian, terutama perjanjian antar negara bagian, dll.; tambahan untuk perjanjian atau perjanjian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231071.jpeg",
+      "simplified": "协议",
+      "traditional": "協定",
+      "pinyin": "xiéyì"
+    },
+    {
+      "id": 231072,
+      "translation": {
+        "en": {
+          "short": "proviso",
+          "long": "a condition that needs accepting before making an agreement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "syarat",
+          "long": "Suatu kondisi yang perlu diterima sebelum membuat kesepakatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231072.jpeg",
+      "simplified": "Proviso",
+      "traditional": "Proviso",
+      "pinyin": "P"
+    },
+    {
+      "id": 231074,
+      "translation": {
+        "en": {
+          "short": "to put aside",
+          "long": "to forget a feeling, disagreement, or dispute",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengesampingkan",
+          "long": "untuk melupakan perasaan, ketidaksepakatan, atau perselisihan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231074.jpeg",
+      "simplified": "放在一边",
+      "traditional": "放在一邊",
+      "pinyin": "fàng zài yībiān"
+    },
+    {
+      "id": 231076,
+      "translation": {
+        "en": {
+          "short": "quite",
+          "long": "used to express agreement",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "lumayan",
+          "long": "Digunakan untuk mengungkapkan perjanjian",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231076.jpeg",
+      "simplified": "相当",
+      "traditional": "相當",
+      "pinyin": "xiāngdāng"
+    },
+    {
+      "id": 231077,
+      "translation": {
+        "en": {
+          "short": "ratification",
+          "long": "the act of validating an agreement by signing it or voting for it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ratifikasi",
+          "long": "tindakan memvalidasi perjanjian dengan menandatanganinya atau memilih untuk itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231077.jpeg",
+      "simplified": "承认",
+      "traditional": "承認",
+      "pinyin": "chéngrèn"
+    },
+    {
+      "id": 231078,
+      "translation": {
+        "en": {
+          "short": "to ratify",
+          "long": "to formally approve a decision, action, etc., typically through an official process or legal means",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meratifikasi",
+          "long": "untuk secara resmi menyetujui keputusan, tindakan, dll., Biasanya melalui proses resmi atau cara hukum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231078.jpeg",
+      "simplified": "批准",
+      "traditional": "批准",
+      "pinyin": "pīzhǔn"
+    },
+    {
+      "id": 231079,
+      "translation": {
+        "en": {
+          "short": "to realign",
+          "long": "to change one's opinions, beliefs, etc. to be like those of another person or group",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyelaraskan kembali",
+          "long": "untuk mengubah pendapat, keyakinan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231079.jpeg",
+      "simplified": "重新调整",
+      "traditional": "重新調整",
+      "pinyin": "chóngxīn tiáozhěng"
+    },
+    {
+      "id": 231082,
+      "translation": {
+        "en": {
+          "short": "realignment",
+          "long": "the action of changing one's opinions, beliefs, etc. to be like those of another person or group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyusunan kembali",
+          "long": "tindakan mengubah pendapat, keyakinan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231082.jpeg",
+      "simplified": "重新调整",
+      "traditional": "重新調整",
+      "pinyin": "chóngxīn tiáozhěng"
+    },
+    {
+      "id": 231083,
+      "translation": {
+        "en": {
+          "short": "reconcilable",
+          "long": "(of disagreements or differences) able to be settled",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat didamaikan",
+          "long": "(ketidaksepakatan atau perbedaan) yang dapat diselesaikan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231083.jpeg",
+      "simplified": "可以调和的",
+      "traditional": "可以調和的",
+      "pinyin": "kěyǐ tiáohé de"
+    },
+    {
+      "id": 231084,
+      "translation": {
+        "en": {
+          "short": "to reconcile",
+          "long": "to make a person become friendly again with another after ending a disagreement or dispute",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendamaikan",
+          "long": "untuk membuat seseorang menjadi ramah lagi dengan orang lain setelah mengakhiri perselisihan atau perselisihan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231084.jpeg",
+      "simplified": "调和",
+      "traditional": "調和",
+      "pinyin": "tiáohé"
+    },
+    {
+      "id": 231085,
+      "translation": {
+        "en": {
+          "short": "reconciliation",
+          "long": "the act of becoming friendly with someone once more after ending a disagreement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rekonsiliasi",
+          "long": "tindakan menjadi ramah dengan seseorang sekali lagi setelah mengakhiri perselisihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231085.jpeg",
+      "simplified": "和解",
+      "traditional": "和解",
+      "pinyin": "héjiě"
+    },
+    {
+      "id": 231086,
+      "translation": {
+        "en": {
+          "short": "resolution",
+          "long": "the act of resolving a problem or disagreement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resolusi",
+          "long": "tindakan menyelesaikan masalah atau ketidaksepakatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231086.jpeg",
+      "simplified": "决议",
+      "traditional": "決議",
+      "pinyin": "juéyì"
+    },
+    {
+      "id": 231087,
+      "translation": {
+        "en": {
+          "short": "to resolve",
+          "long": "(of a meeting, committee, etc.) to come to a decision through a formal vote",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyelesaikan",
+          "long": "(dari pertemuan, komite, dll.) Untuk mengambil keputusan melalui pemungutan suara formal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231087.jpeg",
+      "simplified": "解决",
+      "traditional": "解決",
+      "pinyin": "jiějué"
+    },
+    {
+      "id": 231089,
+      "translation": {
+        "en": {
+          "short": "right",
+          "long": "used to show one's agreement",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Kanan",
+          "long": "Digunakan untuk menunjukkan kesepakatan seseorang",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231089.jpeg",
+      "simplified": "同意",
+      "traditional": "同意",
+      "pinyin": "tóngyì"
+    },
+    {
+      "id": 232189,
+      "translation": {
+        "en": {
+          "short": "right on",
+          "long": "used to show one's strong support or approval",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Tepat di",
+          "long": "digunakan untuk menunjukkan dukungan atau persetujuan yang kuat",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232189.jpeg",
+      "simplified": "就在",
+      "traditional": "就在",
+      "pinyin": "jiù zài"
+    },
+    {
+      "id": 231090,
+      "translation": {
+        "en": {
+          "short": "to seal",
+          "long": "to finalize a contract, deal, or agreement",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyegel",
+          "long": "untuk menyelesaikan kontrak, kesepakatan, atau kesepakatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231090.jpeg",
+      "simplified": "达成协议",
+      "traditional": "達成協議",
+      "pinyin": "dáchéng xié yì"
+    },
+    {
+      "id": 231091,
+      "translation": {
+        "en": {
+          "short": "to settle",
+          "long": "to bring a dispute or disagreement to an end",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyelesaikan",
+          "long": "untuk mengakhiri perselisihan atau ketidaksepakatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231091.jpeg",
+      "simplified": "解决",
+      "traditional": "解決",
+      "pinyin": "jiějué"
+    },
+    {
+      "id": 231092,
+      "translation": {
+        "en": {
+          "short": "settlement",
+          "long": "an official agreement that puts an end to a dispute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hunian",
+          "long": "perjanjian resmi yang mengakhiri perselisihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231092.jpeg",
+      "simplified": "官方协议",
+      "traditional": "官方協議",
+      "pinyin": "guānfāng xiéyì"
+    },
+    {
+      "id": 231094,
+      "translation": {
+        "en": {
+          "short": "to shake on",
+          "long": "to shake hands as an act of agreement",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengguncang",
+          "long": "untuk berjabat tangan sebagai tindakan kesepakatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231094.jpeg",
+      "simplified": "摇动",
+      "traditional": "搖動",
+      "pinyin": "yáodòng"
+    },
+    {
+      "id": 231097,
+      "translation": {
+        "en": {
+          "short": "shoulder to shoulder",
+          "long": "together working toward a shared aim",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "bahu-membahu",
+          "long": "bersama -sama bekerja menuju tujuan bersama",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231097.jpeg",
+      "simplified": "合作实现共同目标",
+      "traditional": "合作實現共同目標",
+      "pinyin": "hézuò shíxiàn gòngtóng mùbiāo"
+    },
+    {
+      "id": 231099,
+      "translation": {
+        "en": {
+          "short": "to side with",
+          "long": "to support a person or group against someone else in a fight or argument",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke samping dengan",
+          "long": "untuk mendukung seseorang atau kelompok melawan orang lain dalam pertarungan atau argumen",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231099.jpeg",
+      "simplified": "靠拢",
+      "traditional": "靠攏",
+      "pinyin": "kàolǒng"
+    },
+    {
+      "id": 231100,
+      "translation": {
+        "en": {
+          "short": "to sign",
+          "long": "to write one's name or mark on a document to indicate acceptance, approval, or endorsement of its contents",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menandatangani",
+          "long": "untuk menulis nama atau tanda seseorang pada dokumen untuk menunjukkan penerimaan, persetujuan, atau pengesahan isinya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231100.jpeg",
+      "simplified": "签名（文件或类似的东西）",
+      "traditional": "簽名（文件或類似的東西）",
+      "pinyin": "qiānmíng wénjiàn huò lèisì de dōngxī"
+    },
+    {
+      "id": 231101,
+      "translation": {
+        "en": {
+          "short": "signatory",
+          "long": "a person, organization, or country that has signed a formal agreement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penandatangan",
+          "long": "seseorang, organisasi, atau negara yang telah menandatangani perjanjian formal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231101.jpeg",
+      "simplified": "签字人",
+      "traditional": "簽字人",
+      "pinyin": "qiānzì rén"
+    },
+    {
+      "id": 231102,
+      "translation": {
+        "en": {
+          "short": "to sign on",
+          "long": "to sign a contract agreeing to work for someone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk masuk",
+          "long": "untuk menandatangani kontrak yang setuju untuk bekerja untuk seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231102.jpeg",
+      "simplified": "登录",
+      "traditional": "登入",
+      "pinyin": "dēnglù"
+    },
+    {
+      "id": 231104,
+      "translation": {
+        "en": {
+          "short": "to sign up",
+          "long": "to sign a contract agreeing to do a job",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendaftar",
+          "long": "untuk menandatangani kontrak yang setuju untuk melakukan pekerjaan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231104.jpeg",
+      "simplified": "签订合同",
+      "traditional": "簽訂合同",
+      "pinyin": "qiāndìng hétong"
+    },
+    {
+      "id": 231107,
+      "translation": {
+        "en": {
+          "short": "to [sink] {one's} differences",
+          "long": "to put aside disagreements",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [sink] {One's} perbedaan",
+          "long": "untuk mengesampingkan ketidaksepakatan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231107.jpeg",
+      "simplified": "消除分歧",
+      "traditional": "消除分歧",
+      "pinyin": "xiāochú fēnqí"
+    },
+    {
+      "id": 231111,
+      "translation": {
+        "en": {
+          "short": "solid",
+          "long": "fully in agreement; approved of by all",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "padat",
+          "long": "sepenuhnya setuju; disetujui oleh semua",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231111.jpeg",
+      "simplified": "坚硬的",
+      "traditional": "堅硬的",
+      "pinyin": "jiānyìng de"
+    },
+    {
+      "id": 231112,
+      "translation": {
+        "en": {
+          "short": "solidarity",
+          "long": "the support given by the members of a group to each other because of sharing the same opinions, feelings, goals, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "solidaritas",
+          "long": "Dukungan yang diberikan oleh anggota kelompok satu sama lain karena berbagi pendapat, perasaan, tujuan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231112.jpeg",
+      "simplified": "团结",
+      "traditional": "團結",
+      "pinyin": "tuánjié"
+    },
+    {
+      "id": 231114,
+      "translation": {
+        "en": {
+          "short": "sounds like a plan",
+          "long": "used to show agreement with a suggestion",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "kedengaranya seperti sebuah rencana",
+          "long": "digunakan untuk menunjukkan kesepakatan dengan saran",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231114.jpeg",
+      "simplified": "听起来像是个计划",
+      "traditional": "聽起來像是個計劃",
+      "pinyin": "tīngqi lai xiàng shì gě jìhuà"
+    },
+    {
+      "id": 231116,
+      "translation": {
+        "en": {
+          "short": "to stand up and be counted",
+          "long": "to publicly express one's agreement or support for someone or something",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk berdiri dan dihitung",
+          "long": "untuk mengekspresikan perjanjian atau dukungan seseorang secara terbuka untuk seseorang atau sesuatu",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231116.jpeg",
+      "simplified": "站起来并被计数",
+      "traditional": "站起來並被計數",
+      "pinyin": "zhànqǐ lai bìng bèi jìshù"
+    },
+    {
+      "id": 231119,
+      "translation": {
+        "en": {
+          "short": "to strike a bargain",
+          "long": "to make an agreement that involves both parties doing something for one another",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk melakukan tawar -menawar",
+          "long": "untuk membuat kesepakatan yang melibatkan kedua belah pihak melakukan sesuatu untuk satu sama lain",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231119.jpeg",
+      "simplified": "成交",
+      "traditional": "成交",
+      "pinyin": "chéngjiāo"
+    },
+    {
+      "id": 231120,
+      "translation": {
+        "en": {
+          "short": "submission",
+          "long": "the state or act of accepting defeat and not having a choice but to obey the person in the position of power",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyerahan",
+          "long": "Negara atau tindakan menerima kekalahan dan tidak memiliki pilihan selain mematuhi orang tersebut dalam posisi berkuasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231120.jpeg",
+      "simplified": "投降",
+      "traditional": "投降",
+      "pinyin": "tóuxiáng"
+    },
+    {
+      "id": 231122,
+      "translation": {
+        "en": {
+          "short": "to subscribe to",
+          "long": "to support or agree with an idea, opinion, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlangganan",
+          "long": "untuk mendukung atau menyetujui ide, pendapat, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231122.jpeg",
+      "simplified": "订阅",
+      "traditional": "訂閱",
+      "pinyin": "dìngyuè"
+    },
+    {
+      "id": 231124,
+      "translation": {
+        "en": {
+          "short": "surely",
+          "long": "used as a positive response to something",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pasti",
+          "long": "digunakan sebagai respons positif terhadap sesuatu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231124.jpeg",
+      "simplified": "一定",
+      "traditional": "一定",
+      "pinyin": "yīdìng"
+    },
+    {
+      "id": 231125,
+      "translation": {
+        "en": {
+          "short": "sympathetic",
+          "long": "displaying support or approval",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "simpatik",
+          "long": "Menampilkan dukungan atau persetujuan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231125.jpeg",
+      "simplified": "富有同情心的",
+      "traditional": "富有同情心的",
+      "pinyin": "fùyǒu tóngqíng xīn de"
+    },
+    {
+      "id": 231126,
+      "translation": {
+        "en": {
+          "short": "sympathetically",
+          "long": "in a manner that displays support or understanding",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "dengan simpatik",
+          "long": "dengan cara yang menampilkan dukungan atau pemahaman",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231126.jpeg",
+      "simplified": "同情地",
+      "traditional": "同情地",
+      "pinyin": "tóngqíng de"
+    },
+    {
+      "id": 231127,
+      "translation": {
+        "en": {
+          "short": "to sympathize",
+          "long": "to support and approve of something or someone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersimpati",
+          "long": "untuk mendukung dan menyetujui sesuatu atau seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231127.jpeg",
+      "simplified": "同情",
+      "traditional": "同情",
+      "pinyin": "tóngqíng"
+    }
+  ]
+}

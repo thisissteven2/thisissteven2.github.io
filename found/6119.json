@@ -1,0 +1,1153 @@
+{
+  "id": 6119,
+  "title": {
+    "en": "Public Transportation",
+    "id": "Kendaraan umum"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to public transportation such as \"bus\", \"train\", and \"station.\"",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan transportasi umum seperti \"bus\", \"kereta\", dan \"stasiun.\""
+  },
+  "cards": [
+    {
+      "id": 406605,
+      "translation": {
+        "en": {
+          "short": "passenger vehicle",
+          "long": "a vehicle designed to transport people rather than goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendaraan penumpang",
+          "long": "kendaraan yang dirancang untuk mengangkut orang daripada barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406605.jpeg",
+      "simplified": "乘用车",
+      "traditional": "乘用車",
+      "pinyin": "chéngyòng chē"
+    },
+    {
+      "id": 406554,
+      "translation": {
+        "en": {
+          "short": "bus",
+          "long": "a large vehicle that carries many passengers by road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bis",
+          "long": "kendaraan besar yang membawa banyak penumpang melalui jalan darat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406554.jpeg",
+      "simplified": "总线",
+      "traditional": "總線",
+      "pinyin": "zǒngxiàn"
+    },
+    {
+      "id": 406556,
+      "translation": {
+        "en": {
+          "short": "bus rapid transit",
+          "long": "a fast and efficient public transportation system with dedicated lanes for buses, modern stations, and streamlined fare collection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bus Transit Cepat",
+          "long": "Sistem transportasi umum yang cepat dan efisien dengan jalur khusus untuk bus, stasiun modern, dan koleksi tarif yang ramping",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406556.jpeg",
+      "simplified": "巴士快速运输",
+      "traditional": "巴士快速運輸",
+      "pinyin": "bāshì kuàisù yùnshū"
+    },
+    {
+      "id": 406558,
+      "translation": {
+        "en": {
+          "short": "electric bus",
+          "long": "a public transportation vehicle powered by electricity, typically with batteries or overhead lines, emitting zero tailpipe emissions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bus listrik",
+          "long": "Kendaraan transportasi umum yang ditenagai oleh listrik, biasanya dengan baterai atau saluran overhead, memancarkan emisi knalpot nol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406558.jpeg",
+      "simplified": "电动巴士",
+      "traditional": "電動巴士",
+      "pinyin": "diàndòng bāshì"
+    },
+    {
+      "id": 406559,
+      "translation": {
+        "en": {
+          "short": "omnibus",
+          "long": "a large public transportation vehicle designed to carry many passengers, typically a bus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Omnibus",
+          "long": "Kendaraan transportasi umum besar yang dirancang untuk mengangkut banyak penumpang, biasanya sebuah bus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406559.jpeg",
+      "simplified": "综合车",
+      "traditional": "綜合車",
+      "pinyin": "zōnghé Chē"
+    },
+    {
+      "id": 406561,
+      "translation": {
+        "en": {
+          "short": "minicoach",
+          "long": "a small bus designed to transport a small number of passengers, typically ranging from around 15 to 30 people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minicoach",
+          "long": "Bus kecil yang dirancang untuk mengangkut sejumlah kecil penumpang, biasanya mulai dari sekitar 15 hingga 30 orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406561.jpeg",
+      "simplified": "微型摄影",
+      "traditional": "微型攝影",
+      "pinyin": "wēixíng shèyǐng"
+    },
+    {
+      "id": 406562,
+      "translation": {
+        "en": {
+          "short": "minibus",
+          "long": "a small passenger-carrying vehicle that is larger than a typical car but smaller than a full-sized bus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minibus",
+          "long": "Kendaraan pembawa penumpang kecil yang lebih besar dari mobil khas tetapi lebih kecil dari bus berukuran penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406562.jpeg",
+      "simplified": "小巴",
+      "traditional": "小巴",
+      "pinyin": "xiǎobā"
+    },
+    {
+      "id": 406563,
+      "translation": {
+        "en": {
+          "short": "jitney",
+          "long": "a small bus or van that operates on a flexible route and often picks up passengers at irregular intervals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "opelet",
+          "long": "bus atau van kecil yang beroperasi pada rute yang fleksibel dan sering menjemput penumpang dengan interval yang tidak teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406563.jpeg",
+      "simplified": "便宜货",
+      "traditional": "便宜貨",
+      "pinyin": "piányi huò"
+    },
+    {
+      "id": 406564,
+      "translation": {
+        "en": {
+          "short": "streetcar",
+          "long": "a public transportation vehicle that runs on tracks embedded in city streets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trem",
+          "long": "Kendaraan transportasi umum yang berjalan di jalur yang tertanam di jalan -jalan kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406564.jpeg",
+      "simplified": "电车",
+      "traditional": "電車",
+      "pinyin": "diànchē"
+    },
+    {
+      "id": 406565,
+      "translation": {
+        "en": {
+          "short": "trolleybus",
+          "long": "a bus that operates using electricity from overhead wires rather than an internal combustion engine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bis listrik",
+          "long": "bus yang beroperasi menggunakan listrik dari kabel overhead daripada mesin pembakaran internal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406565.jpeg",
+      "simplified": "电车",
+      "traditional": "電車",
+      "pinyin": "diànchē"
+    },
+    {
+      "id": 406568,
+      "translation": {
+        "en": {
+          "short": "trackless trolley",
+          "long": "a trolleybus that operates without tracks, using rubber tires on regular roadways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "troli lacak",
+          "long": "troli yang beroperasi tanpa trek, menggunakan ban karet di jalan raya biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406568.jpeg",
+      "simplified": "无轨手推车",
+      "traditional": "無軌手推車",
+      "pinyin": "wúguǐ shǒutuī chē"
+    },
+    {
+      "id": 406573,
+      "translation": {
+        "en": {
+          "short": "land train",
+          "long": "a road-going vehicle consisting of a series of connected trailers or carriages, often used for transporting passengers in tourist areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta darat",
+          "long": "Kendaraan jalan yang terdiri dari serangkaian trailer atau gerbong yang terhubung, sering digunakan untuk mengangkut penumpang di daerah wisata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406573.jpeg",
+      "simplified": "陆地火车",
+      "traditional": "陸地火車",
+      "pinyin": "lùdì huǒchē"
+    },
+    {
+      "id": 406576,
+      "translation": {
+        "en": {
+          "short": "airport bus",
+          "long": "a public transportation service that shuttles passengers between an airport and designated locations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bus bandara",
+          "long": "Layanan transportasi umum yang mengantar penumpang antara bandara dan lokasi yang ditunjuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406576.jpeg",
+      "simplified": "机场巴士",
+      "traditional": "機場巴士",
+      "pinyin": "jīchǎng bāshì"
+    },
+    {
+      "id": 406579,
+      "translation": {
+        "en": {
+          "short": "single-decker",
+          "long": "a type of bus that has only one floor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "single-decker",
+          "long": "Jenis bus yang hanya memiliki satu lantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406579.jpeg",
+      "simplified": "单层",
+      "traditional": "單層",
+      "pinyin": "dāncéng"
+    },
+    {
+      "id": 406580,
+      "translation": {
+        "en": {
+          "short": "double-decker",
+          "long": "a vehicle such as a bus, train, or ship with two levels on top of one another, providing additional seating capacity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Double-Decker",
+          "long": "Kendaraan seperti bus, kereta api, atau kapal dengan dua tingkat di atas satu sama lain, memberikan kapasitas tempat duduk tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406580.jpeg",
+      "simplified": "双层巴士",
+      "traditional": "雙層巴士",
+      "pinyin": "shuāngcéng bā shì"
+    },
+    {
+      "id": 406582,
+      "translation": {
+        "en": {
+          "short": "rail replacement bus service",
+          "long": "a temporary bus service replacing trains on a route due to maintenance or disruptions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layanan Bus Penggantian Kereta Api",
+          "long": "Layanan bus sementara menggantikan kereta pada rute karena pemeliharaan atau gangguan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406582.jpeg",
+      "simplified": "铁轨更换巴士服务",
+      "traditional": "鐵軌更換巴士服務",
+      "pinyin": "tiěguǐ gēnghuàn bāshì fúwù"
+    },
+    {
+      "id": 406608,
+      "translation": {
+        "en": {
+          "short": "cycle rickshaw",
+          "long": "a small passenger vehicle pulled by a bicycle, commonly used in densely populated urban areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penarik becak",
+          "long": "Kendaraan penumpang kecil ditarik oleh sepeda, biasanya digunakan di daerah perkotaan berpenduduk padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406608.jpeg",
+      "simplified": "人力车",
+      "traditional": "人力車",
+      "pinyin": "rénlì chē"
+    },
+    {
+      "id": 406586,
+      "translation": {
+        "en": {
+          "short": "autorickshaw",
+          "long": "a three-wheeled, motorized vehicle used for public transportation in many countries, especially in South and Southeast Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Autorickshaw",
+          "long": "Kendaraan bermotor roda tiga yang digunakan untuk transportasi umum di banyak negara, terutama di Asia Selatan dan Tenggara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406586.jpeg",
+      "simplified": "自动人力车",
+      "traditional": "自動人力車",
+      "pinyin": "zìdòng rénlì chē"
+    },
+    {
+      "id": 406587,
+      "translation": {
+        "en": {
+          "short": "train",
+          "long": "a series of connected carriages that travel on a railroad, often pulled by a locomotive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta",
+          "long": "serangkaian gerbong terhubung yang bepergian dengan kereta api, sering ditarik oleh lokomotif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406587.jpeg",
+      "simplified": "火车",
+      "traditional": "火車",
+      "pinyin": "huǒchē"
+    },
+    {
+      "id": 406618,
+      "translation": {
+        "en": {
+          "short": "street running train",
+          "long": "a type of railway operation where trains run directly on urban streets shared with road traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta jalanan jalanan",
+          "long": "Jenis Operasi Kereta Api tempat kereta berjalan langsung di jalan -jalan perkotaan yang dibagikan dengan lalu lintas jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406618.jpeg",
+      "simplified": "街头跑步火车",
+      "traditional": "街頭跑步火車",
+      "pinyin": "jiētóu pǎobù huǒchē"
+    },
+    {
+      "id": 406590,
+      "translation": {
+        "en": {
+          "short": "subway",
+          "long": "an underground railroad system, typically in a big city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta bawah tanah",
+          "long": "sistem kereta api bawah tanah, biasanya di kota besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406590.jpeg",
+      "simplified": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dìtiě"
+    },
+    {
+      "id": 406595,
+      "translation": {
+        "en": {
+          "short": "metro",
+          "long": "an underground railway system in a city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metro",
+          "long": "sistem kereta bawah tanah di kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406595.jpeg",
+      "simplified": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dìtiě"
+    },
+    {
+      "id": 406596,
+      "translation": {
+        "en": {
+          "short": "transit",
+          "long": "the transfer of people on a public transportation vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transit",
+          "long": "pemindahan orang pada kendaraan transportasi umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406596.jpeg",
+      "simplified": "中转运送",
+      "traditional": "中轉運送",
+      "pinyin": "zhōngzhuǎn yùnsòng"
+    },
+    {
+      "id": 406600,
+      "translation": {
+        "en": {
+          "short": "mass transit",
+          "long": "public transportation systems designed to move large numbers of people efficiently, typically including buses, trains, subways, and light rail",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angkutan massal",
+          "long": "Sistem transportasi umum yang dirancang untuk menggerakkan sejumlah besar orang secara efisien, biasanya termasuk bus, kereta api, kereta bawah tanah, dan rel ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406600.jpeg",
+      "simplified": "轨道交通",
+      "traditional": "軌道交通",
+      "pinyin": "guǐdào jiāo tōng"
+    },
+    {
+      "id": 406604,
+      "translation": {
+        "en": {
+          "short": "rapid transit",
+          "long": "a high-capacity public transportation system designed for fast, efficient travel within urban areas, such as subways or elevated trains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transit cepat",
+          "long": "Sistem transportasi umum berkapasitas tinggi yang dirancang untuk perjalanan yang cepat dan efisien di daerah perkotaan, seperti kereta bawah tanah atau kereta api yang ditinggikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406604.jpeg",
+      "simplified": "快速运输",
+      "traditional": "快速運輸",
+      "pinyin": "kuàisù yùnshū"
+    },
+    {
+      "id": 406603,
+      "translation": {
+        "en": {
+          "short": "light rail transit",
+          "long": "a form of urban passenger transportation with electrically powered trains on dedicated tracks, featuring smaller vehicles and shorter trains than heavy rail systems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Transit kereta ringan",
+          "long": "Suatu bentuk transportasi penumpang perkotaan dengan kereta api bertenaga listrik di jalur khusus, menampilkan kendaraan yang lebih kecil dan kereta yang lebih pendek dari sistem kereta api yang berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406603.jpeg",
+      "simplified": "轻轨运输",
+      "traditional": "輕軌運輸",
+      "pinyin": "qīngguǐ yùnshū"
+    },
+    {
+      "id": 407208,
+      "translation": {
+        "en": {
+          "short": "park and ride",
+          "long": "a facility where people can park their cars and then use public transportation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taman dan naik",
+          "long": "Fasilitas tempat orang dapat memarkir mobil mereka dan kemudian menggunakan transportasi umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407208.jpeg",
+      "simplified": "公园和骑行",
+      "traditional": "公園和騎行",
+      "pinyin": "gōngyuán hé qíxíng"
+    },
+    {
+      "id": 406636,
+      "translation": {
+        "en": {
+          "short": "route",
+          "long": "a fixed way between two places, along which a bus, plane, ship, etc. regularly travels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rute",
+          "long": "jalan yang tetap antara dua tempat, di mana bus, pesawat, kapal, dll. Secara teratur bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406636.jpeg",
+      "simplified": "路线",
+      "traditional": "路線",
+      "pinyin": "lùxiàn"
+    },
+    {
+      "id": 406651,
+      "translation": {
+        "en": {
+          "short": "bus lane",
+          "long": "a special lane on a road only for buses, allowing them to move faster and more easily through traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur bus",
+          "long": "jalur khusus di jalan hanya untuk bus, memungkinkan mereka bergerak lebih cepat dan lebih mudah melalui lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406651.jpeg",
+      "simplified": "公交专用道",
+      "traditional": "公交專用道",
+      "pinyin": "gōngjiāo zhuānyòng dào"
+    },
+    {
+      "id": 406649,
+      "translation": {
+        "en": {
+          "short": "transitway",
+          "long": "a dedicated route or corridor reserved exclusively for public transportation vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Transitway",
+          "long": "Rute atau koridor khusus yang disediakan khusus untuk kendaraan transportasi umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406649.jpeg",
+      "simplified": "通道",
+      "traditional": "通道",
+      "pinyin": "Tōngdào"
+    },
+    {
+      "id": 407880,
+      "translation": {
+        "en": {
+          "short": "express",
+          "long": "a train or bus that travels more quickly than usual because it only makes a few stops",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cepat",
+          "long": "kereta atau bus yang bergerak lebih cepat dari biasanya karena hanya membuat beberapa berhenti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407880.jpeg",
+      "simplified": "表达",
+      "traditional": "表達",
+      "pinyin": "biǎodá"
+    },
+    {
+      "id": 406613,
+      "translation": {
+        "en": {
+          "short": "shuttle",
+          "long": "a means of transportation that frequently travels between two places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ulang -alik",
+          "long": "sarana transportasi yang sering melintasi antara dua tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406613.jpeg",
+      "simplified": "梭",
+      "traditional": "梭",
+      "pinyin": "suō"
+    },
+    {
+      "id": 406614,
+      "translation": {
+        "en": {
+          "short": "local",
+          "long": "a bus, train, etc. that makes all or most of the regular stops, allowing people to get on or off",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lokal",
+          "long": "bus, kereta api, dll. Itu membuat semua atau sebagian besar berhenti reguler, memungkinkan orang untuk naik atau mati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406614.jpeg",
+      "simplified": "本地",
+      "traditional": "本地",
+      "pinyin": "běndì"
+    },
+    {
+      "id": 406615,
+      "translation": {
+        "en": {
+          "short": "through",
+          "long": "of a public transportation route that connects two distant points without requiring a transfer",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "melalui",
+          "long": "dari rute transportasi umum yang menghubungkan dua titik jauh tanpa memerlukan transfer",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406615.jpeg",
+      "simplified": "通过",
+      "traditional": "通過",
+      "pinyin": "tōngguò"
+    },
+    {
+      "id": 406620,
+      "translation": {
+        "en": {
+          "short": "nonstop",
+          "long": "(of a flight, train, journey etc.) having or making no stops",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nonstop",
+          "long": "(dari penerbangan, kereta, perjalanan, dll.) Memiliki atau tidak berhenti",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406620.jpeg",
+      "simplified": "马不停蹄",
+      "traditional": "馬不停蹄",
+      "pinyin": "mǎbù tíng tí"
+    },
+    {
+      "id": 406619,
+      "translation": {
+        "en": {
+          "short": "connection",
+          "long": "a means of transportation that is used by a passenger after getting off a previous one to continue their journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koneksi",
+          "long": "sarana transportasi yang digunakan oleh penumpang setelah turun dari yang sebelumnya untuk melanjutkan perjalanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406619.jpeg",
+      "simplified": "接驳交通",
+      "traditional": "接駁交通",
+      "pinyin": "jiēbó jiāotōng"
+    },
+    {
+      "id": 406632,
+      "translation": {
+        "en": {
+          "short": "departure",
+          "long": "the act of leaving, usually to begin a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keberangkatan",
+          "long": "tindakan pergi, biasanya untuk memulai perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406632.jpeg",
+      "simplified": "离开",
+      "traditional": "離開",
+      "pinyin": "líkāi"
+    },
+    {
+      "id": 406638,
+      "translation": {
+        "en": {
+          "short": "stop",
+          "long": "a place where a train or bus usually stops for passengers to get on or off",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berhenti",
+          "long": "tempat di mana kereta atau bus biasanya berhenti bagi penumpang untuk naik atau turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406638.jpeg",
+      "simplified": "阻止",
+      "traditional": "阻止",
+      "pinyin": "zǔzhǐ"
+    },
+    {
+      "id": 406639,
+      "translation": {
+        "en": {
+          "short": "bus station",
+          "long": "a place where multiple buses begin and end their journeys, particularly a journey between towns or cites",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terminal",
+          "long": "tempat di mana banyak bus memulai dan mengakhiri perjalanan mereka, terutama perjalanan antara kota atau mengutip",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406639.jpeg",
+      "simplified": "汽车站",
+      "traditional": "汽車站",
+      "pinyin": "qìchē zhàn"
+    },
+    {
+      "id": 406641,
+      "translation": {
+        "en": {
+          "short": "bus stop",
+          "long": "a place at the side of a road that is usually marked with a sign, where buses regularly stop for passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemberhentian bus",
+          "long": "Tempat di sisi jalan yang biasanya ditandai dengan tanda, di mana bus secara teratur berhenti untuk penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406641.jpeg",
+      "simplified": "汽车站",
+      "traditional": "汽車站",
+      "pinyin": "qìchē zhàn"
+    },
+    {
+      "id": 406644,
+      "translation": {
+        "en": {
+          "short": "request stop",
+          "long": "a type of public transport where passengers must signal the driver if they want the vehicle to stop at a particular point along the route",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minta berhenti",
+          "long": "Jenis transportasi umum di mana penumpang harus memberi sinyal kepada pengemudi jika mereka ingin kendaraan berhenti pada titik tertentu di sepanjang rute",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406644.jpeg",
+      "simplified": "请求停止",
+      "traditional": "請求停止",
+      "pinyin": "qǐngqiú tíngzhǐ"
+    },
+    {
+      "id": 406635,
+      "translation": {
+        "en": {
+          "short": "terminus",
+          "long": "the last stop of a transportation line or route",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terminal",
+          "long": "Perhentian terakhir jalur transportasi atau rute",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406635.jpeg",
+      "simplified": "终点站",
+      "traditional": "終點站",
+      "pinyin": "zhōngdiǎn zhàn"
+    },
+    {
+      "id": 406634,
+      "translation": {
+        "en": {
+          "short": "terminal",
+          "long": "a building where trains, buses, planes, or ships start or finish their journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terminal",
+          "long": "sebuah bangunan tempat kereta api, bus, pesawat, atau kapal memulai atau menyelesaikan perjalanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406634.jpeg",
+      "simplified": "航站楼（巴士、飞机等）",
+      "traditional": "航站樓（巴士、飛機等）",
+      "pinyin": "hángzhàn lóu bāshì fēijī děng"
+    },
+    {
+      "id": 406637,
+      "translation": {
+        "en": {
+          "short": "station",
+          "long": "a place or building where we can get on or off a train or bus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stasiun",
+          "long": "tempat atau bangunan tempat kita bisa naik atau turun kereta atau bus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406637.jpeg",
+      "simplified": "站",
+      "traditional": "站",
+      "pinyin": "zhàn"
+    },
+    {
+      "id": 406645,
+      "translation": {
+        "en": {
+          "short": "depot",
+          "long": "the place where transport vehicles, such as buses or trains, leave from or stop to unload their passengers and content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "depot",
+          "long": "Tempat di mana kendaraan pengangkut, seperti bus atau kereta api, berangkat dari atau berhenti untuk membongkar penumpang dan konten mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406645.jpeg",
+      "simplified": "仓库",
+      "traditional": "倉庫",
+      "pinyin": "cāngkù"
+    },
+    {
+      "id": 406652,
+      "translation": {
+        "en": {
+          "short": "rush hour",
+          "long": "a time of day at which traffic is the heaviest because people are leaving for work or home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam sibuk",
+          "long": "Waktu di mana lalu lintas adalah yang terberat karena orang berangkat kerja atau di rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406652.jpeg",
+      "simplified": "高峰时间",
+      "traditional": "高峰時間",
+      "pinyin": "gāofēng shíjiān"
+    },
+    {
+      "id": 406654,
+      "translation": {
+        "en": {
+          "short": "peak hour",
+          "long": "the time period during which the highest volume of traffic or activity occurs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam sibuk",
+          "long": "periode waktu di mana volume lalu lintas atau aktivitas tertinggi terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406654.jpeg",
+      "simplified": "繁忙时间",
+      "traditional": "繁忙時間",
+      "pinyin": "fánmáng shíjiān"
+    },
+    {
+      "id": 406655,
+      "translation": {
+        "en": {
+          "short": "schedule",
+          "long": "a list or chart that shows the times at which trains, buses, planes, etc. leave and arrive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jadwal",
+          "long": "daftar atau bagan yang menunjukkan waktu di mana kereta, bus, pesawat, dll. Tinggalkan dan tiba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406655.jpeg",
+      "simplified": "时间表",
+      "traditional": "時間表",
+      "pinyin": "shíjiān biǎo"
+    },
+    {
+      "id": 406656,
+      "translation": {
+        "en": {
+          "short": "timetable",
+          "long": "a list or chart that shows the departure and arrival times of trains, buses, airplanes, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jadwal",
+          "long": "Daftar atau bagan yang menunjukkan waktu keberangkatan dan kedatangan kereta, bus, pesawat terbang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406656.jpeg",
+      "simplified": "时间表",
+      "traditional": "時間表",
+      "pinyin": "shíjiān biǎo"
+    },
+    {
+      "id": 408219,
+      "translation": {
+        "en": {
+          "short": "ticket office",
+          "long": "a physical location, usually at a transportation station or venue, where tickets for transportation services or events are sold or issued",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat penjualan karcis",
+          "long": "Lokasi fisik, biasanya di stasiun transportasi atau tempat, di mana tiket untuk layanan transportasi atau acara dijual atau dikeluarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408219.jpeg",
+      "simplified": "售票处",
+      "traditional": "售票處",
+      "pinyin": "shòupiào chù"
+    },
+    {
+      "id": 408220,
+      "translation": {
+        "en": {
+          "short": "ticket",
+          "long": "a piece of paper or card that shows you can do or get something, like ride on a bus or attend an event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tiket",
+          "long": "selembar kertas atau kartu yang menunjukkan Anda bisa melakukan atau mendapatkan sesuatu, seperti naik bus atau menghadiri acara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408220.jpeg",
+      "simplified": "票",
+      "traditional": "票",
+      "pinyin": "piào"
+    },
+    {
+      "id": 408221,
+      "translation": {
+        "en": {
+          "short": "E-ticket",
+          "long": "an online ticket for a flight that can be received electronically instead of a paper ticket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "E-Ticket",
+          "long": "tiket online untuk penerbangan yang dapat diterima secara elektronik, bukan tiket kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408221.jpeg",
+      "simplified": "电子客票",
+      "traditional": "電子客票",
+      "pinyin": "diànzǐ kè piào"
+    },
+    {
+      "id": 408222,
+      "translation": {
+        "en": {
+          "short": "transfer",
+          "long": "a ticket with which a passenger can continue their journey on another means of transportation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transfer",
+          "long": "Tiket yang dengannya seorang penumpang dapat melanjutkan perjalanan mereka dengan alat transportasi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408222.jpeg",
+      "simplified": "移动",
+      "traditional": "移動",
+      "pinyin": "yídòng"
+    },
+    {
+      "id": 408223,
+      "translation": {
+        "en": {
+          "short": "season ticket",
+          "long": "a type of ticket that allows unlimited travel or entry to a particular venue or mode of transportation during a specified period, typically a season or year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musim tiket",
+          "long": "Jenis tiket yang memungkinkan perjalanan atau masuk tanpa batas ke tempat atau moda transportasi tertentu selama periode tertentu, biasanya musim atau tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408223.jpeg",
+      "simplified": "季票",
+      "traditional": "季票",
+      "pinyin": "Jì piào"
+    },
+    {
+      "id": 408224,
+      "translation": {
+        "en": {
+          "short": "bus pass",
+          "long": "a card or ticket allowing unlimited or specific rides on buses within a defined period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bus Pass",
+          "long": "Kartu atau tiket yang memungkinkan wahana tanpa batas atau spesifik di bus dalam periode yang ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408224.jpeg",
+      "simplified": "巴士通行证",
+      "traditional": "巴士通行證",
+      "pinyin": "bāshì tōngxíng zhèng"
+    },
+    {
+      "id": 408225,
+      "translation": {
+        "en": {
+          "short": "one-way",
+          "long": "Permitting travel to a place without return",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "SATU ARAH",
+          "long": "Mengizinkan perjalanan ke suatu tempat tanpa kembali",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408225.jpeg",
+      "simplified": "单程",
+      "traditional": "單程",
+      "pinyin": "dānchéng"
+    },
+    {
+      "id": 406658,
+      "translation": {
+        "en": {
+          "short": "hold-up",
+          "long": "a delay or obstruction that prevents progress or causes a situation to be temporarily halted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perampokan",
+          "long": "penundaan atau obstruksi yang mencegah kemajuan atau menyebabkan situasi dihentikan sementara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406658.jpeg",
+      "simplified": "耽误",
+      "traditional": "耽誤",
+      "pinyin": "dānwu"
+    },
+    {
+      "id": 406660,
+      "translation": {
+        "en": {
+          "short": "dwell time",
+          "long": "the period a vehicle, such as a bus or train, remains stationary at a stop to allow passengers to board and alight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waktu tinggal",
+          "long": "Periode kendaraan, seperti bus atau kereta api, tetap diam di berhenti untuk memungkinkan penumpang naik dan turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406660.jpeg",
+      "simplified": "停留时间",
+      "traditional": "停留時間",
+      "pinyin": "tíngliú shíjiān"
+    },
+    {
+      "id": 406662,
+      "translation": {
+        "en": {
+          "short": "drive-time",
+          "long": "designed or scheduled to occur during peak commuting hours when traffic is heaviest",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "waktu drive",
+          "long": "dirancang atau dijadwalkan terjadi selama jam perjalanan puncak saat lalu lintas terberat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406662.jpeg",
+      "simplified": "开车时间",
+      "traditional": "開車時間",
+      "pinyin": "kāichē shíjiān"
+    },
+    {
+      "id": 406664,
+      "translation": {
+        "en": {
+          "short": "level of service",
+          "long": "the quality and quantity of service provided to users, typically measured in terms of performance indicators such as speed, reliability, and accessibility",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tingkat layanan",
+          "long": "Kualitas dan kuantitas layanan yang diberikan kepada pengguna, biasanya diukur dalam hal indikator kinerja seperti kecepatan, keandalan, dan aksesibilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406664.jpeg",
+      "simplified": "服务水平",
+      "traditional": "服務水平",
+      "pinyin": "fúwù shuǐpíng"
+    }
+  ]
+}

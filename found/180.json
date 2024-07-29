@@ -1,0 +1,545 @@
+{
+  "id": 180,
+  "title": {
+    "en": "Cooking",
+    "id": "Memasak"
+  },
+  "description": {
+    "en": "Here you will learn some English words about cooking, such as \"recipe\", \"ingredient\", \"garnish\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang memasak, seperti \"resep\", \"bahan\", \"hiasan\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 213899,
+      "translation": {
+        "en": {
+          "short": "recipe",
+          "long": "the instructions on how to cook a certain food, including a list of the ingredients required",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resep",
+          "long": "instruksi tentang cara memasak makanan tertentu, termasuk daftar bahan yang diperlukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213899.jpeg",
+      "simplified": "食谱",
+      "traditional": "食譜",
+      "pinyin": "shípǔ"
+    },
+    {
+      "id": 237269,
+      "translation": {
+        "en": {
+          "short": "ingredient",
+          "long": "any of the foods that is used in making a dish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan",
+          "long": "salah satu makanan yang digunakan dalam membuat hidangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237269.jpeg",
+      "simplified": "成分",
+      "traditional": "成分",
+      "pinyin": "chéngfèn"
+    },
+    {
+      "id": 213882,
+      "translation": {
+        "en": {
+          "short": "to beat",
+          "long": "to repeatedly mix something using a spoon, fork, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengalahkan",
+          "long": "berulang kali mencampur sesuatu menggunakan sendok, garpu, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213882.jpeg",
+      "simplified": "搅拌（使用勺子、叉子等）",
+      "traditional": "攪拌（使用勺子、叉子等）",
+      "pinyin": "jiǎobàn shǐyòng sháozi chāzi děng"
+    },
+    {
+      "id": 213883,
+      "translation": {
+        "en": {
+          "short": "to chop",
+          "long": "to cut something into pieces using a knife, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "Untuk memotong sesuatu menjadi berkeping -keping menggunakan pisau, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213883.jpeg",
+      "simplified": "劈",
+      "traditional": "劈",
+      "pinyin": "pī"
+    },
+    {
+      "id": 237270,
+      "translation": {
+        "en": {
+          "short": "to garnish",
+          "long": "to make food look more delicious by decorating it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk hiasan",
+          "long": "untuk membuat makanan terlihat lebih lezat dengan mendekorasi itu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237270.jpeg",
+      "simplified": "装饰",
+      "traditional": "裝飾",
+      "pinyin": "zhuāngshì"
+    },
+    {
+      "id": 213884,
+      "translation": {
+        "en": {
+          "short": "to grill",
+          "long": "to cook food directly over or under high heat, typically on a metal tray",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memanggang",
+          "long": "Untuk memasak makanan langsung di atas atau di bawah api besar, biasanya di atas nampan logam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213884.jpeg",
+      "simplified": "烤东西",
+      "traditional": "烤東西",
+      "pinyin": "kǎo dōngxī"
+    },
+    {
+      "id": 213901,
+      "translation": {
+        "en": {
+          "short": "to heat",
+          "long": "to raise the temperature of something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memanaskan",
+          "long": "untuk menaikkan suhu sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213901.jpeg",
+      "simplified": "加热某物",
+      "traditional": "加熱某物",
+      "pinyin": "jiārè mǒuwù"
+    },
+    {
+      "id": 237274,
+      "translation": {
+        "en": {
+          "short": "to marinate",
+          "long": "to soak food in a seasoned liquid, typically containing oil, vinegar, herbs, and spices, to enhance its flavor and softness before cooking",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk diasinkan",
+          "long": "Untuk merendam makanan dalam cairan berpengalaman, biasanya mengandung minyak, cuka, rempah -rempah, dan rempah -rempah, untuk meningkatkan rasa dan kelembutannya sebelum memasak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237274.jpeg",
+      "simplified": "渍",
+      "traditional": "漬",
+      "pinyin": "zì"
+    },
+    {
+      "id": 213886,
+      "translation": {
+        "en": {
+          "short": "to peel",
+          "long": "to remove the skin or outer layer of something, such as fruit, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengupas",
+          "long": "Untuk menghilangkan kulit atau lapisan luar sesuatu, seperti buah, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213886.jpeg",
+      "simplified": "剥",
+      "traditional": "剝",
+      "pinyin": "bāo"
+    },
+    {
+      "id": 237272,
+      "translation": {
+        "en": {
+          "short": "to poach",
+          "long": "to cook food, especially fish, in a small amount of boiling water or another liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merebus",
+          "long": "untuk memasak makanan, terutama ikan, dalam sedikit air mendidih atau cairan lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237272.jpeg",
+      "simplified": "用沸水煮食物",
+      "traditional": "用沸水煮食物",
+      "pinyin": "yòng fèishuǐ zhǔ shíwù"
+    },
+    {
+      "id": 213895,
+      "translation": {
+        "en": {
+          "short": "to roast",
+          "long": "to cook something, especially meat, over a fire or in an oven for an extended period",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memanggang",
+          "long": "untuk memasak sesuatu, terutama daging, di atas api atau dalam oven untuk waktu yang lama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213895.jpeg",
+      "simplified": "烤",
+      "traditional": "烤",
+      "pinyin": "kǎo"
+    },
+    {
+      "id": 213896,
+      "translation": {
+        "en": {
+          "short": "to slice",
+          "long": "to cut food or other things into thin, flat pieces",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengiris",
+          "long": "untuk memotong makanan atau hal -hal lain menjadi potongan tipis dan rata",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213896.jpeg",
+      "simplified": "劈",
+      "traditional": "劈",
+      "pinyin": "pī"
+    },
+    {
+      "id": 237267,
+      "translation": {
+        "en": {
+          "short": "to stir",
+          "long": "to move a spoon, etc. around in a liquid or other substance to completely mix it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "aduk",
+          "long": "untuk memindahkan sendok, dll. Di sekitar dalam cairan atau zat lain untuk sepenuhnya mencampurnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237267.jpeg",
+      "simplified": "搅拌（使用勺子、叉子等）",
+      "traditional": "攪拌（使用勺子、叉子等）",
+      "pinyin": "jiǎobàn shǐyòng sháozi chāzi děng"
+    },
+    {
+      "id": 213897,
+      "translation": {
+        "en": {
+          "short": "to toast",
+          "long": "to make food such as bread or cheese brown by heating it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersulang",
+          "long": "untuk membuat makanan seperti roti atau keju coklat dengan memanaskannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213897.jpeg",
+      "simplified": "烤",
+      "traditional": "烤",
+      "pinyin": "kǎo"
+    },
+    {
+      "id": 213874,
+      "translation": {
+        "en": {
+          "short": "counter",
+          "long": "a piece of furniture on which food is prepared",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menangkal",
+          "long": "sepotong furnitur tempat makanan disiapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213874.jpeg",
+      "simplified": "计数器",
+      "traditional": "計數器",
+      "pinyin": "jìshù qì"
+    },
+    {
+      "id": 213903,
+      "translation": {
+        "en": {
+          "short": "utensil",
+          "long": "an object that is used for cooking or eating",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkakas",
+          "long": "objek yang digunakan untuk memasak atau makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213903.jpeg",
+      "simplified": "用具",
+      "traditional": "用具",
+      "pinyin": "yòngjù"
+    },
+    {
+      "id": 213888,
+      "translation": {
+        "en": {
+          "short": "barbecue",
+          "long": "a frame made of metal on which food is cooked over a fire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panggang",
+          "long": "bingkai yang terbuat dari logam tempat makanan dimasak di atas api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213888.jpeg",
+      "simplified": "烧烤",
+      "traditional": "燒烤",
+      "pinyin": "shāokǎo"
+    },
+    {
+      "id": 213902,
+      "translation": {
+        "en": {
+          "short": "blender",
+          "long": "an electrical device used to blend, mix, or puree food and liquids into a smooth consistency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blender",
+          "long": "Perangkat listrik yang digunakan untuk mencampur, mencampur, atau memucuhkan makanan dan cairan menjadi konsistensi yang halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213902.jpeg",
+      "simplified": "混合器",
+      "traditional": "混合器",
+      "pinyin": "hùnhé qì"
+    },
+    {
+      "id": 213876,
+      "translation": {
+        "en": {
+          "short": "frying pan",
+          "long": "a flat-bottomed pan with low sides and a long handle, typically used for frying and browning foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggorengan",
+          "long": "wajan yang datar dengan sisi rendah dan pegangan panjang, biasanya digunakan untuk menggoreng dan kecoklatan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213876.jpeg",
+      "simplified": "铛",
+      "traditional": "鐺",
+      "pinyin": "chēng"
+    },
+    {
+      "id": 237266,
+      "translation": {
+        "en": {
+          "short": "wok",
+          "long": "a pan in the shape of a bowl, especially used for making Chinese dish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wok",
+          "long": "wajan dalam bentuk mangkuk, terutama digunakan untuk membuat hidangan Cina",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237266.jpeg",
+      "simplified": "炒锅",
+      "traditional": "炒鍋",
+      "pinyin": "chǎoguō"
+    },
+    {
+      "id": 213885,
+      "translation": {
+        "en": {
+          "short": "mixer",
+          "long": "a device or object used for combining ingredients together to achieve a certain texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengaduk",
+          "long": "perangkat atau objek yang digunakan untuk menggabungkan bahan bersama untuk mencapai tekstur tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213885.jpeg",
+      "simplified": "混合器",
+      "traditional": "混合器",
+      "pinyin": "hùnhé qì"
+    },
+    {
+      "id": 238353,
+      "translation": {
+        "en": {
+          "short": "lid",
+          "long": "the removable cover at the top of a container",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tutup",
+          "long": "penutup yang dapat dilepas di bagian atas wadah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238353.jpeg",
+      "simplified": "容器盖",
+      "traditional": "容器蓋",
+      "pinyin": "róngqì Gě"
+    },
+    {
+      "id": 213877,
+      "translation": {
+        "en": {
+          "short": "mixing bowl",
+          "long": "a bowl typically used in cooking and baking for combining ingredients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangkuk pengadukan",
+          "long": "mangkuk biasanya digunakan dalam memasak dan memanggang untuk menggabungkan bahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213877.jpeg",
+      "simplified": "用于混合的碗",
+      "traditional": "用於混合的碗",
+      "pinyin": "yòngyú hùnhé de wǎn"
+    },
+    {
+      "id": 213881,
+      "translation": {
+        "en": {
+          "short": "wooden spoon",
+          "long": "a spoon that is made of wood",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sendok kayu",
+          "long": "Sendok yang terbuat dari kayu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213881.jpeg",
+      "simplified": "木勺子",
+      "traditional": "木勺子",
+      "pinyin": "Mù sháozi"
+    },
+    {
+      "id": 213878,
+      "translation": {
+        "en": {
+          "short": "scale",
+          "long": "a device used to weigh people or objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skala",
+          "long": "perangkat yang digunakan untuk menimbang orang atau benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213878.jpeg",
+      "simplified": "秤",
+      "traditional": "秤",
+      "pinyin": "chēng"
+    },
+    {
+      "id": 237271,
+      "translation": {
+        "en": {
+          "short": "pinch",
+          "long": "a slight amount of something one can hold between the index finger and thumb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencubit",
+          "long": "Sedikit sesuatu yang bisa dipegang antara jari telunjuk dan ibu jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237271.jpeg",
+      "simplified": "非常少量",
+      "traditional": "非常少量",
+      "pinyin": "fēicháng shǎoliàng"
+    },
+    {
+      "id": 239490,
+      "translation": {
+        "en": {
+          "short": "cupful",
+          "long": "the amount that fills a cup, typically a standard measuring cup used in cooking and baking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "secangkir",
+          "long": "Jumlah yang mengisi cangkir, biasanya cangkir pengukur standar yang digunakan dalam memasak dan memanggang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239490.jpeg",
+      "simplified": "相当于一杯的量",
+      "traditional": "相當於一杯的量",
+      "pinyin": "xiāngdāng yú yī bēi de liáng"
+    },
+    {
+      "id": 213887,
+      "translation": {
+        "en": {
+          "short": "spoonful",
+          "long": "the amount that fills a spoon, typically a standard eating or measuring spoon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sesendok penuh",
+          "long": "Jumlah yang mengisi sendok, biasanya sendok makan atau mengukur standar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213887.jpeg",
+      "simplified": "相当于一个勺子的量",
+      "traditional": "相當於一個勺子的量",
+      "pinyin": "xiāngdāng yú yī gě sháozi de liáng"
+    }
+  ]
+}

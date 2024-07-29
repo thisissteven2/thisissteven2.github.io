@@ -1,0 +1,697 @@
+{
+  "id": 1704,
+  "title": {
+    "en": "Berry Fruits",
+    "id": "Buah Berry"
+  },
+  "description": {
+    "en": "Here you will learn the names of berry fruits in English such as \"strawberry\", \"currant\", and \"grape\".",
+    "id": "Di sini Anda akan mempelajari nama buah berry dalam bahasa Inggris seperti \"stroberi\", \"kismis\", dan \"anggur\"."
+  },
+  "cards": [
+    {
+      "id": 276481,
+      "translation": {
+        "en": {
+          "short": "berry",
+          "long": "a juicy small fruit with no pit, which grows on a bush",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Berry",
+          "long": "buah kecil yang berair tanpa lubang, yang tumbuh di semak -semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276481.jpeg",
+      "simplified": "浆果",
+      "traditional": "漿果",
+      "pinyin": "jiāngguǒ"
+    },
+    {
+      "id": 276463,
+      "translation": {
+        "en": {
+          "short": "bilberry",
+          "long": "a small, dark purple berry that resembles a blueberry and is known for its rich antioxidants and potential health benefits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bilberry",
+          "long": "Berry ungu kecil, gelap yang menyerupai blueberry dan dikenal karena antioksidannya yang kaya dan potensi manfaat kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276463.jpeg",
+      "simplified": "覆盆子",
+      "traditional": "覆盆子",
+      "pinyin": "fùpén zǐ"
+    },
+    {
+      "id": 276480,
+      "translation": {
+        "en": {
+          "short": "strawberry",
+          "long": "a soft, red juicy fruit with small seeds on its surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stroberi",
+          "long": "Buah berair merah lembut dengan biji kecil di permukaannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276480.jpeg",
+      "simplified": "草莓",
+      "traditional": "草莓",
+      "pinyin": "cǎoméi"
+    },
+    {
+      "id": 276483,
+      "translation": {
+        "en": {
+          "short": "boysenberry",
+          "long": "a large edible berry that is similar to a blackberry in shape, with a taste like a raspberry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Boysenberry",
+          "long": "Berry besar yang dapat dimakan yang mirip dengan bentuk blackberry, dengan rasanya seperti raspberry",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276483.jpeg",
+      "simplified": "博森伯里",
+      "traditional": "博森伯里",
+      "pinyin": "bó Sēn bà lǐ"
+    },
+    {
+      "id": 276484,
+      "translation": {
+        "en": {
+          "short": "salmonberry",
+          "long": "a North American fruit of the berry family with a rose color, growing on bushes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salmonberry",
+          "long": "Buah Amerika Utara dari keluarga berry dengan warna mawar, tumbuh di semak -semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276484.jpeg",
+      "simplified": "沙门莓",
+      "traditional": "沙門莓",
+      "pinyin": "shāmén méi"
+    },
+    {
+      "id": 276485,
+      "translation": {
+        "en": {
+          "short": "tayberry",
+          "long": "a dark red berry that is a cross between a blackberry and a raspberry, named after the river Tay in Scotland",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tayberry",
+          "long": "Berry merah gelap yang merupakan persilangan antara blackberry dan raspberry, dinamai River Tay di Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276485.jpeg",
+      "simplified": "泰伯里",
+      "traditional": "泰伯里",
+      "pinyin": "Tài bà lǐ"
+    },
+    {
+      "id": 276464,
+      "translation": {
+        "en": {
+          "short": "blackberry",
+          "long": "a tiny soft fruit with a sweet taste and black color that grows on a thorny bush",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blackberry",
+          "long": "Buah lembut kecil dengan rasa manis dan warna hitam yang tumbuh di atas semak berduri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276464.jpeg",
+      "simplified": "黑莓",
+      "traditional": "黑莓",
+      "pinyin": "hēiméi"
+    },
+    {
+      "id": 276465,
+      "translation": {
+        "en": {
+          "short": "blueberry",
+          "long": "a sweet small fruit dark blue in color, grown in North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blueberry",
+          "long": "Buah kecil manis berwarna biru gelap, ditanam di Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276465.jpeg",
+      "simplified": "蓝莓",
+      "traditional": "藍莓",
+      "pinyin": "lánméi"
+    },
+    {
+      "id": 276468,
+      "translation": {
+        "en": {
+          "short": "cranberry",
+          "long": "a very small red berry with a sour taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cranberi",
+          "long": "berry merah yang sangat kecil dengan rasa asam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276468.jpeg",
+      "simplified": "酸果蔓",
+      "traditional": "酸果蔓",
+      "pinyin": "suān guǒ mán"
+    },
+    {
+      "id": 276469,
+      "translation": {
+        "en": {
+          "short": "dewberry",
+          "long": "the bluish-black fruit resembling a blackberry, growing on a bush",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dewberry",
+          "long": "Buah hitam kebiruan menyerupai blackberry, tumbuh di semak-semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276469.jpeg",
+      "simplified": "露莓",
+      "traditional": "露莓",
+      "pinyin": "Lù méi"
+    },
+    {
+      "id": 276470,
+      "translation": {
+        "en": {
+          "short": "elderberry",
+          "long": "a small, dark purple fruit that grows on the elder tree and is commonly used for culinary purposes and herbal remedies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Elderberry",
+          "long": "Buah ungu kecil dan gelap yang tumbuh di pohon penatua dan biasanya digunakan untuk tujuan kuliner dan obat herbal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276470.jpeg",
+      "simplified": "接骨木浆果",
+      "traditional": "接骨木漿果",
+      "pinyin": "jiēgǔ mù jiāngguǒ"
+    },
+    {
+      "id": 276471,
+      "translation": {
+        "en": {
+          "short": "gooseberry",
+          "long": "a small yellowish-green or red fruit with a sharp flavor, growing on thorny bushes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gooseberry",
+          "long": "Buah hijau kekuningan atau merah kecil dengan rasa yang tajam, tumbuh di semak-semak berduri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276471.jpeg",
+      "simplified": "醋栗",
+      "traditional": "醋栗",
+      "pinyin": "cùlì"
+    },
+    {
+      "id": 276474,
+      "translation": {
+        "en": {
+          "short": "huckleberry",
+          "long": "an edible blue-black berry that grows on a bush and is native to North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semacam buah frambos kecil",
+          "long": "Berry Blue-Black yang Dapat Dimakan yang Bertumbuh Di Bush Dan Berdasarkan Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276474.jpeg",
+      "simplified": "越橘",
+      "traditional": "越橘",
+      "pinyin": "yuèjú"
+    },
+    {
+      "id": 276475,
+      "translation": {
+        "en": {
+          "short": "loganberry",
+          "long": "the red edible fruit that grows on a bush which is a hybrid between North American blackberry and European raspberry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Loganberry",
+          "long": "buah merah yang dapat dimakan yang tumbuh di semak yang merupakan hibrida antara blackberry Amerika Utara dan raspberry Eropa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276475.jpeg",
+      "simplified": "罗甘莓",
+      "traditional": "羅甘莓",
+      "pinyin": "Luó Gān méi"
+    },
+    {
+      "id": 276477,
+      "translation": {
+        "en": {
+          "short": "mulberry",
+          "long": "a sweet and juicy fruit that comes in various colors, typically dark purple or red",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "murbai",
+          "long": "Buah manis dan berair yang hadir dalam berbagai warna, biasanya ungu gelap atau merah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276477.jpeg",
+      "simplified": "桑",
+      "traditional": "桑",
+      "pinyin": "Sāng"
+    },
+    {
+      "id": 276478,
+      "translation": {
+        "en": {
+          "short": "raspberry",
+          "long": "an edible soft berry that is red or black in color and grows on bushes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "frambos",
+          "long": "Berry lembut yang dapat dimakan yang berwarna merah atau hitam dan tumbuh di semak -semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276478.jpeg",
+      "simplified": "覆盆子",
+      "traditional": "覆盆子",
+      "pinyin": "fùpén zǐ"
+    },
+    {
+      "id": 276498,
+      "translation": {
+        "en": {
+          "short": "ground cherry",
+          "long": "a small, sweet fruit enclosed in a papery husk, resembling a miniature tomato",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ceri ground",
+          "long": "Buah kecil dan manis tertutup kulit kertas, menyerupai tomat miniatur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276498.jpeg",
+      "simplified": "地面樱桃",
+      "traditional": "地面櫻桃",
+      "pinyin": "dìmiàn yīngtáo"
+    },
+    {
+      "id": 276501,
+      "translation": {
+        "en": {
+          "short": "wonderberry",
+          "long": "a small, edible fruit that resembles a miniature dark purple tomato",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wonderry",
+          "long": "Buah kecil yang dapat dimakan yang menyerupai miniatur tomat ungu gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276501.jpeg",
+      "simplified": "奇迹莓",
+      "traditional": "奇蹟莓",
+      "pinyin": "qíjì méi"
+    },
+    {
+      "id": 276510,
+      "translation": {
+        "en": {
+          "short": "whinberry",
+          "long": "a small dark-blue or black fruit that grows on low shrubs and has a sweet and tangy flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Whinberry",
+          "long": "Buah biru tua atau hitam kecil yang tumbuh pada semak rendah dan memiliki rasa manis dan tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276510.jpeg",
+      "simplified": "温伯里",
+      "traditional": "溫伯里",
+      "pinyin": "Wēn bà lǐ"
+    },
+    {
+      "id": 276524,
+      "translation": {
+        "en": {
+          "short": "silverberry",
+          "long": "a small, silvery-gray edible berry with a tart and slightly sweet flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Silverberry",
+          "long": "Berry kecil yang dapat dimakan abu-abu keperakan dengan tart dan rasa yang sedikit manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276524.jpeg",
+      "simplified": "银莓",
+      "traditional": "銀莓",
+      "pinyin": "yín méi"
+    },
+    {
+      "id": 276526,
+      "translation": {
+        "en": {
+          "short": "shadberry",
+          "long": "a small, dark purple or red berry that grows on the shadberry tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "shadberry",
+          "long": "Berry kecil, ungu gelap atau merah yang tumbuh di pohon shadberry",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276526.jpeg",
+      "simplified": "覆盆子",
+      "traditional": "覆盆子",
+      "pinyin": "fùpén zǐ"
+    },
+    {
+      "id": 276550,
+      "translation": {
+        "en": {
+          "short": "lingonberry",
+          "long": "a small red berry with a tart flavor, commonly found in Nordic regions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lingonberry",
+          "long": "Berry merah kecil dengan rasa tart, biasanya ditemukan di daerah Nordik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276550.jpeg",
+      "simplified": "越橘",
+      "traditional": "越橘",
+      "pinyin": "yuèjú"
+    },
+    {
+      "id": 276553,
+      "translation": {
+        "en": {
+          "short": "honey berry",
+          "long": "a small, sweet fruit with a flavor reminiscent of honey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Honey Berry",
+          "long": "Buah kecil dan manis dengan rasa yang mengingatkan pada madu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276553.jpeg",
+      "simplified": "蜂蜜浆果",
+      "traditional": "蜂蜜漿果",
+      "pinyin": "fēngmì jiāngguǒ"
+    },
+    {
+      "id": 276556,
+      "translation": {
+        "en": {
+          "short": "black currant",
+          "long": "a small edible type of berry that is black in color and grows on bushes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Black Currant",
+          "long": "jenis berry kecil yang berwarna hitam dan tumbuh di semak -semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276556.jpeg",
+      "simplified": "黑醋栗",
+      "traditional": "黑醋栗",
+      "pinyin": "hēicù lì"
+    },
+    {
+      "id": 276560,
+      "translation": {
+        "en": {
+          "short": "grape",
+          "long": "a purple or green fruit that is round, small, and grows in bunches on a vine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur",
+          "long": "buah ungu atau hijau yang bundar, kecil, dan tumbuh dalam tandan di atas pokok anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276560.jpeg",
+      "simplified": "葡萄",
+      "traditional": "葡萄",
+      "pinyin": "pútao"
+    },
+    {
+      "id": 354642,
+      "translation": {
+        "en": {
+          "short": "currant",
+          "long": "a small, tart, and edible berry that grows in clusters on shrubs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Currant",
+          "long": "Berry kecil, pelacur, dan dapat dimakan yang tumbuh dalam kelompok pada semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354642.jpeg",
+      "simplified": "黑醋栗",
+      "traditional": "黑醋栗",
+      "pinyin": "hēicù lì"
+    },
+    {
+      "id": 276564,
+      "translation": {
+        "en": {
+          "short": "red currant",
+          "long": "a small red berry with a sweet taste that is used in jellies or jams, native to Europe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Red Currant",
+          "long": "Berry merah kecil dengan rasa manis yang digunakan dalam jeli atau selai, asli dari Eropa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276564.jpeg",
+      "simplified": "红醋栗",
+      "traditional": "紅醋栗",
+      "pinyin": "hóngcù lì"
+    },
+    {
+      "id": 276566,
+      "translation": {
+        "en": {
+          "short": "pinot grape",
+          "long": "a variety of wine grape known for its thin skin, delicate flavors, and ability to produce high-quality wines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pinot Grape",
+          "long": "Berbagai anggur anggur yang dikenal karena kulitnya yang tipis, citarasa halus, dan kemampuan untuk menghasilkan anggur berkualitas tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276566.jpeg",
+      "simplified": "皮诺葡萄",
+      "traditional": "皮諾葡萄",
+      "pinyin": "Pí nuò pútao"
+    },
+    {
+      "id": 354650,
+      "translation": {
+        "en": {
+          "short": "sultana",
+          "long": "a white seedless grape that is used for cooking or making wine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sultana",
+          "long": "anggur tanpa biji putih yang digunakan untuk memasak atau membuat anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354650.jpeg",
+      "simplified": "苏丹娜",
+      "traditional": "蘇丹娜",
+      "pinyin": "Sūdān nà"
+    },
+    {
+      "id": 276567,
+      "translation": {
+        "en": {
+          "short": "muscat grape",
+          "long": "a variety of wine grape known for its aromatic characteristics and the production of wines with distinct floral and fruity notes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur muscat",
+          "long": "Berbagai anggur anggur yang dikenal karena karakteristik aromatiknya dan produksi anggur dengan catatan bunga dan buah yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276567.jpeg",
+      "simplified": "马斯喀特葡萄",
+      "traditional": "馬斯喀特葡萄",
+      "pinyin": "Mǎsī kā tè pútao"
+    },
+    {
+      "id": 354658,
+      "translation": {
+        "en": {
+          "short": "white currant",
+          "long": "a small, translucent berry with a sweet and slightly tangy flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kismis putih",
+          "long": "berry kecil dan tembus cahaya dengan rasa manis dan sedikit tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354658.jpeg",
+      "simplified": "白醋栗",
+      "traditional": "白醋栗",
+      "pinyin": "báicù Lì"
+    },
+    {
+      "id": 356099,
+      "translation": {
+        "en": {
+          "short": "barberry",
+          "long": "a tart, red berry commonly used in culinary dishes and traditional medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barberry",
+          "long": "Tart, berry merah yang biasa digunakan dalam hidangan kuliner dan obat tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356099.jpeg",
+      "simplified": "小檗",
+      "traditional": "小蘗",
+      "pinyin": "xiǎo bò"
+    },
+    {
+      "id": 276569,
+      "translation": {
+        "en": {
+          "short": "Concord grape",
+          "long": "a variety of grape known for its rich, bold flavor and deep purple color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Concord Grape",
+          "long": "Berbagai anggur yang dikenal karena rasanya yang kaya dan berani dan warna ungu tua",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276569.jpeg",
+      "simplified": "康科德葡萄",
+      "traditional": "康科德葡萄",
+      "pinyin": "Kāngkē dé pútao"
+    },
+    {
+      "id": 276572,
+      "translation": {
+        "en": {
+          "short": "Chardonnay grape",
+          "long": "a white wine grape variety known for producing wines with a wide range of styles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grape Chardonnay",
+          "long": "Varietas anggur anggur putih yang dikenal untuk memproduksi anggur dengan berbagai gaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276572.jpeg",
+      "simplified": "霞多丽葡萄",
+      "traditional": "霞多麗葡萄",
+      "pinyin": "Xiáduō lì pútao"
+    },
+    {
+      "id": 338100,
+      "translation": {
+        "en": {
+          "short": "youngberry",
+          "long": "a type of fruit that is a cross between a blackberry, raspberry, and dewberry, and has a dark red color when ripe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Youngberry",
+          "long": "Jenis buah yang merupakan persilangan antara blackberry, raspberry, dan emberry, dan memiliki warna merah gelap saat matang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/338100.jpeg",
+      "simplified": "杨莓",
+      "traditional": "楊莓",
+      "pinyin": "Yáng méi"
+    },
+    {
+      "id": 392410,
+      "translation": {
+        "en": {
+          "short": "native orange",
+          "long": "a small, tart berry used in indigenous Australian cuisine and valued for its culinary versatility",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oranye asli",
+          "long": "Berry kecil, tart digunakan dalam masakan asli Australia dan dihargai untuk keserbagunaan kulinernya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/392410.jpeg",
+      "simplified": "原生橙",
+      "traditional": "原生橙",
+      "pinyin": "yuánshēng chéng"
+    }
+  ]
+}

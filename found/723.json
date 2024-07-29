@@ -1,0 +1,944 @@
+{
+  "id": 723,
+  "title": {
+    "en": "Making an Argument",
+    "id": "Membuat argumen"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to making an argument such as \"claim\", \"arguably\", and \"defensible\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan membuat argumen seperti \"klaim\", \"bisa dibilang\", dan \"dapat dipertahankan\"."
+  },
+  "cards": [
+    {
+      "id": 232488,
+      "translation": {
+        "en": {
+          "short": "ad hominem",
+          "long": "(of an argument) directed against a person and not their point of view",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ad hominem",
+          "long": "(dari argumen) diarahkan terhadap seseorang dan bukan sudut pandang mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232488.jpeg",
+      "simplified": "人身攻击",
+      "traditional": "人身攻擊",
+      "pinyin": "rénshēn gōng jī"
+    },
+    {
+      "id": 232489,
+      "translation": {
+        "en": {
+          "short": "a link in the chain",
+          "long": "a part of a larger system or process, with its specific qualities determined by the preceding adjectives",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tautan dalam rantai",
+          "long": "Bagian dari sistem atau proses yang lebih besar, dengan kualitas spesifiknya ditentukan oleh kata sifat sebelumnya",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232489.jpeg",
+      "simplified": "链条中的一环",
+      "traditional": "鏈條中的一環",
+      "pinyin": "liàntiáo zhòngdì yī Huán"
+    },
+    {
+      "id": 232490,
+      "translation": {
+        "en": {
+          "short": "ammunition",
+          "long": "a set of facts or information that can be used to win an argument against someone or to criticize them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amunisi",
+          "long": "serangkaian fakta atau informasi yang dapat digunakan untuk memenangkan argumen terhadap seseorang atau mengkritik mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232490.jpeg",
+      "simplified": "弹药",
+      "traditional": "彈藥",
+      "pinyin": "dànyào"
+    },
+    {
+      "id": 232491,
+      "translation": {
+        "en": {
+          "short": "anyway",
+          "long": "used to introduce a statement that confirms or supports a previous point",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Bagaimanapun",
+          "long": "digunakan untuk memperkenalkan pernyataan yang mengkonfirmasi atau mendukung poin sebelumnya",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232491.jpeg",
+      "simplified": "反正",
+      "traditional": "反正",
+      "pinyin": "fǎnzhèng"
+    },
+    {
+      "id": 232492,
+      "translation": {
+        "en": {
+          "short": "apologia",
+          "long": "a formal written defense used to justify one's beliefs or opinions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maaf",
+          "long": "Pertahanan tertulis formal digunakan untuk membenarkan keyakinan atau pendapat seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232492.jpeg",
+      "simplified": "辩解书",
+      "traditional": "辯解書",
+      "pinyin": "biànjiě Shū"
+    },
+    {
+      "id": 232494,
+      "translation": {
+        "en": {
+          "short": "aporia",
+          "long": "a situation in which a theory or argument cannot be true because two or more parts of it are contradictory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aporia",
+          "long": "situasi di mana teori atau argumen tidak dapat benar karena dua atau lebih bagiannya bertentangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232494.jpeg",
+      "simplified": "阿波里亚",
+      "traditional": "阿波里亞",
+      "pinyin": "A1 Bō lǐ Yà"
+    },
+    {
+      "id": 232495,
+      "translation": {
+        "en": {
+          "short": "arguable",
+          "long": "(of an ideology or opinion) not certain and could be backed up by facts and reasons",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diperdebatkan",
+          "long": "(dari ideologi atau pendapat) tidak pasti dan dapat didukung oleh fakta dan alasan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232495.jpeg",
+      "simplified": "有争议的",
+      "traditional": "有爭議的",
+      "pinyin": "yǒu zhēngyì de"
+    },
+    {
+      "id": 232496,
+      "translation": {
+        "en": {
+          "short": "arguably",
+          "long": "used to convey that a statement can be supported with reasons or evidence",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "bisa dibilang",
+          "long": "digunakan untuk menyampaikan bahwa pernyataan dapat didukung dengan alasan atau bukti",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232496.jpeg",
+      "simplified": "大概",
+      "traditional": "大概",
+      "pinyin": "dàgài"
+    },
+    {
+      "id": 232497,
+      "translation": {
+        "en": {
+          "short": "to argue",
+          "long": "to provide reasons when saying something is the case, particularly to persuade others that one is right",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berdebat",
+          "long": "untuk memberikan alasan ketika mengatakan sesuatu adalah masalahnya, terutama untuk meyakinkan orang lain bahwa seseorang benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232497.jpeg",
+      "simplified": "争论",
+      "traditional": "爭論",
+      "pinyin": "zhēnglùn"
+    },
+    {
+      "id": 234871,
+      "translation": {
+        "en": {
+          "short": "argument",
+          "long": "a reason or sets of reasons presented to show the correctness or falsehood of an action or idea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "argumen",
+          "long": "alasan atau serangkaian alasan yang disajikan untuk menunjukkan kebenaran atau kepalsuan suatu tindakan atau ide",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/234871.jpeg",
+      "simplified": "争论",
+      "traditional": "爭論",
+      "pinyin": "zhēnglùn"
+    },
+    {
+      "id": 232498,
+      "translation": {
+        "en": {
+          "short": "argumentation",
+          "long": "the process or action of logical reasoning for persuading others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "argumentasi",
+          "long": "proses atau tindakan penalaran logis untuk membujuk orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232498.jpeg",
+      "simplified": "论证",
+      "traditional": "論證",
+      "pinyin": "lùnzhèng"
+    },
+    {
+      "id": 232499,
+      "translation": {
+        "en": {
+          "short": "argumentative",
+          "long": "(of a person) ready to argue and often arguing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "argumentatif",
+          "long": "(dari seseorang) siap berdebat dan sering berdebat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232499.jpeg",
+      "simplified": "争论的",
+      "traditional": "爭論的",
+      "pinyin": "zhēnglùn de"
+    },
+    {
+      "id": 232501,
+      "translation": {
+        "en": {
+          "short": "a stick to beat {sb/sth} with",
+          "long": "something that can be used as a basis for criticism or punishment of someone",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tongkat untuk mengalahkan {sb/sth} dengan",
+          "long": "sesuatu yang dapat digunakan sebagai dasar kritik atau hukuman seseorang",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232501.jpeg",
+      "simplified": "用来殴打某人或某物的棍子",
+      "traditional": "用來毆打某人或某物的棍子",
+      "pinyin": "yònglái ōudǎ mǒurén huò mǒuwù de gùnzi"
+    },
+    {
+      "id": 232502,
+      "translation": {
+        "en": {
+          "short": "at the same time",
+          "long": "used to introduce a second fact that must be taken into account",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "pada saat yang sama",
+          "long": "digunakan untuk memperkenalkan fakta kedua yang harus diperhitungkan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232502.jpeg",
+      "simplified": "同时",
+      "traditional": "同時",
+      "pinyin": "tóngshí"
+    },
+    {
+      "id": 232504,
+      "translation": {
+        "en": {
+          "short": "to belabor the point",
+          "long": "to keep repeating or stressing an idea, argument, etc., especially when it is unnecessary",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk mengutuk intinya",
+          "long": "untuk terus mengulang atau menekankan ide, argumen, dll., Terutama ketika itu tidak perlu",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232504.jpeg",
+      "simplified": "详细说明这一点",
+      "traditional": "詳細說明這一點",
+      "pinyin": "xiángxì shuōmíng zhè yīdiǎn"
+    },
+    {
+      "id": 232506,
+      "translation": {
+        "en": {
+          "short": "to [be] on (firm|solid) ground",
+          "long": "to be in a strong position in an argument due to having all the facts",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [menjadi] di tanah (firm | solid)",
+          "long": "berada dalam posisi yang kuat dalam sebuah argumen karena memiliki semua fakta",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232506.jpeg",
+      "simplified": "脚踏实地",
+      "traditional": "腳踏實地",
+      "pinyin": "jiǎotà shí dì"
+    },
+    {
+      "id": 232508,
+      "translation": {
+        "en": {
+          "short": "by extension",
+          "long": "used for taking the situation or same line of argument one step further",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "dengan ekstensi",
+          "long": "digunakan untuk mengambil situasi atau argumen yang sama satu langkah lebih jauh",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232508.jpeg",
+      "simplified": "推而广之",
+      "traditional": "推而廣之",
+      "pinyin": "tuīér guǎng zhī"
+    },
+    {
+      "id": 232509,
+      "translation": {
+        "en": {
+          "short": "to carry",
+          "long": "to persuade a group of people to accept one's arguments by winning their support or sympathy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "membawa",
+          "long": "untuk membujuk sekelompok orang untuk menerima argumen seseorang dengan memenangkan dukungan atau simpati mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232509.jpeg",
+      "simplified": "携带",
+      "traditional": "攜帶",
+      "pinyin": "xiédài"
+    },
+    {
+      "id": 232510,
+      "translation": {
+        "en": {
+          "short": "case",
+          "long": "a series of facts supporting a theory or an argument",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kasus",
+          "long": "serangkaian fakta yang mendukung teori atau argumen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232510.jpeg",
+      "simplified": "推理",
+      "traditional": "推理",
+      "pinyin": "tuīlǐ"
+    },
+    {
+      "id": 232511,
+      "translation": {
+        "en": {
+          "short": "casuistry",
+          "long": "the practice of unsound reasoning and falsely arguing questions in a clever way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Casuistry",
+          "long": "praktik penalaran yang tidak sehat dan secara keliru berdebat pertanyaan dengan cara yang cerdas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232511.jpeg",
+      "simplified": "诡辩",
+      "traditional": "詭辯",
+      "pinyin": "guǐbiàn"
+    },
+    {
+      "id": 232513,
+      "translation": {
+        "en": {
+          "short": "circular",
+          "long": "(of an argument or a theory) involving an idea or statement to prove something that is then used to prove the statement itself",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bundar",
+          "long": "(dari argumen atau teori) yang melibatkan ide atau pernyataan untuk membuktikan sesuatu yang kemudian digunakan untuk membuktikan pernyataan itu sendiri",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232513.jpeg",
+      "simplified": "圆",
+      "traditional": "圓",
+      "pinyin": "yuán"
+    },
+    {
+      "id": 232514,
+      "translation": {
+        "en": {
+          "short": "circularity",
+          "long": "the fact of a theory or an argument continuously returning to the starting point, due to having a conclusion that has been assumed as a premise",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bentuk bundar",
+          "long": "Fakta teori atau argumen yang terus -menerus kembali ke titik awal, karena memiliki kesimpulan yang telah diasumsikan sebagai premis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232514.jpeg",
+      "simplified": "圆",
+      "traditional": "圓",
+      "pinyin": "yuán"
+    },
+    {
+      "id": 232515,
+      "translation": {
+        "en": {
+          "short": "to claim",
+          "long": "to say that something is the case without providing proof for it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengklaim",
+          "long": "untuk mengatakan bahwa ada yang terjadi tanpa memberikan bukti untuk itu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232515.jpeg",
+      "simplified": "相信某件事是真的",
+      "traditional": "相信某件事是真的",
+      "pinyin": "xiāngxìn mǒu jiàn shì shì zhēnde"
+    },
+    {
+      "id": 232487,
+      "translation": {
+        "en": {
+          "short": "chink in {one's} armor",
+          "long": "‌a weakness in someone's character or argument that can be used against them",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "chink in {One's} armor",
+          "long": "Kelemahan dalam karakter atau argumen seseorang yang dapat digunakan untuk melawan mereka",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232487.jpeg",
+      "simplified": "弱点",
+      "traditional": "弱點",
+      "pinyin": "ruòdiǎn"
+    },
+    {
+      "id": 232516,
+      "translation": {
+        "en": {
+          "short": "claim",
+          "long": "a statement about the truth of something without offering any verification or proof",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengeklaim",
+          "long": "pernyataan tentang kebenaran sesuatu tanpa menawarkan verifikasi atau bukti apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232516.jpeg",
+      "simplified": "要求",
+      "traditional": "要求",
+      "pinyin": "yāoqiú"
+    },
+    {
+      "id": 232518,
+      "translation": {
+        "en": {
+          "short": "to climb down",
+          "long": "to move to a different opinion or to admit to one's mistakes",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk turun",
+          "long": "untuk pindah ke pendapat yang berbeda atau mengakui kesalahan seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232518.jpeg",
+      "simplified": "爬下",
+      "traditional": "爬下",
+      "pinyin": "pá xià"
+    },
+    {
+      "id": 232520,
+      "translation": {
+        "en": {
+          "short": "clincher",
+          "long": "a fact, remark, or action that settles a dispute decisively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penjelasan",
+          "long": "fakta, komentar, atau tindakan yang menyelesaikan perselisihan dengan tegas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232520.jpeg",
+      "simplified": "决定性的",
+      "traditional": "決定性的",
+      "pinyin": "juédìng xìng de"
+    },
+    {
+      "id": 232521,
+      "translation": {
+        "en": {
+          "short": "to concede",
+          "long": "to reluctantly admit that something is true after denying it first",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengakui",
+          "long": "untuk dengan enggan mengakui bahwa ada sesuatu yang benar setelah menyangkalnya terlebih dahulu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232521.jpeg",
+      "simplified": "承认",
+      "traditional": "承認",
+      "pinyin": "chéngrèn"
+    },
+    {
+      "id": 232522,
+      "translation": {
+        "en": {
+          "short": "to confute",
+          "long": "to prove something or someone wrong or false through evidence or argumentation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membantah",
+          "long": "untuk membuktikan sesuatu atau seseorang yang salah atau salah melalui bukti atau argumentasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232522.jpeg",
+      "simplified": "驳斥",
+      "traditional": "駁斥",
+      "pinyin": "bóchì"
+    },
+    {
+      "id": 232523,
+      "translation": {
+        "en": {
+          "short": "consistently",
+          "long": "in a way that is always the same",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara konsisten",
+          "long": "dengan cara yang selalu sama",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232523.jpeg",
+      "simplified": "始终如一地",
+      "traditional": "始終如一地",
+      "pinyin": "shǐzhōng rú yī de"
+    },
+    {
+      "id": 232524,
+      "translation": {
+        "en": {
+          "short": "to contend",
+          "long": "to argue the truth of something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersaing",
+          "long": "untuk memperdebatkan kebenaran sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232524.jpeg",
+      "simplified": "抗衡",
+      "traditional": "抗衡",
+      "pinyin": "kànghéng"
+    },
+    {
+      "id": 232525,
+      "translation": {
+        "en": {
+          "short": "corollary",
+          "long": "a thing that is the direct or natural result of another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akibat wajar",
+          "long": "sesuatu yang merupakan hasil langsung atau alami dari orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232525.jpeg",
+      "simplified": "推论",
+      "traditional": "推論",
+      "pinyin": "tuīlùn"
+    },
+    {
+      "id": 232527,
+      "translation": {
+        "en": {
+          "short": "count",
+          "long": "a point argued or discussed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghitung",
+          "long": "Poin yang diperdebatkan atau dibahas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232527.jpeg",
+      "simplified": "伯爵",
+      "traditional": "伯爵",
+      "pinyin": "bójué"
+    },
+    {
+      "id": 232528,
+      "translation": {
+        "en": {
+          "short": "counterargument",
+          "long": "an opposing argument or viewpoint that challenges an idea or theory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Argumen kontra",
+          "long": "argumen atau sudut pandang yang berlawanan yang menantang ide atau teori",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232528.jpeg",
+      "simplified": "相反的观点",
+      "traditional": "相反的觀點",
+      "pinyin": "xiāngfǎn de guāndiǎn"
+    },
+    {
+      "id": 232529,
+      "translation": {
+        "en": {
+          "short": "counterexample",
+          "long": "an example or a fact that refutes or contradicts a theory, hypothesis, or a proposition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Contoh tandingan",
+          "long": "Contoh atau fakta yang membantah atau bertentangan dengan teori, hipotesis, atau proposisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232529.jpeg",
+      "simplified": "反例",
+      "traditional": "反例",
+      "pinyin": "fǎnlì"
+    },
+    {
+      "id": 232530,
+      "translation": {
+        "en": {
+          "short": "credible",
+          "long": "able to be believed or relied on",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kredibel",
+          "long": "dapat dipercaya atau diandalkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232530.jpeg",
+      "simplified": "可信的",
+      "traditional": "可信的",
+      "pinyin": "kěxìn de"
+    },
+    {
+      "id": 232531,
+      "translation": {
+        "en": {
+          "short": "defense",
+          "long": "the case that is a combination of collected facts and adopted methods presented by or on the behalf of the accused party so that they would be granted a judgment of acquittal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertahanan",
+          "long": "Kasus yang merupakan kombinasi dari fakta yang dikumpulkan dan metode yang diadopsi yang disajikan oleh atau atas nama pihak yang dituduh sehingga mereka akan diberikan penilaian pembebasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232531.jpeg",
+      "simplified": "防御",
+      "traditional": "防禦",
+      "pinyin": "fángyù"
+    },
+    {
+      "id": 232532,
+      "translation": {
+        "en": {
+          "short": "to defend",
+          "long": "to support someone or try to justify an action, plan, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mempertahankan",
+          "long": "untuk mendukung seseorang atau mencoba membenarkan suatu tindakan, rencana, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232532.jpeg",
+      "simplified": "保卫",
+      "traditional": "保衛",
+      "pinyin": "bǎowèi"
+    },
+    {
+      "id": 232533,
+      "translation": {
+        "en": {
+          "short": "defensible",
+          "long": "capable of being easily supported by arguments or adequately justified by reasoning",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dipertahankan",
+          "long": "mampu dengan mudah didukung oleh argumen atau dibenarkan secara memadai dengan alasan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232533.jpeg",
+      "simplified": "可以防御的",
+      "traditional": "可以防禦的",
+      "pinyin": "kěyǐ fángyù de"
+    },
+    {
+      "id": 232534,
+      "translation": {
+        "en": {
+          "short": "dialectic",
+          "long": "a method of uncovering the truth about something by comparing contradicting ideas and considering different theories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dialektika",
+          "long": "metode mengungkap kebenaran tentang sesuatu dengan membandingkan ide -ide yang bertentangan dan mempertimbangkan teori yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232534.jpeg",
+      "simplified": "辩证法",
+      "traditional": "辯證法",
+      "pinyin": "biànzhèng fǎ"
+    },
+    {
+      "id": 232535,
+      "translation": {
+        "en": {
+          "short": "dialectical",
+          "long": "referring to the method of argumentation or discourse that involves the exchange of opposing ideas or viewpoints in order to reach a deeper understanding or resolution",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dialektis",
+          "long": "Mengacu pada metode argumentasi atau wacana yang melibatkan pertukaran ide atau sudut pandang yang berlawanan untuk mencapai pemahaman atau resolusi yang lebih dalam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232535.jpeg",
+      "simplified": "辩证的",
+      "traditional": "辯證的",
+      "pinyin": "biànzhèng de"
+    },
+    {
+      "id": 232581,
+      "translation": {
+        "en": {
+          "short": "to [drive] {sth} home",
+          "long": "to make something clear by emphasizing, or providing examples, proof, etc.",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "ke [drive] {sth} home",
+          "long": "Untuk memperjelas sesuatu dengan menekankan, atau memberikan contoh, bukti, dll.",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232581.jpeg",
+      "simplified": "开车回家",
+      "traditional": "開車回家",
+      "pinyin": "kāichē huíjiā"
+    },
+    {
+      "id": 232536,
+      "translation": {
+        "en": {
+          "short": "evidence",
+          "long": "anything that proves the truth or possibility of something, such as facts, objects, or signs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bukti",
+          "long": "Apa pun yang membuktikan kebenaran atau kemungkinan sesuatu, seperti fakta, objek, atau tanda -tanda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232536.jpeg",
+      "simplified": "证据",
+      "traditional": "證據",
+      "pinyin": "zhèngjù"
+    },
+    {
+      "id": 232538,
+      "translation": {
+        "en": {
+          "short": "to flatten",
+          "long": "to thoroughly defeat someone in an argument, a contest, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meratakan",
+          "long": "Untuk benar -benar mengalahkan seseorang dalam argumen, kontes, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232538.jpeg",
+      "simplified": "弄平",
+      "traditional": "弄平",
+      "pinyin": "nòngpíng"
+    },
+    {
+      "id": 232539,
+      "translation": {
+        "en": {
+          "short": "to flesh out",
+          "long": "to make something more clear by providing more details and information",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyempurnakan",
+          "long": "untuk membuat sesuatu yang lebih jelas dengan memberikan lebih banyak detail dan informasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232539.jpeg",
+      "simplified": "充实",
+      "traditional": "充實",
+      "pinyin": "chōngshí"
+    },
+    {
+      "id": 232544,
+      "translation": {
+        "en": {
+          "short": "for a start",
+          "long": "used to introduce the first point in the series, especially in arguments or when stating one's opinions, reasons, etc.",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk permulaan",
+          "long": "Digunakan untuk memperkenalkan poin pertama dalam seri ini, terutama dalam argumen atau ketika menyatakan pendapat, alasan, dll.",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232544.jpeg",
+      "simplified": "作为一个开始",
+      "traditional": "作為一個開始",
+      "pinyin": "zuòwéi yī gě kāishǐ"
+    },
+    {
+      "id": 232546,
+      "translation": {
+        "en": {
+          "short": "for starters",
+          "long": "used to state the first and foremost of a series of facts, opinions, questions etc., especially in an argument",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "sebagai permulaan",
+          "long": "Dulu menyatakan yang pertama dan terpenting dari serangkaian fakta, pendapat, pertanyaan dll., Terutama dalam sebuah argumen",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232546.jpeg",
+      "simplified": "对于初学者",
+      "traditional": "對於初學者",
+      "pinyin": "duìyú chūxué zhě"
+    },
+    {
+      "id": 232547,
+      "translation": {
+        "en": {
+          "short": "for that matter",
+          "long": "used to convey that what one is saying about something is also true for another related thing",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "untuk hal tersebut",
+          "long": "digunakan untuk menyampaikan bahwa apa yang dikatakan seseorang tentang sesuatu juga benar untuk hal terkait lainnya",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232547.jpeg",
+      "simplified": "同样地",
+      "traditional": "同樣地",
+      "pinyin": "tóngyàng de"
+    },
+    {
+      "id": 232548,
+      "translation": {
+        "en": {
+          "short": "furthermore",
+          "long": "used to introduce additional information",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "lebih-lebih lagi",
+          "long": "Digunakan untuk memperkenalkan informasi tambahan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/232548.jpeg",
+      "simplified": "此外",
+      "traditional": "此外",
+      "pinyin": "cǐwài"
+    }
+  ]
+}

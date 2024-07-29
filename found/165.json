@@ -1,0 +1,830 @@
+{
+  "id": 165,
+  "title": {
+    "en": "War and Peace",
+    "id": "Perang dan damai"
+  },
+  "description": {
+    "en": "Here you will learn some English words about war and peace, such as \"army\", \"military\", \"defend\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perang dan perdamaian, seperti \"tentara\", \"militer\", \"bertahan\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 213338,
+      "translation": {
+        "en": {
+          "short": "war",
+          "long": "a state of armed fighting between two or more groups, nations, or states",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perang",
+          "long": "keadaan pertempuran bersenjata antara dua atau lebih kelompok, negara, atau negara bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213338.jpeg",
+      "simplified": "战争",
+      "traditional": "戰爭",
+      "pinyin": "zhànzhēng"
+    },
+    {
+      "id": 213339,
+      "translation": {
+        "en": {
+          "short": "peace",
+          "long": "a period or state where there is no war or violence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perdamaian",
+          "long": "periode atau keadaan di mana tidak ada perang atau kekerasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213339.jpeg",
+      "simplified": "和平",
+      "traditional": "和平",
+      "pinyin": "Hépíng"
+    },
+    {
+      "id": 235989,
+      "translation": {
+        "en": {
+          "short": "army",
+          "long": "a country's military force trained to fight on land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tentara",
+          "long": "Pasukan militer suatu negara dilatih untuk bertarung di darat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235989.jpeg",
+      "simplified": "军队",
+      "traditional": "軍隊",
+      "pinyin": "jūnduì"
+    },
+    {
+      "id": 235990,
+      "translation": {
+        "en": {
+          "short": "military",
+          "long": "the armed forces of a country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "militer",
+          "long": "Angkatan Bersenjata suatu negara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235990.jpeg",
+      "simplified": "军队",
+      "traditional": "軍隊",
+      "pinyin": "jūnduì"
+    },
+    {
+      "id": 235997,
+      "translation": {
+        "en": {
+          "short": "force",
+          "long": "a group of trained and organized people such as the police, soldiers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memaksa",
+          "long": "Sekelompok orang yang terlatih dan terorganisir seperti polisi, tentara, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235997.jpeg",
+      "simplified": "武力（警察等）",
+      "traditional": "武力（警察等）",
+      "pinyin": "wǔlì jǐngchá děng"
+    },
+    {
+      "id": 235994,
+      "translation": {
+        "en": {
+          "short": "to obey",
+          "long": "to follow commands, rules, or orders",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mematuhi",
+          "long": "untuk mengikuti perintah, aturan, atau pesanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235994.jpeg",
+      "simplified": "服从",
+      "traditional": "服從",
+      "pinyin": "fúcóng"
+    },
+    {
+      "id": 236015,
+      "translation": {
+        "en": {
+          "short": "to order",
+          "long": "to give an instruction to someone to do something through one's authority",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memesan",
+          "long": "untuk memberikan instruksi kepada seseorang untuk melakukan sesuatu melalui otoritas seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236015.jpeg",
+      "simplified": "发号施令",
+      "traditional": "發號施令",
+      "pinyin": "fāhào shī lìng"
+    },
+    {
+      "id": 236016,
+      "translation": {
+        "en": {
+          "short": "order",
+          "long": "a command or instruction given by someone in a position of authority",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memesan",
+          "long": "perintah atau instruksi yang diberikan oleh seseorang dalam posisi otoritas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236016.jpeg",
+      "simplified": "命令",
+      "traditional": "命令",
+      "pinyin": "mìnglìng"
+    },
+    {
+      "id": 235992,
+      "translation": {
+        "en": {
+          "short": "commander",
+          "long": "an officer in charge of a military operation or a group of soldiers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komandan",
+          "long": "seorang perwira yang bertanggung jawab atas operasi militer atau sekelompok tentara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235992.jpeg",
+      "simplified": "指挥官",
+      "traditional": "指揮官",
+      "pinyin": "zhǐhuī guān"
+    },
+    {
+      "id": 235993,
+      "translation": {
+        "en": {
+          "short": "officer",
+          "long": "a member of the armed forces who is in a position of authority",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petugas",
+          "long": "anggota angkatan bersenjata yang berada dalam posisi otoritas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235993.jpeg",
+      "simplified": "官",
+      "traditional": "官",
+      "pinyin": "Guān"
+    },
+    {
+      "id": 235995,
+      "translation": {
+        "en": {
+          "short": "conflict",
+          "long": "a military clash between two nations or countries, usually one that lasts long",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konflik",
+          "long": "Bentrokan militer antara dua negara atau negara, biasanya yang berlangsung lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235995.jpeg",
+      "simplified": "冲突",
+      "traditional": "衝突",
+      "pinyin": "chōngtū"
+    },
+    {
+      "id": 235996,
+      "translation": {
+        "en": {
+          "short": "battle",
+          "long": "a fight between opposing armed forces, particularly during a war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertarungan",
+          "long": "Pertarungan antara angkatan bersenjata yang berlawanan, terutama selama perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235996.jpeg",
+      "simplified": "战",
+      "traditional": "戰",
+      "pinyin": "zhàn"
+    },
+    {
+      "id": 235998,
+      "translation": {
+        "en": {
+          "short": "to defeat",
+          "long": "to win against someone in a war, game, contest, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk mengalahkan",
+          "long": "untuk menang melawan seseorang dalam perang, permainan, kontes, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235998.jpeg",
+      "simplified": "打败",
+      "traditional": "打敗",
+      "pinyin": "dǎbài"
+    },
+    {
+      "id": 213349,
+      "translation": {
+        "en": {
+          "short": "defeat",
+          "long": "the state of having lost in a contest, war, competition, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalahkan",
+          "long": "Keadaan kalah dalam kontes, perang, kompetisi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213349.jpeg",
+      "simplified": "失败",
+      "traditional": "失敗",
+      "pinyin": "shībài"
+    },
+    {
+      "id": 236001,
+      "translation": {
+        "en": {
+          "short": "attack",
+          "long": "an attempt to injure or destroy forces or buildings of the enemy in a war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyerang",
+          "long": "Upaya untuk melukai atau menghancurkan kekuatan atau bangunan musuh dalam perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236001.jpeg",
+      "simplified": "军事攻击",
+      "traditional": "軍事攻擊",
+      "pinyin": "jūnshì gōngjī"
+    },
+    {
+      "id": 235999,
+      "translation": {
+        "en": {
+          "short": "to attack",
+          "long": "to begin using weapons against a place or enemy during a war",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerang",
+          "long": "untuk mulai menggunakan senjata melawan tempat atau musuh selama perang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235999.jpeg",
+      "simplified": "攻击（战争）",
+      "traditional": "攻擊（戰爭）",
+      "pinyin": "gōngjī zhànzhēng"
+    },
+    {
+      "id": 236000,
+      "translation": {
+        "en": {
+          "short": "to defend",
+          "long": "to not let any harm come to someone or something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mempertahankan",
+          "long": "untuk tidak membiarkan kerusakan datang kepada seseorang atau sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236000.jpeg",
+      "simplified": "保卫",
+      "traditional": "保衛",
+      "pinyin": "bǎowèi"
+    },
+    {
+      "id": 236003,
+      "translation": {
+        "en": {
+          "short": "defense",
+          "long": "the steps that a country takes to protect itself against any attack",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertahanan",
+          "long": "Langkah -langkah yang diambil suatu negara untuk melindungi dirinya terhadap serangan apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236003.jpeg",
+      "simplified": "防御",
+      "traditional": "防禦",
+      "pinyin": "fángyù"
+    },
+    {
+      "id": 213348,
+      "translation": {
+        "en": {
+          "short": "victory",
+          "long": "the success that is achieved in a competition, game, war, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemenangan",
+          "long": "Keberhasilan yang dicapai dalam kompetisi, permainan, perang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213348.jpeg",
+      "simplified": "胜利",
+      "traditional": "勝利",
+      "pinyin": "shènglì"
+    },
+    {
+      "id": 236004,
+      "translation": {
+        "en": {
+          "short": "to guard",
+          "long": "to protect a person, place, or property against harm or an attack",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjaga",
+          "long": "untuk melindungi seseorang, tempat, atau properti dari bahaya atau serangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236004.jpeg",
+      "simplified": "守卫",
+      "traditional": "守衛",
+      "pinyin": "shǒuwèi"
+    },
+    {
+      "id": 236002,
+      "translation": {
+        "en": {
+          "short": "weapon",
+          "long": "an object that can physically harm someone or something, such as a gun, bomb, knife, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "senjata",
+          "long": "Objek yang secara fisik dapat membahayakan seseorang atau sesuatu, seperti senjata, bom, pisau, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236002.jpeg",
+      "simplified": "武器",
+      "traditional": "武器",
+      "pinyin": "wǔqì"
+    },
+    {
+      "id": 236005,
+      "translation": {
+        "en": {
+          "short": "gun",
+          "long": "a type of weapon that can fire bullets, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "senjata",
+          "long": "Jenis senjata yang dapat menembakkan peluru, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236005.jpeg",
+      "simplified": "枪",
+      "traditional": "槍",
+      "pinyin": "Qiāng"
+    },
+    {
+      "id": 236007,
+      "translation": {
+        "en": {
+          "short": "bullet",
+          "long": "a small cylindrical metal object designed to be fired from a gun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peluru",
+          "long": "benda logam silinder kecil yang dirancang untuk ditembakkan dari pistol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236007.jpeg",
+      "simplified": "子弹",
+      "traditional": "子彈",
+      "pinyin": "zǐdàn"
+    },
+    {
+      "id": 236006,
+      "translation": {
+        "en": {
+          "short": "bomb",
+          "long": "an object that is designed to explode and cause destruction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bom",
+          "long": "objek yang dirancang untuk meledak dan menyebabkan kehancuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236006.jpeg",
+      "simplified": "炸弹",
+      "traditional": "炸彈",
+      "pinyin": "zhàdàn"
+    },
+    {
+      "id": 236008,
+      "translation": {
+        "en": {
+          "short": "to fire",
+          "long": "to shoot a bullet, shell, etc. from a weapon",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke tembak",
+          "long": "untuk menembak peluru, cangkang, dll. Dari senjata",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236008.jpeg",
+      "simplified": "射击",
+      "traditional": "射擊",
+      "pinyin": "shèjī"
+    },
+    {
+      "id": 236009,
+      "translation": {
+        "en": {
+          "short": "to explode",
+          "long": "to break apart violently and noisily in a way that causes destruction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "meledak",
+          "long": "hancur dengan keras dan berisik dengan cara yang menyebabkan kehancuran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236009.jpeg",
+      "simplified": "爆炸",
+      "traditional": "爆炸",
+      "pinyin": "bàozhà"
+    },
+    {
+      "id": 236017,
+      "translation": {
+        "en": {
+          "short": "to shoot",
+          "long": "to release a bullet or arrow from a gun or bow",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menembak",
+          "long": "untuk melepaskan peluru atau panah dari senjata atau busur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236017.jpeg",
+      "simplified": "用枪射击",
+      "traditional": "用槍射擊",
+      "pinyin": "yòng Qiāng shèjī"
+    },
+    {
+      "id": 236010,
+      "translation": {
+        "en": {
+          "short": "explosion",
+          "long": "the sudden loud noise of something bursting, like what a bomb does",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ledakan",
+          "long": "suara keras yang tiba -tiba dari sesuatu yang meledak, seperti apa yang dilakukan bom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236010.jpeg",
+      "simplified": "爆炸",
+      "traditional": "爆炸",
+      "pinyin": "bàozhà"
+    },
+    {
+      "id": 236011,
+      "translation": {
+        "en": {
+          "short": "enemy",
+          "long": "a country or its forces that one is fighting against in a war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musuh",
+          "long": "sebuah negara atau pasukannya yang diperjuangkan seseorang dalam perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236011.jpeg",
+      "simplified": "敌人",
+      "traditional": "敵人",
+      "pinyin": "dírén"
+    },
+    {
+      "id": 236013,
+      "translation": {
+        "en": {
+          "short": "to damage",
+          "long": "to physically harm someone or something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghancurkan",
+          "long": "untuk secara fisik menyakiti seseorang atau sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236013.jpeg",
+      "simplified": "危害",
+      "traditional": "危害",
+      "pinyin": "wēihài"
+    },
+    {
+      "id": 236014,
+      "translation": {
+        "en": {
+          "short": "damage",
+          "long": "physical harm done to something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerusakan",
+          "long": "kerusakan fisik yang dilakukan pada sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236014.jpeg",
+      "simplified": "损害",
+      "traditional": "損害",
+      "pinyin": "sǔnhài"
+    },
+    {
+      "id": 237009,
+      "translation": {
+        "en": {
+          "short": "to bomb",
+          "long": "to attack someone or something using explosive devices",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengebom",
+          "long": "untuk menyerang seseorang atau sesuatu menggunakan perangkat peledak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237009.jpeg",
+      "simplified": "轰炸",
+      "traditional": "轟炸",
+      "pinyin": "hōngzhà"
+    },
+    {
+      "id": 246853,
+      "translation": {
+        "en": {
+          "short": "peaceful",
+          "long": "free from conflict, violence, or disorder",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tenang",
+          "long": "bebas dari konflik, kekerasan, atau kekacauan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246853.jpeg",
+      "simplified": "平静的",
+      "traditional": "平靜的",
+      "pinyin": "píngjìng de"
+    },
+    {
+      "id": 261994,
+      "translation": {
+        "en": {
+          "short": "bloody",
+          "long": "consisting or involving a great deal of blood or violence",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berdarah",
+          "long": "terdiri atau melibatkan banyak darah atau kekerasan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/261994.jpeg",
+      "simplified": "血腥",
+      "traditional": "血腥",
+      "pinyin": "xuèxīng"
+    },
+    {
+      "id": 262441,
+      "translation": {
+        "en": {
+          "short": "dogfighter",
+          "long": "the pilot of a fighter aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dogfighter",
+          "long": "pilot pesawat tempur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262441.jpeg",
+      "simplified": "军用飞机飞行员",
+      "traditional": "軍用飛機飛行員",
+      "pinyin": "jūnyòng fēijī fēixíng yuán"
+    },
+    {
+      "id": 261999,
+      "translation": {
+        "en": {
+          "short": "to target",
+          "long": "to aim to shoot at or attack a certain person or thing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menargetkan",
+          "long": "bertujuan untuk menembak atau menyerang orang atau benda tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/261999.jpeg",
+      "simplified": "矛头指向",
+      "traditional": "矛頭指向",
+      "pinyin": "máotóu zhǐ xiàng"
+    },
+    {
+      "id": 262635,
+      "translation": {
+        "en": {
+          "short": "destruction",
+          "long": "the act of damaging something in a way that it could not exist or continue to be in its normal state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghancuran",
+          "long": "tindakan merusak sesuatu dengan cara yang tidak bisa ada atau terus berada dalam keadaan normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262635.jpeg",
+      "simplified": "毁坏",
+      "traditional": "毀壞",
+      "pinyin": "huǐhuài"
+    },
+    {
+      "id": 262639,
+      "translation": {
+        "en": {
+          "short": "combat",
+          "long": "a fight between different military forces during a war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempur",
+          "long": "Pertarungan antara kekuatan militer yang berbeda selama perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262639.jpeg",
+      "simplified": "斗争",
+      "traditional": "鬥爭",
+      "pinyin": "dòuzhēng"
+    },
+    {
+      "id": 262645,
+      "translation": {
+        "en": {
+          "short": "missile",
+          "long": "an explosive weapon capable of hitting a target over long distances, which can be controlled remotely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peluru kendali",
+          "long": "senjata peledak yang mampu mencapai target jarak jauh, yang dapat dikendalikan dari jarak jauh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262645.jpeg",
+      "simplified": "导弹",
+      "traditional": "飛彈",
+      "pinyin": "dǎodàn"
+    },
+    {
+      "id": 264205,
+      "translation": {
+        "en": {
+          "short": "shotgun",
+          "long": "a long gun that can shoot multiple small bullets at one time, suitable for hunting animals such as birds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "senapan",
+          "long": "senjata panjang yang dapat menembakkan beberapa peluru kecil sekaligus, cocok untuk berburu hewan seperti burung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264205.jpeg",
+      "simplified": "滑膛枪",
+      "traditional": "滑膛槍",
+      "pinyin": "huátáng Qiāng"
+    },
+    {
+      "id": 264211,
+      "translation": {
+        "en": {
+          "short": "gunshot",
+          "long": "the act of firing a gun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suara tembakan",
+          "long": "tindakan menembakkan senjata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264211.jpeg",
+      "simplified": "炮火",
+      "traditional": "炮火",
+      "pinyin": "pàohuǒ"
+    },
+    {
+      "id": 264212,
+      "translation": {
+        "en": {
+          "short": "gunfire",
+          "long": "the repeated shooting of one or several guns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan",
+          "long": "penembakan berulang dari satu atau beberapa senjata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264212.jpeg",
+      "simplified": "炮火",
+      "traditional": "炮火",
+      "pinyin": "pàohuǒ"
+    },
+    {
+      "id": 265662,
+      "translation": {
+        "en": {
+          "short": "to question",
+          "long": "to officially ask someone a series of questions about something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mempertanyakan",
+          "long": "untuk secara resmi mengajukan serangkaian pertanyaan kepada seseorang tentang sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265662.jpeg",
+      "simplified": "审问",
+      "traditional": "審問",
+      "pinyin": "shěnwèn"
+    }
+  ]
+}

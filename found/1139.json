@@ -1,0 +1,1305 @@
+{
+  "id": 1139,
+  "title": {
+    "en": "Chess Terms",
+    "id": "Istilah catur"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to chess terms such as \"decoy\", \"perpetual check\", and \"gambit\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan istilah catur seperti \"umpan\", \"cek abadi\", dan \"gambit\"."
+  },
+  "cards": [
+    {
+      "id": 354484,
+      "translation": {
+        "en": {
+          "short": "chessboard",
+          "long": "a square board with a grid of 64 alternating light and dark colored squares arranged in an 8x8 pattern, used for playing the game of chess",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan catur",
+          "long": "Papan persegi dengan kotak 64 kotak bergantian terang dan berwarna gelap diatur dalam pola 8x8, digunakan untuk memainkan permainan catur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354484.jpeg",
+      "simplified": "棋盘",
+      "traditional": "棋盤",
+      "pinyin": "qípán"
+    },
+    {
+      "id": 354485,
+      "translation": {
+        "en": {
+          "short": "king",
+          "long": "a chess piece that is the most important and able to move in any direction but one square at a time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "raja",
+          "long": "sepotong catur yang paling penting dan mampu bergerak ke segala arah kecuali satu persegi sekaligus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354485.jpeg",
+      "simplified": "国王（国际象棋中）",
+      "traditional": "國王（國際象棋中）",
+      "pinyin": "guówáng guójì xiàng qí Zhōng"
+    },
+    {
+      "id": 354486,
+      "translation": {
+        "en": {
+          "short": "queen",
+          "long": "the most powerful piece in the game of chess that can move in any direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ratu",
+          "long": "Bagian paling kuat dalam permainan catur yang dapat bergerak ke segala arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354486.jpeg",
+      "simplified": "女王",
+      "traditional": "女王",
+      "pinyin": "nǚwáng"
+    },
+    {
+      "id": 354487,
+      "translation": {
+        "en": {
+          "short": "rook",
+          "long": "a chess piece that is represented by a small tower-shaped object, typically with a pointed top, and is one of the six types of pieces used in the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benteng",
+          "long": "Sepotong catur yang diwakili oleh objek berbentuk menara kecil, biasanya dengan atasan runcing, dan merupakan salah satu dari enam jenis potongan yang digunakan dalam permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354487.jpeg",
+      "simplified": "车",
+      "traditional": "車",
+      "pinyin": "Chē"
+    },
+    {
+      "id": 354488,
+      "translation": {
+        "en": {
+          "short": "bishop",
+          "long": "a chess piece that is placed next to the king and next to the queen and moves in any direction diagonally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uskup",
+          "long": "sepotong catur yang ditempatkan di sebelah raja dan di sebelah ratu dan bergerak ke arah mana pun secara diagonal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354488.jpeg",
+      "simplified": "主教",
+      "traditional": "主教",
+      "pinyin": "zhǔjiào"
+    },
+    {
+      "id": 354489,
+      "translation": {
+        "en": {
+          "short": "knight",
+          "long": "a chess piece that looks like the head of a horse and can either move two vertical and one horizontal squares or two horizontal and one vertical squares in any direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ksatria",
+          "long": "Sepotong catur yang terlihat seperti kepala kuda dan dapat menggerakkan dua kotak vertikal dan satu kotak horizontal atau dua horizontal dan satu kotak vertikal ke segala arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354489.jpeg",
+      "simplified": "骑士",
+      "traditional": "騎士",
+      "pinyin": "qíshì"
+    },
+    {
+      "id": 354490,
+      "translation": {
+        "en": {
+          "short": "pawn",
+          "long": "one of the eight weakest pieces in chess, usually smaller in size compared to other pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bidak",
+          "long": "Salah satu dari delapan bagian terlemah dalam catur, biasanya ukurannya lebih kecil dibandingkan dengan potongan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354490.jpeg",
+      "simplified": "典当",
+      "traditional": "典當",
+      "pinyin": "diǎndàng"
+    },
+    {
+      "id": 354491,
+      "translation": {
+        "en": {
+          "short": "black",
+          "long": "one of the two opposing players, who moves second and uses pieces that are distinguished by their black color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hitam",
+          "long": "Salah satu dari dua pemain lawan, yang bergerak kedua dan menggunakan potongan -potongan yang dibedakan dengan warna hitam mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354491.jpeg",
+      "simplified": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēisè"
+    },
+    {
+      "id": 354492,
+      "translation": {
+        "en": {
+          "short": "white",
+          "long": "one of the two opposing players, who moves first and uses pieces that are distinguished by their white color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putih",
+          "long": "Salah satu dari dua pemain lawan, yang bergerak lebih dulu dan menggunakan potongan -potongan yang dibedakan dengan warna putih mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354492.jpeg",
+      "simplified": "白色",
+      "traditional": "白色",
+      "pinyin": "báisè"
+    },
+    {
+      "id": 354493,
+      "translation": {
+        "en": {
+          "short": "checkmate",
+          "long": "a chess move that makes the opponent's king unable to escape, which means that opponent has lost",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekakmat",
+          "long": "Langkah catur yang membuat raja lawan tidak dapat melarikan diri, yang berarti bahwa lawan telah kalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354493.jpeg",
+      "simplified": "围攻",
+      "traditional": "圍攻",
+      "pinyin": "wéigōng"
+    },
+    {
+      "id": 354494,
+      "translation": {
+        "en": {
+          "short": "draw",
+          "long": "when neither player is able to win the game, typically because there are no more legal moves available or because both players agree to a draw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggambar",
+          "long": "Ketika tidak ada pemain yang mampu memenangkan permainan, biasanya karena tidak ada lagi gerakan hukum yang tersedia atau karena kedua pemain menyetujui undian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354494.jpeg",
+      "simplified": "平局",
+      "traditional": "平局",
+      "pinyin": "píngjú"
+    },
+    {
+      "id": 354495,
+      "translation": {
+        "en": {
+          "short": "stalemate",
+          "long": "a situation in the game of chess where one is unable to make any legal moves while their king is not checkmated, therefore the game ends and no one wins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan buntu",
+          "long": "Situasi dalam permainan catur di mana seseorang tidak dapat melakukan gerakan hukum sementara raja mereka tidak direkam, oleh karena itu permainan berakhir dan tidak ada yang menang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354495.jpeg",
+      "simplified": "对置",
+      "traditional": "對置",
+      "pinyin": "duì zhì"
+    },
+    {
+      "id": 354497,
+      "translation": {
+        "en": {
+          "short": "threefold repetition",
+          "long": "a rule that occurs when the same position on the board occurs three times with the same player to move, or if the same sequence of moves occurs three times with the same player to move, resulting in a draw or stalemate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengulangan tiga kali lipat",
+          "long": "aturan yang terjadi ketika posisi yang sama di papan tulis terjadi tiga kali dengan pemain yang sama untuk bergerak, atau jika urutan gerakan yang sama terjadi tiga kali dengan pemain yang sama untuk bergerak, menghasilkan undian atau kebuntuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354497.jpeg",
+      "simplified": "三重重复",
+      "traditional": "三重重複",
+      "pinyin": "Sānchóng chóngfù"
+    },
+    {
+      "id": 354499,
+      "translation": {
+        "en": {
+          "short": "time control",
+          "long": "the amount of time each player has to make their moves during a game, with various formats and time limits available, such as a fixed amount of time per move or a total time for the entire game, and with additional time increments or time delays added after each move",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kontrol Waktu",
+          "long": "Jumlah waktu yang harus dilakukan setiap pemain untuk melakukan gerakan mereka selama permainan, dengan berbagai format dan batas waktu yang tersedia, seperti jumlah waktu yang tetap per gerakan atau total waktu untuk seluruh permainan, dan dengan tambahan waktu tambahan atau penundaan waktu yang ditambahkan setelah setiap gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354499.jpeg",
+      "simplified": "时间控制",
+      "traditional": "時間控制",
+      "pinyin": "shíjiān kòngzhì"
+    },
+    {
+      "id": 354503,
+      "translation": {
+        "en": {
+          "short": "fifty-move rule",
+          "long": "a rule in chess stating that if no capture has been made and no pawn has been moved in the previous fifty moves by each player, either player can claim a draw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aturan lima puluh move",
+          "long": "Aturan dalam catur yang menyatakan bahwa jika tidak ada penangkapan yang dilakukan dan tidak ada gadai yang dipindahkan dalam lima puluh gerakan sebelumnya oleh masing -masing pemain, salah satu pemain dapat mengklaim hasil imbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354503.jpeg",
+      "simplified": "五十步规则",
+      "traditional": "五十步規則",
+      "pinyin": "wǔshí Bù guīzé"
+    },
+    {
+      "id": 354504,
+      "translation": {
+        "en": {
+          "short": "chess set",
+          "long": "a collection of pieces used to play the game of chess, typically consisting of 32 pieces in total, with 16 pieces for each player",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "set catur",
+          "long": "Koleksi karya yang digunakan untuk memainkan permainan catur, biasanya terdiri dari total 32 buah, dengan 16 buah untuk setiap pemain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354504.jpeg",
+      "simplified": "国际象棋",
+      "traditional": "國際象棋",
+      "pinyin": "guójì xiàng qí"
+    },
+    {
+      "id": 354505,
+      "translation": {
+        "en": {
+          "short": "castling",
+          "long": "a move in the game of chess that allows the king and one of the rooks to move simultaneously",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Castling",
+          "long": "Langkah dalam permainan catur yang memungkinkan raja dan salah satu benteng untuk bergerak secara bersamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354505.jpeg",
+      "simplified": "易位",
+      "traditional": "易位",
+      "pinyin": "Yì wèi"
+    },
+    {
+      "id": 354506,
+      "translation": {
+        "en": {
+          "short": "en passant",
+          "long": "a special pawn capture move in chess that can occur when a pawn moves two squares forward from its starting position and lands adjacent to an opposing pawn on the fifth rank",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sambil lalu",
+          "long": "Langkah penangkapan gadai khusus dalam catur yang dapat terjadi ketika pion menggerakkan dua kotak ke depan dari posisi awal dan mendarat berdekatan dengan pion lawan di peringkat kelima",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354506.jpeg",
+      "simplified": "路过的",
+      "traditional": "路過的",
+      "pinyin": "lùguò de"
+    },
+    {
+      "id": 354508,
+      "translation": {
+        "en": {
+          "short": "zugzwang",
+          "long": "a term in chess used to describe a situation where a player would prefer to pass their turn and make no move, as any move they can make would put them in a weaker position or lead to an eventual loss",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zugzwang",
+          "long": "Suatu istilah dalam catur yang digunakan untuk menggambarkan situasi di mana seorang pemain lebih suka lulus giliran mereka dan tidak bergerak, karena setiap langkah yang dapat mereka lakukan akan menempatkan mereka pada posisi yang lebih lemah atau menyebabkan kerugian akhirnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354508.jpeg",
+      "simplified": "祖格旺",
+      "traditional": "祖格旺",
+      "pinyin": "Zǔ gé wàng"
+    },
+    {
+      "id": 354509,
+      "translation": {
+        "en": {
+          "short": "check",
+          "long": "a chess move that puts the opponent's king under the threat of a direct attack by the chess pieces of the other player",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memeriksa",
+          "long": "Langkah catur yang menempatkan raja lawan di bawah ancaman serangan langsung oleh potongan catur dari pemain lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354509.jpeg",
+      "simplified": "支票",
+      "traditional": "支票",
+      "pinyin": "zhīpiào"
+    },
+    {
+      "id": 354511,
+      "translation": {
+        "en": {
+          "short": "chess clock",
+          "long": "a device used to time the moves of players during a game of chess, with two clocks typically used for each player, one with a button that stops their clock and starts their opponent's clock, and vice versa",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam catur",
+          "long": "Perangkat yang digunakan untuk mengatur waktu pergerakan pemain selama permainan catur, dengan dua jam biasanya digunakan untuk setiap pemain, satu dengan tombol yang menghentikan jam mereka dan memulai jam lawan mereka, dan sebaliknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354511.jpeg",
+      "simplified": "国际象棋时钟",
+      "traditional": "國際象棋時鐘",
+      "pinyin": "guójì xiàng qí shízhōng"
+    },
+    {
+      "id": 354514,
+      "translation": {
+        "en": {
+          "short": "fast chess",
+          "long": "a type of chess game with a significantly reduced time control compared to traditional chess, typically with each player having only a few minutes or seconds to make their moves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Catur Cepat",
+          "long": "Jenis permainan catur dengan kontrol waktu yang berkurang secara signifikan dibandingkan dengan catur tradisional, biasanya dengan setiap pemain hanya memiliki beberapa menit atau detik untuk membuat gerakan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354514.jpeg",
+      "simplified": "快棋",
+      "traditional": "快棋",
+      "pinyin": "kuài qí"
+    },
+    {
+      "id": 354516,
+      "translation": {
+        "en": {
+          "short": "algebraic notation",
+          "long": "a standardized system used to record and describe the moves made in a game of chess, with each square of the chessboard being assigned a unique letter and number coordinate, and each piece being represented by its first letter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Notasi Aljabar",
+          "long": "Sistem standar yang digunakan untuk merekam dan menggambarkan gerakan yang dibuat dalam permainan catur, dengan masing -masing kuadrat papan catur diberi huruf unik dan koordinat angka, dan setiap bagian yang diwakili oleh huruf pertamanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354516.jpeg",
+      "simplified": "代数符号",
+      "traditional": "代數符號",
+      "pinyin": "dàishù fúhào"
+    },
+    {
+      "id": 354518,
+      "translation": {
+        "en": {
+          "short": "scholar's mate",
+          "long": "a four-move checkmate sequence in chess that can occur when one player moves their pawn to e4, their bishop to c4, and their queen to h5, threatening to checkmate the opposing king on f7",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasangan sarjana",
+          "long": "Urutan sekakmat empat-move dalam catur yang dapat terjadi ketika satu pemain memindahkan pion mereka ke E4, Uskup mereka ke C4, dan ratu mereka ke H5, mengancam untuk memantrak raja lawan di F7",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354518.jpeg",
+      "simplified": "学者之友",
+      "traditional": "學者之友",
+      "pinyin": "xuézhě zhī yǒu"
+    },
+    {
+      "id": 354519,
+      "translation": {
+        "en": {
+          "short": "grandmaster",
+          "long": "the highest title a player can achieve, awarded by FIDE to players who have demonstrated exceptional skill and achievement in chess tournaments and matches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grandmaster",
+          "long": "Judul tertinggi yang dapat dicapai oleh pemain yang dapat dicapai, diberikan oleh FIDE kepada pemain yang telah menunjukkan keterampilan dan pencapaian luar biasa dalam turnamen dan pertandingan catur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354519.jpeg",
+      "simplified": "棋圣",
+      "traditional": "棋聖",
+      "pinyin": "qí kū"
+    },
+    {
+      "id": 354520,
+      "translation": {
+        "en": {
+          "short": "opening",
+          "long": "the initial stage of the game, where players make their first moves to develop their pieces and control the center of the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembukaan",
+          "long": "Tahap awal permainan, di mana pemain membuat langkah pertama mereka untuk mengembangkan karya mereka dan mengontrol pusat papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354520.jpeg",
+      "simplified": "口",
+      "traditional": "口",
+      "pinyin": "kǒu"
+    },
+    {
+      "id": 354522,
+      "translation": {
+        "en": {
+          "short": "middlegame",
+          "long": "the phase of the game that follows the opening, where players have developed their pieces and are looking to create an advantageous position on the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "middegame",
+          "long": "Fase permainan yang mengikuti pembukaan, di mana pemain telah mengembangkan karya mereka dan mencari untuk menciptakan posisi yang menguntungkan di papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354522.jpeg",
+      "simplified": "中局",
+      "traditional": "中局",
+      "pinyin": "zhōngjú"
+    },
+    {
+      "id": 354523,
+      "translation": {
+        "en": {
+          "short": "endgame",
+          "long": "the final phase of the game that follows the middlegame, where only a few pieces remain on the board and where the focus shifts to pawn promotion, checkmate, and strategic play with the remaining pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akhir permainan",
+          "long": "Fase terakhir dari permainan yang mengikuti middegame, di mana hanya beberapa bagian yang tersisa di papan dan di mana fokus bergeser ke promosi gadai, skakmat, dan permainan strategis dengan potongan yang tersisa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354523.jpeg",
+      "simplified": "结束游戏",
+      "traditional": "結束遊戲",
+      "pinyin": "jiéshù yóuxì"
+    },
+    {
+      "id": 354525,
+      "translation": {
+        "en": {
+          "short": "chess problem",
+          "long": "a puzzle or challenge in the game of chess that involves finding a specific sequence of moves that leads to a particular outcome, such as a checkmate or a draw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masalah catur",
+          "long": "teka -teki atau tantangan dalam permainan catur yang melibatkan menemukan urutan gerakan tertentu yang mengarah ke hasil tertentu, seperti skakmat atau undian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354525.jpeg",
+      "simplified": "国际象棋问题",
+      "traditional": "國際象棋問題",
+      "pinyin": "guójì xiàng qí wèntí"
+    },
+    {
+      "id": 354526,
+      "translation": {
+        "en": {
+          "short": "bye",
+          "long": "a situation where a player is given a free point without having to play a game, typically due to an odd number of players in the tournament or an uneven number of rounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selamat tinggal",
+          "long": "Situasi di mana seorang pemain diberi poin gratis tanpa harus memainkan permainan, biasanya karena jumlah pemain yang aneh di turnamen atau jumlah putaran yang tidak merata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354526.jpeg",
+      "simplified": "枝节",
+      "traditional": "枝節",
+      "pinyin": "zhījié"
+    },
+    {
+      "id": 354528,
+      "translation": {
+        "en": {
+          "short": "blunder",
+          "long": "a serious tactical or positional mistake that results in a significant disadvantage or loss of material, often leading to a loss of the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan ceroboh",
+          "long": "Kesalahan taktis atau posisi yang serius yang mengakibatkan kerugian yang signifikan atau kehilangan materi, sering kali menyebabkan hilangnya permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354528.jpeg",
+      "simplified": "错误",
+      "traditional": "錯誤",
+      "pinyin": "cuòwù"
+    },
+    {
+      "id": 354529,
+      "translation": {
+        "en": {
+          "short": "combination",
+          "long": "a sequence of moves that involves a tactical sacrifice or exchange of material to gain a positional or tactical advantage, often leading to a decisive advantage or checkmate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kombinasi",
+          "long": "Urutan gerakan yang melibatkan pengorbanan taktis atau pertukaran materi untuk mendapatkan keunggulan posisi atau taktis, sering kali mengarah ke keuntungan yang menentukan atau memusnahkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354529.jpeg",
+      "simplified": "组合",
+      "traditional": "組合",
+      "pinyin": "zǔhé"
+    },
+    {
+      "id": 354531,
+      "translation": {
+        "en": {
+          "short": "desperado",
+          "long": "a piece that is sacrificed with the aim of achieving tactical gains, especially in a losing or desperate situation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bandit",
+          "long": "Sepotong yang dikorbankan dengan tujuan mencapai keuntungan taktis, terutama dalam situasi yang kalah atau putus asa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354531.jpeg",
+      "simplified": "不逞之徒",
+      "traditional": "不逞之徒",
+      "pinyin": "bùchěng zhī tú"
+    },
+    {
+      "id": 354532,
+      "translation": {
+        "en": {
+          "short": "exchange",
+          "long": "the capture of a rook for a minor piece, such as a knight or bishop, or vice versa",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menukarkan",
+          "long": "penangkapan benteng untuk sepotong kecil, seperti ksatria atau uskup, atau sebaliknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354532.jpeg",
+      "simplified": "交流",
+      "traditional": "交流",
+      "pinyin": "jiāoliú"
+    },
+    {
+      "id": 354534,
+      "translation": {
+        "en": {
+          "short": "fool's mate",
+          "long": "a two-move checkmate sequence in chess that can occur when one player makes an early mistake by moving their f-pawn or g-pawn too far forward, leaving their king vulnerable to attack",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teman bodoh",
+          "long": "Urutan sekakmat dua-move dalam catur yang dapat terjadi ketika satu pemain membuat kesalahan awal dengan memindahkan f-pawn atau g-pawn mereka terlalu jauh ke depan, membuat raja mereka rentan untuk menyerang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354534.jpeg",
+      "simplified": "傻瓜的伴侣",
+      "traditional": "傻瓜的伴侶",
+      "pinyin": "shǎguā de bànlǚ"
+    },
+    {
+      "id": 354536,
+      "translation": {
+        "en": {
+          "short": "fork",
+          "long": "a tactic in which a single piece attacks two or more of the opponent's pieces at the same time, forcing the opponent to choose which piece to defend and allowing the attacker to capture the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garpu",
+          "long": "Taktik di mana sepotong tunggal menyerang dua atau lebih potongan lawan pada saat yang sama, memaksa lawan untuk memilih bagian mana yang akan dipertahankan dan memungkinkan penyerang untuk menangkap yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354536.jpeg",
+      "simplified": "叉",
+      "traditional": "叉",
+      "pinyin": "chā"
+    },
+    {
+      "id": 354537,
+      "translation": {
+        "en": {
+          "short": "gambit",
+          "long": "(chess) an opening strategy in which a player voluntarily sacrifices a pawn or sometimes a more valuable piece, typically in the early moves of the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "langkah pertama",
+          "long": "(Catur) Strategi pembukaan di mana seorang pemain secara sukarela mengorbankan pion atau kadang -kadang bagian yang lebih berharga, biasanya dalam gerakan awal permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354537.jpeg",
+      "simplified": "话题",
+      "traditional": "話題",
+      "pinyin": "huàtí"
+    },
+    {
+      "id": 354539,
+      "translation": {
+        "en": {
+          "short": "open game",
+          "long": "a game that features early pawn exchanges and a relatively open center of the board, often resulting in more active and tactical play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Game Buka",
+          "long": "Permainan yang menampilkan pertukaran pegadaian awal dan pusat papan yang relatif terbuka, sering kali menghasilkan permainan yang lebih aktif dan taktis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354539.jpeg",
+      "simplified": "开放游戏",
+      "traditional": "開放遊戲",
+      "pinyin": "kāifàng yóuxì"
+    },
+    {
+      "id": 354541,
+      "translation": {
+        "en": {
+          "short": "outpost",
+          "long": "a square on the board that is under the control of one player's pawn and cannot be attacked by the opponent's pawns, making it an ideal position for a knight or bishop to occupy and control important squares on the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pos terdepan",
+          "long": "Sebuah kuadrat di papan yang berada di bawah kendali pion satu pemain dan tidak dapat diserang oleh pion lawan, menjadikannya posisi yang ideal bagi seorang ksatria atau uskup untuk menempati dan mengendalikan kotak penting di papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354541.jpeg",
+      "simplified": "前哨",
+      "traditional": "前哨",
+      "pinyin": "qiánshào"
+    },
+    {
+      "id": 354545,
+      "translation": {
+        "en": {
+          "short": "knight's tour",
+          "long": "a mathematical problem and a chess puzzle that involves finding a sequence of moves for a knight that visits every square on an empty chessboard exactly once",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tur Knight",
+          "long": "Masalah matematika dan teka -teki catur yang melibatkan menemukan urutan gerakan untuk ksatria yang mengunjungi setiap kotak di papan catur kosong tepat sekali sekali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354545.jpeg",
+      "simplified": "骑士之旅",
+      "traditional": "騎士之旅",
+      "pinyin": "qíshì zhī lǚ"
+    },
+    {
+      "id": 354547,
+      "translation": {
+        "en": {
+          "short": "round-robin",
+          "long": "a type of tournament in which each player or team competes against every other player or team in the tournament once. In a round-robin tournament, participants are organized into a single group and play a series of matches, with points being awarded for wins, draws, and losses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Round-robin",
+          "long": "Jenis turnamen di mana setiap pemain atau tim berkompetisi melawan setiap pemain atau tim lain di turnamen sekali. Dalam turnamen round-robin, peserta disusun menjadi satu kelompok dan memainkan serangkaian pertandingan, dengan poin diberikan untuk kemenangan, pengundian, dan kerugian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354547.jpeg",
+      "simplified": "循环赛",
+      "traditional": "循環賽",
+      "pinyin": "xúnhuán sài"
+    },
+    {
+      "id": 354549,
+      "translation": {
+        "en": {
+          "short": "sacrifice",
+          "long": "a deliberate move in which a player gives up material, such as a pawn, knight, bishop, rook, or even a queen, in exchange for a strategic or tactical advantage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengorbanan",
+          "long": "Langkah yang disengaja di mana seorang pemain menyerahkan materi, seperti pion, ksatria, uskup, benteng, atau bahkan seorang ratu, dengan imbalan keunggulan strategis atau taktis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354549.jpeg",
+      "simplified": "牺牲",
+      "traditional": "犧牲",
+      "pinyin": "xīshēng"
+    },
+    {
+      "id": 354551,
+      "translation": {
+        "en": {
+          "short": "semi-open game",
+          "long": "a chess game that starts with 1.e4, but where Black responds with a move other than 1...e5, often resulting in a closed or semi-closed position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Game semi-terbuka",
+          "long": "permainan catur yang dimulai dengan 1.e4, tetapi di mana hitam merespons dengan gerakan selain 1 ... e5, sering menghasilkan posisi tertutup atau semi-tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354551.jpeg",
+      "simplified": "半开放游戏",
+      "traditional": "半開放遊戲",
+      "pinyin": "bàn kāifàng yóuxì"
+    },
+    {
+      "id": 354553,
+      "translation": {
+        "en": {
+          "short": "simultaneous exhibition",
+          "long": "a chess event in which a strong player, usually a grandmaster, plays multiple games at the same time against a group of opponents, moving from board to board and making one move at a time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pameran Simultan",
+          "long": "Acara catur di mana pemain yang kuat, biasanya seorang grandmaster, memainkan banyak pertandingan pada saat yang sama melawan sekelompok lawan, bergerak dari papan ke papan dan membuat satu gerakan pada satu waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354553.jpeg",
+      "simplified": "同步展览",
+      "traditional": "同步展覽",
+      "pinyin": "tóngbù zhǎnlǎn"
+    },
+    {
+      "id": 356137,
+      "translation": {
+        "en": {
+          "short": "double check",
+          "long": "a situation where the opponent's king is attacked by two pieces simultaneously, and the king must move because it cannot be protected by capturing one of the attacking pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Periksa ulang",
+          "long": "Situasi di mana raja lawan diserang oleh dua bagian secara bersamaan, dan raja harus bergerak karena tidak dapat dilindungi dengan menangkap salah satu potongan menyerang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356137.jpeg",
+      "simplified": "再检查一遍",
+      "traditional": "再檢查一遍",
+      "pinyin": "zài jiǎnchá yībiàn"
+    },
+    {
+      "id": 356138,
+      "translation": {
+        "en": {
+          "short": "discovered check",
+          "long": "a tactic where a player moves one of their pieces, revealing an attack on the opponent's king by another piece that was previously blocked or hidden behind the moving piece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cek ditemukan",
+          "long": "Taktik di mana seorang pemain menggerakkan salah satu karya mereka, mengungkapkan serangan terhadap raja lawan oleh karya lain yang sebelumnya diblokir atau disembunyikan di balik bagian yang bergerak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356138.jpeg",
+      "simplified": "发现检查",
+      "traditional": "發現檢查",
+      "pinyin": "fāxiàn jiǎnchá"
+    },
+    {
+      "id": 356140,
+      "translation": {
+        "en": {
+          "short": "discovered attack",
+          "long": "a tactic where moving one piece uncovers an attack by another piece, creating a double threat and putting pressure on the opponent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "serangan yang ditemukan",
+          "long": "taktik di mana memindahkan satu bagian mengungkap serangan oleh bagian lain, menciptakan ancaman ganda dan memberi tekanan pada lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356140.jpeg",
+      "simplified": "发现攻击",
+      "traditional": "發現攻擊",
+      "pinyin": "fāxiàn gōngjī"
+    },
+    {
+      "id": 356135,
+      "translation": {
+        "en": {
+          "short": "King's Indian defense",
+          "long": "a chess opening where Black sets up a strong defense and plans to attack the opponent's position later in the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pertahanan Raja India",
+          "long": "Pembukaan catur di mana Black membuat pertahanan yang kuat dan berencana untuk menyerang posisi lawan nanti dalam permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356135.jpeg",
+      "simplified": "国王的印度防守",
+      "traditional": "國王的印度防守",
+      "pinyin": "guówáng de Yìndù fángshǒu"
+    },
+    {
+      "id": 356142,
+      "translation": {
+        "en": {
+          "short": "attack",
+          "long": "a player's action of threatening to capture an opponent's piece, control key squares, or put the opponent's king in checkmate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyerang",
+          "long": "Tindakan seorang pemain mengancam untuk menangkap karya lawan, mengontrol kotak kunci, atau menempatkan raja lawan di sekakmat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356142.jpeg",
+      "simplified": "攻击",
+      "traditional": "攻擊",
+      "pinyin": "gōngjī"
+    },
+    {
+      "id": 356144,
+      "translation": {
+        "en": {
+          "short": "perpetual check",
+          "long": "a situation where one player continuously checks the opponent's king with no possibility of reaching a checkmate, resulting in a drawn game due to a stalemate or a threefold repetition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cek abadi",
+          "long": "Situasi di mana satu pemain terus -menerus memeriksa raja lawan tanpa kemungkinan menjangkau sekakmat, menghasilkan permainan yang ditarik karena kebuntuan atau pengulangan tiga kali lipat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356144.jpeg",
+      "simplified": "永久支票",
+      "traditional": "永久支票",
+      "pinyin": "yǒngjiǔ zhīpiào"
+    },
+    {
+      "id": 356146,
+      "translation": {
+        "en": {
+          "short": "dead draw",
+          "long": "a position where neither player has a realistic chance of winning, typically due to a lack of material or a highly symmetrical and locked position, resulting in an inevitable draw if the players continue to play perfectly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "undian mati",
+          "long": "Posisi di mana tidak ada pemain yang memiliki peluang yang realistis untuk menang, biasanya karena kurangnya materi atau posisi yang sangat simetris dan terkunci, menghasilkan hasil imbang yang tak terhindarkan jika para pemain terus bermain dengan sempurna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356146.jpeg",
+      "simplified": "死牌",
+      "traditional": "死牌",
+      "pinyin": "sǐ pái"
+    },
+    {
+      "id": 356148,
+      "translation": {
+        "en": {
+          "short": "decoy",
+          "long": "a tactical maneuver where a piece is sacrificed or placed in a vulnerable position to lure the opponent into making a disadvantageous move or to redirect their attention away from a more critical part of the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "umpan",
+          "long": "Manuver taktis di mana sebuah karya dikorbankan atau ditempatkan dalam posisi yang rentan untuk memikat lawan agar membuat langkah yang tidak menguntungkan atau mengarahkan kembali perhatian mereka dari bagian papan yang lebih kritis dari papan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356148.jpeg",
+      "simplified": "饵",
+      "traditional": "餌",
+      "pinyin": "ěr"
+    },
+    {
+      "id": 356149,
+      "translation": {
+        "en": {
+          "short": "tournament",
+          "long": "a series of sporting games in which teams or players compete against different rivals in different rounds until only one remains and that is the winner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turnamen",
+          "long": "Serangkaian permainan olahraga di mana tim atau pemain bersaing dengan saingan yang berbeda dalam putaran yang berbeda sampai hanya satu yang tersisa dan itu adalah pemenangnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356149.jpeg",
+      "simplified": "比赛",
+      "traditional": "比賽",
+      "pinyin": "bǐsài"
+    },
+    {
+      "id": 356151,
+      "translation": {
+        "en": {
+          "short": "cross-check",
+          "long": "a tactical move in response to a check, where the checked player delivers a counter-check by moving another piece, creating a double threat that must be addressed by the opponent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemeriksaan kembali",
+          "long": "Langkah taktis dalam menanggapi cek, di mana pemain yang diperiksa memberikan counter-check dengan memindahkan karya lain, menciptakan ancaman ganda yang harus ditangani oleh lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356151.jpeg",
+      "simplified": "交叉检查",
+      "traditional": "交叉檢查",
+      "pinyin": "jiāochā jiǎnchá"
+    },
+    {
+      "id": 356153,
+      "translation": {
+        "en": {
+          "short": "candidate move",
+          "long": "a potential move that a player considers during their turn as they analyze the possible outcomes and select the best course of action",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kandidat bergerak",
+          "long": "Langkah potensial yang dipertimbangkan seorang pemain selama giliran mereka saat mereka menganalisis hasil yang mungkin dan memilih tindakan terbaik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356153.jpeg",
+      "simplified": "候选人行动",
+      "traditional": "候選人行動",
+      "pinyin": "hòuxuǎn rén xíngdòng"
+    },
+    {
+      "id": 356155,
+      "translation": {
+        "en": {
+          "short": "Boden's mate",
+          "long": "a rare but elegant checkmate pattern named after Samuel Boden, where a knight and a bishop coordinate to deliver checkmate to the opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teman Boden",
+          "long": "Pola Pakmat -Pamara yang Langka tapi Elegan Dinamai Samuel Boden, di mana seorang ksatria dan seorang uskup berkoordinasi untuk mengantarkan teman -teman ke raja lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356155.jpeg",
+      "simplified": "博登的搭档",
+      "traditional": "博登的搭檔",
+      "pinyin": "bó dēng de dādàng"
+    },
+    {
+      "id": 354555,
+      "translation": {
+        "en": {
+          "short": "touch-move rule",
+          "long": "a fundamental rule in chess that requires a player, who touches one of their own pieces, to move that piece if it has a legal move available",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aturan Touch-Move",
+          "long": "Aturan mendasar dalam catur yang membutuhkan pemain, yang menyentuh salah satu karya mereka sendiri, untuk memindahkan karya itu jika memiliki langkah hukum yang tersedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354555.jpeg",
+      "simplified": "触摸-移动规则",
+      "traditional": "觸摸-移動規則",
+      "pinyin": "chùmō yídòng guīzé"
+    },
+    {
+      "id": 354557,
+      "translation": {
+        "en": {
+          "short": "tempo",
+          "long": "a player's move that gains a move or a tempo over their opponent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempo",
+          "long": "langkah pemain yang mendapatkan langkah atau tempo atas lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354557.jpeg",
+      "simplified": "速度",
+      "traditional": "速度",
+      "pinyin": "sùdù"
+    },
+    {
+      "id": 356157,
+      "translation": {
+        "en": {
+          "short": "backward pawn",
+          "long": "a pawn that is behind its adjacent pawns on the same file and cannot be easily advanced, making it vulnerable to attacks and potentially weakening the player's pawn structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pion mundur",
+          "long": "Pion yang ada di belakang pion yang berdekatan pada file yang sama dan tidak dapat dengan mudah maju, membuatnya rentan terhadap serangan dan berpotensi melemahkan struktur pion pemain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356157.jpeg",
+      "simplified": "后退典当",
+      "traditional": "後退典當",
+      "pinyin": "hòutuì diǎndàng"
+    },
+    {
+      "id": 356159,
+      "translation": {
+        "en": {
+          "short": "battery",
+          "long": "a setup where two or more pieces of the same color are aligned along a file, rank, or diagonal, increasing their combined attacking power and potential threats to the opponent's position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baterai",
+          "long": "Pengaturan di mana dua atau lebih bagian dengan warna yang sama diselaraskan di sepanjang file, pangkat, atau diagonal, meningkatkan kekuatan penyerang gabungan mereka dan potensi ancaman ke posisi lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356159.jpeg",
+      "simplified": "电池",
+      "traditional": "電池",
+      "pinyin": "diànchí"
+    },
+    {
+      "id": 356161,
+      "translation": {
+        "en": {
+          "short": "back-rank mate",
+          "long": "a checkmate pattern where the opponent's king is trapped on the back rank of the board and is mated by a rook or queen that delivers the checkmate along the same rank",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Back-rank mate",
+          "long": "pola sekakmat di mana raja lawan terjebak di peringkat belakang papan dan dikawinkan oleh benteng atau ratu yang memberikan skakmat di sepanjang peringkat yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356161.jpeg",
+      "simplified": "后排队友",
+      "traditional": "後排隊友",
+      "pinyin": "hòupái duìyǒu"
+    },
+    {
+      "id": 356163,
+      "translation": {
+        "en": {
+          "short": "bare king",
+          "long": "a situation where one player has no pieces left on the board, and their king is the only remaining piece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Raja telanjang",
+          "long": "Situasi di mana satu pemain tidak memiliki bagian yang tersisa di papan tulis, dan raja mereka adalah satu -satunya karya yang tersisa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356163.jpeg",
+      "simplified": "裸王",
+      "traditional": "裸王",
+      "pinyin": "luǒ Wáng"
+    },
+    {
+      "id": 356165,
+      "translation": {
+        "en": {
+          "short": "promotion",
+          "long": "the rule that allows a pawn to be promoted to a higher-ranking piece when it reaches the opposite end of the board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "promosi",
+          "long": "Aturan yang memungkinkan gadai dipromosikan ke bagian yang lebih tinggi saat mencapai ujung papan yang berlawanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356165.jpeg",
+      "simplified": "提升",
+      "traditional": "提升",
+      "pinyin": "tíshēng"
+    },
+    {
+      "id": 356167,
+      "translation": {
+        "en": {
+          "short": "Alekhine's gun",
+          "long": "a tactical formation where two rooks are stacked on the same file, and the queen is behind them, creating a powerful attacking position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pistol Alekhine",
+          "long": "Formasi taktis di mana dua benteng ditumpuk pada file yang sama, dan ratu ada di belakang mereka, menciptakan posisi menyerang yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356167.jpeg",
+      "simplified": "阿廖欣的枪",
+      "traditional": "阿廖欣的槍",
+      "pinyin": "A1 Liào xīn de Qiāng"
+    },
+    {
+      "id": 356169,
+      "translation": {
+        "en": {
+          "short": "pin",
+          "long": "a tactical maneuver where a piece is attacked and unable to move without exposing a more valuable piece behind it to capture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pin",
+          "long": "Manuver taktis di mana sepotong diserang dan tidak dapat bergerak tanpa mengekspos bagian yang lebih berharga di belakangnya untuk ditangkap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356169.jpeg",
+      "simplified": "销",
+      "traditional": "銷",
+      "pinyin": "xiāo"
+    },
+    {
+      "id": 356171,
+      "translation": {
+        "en": {
+          "short": "absolute pin",
+          "long": "a pin where the pinned piece is the king, meaning it cannot move without putting the king in check, making it illegal to move the pinned piece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pin absolut",
+          "long": "Pin di mana potongan yang disematkan adalah raja, yang berarti tidak bisa bergerak tanpa memeriksakan raja, membuatnya ilegal untuk memindahkan bagian yang disematkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356171.jpeg",
+      "simplified": "绝对引脚",
+      "traditional": "絕對引腳",
+      "pinyin": "juéduì yǐnjiǎo"
+    },
+    {
+      "id": 356173,
+      "translation": {
+        "en": {
+          "short": "FIDE",
+          "long": "the international organization that governs the rules and regulations of chess, as well as organizing and regulating international chess competitions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fide",
+          "long": "Organisasi Internasional yang mengatur peraturan dan peraturan catur, serta mengatur dan mengatur kompetisi catur internasional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356173.jpeg",
+      "simplified": "国际棋联",
+      "traditional": "國際棋聯",
+      "pinyin": "guójì qí lián"
+    },
+    {
+      "id": 356462,
+      "translation": {
+        "en": {
+          "short": "semi-open game",
+          "long": "a chess game that starts with 1.e4, but where Black responds with a move other than 1...e5, often resulting in a closed or semi-closed position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Game semi-terbuka",
+          "long": "permainan catur yang dimulai dengan 1.e4, tetapi di mana hitam merespons dengan gerakan selain 1 ... e5, sering menghasilkan posisi tertutup atau semi-tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356462.jpeg",
+      "simplified": "半开放游戏",
+      "traditional": "半開放遊戲",
+      "pinyin": "bàn kāifàng yóuxì"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "id": 1033,
+  "title": {
+    "en": "Travel",
+    "id": "Bepergian"
+  },
+  "description": {
+    "en": "Here you will learn some English words about travel, such as \"layover\", \"upgrade\", \"expedition\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perjalanan, seperti \"singgah\", \"upgrade\", \"ekspedisi\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 245019,
+      "translation": {
+        "en": {
+          "short": "all-inclusive",
+          "long": "including everyone or everything, particularly for a single price",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "semua termasuk",
+          "long": "termasuk semua orang atau segalanya, terutama dengan harga tunggal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245019.jpeg",
+      "simplified": "综合的",
+      "traditional": "綜合的",
+      "pinyin": "zōnghé de"
+    },
+    {
+      "id": 245022,
+      "translation": {
+        "en": {
+          "short": "peak season",
+          "long": "the time of year during which people travel a lot and prices are very high",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musim puncak",
+          "long": "waktu tahun di mana orang sering bepergian dan harga sangat tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245022.jpeg",
+      "simplified": "旅游旺季",
+      "traditional": "旅遊旺季",
+      "pinyin": "lǚyóu wàngjì"
+    },
+    {
+      "id": 245025,
+      "translation": {
+        "en": {
+          "short": "off season",
+          "long": "the time of year during which there is not much travel or business",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akhir musim",
+          "long": "waktu tahun di mana tidak ada banyak perjalanan atau bisnis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245025.jpeg",
+      "simplified": "旅游淡季",
+      "traditional": "旅遊淡季",
+      "pinyin": "lǚyóu dànjì"
+    },
+    {
+      "id": 245026,
+      "translation": {
+        "en": {
+          "short": "luxurious",
+          "long": "extremely comfortable, elegant, and often made with high-quality materials or features",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mewah",
+          "long": "sangat nyaman, elegan, dan sering dibuat dengan bahan atau fitur berkualitas tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245026.jpeg",
+      "simplified": "豪华",
+      "traditional": "豪華",
+      "pinyin": "háohuá"
+    },
+    {
+      "id": 245048,
+      "translation": {
+        "en": {
+          "short": "exquisite",
+          "long": "exceptionally beautiful, delicate, and well made",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sangat indah",
+          "long": "sangat indah, halus, dan dibuat dengan baik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245048.jpeg",
+      "simplified": "精美的",
+      "traditional": "精美的",
+      "pinyin": "jīngměi de"
+    },
+    {
+      "id": 245039,
+      "translation": {
+        "en": {
+          "short": "exotic",
+          "long": "originating in another country, particularly a tropical one",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "eksotik",
+          "long": "berasal dari negara lain, terutama yang tropis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245039.jpeg",
+      "simplified": "异国情调",
+      "traditional": "異國情調",
+      "pinyin": "yìguó qíng diào"
+    },
+    {
+      "id": 245023,
+      "translation": {
+        "en": {
+          "short": "homestay",
+          "long": "an arrangement to live as a foreign vacationer or student in someone's home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "homestay",
+          "long": "Suatu pengaturan untuk hidup sebagai wisatawan atau mahasiswa asing di rumah seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245023.jpeg",
+      "simplified": "寄宿家庭",
+      "traditional": "寄宿家庭",
+      "pinyin": "jìsù jiātíng"
+    },
+    {
+      "id": 245028,
+      "translation": {
+        "en": {
+          "short": "staycation",
+          "long": "a vacation that one spends at or near one's home instead of traveling somewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liburan di hotel",
+          "long": "Liburan yang dihabiskan seseorang di atau dekat rumah seseorang alih -alih bepergian ke suatu tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245028.jpeg",
+      "simplified": "在家度假",
+      "traditional": "在家度假",
+      "pinyin": "zàijiā dùjià"
+    },
+    {
+      "id": 245027,
+      "translation": {
+        "en": {
+          "short": "outing",
+          "long": "a pleasure or educational trip that may last a day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tamasya",
+          "long": "kesenangan atau perjalanan pendidikan yang mungkin bertahan sehari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245027.jpeg",
+      "simplified": "游览",
+      "traditional": "遊覽",
+      "pinyin": "yóulǎn"
+    },
+    {
+      "id": 245047,
+      "translation": {
+        "en": {
+          "short": "expedition",
+          "long": "a trip that has been organized for a particular purpose such as a scientific or military one or for exploration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekspedisi",
+          "long": "Perjalanan yang telah diselenggarakan untuk tujuan tertentu seperti yang ilmiah atau militer atau untuk eksplorasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245047.jpeg",
+      "simplified": "有组织的旅行",
+      "traditional": "有組織的旅行",
+      "pinyin": "yǒu zǔzhī de lǚxíng"
+    },
+    {
+      "id": 245024,
+      "translation": {
+        "en": {
+          "short": "itinerary",
+          "long": "a plan of the route and the places that one will visit on a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rencana perjalanan",
+          "long": "rencana rute dan tempat -tempat yang akan dikunjungi seseorang dalam perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245024.jpeg",
+      "simplified": "行程",
+      "traditional": "行程",
+      "pinyin": "xíngchéng"
+    },
+    {
+      "id": 245033,
+      "translation": {
+        "en": {
+          "short": "tourist class",
+          "long": "the lowest class of accommodations offered in a hotel, on a plane or ship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kelas Turis",
+          "long": "Kelas akomodasi terendah yang ditawarkan di hotel, di pesawat atau kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245033.jpeg",
+      "simplified": "旅游舱",
+      "traditional": "旅遊艙",
+      "pinyin": "lǚyóu cāng"
+    },
+    {
+      "id": 245036,
+      "translation": {
+        "en": {
+          "short": "to upgrade",
+          "long": "to provide someone with a better seat on an airplane or a better room in a hotel than the one for which they have paid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meningkatkan",
+          "long": "untuk memberi seseorang kursi yang lebih baik di pesawat terbang atau kamar yang lebih baik di hotel daripada yang telah mereka bayar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245036.jpeg",
+      "simplified": "给某人一个更好的座位（飞机等）",
+      "traditional": "給某人一個更好的座位（飛機等）",
+      "pinyin": "gěi mǒurén yī gě gēng hǎo de zuòwèi fēijī děng"
+    },
+    {
+      "id": 245040,
+      "translation": {
+        "en": {
+          "short": "long-haul",
+          "long": "traveling over a long distance, particularly when it involves transporting passengers or goods",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jangka panjang",
+          "long": "bepergian dalam jarak jauh, terutama saat melibatkan pengangkutan penumpang atau barang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245040.jpeg",
+      "simplified": "长途",
+      "traditional": "長途",
+      "pinyin": "chángtú"
+    },
+    {
+      "id": 245044,
+      "translation": {
+        "en": {
+          "short": "to embark",
+          "long": "to board a plane or ship",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memulai",
+          "long": "untuk naik pesawat atau kapal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245044.jpeg",
+      "simplified": "从事",
+      "traditional": "從事",
+      "pinyin": "cóngshì"
+    },
+    {
+      "id": 245041,
+      "translation": {
+        "en": {
+          "short": "layover",
+          "long": "a short break or stay in a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "singgah",
+          "long": "istirahat sejenak atau tetap dalam perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245041.jpeg",
+      "simplified": "短暂停留（旅途中）",
+      "traditional": "短暫停留（旅途中）",
+      "pinyin": "duǎnzàn tíngliú lǚtú Zhōng"
+    },
+    {
+      "id": 245045,
+      "translation": {
+        "en": {
+          "short": "lost-and-found",
+          "long": "a place where lost things are stored until their owners come and collect them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hilang-dan-ditemukan",
+          "long": "tempat di mana hal -hal yang hilang disimpan sampai pemiliknya datang dan mengumpulkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245045.jpeg",
+      "simplified": "失物招领处",
+      "traditional": "失物招領處",
+      "pinyin": "shīwù zhāo lǐng chǔ"
+    },
+    {
+      "id": 245020,
+      "translation": {
+        "en": {
+          "short": "camper",
+          "long": "someone who spends a vacation living in a tent, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemping",
+          "long": "Seseorang yang menghabiskan liburan tinggal di tenda, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245020.jpeg",
+      "simplified": "在某处露营的人",
+      "traditional": "在某處露營的人",
+      "pinyin": "zài mǒuchù lùyíng de rén"
+    },
+    {
+      "id": 245029,
+      "translation": {
+        "en": {
+          "short": "suite",
+          "long": "a series of rooms, particularly in a hotel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rangkaian",
+          "long": "serangkaian kamar, terutama di hotel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245029.jpeg",
+      "simplified": "酒店套房",
+      "traditional": "酒店套房",
+      "pinyin": "jiǔdiàn tàofáng"
+    },
+    {
+      "id": 245030,
+      "translation": {
+        "en": {
+          "short": "sunburn",
+          "long": "pain and redness of the skin caused by overexposure to the sun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terbakar sinar matahari",
+          "long": "rasa sakit dan kemerahan kulit yang disebabkan oleh paparan berlebih pada matahari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245030.jpeg",
+      "simplified": "晒斑",
+      "traditional": "曬斑",
+      "pinyin": "shàibān"
+    },
+    {
+      "id": 245031,
+      "translation": {
+        "en": {
+          "short": "suntan",
+          "long": "the darkened or brown color of a person's skin that is caused by spending much time in the sun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "warna coklat karena berjemur",
+          "long": "warna kulit seseorang yang gelap atau coklat yang disebabkan oleh menghabiskan banyak waktu di bawah sinar matahari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245031.jpeg",
+      "simplified": "晒黑",
+      "traditional": "曬黑",
+      "pinyin": "shàihēi"
+    },
+    {
+      "id": 245032,
+      "translation": {
+        "en": {
+          "short": "to tan",
+          "long": "(of a person or a person's skin) to become darkened or brown as a result of exposure to the sun",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tan",
+          "long": "(dari seseorang atau kulit seseorang) menjadi gelap atau coklat sebagai akibat dari paparan sinar matahari",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245032.jpeg",
+      "simplified": "在阳光下晒黑",
+      "traditional": "在陽光下曬黑",
+      "pinyin": "zài yángguāng xià shàihēi"
+    },
+    {
+      "id": 245046,
+      "translation": {
+        "en": {
+          "short": "to resort",
+          "long": "to go somewhere, particularly frequently or in large numbers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke penginapan",
+          "long": "untuk pergi ke suatu tempat, terutama atau dalam jumlah besar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245046.jpeg",
+      "simplified": "去某个地方",
+      "traditional": "去某個地方",
+      "pinyin": "qù mǒu gě dìfāng"
+    },
+    {
+      "id": 245038,
+      "translation": {
+        "en": {
+          "short": "vacancy",
+          "long": "(in a hotel, etc.) an available room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lowongan",
+          "long": "(di hotel, dll.) Kamar yang tersedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245038.jpeg",
+      "simplified": "空置房",
+      "traditional": "空置房",
+      "pinyin": "kōngzhì Fáng"
+    },
+    {
+      "id": 245034,
+      "translation": {
+        "en": {
+          "short": "touristy",
+          "long": "intended for, visited by, or attractive to tourists, in a way that one does not like it",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "turis",
+          "long": "dimaksudkan untuk, dikunjungi oleh, atau menarik bagi wisatawan, dengan cara yang tidak menyukainya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245034.jpeg",
+      "simplified": "旅游观光的",
+      "traditional": "旅遊觀光的",
+      "pinyin": "lǚyóu guānguāng de"
+    },
+    {
+      "id": 245035,
+      "translation": {
+        "en": {
+          "short": "twin bedroom",
+          "long": "(in a hotel, etc.) a room with two single beds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kamar Tidur Kembar",
+          "long": "(di hotel, dll.) Kamar dengan dua tempat tidur tunggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245035.jpeg",
+      "simplified": "双床卧室",
+      "traditional": "雙床臥室",
+      "pinyin": "Shuāng chuáng wòshì"
+    },
+    {
+      "id": 245037,
+      "translation": {
+        "en": {
+          "short": "upmarket",
+          "long": "used by or intended for wealthy people",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kelas atas",
+          "long": "digunakan oleh atau dimaksudkan untuk orang kaya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245037.jpeg",
+      "simplified": "昂贵的",
+      "traditional": "昂貴的",
+      "pinyin": "ángguì de"
+    },
+    {
+      "id": 245042,
+      "translation": {
+        "en": {
+          "short": "complimentary",
+          "long": "supplied or given for free",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gratis",
+          "long": "disediakan atau diberikan secara gratis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245042.jpeg",
+      "simplified": "免费",
+      "traditional": "免費",
+      "pinyin": "miǎnfèi"
+    },
+    {
+      "id": 245043,
+      "translation": {
+        "en": {
+          "short": "memorable",
+          "long": "easy to remember or worth remembering, particularly because of being different or special",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berkesan",
+          "long": "mudah diingat atau layak diingat, terutama karena menjadi berbeda atau istimewa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245043.jpeg",
+      "simplified": "难忘",
+      "traditional": "難忘",
+      "pinyin": "nánwàng"
+    },
+    {
+      "id": 264891,
+      "translation": {
+        "en": {
+          "short": "Godspeed",
+          "long": "used for wishing a person good luck, particularly when they want to travel somewhere",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Hasil positif",
+          "long": "digunakan untuk berharap seseorang beruntung, terutama saat mereka ingin bepergian ke suatu tempat",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264891.jpeg",
+      "simplified": "神速",
+      "traditional": "神速",
+      "pinyin": "shénsù"
+    },
+    {
+      "id": 266284,
+      "translation": {
+        "en": {
+          "short": "motion sickness",
+          "long": "an urge to vomit that is caused by motion, particularly when a person is in a moving vehicle such as a car, train, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mabuk",
+          "long": "Dorongan untuk muntah yang disebabkan oleh gerakan, terutama ketika seseorang berada di dalam kendaraan yang bergerak seperti mobil, kereta api, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/266284.jpeg",
+      "simplified": "恶心",
+      "traditional": "噁心",
+      "pinyin": "ěxīn"
+    }
+  ]
+}

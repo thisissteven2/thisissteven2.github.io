@@ -1,0 +1,602 @@
+{
+  "id": 859,
+  "title": {
+    "en": "Communication",
+    "id": "Komunikasi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about communication, such as \"browse\", \"directory\", \"helpline\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang komunikasi, seperti \"browse\", \"direktori\", \"saluran bantuan\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 238430,
+      "translation": {
+        "en": {
+          "short": "communication",
+          "long": "the process or activity of exchanging information or expressing feelings, thoughts, or ideas by speaking, writing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komunikasi",
+          "long": "Proses atau aktivitas pertukaran informasi atau mengekspresikan perasaan, pikiran, atau ide dengan berbicara, menulis, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238430.jpeg",
+      "simplified": "沟通",
+      "traditional": "溝通",
+      "pinyin": "gōutōng"
+    },
+    {
+      "id": 238423,
+      "translation": {
+        "en": {
+          "short": "attachment",
+          "long": "a file or document that is sent along with an email",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampiran",
+          "long": "file atau dokumen yang dikirim bersama dengan email",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238423.jpeg",
+      "simplified": "电子邮件附件",
+      "traditional": "電子郵件附件",
+      "pinyin": "diànzǐ yóu jiàn fùjiàn"
+    },
+    {
+      "id": 238425,
+      "translation": {
+        "en": {
+          "short": "to bookmark",
+          "long": "to store the address of a file, website, etc. for faster and easier access",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bookmark",
+          "long": "Untuk menyimpan alamat file, situs web, dll. Untuk akses yang lebih cepat dan lebih mudah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238425.jpeg",
+      "simplified": "书签",
+      "traditional": "書籤",
+      "pinyin": "shūqiān"
+    },
+    {
+      "id": 238427,
+      "translation": {
+        "en": {
+          "short": "to browse",
+          "long": "to check a web page, text, etc. without  reading all the content",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menelusuri",
+          "long": "Untuk memeriksa halaman web, teks, dll. Tanpa membaca semua konten",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238427.jpeg",
+      "simplified": "搜索（在互联网上）",
+      "traditional": "搜索（在互聯網上）",
+      "pinyin": "sōusuǒ zài Hùlián wǎng shǎng"
+    },
+    {
+      "id": 238428,
+      "translation": {
+        "en": {
+          "short": "browser",
+          "long": "a computer program that enables the user to read or look at information on the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "browser",
+          "long": "Program komputer yang memungkinkan pengguna untuk membaca atau melihat informasi di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238428.jpeg",
+      "simplified": "网络浏览器",
+      "traditional": "網絡瀏覽器",
+      "pinyin": "wǎngluò liú lǎn qì"
+    },
+    {
+      "id": 238426,
+      "translation": {
+        "en": {
+          "short": "broadband",
+          "long": "a system of Internet connection that allows users to share information simultaneously",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "broadband",
+          "long": "Sistem koneksi internet yang memungkinkan pengguna untuk berbagi informasi secara bersamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238426.jpeg",
+      "simplified": "宽带互联网",
+      "traditional": "寬帶互聯網",
+      "pinyin": "kuāndài Hùlián wǎng"
+    },
+    {
+      "id": 238429,
+      "translation": {
+        "en": {
+          "short": "cellular",
+          "long": "related to a telephone system that uses radio stations for communication",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "seluler",
+          "long": "terkait dengan sistem telepon yang menggunakan stasiun radio untuk komunikasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238429.jpeg",
+      "simplified": "电话相关的",
+      "traditional": "電話相關的",
+      "pinyin": "diànhuà xiāngguān de"
+    },
+    {
+      "id": 238451,
+      "translation": {
+        "en": {
+          "short": "service provider",
+          "long": "a company that provides its customers with internet access and related services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyedia layanan",
+          "long": "Perusahaan yang menyediakan pelanggan dengan akses internet dan layanan terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238451.jpeg",
+      "simplified": "服务提供者",
+      "traditional": "服務提供者",
+      "pinyin": "fúwù tí gōng zhě"
+    },
+    {
+      "id": 238431,
+      "translation": {
+        "en": {
+          "short": "conference call",
+          "long": "a phone call in which three or more people can hear and speak with one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panggilan konferensi",
+          "long": "panggilan telepon di mana tiga orang atau lebih dapat mendengar dan berbicara satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238431.jpeg",
+      "simplified": "电话会议",
+      "traditional": "電話會議",
+      "pinyin": "diànhuà huì yì"
+    },
+    {
+      "id": 238433,
+      "translation": {
+        "en": {
+          "short": "to cut off",
+          "long": "to end a phone call while the other person is still on the line",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "untuk mengakhiri panggilan telepon sementara orang lain masih ada di telepon",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238433.jpeg",
+      "simplified": "截断",
+      "traditional": "截斷",
+      "pinyin": "jiéduàn"
+    },
+    {
+      "id": 238435,
+      "translation": {
+        "en": {
+          "short": "Internet cafe",
+          "long": "a place with computers where people can pay to access Internet and often buy something to eat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "warnet",
+          "long": "tempat dengan komputer di mana orang dapat membayar untuk mengakses internet dan sering membeli sesuatu untuk dimakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238435.jpeg",
+      "simplified": "网吧",
+      "traditional": "網咖",
+      "pinyin": "wǎngbā"
+    },
+    {
+      "id": 238436,
+      "translation": {
+        "en": {
+          "short": "directory",
+          "long": "(computing) an area on a computer containing files that are necessary for keeping the computer organized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "direktori",
+          "long": "(komputasi) Area pada komputer yang berisi file yang diperlukan untuk menjaga komputer tetap teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238436.jpeg",
+      "simplified": "目录（计算）",
+      "traditional": "目錄（計算）",
+      "pinyin": "mùlù jìsuàn"
+    },
+    {
+      "id": 238438,
+      "translation": {
+        "en": {
+          "short": "engaged",
+          "long": "(of phone lines) being in use",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bertunangan",
+          "long": "(saluran telepon) sedang digunakan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238438.jpeg",
+      "simplified": "已订婚的",
+      "traditional": "已訂婚的",
+      "pinyin": "yǐ dìnghūn de"
+    },
+    {
+      "id": 238439,
+      "translation": {
+        "en": {
+          "short": "to dial",
+          "long": "to enter a telephone number using a rotary or keypad on a telephone or mobile device in order to make a call",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memanggil",
+          "long": "untuk memasukkan nomor telepon menggunakan putar atau keypad pada telepon atau perangkat seluler untuk melakukan panggilan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238439.jpeg",
+      "simplified": "拨号",
+      "traditional": "撥號",
+      "pinyin": "bōhào"
+    },
+    {
+      "id": 238440,
+      "translation": {
+        "en": {
+          "short": "to follow",
+          "long": "to subscribe to a person or organization's account on a social media platform to check everything that they post or publish",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengikuti",
+          "long": "untuk berlangganan akun seseorang atau organisasi di platform media sosial untuk memeriksa semua yang mereka posting atau terbitkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238440.jpeg",
+      "simplified": "关注某人（在社交媒体上）",
+      "traditional": "關注某人（在社交媒體上）",
+      "pinyin": "guānzhù mǒurén zài shèjiāo méi tǐ shǎng"
+    },
+    {
+      "id": 238441,
+      "translation": {
+        "en": {
+          "short": "hate mail",
+          "long": "offensive and often threatening letters or emails usually sent under no name",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Benci Surat",
+          "long": "Surat atau email yang menyinggung dan sering mengancam biasanya dikirim dengan tidak ada nama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238441.jpeg",
+      "simplified": "讨厌邮件",
+      "traditional": "討厭郵件",
+      "pinyin": "tǎoyàn yóujiàn"
+    },
+    {
+      "id": 238450,
+      "translation": {
+        "en": {
+          "short": "spam",
+          "long": "unwanted or irrelevant online advertisements sent to many people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spam",
+          "long": "iklan online yang tidak diinginkan atau tidak relevan dikirimkan kepada banyak orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238450.jpeg",
+      "simplified": "垃圾邮件",
+      "traditional": "垃圾郵件",
+      "pinyin": "lājī yóu jiàn"
+    },
+    {
+      "id": 238442,
+      "translation": {
+        "en": {
+          "short": "helpline",
+          "long": "a phone service that provides advice, comfort, or information regarding specific problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Saluran Bantuan",
+          "long": "Layanan telepon yang memberikan saran, kenyamanan, atau informasi mengenai masalah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238442.jpeg",
+      "simplified": "帮助热线",
+      "traditional": "幫助熱線",
+      "pinyin": "bāngzhù rèxiàn"
+    },
+    {
+      "id": 238444,
+      "translation": {
+        "en": {
+          "short": "to hold",
+          "long": "to wait on the phone line until the other person answers it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menahan",
+          "long": "untuk menunggu di saluran telepon sampai orang lain menjawabnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238444.jpeg",
+      "simplified": "保持",
+      "traditional": "保持",
+      "pinyin": "bǎochí"
+    },
+    {
+      "id": 238443,
+      "translation": {
+        "en": {
+          "short": "influencer",
+          "long": "someone who encourages other people to purchase a product or service by talking about it on social media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "influencer",
+          "long": "seseorang yang mendorong orang lain untuk membeli produk atau layanan dengan membicarakannya di media sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238443.jpeg",
+      "simplified": "影响者",
+      "traditional": "影響者",
+      "pinyin": "yǐngxiǎng zhě"
+    },
+    {
+      "id": 238445,
+      "translation": {
+        "en": {
+          "short": "YouTuber",
+          "long": "someone who is active on YouTube by creating content for it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "YouTuber",
+          "long": "seseorang yang aktif di youtube dengan membuat konten untuk itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238445.jpeg",
+      "simplified": "YouTuber",
+      "traditional": "YouTuber",
+      "pinyin": "T"
+    },
+    {
+      "id": 238452,
+      "translation": {
+        "en": {
+          "short": "podcaster",
+          "long": "someone who posts a series of digital media files available for download over the Internet on a regular basis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "podcaster",
+          "long": "Seseorang yang memposting serangkaian file media digital yang tersedia untuk diunduh melalui internet secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238452.jpeg",
+      "simplified": "播客",
+      "traditional": "podcast",
+      "pinyin": "bōkè"
+    },
+    {
+      "id": 238447,
+      "translation": {
+        "en": {
+          "short": "to block",
+          "long": "to prevent someone from contacting or viewing one's activities on social media",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memblokir",
+          "long": "untuk mencegah seseorang menghubungi atau melihat kegiatan seseorang di media sosial",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238447.jpeg",
+      "simplified": "阻止",
+      "traditional": "阻止",
+      "pinyin": "zǔzhǐ"
+    },
+    {
+      "id": 238448,
+      "translation": {
+        "en": {
+          "short": "thread",
+          "long": "a sequence of linked messages on social media, email, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benang",
+          "long": "Urutan pesan tertaut di media sosial, email, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238448.jpeg",
+      "simplified": "线",
+      "traditional": "線",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 238449,
+      "translation": {
+        "en": {
+          "short": "surfing",
+          "long": "the activity of spending a lot of time online navigating through different websites",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selancar",
+          "long": "aktivitas menghabiskan banyak waktu menavigasi online melalui situs web yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238449.jpeg",
+      "simplified": "冲浪",
+      "traditional": "衝浪",
+      "pinyin": "chōnglàng"
+    },
+    {
+      "id": 238454,
+      "translation": {
+        "en": {
+          "short": "to forward",
+          "long": "to send an email, letter, etc. that one has received to another person",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk maju",
+          "long": "untuk mengirim email, surat, dll. Yang telah diterima kepada orang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238454.jpeg",
+      "simplified": "转发",
+      "traditional": "轉發",
+      "pinyin": "zhuǎnfā"
+    },
+    {
+      "id": 238455,
+      "translation": {
+        "en": {
+          "short": "home page",
+          "long": "the opening page of a website that introduces it and links the user to other pages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Halaman Beranda",
+          "long": "Halaman pembuka situs web yang memperkenalkannya dan menautkan pengguna ke halaman lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238455.jpeg",
+      "simplified": "主页",
+      "traditional": "主頁",
+      "pinyin": "zhǔyè"
+    },
+    {
+      "id": 238456,
+      "translation": {
+        "en": {
+          "short": "inbox",
+          "long": "a folder in which received emails or text messages are stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak masuk",
+          "long": "folder yang menerima email atau pesan teks disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238456.jpeg",
+      "simplified": "收件箱",
+      "traditional": "收件箱",
+      "pinyin": "shōujiàn xiāng"
+    },
+    {
+      "id": 238457,
+      "translation": {
+        "en": {
+          "short": "to tweet",
+          "long": "to post or send something on Twitter",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tweet",
+          "long": "untuk memposting atau mengirim sesuatu di twitter",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238457.jpeg",
+      "simplified": "发推文",
+      "traditional": "發推文",
+      "pinyin": "fā tuīwén"
+    },
+    {
+      "id": 238458,
+      "translation": {
+        "en": {
+          "short": "bandwidth",
+          "long": "the maximum rate of data transfer of an electronic communication system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bandwidth",
+          "long": "Tingkat maksimum transfer data sistem komunikasi elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238458.jpeg",
+      "simplified": "带宽",
+      "traditional": "帶寬",
+      "pinyin": "dàikuān"
+    },
+    {
+      "id": 241705,
+      "translation": {
+        "en": {
+          "short": "interpreter",
+          "long": "someone who verbally changes the words of a language into another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penerjemah",
+          "long": "seseorang yang secara verbal mengubah kata -kata bahasa menjadi orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241705.jpeg",
+      "simplified": "翻译员",
+      "traditional": "翻譯員",
+      "pinyin": "fānyì yuán"
+    }
+  ]
+}

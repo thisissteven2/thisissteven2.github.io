@@ -1,0 +1,601 @@
+{
+  "id": 5856,
+  "title": {
+    "en": "Golf",
+    "id": "Golf"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394955,
+      "translation": {
+        "en": {
+          "short": "miniature golf",
+          "long": "a small-scale version of golf with fun obstacles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Golf Miniatur",
+          "long": "Versi golf skala kecil dengan rintangan yang menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394955.jpeg",
+      "simplified": "迷你高尔夫球场",
+      "traditional": "迷你高爾夫球場",
+      "pinyin": "mínǐ gāoěr fū qiú chǎng"
+    },
+    {
+      "id": 394965,
+      "translation": {
+        "en": {
+          "short": "back nine",
+          "long": "the last nine holes of an 18-hole golf course",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kembali sembilan",
+          "long": "sembilan lubang terakhir dari lapangan golf 18-lubang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394965.jpeg",
+      "simplified": "后九",
+      "traditional": "後九",
+      "pinyin": "Hòu jiǔ"
+    },
+    {
+      "id": 394966,
+      "translation": {
+        "en": {
+          "short": "front nine",
+          "long": "the initial nine holes of a golf course, typically numbered one through nine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sembilan depan",
+          "long": "sembilan lubang awal lapangan golf, biasanya diberi nomor satu melalui sembilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394966.jpeg",
+      "simplified": "前九洞",
+      "traditional": "前九洞",
+      "pinyin": "qián jiǔ dòng"
+    },
+    {
+      "id": 394967,
+      "translation": {
+        "en": {
+          "short": "dogleg",
+          "long": "a golf hole that bends to the left or right",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dogleg",
+          "long": "lubang golf yang membungkuk ke kiri atau kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394967.jpeg",
+      "simplified": "狗腿",
+      "traditional": "狗腿",
+      "pinyin": "gǒutuǐ"
+    },
+    {
+      "id": 394968,
+      "translation": {
+        "en": {
+          "short": "stroke play",
+          "long": "a golf scoring format where the total number of strokes is counted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permainan stroke",
+          "long": "format penilaian golf di mana jumlah total stroke dihitung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394968.jpeg",
+      "simplified": "比杆赛",
+      "traditional": "比杆賽",
+      "pinyin": "bǐgān sài"
+    },
+    {
+      "id": 394969,
+      "translation": {
+        "en": {
+          "short": "chip shot",
+          "long": "a short golf shot to get the ball onto the green",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan chip",
+          "long": "tembakan golf pendek untuk mendapatkan bola ke hijau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394969.jpeg",
+      "simplified": "切球",
+      "traditional": "切球",
+      "pinyin": "qiē qiú"
+    },
+    {
+      "id": 394970,
+      "translation": {
+        "en": {
+          "short": "drive",
+          "long": "a long, powerful golf shot from the tee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyetir",
+          "long": "tembakan golf yang panjang dan kuat dari tee",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394970.jpeg",
+      "simplified": "传动",
+      "traditional": "傳動",
+      "pinyin": "chuándòng"
+    },
+    {
+      "id": 394971,
+      "translation": {
+        "en": {
+          "short": "to putt",
+          "long": "to gently hit the golf ball towards the hole on the green",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke putt",
+          "long": "untuk dengan lembut mengenai bola golf menuju lubang di hijau",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394971.jpeg",
+      "simplified": "推杆",
+      "traditional": "推桿",
+      "pinyin": "tuīgān"
+    },
+    {
+      "id": 394973,
+      "translation": {
+        "en": {
+          "short": "swing",
+          "long": "the action of hitting the golf ball with the club",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengayun",
+          "long": "aksi memukul bola golf dengan klub",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394973.jpeg",
+      "simplified": "荡",
+      "traditional": "盪",
+      "pinyin": "dàng"
+    },
+    {
+      "id": 394974,
+      "translation": {
+        "en": {
+          "short": "birdie",
+          "long": "(golf) a score of one stroke less than the par value for a hole, typically achieved by sinking the ball into the hole with one fewer stroke than the expected number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Birdie",
+          "long": "(Golf) Skor satu stroke kurang dari nilai par untuk lubang, biasanya dicapai dengan memasukkan bola ke dalam lubang dengan satu pukulan lebih sedikit dari angka yang diharapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394974.jpeg",
+      "simplified": "高尔夫的得分类型",
+      "traditional": "高爾夫的得分類型",
+      "pinyin": "gāoěr fū de défēn lèixíng"
+    },
+    {
+      "id": 394975,
+      "translation": {
+        "en": {
+          "short": "bogey",
+          "long": "a score of one stroke over par on a hole in golf",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bogey",
+          "long": "skor satu pukulan di atas lubang di golf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394975.jpeg",
+      "simplified": "怪物",
+      "traditional": "怪物",
+      "pinyin": "guàiwu"
+    },
+    {
+      "id": 394976,
+      "translation": {
+        "en": {
+          "short": "eagle",
+          "long": "a score of two strokes under par on a hole in golf",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "burung rajawali",
+          "long": "skor dua pukulan di bawah setara di lubang di golf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394976.jpeg",
+      "simplified": "鹰",
+      "traditional": "鷹",
+      "pinyin": "yīng"
+    },
+    {
+      "id": 394977,
+      "translation": {
+        "en": {
+          "short": "hole in one",
+          "long": "(golf) the remarkable achievement of sinking the ball into the cup with just one stroke on a par-3 hole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dalam satu lubang",
+          "long": "(Golf) Pencapaian luar biasa untuk menenggelamkan bola ke dalam cangkir dengan hanya satu pukulan pada lubang par-3",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394977.jpeg",
+      "simplified": "一杆进洞",
+      "traditional": "一桿進洞",
+      "pinyin": "yīgān jìn dòng"
+    },
+    {
+      "id": 394978,
+      "translation": {
+        "en": {
+          "short": "par",
+          "long": "the standard number of strokes expected for a skilled golfer to complete a hole or course",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "par",
+          "long": "Jumlah standar pukulan yang diharapkan untuk pegolf yang terampil untuk menyelesaikan lubang atau lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394978.jpeg",
+      "simplified": "平价",
+      "traditional": "平價",
+      "pinyin": "píngjià"
+    },
+    {
+      "id": 394979,
+      "translation": {
+        "en": {
+          "short": "match play",
+          "long": "a golf competition format where players compete hole by hole, aiming to win individual holes rather than building up a total score",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Play pertandingan",
+          "long": "Format kompetisi golf di mana pemain bersaing lubang demi lubang, bertujuan untuk memenangkan lubang individu daripada membangun skor total",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394979.jpeg",
+      "simplified": "比洞赛",
+      "traditional": "比洞賽",
+      "pinyin": "Bǐ dòng sài"
+    },
+    {
+      "id": 394981,
+      "translation": {
+        "en": {
+          "short": "handicap",
+          "long": "a numerical measure of a golf player's ability, used to level the playing field in competition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rintangan",
+          "long": "Ukuran numerik dari kemampuan pemain golf, digunakan untuk meratakan lapangan bermain dalam kompetisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394981.jpeg",
+      "simplified": "障碍",
+      "traditional": "障礙",
+      "pinyin": "zhàngài"
+    },
+    {
+      "id": 394982,
+      "translation": {
+        "en": {
+          "short": "downswing",
+          "long": "the movement of the golf club from the top of the swing down to the point of impact with the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Downswing",
+          "long": "Gerakan klub golf dari atas ayunan ke titik dampak dengan bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394982.jpeg",
+      "simplified": "下风期",
+      "traditional": "下風期",
+      "pinyin": "xiàfēng qī"
+    },
+    {
+      "id": 394983,
+      "translation": {
+        "en": {
+          "short": "hook",
+          "long": "a golf shot that curves sharply to the left for right-handed golfers or to the right for left-handed golfers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kait",
+          "long": "Tembakan golf yang melengkung dengan tajam ke kiri untuk pegolf tangan kanan atau ke kanan untuk pegolf kidal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394983.jpeg",
+      "simplified": "钩",
+      "traditional": "鉤",
+      "pinyin": "gōu"
+    },
+    {
+      "id": 394984,
+      "translation": {
+        "en": {
+          "short": "divot",
+          "long": "a piece of turf or grass that is displaced when a player strikes the ground with their club during a swing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Divot",
+          "long": "sepotong rumput atau rumput yang dipindahkan ketika seorang pemain menyerang tanah dengan klub mereka selama ayunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394984.jpeg",
+      "simplified": "草皮",
+      "traditional": "草皮",
+      "pinyin": "cǎopí"
+    },
+    {
+      "id": 394987,
+      "translation": {
+        "en": {
+          "short": "address",
+          "long": "the positioning a golfer takes before making a swing to address the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alamat",
+          "long": "Posisi yang diambil pegolf sebelum membuat ayunan untuk mengatasi bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394987.jpeg",
+      "simplified": "地址",
+      "traditional": "地址",
+      "pinyin": "dìzhǐ"
+    },
+    {
+      "id": 399488,
+      "translation": {
+        "en": {
+          "short": "to ace",
+          "long": "(golf) to play a hole in one stroke, usually referring to a hole-in-one where the ball is hit from the tee into the cup",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ace",
+          "long": "(golf) untuk memainkan lubang dalam satu pukulan, biasanya mengacu pada hole-in-one di mana bola dipukul dari tee ke dalam cangkir",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/399488.jpeg",
+      "simplified": "高手",
+      "traditional": "高手",
+      "pinyin": "gāoshǒu"
+    },
+    {
+      "id": 404589,
+      "translation": {
+        "en": {
+          "short": "carry",
+          "long": "the distance a golf ball travels through the air from the point of impact to where it first hits the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membawa",
+          "long": "jarak bola golf bergerak di udara dari titik dampak ke tempat pertama kali menyentuh tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404589.jpeg",
+      "simplified": "超位",
+      "traditional": "超位",
+      "pinyin": "chāo wèi"
+    },
+    {
+      "id": 404600,
+      "translation": {
+        "en": {
+          "short": "to heel",
+          "long": "to strike the ball with the heel of the golf club",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tumit",
+          "long": "untuk menyerang bola dengan tumit klub golf",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404600.jpeg",
+      "simplified": "继",
+      "traditional": "繼",
+      "pinyin": "jì"
+    },
+    {
+      "id": 407443,
+      "translation": {
+        "en": {
+          "short": "to pitch",
+          "long": "(in golf) to make a short, high-arching shot, typically played from closer distances to the hole",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melempar",
+          "long": "(dalam golf) untuk membuat tembakan pendek dan melengkung tinggi, biasanya dimainkan dari jarak yang lebih dekat ke lubang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407443.jpeg",
+      "simplified": "俯仰",
+      "traditional": "俯仰",
+      "pinyin": "fǔyǎng"
+    },
+    {
+      "id": 407579,
+      "translation": {
+        "en": {
+          "short": "approach shot",
+          "long": "a stroke played toward the green from a location farther away",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dekati tembakan",
+          "long": "Stroke yang diputar ke arah hijau dari lokasi yang lebih jauh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407579.jpeg",
+      "simplified": "近场投篮",
+      "traditional": "近場投籃",
+      "pinyin": "jìn cháng tóulán"
+    },
+    {
+      "id": 407845,
+      "translation": {
+        "en": {
+          "short": "to hole out",
+          "long": "to successfully hit the ball into the hole with a putt, finishing the hole",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlubang",
+          "long": "untuk berhasil memukul bola ke dalam lubang dengan putt, menyelesaikan lubang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407845.jpeg",
+      "simplified": "出洞",
+      "traditional": "出洞",
+      "pinyin": "chū dòng"
+    },
+    {
+      "id": 406960,
+      "translation": {
+        "en": {
+          "short": "hole",
+          "long": "the playing period for each part of the course",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lubang",
+          "long": "periode bermain untuk setiap bagian kursus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406960.jpeg",
+      "simplified": "孔",
+      "traditional": "孔",
+      "pinyin": "Kǒng"
+    },
+    {
+      "id": 407591,
+      "translation": {
+        "en": {
+          "short": "scorecard",
+          "long": "a card used in golf to record each player's scores for each hole during a round",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu catatan angka",
+          "long": "Kartu yang digunakan dalam golf untuk merekam skor setiap pemain untuk setiap lubang selama putaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407591.jpeg",
+      "simplified": "记分卡",
+      "traditional": "記分卡",
+      "pinyin": "jìfēn kǎ"
+    },
+    {
+      "id": 408264,
+      "translation": {
+        "en": {
+          "short": "slice",
+          "long": "a type of shot where the ball curves unintentionally to the right for right-handed golfers or to the left for left-handed golfers in flight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengiris",
+          "long": "Jenis tembakan di mana bola melengkung secara tidak sengaja ke kanan untuk pegolf tangan kanan atau ke kiri untuk pegolf kidal dalam penerbangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408264.jpeg",
+      "simplified": "片",
+      "traditional": "片",
+      "pinyin": "piān"
+    },
+    {
+      "id": 408271,
+      "translation": {
+        "en": {
+          "short": "scratch",
+          "long": "of a golfer who is capable of playing to the standard of the course rating",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "menggores",
+          "long": "seorang pegolf yang mampu bermain dengan standar peringkat kursus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408271.jpeg",
+      "simplified": "划痕",
+      "traditional": "划痕",
+      "pinyin": "huáhén"
+    },
+    {
+      "id": 408274,
+      "translation": {
+        "en": {
+          "short": "medalist",
+          "long": "a golfer who achieves the lowest score in a medal play competition, earning them the title of medalist for that tournament",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Peraih medali",
+          "long": "Seorang pegolf yang mencapai skor terendah dalam kompetisi bermain medali, memberi mereka gelar peraih medali untuk turnamen itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408274.jpeg",
+      "simplified": "奖牌获得者",
+      "traditional": "獎牌獲得者",
+      "pinyin": "jiǎngpái huòdé zhě"
+    }
+  ]
+}

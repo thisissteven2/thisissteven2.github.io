@@ -1,0 +1,545 @@
+{
+  "id": 5698,
+  "title": {
+    "en": "Biology",
+    "id": "Biologi"
+  },
+  "description": {
+    "en": "Here you will learn all the essential words for talking about Biology, collected specifically for level C2 learners.",
+    "id": "Di sini Anda akan mempelajari semua kata penting untuk berbicara tentang biologi, dikumpulkan khusus untuk peserta didik Level C2."
+  },
+  "cards": [
+    {
+      "id": 390884,
+      "translation": {
+        "en": {
+          "short": "ribosome",
+          "long": "a tiny structure within cells that assembles proteins by reading the genetic instructions carried by messenger RNA",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ribosom",
+          "long": "Struktur kecil di dalam sel yang mengumpulkan protein dengan membaca instruksi genetik yang dibawa oleh messenger RNA",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390884.jpeg",
+      "simplified": "核糖体",
+      "traditional": "核醣體",
+      "pinyin": "hétáng tǐ"
+    },
+    {
+      "id": 390885,
+      "translation": {
+        "en": {
+          "short": "Golgi apparatus",
+          "long": "a cellular organelle involved in the processing, packaging, and distribution of proteins and lipids within the cell, consisting of a stack of flattened membrane sacs called cisternae",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Peralatan Golgi",
+          "long": "Organel seluler yang terlibat dalam pemrosesan, pengemasan, dan distribusi protein dan lipid di dalam sel, yang terdiri dari tumpukan kantung membran yang rata yang disebut cisternae",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390885.jpeg",
+      "simplified": "高尔基体",
+      "traditional": "高爾基體",
+      "pinyin": "Gāoěr jī tǐ"
+    },
+    {
+      "id": 390886,
+      "translation": {
+        "en": {
+          "short": "lysosome",
+          "long": "a small, enzyme-filled sac in a cell that breaks down waste materials and unwanted substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lysosome",
+          "long": "Kantung kecil yang diisi enzim dalam sel yang memecah bahan limbah dan zat yang tidak diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390886.jpeg",
+      "simplified": "溶酶体",
+      "traditional": "溶酶體",
+      "pinyin": "róngméi tǐ"
+    },
+    {
+      "id": 390887,
+      "translation": {
+        "en": {
+          "short": "mitochondrion",
+          "long": "an organelle that is abundantly present in most cells and is responsible for energy production",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mitokondria",
+          "long": "organel yang banyak hadir di sebagian besar sel dan bertanggung jawab atas produksi energi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390887.jpeg",
+      "simplified": "线粒体",
+      "traditional": "線粒體",
+      "pinyin": "xiànlì tǐ"
+    },
+    {
+      "id": 390888,
+      "translation": {
+        "en": {
+          "short": "chloroplast",
+          "long": "a plant cell organelle that uses sunlight to produce energy and make glucose through photosynthesis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kloroplas",
+          "long": "organel sel tanaman yang menggunakan sinar matahari untuk menghasilkan energi dan membuat glukosa melalui fotosintesis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390888.jpeg",
+      "simplified": "叶绿体",
+      "traditional": "葉綠體",
+      "pinyin": "yèlǜ tǐ"
+    },
+    {
+      "id": 390889,
+      "translation": {
+        "en": {
+          "short": "nucleotide",
+          "long": "a molecule that forms the basic building block of DNA and RNA, consisting of a sugar, a phosphate group, and a nitrogenous base",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nukleotida",
+          "long": "molekul yang membentuk blok bangunan dasar DNA dan RNA, yang terdiri dari gula, gugus fosfat, dan basa nitrogen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390889.jpeg",
+      "simplified": "核苷酸",
+      "traditional": "核苷酸",
+      "pinyin": "hégān suān"
+    },
+    {
+      "id": 390890,
+      "translation": {
+        "en": {
+          "short": "polypeptide",
+          "long": "a linear chain of amino acids linked by peptide bonds, forming a primary structure of a protein",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polipeptida",
+          "long": "Rantai linier asam amino yang dihubungkan oleh ikatan peptida, membentuk struktur primer protein",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390890.jpeg",
+      "simplified": "一串氨基酸连接在一起",
+      "traditional": "一串氨基酸連接在一起",
+      "pinyin": "yī chuàn ānjī suān liánjiē zàiyī qǐ"
+    },
+    {
+      "id": 390891,
+      "translation": {
+        "en": {
+          "short": "organelle",
+          "long": "a specialized, membrane-bound structure within a cell that performs specific functions, contributing to the cell's overall structure and function",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "organel",
+          "long": "Struktur khusus, terikat membran dalam sel yang melakukan fungsi spesifik, berkontribusi pada struktur dan fungsi keseluruhan sel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390891.jpeg",
+      "simplified": "细胞器",
+      "traditional": "細胞器",
+      "pinyin": "xìbāo qì"
+    },
+    {
+      "id": 390892,
+      "translation": {
+        "en": {
+          "short": "vacuole",
+          "long": "a cell organelle in plants, fungi, and some protists that stores nutrients, manages waste, and helps maintain cell pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vakuola",
+          "long": "organel sel pada tanaman, jamur, dan beberapa protista yang menyimpan nutrisi, mengelola limbah, dan membantu menjaga tekanan sel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390892.jpeg",
+      "simplified": "液泡",
+      "traditional": "液泡",
+      "pinyin": "yèpào"
+    },
+    {
+      "id": 390893,
+      "translation": {
+        "en": {
+          "short": "centriole",
+          "long": "a pair of small cylinders near the nucleus in animal cells, organizing cell division by forming the mitotic spindle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Centriole",
+          "long": "Sepasang silinder kecil di dekat nukleus dalam sel hewan, mengatur pembelahan sel dengan membentuk spindel mitosis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390893.jpeg",
+      "simplified": "中心粒",
+      "traditional": "中心粒",
+      "pinyin": "zhōngxīn lì"
+    },
+    {
+      "id": 390894,
+      "translation": {
+        "en": {
+          "short": "histone",
+          "long": "a type of protein that plays a structural role in the packaging of DNA into nucleosomes, fundamental units of chromatin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Histone",
+          "long": "Jenis protein yang memainkan peran struktural dalam pengemasan DNA ke dalam nukleosom, unit fundamental kromatin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390894.jpeg",
+      "simplified": "组蛋白",
+      "traditional": "組蛋白",
+      "pinyin": "Zǔ dànbái"
+    },
+    {
+      "id": 390895,
+      "translation": {
+        "en": {
+          "short": "telomere",
+          "long": "a repetitive DNA sequence at the end of a linear chromosome, protecting it from deterioration during replication, and playing a role in cellular aging and cancer development",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telomer",
+          "long": "Urutan DNA berulang pada akhir kromosom linier, melindunginya dari kerusakan selama replikasi, dan memainkan peran dalam penuaan seluler dan perkembangan kanker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390895.jpeg",
+      "simplified": "端粒",
+      "traditional": "端粒",
+      "pinyin": "duānlì"
+    },
+    {
+      "id": 390896,
+      "translation": {
+        "en": {
+          "short": "phenotype",
+          "long": "the observable physical and behavioral characteristics of an organism, resulting from the interaction of its genotype (genetic makeup) with the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fenotipe",
+          "long": "Karakteristik fisik dan perilaku yang dapat diamati dari suatu organisme, yang dihasilkan dari interaksi genotipe (makeup genetik) dengan lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390896.jpeg",
+      "simplified": "表型",
+      "traditional": "表型",
+      "pinyin": "biǎo xíng"
+    },
+    {
+      "id": 390897,
+      "translation": {
+        "en": {
+          "short": "homeostasis",
+          "long": "the tendency of an organism or cell to regulate its internal environment and maintain a stable, balanced condition, despite external changes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "homeostasis",
+          "long": "kecenderungan suatu organisme atau sel untuk mengatur lingkungan internalnya dan mempertahankan kondisi yang stabil dan seimbang, meskipun ada perubahan eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390897.jpeg",
+      "simplified": "体内平衡",
+      "traditional": "體內平衡",
+      "pinyin": "tǐnèi pínghéng"
+    },
+    {
+      "id": 390898,
+      "translation": {
+        "en": {
+          "short": "translation",
+          "long": "the process by which the information encoded in the sequence of nucleotides in DNA is converted into a functional product, typically a protein",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terjemahan",
+          "long": "Proses dimana informasi yang dikodekan dalam urutan nukleotida dalam DNA dikonversi menjadi produk fungsional, biasanya protein",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390898.jpeg",
+      "simplified": "翻译",
+      "traditional": "翻譯",
+      "pinyin": "fānyì"
+    },
+    {
+      "id": 390899,
+      "translation": {
+        "en": {
+          "short": "transcription",
+          "long": "the process by which a segment of DNA is used as a template to synthesize a complementary RNA molecule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transkripsi",
+          "long": "Proses dimana segmen DNA digunakan sebagai templat untuk mensintesis molekul RNA komplementer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390899.jpeg",
+      "simplified": "转录（生物学）",
+      "traditional": "轉錄（生物學）",
+      "pinyin": "zhuǎnlù shēngwù xué"
+    },
+    {
+      "id": 390900,
+      "translation": {
+        "en": {
+          "short": "replication",
+          "long": "the process by which an organism duplicates its genetic material, particularly the copying of DNA in cell division",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "replikasi",
+          "long": "Proses dimana suatu organisme menduplikasi bahan genetiknya, khususnya penyalinan DNA dalam pembelahan sel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390900.jpeg",
+      "simplified": "复制",
+      "traditional": "複製",
+      "pinyin": "fùzhì"
+    },
+    {
+      "id": 390903,
+      "translation": {
+        "en": {
+          "short": "codon",
+          "long": "a sequence of three adjacent nucleotides in mRNA that codes for a specific amino acid during protein synthesis or serves as a start or stop signal in the translation process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kodon",
+          "long": "Urutan tiga nukleotida yang berdekatan dalam mRNA yang mengkode asam amino spesifik selama sintesis protein atau berfungsi sebagai sinyal awal atau berhenti dalam proses terjemahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390903.jpeg",
+      "simplified": "遗传密码",
+      "traditional": "遺傳密碼",
+      "pinyin": "yíchuán mìmǎ"
+    },
+    {
+      "id": 390904,
+      "translation": {
+        "en": {
+          "short": "symbiosis",
+          "long": "a close and often long-term interaction between two different species living in close physical association, typically to the advantage of both",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "simbiosis",
+          "long": "interaksi jangka panjang dan seringkali antara dua spesies berbeda yang hidup dalam hubungan fisik yang dekat, biasanya untuk keuntungan keduanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390904.jpeg",
+      "simplified": "合作关系",
+      "traditional": "合作關係",
+      "pinyin": "hézuò guānxi"
+    },
+    {
+      "id": 390905,
+      "translation": {
+        "en": {
+          "short": "ameba",
+          "long": "a single-celled, microscopic organism belonging to the group of protozoa, characterized by a flexible cell membrane and the absence of a fixed body shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amoeba",
+          "long": "Organisme mikroskopis bersel tunggal milik kelompok protozoa, ditandai dengan membran sel yang fleksibel dan tidak adanya bentuk tubuh yang tetap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390905.jpeg",
+      "simplified": "在水和土壤中发现的单细胞生物",
+      "traditional": "在水和土壤中發現的單細胞生物",
+      "pinyin": "zài Shuǐ hé tǔrǎng Zhōng fāxiàn de dānxì bāo shēng wù"
+    },
+    {
+      "id": 390912,
+      "translation": {
+        "en": {
+          "short": "prokaryote",
+          "long": "a simple, single-celled organism that lacks a true nucleus and membrane-bound organelles, such as bacteria and archaea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prokariota",
+          "long": "Organisme sederhana, bersel tunggal yang tidak memiliki nukleus sejati dan organel yang terikat membran, seperti bakteri dan archaea",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390912.jpeg",
+      "simplified": "原核生物",
+      "traditional": "原核生物",
+      "pinyin": "yuánhé shēng wù"
+    },
+    {
+      "id": 390906,
+      "translation": {
+        "en": {
+          "short": "chlorophyll",
+          "long": "a green pigment found in all green plants and cyanobacteria that is responsible for the absorption of the sunlight needed for the photosynthesis process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klorofil",
+          "long": "Pigmen hijau yang ditemukan di semua tanaman hijau dan cyanobacteria yang bertanggung jawab atas penyerapan sinar matahari yang diperlukan untuk proses fotosintesis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390906.jpeg",
+      "simplified": "叶绿素",
+      "traditional": "葉綠素",
+      "pinyin": "yèlǜ sù"
+    },
+    {
+      "id": 390907,
+      "translation": {
+        "en": {
+          "short": "capsid",
+          "long": "the protein coat of a virus that encases its genetic material and helps it attach to and enter host cells during infection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapsid",
+          "long": "Lambang protein virus yang membungkus bahan genetiknya dan membantunya menempel dan memasuki sel inang selama infeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390907.jpeg",
+      "simplified": "衣壳",
+      "traditional": "衣殼",
+      "pinyin": "yī qiào"
+    },
+    {
+      "id": 390908,
+      "translation": {
+        "en": {
+          "short": "eukaryote",
+          "long": "a type of living thing with cells that have a nucleus and other structures enclosed in membranes, like plants, animals, fungi, and some microorganisms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eukariota",
+          "long": "Jenis makhluk hidup dengan sel -sel yang memiliki nukleus dan struktur lain tertutup membran, seperti tanaman, hewan, jamur, dan beberapa mikroorganisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390908.jpeg",
+      "simplified": "真核生物",
+      "traditional": "真核生物",
+      "pinyin": "zhēnhé shēngwù"
+    },
+    {
+      "id": 390909,
+      "translation": {
+        "en": {
+          "short": "ovum",
+          "long": "a mature, female reproductive cell or egg, typically larger than a sperm cell, capable of fusing with a sperm cell during fertilization to form a zygote",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telur",
+          "long": "Sel reproduksi atau telur yang dewasa, betina, biasanya lebih besar dari sel sperma, mampu menyatu dengan sel sperma selama pembuahan untuk membentuk zigot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390909.jpeg",
+      "simplified": "卵子",
+      "traditional": "卵子",
+      "pinyin": "luǎnzǐ"
+    },
+    {
+      "id": 390910,
+      "translation": {
+        "en": {
+          "short": "pepsin",
+          "long": "an enzyme produced in the stomach that helps in the digestion of proteins by breaking them down into smaller peptides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pepsin",
+          "long": "enzim yang diproduksi di lambung yang membantu pencernaan protein dengan memecahnya menjadi peptida yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390910.jpeg",
+      "simplified": "胃蛋白酶",
+      "traditional": "胃蛋白酶",
+      "pinyin": "wèidàn bái méi"
+    },
+    {
+      "id": 390911,
+      "translation": {
+        "en": {
+          "short": "adenosine triphosphate",
+          "long": "a molecule that carries energy within cells, composed of adenine, a ribose sugar, and three phosphate groups",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "adenosin trifosfat",
+          "long": "molekul yang membawa energi di dalam sel, terdiri dari adenin, gula ribosa, dan tiga gugus fosfat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390911.jpeg",
+      "simplified": "三磷酸腺苷",
+      "traditional": "三磷酸腺苷",
+      "pinyin": "sānlín suān xiàn gān"
+    },
+    {
+      "id": 390913,
+      "translation": {
+        "en": {
+          "short": "cytoskeleton",
+          "long": "a network of protein fibers in a cell that gives it shape, supports its structure, and aids in movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sitoskeleton",
+          "long": "Jaringan serat protein dalam sel yang memberinya bentuk, mendukung strukturnya, dan membantu dalam gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390913.jpeg",
+      "simplified": "细胞骨架",
+      "traditional": "細胞骨架",
+      "pinyin": "xìbāo gǔ jià"
+    }
+  ]
+}

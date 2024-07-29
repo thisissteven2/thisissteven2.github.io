@@ -1,0 +1,602 @@
+{
+  "id": 958,
+  "title": {
+    "en": "Transportation",
+    "id": "Angkutan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about transportation, such as \"automobile\", \"snowplow\", \"minibus\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang transportasi, seperti \"mobil\", \"bajak salju\", \"minibus\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 242181,
+      "translation": {
+        "en": {
+          "short": "automobile",
+          "long": "a motorized vehicle designed for personal transportation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil",
+          "long": "Kendaraan bermotor yang dirancang untuk transportasi pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242181.jpeg",
+      "simplified": "汽车",
+      "traditional": "汽車",
+      "pinyin": "qìchē"
+    },
+    {
+      "id": 242177,
+      "translation": {
+        "en": {
+          "short": "cab",
+          "long": "a vehicle, typically with a driver for hire, used to transport passengers to their destinations in exchange for an amount of money",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taksi",
+          "long": "Kendaraan, biasanya dengan pengemudi untuk disewa, digunakan untuk mengangkut penumpang ke tujuan mereka dengan imbalan sejumlah uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242177.jpeg",
+      "simplified": "座舱",
+      "traditional": "座艙",
+      "pinyin": "zuòcāng"
+    },
+    {
+      "id": 242178,
+      "translation": {
+        "en": {
+          "short": "double-decker",
+          "long": "a vehicle such as a bus, train, or ship with two levels on top of one another, providing additional seating capacity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Double-Decker",
+          "long": "Kendaraan seperti bus, kereta api, atau kapal dengan dua tingkat di atas satu sama lain, memberikan kapasitas tempat duduk tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242178.jpeg",
+      "simplified": "双层巴士",
+      "traditional": "雙層巴士",
+      "pinyin": "shuāngcéng bā shì"
+    },
+    {
+      "id": 242179,
+      "translation": {
+        "en": {
+          "short": "freight car",
+          "long": "a railroad car used for transporting goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil barang",
+          "long": "mobil kereta api yang digunakan untuk mengangkut barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242179.jpeg",
+      "simplified": "货车",
+      "traditional": "貨車",
+      "pinyin": "huòchē"
+    },
+    {
+      "id": 242180,
+      "translation": {
+        "en": {
+          "short": "freight train",
+          "long": "a train that transports goods, not people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta barang",
+          "long": "kereta yang mengangkut barang, bukan orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242180.jpeg",
+      "simplified": "货车",
+      "traditional": "貨車",
+      "pinyin": "huòchē"
+    },
+    {
+      "id": 242183,
+      "translation": {
+        "en": {
+          "short": "garbage truck",
+          "long": "a large vehicle used for collecting household trash",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk sampah",
+          "long": "Kendaraan besar yang digunakan untuk mengumpulkan sampah rumah tangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242183.jpeg",
+      "simplified": "垃圾车",
+      "traditional": "垃圾車",
+      "pinyin": "lājī chē"
+    },
+    {
+      "id": 242186,
+      "translation": {
+        "en": {
+          "short": "jeep",
+          "long": "a sturdy vehicle designed for traveling on rough surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jip",
+          "long": "Kendaraan kokoh yang dirancang untuk bepergian di permukaan yang kasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242186.jpeg",
+      "simplified": "吉普车",
+      "traditional": "吉普車",
+      "pinyin": "jípǔ chē"
+    },
+    {
+      "id": 242188,
+      "translation": {
+        "en": {
+          "short": "minibus",
+          "long": "a small passenger-carrying vehicle that is larger than a typical car but smaller than a full-sized bus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minibus",
+          "long": "Kendaraan pembawa penumpang kecil yang lebih besar dari mobil khas tetapi lebih kecil dari bus berukuran penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242188.jpeg",
+      "simplified": "小巴",
+      "traditional": "小巴",
+      "pinyin": "xiǎobā"
+    },
+    {
+      "id": 242196,
+      "translation": {
+        "en": {
+          "short": "monorail",
+          "long": "a railway system that has only one rail instead of two, usually in an elevated position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monorel",
+          "long": "sistem kereta api yang hanya memiliki satu rel, bukan dua, biasanya dalam posisi yang ditinggikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242196.jpeg",
+      "simplified": "单轨列车",
+      "traditional": "單軌列車",
+      "pinyin": "dānguǐ lièchē"
+    },
+    {
+      "id": 242189,
+      "translation": {
+        "en": {
+          "short": "moped",
+          "long": "a motorcycle with a weak engine and pedals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "moped",
+          "long": "sepeda motor dengan mesin dan pedal yang lemah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242189.jpeg",
+      "simplified": "轻骑",
+      "traditional": "輕騎",
+      "pinyin": "qīngqí"
+    },
+    {
+      "id": 242190,
+      "translation": {
+        "en": {
+          "short": "moving van",
+          "long": "a large vehicle used for transporting furniture and other goods from one place to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "van bergerak",
+          "long": "Kendaraan besar yang digunakan untuk mengangkut furnitur dan barang -barang lainnya dari satu tempat ke tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242190.jpeg",
+      "simplified": "卡车（用于移动家具等）",
+      "traditional": "卡車（用於移動家具等）",
+      "pinyin": "kǎchē yòngyú yídòng jiājù děng"
+    },
+    {
+      "id": 242195,
+      "translation": {
+        "en": {
+          "short": "rickshaw",
+          "long": "a doorless two-wheeled vehicle that holds one or two passengers and is drawn by a person walking or cycling, used in South East Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angkong",
+          "long": "Kendaraan roda dua tanpa pintu yang menampung satu atau dua penumpang dan ditarik oleh seseorang yang berjalan atau bersepeda, digunakan di Asia Tenggara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242195.jpeg",
+      "simplified": "黄包车",
+      "traditional": "黃包車",
+      "pinyin": "huángbāo chē"
+    },
+    {
+      "id": 242193,
+      "translation": {
+        "en": {
+          "short": "snowplow",
+          "long": "a vehicle or other piece of equipment used for clearing roads of snow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bajak salju",
+          "long": "kendaraan atau peralatan lain yang digunakan untuk membersihkan jalan salju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242193.jpeg",
+      "simplified": "雪犁",
+      "traditional": "雪犁",
+      "pinyin": "Xuě lí"
+    },
+    {
+      "id": 242194,
+      "translation": {
+        "en": {
+          "short": "tram",
+          "long": "a vehicle that is powered by electricity and moves on rails in a street, used for transporting passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trem",
+          "long": "Kendaraan yang ditenagai oleh listrik dan bergerak di atas rel di jalan, digunakan untuk mengangkut penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242194.jpeg",
+      "simplified": "电车",
+      "traditional": "電車",
+      "pinyin": "diànchē"
+    },
+    {
+      "id": 242176,
+      "translation": {
+        "en": {
+          "short": "airbus",
+          "long": "an airplane that transports many passengers, particularly for short distances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Airbus",
+          "long": "pesawat terbang yang mengangkut banyak penumpang, terutama untuk jarak pendek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242176.jpeg",
+      "simplified": "空客",
+      "traditional": "空中巴士",
+      "pinyin": "Kōngkè"
+    },
+    {
+      "id": 242205,
+      "translation": {
+        "en": {
+          "short": "airliner",
+          "long": "a large aircraft for transporting passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat",
+          "long": "pesawat besar untuk mengangkut penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242205.jpeg",
+      "simplified": "客机",
+      "traditional": "客機",
+      "pinyin": "kèjī"
+    },
+    {
+      "id": 242198,
+      "translation": {
+        "en": {
+          "short": "hovercraft",
+          "long": "a vehicle that can travel near the surface of water or land being supported by its air cushion and using the power of air produced by its engine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal berbantalan udara",
+          "long": "Kendaraan yang dapat melakukan perjalanan di dekat permukaan air atau lahan yang didukung oleh bantalan udara dan menggunakan kekuatan udara yang diproduksi oleh mesinnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242198.jpeg",
+      "simplified": "气垫船",
+      "traditional": "氣墊船",
+      "pinyin": "qìdiàn chuán"
+    },
+    {
+      "id": 242175,
+      "translation": {
+        "en": {
+          "short": "jumbo jet",
+          "long": "a very large plane capable of carrying hundreds of passengers, particularly a Boeing 747",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "JUMBO JET",
+          "long": "Pesawat yang sangat besar yang mampu membawa ratusan penumpang, khususnya Boeing 747",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242175.jpeg",
+      "simplified": "喷气客机",
+      "traditional": "噴氣客機",
+      "pinyin": "pēnqì kèjī"
+    },
+    {
+      "id": 242206,
+      "translation": {
+        "en": {
+          "short": "zeppelin",
+          "long": "a large airship, originated in Germany",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "zeppelin",
+          "long": "pesawat terbang besar, berasal dari Jerman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242206.jpeg",
+      "simplified": "齐柏林飞艇",
+      "traditional": "齊柏林飛艇",
+      "pinyin": "Qíbó lín fēi tǐng"
+    },
+    {
+      "id": 242204,
+      "translation": {
+        "en": {
+          "short": "vessel",
+          "long": "a large boat or a ship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal",
+          "long": "perahu besar atau kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242204.jpeg",
+      "simplified": "船只",
+      "traditional": "船隻",
+      "pinyin": "chuánzhī"
+    },
+    {
+      "id": 242207,
+      "translation": {
+        "en": {
+          "short": "cruiser",
+          "long": "a motorboat of large size with a cabin on board in which people can sleep, used for recreational purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal penjelajah",
+          "long": "Perahu motor dengan ukuran besar dengan kabin di atas kapal di mana orang bisa tidur, digunakan untuk tujuan rekreasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242207.jpeg",
+      "simplified": "巡洋舰",
+      "traditional": "巡洋艦",
+      "pinyin": "xúnyáng jiàn"
+    },
+    {
+      "id": 242197,
+      "translation": {
+        "en": {
+          "short": "canoe",
+          "long": "a narrow boat that is light and has pointed ends, which can be moved using paddles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kano",
+          "long": "perahu sempit yang ringan dan memiliki ujung runcing, yang dapat dipindahkan menggunakan dayung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242197.jpeg",
+      "simplified": "用于划独木舟的船",
+      "traditional": "用於劃獨木舟的船",
+      "pinyin": "yòngyú huá dúmù zhōu de chuán"
+    },
+    {
+      "id": 242199,
+      "translation": {
+        "en": {
+          "short": "kayak",
+          "long": "a type of boat that is light and has an opening in the top in which the paddler sits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kayak",
+          "long": "Jenis perahu yang ringan dan memiliki celah di bagian atas tempat darat duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242199.jpeg",
+      "simplified": "皮艇",
+      "traditional": "皮艇",
+      "pinyin": "pítǐng"
+    },
+    {
+      "id": 242200,
+      "translation": {
+        "en": {
+          "short": "lifeboat",
+          "long": "a boat used for saving people whose lives are at risk at sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekoci",
+          "long": "Sebuah perahu yang digunakan untuk menyelamatkan orang yang hidupnya berisiko di laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242200.jpeg",
+      "simplified": "救生艇",
+      "traditional": "救生艇",
+      "pinyin": "jiùshēng tǐng"
+    },
+    {
+      "id": 242201,
+      "translation": {
+        "en": {
+          "short": "powerboat",
+          "long": "a motorboat that can go very fast, used particularly in races",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perahu motor",
+          "long": "perahu motor yang bisa sangat cepat, digunakan terutama dalam balapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242201.jpeg",
+      "simplified": "摩托艇",
+      "traditional": "摩托艇",
+      "pinyin": "mótuō tǐng"
+    },
+    {
+      "id": 242202,
+      "translation": {
+        "en": {
+          "short": "speedboat",
+          "long": "a boat designed to go very fast",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Speedboat",
+          "long": "perahu yang dirancang untuk pergi dengan sangat cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242202.jpeg",
+      "simplified": "快艇",
+      "traditional": "快艇",
+      "pinyin": "kuàitǐng"
+    },
+    {
+      "id": 245191,
+      "translation": {
+        "en": {
+          "short": "integrated",
+          "long": "involving different parts that work well together",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terintegrasi",
+          "long": "melibatkan berbagai bagian yang bekerja sama dengan baik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245191.jpeg",
+      "simplified": "融合的",
+      "traditional": "融合的",
+      "pinyin": "rónghé de"
+    },
+    {
+      "id": 257816,
+      "translation": {
+        "en": {
+          "short": "viaduct",
+          "long": "a long, elevated structure that carries a railway or road across a valley or river, typically held up by a series of arches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jembatan di atas jalan",
+          "long": "Struktur panjang dan tinggi yang membawa kereta api atau jalan melintasi lembah atau sungai, biasanya ditahan oleh serangkaian lengkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/257816.jpeg",
+      "simplified": "高架桥",
+      "traditional": "高架橋",
+      "pinyin": "gāojià qiáo"
+    },
+    {
+      "id": 384968,
+      "translation": {
+        "en": {
+          "short": "recreational vehicle",
+          "long": "a motorized or towable vehicle equipped with living amenities, designed for temporary accommodation and travel enjoyment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendaraan rekreasi",
+          "long": "Kendaraan bermotor atau ditarik dilengkapi dengan fasilitas hidup, yang dirancang untuk akomodasi sementara dan kenikmatan perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384968.jpeg",
+      "simplified": "休闲车",
+      "traditional": "休閒車",
+      "pinyin": "xiūxián Chē"
+    },
+    {
+      "id": 385994,
+      "translation": {
+        "en": {
+          "short": "limousine",
+          "long": "a large, luxurious, and expensive car with a partition between the passengers and the driver",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limousine",
+          "long": "mobil besar, mewah, dan mahal dengan partisi antara penumpang dan pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385994.jpeg",
+      "simplified": "豪华轿车",
+      "traditional": "豪華轎車",
+      "pinyin": "háohuá jiào chē"
+    },
+    {
+      "id": 242203,
+      "translation": {
+        "en": {
+          "short": "submarine",
+          "long": "a warship that can operate both on and under water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal selam",
+          "long": "kapal perang yang dapat beroperasi baik di dalam maupun di bawah air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242203.jpeg",
+      "simplified": "潜艇",
+      "traditional": "潛艇",
+      "pinyin": "qiántǐng"
+    }
+  ]
+}

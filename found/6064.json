@@ -1,0 +1,925 @@
+{
+  "id": 6064,
+  "title": {
+    "en": "Medical Science",
+    "id": "Ilmu kedokteran"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to medical science, such as \"invasive\", \"probiotic\", \"systolic\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan ilmu kedokteran, seperti \"invasif\", \"probiotik\", \"sistolik\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 404090,
+      "translation": {
+        "en": {
+          "short": "embryo",
+          "long": "an unhatched or unborn offspring in the process of development, especially a human offspring roughly from the second to the eighth week after fertilization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "embrio",
+          "long": "Anak yang tidak ditarik atau belum lahir dalam proses pembangunan, terutama keturunan manusia secara kasar dari minggu kedua hingga kedelapan setelah pembuahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404090.jpeg",
+      "simplified": "胎儿",
+      "traditional": "胎兒",
+      "pinyin": "tāiér"
+    },
+    {
+      "id": 404091,
+      "translation": {
+        "en": {
+          "short": "developmental",
+          "long": "related to the process of growth, progress, or improvement over time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pembangunan",
+          "long": "terkait dengan proses pertumbuhan, kemajuan, atau peningkatan dari waktu ke waktu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404091.jpeg",
+      "simplified": "发展性的",
+      "traditional": "發展性的",
+      "pinyin": "fāzhǎn xìng de"
+    },
+    {
+      "id": 404092,
+      "translation": {
+        "en": {
+          "short": "lymphoid",
+          "long": "related to or resembling lymph or the tissues where lymphocytes, a type of white blood cell, are produced",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "limfoid",
+          "long": "terkait atau menyerupai getah bening atau jaringan di mana limfosit, sejenis sel darah putih, diproduksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404092.jpeg",
+      "simplified": "淋巴样",
+      "traditional": "淋巴樣",
+      "pinyin": "línbā yàng"
+    },
+    {
+      "id": 404093,
+      "translation": {
+        "en": {
+          "short": "immune response",
+          "long": "the body's defensive reaction to foreign substances, such as bacteria, viruses, or toxins, involving the activation of immune cells and the production of antibodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "respon imun",
+          "long": "Reaksi defensif tubuh terhadap zat asing, seperti bakteri, virus, atau racun, yang melibatkan aktivasi sel kekebalan tubuh dan produksi antibodi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404093.jpeg",
+      "simplified": "免疫反应",
+      "traditional": "免疫反應",
+      "pinyin": "miǎnyì fǎn yìng"
+    },
+    {
+      "id": 404094,
+      "translation": {
+        "en": {
+          "short": "placebo",
+          "long": "a medicine without any physiological effect that is given to a control group in an experiment to measure the effectiveness of a new drug or to patients who think they need medicine when in reality they do not",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "plasebo",
+          "long": "obat tanpa efek fisiologis yang diberikan kepada kelompok kontrol dalam percobaan untuk mengukur efektivitas obat baru atau kepada pasien yang berpikir mereka membutuhkan obat ketika pada kenyataannya mereka tidak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404094.jpeg",
+      "simplified": "假医疗",
+      "traditional": "假醫療",
+      "pinyin": "gēi yīliáo"
+    },
+    {
+      "id": 404095,
+      "translation": {
+        "en": {
+          "short": "pathogen",
+          "long": "any organism that can cause diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patogen",
+          "long": "organisme apa pun yang dapat menyebabkan penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404095.jpeg",
+      "simplified": "病原",
+      "traditional": "病原",
+      "pinyin": "bìngyuán"
+    },
+    {
+      "id": 404096,
+      "translation": {
+        "en": {
+          "short": "rapid eye movement",
+          "long": "a stage of sleep characterized by rapid eye movements, vivid dreaming, and muscle paralysis, important for cognitive restoration and memory consolidation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerakan mata yang cepat",
+          "long": "Tahap tidur yang ditandai dengan gerakan mata yang cepat, mimpi yang jelas, dan kelumpuhan otot, penting untuk restorasi kognitif dan konsolidasi memori",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404096.jpeg",
+      "simplified": "快速眼球运动",
+      "traditional": "快速眼球運動",
+      "pinyin": "kuàisù yǎnqiú yùndòng"
+    },
+    {
+      "id": 404097,
+      "translation": {
+        "en": {
+          "short": "fibrosis",
+          "long": "the thickening and scarring of connective tissue, usually as a result of injury or long-term inflammation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fibros",
+          "long": "Penebalan dan jaringan parut jaringan ikat, biasanya akibat cedera atau peradangan jangka panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404097.jpeg",
+      "simplified": "纤维化",
+      "traditional": "纖維化",
+      "pinyin": "xiānwéi huā"
+    },
+    {
+      "id": 404098,
+      "translation": {
+        "en": {
+          "short": "homeostasis",
+          "long": "the tendency of an organism or cell to regulate its internal environment and maintain a stable, balanced condition, despite external changes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "homeostasis",
+          "long": "kecenderungan suatu organisme atau sel untuk mengatur lingkungan internalnya dan mempertahankan kondisi yang stabil dan seimbang, meskipun ada perubahan eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404098.jpeg",
+      "simplified": "体内平衡",
+      "traditional": "體內平衡",
+      "pinyin": "tǐnèi pínghéng"
+    },
+    {
+      "id": 404099,
+      "translation": {
+        "en": {
+          "short": "to implant",
+          "long": "to insert a living tissue or an artificial object into the body via medical procedure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menanamkan",
+          "long": "Untuk memasukkan jaringan hidup atau benda buatan ke dalam tubuh melalui prosedur medis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404099.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 404100,
+      "translation": {
+        "en": {
+          "short": "autopsy",
+          "long": "an examination of a deceased person's organs to determine the cause of death",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "autopsi",
+          "long": "Pemeriksaan organ orang yang meninggal untuk menentukan penyebab kematian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404100.jpeg",
+      "simplified": "验ㄕ",
+      "traditional": "驗ㄕ",
+      "pinyin": "yàn"
+    },
+    {
+      "id": 404101,
+      "translation": {
+        "en": {
+          "short": "pharmaceutical",
+          "long": "related to the production, use, or sale of medicines",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "farmasi",
+          "long": "terkait dengan produksi, penggunaan, atau penjualan obat -obatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404101.jpeg",
+      "simplified": "制药",
+      "traditional": "製藥",
+      "pinyin": "zhìyào"
+    },
+    {
+      "id": 404102,
+      "translation": {
+        "en": {
+          "short": "lesion",
+          "long": "a region in an organ or tissue that has suffered damage through injury, disease, or other causes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "luka",
+          "long": "daerah dalam organ atau jaringan yang mengalami kerusakan melalui cedera, penyakit, atau penyebab lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404102.jpeg",
+      "simplified": "伤口",
+      "traditional": "傷口",
+      "pinyin": "shāngkǒu"
+    },
+    {
+      "id": 404103,
+      "translation": {
+        "en": {
+          "short": "systolic",
+          "long": "relating to the phase of the heartbeat when the heart muscle contracts and pumps blood into the arteries",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sistolik",
+          "long": "berkaitan dengan fase detak jantung saat otot jantung berkontraksi dan memompa darah ke dalam arteri",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404103.jpeg",
+      "simplified": "收缩压",
+      "traditional": "收縮壓",
+      "pinyin": "shōusuō yā"
+    },
+    {
+      "id": 404104,
+      "translation": {
+        "en": {
+          "short": "phagotherapy",
+          "long": "a medical treatment that uses bacteriophages, or viruses that specifically target and kill bacteria, to combat bacterial infections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fagoterapi",
+          "long": "Perawatan medis yang menggunakan bakteriofag, atau virus yang secara khusus menargetkan dan membunuh bakteri, untuk memerangi infeksi bakteri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404104.jpeg",
+      "simplified": "吞噬疗法",
+      "traditional": "吞噬療法",
+      "pinyin": "tūnshì liáofǎ"
+    },
+    {
+      "id": 404105,
+      "translation": {
+        "en": {
+          "short": "therapeutic",
+          "long": "(of medicine) related to actions that heal, alleviate, or prevent health issues",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terapeutik",
+          "long": "(kedokteran) terkait dengan tindakan yang menyembuhkan, mengurangi, atau mencegah masalah kesehatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404105.jpeg",
+      "simplified": "治疗性",
+      "traditional": "治療性",
+      "pinyin": "zhìliáo xìng"
+    },
+    {
+      "id": 404106,
+      "translation": {
+        "en": {
+          "short": "side effect",
+          "long": "a secondary effect of any drug or medicine, usually an undesirable one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek samping",
+          "long": "Efek sekunder dari obat atau obat apa pun, biasanya yang tidak diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404106.jpeg",
+      "simplified": "副作用",
+      "traditional": "副作用",
+      "pinyin": "fùzuò yòng"
+    },
+    {
+      "id": 404107,
+      "translation": {
+        "en": {
+          "short": "to diagnose",
+          "long": "to find out the cause of a problem or what disease a person has by examining the symptoms",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendiagnosis",
+          "long": "untuk mengetahui penyebab masalah atau penyakit apa yang dimiliki seseorang dengan memeriksa gejalanya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404107.jpeg",
+      "simplified": "诊断",
+      "traditional": "診斷",
+      "pinyin": "zhěnduàn"
+    },
+    {
+      "id": 404108,
+      "translation": {
+        "en": {
+          "short": "antiseptic",
+          "long": "a substance that prevents infection when applied to a wound, especially by killing bacteria",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antiseptik",
+          "long": "Suatu zat yang mencegah infeksi saat diaplikasikan pada luka, terutama dengan membunuh bakteri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404108.jpeg",
+      "simplified": "防腐剂",
+      "traditional": "防腐劑",
+      "pinyin": "fángfǔ jì"
+    },
+    {
+      "id": 404109,
+      "translation": {
+        "en": {
+          "short": "digestive system",
+          "long": "the group of organs inside the body that absorb the food and pass the waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem pencernaan",
+          "long": "Kelompok organ di dalam tubuh yang menyerap makanan dan melewati limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404109.jpeg",
+      "simplified": "消化系统",
+      "traditional": "消化系統",
+      "pinyin": "xiāohuà xì tǒng"
+    },
+    {
+      "id": 404110,
+      "translation": {
+        "en": {
+          "short": "probiotic",
+          "long": "containing beneficial bacteria or microorganisms, often used to promote digestive health or balance within the body",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "probiotik",
+          "long": "mengandung bakteri bermanfaat atau mikroorganisme, sering digunakan untuk meningkatkan kesehatan atau keseimbangan pencernaan di dalam tubuh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404110.jpeg",
+      "simplified": "益生菌",
+      "traditional": "益生菌",
+      "pinyin": "yìshēng jūn"
+    },
+    {
+      "id": 404111,
+      "translation": {
+        "en": {
+          "short": "to sanitize",
+          "long": "to clean something thoroughly to reduce or eliminate germs, bacteria, or other harmful microorganisms",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membersihkan",
+          "long": "membersihkan sesuatu secara menyeluruh untuk mengurangi atau menghilangkan kuman, bakteri, atau mikroorganisme berbahaya lainnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404111.jpeg",
+      "simplified": "消毒",
+      "traditional": "消毒",
+      "pinyin": "xiāodú"
+    },
+    {
+      "id": 404112,
+      "translation": {
+        "en": {
+          "short": "respiratory",
+          "long": "related to the process of breathing and the organs involved in it, such as the lungs and airways",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pernapasan",
+          "long": "terkait dengan proses pernapasan dan organ yang terlibat di dalamnya, seperti paru -paru dan saluran udara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404112.jpeg",
+      "simplified": "呼吸系统",
+      "traditional": "呼吸系統",
+      "pinyin": "hūxī xì tǒng"
+    },
+    {
+      "id": 404113,
+      "translation": {
+        "en": {
+          "short": "body mass index",
+          "long": "a numerical measure of an individual's body fat based on their weight and height, often used to assess and categorize body weight in relation to health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Indeks massa tubuh",
+          "long": "Ukuran numerik lemak tubuh seseorang berdasarkan berat dan tinggi badannya, sering digunakan untuk menilai dan mengkategorikan berat badan dalam kaitannya dengan kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404113.jpeg",
+      "simplified": "体重指数",
+      "traditional": "體重指數",
+      "pinyin": "tǐzhòng zhǐshù"
+    },
+    {
+      "id": 404114,
+      "translation": {
+        "en": {
+          "short": "prenatal",
+          "long": "related to the period occurring or existing before birth, specifically in relation to the development and care of the fetus during pregnancy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sebelum melahirkan",
+          "long": "terkait dengan periode yang terjadi atau ada sebelum lahir, khususnya dalam kaitannya dengan perkembangan dan perawatan janin selama kehamilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404114.jpeg",
+      "simplified": "产前",
+      "traditional": "產前",
+      "pinyin": "chǎnqián"
+    },
+    {
+      "id": 404115,
+      "translation": {
+        "en": {
+          "short": "gestational",
+          "long": "relating to pregnancy or the period of carrying offspring in the womb",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kehamilan",
+          "long": "berkaitan dengan kehamilan atau periode membawa keturunan di dalam rahim",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404115.jpeg",
+      "simplified": "妊娠期的",
+      "traditional": "妊娠期的",
+      "pinyin": "rènshēn qī de"
+    },
+    {
+      "id": 404116,
+      "translation": {
+        "en": {
+          "short": "sputum",
+          "long": "Mucus or phlegm that is coughed up from the respiratory tract, typically as a result of infection or disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dahak",
+          "long": "Lendir atau dahak yang batuk dari saluran pernapasan, biasanya sebagai akibat dari infeksi atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404116.jpeg",
+      "simplified": "痰",
+      "traditional": "痰",
+      "pinyin": "tán"
+    },
+    {
+      "id": 404117,
+      "translation": {
+        "en": {
+          "short": "phlegm",
+          "long": "the thick mucus that is formed in the nasal and throat cavities, usually secreted in excessive amounts as a result of common cold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dahak",
+          "long": "lendir tebal yang terbentuk di rongga hidung dan tenggorokan, biasanya disekresikan dalam jumlah yang berlebihan sebagai akibat dari pilek biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404117.jpeg",
+      "simplified": "痰",
+      "traditional": "痰",
+      "pinyin": "tán"
+    },
+    {
+      "id": 404118,
+      "translation": {
+        "en": {
+          "short": "pharmacologist",
+          "long": "a scientist specializing in the study of drugs, their effects on biological systems, and their development for therapeutic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli farmakologi",
+          "long": "Seorang ilmuwan yang berspesialisasi dalam studi obat, pengaruhnya terhadap sistem biologis, dan perkembangannya untuk tujuan terapeutik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404118.jpeg",
+      "simplified": "药理学家",
+      "traditional": "藥理學家",
+      "pinyin": "yàolǐ xué jiā"
+    },
+    {
+      "id": 404119,
+      "translation": {
+        "en": {
+          "short": "radiologist",
+          "long": "a medical specialist who specializes in diagnosing and treating injuries using radioactive substances and X-rays",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radiolog",
+          "long": "Seorang spesialis medis yang berspesialisasi dalam mendiagnosis dan mengobati cedera menggunakan zat radioaktif dan rontgen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404119.jpeg",
+      "simplified": "放射科医生",
+      "traditional": "放射科醫生",
+      "pinyin": "fàngshè kē yīshēng"
+    },
+    {
+      "id": 404120,
+      "translation": {
+        "en": {
+          "short": "pathologist",
+          "long": "a medical professional who specializes in studying and diagnosing diseases by examining tissues, cells, and bodily fluids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli patologi",
+          "long": "Seorang profesional medis yang berspesialisasi dalam mempelajari dan mendiagnosis penyakit dengan memeriksa jaringan, sel, dan cairan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404120.jpeg",
+      "simplified": "病理学家",
+      "traditional": "病理學家",
+      "pinyin": "bìnglǐ xué jiā"
+    },
+    {
+      "id": 404121,
+      "translation": {
+        "en": {
+          "short": "pediatrician",
+          "long": "a doctor who specializes in the treatment of children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dokter anak",
+          "long": "seorang dokter yang berspesialisasi dalam perawatan anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404121.jpeg",
+      "simplified": "儿科医师",
+      "traditional": "兒科醫師",
+      "pinyin": "érkē yīshī"
+    },
+    {
+      "id": 404122,
+      "translation": {
+        "en": {
+          "short": "positron emission tomography",
+          "long": "a medical imaging technique that uses a small amount of radioactive tracer material to diagnose and monitor diseases such as cancer, heart disease, and neurological disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tomografi emisi positron",
+          "long": "Teknik pencitraan medis yang menggunakan sejumlah kecil bahan pelacak radioaktif untuk mendiagnosis dan memantau penyakit seperti kanker, penyakit jantung, dan gangguan neurologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404122.jpeg",
+      "simplified": "正电子发射断层扫描",
+      "traditional": "正電子發射斷層掃描",
+      "pinyin": "zhèngdiàn zǐ fāshè duàncéng sǎo miáo"
+    },
+    {
+      "id": 404123,
+      "translation": {
+        "en": {
+          "short": "invasive",
+          "long": "(of medical procedures) comprising cutting into the body or body cavities",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "invasif",
+          "long": "(prosedur medis) yang terdiri dari pemotongan ke dalam rongga tubuh atau tubuh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404123.jpeg",
+      "simplified": "侵入性的",
+      "traditional": "侵入性的",
+      "pinyin": "qīnrù xìng de"
+    },
+    {
+      "id": 404124,
+      "translation": {
+        "en": {
+          "short": "inoculation",
+          "long": "the process of boosting the immunity system of a person or animal against a disease by vaccination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inokulasi",
+          "long": "Proses meningkatkan sistem kekebalan seseorang atau hewan terhadap penyakit dengan vaksinasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404124.jpeg",
+      "simplified": "接种",
+      "traditional": "接種",
+      "pinyin": "jiēzhòng"
+    },
+    {
+      "id": 404125,
+      "translation": {
+        "en": {
+          "short": "immunodeficiency",
+          "long": "a condition where the immune system is weakened, making the person more vulnerable to infections and illnesses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Refisiensi imun",
+          "long": "suatu kondisi di mana sistem kekebalan tubuh melemah, membuat orang tersebut lebih rentan terhadap infeksi dan penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404125.jpeg",
+      "simplified": "免疫缺陷",
+      "traditional": "免疫缺陷",
+      "pinyin": "miǎnyì quēxiàn"
+    },
+    {
+      "id": 404126,
+      "translation": {
+        "en": {
+          "short": "respiration",
+          "long": "(anatomy) the act or process of breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernafasan",
+          "long": "(Anatomi) Tindakan atau proses pernapasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404126.jpeg",
+      "simplified": "呼吸",
+      "traditional": "呼吸",
+      "pinyin": "hūxī"
+    },
+    {
+      "id": 404127,
+      "translation": {
+        "en": {
+          "short": "tonic",
+          "long": "a drug that makes one feel stronger, healthier, or better, particularly used to treat exhaustion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tonik",
+          "long": "Obat yang membuat seseorang merasa lebih kuat, lebih sehat, atau lebih baik, terutama digunakan untuk mengobati kelelahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404127.jpeg",
+      "simplified": "补品",
+      "traditional": "補品",
+      "pinyin": "bǔpǐn"
+    },
+    {
+      "id": 404128,
+      "translation": {
+        "en": {
+          "short": "to administer",
+          "long": "to give someone medicines, drugs, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengelola",
+          "long": "Untuk memberi seseorang obat, obat -obatan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404128.jpeg",
+      "simplified": "管理（药物等）",
+      "traditional": "管理（藥物等）",
+      "pinyin": "guǎnlǐ yàowù děng"
+    },
+    {
+      "id": 404129,
+      "translation": {
+        "en": {
+          "short": "veterinarian",
+          "long": "a doctor who is trained to treat animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter hewan",
+          "long": "seorang dokter yang dilatih untuk merawat hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404129.jpeg",
+      "simplified": "兽医",
+      "traditional": "獸醫",
+      "pinyin": "shòuyī"
+    },
+    {
+      "id": 404130,
+      "translation": {
+        "en": {
+          "short": "restorative",
+          "long": "able to promote or restore one's health or strength",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "restoratif",
+          "long": "dapat mempromosikan atau memulihkan kesehatan atau kekuatan seseorang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404130.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    },
+    {
+      "id": 404132,
+      "translation": {
+        "en": {
+          "short": "menopause",
+          "long": "the natural biological process that marks the end of a woman's menstrual cycles, typically occurring around the age of 50",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mati haid",
+          "long": "Proses biologis alami yang menandai akhir dari siklus menstruasi wanita, biasanya terjadi sekitar usia 50 tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404132.jpeg",
+      "simplified": "绝经",
+      "traditional": "絕經",
+      "pinyin": "juéjīng"
+    },
+    {
+      "id": 404134,
+      "translation": {
+        "en": {
+          "short": "infective",
+          "long": "related to an infection or having the ability to cause an infection",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "infektif",
+          "long": "terkait dengan infeksi atau memiliki kemampuan untuk menyebabkan infeksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404134.jpeg",
+      "simplified": "传染性的",
+      "traditional": "傳染性的",
+      "pinyin": "chuánrǎn xìng de"
+    },
+    {
+      "id": 404135,
+      "translation": {
+        "en": {
+          "short": "preventative",
+          "long": "designed to stop something harmful from happening, especially related to health or diseases",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pencegah",
+          "long": "Dirancang untuk menghentikan sesuatu yang berbahaya terjadi, terutama yang terkait dengan kesehatan atau penyakit",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404135.jpeg",
+      "simplified": "预防性的",
+      "traditional": "預防性的",
+      "pinyin": "yùfáng xìng de"
+    },
+    {
+      "id": 404136,
+      "translation": {
+        "en": {
+          "short": "psychiatric",
+          "long": "relating to the study and treatment of mental illness",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "psikiatrik",
+          "long": "berkaitan dengan studi dan pengobatan penyakit mental",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404136.jpeg",
+      "simplified": "精神病",
+      "traditional": "精神病",
+      "pinyin": "jīngshén bìng"
+    },
+    {
+      "id": 404137,
+      "translation": {
+        "en": {
+          "short": "psychologist",
+          "long": "a professional who studies behavior and mental processes to understand and treat psychological disorders and improve overall mental health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "psikolog",
+          "long": "Seorang profesional yang mempelajari perilaku dan proses mental untuk memahami dan mengobati gangguan psikologis dan meningkatkan kesehatan mental secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404137.jpeg",
+      "simplified": "心理学家",
+      "traditional": "心理學家",
+      "pinyin": "xīnlǐ xué jiā"
+    },
+    {
+      "id": 404138,
+      "translation": {
+        "en": {
+          "short": "ascorbic acid",
+          "long": "a vitamin that helps keep the body cells healthy and supports the immune system, commonly found in fruits like orange and vegetables like tomatoes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asam askorbat",
+          "long": "Vitamin yang membantu menjaga sel tubuh tetap sehat dan mendukung sistem kekebalan tubuh, yang biasa ditemukan dalam buah -buahan seperti jeruk dan sayuran seperti tomat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404138.jpeg",
+      "simplified": "抗坏血酸",
+      "traditional": "抗壞血酸",
+      "pinyin": "kànghuài xuè suān"
+    },
+    {
+      "id": 404139,
+      "translation": {
+        "en": {
+          "short": "dysfunction",
+          "long": "the impaired or abnormal functioning of an organ, system, or biological process, often resulting in diminished efficiency or health consequences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyelewengan fungsi",
+          "long": "Fungsi yang terganggu atau abnormal dari suatu organ, sistem, atau proses biologis, sering kali mengakibatkan berkurangnya efisiensi atau konsekuensi kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404139.jpeg",
+      "simplified": "功能障碍",
+      "traditional": "功能障礙",
+      "pinyin": "gōngnéng zhàngài"
+    }
+  ]
+}

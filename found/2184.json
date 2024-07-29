@@ -1,0 +1,583 @@
+{
+  "id": 2184,
+  "title": {
+    "en": "Beer",
+    "id": "Bir"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to beer such as \"porter\", \"keg\", and \"gueuze\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan bir seperti \"porter\", \"tong\", dan \"gueuze\"."
+  },
+  "cards": [
+    {
+      "id": 290763,
+      "translation": {
+        "en": {
+          "short": "lager",
+          "long": "a fizzy beer that has been brewed at a low temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lager",
+          "long": "Bir bersoda yang telah diseduh pada suhu rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290763.jpeg",
+      "simplified": "啤酒",
+      "traditional": "啤酒",
+      "pinyin": "píjiǔ"
+    },
+    {
+      "id": 290764,
+      "translation": {
+        "en": {
+          "short": "ale",
+          "long": "a type of beer that is dark in color and does not contain bubbles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir",
+          "long": "Jenis bir yang berwarna gelap dan tidak mengandung gelembung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290764.jpeg",
+      "simplified": "麦酒",
+      "traditional": "麥酒",
+      "pinyin": "màijiǔ"
+    },
+    {
+      "id": 290765,
+      "translation": {
+        "en": {
+          "short": "bitter",
+          "long": "a style of beer that is characterized by its hoppy flavor and relatively high bitterness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pahit",
+          "long": "Gaya bir yang ditandai dengan rasa hoppy dan kepahitan yang relatif tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290765.jpeg",
+      "simplified": "酸溜溜",
+      "traditional": "酸溜溜",
+      "pinyin": "suānliū liū"
+    },
+    {
+      "id": 290767,
+      "translation": {
+        "en": {
+          "short": "Guinness",
+          "long": "a brand of Irish dry stout that is known for its dark color, creamy head, and distinctive roasted flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Guinness",
+          "long": "Merek Stout Kering Irlandia yang dikenal karena warna gelapnya, kepala krim, dan rasa panggang yang khas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290767.jpeg",
+      "simplified": "吉尼斯",
+      "traditional": "吉尼斯",
+      "pinyin": "Jíní sī"
+    },
+    {
+      "id": 290768,
+      "translation": {
+        "en": {
+          "short": "home brew",
+          "long": "beer or other alcoholic beverages that are made at home using a brewing kit or other equipment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Home Brew",
+          "long": "bir atau minuman beralkohol lainnya yang dibuat di rumah menggunakan kit pembuatan bir atau peralatan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290768.jpeg",
+      "simplified": "家酿",
+      "traditional": "家釀",
+      "pinyin": "jiā niàng"
+    },
+    {
+      "id": 290769,
+      "translation": {
+        "en": {
+          "short": "pale ale",
+          "long": "a type of beer that is characterized by its light color, hoppy flavor, and refreshing finish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ale pucat",
+          "long": "Jenis bir yang ditandai dengan warna terang, rasa hoppy, dan hasil akhir yang menyegarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290769.jpeg",
+      "simplified": "淡色艾尔啤酒",
+      "traditional": "淡色艾爾啤酒",
+      "pinyin": "dàn sè Aì ěr píjiǔ"
+    },
+    {
+      "id": 290770,
+      "translation": {
+        "en": {
+          "short": "stout",
+          "long": "a type of dark beer that is characterized by its roasted malt flavor, full body, and creamy head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bayak",
+          "long": "Jenis bir hitam yang ditandai dengan rasa malt panggang, tubuh penuh, dan kepala krim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290770.jpeg",
+      "simplified": "烈性黑啤酒",
+      "traditional": "烈性黑啤酒",
+      "pinyin": "lièxìng Hēi píjiǔ"
+    },
+    {
+      "id": 290772,
+      "translation": {
+        "en": {
+          "short": "session beer",
+          "long": "a low-alcohol beer intended for extended, leisurely drinking without quickly causing intoxication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bir Sesi",
+          "long": "Bir alkohol rendah yang dimaksudkan untuk minum yang panjang dan santai tanpa menyebabkan keracunan dengan cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290772.jpeg",
+      "simplified": "会议啤酒",
+      "traditional": "會議啤酒",
+      "pinyin": "huìyì píjiǔ"
+    },
+    {
+      "id": 290775,
+      "translation": {
+        "en": {
+          "short": "guest beer",
+          "long": "a beer brewed by a guest brewery and offered on tap at a different brewery or establishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir tamu",
+          "long": "Bir yang diseduh oleh tempat pembuatan bir tamu dan ditawarkan dengan keran di tempat pembuatan bir atau tempat yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290775.jpeg",
+      "simplified": "客啤酒",
+      "traditional": "客啤酒",
+      "pinyin": "kè píjiǔ"
+    },
+    {
+      "id": 290777,
+      "translation": {
+        "en": {
+          "short": "brown ale",
+          "long": "a style of beer that is typically dark in color with a malty profile and moderate alcohol content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ale coklat",
+          "long": "Gaya bir yang biasanya berwarna gelap dengan profil malty dan kandungan alkohol sedang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290777.jpeg",
+      "simplified": "棕色啤酒",
+      "traditional": "棕色啤酒",
+      "pinyin": "zōngsè píjiǔ"
+    },
+    {
+      "id": 290779,
+      "translation": {
+        "en": {
+          "short": "amber fluid",
+          "long": "a colloquial term that is sometimes used to refer to beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cairan Amber",
+          "long": "istilah sehari -hari yang kadang -kadang digunakan untuk merujuk pada bir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290779.jpeg",
+      "simplified": "琥珀色液体",
+      "traditional": "琥珀色液體",
+      "pinyin": "hǔpò sè yètǐ"
+    },
+    {
+      "id": 290783,
+      "translation": {
+        "en": {
+          "short": "rice beer",
+          "long": "a type of beer brewed using rice as a primary ingredient",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir beras",
+          "long": "Jenis bir yang diseduh menggunakan nasi sebagai bahan utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290783.jpeg",
+      "simplified": "米酒",
+      "traditional": "米酒",
+      "pinyin": "Mǐ jiǔ"
+    },
+    {
+      "id": 290784,
+      "translation": {
+        "en": {
+          "short": "craft beer",
+          "long": "‌a type of beer that is produced in a classic way by a small brewery rather than a large company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir kerajinan",
+          "long": "Jenis bir yang diproduksi secara klasik oleh tempat pembuatan bir kecil daripada perusahaan besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290784.jpeg",
+      "simplified": "精酿啤酒",
+      "traditional": "精釀啤酒",
+      "pinyin": "jīngniàng pí jiǔ"
+    },
+    {
+      "id": 290785,
+      "translation": {
+        "en": {
+          "short": "white beer",
+          "long": "a type of wheat beer that is brewed using a mix of malted wheat and barley",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir putih",
+          "long": "Jenis bir gandum yang diseduh menggunakan campuran gandum dan gandum malt",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290785.jpeg",
+      "simplified": "白啤酒",
+      "traditional": "白啤酒",
+      "pinyin": "Bái píjiǔ"
+    },
+    {
+      "id": 290786,
+      "translation": {
+        "en": {
+          "short": "spruce beer",
+          "long": "a type of beer that is brewed using the tips, needles, or essence of spruce trees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bir Spruce",
+          "long": "Jenis bir yang diseduh menggunakan tips, jarum, atau esensi pohon cemara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290786.jpeg",
+      "simplified": "云杉啤酒",
+      "traditional": "雲杉啤酒",
+      "pinyin": "yúnshān píjiǔ"
+    },
+    {
+      "id": 290787,
+      "translation": {
+        "en": {
+          "short": "porter",
+          "long": "a dark, full-bodied beer brewed using roasted malt, hops, and yeast, with a chocolatey, coffee-like flavor and balancing bitterness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "porter",
+          "long": "Bir yang gelap dan bertubuh penuh yang diseduh menggunakan malt panggang, hop, dan ragi, dengan rasa cokelat seperti kopi dan menyeimbangkan kepahitan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290787.jpeg",
+      "simplified": "搬运工",
+      "traditional": "搬運工",
+      "pinyin": "bānyùn gōng"
+    },
+    {
+      "id": 290788,
+      "translation": {
+        "en": {
+          "short": "Munchener",
+          "long": "a malty and clean lager that originated in Munich, Germany",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Munchener",
+          "long": "Lager malty dan bersih yang berasal dari Munich, Jerman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290788.jpeg",
+      "simplified": "慕尼黑人",
+      "traditional": "慕尼黑人",
+      "pinyin": "Mùní hēi rén"
+    },
+    {
+      "id": 290789,
+      "translation": {
+        "en": {
+          "short": "light beer",
+          "long": "a low-calorie and low-alcohol beer that typically contains fewer carbohydrates and less malt than traditional beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bir ringan",
+          "long": "Bir rendah kalori dan alkohol rendah yang biasanya mengandung lebih sedikit karbohidrat dan lebih sedikit malt daripada bir tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290789.jpeg",
+      "simplified": "低度啤酒",
+      "traditional": "低度啤酒",
+      "pinyin": "dī dù píjiǔ"
+    },
+    {
+      "id": 290790,
+      "translation": {
+        "en": {
+          "short": "draft beer",
+          "long": "a type of beer that is served from a keg or cask, rather than from a bottle or can",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Draf bir",
+          "long": "Jenis bir yang disajikan dari tong atau tong, bukan dari botol atau kaleng",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290790.jpeg",
+      "simplified": "扎啤酒",
+      "traditional": "生啤酒",
+      "pinyin": "zhāpí jiǔ"
+    },
+    {
+      "id": 290791,
+      "translation": {
+        "en": {
+          "short": "bock",
+          "long": "a strong, malty beer that is typically lagered for an extended period of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bock",
+          "long": "Bir yang kuat dan malty yang biasanya lambung untuk waktu yang lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290791.jpeg",
+      "simplified": "博克",
+      "traditional": "博克",
+      "pinyin": "bó Kè"
+    },
+    {
+      "id": 290792,
+      "translation": {
+        "en": {
+          "short": "birch beer",
+          "long": "a type of carbonated soft drink that is flavored with extracts from birch bark or twigs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bir Birch",
+          "long": "Jenis minuman ringan berkarbonasi yang dibumbui dengan ekstrak dari kulit birch atau ranting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290792.jpeg",
+      "simplified": "桦木啤酒",
+      "traditional": "樺木啤酒",
+      "pinyin": "huàmù píjiǔ"
+    },
+    {
+      "id": 329105,
+      "translation": {
+        "en": {
+          "short": "barley wine",
+          "long": "a strong, malt-driven beer style that is typically dark, full-bodied, and high in alcohol content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur gandum",
+          "long": "Gaya bir yang kuat dan digerakkan malt yang biasanya gelap, bertubuh penuh, dan kandungan alkohol tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329105.jpeg",
+      "simplified": "大麦酒",
+      "traditional": "大麥酒",
+      "pinyin": "dàmài jiǔ"
+    },
+    {
+      "id": 329119,
+      "translation": {
+        "en": {
+          "short": "biere de garde",
+          "long": "a traditional style of French beer that is brewed and aged for an extended period, resulting in a beer with a rich, robust flavor and higher alcohol content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Biere de Garde",
+          "long": "Gaya tradisional bir Prancis yang diseduh dan berumur untuk waktu yang lama, menghasilkan bir dengan rasa yang kaya dan kuat dan kandungan alkohol yang lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329119.jpeg",
+      "simplified": "花园",
+      "traditional": "花園",
+      "pinyin": "huāyuán"
+    },
+    {
+      "id": 329125,
+      "translation": {
+        "en": {
+          "short": "black and tan",
+          "long": "a beer cocktail made by layering a pale ale or lager on top of a darker beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hitam dan Tan",
+          "long": "Koktail bir yang dibuat dengan melapisi bir pucat atau bir di atas bir yang lebih gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329125.jpeg",
+      "simplified": "黑色和黄褐色",
+      "traditional": "黑色和黃褐色",
+      "pinyin": "hēisè Hé huánghè sè"
+    },
+    {
+      "id": 329133,
+      "translation": {
+        "en": {
+          "short": "boilermaker",
+          "long": "a drink consisting of a shot of whiskey, usually served alongside a glass of beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Boilermaker",
+          "long": "Minuman yang terdiri dari suntikan wiski, biasanya disajikan di samping segelas bir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329133.jpeg",
+      "simplified": "锅炉制造商",
+      "traditional": "鍋爐製造商",
+      "pinyin": "guōlú zhìzào shāng"
+    },
+    {
+      "id": 329141,
+      "translation": {
+        "en": {
+          "short": "draught beer",
+          "long": "a type of beer that is served from a keg or a cask and dispensed through a tap or a faucet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Draf bir",
+          "long": "Jenis bir yang disajikan dari tong atau tong dan dibagikan melalui keran atau faucet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329141.jpeg",
+      "simplified": "扎啤酒",
+      "traditional": "生啤酒",
+      "pinyin": "zhāpí jiǔ"
+    },
+    {
+      "id": 329150,
+      "translation": {
+        "en": {
+          "short": "gueuze",
+          "long": "a type of beer, specifically a Belgian lambic beer, that is typically sour, effervescent, and brewed using spontaneous fermentation with wild yeasts and bacteria",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gueuze",
+          "long": "Jenis bir, khususnya bir lambik Belgia, yang biasanya asam, effervescent, dan diseduh menggunakan fermentasi spontan dengan ragi liar dan bakteri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329150.jpeg",
+      "simplified": "盖兹",
+      "traditional": "蓋茲",
+      "pinyin": "Gàizī"
+    },
+    {
+      "id": 329156,
+      "translation": {
+        "en": {
+          "short": "heavy",
+          "long": "a beer with a high alcohol content, often above 7% ABV, and a rich, full-bodied flavor profile",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berat",
+          "long": "Bir dengan kandungan alkohol yang tinggi, seringkali di atas 7% ABV, dan profil rasa yang kaya dan bertubuh penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329156.jpeg",
+      "simplified": "重的",
+      "traditional": "重的",
+      "pinyin": "chóng de"
+    },
+    {
+      "id": 329159,
+      "translation": {
+        "en": {
+          "short": "keg",
+          "long": "a container, usually made of metal, that is used to store and dispense beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tong",
+          "long": "wadah, biasanya terbuat dari logam, yang digunakan untuk menyimpan dan mengeluarkan bir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329159.jpeg",
+      "simplified": "桶",
+      "traditional": "桶",
+      "pinyin": "tǒng"
+    },
+    {
+      "id": 329168,
+      "translation": {
+        "en": {
+          "short": "pilsner",
+          "long": "a type of light beer, flavored with hops",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pilsner",
+          "long": "Jenis bir ringan, dibumbui dengan hop",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/329168.jpeg",
+      "simplified": "比尔森啤酒",
+      "traditional": "比爾森啤酒",
+      "pinyin": "Bǐěr Sēn píjiǔ"
+    }
+  ]
+}

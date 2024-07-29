@@ -1,0 +1,792 @@
+{
+  "id": 1008,
+  "title": {
+    "en": "Religion",
+    "id": "Agama"
+  },
+  "description": {
+    "en": "Here you will learn some English words about religion, such as \"cleric\", \"pastor\", \"sufi\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang agama, seperti \"ulama\", \"pendeta\", \"sufi\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 243915,
+      "translation": {
+        "en": {
+          "short": "theology",
+          "long": "the study of religions and faiths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teologi",
+          "long": "Studi tentang Agama dan Iman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243915.jpeg",
+      "simplified": "神学",
+      "traditional": "神學",
+      "pinyin": "shénxué"
+    },
+    {
+      "id": 243979,
+      "translation": {
+        "en": {
+          "short": "spirituality",
+          "long": "the quality of being linked with theology or the human spirit as opposed to material or physical items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerohanian",
+          "long": "Kualitas yang dikaitkan dengan teologi atau roh manusia yang bertentangan dengan barang -barang materi atau fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243979.jpeg",
+      "simplified": "灵性",
+      "traditional": "靈性",
+      "pinyin": "língxìng"
+    },
+    {
+      "id": 243981,
+      "translation": {
+        "en": {
+          "short": "sect",
+          "long": "a religious group with beliefs or practices, especially extreme or unusual ones, that separate them from the rest of the people with the religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekte",
+          "long": "kelompok agama dengan keyakinan atau praktik, terutama yang ekstrem atau tidak biasa, yang memisahkan mereka dari orang -orang lain dengan agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243981.jpeg",
+      "simplified": "教派",
+      "traditional": "教派",
+      "pinyin": "jiàopài"
+    },
+    {
+      "id": 243917,
+      "translation": {
+        "en": {
+          "short": "cleric",
+          "long": "a religious leader, especially a Muslim or Christian one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ulama",
+          "long": "seorang pemimpin agama, terutama seorang Muslim atau Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243917.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 243916,
+      "translation": {
+        "en": {
+          "short": "clergy",
+          "long": "people who are officially chosen to lead religious services in a church or other religious institution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klerus",
+          "long": "Orang -orang yang secara resmi dipilih untuk memimpin layanan keagamaan di gereja atau lembaga keagamaan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243916.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 243928,
+      "translation": {
+        "en": {
+          "short": "guru",
+          "long": "a religious leader or teacher in Buddhism, Hinduism, or Sikhism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guru",
+          "long": "seorang pemimpin agama atau guru dalam agama Buddha, Hindu, atau Sikhisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243928.jpeg",
+      "simplified": "领袖",
+      "traditional": "領袖",
+      "pinyin": "lǐngxiù"
+    },
+    {
+      "id": 243934,
+      "translation": {
+        "en": {
+          "short": "oracle",
+          "long": "a priest or priestess serving as a mediator through whom the gods were thought to give their message in classical antiquity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peramal",
+          "long": "seorang pendeta atau pendeta yang melayani sebagai mediator yang melaluinya para dewa dianggap memberikan pesan mereka di zaman kuno klasik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243934.jpeg",
+      "simplified": "神谕",
+      "traditional": "神諭",
+      "pinyin": "shényù"
+    },
+    {
+      "id": 243937,
+      "translation": {
+        "en": {
+          "short": "rabbi",
+          "long": "a religious teacher, scholar, or leader of Judaism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rabi",
+          "long": "Seorang guru agama, sarjana, atau pemimpin Yudaisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243937.jpeg",
+      "simplified": "拉比",
+      "traditional": "拉比",
+      "pinyin": "lābǐ"
+    },
+    {
+      "id": 243978,
+      "translation": {
+        "en": {
+          "short": "synagogue",
+          "long": "a place of worship and religious study for Jews",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinagoga",
+          "long": "tempat ibadah dan studi agama untuk orang Yahudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243978.jpeg",
+      "simplified": "犹太教堂",
+      "traditional": "猶太教堂",
+      "pinyin": "Yóutài jiào táng"
+    },
+    {
+      "id": 243944,
+      "translation": {
+        "en": {
+          "short": "lama",
+          "long": "a Mongolian or Tibetan Buddhist monk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lama",
+          "long": "Monk Buddha Mongolia atau Tibet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243944.jpeg",
+      "simplified": "喇嘛",
+      "traditional": "喇嘛",
+      "pinyin": "lǎma"
+    },
+    {
+      "id": 243945,
+      "translation": {
+        "en": {
+          "short": "mahatma",
+          "long": "a revered person in South Asia regarded with love and respect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mahatma",
+          "long": "Orang yang dihormati di Asia Selatan dianggap dengan cinta dan hormat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243945.jpeg",
+      "simplified": "圣雄",
+      "traditional": "聖雄",
+      "pinyin": "shèngxióng"
+    },
+    {
+      "id": 243947,
+      "translation": {
+        "en": {
+          "short": "pastor",
+          "long": "a priest or minister who is in charge of a church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendeta",
+          "long": "seorang pendeta atau menteri yang bertanggung jawab atas sebuah gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243947.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 243950,
+      "translation": {
+        "en": {
+          "short": "heretic",
+          "long": "someone with beliefs against the doctrines of a particular religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bidat",
+          "long": "seseorang dengan keyakinan terhadap doktrin agama tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243950.jpeg",
+      "simplified": "异教徒",
+      "traditional": "異教徒",
+      "pinyin": "yìjiào tú"
+    },
+    {
+      "id": 243957,
+      "translation": {
+        "en": {
+          "short": "missionary",
+          "long": "someone who is sent to a foreign country to teach and talk about religion, particularly to persuade others to become a member of the Christian Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "misionaris",
+          "long": "seseorang yang dikirim ke negara asing untuk mengajar dan berbicara tentang agama, terutama untuk membujuk orang lain untuk menjadi anggota gereja Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243957.jpeg",
+      "simplified": "传教士",
+      "traditional": "傳教士",
+      "pinyin": "chuánjiào shì"
+    },
+    {
+      "id": 243958,
+      "translation": {
+        "en": {
+          "short": "pagan",
+          "long": "a person believing in a religion that worships many deities, especially one that existed before the major world religions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyembah berhala",
+          "long": "Seseorang yang percaya pada agama yang memuja banyak dewa, terutama yang ada di hadapan agama -agama utama dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243958.jpeg",
+      "simplified": "异教徒",
+      "traditional": "異教徒",
+      "pinyin": "yìjiào tú"
+    },
+    {
+      "id": 243959,
+      "translation": {
+        "en": {
+          "short": "reverend",
+          "long": "a title or a way of addressing clergymen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendeta",
+          "long": "judul atau cara menangani pendeta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243959.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 243960,
+      "translation": {
+        "en": {
+          "short": "sufi",
+          "long": "a member of an Islamic sect that tries to become united with God through prayer, meditation, and living a simple and strict life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sufi",
+          "long": "anggota sekte Islam yang mencoba menjadi bersatu dengan Tuhan melalui doa, meditasi, dan menjalani kehidupan yang sederhana dan ketat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243960.jpeg",
+      "simplified": "苏菲派",
+      "traditional": "蘇菲派",
+      "pinyin": "Sūfēi pā"
+    },
+    {
+      "id": 243961,
+      "translation": {
+        "en": {
+          "short": "preacher",
+          "long": "someone who delivers spiritual speeches, often an associate of the clergy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengkhotbah",
+          "long": "seseorang yang menyampaikan pidato spiritual, sering kali menjadi rekan klerus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243961.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 243980,
+      "translation": {
+        "en": {
+          "short": "sermon",
+          "long": "a moral or religious speech, usually given during a church service",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "khotbah",
+          "long": "pidato moral atau agama, biasanya diberikan selama kebaktian gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243980.jpeg",
+      "simplified": "讲道",
+      "traditional": "講道",
+      "pinyin": "jiǎngdào"
+    },
+    {
+      "id": 244394,
+      "translation": {
+        "en": {
+          "short": "homily",
+          "long": "a speech or a piece of writing that is meant to advise people on the correct way of behaving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotbah",
+          "long": "pidato atau tulisan yang dimaksudkan untuk memberi nasihat kepada orang -orang tentang cara berperilaku yang benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244394.jpeg",
+      "simplified": "讲道",
+      "traditional": "講道",
+      "pinyin": "jiǎngdào"
+    },
+    {
+      "id": 243962,
+      "translation": {
+        "en": {
+          "short": "shaman",
+          "long": "a person in some religions and cultures believed to be capable of contacting good and evil spirits and curing people of illnesses, especially in some cultures in northern Asia and North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dukun",
+          "long": "Seseorang dalam beberapa agama dan budaya yang diyakini mampu menghubungi roh yang baik dan jahat dan menyembuhkan orang -orang penyakit, terutama di beberapa budaya di Asia Utara dan Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243962.jpeg",
+      "simplified": "巫",
+      "traditional": "巫",
+      "pinyin": "Wū"
+    },
+    {
+      "id": 243963,
+      "translation": {
+        "en": {
+          "short": "sikh",
+          "long": "a follower of Sikhism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sikh",
+          "long": "Seorang pengikut Sikhisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243963.jpeg",
+      "simplified": "锡克教徒",
+      "traditional": "錫克教徒",
+      "pinyin": "Xīkè jiào Tú"
+    },
+    {
+      "id": 243964,
+      "translation": {
+        "en": {
+          "short": "puritan",
+          "long": "a person belonging to an English religious group of the 16th and 17th centuries who wanted church rituals made simpler and who believed it was important to work hard and control oneself, while pleasure was unnecessary or even wrong",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Puritan",
+          "long": "Seseorang yang termasuk dalam kelompok agama Inggris dari abad ke -16 dan ke -17 yang menginginkan ritual gereja menjadi lebih sederhana dan yang percaya bahwa penting untuk bekerja keras dan mengendalikan diri, sementara kesenangan tidak perlu atau bahkan salah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243964.jpeg",
+      "simplified": "清教徒",
+      "traditional": "清教徒",
+      "pinyin": "qīngjiào tú"
+    },
+    {
+      "id": 243965,
+      "translation": {
+        "en": {
+          "short": "pilgrim",
+          "long": "a religious person who travels to a sacred place for a holy cause",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peziarah",
+          "long": "orang yang religius yang bepergian ke tempat suci untuk tujuan suci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243965.jpeg",
+      "simplified": "香客",
+      "traditional": "香客",
+      "pinyin": "xiāngkè"
+    },
+    {
+      "id": 243966,
+      "translation": {
+        "en": {
+          "short": "messiah",
+          "long": "(in Judaism) divinely sent king who will save the Jewish people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mesias",
+          "long": "(dalam Yudaisme) secara ilahi mengirim raja yang akan menyelamatkan orang -orang Yahudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243966.jpeg",
+      "simplified": "弥赛亚",
+      "traditional": "彌賽亞",
+      "pinyin": "Mísài yà"
+    },
+    {
+      "id": 243967,
+      "translation": {
+        "en": {
+          "short": "hermit",
+          "long": "a person who lives a very simple life in solitude as a religious practice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertapa",
+          "long": "Seseorang yang menjalani kehidupan yang sangat sederhana dalam kesendirian sebagai praktik keagamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243967.jpeg",
+      "simplified": "苦行者",
+      "traditional": "苦行者",
+      "pinyin": "kǔxíng zhě"
+    },
+    {
+      "id": 243968,
+      "translation": {
+        "en": {
+          "short": "martyr",
+          "long": "someone who is killed because of their beliefs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "martir",
+          "long": "seseorang yang terbunuh karena keyakinan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243968.jpeg",
+      "simplified": "烈士",
+      "traditional": "烈士",
+      "pinyin": "lièshì"
+    },
+    {
+      "id": 243969,
+      "translation": {
+        "en": {
+          "short": "Gospel",
+          "long": "any of the four books of the New Testament that is about the life and teachings of Jesus Christ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Injil",
+          "long": "Salah satu dari empat buku Perjanjian Baru yaitu tentang kehidupan dan ajaran Yesus Kristus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243969.jpeg",
+      "simplified": "福音",
+      "traditional": "福音",
+      "pinyin": "fúyīn"
+    },
+    {
+      "id": 243971,
+      "translation": {
+        "en": {
+          "short": "apostle",
+          "long": "any one of the twelve disciples of Jesus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasul",
+          "long": "salah satu dari dua belas murid Yesus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243971.jpeg",
+      "simplified": "耶稣基督的门徒",
+      "traditional": "耶穌基督的門徒",
+      "pinyin": "Yēsū Jī dū de méntú"
+    },
+    {
+      "id": 243970,
+      "translation": {
+        "en": {
+          "short": "epistle",
+          "long": "any of the letters in the New Testament, written by the apostles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surat",
+          "long": "salah satu surat dalam Perjanjian Baru, yang ditulis oleh para rasul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243970.jpeg",
+      "simplified": "书信",
+      "traditional": "書信",
+      "pinyin": "shūxìn"
+    },
+    {
+      "id": 243972,
+      "translation": {
+        "en": {
+          "short": "agnostic",
+          "long": "someone who believes it is impossible to know whether God exists or not",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agnostis",
+          "long": "seseorang yang percaya tidak mungkin mengetahui apakah Tuhan ada atau tidak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243972.jpeg",
+      "simplified": "不可知论者",
+      "traditional": "不可知論者",
+      "pinyin": "bùkě zhī lùn zhě"
+    },
+    {
+      "id": 243973,
+      "translation": {
+        "en": {
+          "short": "atheist",
+          "long": "someone who does not believe in the existence of God or gods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ateis",
+          "long": "seseorang yang tidak percaya pada keberadaan Tuhan atau dewa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243973.jpeg",
+      "simplified": "无神论者",
+      "traditional": "無神論者",
+      "pinyin": "wúshén lùn zhě"
+    },
+    {
+      "id": 243974,
+      "translation": {
+        "en": {
+          "short": "Zen",
+          "long": "a school of Mahayana Buddhism, originally formed in Japan, emphasizing the value of meditation and intuition rather than reading religious scripts or ritual worship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zen",
+          "long": "Sekolah Buddhisme Mahayana, awalnya dibentuk di Jepang, menekankan nilai meditasi dan intuisi daripada membaca naskah agama atau ibadah ritual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243974.jpeg",
+      "simplified": "禅",
+      "traditional": "禪",
+      "pinyin": "chán"
+    },
+    {
+      "id": 243975,
+      "translation": {
+        "en": {
+          "short": "voodoo",
+          "long": "a religious cult involving witchcraft and the worship of spirits, especially common in parts of the Caribbean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Voodoo",
+          "long": "Kultus religius yang melibatkan sihir dan penyembahan roh, terutama umum di beberapa bagian Karibia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243975.jpeg",
+      "simplified": "巫毒教",
+      "traditional": "巫毒教",
+      "pinyin": "Wūdú jiào"
+    },
+    {
+      "id": 243977,
+      "translation": {
+        "en": {
+          "short": "the Trinity",
+          "long": "(in Christianity) the concept of God as Father, Son, and Holy Spirit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Trinitas",
+          "long": "(dalam agama Kristen) Konsep Allah sebagai Bapa, Anak, dan Roh Kudus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243977.jpeg",
+      "simplified": "三位一体",
+      "traditional": "三位一體",
+      "pinyin": "Sānwèi Yī tǐ"
+    },
+    {
+      "id": 243982,
+      "translation": {
+        "en": {
+          "short": "salvation",
+          "long": "the state in which a person or their spirit is delivered from their sins and saved by Christ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyelamatan",
+          "long": "keadaan di mana seseorang atau roh mereka dibebaskan dari dosa -dosa mereka dan diselamatkan oleh Kristus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243982.jpeg",
+      "simplified": "救恩",
+      "traditional": "救恩",
+      "pinyin": "jiùēn"
+    },
+    {
+      "id": 243983,
+      "translation": {
+        "en": {
+          "short": "resurrection",
+          "long": "the return to life of Christ on the third day after his death on the cross, according to the New Testament",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebangkitan",
+          "long": "Kembalinya Kehidupan Kristus pada hari ketiga setelah kematiannya di kayu salib, menurut Perjanjian Baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243983.jpeg",
+      "simplified": "复活",
+      "traditional": "復活",
+      "pinyin": "fùhuó"
+    },
+    {
+      "id": 243984,
+      "translation": {
+        "en": {
+          "short": "sacrilege",
+          "long": "the act of disrespectfully treating a sacred item or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penistaan",
+          "long": "Tindakan memperlakukan barang atau tempat suci secara tidak sopan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243984.jpeg",
+      "simplified": "冒渎",
+      "traditional": "冒瀆",
+      "pinyin": "màodú"
+    },
+    {
+      "id": 243985,
+      "translation": {
+        "en": {
+          "short": "requiem",
+          "long": "a mass at which people honor and pray for the soul of a dead person, especially in the Roman Catholic Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "requiem",
+          "long": "Misa di mana orang menghormati dan berdoa untuk jiwa orang yang sudah mati, terutama di Gereja Katolik Roma",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243985.jpeg",
+      "simplified": "安魂曲",
+      "traditional": "安魂曲",
+      "pinyin": "An1 hún Qū"
+    },
+    {
+      "id": 243986,
+      "translation": {
+        "en": {
+          "short": "reincarnation",
+          "long": "the belief that after someone’s death, their spirit comes back to life in the form of a new body, especially in Buddhism and Hinduism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reinkarnasi",
+          "long": "Keyakinan bahwa setelah kematian seseorang, roh mereka kembali hidup dalam bentuk tubuh baru, terutama dalam agama Buddha dan Hinduisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243986.jpeg",
+      "simplified": "投胎",
+      "traditional": "投胎",
+      "pinyin": "tóutāi"
+    },
+    {
+      "id": 243987,
+      "translation": {
+        "en": {
+          "short": "prophecy",
+          "long": "a statement about events that have not yet occurred but are believed to be inevitable or possible, especially one made by a divine person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nubuat",
+          "long": "Pernyataan tentang peristiwa yang belum terjadi tetapi diyakini tak terhindarkan atau mungkin, terutama yang dibuat oleh orang ilahi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243987.jpeg",
+      "simplified": "预言",
+      "traditional": "預言",
+      "pinyin": "yùyán"
+    }
+  ]
+}

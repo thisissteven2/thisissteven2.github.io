@@ -1,0 +1,754 @@
+{
+  "id": 1693,
+  "title": {
+    "en": "Cheese",
+    "id": "Keju"
+  },
+  "description": {
+    "en": "Here you will learn the names of different types of cheese in English such as \"mozzarella\", \"cottage cheese\", and \"ricotta\".",
+    "id": "Di sini Anda akan mempelajari nama -nama berbagai jenis keju dalam bahasa Inggris seperti \"mozzarella\", \"keju cottage\", dan \"ricotta\"."
+  },
+  "cards": [
+    {
+      "id": 275940,
+      "translation": {
+        "en": {
+          "short": "American cheese",
+          "long": "a mild processed cheese based on cheddar with a soft texture, usually sliced and wrapped in plastic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju Amerika",
+          "long": "Keju olahan ringan berdasarkan cheddar dengan tekstur lembut, biasanya diiris dan dibungkus plastik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275940.jpeg",
+      "simplified": "美国奶酪",
+      "traditional": "美國奶酪",
+      "pinyin": "Měiguó nǎilào"
+    },
+    {
+      "id": 275941,
+      "translation": {
+        "en": {
+          "short": "blue cheese",
+          "long": "any type of cheese containing blue lines or mold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju biru",
+          "long": "Jenis keju apa pun yang mengandung garis atau cetakan biru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275941.jpeg",
+      "simplified": "蓝乳酪",
+      "traditional": "藍乳酪",
+      "pinyin": "Lán rǔlào"
+    },
+    {
+      "id": 275944,
+      "translation": {
+        "en": {
+          "short": "camembert",
+          "long": "a rich creamy cheese with a soft texture and a white rind that has a strong taste and is originally made in Normandy, France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju Camembert",
+          "long": "Keju krim yang kaya dengan tekstur lembut dan kulit putih yang memiliki rasa yang kuat dan awalnya dibuat di Normandia, Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275944.jpeg",
+      "simplified": "卡蒙伯尔（软制乳酪）",
+      "traditional": "卡蒙伯爾（軟制乳酪）",
+      "pinyin": "kǎ méng bà ěr ruǎn zhì rǔlào"
+    },
+    {
+      "id": 275945,
+      "translation": {
+        "en": {
+          "short": "Cheddar",
+          "long": "a type of hard yellow cheese from Cheddar, England",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cheddar",
+          "long": "Jenis keju kuning keras dari cheddar, Inggris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275945.jpeg",
+      "simplified": "切达奶酪",
+      "traditional": "切達奶酪",
+      "pinyin": "Qièdá nǎilào"
+    },
+    {
+      "id": 275946,
+      "translation": {
+        "en": {
+          "short": "cheese rind",
+          "long": "the outer, edible layer that develops during the aging process of certain cheeses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kulit keju",
+          "long": "Lapisan luar yang dapat dimakan yang berkembang selama proses penuaan keju tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275946.jpeg",
+      "simplified": "奶酪皮",
+      "traditional": "奶酪皮",
+      "pinyin": "nǎilào Pí"
+    },
+    {
+      "id": 275949,
+      "translation": {
+        "en": {
+          "short": "Cheshire cheese",
+          "long": "a crumbly and tangy cheese originating from the English county of Cheshire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keju Cheshire",
+          "long": "Keju yang hancur dan tajam yang berasal dari Kabupaten Inggris Cheshire",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275949.jpeg",
+      "simplified": "柴郡奶酪",
+      "traditional": "柴郡奶酪",
+      "pinyin": "Chái jùn nǎilào"
+    },
+    {
+      "id": 275950,
+      "translation": {
+        "en": {
+          "short": "cottage cheese",
+          "long": "a mild white cheese made with curds of milk which its cream has been taken",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pondok keju",
+          "long": "Keju putih ringan yang dibuat dengan dadih susu yang telah diambil krimnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275950.jpeg",
+      "simplified": "干酪",
+      "traditional": "乾酪",
+      "pinyin": "gānlào"
+    },
+    {
+      "id": 275951,
+      "translation": {
+        "en": {
+          "short": "cream cheese",
+          "long": "a type of smooth soft cheese that is made from whole milk and cream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "krim keju",
+          "long": "Jenis keju lembut halus yang terbuat dari susu dan krim utuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275951.jpeg",
+      "simplified": "奶油乳酪",
+      "traditional": "奶油乳酪",
+      "pinyin": "nǎiyóu rǔlào"
+    },
+    {
+      "id": 275952,
+      "translation": {
+        "en": {
+          "short": "curd cheese",
+          "long": "a type of cottage cheese that is low in fat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju dadih",
+          "long": "Jenis keju cottage yang rendah lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275952.jpeg",
+      "simplified": "凝乳",
+      "traditional": "凝乳",
+      "pinyin": "níng rǔ"
+    },
+    {
+      "id": 275953,
+      "translation": {
+        "en": {
+          "short": "Edam",
+          "long": "a mild semi-firm cheese that is round and wrapped in red wax, originally made in the Netherlands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Edam",
+          "long": "Keju semi-perusahaan ringan yang bundar dan dibungkus dengan lilin merah, awalnya dibuat di Belanda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275953.jpeg",
+      "simplified": "伊顿干酪",
+      "traditional": "伊頓乾酪",
+      "pinyin": "Yī dùn gānlào"
+    },
+    {
+      "id": 275955,
+      "translation": {
+        "en": {
+          "short": "farmer's cheese",
+          "long": "a fresh cheese made from cow's milk that has a mild, slightly tangy flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju petani",
+          "long": "Keju segar yang terbuat dari susu sapi yang memiliki rasa ringan, sedikit tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275955.jpeg",
+      "simplified": "农夫的奶酪",
+      "traditional": "農夫的奶酪",
+      "pinyin": "nóngfū de nǎilào"
+    },
+    {
+      "id": 275956,
+      "translation": {
+        "en": {
+          "short": "feta cheese",
+          "long": "a Greek cheese taken from a mixture of goat's and sheep's milk that is white and has holes in it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju feta",
+          "long": "Keju Yunani yang diambil dari campuran susu kambing dan domba yang berwarna putih dan memiliki lubang di dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275956.jpeg",
+      "simplified": "羊奶酪",
+      "traditional": "羊奶酪",
+      "pinyin": "yángnǎi lào"
+    },
+    {
+      "id": 275957,
+      "translation": {
+        "en": {
+          "short": "fromage frais",
+          "long": "a fresh and creamy cheese that is white in color originally made in northern France or southern Belgium",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fromage Frais",
+          "long": "Keju segar dan krem ​​yang berwarna putih awalnya dibuat di Prancis utara atau Belgia selatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275957.jpeg",
+      "simplified": "鲜奶酪",
+      "traditional": "鮮奶酪",
+      "pinyin": "xiānnǎi lào"
+    },
+    {
+      "id": 275958,
+      "translation": {
+        "en": {
+          "short": "goat cheese",
+          "long": "any cheese that is made from goat's milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju kambing",
+          "long": "keju apa pun yang terbuat dari susu kambing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275958.jpeg",
+      "simplified": "山羊奶酪",
+      "traditional": "山羊奶酪",
+      "pinyin": "shānyáng nǎilào"
+    },
+    {
+      "id": 275959,
+      "translation": {
+        "en": {
+          "short": "gorgonzola",
+          "long": "an Italian blue cheese with a pungent taste and smell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gorgonzola",
+          "long": "keju biru Italia dengan rasa dan bau yang menyengat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275959.jpeg",
+      "simplified": "Gorgonzola",
+      "traditional": "Gorgonzola",
+      "pinyin": ""
+    },
+    {
+      "id": 275960,
+      "translation": {
+        "en": {
+          "short": "Gouda",
+          "long": "a yellow, round cheese from the Netherlands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gouda",
+          "long": "Keju bulat kuning dari Belanda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275960.jpeg",
+      "simplified": "古达",
+      "traditional": "古達",
+      "pinyin": "Gǔ Dá"
+    },
+    {
+      "id": 275968,
+      "translation": {
+        "en": {
+          "short": "process cheese",
+          "long": "a cheese product made by blending natural cheese with emulsifying salts and other ingredients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "proses keju",
+          "long": "Produk keju yang dibuat dengan memadukan keju alami dengan garam pengemulsi dan bahan -bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275968.jpeg",
+      "simplified": "加工奶酪",
+      "traditional": "加工奶酪",
+      "pinyin": "jiāgōng nǎilào"
+    },
+    {
+      "id": 275970,
+      "translation": {
+        "en": {
+          "short": "ricotta",
+          "long": "a white whey cheese that is soft and unsalted, made in Italy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ricotta",
+          "long": "Keju whey putih yang lembut dan tawar, dibuat di Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275970.jpeg",
+      "simplified": "凝乳",
+      "traditional": "凝乳",
+      "pinyin": "níng rǔ"
+    },
+    {
+      "id": 275971,
+      "translation": {
+        "en": {
+          "short": "stilton",
+          "long": "a type of English cheese with a strong flavor that is made in Leicestershire, usually with blue mold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stilton",
+          "long": "Jenis keju Inggris dengan rasa kuat yang dibuat di Leicestershire, biasanya dengan cetakan biru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275971.jpeg",
+      "simplified": "斯蒂尔顿",
+      "traditional": "斯蒂爾頓",
+      "pinyin": "Sī dì ěr dùn"
+    },
+    {
+      "id": 275972,
+      "translation": {
+        "en": {
+          "short": "string cheese",
+          "long": "cheese, usually mozzarella that is formed in tube shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju tali",
+          "long": "keju, biasanya mozzarella yang terbentuk dalam bentuk tabung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275972.jpeg",
+      "simplified": "芝士条",
+      "traditional": "芝士條",
+      "pinyin": "zhīshì tiáo"
+    },
+    {
+      "id": 275973,
+      "translation": {
+        "en": {
+          "short": "Swiss cheese",
+          "long": "a type of hard cheese with many holes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju Swiss",
+          "long": "sejenis keju keras dengan banyak lubang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275973.jpeg",
+      "simplified": "瑞士芝士",
+      "traditional": "瑞士芝士",
+      "pinyin": "Ruìshì zhīshì"
+    },
+    {
+      "id": 275974,
+      "translation": {
+        "en": {
+          "short": "Danish blue",
+          "long": "a soft salty cheese with blue mold and a strong flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Biru Denmark",
+          "long": "Keju asin lembut dengan cetakan biru dan rasa yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275974.jpeg",
+      "simplified": "丹麦蓝",
+      "traditional": "丹麥藍",
+      "pinyin": "Dānmài Lán"
+    },
+    {
+      "id": 275975,
+      "translation": {
+        "en": {
+          "short": "Emmental",
+          "long": "a yellow semi-hard cheese from Switzerland that has a lot of holes, similar to Gruyère",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Emmental",
+          "long": "Keju semi-keras kuning dari Swiss yang memiliki banyak lubang, mirip dengan Gruyère",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275975.jpeg",
+      "simplified": "爱蒙塔尔",
+      "traditional": "愛蒙塔爾",
+      "pinyin": "ài méng tǎ ěr"
+    },
+    {
+      "id": 275976,
+      "translation": {
+        "en": {
+          "short": "brie",
+          "long": "a soft creamy cheese with a strong taste and a firm white skin made from cow's milk, originally made in France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brie",
+          "long": "Keju krim lembut dengan rasa yang kuat dan kulit putih yang kokoh yang terbuat dari susu sapi, awalnya dibuat di Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275976.jpeg",
+      "simplified": "布里干酪",
+      "traditional": "布里乾酪",
+      "pinyin": "bù lǐ gānlào"
+    },
+    {
+      "id": 275977,
+      "translation": {
+        "en": {
+          "short": "crowdie",
+          "long": "a type of soft cheese made from sour milk that is partially cooked, from a Scottish origin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crowdie",
+          "long": "Jenis keju lunak yang terbuat dari susu asam yang dimasak sebagian, dari asal Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275977.jpeg",
+      "simplified": "人群",
+      "traditional": "人群",
+      "pinyin": "rénqún"
+    },
+    {
+      "id": 275978,
+      "translation": {
+        "en": {
+          "short": "halloumi",
+          "long": "a white cheese made in Greece that is semi-hard and is used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Halloumi",
+          "long": "Keju putih yang dibuat di Yunani yang semi-keras dan digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275978.jpeg",
+      "simplified": "哈洛米奶酪",
+      "traditional": "哈洛米奶酪",
+      "pinyin": "Hā Luò Mǐ nǎilào"
+    },
+    {
+      "id": 275979,
+      "translation": {
+        "en": {
+          "short": "mascarpone",
+          "long": "a soft and creamy cheese that is made in Italy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabar",
+          "long": "Keju lembut dan krim yang dibuat di Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275979.jpeg",
+      "simplified": "马斯卡彭",
+      "traditional": "馬斯卡彭",
+      "pinyin": "Mǎ Sī kǎ Péng"
+    },
+    {
+      "id": 275980,
+      "translation": {
+        "en": {
+          "short": "muenster",
+          "long": "a yellow and mild cheese made from whole milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Muenster",
+          "long": "Keju kuning dan ringan terbuat dari susu murni",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275980.jpeg",
+      "simplified": "明斯特干酪",
+      "traditional": "明斯特干酪",
+      "pinyin": "Míng Sī tè gānlào"
+    },
+    {
+      "id": 275982,
+      "translation": {
+        "en": {
+          "short": "paneer",
+          "long": "a white uncured cheese that is used in Indian, Iranian or afghan cuisines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paneer",
+          "long": "Keju putih tidak diarahkan yang digunakan dalam masakan India, Iran atau Afghanistan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275982.jpeg",
+      "simplified": "芝士",
+      "traditional": "芝士",
+      "pinyin": "zhīshì"
+    },
+    {
+      "id": 275983,
+      "translation": {
+        "en": {
+          "short": "quark",
+          "long": "a type of curd cheese made in central Europe that is low in fat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "quark",
+          "long": "Jenis keju dadih yang dibuat di Eropa tengah yang rendah lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275983.jpeg",
+      "simplified": "夸克",
+      "traditional": "夸克",
+      "pinyin": "kuākè"
+    },
+    {
+      "id": 275985,
+      "translation": {
+        "en": {
+          "short": "Roquefort",
+          "long": "a French blue cheese made from sheep's milk and ripened in limestone caves that has a strong taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Roquefort",
+          "long": "Keju biru Prancis yang terbuat dari susu domba dan matang di gua batu kapur yang memiliki rasa yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275985.jpeg",
+      "simplified": "羊乳干酪",
+      "traditional": "羊乳乾酪",
+      "pinyin": "Yáng rǔ gānlào"
+    },
+    {
+      "id": 275961,
+      "translation": {
+        "en": {
+          "short": "grated cheese",
+          "long": "cheese that has been shredded or grated into small pieces using a grater or other similar tool",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keju parut",
+          "long": "keju yang telah dirobek atau diparut menjadi potongan -potongan kecil menggunakan parutan atau alat serupa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275961.jpeg",
+      "simplified": "磨碎的奶酪",
+      "traditional": "磨碎的奶酪",
+      "pinyin": "mòsuì de nǎilào"
+    },
+    {
+      "id": 275962,
+      "translation": {
+        "en": {
+          "short": "gruyere",
+          "long": "a firm Swiss cheese with holes in it that has a strong taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gruyère",
+          "long": "Keju Swiss yang kuat dengan lubang di dalamnya yang memiliki selera yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275962.jpeg",
+      "simplified": "格吕耶尔干酪（瑞士浓味干酪",
+      "traditional": "格呂耶爾乾酪（瑞士濃味乾酪",
+      "pinyin": "gé Lǚ yē ěr gānlào Ruìshì nóng wèi gānlào"
+    },
+    {
+      "id": 275963,
+      "translation": {
+        "en": {
+          "short": "Jack cheese",
+          "long": "a white American cheese with a mild taste, made from whole milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keju jack",
+          "long": "Keju Amerika Putih dengan rasa ringan, terbuat dari susu utuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275963.jpeg",
+      "simplified": "杰克奶酪",
+      "traditional": "傑克奶酪",
+      "pinyin": "Jiékè nǎilào"
+    },
+    {
+      "id": 275964,
+      "translation": {
+        "en": {
+          "short": "limburger",
+          "long": "a pungent and creamy cheese made from cow's milk, known for its strong aroma",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Limburger",
+          "long": "Keju yang pedas dan krim yang terbuat dari susu sapi, dikenal dengan aromanya yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275964.jpeg",
+      "simplified": "Limburger",
+      "traditional": "Limburger",
+      "pinyin": ""
+    },
+    {
+      "id": 275965,
+      "translation": {
+        "en": {
+          "short": "mozzarella",
+          "long": "a mild semi-soft cheese that is white in color and is unsalted, used in Italian cuisine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju mozzarella",
+          "long": "Keju semi-soft ringan yang berwarna putih dan tawar, digunakan dalam masakan Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275965.jpeg",
+      "simplified": "无盐干酪",
+      "traditional": "無鹽乾酪",
+      "pinyin": "wú yán gānlào"
+    },
+    {
+      "id": 275966,
+      "translation": {
+        "en": {
+          "short": "parmesan",
+          "long": "a whitish cheese with a hard texture that is grated and used in Italian cuisine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Parmesan",
+          "long": "Keju keputihan dengan tekstur keras yang diparut dan digunakan dalam masakan Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275966.jpeg",
+      "simplified": "帕尔马干酪",
+      "traditional": "帕爾馬干酪",
+      "pinyin": "pà ěr Mǎ gānlào"
+    },
+    {
+      "id": 275967,
+      "translation": {
+        "en": {
+          "short": "pot cheese",
+          "long": "a soft white type of curd cheese",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju pot",
+          "long": "jenis keju dadih putih lembut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275967.jpeg",
+      "simplified": "罐装奶酪",
+      "traditional": "罐裝奶酪",
+      "pinyin": "guànzhuāng nǎilào"
+    },
+    {
+      "id": 275943,
+      "translation": {
+        "en": {
+          "short": "brick cheese",
+          "long": "a mild, semi-soft cheese with a creamy texture, originally made in the United States",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keju bata",
+          "long": "Keju ringan dan semi-lembut dengan tekstur krim, awalnya dibuat di Amerika Serikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275943.jpeg",
+      "simplified": "砖奶酪",
+      "traditional": "磚奶酪",
+      "pinyin": "zhuān nǎilào"
+    }
+  ]
+}

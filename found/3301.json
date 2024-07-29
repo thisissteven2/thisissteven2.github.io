@@ -1,0 +1,811 @@
+{
+  "id": 3301,
+  "title": {
+    "en": "Dieting",
+    "id": "Diet"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to dieting such as \"calorie\", \"vegan\", and \"dietician\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan diet seperti \"kalori\", \"vegan\", dan \"ahli gizi\"."
+  },
+  "cards": [
+    {
+      "id": 323784,
+      "translation": {
+        "en": {
+          "short": "to diet",
+          "long": "to eat small amounts or particular kinds of food, especially to lose weight",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk diet",
+          "long": "makan dalam jumlah kecil atau jenis makanan tertentu, terutama untuk menurunkan berat badan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323784.jpeg",
+      "simplified": "饮食",
+      "traditional": "飲食",
+      "pinyin": "yǐnshí"
+    },
+    {
+      "id": 323785,
+      "translation": {
+        "en": {
+          "short": "diabetic diet",
+          "long": "a specific eating plan tailored to manage blood glucose levels in individuals with diabetes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet Diabetes",
+          "long": "Rencana makan khusus yang disesuaikan untuk mengelola kadar glukosa darah pada individu dengan diabetes",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323785.jpeg",
+      "simplified": "糖尿病饮食",
+      "traditional": "糖尿病飲食",
+      "pinyin": "tángniào bìng yǐnshí"
+    },
+    {
+      "id": 323786,
+      "translation": {
+        "en": {
+          "short": "spoon food",
+          "long": "a diet that primarily consists of soft or liquid food, often consumed with a spoon, suitable for individuals with difficulty chewing or swallowing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bubur",
+          "long": "Diet yang terutama terdiri dari makanan lunak atau cair, sering kali dikonsumsi dengan sendok, cocok untuk orang dengan kesulitan mengunyah atau menelan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323786.jpeg",
+      "simplified": "勺子食物",
+      "traditional": "勺子食物",
+      "pinyin": "sháozi shíwù"
+    },
+    {
+      "id": 323787,
+      "translation": {
+        "en": {
+          "short": "soft diet",
+          "long": "a diet consisting of easily chewed and digested food, often recommended for individuals with dental issues, post-surgery, or difficulty swallowing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet lunak",
+          "long": "Diet yang terdiri dari makanan yang mudah dikunyah dan dicerna, sering direkomendasikan untuk individu dengan masalah gigi, pasca operasi, atau kesulitan menelan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323787.jpeg",
+      "simplified": "软食",
+      "traditional": "軟食",
+      "pinyin": "ruǎn shí"
+    },
+    {
+      "id": 323788,
+      "translation": {
+        "en": {
+          "short": "staple diet",
+          "long": "the basic and commonly consumed foods that make up the majority of a person or animal's diet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet pokok",
+          "long": "Makanan dasar dan umum dikonsumsi yang membentuk sebagian besar diet seseorang atau hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323788.jpeg",
+      "simplified": "主食",
+      "traditional": "主食",
+      "pinyin": "zhǔshí"
+    },
+    {
+      "id": 323789,
+      "translation": {
+        "en": {
+          "short": "macrobiotic diet",
+          "long": "a diet emphasizing whole grains, fruits, and vegetables while avoiding processed and refined foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet makrobiotik",
+          "long": "Diet yang menekankan biji -bijian, buah -buahan, dan sayuran sambil menghindari makanan olahan dan olahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323789.jpeg",
+      "simplified": "长寿饮食",
+      "traditional": "長壽飲食",
+      "pinyin": "Chángshòu yǐnshí"
+    },
+    {
+      "id": 323790,
+      "translation": {
+        "en": {
+          "short": "clean eating",
+          "long": "a type of diet in which one avoids eating processed food to become healthier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makan bersih",
+          "long": "Jenis diet di mana seseorang menghindari makan makanan olahan untuk menjadi lebih sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323790.jpeg",
+      "simplified": "吃健康的食物",
+      "traditional": "吃健康的食物",
+      "pinyin": "chī jiànkāng de shíwù"
+    },
+    {
+      "id": 323791,
+      "translation": {
+        "en": {
+          "short": "calorie",
+          "long": "the unit used to measure the amount of energy that a food produces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalori",
+          "long": "Unit yang digunakan untuk mengukur jumlah energi yang dihasilkan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323791.jpeg",
+      "simplified": "卡路里",
+      "traditional": "卡路里",
+      "pinyin": "kǎlù lǐ"
+    },
+    {
+      "id": 323792,
+      "translation": {
+        "en": {
+          "short": "balanced diet",
+          "long": "a diet that includes a variety of foods in appropriate proportions to meet nutritional needs and promote overall health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diet seimbang",
+          "long": "Diet yang mencakup berbagai makanan dalam proporsi yang tepat untuk memenuhi kebutuhan gizi dan mempromosikan kesehatan secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323792.jpeg",
+      "simplified": "均衡饮食",
+      "traditional": "均衡飲食",
+      "pinyin": "jūnhéng yǐnshí"
+    },
+    {
+      "id": 323793,
+      "translation": {
+        "en": {
+          "short": "appetite",
+          "long": "the feeling of wanting food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nafsu makan",
+          "long": "perasaan menginginkan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323793.jpeg",
+      "simplified": "食欲",
+      "traditional": "食慾",
+      "pinyin": "shíyù"
+    },
+    {
+      "id": 323794,
+      "translation": {
+        "en": {
+          "short": "nutrient",
+          "long": "a substance such as a vitamin, protein, fat, etc. that is essential for good health and growth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gizi",
+          "long": "zat seperti vitamin, protein, lemak, dll. Yang penting untuk kesehatan dan pertumbuhan yang baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323794.jpeg",
+      "simplified": "养分",
+      "traditional": "養分",
+      "pinyin": "yǎngfèn"
+    },
+    {
+      "id": 323795,
+      "translation": {
+        "en": {
+          "short": "body mass index",
+          "long": "a numerical measure of an individual's body fat based on their weight and height, often used to assess and categorize body weight in relation to health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Indeks massa tubuh",
+          "long": "Ukuran numerik lemak tubuh seseorang berdasarkan berat dan tinggi badannya, sering digunakan untuk menilai dan mengkategorikan berat badan dalam kaitannya dengan kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323795.jpeg",
+      "simplified": "体重指数",
+      "traditional": "體重指數",
+      "pinyin": "tǐzhòng zhǐshù"
+    },
+    {
+      "id": 323797,
+      "translation": {
+        "en": {
+          "short": "vegetarian",
+          "long": "someone who avoids eating meat or fish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vegetarian",
+          "long": "seseorang yang menghindari makan daging atau ikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323797.jpeg",
+      "simplified": "素食者",
+      "traditional": "素食者",
+      "pinyin": "sùshí zhě"
+    },
+    {
+      "id": 323826,
+      "translation": {
+        "en": {
+          "short": "lacto-vegetarian",
+          "long": "someone who does not eat fish, eggs, or meat, but consumes dairy products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lacto-Vegetarian",
+          "long": "Seseorang yang tidak makan ikan, telur, atau daging, tetapi mengkonsumsi produk susu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323826.jpeg",
+      "simplified": "乳素食",
+      "traditional": "乳素食",
+      "pinyin": "rǔ sùshí"
+    },
+    {
+      "id": 323798,
+      "translation": {
+        "en": {
+          "short": "vegan",
+          "long": "someone who does not consume or use anything that is produced from animals, such as meat, milk, or eggs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vegan",
+          "long": "seseorang yang tidak mengkonsumsi atau menggunakan apa pun yang dihasilkan dari hewan, seperti daging, susu, atau telur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323798.jpeg",
+      "simplified": "素食主义者",
+      "traditional": "素食主義者",
+      "pinyin": "sùshí zhǔ yì zhě"
+    },
+    {
+      "id": 323796,
+      "translation": {
+        "en": {
+          "short": "pescatarian",
+          "long": "a person who abstains from consuming meat but still includes fish and other seafood in their diet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pescatarian",
+          "long": "Seseorang yang menjauhkan diri dari mengonsumsi daging tetapi masih termasuk ikan dan makanan laut lainnya dalam makanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323796.jpeg",
+      "simplified": "pescatian",
+      "traditional": "pescatian",
+      "pinyin": ""
+    },
+    {
+      "id": 323823,
+      "translation": {
+        "en": {
+          "short": "flexitarian",
+          "long": "a person who primarily follows a plant-based diet but occasionally includes meat or other animal products in their meals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Flexitarian",
+          "long": "Seseorang yang terutama mengikuti diet nabati tetapi kadang-kadang termasuk daging atau produk hewani lainnya dalam makanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323823.jpeg",
+      "simplified": "灵活性",
+      "traditional": "靈活性",
+      "pinyin": "línghuó xìng"
+    },
+    {
+      "id": 323825,
+      "translation": {
+        "en": {
+          "short": "fruitarian",
+          "long": "a person who primarily consumes fruits, nuts, seeds, and other plant-based foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buah",
+          "long": "Seseorang yang terutama mengonsumsi buah, kacang-kacangan, biji-bijian, dan makanan nabati lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323825.jpeg",
+      "simplified": "果方",
+      "traditional": "果方",
+      "pinyin": "guǒ Fāng"
+    },
+    {
+      "id": 323799,
+      "translation": {
+        "en": {
+          "short": "dietician",
+          "long": "someone who is an expert in the field of diet and nutrition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli diet",
+          "long": "seseorang yang ahli dalam bidang diet dan nutrisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323799.jpeg",
+      "simplified": "营养师",
+      "traditional": "營養師",
+      "pinyin": "yíngyǎng shī"
+    },
+    {
+      "id": 323800,
+      "translation": {
+        "en": {
+          "short": "low-carb diet",
+          "long": "a diet that limits the consumption of carbohydrates, particularly those found in grains and sugary foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet rendah karbohidrat",
+          "long": "Diet yang membatasi konsumsi karbohidrat, terutama yang ditemukan dalam biji -bijian dan makanan manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323800.jpeg",
+      "simplified": "低碳水化合物饮食",
+      "traditional": "低碳水化合物飲食",
+      "pinyin": "dītàn shuǐhuà gě wù yǐnshí"
+    },
+    {
+      "id": 323801,
+      "translation": {
+        "en": {
+          "short": "low-fat diet",
+          "long": "a diet that restricts and reduces the consumption of foods high in fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diet rendah lemak",
+          "long": "Diet yang membatasi dan mengurangi konsumsi makanan tinggi lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323801.jpeg",
+      "simplified": "低脂饮食",
+      "traditional": "低脂飲食",
+      "pinyin": "dīzhī yǐnshí"
+    },
+    {
+      "id": 323802,
+      "translation": {
+        "en": {
+          "short": "gluten-free diet",
+          "long": "a diet that stops the consumption of gluten altogether",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet bebas gluten",
+          "long": "Diet yang menghentikan konsumsi gluten sama sekali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323802.jpeg",
+      "simplified": "无麸质饮食",
+      "traditional": "無麩質飲食",
+      "pinyin": "wú fūzhì yǐnshí"
+    },
+    {
+      "id": 323803,
+      "translation": {
+        "en": {
+          "short": "low-calorie diet",
+          "long": "a diet that restricts the intake of calories, often with the goal of weight loss or improving overall health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet rendah kalori",
+          "long": "Diet yang membatasi asupan kalori, seringkali dengan tujuan penurunan berat badan atau meningkatkan kesehatan secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323803.jpeg",
+      "simplified": "低热量饮食",
+      "traditional": "低熱量飲食",
+      "pinyin": "dīrè liáng yǐnshí"
+    },
+    {
+      "id": 323804,
+      "translation": {
+        "en": {
+          "short": "fad diet",
+          "long": "a diet that gains sudden popularity and often promises rapid weight loss through unconventional methods, but may lack scientific support or long-term effectiveness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diet mode",
+          "long": "Diet yang mendapatkan popularitas mendadak dan sering menjanjikan penurunan berat badan yang cepat melalui metode yang tidak konvensional, tetapi mungkin tidak memiliki dukungan ilmiah atau efektivitas jangka panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323804.jpeg",
+      "simplified": "时尚饮食",
+      "traditional": "時尚飲食",
+      "pinyin": "shíshàng yǐnshí"
+    },
+    {
+      "id": 323805,
+      "translation": {
+        "en": {
+          "short": "the Atkins Diet",
+          "long": "a diet plan which is high in protein and fat but very low in carbohydrates, developed by Dr. Robert Atkins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet Atkins",
+          "long": "Rencana diet yang tinggi protein dan lemak tetapi sangat rendah karbohidrat, dikembangkan oleh Dr. Robert Atkins",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323805.jpeg",
+      "simplified": "阿特金斯饮食法",
+      "traditional": "阿特金斯飲食法",
+      "pinyin": "A1tè jīn sī yǐnshí fǎ"
+    },
+    {
+      "id": 323806,
+      "translation": {
+        "en": {
+          "short": "high-vitamin diet",
+          "long": "a diet that prioritizes foods rich in vitamins, with the goal of maintaining optimal health and preventing nutritional deficiencies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet vitamin tinggi",
+          "long": "Diet yang memprioritaskan makanan yang kaya vitamin, dengan tujuan menjaga kesehatan yang optimal dan mencegah kekurangan gizi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323806.jpeg",
+      "simplified": "高维生素饮食",
+      "traditional": "高維生素飲食",
+      "pinyin": "gāowéi shēng sù yǐnshí"
+    },
+    {
+      "id": 323807,
+      "translation": {
+        "en": {
+          "short": "vitamin-deficiency diet",
+          "long": "a diet specifically designed to address and correct deficiencies in essential vitamins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet vitamin-defisiensi",
+          "long": "Diet yang dirancang khusus untuk mengatasi dan memperbaiki kekurangan dalam vitamin esensial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323807.jpeg",
+      "simplified": "维生素缺乏饮食",
+      "traditional": "維生素缺乏飲食",
+      "pinyin": "wéishēng sù quēfá yǐnshí"
+    },
+    {
+      "id": 323808,
+      "translation": {
+        "en": {
+          "short": "high-protein diet",
+          "long": "a diet that emphasizes increased intake of protein-rich foods to support muscle growth, repair, and overall bodily functions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet tinggi protein",
+          "long": "Diet yang menekankan peningkatan asupan makanan kaya protein untuk mendukung pertumbuhan otot, perbaikan, dan fungsi tubuh secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323808.jpeg",
+      "simplified": "高蛋白饮食",
+      "traditional": "高蛋白飲食",
+      "pinyin": "Gāo dànbái yǐnshí"
+    },
+    {
+      "id": 323809,
+      "translation": {
+        "en": {
+          "short": "light diet",
+          "long": "a diet that emphasizes low-calorie and easily digestible foods, often chosen for weight management, digestive comfort, or specific health conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet ringan",
+          "long": "Diet yang menekankan makanan rendah kalori dan mudah dicerna, sering kali dipilih untuk manajemen berat badan, kenyamanan pencernaan, atau kondisi kesehatan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323809.jpeg",
+      "simplified": "清淡饮食",
+      "traditional": "清淡飲食",
+      "pinyin": "qīngdàn yǐnshí"
+    },
+    {
+      "id": 323810,
+      "translation": {
+        "en": {
+          "short": "liquid diet",
+          "long": "a diet composed entirely or primarily of liquids, often used for medical reasons, weight loss, or digestive rest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diet cairan",
+          "long": "Diet yang terdiri dari cairan sepenuhnya atau terutama, sering digunakan untuk alasan medis, penurunan berat badan, atau istirahat pencernaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323810.jpeg",
+      "simplified": "流质饮食",
+      "traditional": "流質飲食",
+      "pinyin": "liú zhì yǐnshí"
+    },
+    {
+      "id": 323811,
+      "translation": {
+        "en": {
+          "short": "low-salt diet",
+          "long": "a diet that restricts the intake of salt, often recommended for individuals with hypertension or other health conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet rendah garam",
+          "long": "Diet yang membatasi asupan garam, sering direkomendasikan untuk individu dengan hipertensi atau kondisi kesehatan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323811.jpeg",
+      "simplified": "低盐饮食",
+      "traditional": "低鹽飲食",
+      "pinyin": "dī yán yǐnshí"
+    },
+    {
+      "id": 323812,
+      "translation": {
+        "en": {
+          "short": "reducing diet",
+          "long": "a diet focused on reducing overall calorie intake for the purpose of weight loss or management",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengurangi diet",
+          "long": "Diet yang berfokus pada pengurangan asupan kalori secara keseluruhan untuk tujuan penurunan berat badan atau manajemen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323812.jpeg",
+      "simplified": "减少饮食",
+      "traditional": "減少飲食",
+      "pinyin": "jiǎnshǎo yǐnshí"
+    },
+    {
+      "id": 323813,
+      "translation": {
+        "en": {
+          "short": "salt-free diet",
+          "long": "a diet that completely eliminates or significantly restricts the intake of salt, often recommended for individuals with specific health conditions such as hypertension or kidney problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet bebas garam",
+          "long": "Diet yang sepenuhnya menghilangkan atau secara signifikan membatasi asupan garam, sering direkomendasikan untuk individu dengan kondisi kesehatan spesifik seperti hipertensi atau masalah ginjal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323813.jpeg",
+      "simplified": "无盐饮食",
+      "traditional": "無鹽飲食",
+      "pinyin": "wú yán yǐnshí"
+    },
+    {
+      "id": 323814,
+      "translation": {
+        "en": {
+          "short": "ulcer diet",
+          "long": "a diet that involves avoiding or minimizing foods and beverages that can irritate or worsen stomach ulcers, typically focusing on mild, easily digestible foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet Ulcer",
+          "long": "Diet yang melibatkan menghindari atau meminimalkan makanan dan minuman yang dapat mengiritasi atau memperburuk bisul perut, biasanya berfokus pada makanan ringan dan mudah dicerna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323814.jpeg",
+      "simplified": "溃疡饮食",
+      "traditional": "潰瘍飲食",
+      "pinyin": "kuìyáng yǐnshí"
+    },
+    {
+      "id": 323817,
+      "translation": {
+        "en": {
+          "short": "5:2 diet",
+          "long": "a diet where a person eats normally for five days a week and restricts their calorie intake for the other two days",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "5: 2 Diet",
+          "long": "Diet tempat seseorang makan secara normal selama lima hari seminggu dan membatasi asupan kalori mereka selama dua hari lainnya",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323817.jpeg",
+      "simplified": "5：2饮食",
+      "traditional": "5：2飲食",
+      "pinyin": "yǐnshí"
+    },
+    {
+      "id": 323819,
+      "translation": {
+        "en": {
+          "short": "crash diet",
+          "long": "a short-term, drastic and restrictive diet that is usually aimed at rapid weight loss but may not be sustainable or healthy in the long term",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diet cepat",
+          "long": "Diet jangka pendek, drastis dan ketat yang biasanya ditujukan untuk penurunan berat badan yang cepat tetapi mungkin tidak berkelanjutan atau sehat dalam jangka panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323819.jpeg",
+      "simplified": "速食",
+      "traditional": "速食",
+      "pinyin": "sùshí"
+    },
+    {
+      "id": 323820,
+      "translation": {
+        "en": {
+          "short": "to fast",
+          "long": "to completely or partially avoid eating or drinking for a period of time, especially because of religious reasons",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk cepat",
+          "long": "untuk menghindari makan atau minum sebagian atau sebagian untuk jangka waktu tertentu, terutama karena alasan agama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323820.jpeg",
+      "simplified": "斋",
+      "traditional": "齋",
+      "pinyin": "zhāi"
+    },
+    {
+      "id": 323821,
+      "translation": {
+        "en": {
+          "short": "fat farm",
+          "long": "a facility or program that offers structured activities, fitness routines, and nutritional guidance to help individuals achieve weight loss and overall wellness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peternakan gemuk",
+          "long": "Fasilitas atau program yang menawarkan kegiatan terstruktur, rutinitas kebugaran, dan panduan gizi untuk membantu individu mencapai penurunan berat badan dan kesehatan secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323821.jpeg",
+      "simplified": "脂肪农场",
+      "traditional": "脂肪農場",
+      "pinyin": "zhīfáng nóngchǎng"
+    },
+    {
+      "id": 323828,
+      "translation": {
+        "en": {
+          "short": "paleo diet",
+          "long": "a dietary plan that emulates the eating habits of early humans by focusing on whole, unprocessed foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet Paleo",
+          "long": "rencana makanan yang meniru kebiasaan makan manusia awal dengan berfokus pada makanan utuh dan tidak diproses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323828.jpeg",
+      "simplified": "古饮食",
+      "traditional": "古飲食",
+      "pinyin": "Gǔ yǐnshí"
+    },
+    {
+      "id": 323829,
+      "translation": {
+        "en": {
+          "short": "plant-based",
+          "long": "(of a diet or food) completely or mainly consisting of plants",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berbasis nabati",
+          "long": "(dari diet atau makanan) sepenuhnya atau terutama terdiri dari tanaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323829.jpeg",
+      "simplified": "以植物为基础",
+      "traditional": "以植物為基礎",
+      "pinyin": "yǐ zhíwù wéi jīchǔ"
+    },
+    {
+      "id": 323831,
+      "translation": {
+        "en": {
+          "short": "starvation diet",
+          "long": "a type of diet that involves severe caloric restriction or prolonged periods of fasting, often with the goal of rapid weight loss",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet kelaparan",
+          "long": "Jenis diet yang melibatkan pembatasan kalori yang parah atau periode puasa yang berkepanjangan, seringkali dengan tujuan penurunan berat badan yang cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/323831.jpeg",
+      "simplified": "饥饿饮食",
+      "traditional": "飢餓飲食",
+      "pinyin": "jīè yǐnshí"
+    },
+    {
+      "id": 337401,
+      "translation": {
+        "en": {
+          "short": "Cambridge diet",
+          "long": "a weight loss program that involves consuming low-calorie meal replacement products to achieve rapid weight loss",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diet Cambridge",
+          "long": "Program penurunan berat badan yang melibatkan mengonsumsi produk penggantian makanan rendah kalori untuk mencapai penurunan berat badan yang cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337401.jpeg",
+      "simplified": "剑桥饮食",
+      "traditional": "劍橋飲食",
+      "pinyin": "Jiànqiáo yǐnshí"
+    }
+  ]
+}

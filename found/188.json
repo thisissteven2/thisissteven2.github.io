@@ -1,0 +1,697 @@
+{
+  "id": 188,
+  "title": {
+    "en": "Health and Sickness",
+    "id": "Kesehatan dan penyakit"
+  },
+  "description": {
+    "en": "Here you will learn some English words about health and sickness, such as \"acupuncture\", \"clinic\", \"inpatient \", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kesehatan dan penyakit, seperti \"akupunktur\", \"klinik\", \"rawat inap\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 214180,
+      "translation": {
+        "en": {
+          "short": "acupuncture",
+          "long": "a method of treatment in which thin needles are inserted in specific spots on the body, originated in China",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akupunktur",
+          "long": "Metode pengobatan di mana jarum tipis dimasukkan ke dalam bintik -bintik spesifik pada tubuh, berasal dari Cina",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214180.jpeg",
+      "simplified": "针刺",
+      "traditional": "針刺",
+      "pinyin": "zhēncì"
+    },
+    {
+      "id": 214181,
+      "translation": {
+        "en": {
+          "short": "clinic",
+          "long": "a part of a hospital or a healthcare facility that provides care for patients who do not require an overnight stay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klinik",
+          "long": "Bagian dari rumah sakit atau fasilitas perawatan kesehatan yang menyediakan perawatan untuk pasien yang tidak memerlukan menginap semalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214181.jpeg",
+      "simplified": "诊所",
+      "traditional": "診所",
+      "pinyin": "zhěnsuǒ"
+    },
+    {
+      "id": 237421,
+      "translation": {
+        "en": {
+          "short": "ward",
+          "long": "a separate area in a hospital for patients with similar conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bangsal",
+          "long": "Area terpisah di rumah sakit untuk pasien dengan kondisi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237421.jpeg",
+      "simplified": "医院病房",
+      "traditional": "醫院病房",
+      "pinyin": "yīyuàn bìngfáng"
+    },
+    {
+      "id": 214182,
+      "translation": {
+        "en": {
+          "short": "emergency room",
+          "long": "a room in a hospital or clinic equipped to provide emergency care to people in need of immediate medical treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang gawat darurat",
+          "long": "Kamar di rumah sakit atau klinik yang diperlengkapi untuk memberikan perawatan darurat kepada orang yang membutuhkan perawatan medis segera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214182.jpeg",
+      "simplified": "急诊室",
+      "traditional": "急診室",
+      "pinyin": "jízhěn shì"
+    },
+    {
+      "id": 237423,
+      "translation": {
+        "en": {
+          "short": "ENT",
+          "long": "a field of medicine or a department in a hospital that deals with ear, nose, and throat problems or diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ent",
+          "long": "bidang kedokteran atau departemen di rumah sakit yang berurusan dengan masalah telinga, hidung, dan tenggorokan atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237423.jpeg",
+      "simplified": "耳鼻喉科",
+      "traditional": "耳鼻喉科",
+      "pinyin": "ěr bí hóu kē"
+    },
+    {
+      "id": 214168,
+      "translation": {
+        "en": {
+          "short": "pharmacy",
+          "long": "a shop where medicines are sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "farmasi",
+          "long": "toko tempat obat dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214168.jpeg",
+      "simplified": "药店",
+      "traditional": "藥店",
+      "pinyin": "yàodiàn"
+    },
+    {
+      "id": 237428,
+      "translation": {
+        "en": {
+          "short": "inpatient",
+          "long": "a patient who stays in the hospital while they receive treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawat inap",
+          "long": "seorang pasien yang tinggal di rumah sakit saat mereka menerima perawatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237428.jpeg",
+      "simplified": "住院病人",
+      "traditional": "住院病人",
+      "pinyin": "zhùyuàn bìngrén"
+    },
+    {
+      "id": 237429,
+      "translation": {
+        "en": {
+          "short": "outpatient",
+          "long": "a patient who receives treatment in a hospital but does not remain there afterward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawat jalan",
+          "long": "seorang pasien yang menerima perawatan di rumah sakit tetapi tidak tetap di sana sesudahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237429.jpeg",
+      "simplified": "门诊病人",
+      "traditional": "門診病人",
+      "pinyin": "ménzhěn bìngrén"
+    },
+    {
+      "id": 214154,
+      "translation": {
+        "en": {
+          "short": "mental health",
+          "long": "the well-being of a person's mind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesehatan mental",
+          "long": "kesejahteraan pikiran seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214154.jpeg",
+      "simplified": "精神健康",
+      "traditional": "精神健康",
+      "pinyin": "jīngshén jiàn kāng"
+    },
+    {
+      "id": 238988,
+      "translation": {
+        "en": {
+          "short": "phobia",
+          "long": "an intense and irrational fear toward a specific thing such as an object, situation, concept, or animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fobi",
+          "long": "Ketakutan yang intens dan tidak rasional terhadap hal tertentu seperti objek, situasi, konsep, atau hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238988.jpeg",
+      "simplified": "恐怖症",
+      "traditional": "恐怖症",
+      "pinyin": "kǒngbù zhèng"
+    },
+    {
+      "id": 214164,
+      "translation": {
+        "en": {
+          "short": "specialist",
+          "long": "a doctor who is highly trained in a particular area of medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spesialis",
+          "long": "seorang dokter yang sangat terlatih di bidang kedokteran tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214164.jpeg",
+      "simplified": "专家",
+      "traditional": "專家",
+      "pinyin": "zhuānjiā"
+    },
+    {
+      "id": 237427,
+      "translation": {
+        "en": {
+          "short": "orthodontist",
+          "long": "a dentist who specializes in the correction, etc. of the position of teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ortodontis",
+          "long": "seorang dokter gigi yang berspesialisasi dalam koreksi, dll. Dari posisi gigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237427.jpeg",
+      "simplified": "正牙医生",
+      "traditional": "正牙醫生",
+      "pinyin": "zhēng yáyī shēng"
+    },
+    {
+      "id": 237422,
+      "translation": {
+        "en": {
+          "short": "paramedic",
+          "long": "a trained individual who provides emergency medical care to people before taking them to the hospital",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paramedis",
+          "long": "seorang individu terlatih yang memberikan perawatan medis darurat kepada orang -orang sebelum membawa mereka ke rumah sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237422.jpeg",
+      "simplified": "护理人员",
+      "traditional": "護理人員",
+      "pinyin": "hùlǐ rényuán"
+    },
+    {
+      "id": 237424,
+      "translation": {
+        "en": {
+          "short": "pediatrician",
+          "long": "a doctor who specializes in the treatment of children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dokter anak",
+          "long": "seorang dokter yang berspesialisasi dalam perawatan anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237424.jpeg",
+      "simplified": "儿科医师",
+      "traditional": "兒科醫師",
+      "pinyin": "érkē yīshī"
+    },
+    {
+      "id": 214163,
+      "translation": {
+        "en": {
+          "short": "surgeon",
+          "long": "a doctor who performs medical operation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli bedah",
+          "long": "seorang dokter yang melakukan operasi medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214163.jpeg",
+      "simplified": "外科医生",
+      "traditional": "外科醫生",
+      "pinyin": "wàikē yī shēng"
+    },
+    {
+      "id": 237425,
+      "translation": {
+        "en": {
+          "short": "plastic surgeon",
+          "long": "a doctor who performs medical operations to repair body parts or make them look more attractive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi plastik",
+          "long": "seorang dokter yang melakukan operasi medis untuk memperbaiki bagian tubuh atau membuatnya terlihat lebih menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237425.jpeg",
+      "simplified": "整形外科医生",
+      "traditional": "整形外科醫生",
+      "pinyin": "zhěngxíng wài kē yī shēng"
+    },
+    {
+      "id": 214161,
+      "translation": {
+        "en": {
+          "short": "therapist",
+          "long": "a qualified person whose job is treating people's mental issues by talking with them instead of giving them drugs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter",
+          "long": "orang yang memenuhi syarat yang pekerjaannya mengobati masalah mental orang dengan berbicara dengan mereka alih -alih memberi mereka obat -obatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214161.jpeg",
+      "simplified": "治疗师",
+      "traditional": "治療師",
+      "pinyin": "zhìliáo Shī"
+    },
+    {
+      "id": 214166,
+      "translation": {
+        "en": {
+          "short": "procedure",
+          "long": "an operation performed by medical professionals to diagnose, treat, etc. a medical condition or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prosedur",
+          "long": "operasi yang dilakukan oleh para profesional medis untuk mendiagnosis, mengobati, dll. Kondisi atau cedera medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214166.jpeg",
+      "simplified": "手术",
+      "traditional": "手術",
+      "pinyin": "shǒushù"
+    },
+    {
+      "id": 237259,
+      "translation": {
+        "en": {
+          "short": "protection",
+          "long": "the act of keeping someone or something unharmed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perlindungan",
+          "long": "tindakan menjaga seseorang atau sesuatu yang tidak terluka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237259.jpeg",
+      "simplified": "保护",
+      "traditional": "保護",
+      "pinyin": "bǎohù"
+    },
+    {
+      "id": 214159,
+      "translation": {
+        "en": {
+          "short": "transplant",
+          "long": "a tissue or organ that is removed from a body and put into another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transplantasi",
+          "long": "jaringan atau organ yang dihilangkan dari tubuh dan dimasukkan ke yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214159.jpeg",
+      "simplified": "移植",
+      "traditional": "移植",
+      "pinyin": "yízhí"
+    },
+    {
+      "id": 214162,
+      "translation": {
+        "en": {
+          "short": "surgery",
+          "long": "a medical practice that involves cutting open a body part in order to repair, remove, etc. an organ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi",
+          "long": "praktik medis yang melibatkan memotong bagian tubuh untuk memperbaiki, melepas, dll. Organ",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214162.jpeg",
+      "simplified": "手术",
+      "traditional": "手術",
+      "pinyin": "shǒushù"
+    },
+    {
+      "id": 237336,
+      "translation": {
+        "en": {
+          "short": "dose",
+          "long": "a measured amount of drug or medicine that is taken at a given time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dosis",
+          "long": "Jumlah obat atau obat yang diukur yang diminum pada waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237336.jpeg",
+      "simplified": "剂量",
+      "traditional": "劑量",
+      "pinyin": "jìliàng"
+    },
+    {
+      "id": 237335,
+      "translation": {
+        "en": {
+          "short": "painkiller",
+          "long": "a type of medicine that is used to reduce or relieve pain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penawar rasa sakit",
+          "long": "Jenis obat yang digunakan untuk mengurangi atau menghilangkan rasa sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237335.jpeg",
+      "simplified": "止痛药",
+      "traditional": "止痛藥",
+      "pinyin": "zhǐtòng yào"
+    },
+    {
+      "id": 214160,
+      "translation": {
+        "en": {
+          "short": "therapy",
+          "long": "the act of treating mental or physical illnesses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terapi",
+          "long": "tindakan mengobati penyakit mental atau fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214160.jpeg",
+      "simplified": "治疗",
+      "traditional": "治療",
+      "pinyin": "zhìliáo"
+    },
+    {
+      "id": 214158,
+      "translation": {
+        "en": {
+          "short": "X-ray",
+          "long": "an image of the inside of a body created using X-rays",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "X-ray",
+          "long": "Gambar bagian dalam tubuh yang dibuat menggunakan sinar-X",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214158.jpeg",
+      "simplified": "X-射线",
+      "traditional": "X-射線",
+      "pinyin": "shèxiàn"
+    },
+    {
+      "id": 263137,
+      "translation": {
+        "en": {
+          "short": "breathing apparatus",
+          "long": "a piece of equipment with a container that supplies oxygen to a person, used in places or situations in which it is difficult to breathe normally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat bantu pernapasan",
+          "long": "sepotong peralatan dengan wadah yang memasok oksigen ke seseorang, digunakan di tempat atau situasi di mana sulit untuk bernafas secara normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263137.jpeg",
+      "simplified": "呼吸设备",
+      "traditional": "呼吸設備",
+      "pinyin": "hūxī shèbèi"
+    },
+    {
+      "id": 237333,
+      "translation": {
+        "en": {
+          "short": "clinical",
+          "long": "relating to the observation, examination, and treatment of patients in a medical setting",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "klinis",
+          "long": "berkaitan dengan pengamatan, pemeriksaan, dan perawatan pasien dalam pengaturan medis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237333.jpeg",
+      "simplified": "医疗的",
+      "traditional": "醫療的",
+      "pinyin": "yīliáo de"
+    },
+    {
+      "id": 238987,
+      "translation": {
+        "en": {
+          "short": "to come down with",
+          "long": "to start having an illness",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk turun dengan",
+          "long": "untuk mulai menderita penyakit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238987.jpeg",
+      "simplified": "被感染",
+      "traditional": "被感染",
+      "pinyin": "bèi gǎnrǎn"
+    },
+    {
+      "id": 214176,
+      "translation": {
+        "en": {
+          "short": "to heal",
+          "long": "to cause a person or thing to return to a state of physical or emotional health",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyembuhkan",
+          "long": "menyebabkan seseorang atau benda kembali ke keadaan fisik atau emosional",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214176.jpeg",
+      "simplified": "愈合",
+      "traditional": "癒合",
+      "pinyin": "yùhé"
+    },
+    {
+      "id": 266315,
+      "translation": {
+        "en": {
+          "short": "to [hit] the hay",
+          "long": "to get in bed for sleeping",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [memukul] jerami",
+          "long": "untuk tidur untuk tidur",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/266315.jpeg",
+      "simplified": "去睡觉",
+      "traditional": "去睡覺",
+      "pinyin": "qù shuìjiào"
+    },
+    {
+      "id": 214171,
+      "translation": {
+        "en": {
+          "short": "to implant",
+          "long": "to insert a living tissue or an artificial object into the body via medical procedure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menanamkan",
+          "long": "Untuk memasukkan jaringan hidup atau benda buatan ke dalam tubuh melalui prosedur medis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214171.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 237339,
+      "translation": {
+        "en": {
+          "short": "to inject",
+          "long": "to insert a liquid, especially a drug, into the body by using a syringe",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyuntikkan",
+          "long": "Untuk memasukkan cairan, terutama obat, ke dalam tubuh dengan menggunakan jarum suntik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237339.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 238781,
+      "translation": {
+        "en": {
+          "short": "to pass out",
+          "long": "to lose consciousness",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "pingsan",
+          "long": "kehilangan kesadaran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238781.jpeg",
+      "simplified": "昏",
+      "traditional": "昏",
+      "pinyin": "hūn"
+    },
+    {
+      "id": 238986,
+      "translation": {
+        "en": {
+          "short": "to relieve",
+          "long": "to decrease the amount of pain, stress, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meringankan",
+          "long": "untuk mengurangi jumlah rasa sakit, stres, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238986.jpeg",
+      "simplified": "缓解（疼痛、压力等）",
+      "traditional": "緩解（疼痛、壓力等）",
+      "pinyin": "huǎnjiě téngtòng yālì děng"
+    },
+    {
+      "id": 214165,
+      "translation": {
+        "en": {
+          "short": "to scan",
+          "long": "(of a medical device) to take a picture of a body part often using X-rays for detailed examinations by a specialist",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memindai",
+          "long": "(dari perangkat medis) untuk mengambil gambar bagian tubuh sering menggunakan rontgen untuk pemeriksaan terperinci oleh seorang spesialis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214165.jpeg",
+      "simplified": "扫描（医学）",
+      "traditional": "掃描（醫學）",
+      "pinyin": "sǎomiáo yīxué"
+    },
+    {
+      "id": 355705,
+      "translation": {
+        "en": {
+          "short": "to shower",
+          "long": "to bathe under a continuous flow of water, typically for cleansing the body",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mandi",
+          "long": "Untuk mandi di bawah aliran air yang berkelanjutan, biasanya untuk membersihkan tubuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355705.jpeg",
+      "simplified": "骤雨",
+      "traditional": "驟雨",
+      "pinyin": "zhòuyǔ"
+    }
+  ]
+}

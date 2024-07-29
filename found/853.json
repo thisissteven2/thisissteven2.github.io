@@ -1,0 +1,621 @@
+{
+  "id": 853,
+  "title": {
+    "en": "The Cinema",
+    "id": "Bioskop"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the cinema, such as \"screen\", \"shoot\", \"cinephile\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang bioskop, seperti \"layar\", \"shoot\", \"cinephile\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 238185,
+      "translation": {
+        "en": {
+          "short": "act",
+          "long": "a main part of a play, opera, or ballet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bertindak",
+          "long": "Bagian utama dari permainan, opera, atau balet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238185.jpeg",
+      "simplified": "法案",
+      "traditional": "法案",
+      "pinyin": "fǎàn"
+    },
+    {
+      "id": 238186,
+      "translation": {
+        "en": {
+          "short": "to adapt",
+          "long": "to change a book or play in a way that can be made into a movie, TV series, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk beradaptasi",
+          "long": "Untuk mengubah buku atau bermain dengan cara yang dapat dibuat menjadi film, serial TV, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238186.jpeg",
+      "simplified": "用某物制作电影、电视剧等",
+      "traditional": "用某物製作電影、電視劇等",
+      "pinyin": "yòng mǒuwù zhìzuò diànyǐng diànshì jù děng"
+    },
+    {
+      "id": 238189,
+      "translation": {
+        "en": {
+          "short": "ballet",
+          "long": "a form of performing art that narrates a story using complex dance movements set to music but no words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "balet",
+          "long": "Suatu bentuk seni pertunjukan yang menceritakan sebuah cerita menggunakan gerakan tarian kompleks yang diatur ke musik tetapi tidak ada kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238189.jpeg",
+      "simplified": "芭蕾舞",
+      "traditional": "芭蕾舞",
+      "pinyin": "bālěi wǔ"
+    },
+    {
+      "id": 238190,
+      "translation": {
+        "en": {
+          "short": "blockbuster",
+          "long": "a thing that achieves great widespread popularity or financial success, particularly a movie, book, or other product",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "blockbuster",
+          "long": "Suatu hal yang mencapai popularitas luas atau kesuksesan finansial, khususnya film, buku, atau produk lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238190.jpeg",
+      "simplified": "畅销书（电影、书籍等）",
+      "traditional": "暢銷書（電影、書籍等）",
+      "pinyin": "chàngxiāo shū diànyǐng shūjí děng"
+    },
+    {
+      "id": 238191,
+      "translation": {
+        "en": {
+          "short": "box office",
+          "long": "the total income a movie makes by selling tickets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Film laris",
+          "long": "Total pendapatan film dengan menjual tiket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238191.jpeg",
+      "simplified": "票房",
+      "traditional": "票房",
+      "pinyin": "piàofáng"
+    },
+    {
+      "id": 238188,
+      "translation": {
+        "en": {
+          "short": "to appear",
+          "long": "to take part in a play, TV show, movie, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "muncul",
+          "long": "Untuk mengambil bagian dalam permainan, acara TV, film, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238188.jpeg",
+      "simplified": "出现",
+      "traditional": "出現",
+      "pinyin": "chūxiàn"
+    },
+    {
+      "id": 238192,
+      "translation": {
+        "en": {
+          "short": "to cast",
+          "long": "to choose a performer to play a role in a movie, opera, play, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membuang",
+          "long": "untuk memilih pemain untuk memainkan peran dalam film, opera, bermain, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238192.jpeg",
+      "simplified": "选择演员（电影等）",
+      "traditional": "選擇演員（電影等）",
+      "pinyin": "xuǎnzé yǎnyuán diànyǐng děng"
+    },
+    {
+      "id": 239700,
+      "translation": {
+        "en": {
+          "short": "to project",
+          "long": "to make a movie, image, etc. appear on a flat surface from afar",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memproyeksikan",
+          "long": "Untuk membuat film, gambar, dll. Muncul di permukaan datar dari jauh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239700.jpeg",
+      "simplified": "项目",
+      "traditional": "專案",
+      "pinyin": "xiàngmù"
+    },
+    {
+      "id": 238213,
+      "translation": {
+        "en": {
+          "short": "to screen",
+          "long": "to show a video or film in a movie theater or on TV",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyaring",
+          "long": "untuk menampilkan video atau film di bioskop atau di TV",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238213.jpeg",
+      "simplified": "在剧院、电影院等处放映",
+      "traditional": "在劇院、電影院等處放映",
+      "pinyin": "zài jùyuàn diànyǐng yuàn děng chǔ fàngyìng"
+    },
+    {
+      "id": 265664,
+      "translation": {
+        "en": {
+          "short": "rerun",
+          "long": "the rebroadcast of a program on television or other media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memutarkan lagi",
+          "long": "siaran ulang program di televisi atau media lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265664.jpeg",
+      "simplified": "重新运行",
+      "traditional": "重新運行",
+      "pinyin": "chóngxīn yùnxíng"
+    },
+    {
+      "id": 238214,
+      "translation": {
+        "en": {
+          "short": "screening",
+          "long": "the action of showing a motion picture, video, or TV program",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyaringan",
+          "long": "Tindakan menampilkan film, video, atau program TV",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238214.jpeg",
+      "simplified": "广播节目",
+      "traditional": "廣播節目",
+      "pinyin": "guǎngbō jié mù"
+    },
+    {
+      "id": 238216,
+      "translation": {
+        "en": {
+          "short": "to shoot",
+          "long": "to film or take a photograph of something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menembak",
+          "long": "untuk syuting atau mengambil foto sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238216.jpeg",
+      "simplified": "拍摄视频",
+      "traditional": "拍攝視頻",
+      "pinyin": "pāishè shìpín"
+    },
+    {
+      "id": 238219,
+      "translation": {
+        "en": {
+          "short": "to stage",
+          "long": "to present a play or other event to an audience",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk panggung",
+          "long": "untuk menyajikan permainan atau acara lain kepada penonton",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238219.jpeg",
+      "simplified": "表演",
+      "traditional": "表演",
+      "pinyin": "biǎoyǎn"
+    },
+    {
+      "id": 238229,
+      "translation": {
+        "en": {
+          "short": "cinephile",
+          "long": "someone who loves movies very much",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cinephile",
+          "long": "Seseorang yang sangat menyukai film",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238229.jpeg",
+      "simplified": "影迷",
+      "traditional": "影迷",
+      "pinyin": "yǐngmí"
+    },
+    {
+      "id": 238187,
+      "translation": {
+        "en": {
+          "short": "animated",
+          "long": "(of images or drawings in a movie) made to appear as if they are in motion",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "animasi",
+          "long": "(gambar atau gambar dalam film) dibuat untuk tampil seolah -olah mereka sedang bergerak",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238187.jpeg",
+      "simplified": "动画（图片等）",
+      "traditional": "動畫（圖片等）",
+      "pinyin": "dònghuà túpiàn děng"
+    },
+    {
+      "id": 238193,
+      "translation": {
+        "en": {
+          "short": "clip",
+          "long": "a short part of a movie or broadcast that is viewed separately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klip",
+          "long": "Sebagian pendek dari film atau siaran yang dilihat secara terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238193.jpeg",
+      "simplified": "电影剪辑",
+      "traditional": "電影剪輯",
+      "pinyin": "diànyǐng jiǎnjí"
+    },
+    {
+      "id": 238194,
+      "translation": {
+        "en": {
+          "short": "cue",
+          "long": "a few words or actions that hint another performer to say a line or do something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isyarat",
+          "long": "beberapa kata atau tindakan yang mengisyaratkan pemain lain untuk mengatakan garis atau melakukan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238194.jpeg",
+      "simplified": "言语暗示",
+      "traditional": "言語暗示",
+      "pinyin": "yányǔ ànshì"
+    },
+    {
+      "id": 238197,
+      "translation": {
+        "en": {
+          "short": "double",
+          "long": "someone who takes part in a movie in order to replace the real actor while the nude or dangerous scenes are recorded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dobel",
+          "long": "Seseorang yang mengambil bagian dalam film untuk menggantikan aktor nyata saat adegan telanjang atau berbahaya direkam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238197.jpeg",
+      "simplified": "特技表演者",
+      "traditional": "特技表演者",
+      "pinyin": "tèjì biǎoyǎn zhě"
+    },
+    {
+      "id": 238221,
+      "translation": {
+        "en": {
+          "short": "stunt",
+          "long": "a dangerous and difficult action that shows great skill and is done to entertain people, typically as part of a movie",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengganti",
+          "long": "Tindakan berbahaya dan sulit yang menunjukkan keterampilan hebat dan dilakukan untuk menghibur orang, biasanya sebagai bagian dari film",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238221.jpeg",
+      "simplified": "特技工作",
+      "traditional": "特技工作",
+      "pinyin": "tèjì gōngzuò"
+    },
+    {
+      "id": 238199,
+      "translation": {
+        "en": {
+          "short": "lighting engineer",
+          "long": "a technician who is in charge of the lights in a TV or motion picture set or theater stage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Insinyur Penerangan",
+          "long": "seorang teknisi yang bertanggung jawab atas lampu di set TV atau film atau panggung teater",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238199.jpeg",
+      "simplified": "灯光师",
+      "traditional": "燈光師",
+      "pinyin": "dēngguāng Shī"
+    },
+    {
+      "id": 238200,
+      "translation": {
+        "en": {
+          "short": "manager",
+          "long": "someone whose job is to take care of the business affairs of an actor, musician, sports player, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pengelola",
+          "long": "Seseorang yang tugasnya adalah mengurus urusan bisnis aktor, musisi, pemain olahraga, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238200.jpeg",
+      "simplified": "经理",
+      "traditional": "主管",
+      "pinyin": "jīnglǐ"
+    },
+    {
+      "id": 238215,
+      "translation": {
+        "en": {
+          "short": "screenwriter",
+          "long": "a person whose job is to write scripts for movies, TV series, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis skenario",
+          "long": "Seseorang yang tugasnya menulis skrip untuk film, serial TV, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238215.jpeg",
+      "simplified": "编剧",
+      "traditional": "編劇",
+      "pinyin": "biānjù"
+    },
+    {
+      "id": 238204,
+      "translation": {
+        "en": {
+          "short": "opening",
+          "long": "the first public presentation of a play, musical, movie, or any other form of entertainment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembukaan",
+          "long": "Presentasi publik pertama dari drama, musik, film, atau bentuk hiburan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238204.jpeg",
+      "simplified": "口",
+      "traditional": "口",
+      "pinyin": "kǒu"
+    },
+    {
+      "id": 238207,
+      "translation": {
+        "en": {
+          "short": "preview",
+          "long": "the showing of a movie, play, exhibition, etc. to a selected audience before its public release",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pratinjau",
+          "long": "Pertunjukan film, permainan, pameran, dll. Kepada audiens yang dipilih sebelum rilis publiknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238207.jpeg",
+      "simplified": "电影预告",
+      "traditional": "電影預告",
+      "pinyin": "diànyǐng yùgào"
+    },
+    {
+      "id": 238208,
+      "translation": {
+        "en": {
+          "short": "production",
+          "long": "a motion picture, TV program, etc. that is created for the public view",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "produksi",
+          "long": "Gambar bergerak, program TV, dll. Yang dibuat untuk pandangan publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238208.jpeg",
+      "simplified": "作业",
+      "traditional": "作業",
+      "pinyin": "zuòyè"
+    },
+    {
+      "id": 238210,
+      "translation": {
+        "en": {
+          "short": "rehearsal",
+          "long": "a session of practice in which performers prepare themselves for a public performance of a concert, play, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "latihan",
+          "long": "Sesi latihan di mana para pemain mempersiapkan diri untuk penampilan publik konser, bermain, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238210.jpeg",
+      "simplified": "排演",
+      "traditional": "排演",
+      "pinyin": "páiyǎn"
+    },
+    {
+      "id": 238211,
+      "translation": {
+        "en": {
+          "short": "to rehearse",
+          "long": "to practice a play, piece of music, etc. before the public performance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlatih",
+          "long": "untuk berlatih permainan, musik, dll. Sebelum pertunjukan publik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238211.jpeg",
+      "simplified": "排练（演出前等）",
+      "traditional": "排練（演出前等）",
+      "pinyin": "páiliàn yǎnchū qián děng"
+    },
+    {
+      "id": 238218,
+      "translation": {
+        "en": {
+          "short": "show business",
+          "long": "the industry or profession of providing public entertainment, such as motion picture, theater, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bisnis pertunjukan",
+          "long": "Industri atau profesi menyediakan hiburan publik, seperti film, teater, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238218.jpeg",
+      "simplified": "娱乐产业",
+      "traditional": "娛樂產業",
+      "pinyin": "yúlè chǎnyè"
+    },
+    {
+      "id": 238212,
+      "translation": {
+        "en": {
+          "short": "scenario",
+          "long": "a written description of the characters, events, or settings in a movie or play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skenario",
+          "long": "deskripsi tertulis tentang karakter, acara, atau pengaturan dalam film atau bermain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238212.jpeg",
+      "simplified": "脚本",
+      "traditional": "腳本",
+      "pinyin": "jiǎoběn"
+    },
+    {
+      "id": 238222,
+      "translation": {
+        "en": {
+          "short": "subtitle",
+          "long": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who do not understand the language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subtitle",
+          "long": "kata -kata narasi atau dialog yang diterjemahkan atau diterjemahkan dari film atau acara TV, muncul di bagian bawah layar untuk membantu orang tuli atau mereka yang tidak memahami bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238222.jpeg",
+      "simplified": "电影字幕",
+      "traditional": "電影字幕",
+      "pinyin": "diànyǐng zìmù"
+    },
+    {
+      "id": 240076,
+      "translation": {
+        "en": {
+          "short": "sound effect",
+          "long": "an artificial sound created and used in a motion picture, play, video game, etc. to make it more realistic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek suara",
+          "long": "Suara buatan yang dibuat dan digunakan dalam film, permainan, video game, dll. Untuk membuatnya lebih realistis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240076.jpeg",
+      "simplified": "音效",
+      "traditional": "音效",
+      "pinyin": "yīnxiào"
+    },
+    {
+      "id": 238224,
+      "translation": {
+        "en": {
+          "short": "wind machine",
+          "long": "a machine that is used in a theater or movie to create artificial wind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin angin",
+          "long": "mesin yang digunakan dalam teater atau film untuk menciptakan angin buatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238224.jpeg",
+      "simplified": "制造风的机器",
+      "traditional": "製造風的機器",
+      "pinyin": "zhìzào fēng de jīqì"
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "id": 896,
+  "title": {
+    "en": "Success and Failure",
+    "id": "Keberhasilan dan kegagalan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about success and failure, such as \"fulfill\", \"ideal\", \"cope\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kesuksesan dan kegagalan, seperti \"terpenuhi\", \"ideal\", \"cope\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 239964,
+      "translation": {
+        "en": {
+          "short": "objective",
+          "long": "a goal that one wants to achieve",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "objektif",
+          "long": "tujuan yang ingin dicapai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239964.jpeg",
+      "simplified": "目的",
+      "traditional": "目的",
+      "pinyin": "mùdì"
+    },
+    {
+      "id": 239968,
+      "translation": {
+        "en": {
+          "short": "attempt",
+          "long": "the activity of trying to complete a task or achieve a goal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "percobaan",
+          "long": "aktivitas mencoba menyelesaikan tugas atau mencapai tujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239968.jpeg",
+      "simplified": "尝试",
+      "traditional": "嘗試",
+      "pinyin": "chángshì"
+    },
+    {
+      "id": 239990,
+      "translation": {
+        "en": {
+          "short": "breakthrough",
+          "long": "an important discovery or development that helps improve a situation or answer a problem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terobosan",
+          "long": "penemuan atau perkembangan penting yang membantu memperbaiki situasi atau menjawab masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239990.jpeg",
+      "simplified": "重要发现",
+      "traditional": "重要發現",
+      "pinyin": "zhòngyào fāxiàn"
+    },
+    {
+      "id": 239995,
+      "translation": {
+        "en": {
+          "short": "to accomplish",
+          "long": "to achieve something after dealing with the difficulties",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencapai",
+          "long": "untuk mencapai sesuatu setelah menangani kesulitan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239995.jpeg",
+      "simplified": "困难地完成某事",
+      "traditional": "困難地完成某事",
+      "pinyin": "kùnnan de wánchéng mǒushì"
+    },
+    {
+      "id": 239991,
+      "translation": {
+        "en": {
+          "short": "to fulfill",
+          "long": "to accomplish or do something that was wished for, expected, or promised",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memenuhi",
+          "long": "untuk mencapai atau melakukan sesuatu yang diharapkan, diharapkan, atau dijanjikan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239991.jpeg",
+      "simplified": "实现",
+      "traditional": "實現",
+      "pinyin": "shíxiàn"
+    },
+    {
+      "id": 239966,
+      "translation": {
+        "en": {
+          "short": "battle",
+          "long": "a struggle to achieve or do something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertarungan",
+          "long": "perjuangan untuk mencapai atau melakukan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239966.jpeg",
+      "simplified": "战",
+      "traditional": "戰",
+      "pinyin": "zhàn"
+    },
+    {
+      "id": 239987,
+      "translation": {
+        "en": {
+          "short": "to abandon",
+          "long": "to no longer continue something altogether",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meninggalkan",
+          "long": "untuk tidak lagi melanjutkan sesuatu sama sekali",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239987.jpeg",
+      "simplified": "放弃",
+      "traditional": "放棄",
+      "pinyin": "fàngqì"
+    },
+    {
+      "id": 239988,
+      "translation": {
+        "en": {
+          "short": "ideal",
+          "long": "representing the best possible example or standard",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ideal",
+          "long": "mewakili contoh atau standar terbaik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239988.jpeg",
+      "simplified": "理想的",
+      "traditional": "理想的",
+      "pinyin": "lǐxiǎng de"
+    },
+    {
+      "id": 239989,
+      "translation": {
+        "en": {
+          "short": "to establish",
+          "long": "to reach a level of acceptance and recognition due to permanent success",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membangun",
+          "long": "untuk mencapai tingkat penerimaan dan pengakuan karena keberhasilan permanen",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239989.jpeg",
+      "simplified": "建立",
+      "traditional": "建立",
+      "pinyin": "jiànlì"
+    },
+    {
+      "id": 239993,
+      "translation": {
+        "en": {
+          "short": "aggressively",
+          "long": "in a determined manner that is forceful",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara agresif",
+          "long": "dengan cara yang ditentukan yang kuat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239993.jpeg",
+      "simplified": "积极地",
+      "traditional": "積極地",
+      "pinyin": "jījí de"
+    },
+    {
+      "id": 239994,
+      "translation": {
+        "en": {
+          "short": "advance",
+          "long": "progress or improvement in a particular area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maju",
+          "long": "kemajuan atau peningkatan di bidang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239994.jpeg",
+      "simplified": "前进",
+      "traditional": "前進",
+      "pinyin": "qiánjìn"
+    },
+    {
+      "id": 239996,
+      "translation": {
+        "en": {
+          "short": "to cope",
+          "long": "to handle a difficult situation and deal with it successfully",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengatasi",
+          "long": "untuk menangani situasi yang sulit dan menanganinya dengan sukses",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239996.jpeg",
+      "simplified": "应付",
+      "traditional": "應付",
+      "pinyin": "yìngfu"
+    },
+    {
+      "id": 239998,
+      "translation": {
+        "en": {
+          "short": "to invest",
+          "long": "to devote a lot of effort, time, money, etc. to something from which one expects to achieve a good result",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berinvestasi",
+          "long": "untuk mencurahkan banyak upaya, waktu, uang, dll. Untuk sesuatu yang diharapkan untuk mencapai hasil yang baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239998.jpeg",
+      "simplified": "投资",
+      "traditional": "投資",
+      "pinyin": "tóuzī"
+    },
+    {
+      "id": 239999,
+      "translation": {
+        "en": {
+          "short": "to attain",
+          "long": "to succeed in reaching a goal, after hard work",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencapai",
+          "long": "untuk berhasil mencapai tujuan, setelah kerja keras",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239999.jpeg",
+      "simplified": "终于取得成功",
+      "traditional": "終於取得成功",
+      "pinyin": "zhōngyú qǔdé Chénggōng"
+    },
+    {
+      "id": 240000,
+      "translation": {
+        "en": {
+          "short": "productive",
+          "long": "producing desired results through effective and efficient use of time, resources, and effort",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "produktif",
+          "long": "menghasilkan hasil yang diinginkan melalui penggunaan waktu, sumber daya, dan upaya yang efektif dan efisien",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240000.jpeg",
+      "simplified": "有效和高效",
+      "traditional": "有效和高效",
+      "pinyin": "yǒuxiào Hé gāoxiào"
+    },
+    {
+      "id": 240001,
+      "translation": {
+        "en": {
+          "short": "to realize",
+          "long": "to achieve something that is desired",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyadari",
+          "long": "untuk mencapai sesuatu yang diinginkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240001.jpeg",
+      "simplified": "实现",
+      "traditional": "實現",
+      "pinyin": "shíxiàn"
+    },
+    {
+      "id": 240002,
+      "translation": {
+        "en": {
+          "short": "to strive",
+          "long": "to try as hard as possible to achieve a goal",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berjuang",
+          "long": "untuk berusaha sekeras mungkin untuk mencapai tujuan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240002.jpeg",
+      "simplified": "努力",
+      "traditional": "努力",
+      "pinyin": "nǔlì"
+    },
+    {
+      "id": 240003,
+      "translation": {
+        "en": {
+          "short": "to prosper",
+          "long": "to grow in a successful way, especially financially",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Menjadi makmur",
+          "long": "tumbuh dengan cara yang sukses, terutama secara finansial",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240003.jpeg",
+      "simplified": "取得巨大成功",
+      "traditional": "取得巨大成功",
+      "pinyin": "qǔdé jùdà Chénggōng"
+    },
+    {
+      "id": 240004,
+      "translation": {
+        "en": {
+          "short": "progress",
+          "long": "gradual movement toward a goal or a desired state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemajuan",
+          "long": "gerakan bertahap menuju tujuan atau keadaan yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240004.jpeg",
+      "simplified": "进步",
+      "traditional": "進步",
+      "pinyin": "jìnbù"
+    },
+    {
+      "id": 240005,
+      "translation": {
+        "en": {
+          "short": "to pursue",
+          "long": "to try and seek something and engage in it in order to achieve one's goal",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengejar",
+          "long": "untuk mencoba dan mencari sesuatu dan terlibat di dalamnya untuk mencapai tujuan seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240005.jpeg",
+      "simplified": "追求",
+      "traditional": "追求",
+      "pinyin": "zhuīqiú"
+    },
+    {
+      "id": 240007,
+      "translation": {
+        "en": {
+          "short": "ambitious",
+          "long": "trying or wishing to gain great success, power, or wealth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ambisius",
+          "long": "mencoba atau ingin mendapatkan kesuksesan, kekuatan, atau kekayaan yang luar biasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240007.jpeg",
+      "simplified": "雄心勃勃的",
+      "traditional": "雄心勃勃的",
+      "pinyin": "xióngxīn bó bó de"
+    },
+    {
+      "id": 240008,
+      "translation": {
+        "en": {
+          "short": "desperate",
+          "long": "(of an act) without much hope for its success and done when nothing else works",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "putus asa",
+          "long": "(dari suatu tindakan) tanpa banyak harapan untuk keberhasilannya dan dilakukan ketika tidak ada hal lain yang berhasil",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240008.jpeg",
+      "simplified": "绝望的",
+      "traditional": "絕望的",
+      "pinyin": "juéwàng de"
+    },
+    {
+      "id": 240009,
+      "translation": {
+        "en": {
+          "short": "failure",
+          "long": "the absence of success in achieving a goal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kegagalan",
+          "long": "tidak adanya keberhasilan dalam mencapai tujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240009.jpeg",
+      "simplified": "失败",
+      "traditional": "失敗",
+      "pinyin": "shībài"
+    },
+    {
+      "id": 240010,
+      "translation": {
+        "en": {
+          "short": "victory",
+          "long": "the success that is achieved in a competition, game, war, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemenangan",
+          "long": "Keberhasilan yang dicapai dalam kompetisi, permainan, perang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240010.jpeg",
+      "simplified": "胜利",
+      "traditional": "勝利",
+      "pinyin": "shènglì"
+    },
+    {
+      "id": 240011,
+      "translation": {
+        "en": {
+          "short": "to rise",
+          "long": "to achieve a better life or job position",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "naik",
+          "long": "Untuk mencapai kehidupan atau posisi pekerjaan yang lebih baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240011.jpeg",
+      "simplified": "上升",
+      "traditional": "上升",
+      "pinyin": "shàngshēng"
+    },
+    {
+      "id": 240012,
+      "translation": {
+        "en": {
+          "short": "defeat",
+          "long": "the state of having lost in a contest, war, competition, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalahkan",
+          "long": "Keadaan kalah dalam kontes, perang, kompetisi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240012.jpeg",
+      "simplified": "失败",
+      "traditional": "失敗",
+      "pinyin": "shībài"
+    },
+    {
+      "id": 240013,
+      "translation": {
+        "en": {
+          "short": "hopeless",
+          "long": "having no possibility or expectation of improvement or success",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tanpa harapan",
+          "long": "tidak memiliki kemungkinan atau harapan perbaikan atau keberhasilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240013.jpeg",
+      "simplified": "令人失望的",
+      "traditional": "令人失望的",
+      "pinyin": "lìngrén shīwàng de"
+    },
+    {
+      "id": 240014,
+      "translation": {
+        "en": {
+          "short": "loss",
+          "long": "the state or process of losing a person or thing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kehilangan",
+          "long": "keadaan atau proses kehilangan seseorang atau benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240014.jpeg",
+      "simplified": "失去某人或某物",
+      "traditional": "失去某人或某物",
+      "pinyin": "shīqù mǒurén huò mǒuwù"
+    },
+    {
+      "id": 240015,
+      "translation": {
+        "en": {
+          "short": "disastrous",
+          "long": "very harmful or bad",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bencana",
+          "long": "sangat berbahaya atau buruk",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240015.jpeg",
+      "simplified": "惨重",
+      "traditional": "慘重",
+      "pinyin": "cǎnzhòng"
+    },
+    {
+      "id": 240016,
+      "translation": {
+        "en": {
+          "short": "to struggle",
+          "long": "to put a great deal of effort to overcome difficulties or achieve a goal",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berjuang",
+          "long": "untuk berupaya keras untuk mengatasi kesulitan atau mencapai tujuan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240016.jpeg",
+      "simplified": "努力做某事或取得某事",
+      "traditional": "努力做某事或取得某事",
+      "pinyin": "nǔlì zuò mǒushì huò qǔdé mǒushì"
+    },
+    {
+      "id": 240017,
+      "translation": {
+        "en": {
+          "short": "to overcome",
+          "long": "to succeed in solving, controlling, or dealing with something difficult",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengatasi",
+          "long": "untuk berhasil menyelesaikan, mengendalikan, atau menangani sesuatu yang sulit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240017.jpeg",
+      "simplified": "克服",
+      "traditional": "克服",
+      "pinyin": "kèfú"
+    },
+    {
+      "id": 240018,
+      "translation": {
+        "en": {
+          "short": "to thrive",
+          "long": "to grow and develop exceptionally well",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berkembang",
+          "long": "untuk tumbuh dan berkembang dengan sangat baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240018.jpeg",
+      "simplified": "变得繁荣",
+      "traditional": "變得繁榮",
+      "pinyin": "biànde fánróng"
+    },
+    {
+      "id": 240019,
+      "translation": {
+        "en": {
+          "short": "obstacle",
+          "long": "a situation or problem that prevents one from succeeding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rintangan",
+          "long": "situasi atau masalah yang mencegah seseorang berhasil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240019.jpeg",
+      "simplified": "障碍",
+      "traditional": "障礙",
+      "pinyin": "zhàngài"
+    },
+    {
+      "id": 240020,
+      "translation": {
+        "en": {
+          "short": "promising",
+          "long": "showing signs of future success or potential",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "menjanjikan",
+          "long": "menunjukkan tanda -tanda keberhasilan atau potensi di masa depan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240020.jpeg",
+      "simplified": "有希望",
+      "traditional": "有希望",
+      "pinyin": "yǒuxī wàng"
+    },
+    {
+      "id": 240021,
+      "translation": {
+        "en": {
+          "short": "to let down",
+          "long": "to make someone disappointed by not meeting their expectations",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengecewakan",
+          "long": "untuk membuat seseorang kecewa dengan tidak memenuhi harapan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240021.jpeg",
+      "simplified": "让某人失望",
+      "traditional": "讓某人失望",
+      "pinyin": "ràng mǒurén shīwàng"
+    },
+    {
+      "id": 240022,
+      "translation": {
+        "en": {
+          "short": "to flourish",
+          "long": "to quickly grow in a successful way",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berkembang",
+          "long": "untuk dengan cepat tumbuh dengan cara yang sukses",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240022.jpeg",
+      "simplified": "快速成功",
+      "traditional": "快速成功",
+      "pinyin": "kuàisù Chénggōng"
+    },
+    {
+      "id": 240023,
+      "translation": {
+        "en": {
+          "short": "fall",
+          "long": "a reduction in size, amount, number, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jatuh",
+          "long": "Pengurangan ukuran, jumlah, angka, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240023.jpeg",
+      "simplified": "减少",
+      "traditional": "減少",
+      "pinyin": "jiǎnshǎo"
+    },
+    {
+      "id": 240024,
+      "translation": {
+        "en": {
+          "short": "to boom",
+          "long": "to experience great growth and improvement",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk boom",
+          "long": "untuk mengalami pertumbuhan dan peningkatan yang luar biasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240024.jpeg",
+      "simplified": "轰",
+      "traditional": "轟",
+      "pinyin": "hōng"
+    }
+  ]
+}

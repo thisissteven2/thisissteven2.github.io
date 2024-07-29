@@ -1,0 +1,602 @@
+{
+  "id": 4010,
+  "title": {
+    "en": "Printmaking",
+    "id": "PRINTMAKING"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to printmaking such as \"collotype\", \"etching\", and \"metalcut\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan seni grafis seperti \"Collotype\", \"Etching\", dan \"Metalcut\"."
+  },
+  "cards": [
+    {
+      "id": 348748,
+      "translation": {
+        "en": {
+          "short": "collotype",
+          "long": "a photographic printing process that uses a gelatin-coated plate to produce high-quality prints with a wide tonal range and a delicate, velvety texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Collotype",
+          "long": "Proses pencetakan fotografi yang menggunakan pelat berlapis gelatin untuk menghasilkan cetakan berkualitas tinggi dengan kisaran nada yang lebar dan tekstur beludru yang halus dan halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348748.jpeg",
+      "simplified": "玻璃版",
+      "traditional": "玻璃版",
+      "pinyin": "bōli bǎn"
+    },
+    {
+      "id": 348750,
+      "translation": {
+        "en": {
+          "short": "computer printing",
+          "long": "the process of producing printed materials, such as documents, graphics, or photographs, using a computer and a printer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Komputer",
+          "long": "Proses memproduksi bahan cetak, seperti dokumen, grafik, atau foto, menggunakan komputer dan printer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348750.jpeg",
+      "simplified": "电脑打印",
+      "traditional": "電腦打印",
+      "pinyin": "diànnǎo dǎyìn"
+    },
+    {
+      "id": 348752,
+      "translation": {
+        "en": {
+          "short": "dye-sublimation printing",
+          "long": "a printing process that uses heat to transfer dye onto a substrate, such as paper or fabric, producing high-quality, long-lasting prints with vibrant colors and fine details",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Pewarnaan Pewarna",
+          "long": "Proses pencetakan yang menggunakan panas untuk mentransfer pewarna ke substrat, seperti kertas atau kain, menghasilkan cetakan berkualitas tinggi, tahan lama dengan warna-warna cerah dan detail halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348752.jpeg",
+      "simplified": "热升华打印",
+      "traditional": "熱昇華打印",
+      "pinyin": "rè shēnghuá dǎyìn"
+    },
+    {
+      "id": 348754,
+      "translation": {
+        "en": {
+          "short": "giclee",
+          "long": "a high-quality digital printing process that uses specialized inkjet printers and archival quality inks to create fine art prints with exceptional color accuracy, clarity, and longevity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Giclee",
+          "long": "Proses pencetakan digital berkualitas tinggi yang menggunakan printer inkjet khusus dan tinta kualitas arsip untuk membuat cetakan seni rupa dengan akurasi warna yang luar biasa, kejelasan, dan umur panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348754.jpeg",
+      "simplified": "艺术微喷",
+      "traditional": "藝術微噴",
+      "pinyin": "yìshù Wēi pēn"
+    },
+    {
+      "id": 348756,
+      "translation": {
+        "en": {
+          "short": "inkjet printing",
+          "long": "a digital printing process that uses small droplets of ink to produce high-quality, full-color prints on a variety of materials, including paper, fabric, and plastic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Inkjet",
+          "long": "Proses pencetakan digital yang menggunakan tetesan kecil tinta untuk menghasilkan cetakan penuh warna berkualitas tinggi pada berbagai bahan, termasuk kertas, kain, dan plastik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348756.jpeg",
+      "simplified": "喷墨印刷",
+      "traditional": "噴墨印刷",
+      "pinyin": "pēnmò yìnshuā"
+    },
+    {
+      "id": 348758,
+      "translation": {
+        "en": {
+          "short": "laser printing",
+          "long": "a digital printing process that uses a laser beam to transfer toner onto a substrate, typically paper, producing high-quality, fast, and precise prints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan laser",
+          "long": "Proses pencetakan digital yang menggunakan sinar laser untuk mentransfer toner ke substrat, biasanya kertas, menghasilkan cetakan berkualitas tinggi, cepat, dan tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348758.jpeg",
+      "simplified": "激光打印",
+      "traditional": "激光打印",
+      "pinyin": "jīguāng dǎyìn"
+    },
+    {
+      "id": 348760,
+      "translation": {
+        "en": {
+          "short": "solid ink",
+          "long": "a digital printing process that uses solid sticks or blocks of ink that are melted and applied to a substrate, such as paper or fabric, producing high-quality, vibrant prints with sharp details and minimal waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinta padat",
+          "long": "Proses pencetakan digital yang menggunakan tongkat solid atau blok tinta yang dilelehkan dan diterapkan pada substrat, seperti kertas atau kain, menghasilkan cetakan berkualitas tinggi dan bersemangat dengan detail yang tajam dan limbah minimal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348760.jpeg",
+      "simplified": "固体墨水",
+      "traditional": "固體墨水",
+      "pinyin": "gùtǐ mòshuǐ"
+    },
+    {
+      "id": 348764,
+      "translation": {
+        "en": {
+          "short": "thermal printing",
+          "long": "a digital printing process that uses heat to transfer ink or dye onto a substrate, typically paper or labels, producing high-quality, durable prints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan termal",
+          "long": "Proses pencetakan digital yang menggunakan panas untuk mentransfer tinta atau pewarna ke substrat, biasanya kertas atau label, menghasilkan cetakan berkualitas tinggi dan tahan lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348764.jpeg",
+      "simplified": "热敏打印",
+      "traditional": "熱敏打印",
+      "pinyin": "rèmǐn dǎyìn"
+    },
+    {
+      "id": 348766,
+      "translation": {
+        "en": {
+          "short": "intaglio",
+          "long": "a printing technique in which the image is carved into the printing plate and the carved part holds the ink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intaglio",
+          "long": "Teknik pencetakan di mana gambar diukir ke pelat pencetakan dan bagian yang diukir memegang tinta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348766.jpeg",
+      "simplified": "凹板",
+      "traditional": "凹板",
+      "pinyin": "āobǎn"
+    },
+    {
+      "id": 348775,
+      "translation": {
+        "en": {
+          "short": "letterpress",
+          "long": "a type of printing process that uses a raised plate with characters to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cetak",
+          "long": "Jenis proses pencetakan yang menggunakan pelat terangkat dengan karakter untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348775.jpeg",
+      "simplified": "活版",
+      "traditional": "活版",
+      "pinyin": "huóbǎn"
+    },
+    {
+      "id": 348776,
+      "translation": {
+        "en": {
+          "short": "linocut",
+          "long": "a type of relief printing process that uses a sheet of linoleum with a design cut into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Linocut",
+          "long": "Jenis proses pencetakan relief yang menggunakan selembar linoleum dengan desain yang dipotong ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348776.jpeg",
+      "simplified": "油毡切割",
+      "traditional": "油氈切割",
+      "pinyin": "yóu zhān qiēgē"
+    },
+    {
+      "id": 348784,
+      "translation": {
+        "en": {
+          "short": "lithography",
+          "long": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "litografi",
+          "long": "Jenis proses pencetakan yang menggunakan batu datar atau pelat logam dengan desain yang terukir ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348784.jpeg",
+      "simplified": "胶印",
+      "traditional": "膠印",
+      "pinyin": "jiāoyìn"
+    },
+    {
+      "id": 348785,
+      "translation": {
+        "en": {
+          "short": "monotype",
+          "long": "a type of printing process that uses a metal or plastic plate with a design etched into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis yg satu saja",
+          "long": "Jenis proses pencetakan yang menggunakan pelat logam atau plastik dengan desain terukir ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348785.jpeg",
+      "simplified": "单一型",
+      "traditional": "單一型",
+      "pinyin": "dānyī xíng"
+    },
+    {
+      "id": 348787,
+      "translation": {
+        "en": {
+          "short": "offset printing",
+          "long": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan offset",
+          "long": "Jenis proses pencetakan yang menggunakan batu datar atau pelat logam dengan desain yang terukir ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348787.jpeg",
+      "simplified": "胶印",
+      "traditional": "膠印",
+      "pinyin": "jiāoyìn"
+    },
+    {
+      "id": 348797,
+      "translation": {
+        "en": {
+          "short": "planographic printing",
+          "long": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan planografi",
+          "long": "Jenis proses pencetakan yang menggunakan batu datar atau pelat logam dengan desain yang terukir ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348797.jpeg",
+      "simplified": "平版印刷",
+      "traditional": "平版印刷",
+      "pinyin": "píngbǎn yìnshuā"
+    },
+    {
+      "id": 348799,
+      "translation": {
+        "en": {
+          "short": "printing press",
+          "long": "a type of printing machine that uses a flat metal plate with a design etched into it to transfer ink to paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cetak",
+          "long": "Jenis mesin cetak yang menggunakan pelat logam datar dengan desain yang terukir ke dalamnya untuk mentransfer tinta ke kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348799.jpeg",
+      "simplified": "印刷机",
+      "traditional": "印刷機",
+      "pinyin": "yìnshuā jī"
+    },
+    {
+      "id": 348811,
+      "translation": {
+        "en": {
+          "short": "relief printing",
+          "long": "a printing technique in which an image is carved in relief on a printing block, such as wood or linoleum, and ink is applied to the raised surface of the block before it is pressed onto paper or another substrate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan lega",
+          "long": "Teknik pencetakan di mana suatu gambar diukir dengan lega pada blok pencetakan, seperti kayu atau linoleum, dan tinta diterapkan pada permukaan blok yang terangkat sebelum ditekan ke atas kertas atau substrat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348811.jpeg",
+      "simplified": "铅印",
+      "traditional": "鉛印",
+      "pinyin": "qiān Yìn"
+    },
+    {
+      "id": 348813,
+      "translation": {
+        "en": {
+          "short": "metalcut",
+          "long": "a printmaking technique that involves carving a metal plate, typically copper or zinc, with a chisel or graver to create an image",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Metalcut",
+          "long": "Teknik grafis yang melibatkan mengukir pelat logam, biasanya tembaga atau seng, dengan pahat atau graver untuk membuat gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348813.jpeg",
+      "simplified": "金属切削",
+      "traditional": "金屬切削",
+      "pinyin": "jīnshǔ qiēxiāo"
+    },
+    {
+      "id": 348814,
+      "translation": {
+        "en": {
+          "short": "etching",
+          "long": "the art or process of cutting or carving designs or writings on a metal surface using an acid or a laser beam",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "etsa",
+          "long": "seni atau proses pemotongan atau desain ukiran atau tulisan pada permukaan logam menggunakan asam atau sinar laser",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348814.jpeg",
+      "simplified": "在金属表面蚀刻",
+      "traditional": "在金屬表面蝕刻",
+      "pinyin": "zài jīnshǔ biǎomiàn shíkè"
+    },
+    {
+      "id": 348817,
+      "translation": {
+        "en": {
+          "short": "wood engraving",
+          "long": "a relief printing technique that involves carving a design into the end-grain of a block of wood, typically boxwood, using specialized engraving tools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ukiran kayu",
+          "long": "Teknik pencetakan lega yang melibatkan ukiran desain ke dalam butir akhir dari blok kayu, biasanya boxwood, menggunakan alat ukiran khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348817.jpeg",
+      "simplified": "木雕",
+      "traditional": "木雕",
+      "pinyin": "Mù diāo"
+    },
+    {
+      "id": 348818,
+      "translation": {
+        "en": {
+          "short": "woodcut",
+          "long": "a relief printing technique that involves carving a design into a block of wood, inking the surface, and then printing the image onto paper or another substrate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ukiran kayu",
+          "long": "Teknik pencetakan relief yang melibatkan ukiran desain menjadi blok kayu, menandatangani permukaan, dan kemudian mencetak gambar ke atas kertas atau substrat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348818.jpeg",
+      "simplified": "木刻",
+      "traditional": "木刻",
+      "pinyin": "mùkè"
+    },
+    {
+      "id": 348819,
+      "translation": {
+        "en": {
+          "short": "screen printing",
+          "long": "the technique of putting a design or pattern of ink or metal on a surface through a screen of silk or fine material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Layar",
+          "long": "Teknik menempatkan desain atau pola tinta atau logam di permukaan melalui layar sutra atau bahan halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348819.jpeg",
+      "simplified": "丝网印刷",
+      "traditional": "絲網印刷",
+      "pinyin": "sīwǎng yìnshuā"
+    },
+    {
+      "id": 348820,
+      "translation": {
+        "en": {
+          "short": "woodblock printing",
+          "long": "a technique used in printmaking that involves the use of a carved wooden block to create a design or pattern on paper or fabric",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Woodblock",
+          "long": "Teknik yang digunakan dalam seni grafis yang melibatkan penggunaan balok kayu berukir untuk membuat desain atau pola di atas kertas atau kain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348820.jpeg",
+      "simplified": "木块打印",
+      "traditional": "木塊打印",
+      "pinyin": "mùkuài dǎyìn"
+    },
+    {
+      "id": 348822,
+      "translation": {
+        "en": {
+          "short": "cerography",
+          "long": "a printing process that involves engraving an image onto a ceramic plate, which is then inked and printed onto paper or another substrate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cerografi",
+          "long": "Proses pencetakan yang melibatkan ukiran gambar ke pelat keramik, yang kemudian ditulis dan dicetak di atas kertas atau substrat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348822.jpeg",
+      "simplified": "陶瓷术",
+      "traditional": "陶瓷術",
+      "pinyin": "táocí shù"
+    },
+    {
+      "id": 348823,
+      "translation": {
+        "en": {
+          "short": "pointille",
+          "long": "a printmaking technique in which dots of ink are applied in patterns to create tones, textures and images",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pointille",
+          "long": "Teknik Pencertaan di mana titik -titik tinta diterapkan dalam pola untuk membuat nada, tekstur dan gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348823.jpeg",
+      "simplified": "点状",
+      "traditional": "點狀",
+      "pinyin": "diǎn zhuàng"
+    },
+    {
+      "id": 348824,
+      "translation": {
+        "en": {
+          "short": "mezzotint",
+          "long": "an intaglio printing technique that involves roughening a metal plate with a special tool called a rocker to create a textured surface that can hold ink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mezzotint",
+          "long": "Teknik pencetakan intaglio yang melibatkan pengekangan pelat logam dengan alat khusus yang disebut rocker untuk membuat permukaan bertekstur yang dapat menampung tinta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348824.jpeg",
+      "simplified": "铜版铜版画",
+      "traditional": "銅版銅版畫",
+      "pinyin": "tóng bǎn tóng bǎnhuà"
+    },
+    {
+      "id": 348826,
+      "translation": {
+        "en": {
+          "short": "aquatint",
+          "long": "an etching technique that involves creating a tonal range on a metal plate by exposing it to an acid-resistant resin that is then heated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aquatint",
+          "long": "Teknik etsa yang melibatkan menciptakan rentang nada pada pelat logam dengan mengeksposnya ke resin tahan asam yang kemudian dipanaskan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348826.jpeg",
+      "simplified": "aquatint",
+      "traditional": "aquatint",
+      "pinyin": ""
+    },
+    {
+      "id": 348827,
+      "translation": {
+        "en": {
+          "short": "engraving",
+          "long": "the art or process of carving an artistic shape or pattern on a hard material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ukiran",
+          "long": "seni atau proses mengukir bentuk atau pola artistik pada bahan yang keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348827.jpeg",
+      "simplified": "雕刻",
+      "traditional": "雕刻",
+      "pinyin": "diāokè"
+    },
+    {
+      "id": 348838,
+      "translation": {
+        "en": {
+          "short": "drypoint",
+          "long": "an intaglio printing technique that involves scratching an image directly onto a metal plate, typically copper, using a pointed tool",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Drypoint",
+          "long": "Teknik pencetakan intaglio yang melibatkan menggaruk gambar langsung ke pelat logam, biasanya tembaga, menggunakan alat runcing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348838.jpeg",
+      "simplified": "干点",
+      "traditional": "干點",
+      "pinyin": "gān diǎn"
+    },
+    {
+      "id": 348839,
+      "translation": {
+        "en": {
+          "short": "digital printing",
+          "long": "a modern printing method that involves transferring digital images or text directly onto paper or other materials using a computer and a printer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencetakan Digital",
+          "long": "Metode pencetakan modern yang melibatkan mentransfer gambar digital atau teks langsung ke kertas atau bahan lain menggunakan komputer dan printer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348839.jpeg",
+      "simplified": "数码印刷",
+      "traditional": "數碼印刷",
+      "pinyin": "shùmǎ yìnshuā"
+    },
+    {
+      "id": 348840,
+      "translation": {
+        "en": {
+          "short": "hectograph",
+          "long": "a printing process that involves transferring ink from a master copy onto a gelatin pad, which can then be used to produce multiple copies of the original image or text using a press or by hand rubbing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hektograf",
+          "long": "Proses pencetakan yang melibatkan mentransfer tinta dari salinan master ke bantalan gelatin, yang kemudian dapat digunakan untuk menghasilkan beberapa salinan gambar atau teks asli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348840.jpeg",
+      "simplified": "测距仪",
+      "traditional": "測距儀",
+      "pinyin": "cèjù yí"
+    }
+  ]
+}

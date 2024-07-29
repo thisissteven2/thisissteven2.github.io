@@ -1,0 +1,659 @@
+{
+  "id": 936,
+  "title": {
+    "en": "Means of Transportation",
+    "id": "Alat transportasi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about means of transportation, such as \"fighter\", \"shuttle\", \"car\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang alat transportasi, seperti \"pejuang\", \"antar -jemput\", \"mobil\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 241316,
+      "translation": {
+        "en": {
+          "short": "aircraft",
+          "long": "any flying vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat terbang",
+          "long": "kendaraan terbang apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241316.jpeg",
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēijī"
+    },
+    {
+      "id": 241317,
+      "translation": {
+        "en": {
+          "short": "hot-air balloon",
+          "long": "an extremely large balloon filled with heated air, which enables it to float and travel through the sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "balon udara",
+          "long": "Balon yang sangat besar diisi dengan udara yang dipanaskan, yang memungkinkannya melayang dan melakukan perjalanan melalui langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241317.jpeg",
+      "simplified": "热气球",
+      "traditional": "熱氣球",
+      "pinyin": "rèqì qiú"
+    },
+    {
+      "id": 241318,
+      "translation": {
+        "en": {
+          "short": "fighter",
+          "long": "a military aircraft that is designed to attack enemy aircraft and fly very fast",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pejuang",
+          "long": "pesawat militer yang dirancang untuk menyerang pesawat musuh dan terbang dengan sangat cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241318.jpeg",
+      "simplified": "战斗机",
+      "traditional": "戰鬥機",
+      "pinyin": "zhàndòu jī"
+    },
+    {
+      "id": 241319,
+      "translation": {
+        "en": {
+          "short": "bomber",
+          "long": "an aircraft that can drop bombs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembom",
+          "long": "pesawat terbang yang bisa menjatuhkan bom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241319.jpeg",
+      "simplified": "轰炸机",
+      "traditional": "轟炸機",
+      "pinyin": "hōngzhà jī"
+    },
+    {
+      "id": 241321,
+      "translation": {
+        "en": {
+          "short": "parachute",
+          "long": "an object that allows a person or thing to slowly come to the ground after dropping from a flying aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parasut",
+          "long": "objek yang memungkinkan seseorang atau benda perlahan -lahan datang ke tanah setelah jatuh dari pesawat terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241321.jpeg",
+      "simplified": "降落伞",
+      "traditional": "降落傘",
+      "pinyin": "jiàngluò sǎn"
+    },
+    {
+      "id": 241323,
+      "translation": {
+        "en": {
+          "short": "vehicle",
+          "long": "a large object with an engine, such as a car or truck, used for transporting people or goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendaraan",
+          "long": "benda besar dengan mesin, seperti mobil atau truk, digunakan untuk mengangkut orang atau barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241323.jpeg",
+      "simplified": "车辆",
+      "traditional": "車輛",
+      "pinyin": "chēliàng"
+    },
+    {
+      "id": 241327,
+      "translation": {
+        "en": {
+          "short": "double-decker",
+          "long": "a vehicle such as a bus, train, or ship with two levels on top of one another, providing additional seating capacity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Double-Decker",
+          "long": "Kendaraan seperti bus, kereta api, atau kapal dengan dua tingkat di atas satu sama lain, memberikan kapasitas tempat duduk tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241327.jpeg",
+      "simplified": "双层巴士",
+      "traditional": "雙層巴士",
+      "pinyin": "shuāngcéng bā shì"
+    },
+    {
+      "id": 241328,
+      "translation": {
+        "en": {
+          "short": "freight car",
+          "long": "a railroad car used for transporting goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil barang",
+          "long": "mobil kereta api yang digunakan untuk mengangkut barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241328.jpeg",
+      "simplified": "货车",
+      "traditional": "貨車",
+      "pinyin": "huòchē"
+    },
+    {
+      "id": 241329,
+      "translation": {
+        "en": {
+          "short": "shuttle",
+          "long": "a means of transportation that frequently travels between two places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ulang -alik",
+          "long": "sarana transportasi yang sering melintasi antara dua tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241329.jpeg",
+      "simplified": "梭",
+      "traditional": "梭",
+      "pinyin": "suō"
+    },
+    {
+      "id": 241331,
+      "translation": {
+        "en": {
+          "short": "single-decker",
+          "long": "a type of bus that has only one floor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "single-decker",
+          "long": "Jenis bus yang hanya memiliki satu lantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241331.jpeg",
+      "simplified": "单层",
+      "traditional": "單層",
+      "pinyin": "dāncéng"
+    },
+    {
+      "id": 241332,
+      "translation": {
+        "en": {
+          "short": "boat train",
+          "long": "a train that transports passengers to and from a port",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta perahu",
+          "long": "kereta yang mengangkut penumpang ke dan dari pelabuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241332.jpeg",
+      "simplified": "船火车",
+      "traditional": "船火車",
+      "pinyin": "chuán huǒchē"
+    },
+    {
+      "id": 241333,
+      "translation": {
+        "en": {
+          "short": "camper",
+          "long": "a vehicle in which people can sleep and live when traveling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemping",
+          "long": "kendaraan di mana orang bisa tidur dan hidup saat bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241333.jpeg",
+      "simplified": "露营者",
+      "traditional": "露營者",
+      "pinyin": "lùyíng zhě"
+    },
+    {
+      "id": 241350,
+      "translation": {
+        "en": {
+          "short": "minibus",
+          "long": "a small passenger-carrying vehicle that is larger than a typical car but smaller than a full-sized bus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minibus",
+          "long": "Kendaraan pembawa penumpang kecil yang lebih besar dari mobil khas tetapi lebih kecil dari bus berukuran penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241350.jpeg",
+      "simplified": "小巴",
+      "traditional": "小巴",
+      "pinyin": "xiǎobā"
+    },
+    {
+      "id": 241353,
+      "translation": {
+        "en": {
+          "short": "moving van",
+          "long": "a large vehicle used for transporting furniture and other goods from one place to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "van bergerak",
+          "long": "Kendaraan besar yang digunakan untuk mengangkut furnitur dan barang -barang lainnya dari satu tempat ke tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241353.jpeg",
+      "simplified": "卡车（用于移动家具等）",
+      "traditional": "卡車（用於移動家具等）",
+      "pinyin": "kǎchē yòngyú yídòng jiājù děng"
+    },
+    {
+      "id": 241366,
+      "translation": {
+        "en": {
+          "short": "compartment",
+          "long": "any of the separate sections within a passenger train carriage, typically enclosed by walls and equipped with seats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kompartemen",
+          "long": "Salah satu bagian terpisah di dalam kereta kereta penumpang, biasanya dikelilingi oleh dinding dan dilengkapi dengan kursi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241366.jpeg",
+      "simplified": "包房",
+      "traditional": "包房",
+      "pinyin": "bāofáng"
+    },
+    {
+      "id": 241354,
+      "translation": {
+        "en": {
+          "short": "car",
+          "long": "one of the separate parts of a train where passengers sit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil",
+          "long": "Salah satu bagian terpisah dari kereta di mana penumpang duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241354.jpeg",
+      "simplified": "汽车",
+      "traditional": "汽車",
+      "pinyin": "qìchē"
+    },
+    {
+      "id": 241357,
+      "translation": {
+        "en": {
+          "short": "cab",
+          "long": "the part of a truck, bus, or train where the driver sits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taksi",
+          "long": "bagian dari truk, bus, atau kereta di mana pengemudi duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241357.jpeg",
+      "simplified": "座舱",
+      "traditional": "座艙",
+      "pinyin": "zuòcāng"
+    },
+    {
+      "id": 241360,
+      "translation": {
+        "en": {
+          "short": "scooter",
+          "long": "a light motor vehicle with a floorboard on which the rider puts their legs, and with wheels of usually small size",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skuter",
+          "long": "Kendaraan bermotor ringan dengan papan lantai tempat pengendara meletakkan kaki mereka, dan dengan roda dengan ukuran yang biasanya kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241360.jpeg",
+      "simplified": "摩托车",
+      "traditional": "摩托車",
+      "pinyin": "mótuō chē"
+    },
+    {
+      "id": 241362,
+      "translation": {
+        "en": {
+          "short": "deck",
+          "long": "a ship or boat's upper outside floor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kartu",
+          "long": "Lantai luar kapal atau kapal atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241362.jpeg",
+      "simplified": "甲板",
+      "traditional": "甲板",
+      "pinyin": "jiǎbǎn"
+    },
+    {
+      "id": 241363,
+      "translation": {
+        "en": {
+          "short": "cockpit",
+          "long": "the place where the pilot of an aircraft sits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kokpit",
+          "long": "Tempat di mana pilot pesawat duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241363.jpeg",
+      "simplified": "座舱",
+      "traditional": "座艙",
+      "pinyin": "zuòcāng"
+    },
+    {
+      "id": 241368,
+      "translation": {
+        "en": {
+          "short": "container",
+          "long": "a large metal box that is used for transporting goods on ships, trains, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wadah",
+          "long": "Kotak logam besar yang digunakan untuk mengangkut barang di atas kapal, kereta api, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241368.jpeg",
+      "simplified": "容器",
+      "traditional": "容器",
+      "pinyin": "róngqì"
+    },
+    {
+      "id": 241373,
+      "translation": {
+        "en": {
+          "short": "crossing",
+          "long": "a place where one is able to safely cross something, particularly a street",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan",
+          "long": "tempat di mana seseorang dapat dengan aman melintasi sesuatu, terutama jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241373.jpeg",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu"
+    },
+    {
+      "id": 241375,
+      "translation": {
+        "en": {
+          "short": "crossroad",
+          "long": "the place where a road is crossed by another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crossroad",
+          "long": "Tempat di mana jalan dilintasi oleh yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241375.jpeg",
+      "simplified": "逵",
+      "traditional": "逵",
+      "pinyin": "kuí"
+    },
+    {
+      "id": 241376,
+      "translation": {
+        "en": {
+          "short": "junction",
+          "long": "the place where two or more things such as roads or railways cross",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan jalan",
+          "long": "Tempat di mana dua atau lebih hal seperti jalan atau kereta api silang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241376.jpeg",
+      "simplified": "合流",
+      "traditional": "合流",
+      "pinyin": "héliú"
+    },
+    {
+      "id": 241378,
+      "translation": {
+        "en": {
+          "short": "access road",
+          "long": "a road providing access to another road or to a specific place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akses jalan",
+          "long": "jalan yang menyediakan akses ke jalan lain atau ke tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241378.jpeg",
+      "simplified": "通路",
+      "traditional": "通路",
+      "pinyin": "tōnglù"
+    },
+    {
+      "id": 241380,
+      "translation": {
+        "en": {
+          "short": "tunnel",
+          "long": "a passage dug through or under a mountain or a structure, typically for cars, trains, people, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terowongan",
+          "long": "Sebuah bagian yang digali melalui atau di bawah gunung atau struktur, biasanya untuk mobil, kereta api, orang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241380.jpeg",
+      "simplified": "隧道",
+      "traditional": "隧道",
+      "pinyin": "suìdào"
+    },
+    {
+      "id": 241381,
+      "translation": {
+        "en": {
+          "short": "sidewalk",
+          "long": "a pathway typically made of concrete or asphalt at the side of a street for people to walk on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trotoar",
+          "long": "Jalur yang biasanya terbuat dari beton atau aspal di sisi jalan bagi orang untuk berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241381.jpeg",
+      "simplified": "人行道",
+      "traditional": "人行道",
+      "pinyin": "rénxíng dào"
+    },
+    {
+      "id": 241383,
+      "translation": {
+        "en": {
+          "short": "crosswalk",
+          "long": "a marked place where people walk across a street",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crosswalk",
+          "long": "tempat yang ditandai di mana orang berjalan melintasi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241383.jpeg",
+      "simplified": "人行横道",
+      "traditional": "行人穿越道",
+      "pinyin": "rénxíng héng dào"
+    },
+    {
+      "id": 241387,
+      "translation": {
+        "en": {
+          "short": "boulevard",
+          "long": "a wide street in a town or city, typically with trees on each side or in the middle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan raya",
+          "long": "jalan lebar di kota atau kota, biasanya dengan pohon di setiap sisi atau di tengah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241387.jpeg",
+      "simplified": "一条宽阔、绿树成荫的城市街道",
+      "traditional": "一條寬闊、綠樹成蔭的城市街道",
+      "pinyin": "yī tiáo kuānkuò lǜshù chéng yīn de chéngshì jiēdào"
+    },
+    {
+      "id": 241388,
+      "translation": {
+        "en": {
+          "short": "traffic circle",
+          "long": "an area where two or more roads join and all the traffic must move in the same direction around a circular structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bundaran lalu lintas",
+          "long": "Area di mana dua atau lebih jalan bergabung dan semua lalu lintas harus bergerak ke arah yang sama di sekitar struktur melingkar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241388.jpeg",
+      "simplified": "交通圈",
+      "traditional": "交通圈",
+      "pinyin": "jiāotōng juān"
+    },
+    {
+      "id": 241390,
+      "translation": {
+        "en": {
+          "short": "fork",
+          "long": "the point at which a river, road, etc. splits into two parts; one of these parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garpu",
+          "long": "titik di mana sungai, jalan, dll. terbelah menjadi dua bagian; salah satu bagian ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241390.jpeg",
+      "simplified": "叉",
+      "traditional": "叉",
+      "pinyin": "chā"
+    },
+    {
+      "id": 241392,
+      "translation": {
+        "en": {
+          "short": "express lane",
+          "long": "the part of a road where vehicles can go faster due to light traffic there",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalur Ekspres",
+          "long": "Bagian dari jalan di mana kendaraan bisa berjalan lebih cepat karena lalu lintas ringan di sana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241392.jpeg",
+      "simplified": "快速车道",
+      "traditional": "快速車道",
+      "pinyin": "kuàisù chēdào"
+    },
+    {
+      "id": 241394,
+      "translation": {
+        "en": {
+          "short": "off-road",
+          "long": "able to be driven or ridden on rough ground",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "off-road",
+          "long": "dapat didorong atau dikendarai di tanah yang kasar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241394.jpeg",
+      "simplified": "越野",
+      "traditional": "越野",
+      "pinyin": "yuèyě"
+    },
+    {
+      "id": 385999,
+      "translation": {
+        "en": {
+          "short": "limousine",
+          "long": "a large, luxurious, and expensive car with a partition between the passengers and the driver",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limousine",
+          "long": "mobil besar, mewah, dan mahal dengan partisi antara penumpang dan pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385999.jpeg",
+      "simplified": "豪华轿车",
+      "traditional": "豪華轎車",
+      "pinyin": "háohuá jiào chē"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "id": 848,
+  "title": {
+    "en": "Religion",
+    "id": "Agama"
+  },
+  "description": {
+    "en": "Here you will learn some English words about religion, such as \"atheism\", \"Christian\", \"Jew\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang agama, seperti \"ateisme\", \"Kristen\", \"Yahudi\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 237996,
+      "translation": {
+        "en": {
+          "short": "altar",
+          "long": "the table in a church, used for giving communion in Christianity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "altar",
+          "long": "Meja di sebuah gereja, digunakan untuk memberikan persekutuan dalam agama Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237996.jpeg",
+      "simplified": "坛",
+      "traditional": "壇",
+      "pinyin": "tán"
+    },
+    {
+      "id": 238019,
+      "translation": {
+        "en": {
+          "short": "cross",
+          "long": "a representation of the structure on which Jesus Christ was executed, used as a symbol of Christianity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyeberang",
+          "long": "representasi struktur tempat Yesus Kristus dieksekusi, digunakan sebagai simbol Kekristenan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238019.jpeg",
+      "simplified": "十字架",
+      "traditional": "十字架",
+      "pinyin": "shízì jià"
+    },
+    {
+      "id": 237997,
+      "translation": {
+        "en": {
+          "short": "atheism",
+          "long": "the belief that rejects the existence of God or a higher power",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ateisme",
+          "long": "Keyakinan yang menolak keberadaan Tuhan atau kekuatan yang lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237997.jpeg",
+      "simplified": "无神论",
+      "traditional": "無神論",
+      "pinyin": "wúshén lùn"
+    },
+    {
+      "id": 237998,
+      "translation": {
+        "en": {
+          "short": "Buddhism",
+          "long": "an Indian religion based on the teachings of Siddhartha Gautama, whose followers worship in temples",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Buddhisme",
+          "long": "agama India berdasarkan ajaran Siddhartha Gautama, yang pengikutnya beribadah di kuil -kuil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237998.jpeg",
+      "simplified": "佛教",
+      "traditional": "佛教",
+      "pinyin": "Fójiào"
+    },
+    {
+      "id": 238010,
+      "translation": {
+        "en": {
+          "short": "Christian",
+          "long": "a person who believes in the teachings of Jesus or has been baptized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kristen",
+          "long": "seseorang yang percaya pada ajaran Yesus atau telah dibaptis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238010.jpeg",
+      "simplified": "基督教徒",
+      "traditional": "基督教徒",
+      "pinyin": "Jīdū jiào tú"
+    },
+    {
+      "id": 238011,
+      "translation": {
+        "en": {
+          "short": "Christianity",
+          "long": "the Abrahamic religion based on the teachings of Jesus of Nazareth, the followers of which regard the Bible as sacred",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kekristenan",
+          "long": "Agama Abraham berdasarkan ajaran Yesus Nazaret, yang pengikutnya menganggap Alkitab sebagai sakral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238011.jpeg",
+      "simplified": "基督教",
+      "traditional": "基督教",
+      "pinyin": "Jīdū jiào"
+    },
+    {
+      "id": 237993,
+      "translation": {
+        "en": {
+          "short": "Hindu",
+          "long": "a person who believes in Hinduism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hindu",
+          "long": "seseorang yang percaya pada Hinduisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237993.jpeg",
+      "simplified": "印度教",
+      "traditional": "印度教",
+      "pinyin": "Yìndù jiào"
+    },
+    {
+      "id": 237994,
+      "translation": {
+        "en": {
+          "short": "Jew",
+          "long": "a person who believes in Judaism and belongs to the Jewish community",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Yahudi",
+          "long": "seseorang yang percaya pada Yudaisme dan milik komunitas Yahudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237994.jpeg",
+      "simplified": "犹",
+      "traditional": "猶",
+      "pinyin": "yóu"
+    },
+    {
+      "id": 237995,
+      "translation": {
+        "en": {
+          "short": "Jewish",
+          "long": "related to the religion, culture, or people of Judaism",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Yahudi",
+          "long": "terkait dengan agama, budaya, atau orang -orang Yudaisme",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237995.jpeg",
+      "simplified": "犹太人",
+      "traditional": "猶太人",
+      "pinyin": "Yóutài rén"
+    },
+    {
+      "id": 238009,
+      "translation": {
+        "en": {
+          "short": "Muslim",
+          "long": "a person who believes in Islam",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Muslim",
+          "long": "seseorang yang percaya pada Islam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238009.jpeg",
+      "simplified": "穆斯林",
+      "traditional": "穆斯林",
+      "pinyin": "Mùsī lín"
+    },
+    {
+      "id": 238001,
+      "translation": {
+        "en": {
+          "short": "pagan",
+          "long": "a person believing in a religion that worships many deities, especially one that existed before the major world religions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyembah berhala",
+          "long": "Seseorang yang percaya pada agama yang memuja banyak dewa, terutama yang ada di hadapan agama -agama utama dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238001.jpeg",
+      "simplified": "异教徒",
+      "traditional": "異教徒",
+      "pinyin": "yìjiào tú"
+    },
+    {
+      "id": 237991,
+      "translation": {
+        "en": {
+          "short": "lord",
+          "long": "a title referring to God in Christianity and Judaism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "yang mulia",
+          "long": "judul yang mengacu pada Tuhan dalam Kekristenan dan Yudaisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237991.jpeg",
+      "simplified": "上帝（基督教和犹太教）",
+      "traditional": "上帝（基督教和猶太教）",
+      "pinyin": "Shàngdì Jīdū jiào Hé Yóutài jiào"
+    },
+    {
+      "id": 238000,
+      "translation": {
+        "en": {
+          "short": "bible",
+          "long": "the holy book of Christianity that consists of the Old Testament and the New Testament",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Alkitab",
+          "long": "Kitab Kudus Kekristenan yang terdiri dari Perjanjian Lama dan Perjanjian Baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238000.jpeg",
+      "simplified": "圣经",
+      "traditional": "聖經",
+      "pinyin": "Shèngjīng"
+    },
+    {
+      "id": 237999,
+      "translation": {
+        "en": {
+          "short": "Gospel",
+          "long": "any of the four books of the New Testament that is about the life and teachings of Jesus Christ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Injil",
+          "long": "Salah satu dari empat buku Perjanjian Baru yaitu tentang kehidupan dan ajaran Yesus Kristus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237999.jpeg",
+      "simplified": "福音",
+      "traditional": "福音",
+      "pinyin": "fúyīn"
+    },
+    {
+      "id": 237988,
+      "translation": {
+        "en": {
+          "short": "heaven",
+          "long": "the realm of God and angels where the believers are promised to reside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surga",
+          "long": "Ranah Tuhan dan Malaikat di mana orang -orang percaya dijanjikan untuk tinggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237988.jpeg",
+      "simplified": "天堂",
+      "traditional": "天堂",
+      "pinyin": "tiāntáng"
+    },
+    {
+      "id": 237989,
+      "translation": {
+        "en": {
+          "short": "hell",
+          "long": "the realm of Satan and the evil forces in which sinners suffer after death eternally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "neraka",
+          "long": "ranah Setan dan kekuatan jahat di mana orang berdosa menderita setelah kematian selamanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237989.jpeg",
+      "simplified": "地狱",
+      "traditional": "地獄",
+      "pinyin": "dìyù"
+    },
+    {
+      "id": 237990,
+      "translation": {
+        "en": {
+          "short": "sin",
+          "long": "any act that goes against the law of God",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dosa",
+          "long": "tindakan apa pun yang bertentangan dengan hukum Tuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237990.jpeg",
+      "simplified": "罪",
+      "traditional": "罪",
+      "pinyin": "zuì"
+    },
+    {
+      "id": 238002,
+      "translation": {
+        "en": {
+          "short": "vice",
+          "long": "any immoral act that is against the law of God",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keburukan",
+          "long": "tindakan tidak bermoral apa pun yang bertentangan dengan hukum Tuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238002.jpeg",
+      "simplified": "恶",
+      "traditional": "惡",
+      "pinyin": "ě"
+    },
+    {
+      "id": 237992,
+      "translation": {
+        "en": {
+          "short": "grace",
+          "long": "a state of being blessed by God",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berkah",
+          "long": "keadaan diberkati oleh Tuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237992.jpeg",
+      "simplified": "上帝的恩典",
+      "traditional": "上帝的恩典",
+      "pinyin": "Shàngdì de ēndiǎn"
+    },
+    {
+      "id": 238003,
+      "translation": {
+        "en": {
+          "short": "pride",
+          "long": "the quality of having excessive self-esteem that is considered a sin in religious beliefs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebanggaan",
+          "long": "Kualitas memiliki harga diri yang berlebihan yang dianggap sebagai dosa dalam kepercayaan agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238003.jpeg",
+      "simplified": "傲慢",
+      "traditional": "傲慢",
+      "pinyin": "àomàn"
+    },
+    {
+      "id": 238004,
+      "translation": {
+        "en": {
+          "short": "greed",
+          "long": "an intense and selfish desire for something such as power and wealth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketamakan",
+          "long": "keinginan yang intens dan egois untuk sesuatu seperti kekuatan dan kekayaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238004.jpeg",
+      "simplified": "贪婪",
+      "traditional": "貪婪",
+      "pinyin": "tānlán"
+    },
+    {
+      "id": 238005,
+      "translation": {
+        "en": {
+          "short": "lust",
+          "long": "the excessive desire for having sexual affairs considered to be a sin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nafsu",
+          "long": "Keinginan berlebihan untuk memiliki urusan seksual dianggap sebagai dosa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238005.jpeg",
+      "simplified": "情欲",
+      "traditional": "情慾",
+      "pinyin": "qíngyù"
+    },
+    {
+      "id": 238006,
+      "translation": {
+        "en": {
+          "short": "envy",
+          "long": "a feeling of dissatisfaction, unhappiness, or anger that one might have as a result of wanting what others have",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "iri",
+          "long": "perasaan ketidakpuasan, ketidakbahagiaan, atau kemarahan yang mungkin dimiliki seseorang sebagai akibat dari menginginkan apa yang dimiliki orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238006.jpeg",
+      "simplified": "羡慕",
+      "traditional": "羨慕",
+      "pinyin": "xiànmù"
+    },
+    {
+      "id": 238007,
+      "translation": {
+        "en": {
+          "short": "laziness",
+          "long": "the state of being inactive or doing nothing considered to be a sin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemalasan",
+          "long": "Keadaan tidak aktif atau tidak melakukan apa pun yang dianggap sebagai dosa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238007.jpeg",
+      "simplified": "怠惰",
+      "traditional": "怠惰",
+      "pinyin": "dàiduò"
+    },
+    {
+      "id": 238008,
+      "translation": {
+        "en": {
+          "short": "to confess",
+          "long": "to admit one's faults and sins in front of a priest",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengakui",
+          "long": "untuk mengakui kesalahan dan dosa seseorang di depan seorang imam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238008.jpeg",
+      "simplified": "承认自己的罪过",
+      "traditional": "承認自己的罪過",
+      "pinyin": "chéngrèn zìjǐ de zuìguo"
+    },
+    {
+      "id": 238012,
+      "translation": {
+        "en": {
+          "short": "to convert",
+          "long": "to change one's religious beliefs to a different one",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengubah",
+          "long": "mengubah keyakinan agama seseorang menjadi yang berbeda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238012.jpeg",
+      "simplified": "皈依另一种宗教",
+      "traditional": "皈依另一種宗教",
+      "pinyin": "guīyī lìngyī zhǒng zōngjiào"
+    },
+    {
+      "id": 239645,
+      "translation": {
+        "en": {
+          "short": "to forgive",
+          "long": "to stop being angry or blaming someone for what they have done, and to choose not to punish them for their mistakes or flaws",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memaafkan",
+          "long": "untuk berhenti menjadi marah atau menyalahkan seseorang atas apa yang telah mereka lakukan, dan memilih untuk tidak menghukum mereka atas kesalahan atau kekurangan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239645.jpeg",
+      "simplified": "原谅某人",
+      "traditional": "原諒某人",
+      "pinyin": "yuánliàng mǒurén"
+    },
+    {
+      "id": 238018,
+      "translation": {
+        "en": {
+          "short": "to trust",
+          "long": "to believe that someone is sincere, reliable, or competent",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mempercayai",
+          "long": "percaya bahwa seseorang itu tulus, dapat diandalkan, atau kompeten",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238018.jpeg",
+      "simplified": "信任某人",
+      "traditional": "信任某人",
+      "pinyin": "xìnrèn mǒurén"
+    },
+    {
+      "id": 238013,
+      "translation": {
+        "en": {
+          "short": "devil",
+          "long": "the spirit that opposes God and tempts people to do wrong",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "iblis",
+          "long": "Roh yang menentang Tuhan dan menggoda orang untuk melakukan kesalahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238013.jpeg",
+      "simplified": "魔鬼",
+      "traditional": "魔鬼",
+      "pinyin": "móguǐ"
+    },
+    {
+      "id": 238014,
+      "translation": {
+        "en": {
+          "short": "prophet",
+          "long": "a person who speaks to God and leads people to do right things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nabi",
+          "long": "seseorang yang berbicara kepada Tuhan dan menuntun orang untuk melakukan hal yang benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238014.jpeg",
+      "simplified": "预言家",
+      "traditional": "預言家",
+      "pinyin": "yùyán jiā"
+    },
+    {
+      "id": 238015,
+      "translation": {
+        "en": {
+          "short": "minister",
+          "long": "a trained individual who performs religious ceremonies, leads worship services, or provides spiritual guidance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menteri",
+          "long": "Seorang individu terlatih yang melakukan upacara keagamaan, memimpin kebaktian, atau memberikan bimbingan rohani",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238015.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 238016,
+      "translation": {
+        "en": {
+          "short": "service",
+          "long": "a religious ceremony of worship following a particular form, especially one held in a church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melayani",
+          "long": "Upacara keagamaan ibadah mengikuti bentuk tertentu, terutama yang diadakan di sebuah gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238016.jpeg",
+      "simplified": "仪式（教堂）",
+      "traditional": "儀式（教堂）",
+      "pinyin": "yíshì jiàotáng"
+    },
+    {
+      "id": 238017,
+      "translation": {
+        "en": {
+          "short": "soul",
+          "long": "the spiritual part of a person that is believed to be the essence of life in them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jiwa",
+          "long": "bagian spiritual dari seseorang yang diyakini sebagai esensi kehidupan di dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238017.jpeg",
+      "simplified": "人的灵魂",
+      "traditional": "人的靈魂",
+      "pinyin": "rén de línghún"
+    },
+    {
+      "id": 239822,
+      "translation": {
+        "en": {
+          "short": "spiritual",
+          "long": "relating to sacred matters such as religion, church, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rohani",
+          "long": "Berkaitan dengan hal -hal sakral seperti agama, gereja, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239822.jpeg",
+      "simplified": "精神",
+      "traditional": "精神",
+      "pinyin": "jīngshén"
+    },
+    {
+      "id": 263407,
+      "translation": {
+        "en": {
+          "short": "grave",
+          "long": "a hole made in the ground for burying a dead body in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuburan",
+          "long": "sebuah lubang yang dibuat di tanah untuk mengubur mayat di",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263407.jpeg",
+      "simplified": "坟墓",
+      "traditional": "墳墓",
+      "pinyin": "fénmù"
+    },
+    {
+      "id": 264017,
+      "translation": {
+        "en": {
+          "short": "godchild",
+          "long": "(Christianity) a child to whom at a baptism ceremony a godparent promises to help take care of and teach them about the religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak permandian",
+          "long": "(Kekristenan) Seorang anak yang kepada siapa pada upacara pembaptisan janji -janji baptis untuk membantu mengurus dan mengajar mereka tentang agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264017.jpeg",
+      "simplified": "教子",
+      "traditional": "教子",
+      "pinyin": "jiàozǐ"
+    },
+    {
+      "id": 264892,
+      "translation": {
+        "en": {
+          "short": "devout",
+          "long": "believing firmly in a particular religion",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "taat",
+          "long": "percaya dengan kuat dalam agama tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264892.jpeg",
+      "simplified": "虔诚的",
+      "traditional": "虔誠的",
+      "pinyin": "qiánchéng de"
+    },
+    {
+      "id": 265007,
+      "translation": {
+        "en": {
+          "short": "godfather",
+          "long": "(Christianity) a man who promises to take care of a child and teach them about the religion at a baptism ceremony",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah baptis",
+          "long": "(Kekristenan) Seorang pria yang berjanji untuk merawat anak dan mengajari mereka tentang agama pada upacara pembaptisan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265007.jpeg",
+      "simplified": "教父",
+      "traditional": "教父",
+      "pinyin": "jiàofù"
+    },
+    {
+      "id": 265009,
+      "translation": {
+        "en": {
+          "short": "godmother",
+          "long": "(Christianity) a woman who, during a baptism ceremony, promises to take care of a child and teach them about the religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ibu baptis",
+          "long": "(Kekristenan) Seorang wanita yang, selama upacara pembaptisan, berjanji untuk merawat seorang anak dan mengajar mereka tentang agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265009.jpeg",
+      "simplified": "教母",
+      "traditional": "教母",
+      "pinyin": "jiàomǔ"
+    },
+    {
+      "id": 265462,
+      "translation": {
+        "en": {
+          "short": "karma",
+          "long": "a belief that one will get the reward or face the consequences of one's good or bad actions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karma",
+          "long": "Keyakinan bahwa seseorang akan mendapatkan hadiah atau menghadapi konsekuensi dari tindakan baik atau buruk seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265462.jpeg",
+      "simplified": "因果",
+      "traditional": "因果",
+      "pinyin": "yīnguǒ"
+    }
+  ]
+}

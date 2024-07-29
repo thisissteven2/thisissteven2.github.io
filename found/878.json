@@ -1,0 +1,659 @@
+{
+  "id": 878,
+  "title": {
+    "en": "City Structures",
+    "id": "Struktur Kota"
+  },
+  "description": {
+    "en": "Here you will learn some English words about city structures, such as \"abandoned\", \"classical\", \"external\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang struktur kota, seperti \"ditinggalkan\", \"klasik\", \"eksternal\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 239257,
+      "translation": {
+        "en": {
+          "short": "abandoned",
+          "long": "(of a building, car, etc.) left and not needed or used anymore",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ditinggalkan",
+          "long": "(dari bangunan, mobil, dll.) Kiri dan tidak diperlukan atau digunakan lagi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239257.jpeg",
+      "simplified": "弃",
+      "traditional": "棄",
+      "pinyin": "qì"
+    },
+    {
+      "id": 239259,
+      "translation": {
+        "en": {
+          "short": "classical",
+          "long": "affected by or related to the culture of ancient Rome and Greece",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "klasik",
+          "long": "terpengaruh atau terkait dengan budaya Roma dan Yunani kuno",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239259.jpeg",
+      "simplified": "古典",
+      "traditional": "古典",
+      "pinyin": "gǔdiǎn"
+    },
+    {
+      "id": 239272,
+      "translation": {
+        "en": {
+          "short": "external",
+          "long": "located on or related to the outer surface of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luar",
+          "long": "terletak di atau terkait dengan permukaan luar sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239272.jpeg",
+      "simplified": "外部的",
+      "traditional": "外部的",
+      "pinyin": "wàibù de"
+    },
+    {
+      "id": 239876,
+      "translation": {
+        "en": {
+          "short": "industrial",
+          "long": "related to the manufacturing or production of goods on a large scale",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "industri",
+          "long": "terkait dengan pembuatan atau produksi barang dalam skala besar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239876.jpeg",
+      "simplified": "工业的",
+      "traditional": "工業的",
+      "pinyin": "gōngyè de"
+    },
+    {
+      "id": 239276,
+      "translation": {
+        "en": {
+          "short": "open-plan",
+          "long": "(of buildings or rooms) having few or no internal walls, creating a large, open space",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rencana terbuka",
+          "long": "(bangunan atau kamar) memiliki sedikit atau tidak ada dinding internal, menciptakan ruang terbuka yang besar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239276.jpeg",
+      "simplified": "开放式",
+      "traditional": "開放式",
+      "pinyin": "kāifàng shì"
+    },
+    {
+      "id": 239281,
+      "translation": {
+        "en": {
+          "short": "spacious",
+          "long": "(of a room, house, etc.) large with a lot of space inside",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luas",
+          "long": "(dari ruangan, rumah, dll.) Besar dengan banyak ruang di dalamnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239281.jpeg",
+      "simplified": "宽敞",
+      "traditional": "寬敞",
+      "pinyin": "kuānchang"
+    },
+    {
+      "id": 239266,
+      "translation": {
+        "en": {
+          "short": "to construct",
+          "long": "to build a house, bridge, machine, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membangun",
+          "long": "Untuk membangun rumah, jembatan, mesin, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239266.jpeg",
+      "simplified": "构造",
+      "traditional": "構造",
+      "pinyin": "gòuzào"
+    },
+    {
+      "id": 239258,
+      "translation": {
+        "en": {
+          "short": "brick",
+          "long": "a block of baked clay, mostly used to build houses, walls, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bata",
+          "long": "Satu balok tanah liat yang dipanggang, sebagian besar digunakan untuk membangun rumah, dinding, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239258.jpeg",
+      "simplified": "砖",
+      "traditional": "磚",
+      "pinyin": "zhuān"
+    },
+    {
+      "id": 239264,
+      "translation": {
+        "en": {
+          "short": "column",
+          "long": "a vertical structural element, often made of stone, that supports the weight of the building above it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom",
+          "long": "elemen struktural vertikal, sering terbuat dari batu, yang mendukung berat bangunan di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239264.jpeg",
+      "simplified": "柱",
+      "traditional": "柱",
+      "pinyin": "zhù"
+    },
+    {
+      "id": 239265,
+      "translation": {
+        "en": {
+          "short": "concrete",
+          "long": "a hard material used for building a house, etc. that is made of the mixture of cement, water, sand, and small stones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konkret",
+          "long": "Bahan keras yang digunakan untuk membangun rumah, dll. Yang terbuat dari campuran semen, air, pasir, dan batu kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239265.jpeg",
+      "simplified": "具体的",
+      "traditional": "具體的",
+      "pinyin": "jùtǐ de"
+    },
+    {
+      "id": 239268,
+      "translation": {
+        "en": {
+          "short": "development",
+          "long": "a piece of land that new buildings are being built or are planned to be built, often with the purpose of urban expansion or improvement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkembangan",
+          "long": "sebidang tanah yang sedang dibangun atau direncanakan akan dibangun, seringkali dengan tujuan ekspansi atau perbaikan perkotaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239268.jpeg",
+      "simplified": "发育",
+      "traditional": "發育",
+      "pinyin": "fāyù"
+    },
+    {
+      "id": 239269,
+      "translation": {
+        "en": {
+          "short": "digger",
+          "long": "a machine used for digging earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggali",
+          "long": "mesin yang digunakan untuk menggali bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239269.jpeg",
+      "simplified": "挖掘机",
+      "traditional": "挖掘機",
+      "pinyin": "wājué jī"
+    },
+    {
+      "id": 239277,
+      "translation": {
+        "en": {
+          "short": "passage",
+          "long": "a narrow hallway that provides access to rooms inside a building or between other buildings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan",
+          "long": "lorong sempit yang menyediakan akses ke kamar di dalam gedung atau di antara bangunan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239277.jpeg",
+      "simplified": "门厅",
+      "traditional": "門廳",
+      "pinyin": "méntīng"
+    },
+    {
+      "id": 239271,
+      "translation": {
+        "en": {
+          "short": "exit",
+          "long": "a part of a road through which vehicles can move on to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "KELUAR",
+          "long": "bagian dari jalan di mana kendaraan dapat pindah ke yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239271.jpeg",
+      "simplified": "出口",
+      "traditional": "出口",
+      "pinyin": "chūkǒu"
+    },
+    {
+      "id": 239273,
+      "translation": {
+        "en": {
+          "short": "hut",
+          "long": "a small simple house or shelter that usually has only one room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pondok",
+          "long": "rumah atau tempat berlindung sederhana yang biasanya hanya memiliki satu kamar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239273.jpeg",
+      "simplified": "棚屋",
+      "traditional": "棚屋",
+      "pinyin": "péng wū"
+    },
+    {
+      "id": 239659,
+      "translation": {
+        "en": {
+          "short": "to level",
+          "long": "to destroy a building, area, etc. completely",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke tingkat",
+          "long": "untuk menghancurkan bangunan, area, dll. Sepenuhnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239659.jpeg",
+      "simplified": "铺平",
+      "traditional": "鋪平",
+      "pinyin": "pūpíng"
+    },
+    {
+      "id": 239278,
+      "translation": {
+        "en": {
+          "short": "to rebuild",
+          "long": "to build something once again, after it has been destroyed or severely damaged",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membangun kembali",
+          "long": "untuk membangun sesuatu sekali lagi, setelah dihancurkan atau rusak parah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239278.jpeg",
+      "simplified": "重建",
+      "traditional": "重建",
+      "pinyin": "chóngjiàn"
+    },
+    {
+      "id": 239280,
+      "translation": {
+        "en": {
+          "short": "ruin",
+          "long": "(plural) the remains of something such as a building after it has been seriously damaged or destroyed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghancurkan",
+          "long": "(jamak) Sisa -sisa sesuatu seperti bangunan setelah itu rusak atau hancur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239280.jpeg",
+      "simplified": "废墟",
+      "traditional": "廢墟",
+      "pinyin": "fèixū"
+    },
+    {
+      "id": 239263,
+      "translation": {
+        "en": {
+          "short": "curb",
+          "long": "the raised edge at the side of a street, usually made of stone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengendalikan",
+          "long": "tepi terangkat di sisi jalan, biasanya terbuat dari batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239263.jpeg",
+      "simplified": "路边",
+      "traditional": "路邊",
+      "pinyin": "lùbiān"
+    },
+    {
+      "id": 239452,
+      "translation": {
+        "en": {
+          "short": "landfill",
+          "long": "a piece of land under which waste material is buried",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "TPA",
+          "long": "sebidang tanah di mana bahan limbah terkubur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239452.jpeg",
+      "simplified": "垃圾填埋场",
+      "traditional": "垃圾填埋場",
+      "pinyin": "lājī tián mái cháng"
+    },
+    {
+      "id": 239284,
+      "translation": {
+        "en": {
+          "short": "sewer",
+          "long": "a system of underground pipes and tunnels used to carry away used water and waste matter from houses, factories, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selokan",
+          "long": "Sistem pipa bawah tanah dan terowongan yang digunakan untuk membawa air bekas dan limbah dari rumah, pabrik, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239284.jpeg",
+      "simplified": "下水道",
+      "traditional": "下水道",
+      "pinyin": "xiàshuǐ dào"
+    },
+    {
+      "id": 239274,
+      "translation": {
+        "en": {
+          "short": "landmark",
+          "long": "a structure or a place that is historically important",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tengara",
+          "long": "struktur atau tempat yang secara historis penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239274.jpeg",
+      "simplified": "重要历史建筑",
+      "traditional": "重要歷史建築",
+      "pinyin": "zhòngyào lìshǐ jiànzhù"
+    },
+    {
+      "id": 239275,
+      "translation": {
+        "en": {
+          "short": "monument",
+          "long": "a structure built in honor of a public figure or a special event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Monumen",
+          "long": "Struktur yang dibangun untuk menghormati figur publik atau acara khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239275.jpeg",
+      "simplified": "纪念碑",
+      "traditional": "紀念碑",
+      "pinyin": "jìniàn bēi"
+    },
+    {
+      "id": 239451,
+      "translation": {
+        "en": {
+          "short": "facility",
+          "long": "a place or a building is designed and equipped for a specific function, such as healthcare, education, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fasilitas",
+          "long": "Tempat atau bangunan dirancang dan dilengkapi untuk fungsi tertentu, seperti perawatan kesehatan, pendidikan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239451.jpeg",
+      "simplified": "建筑",
+      "traditional": "建築",
+      "pinyin": "jiànzhù"
+    },
+    {
+      "id": 239286,
+      "translation": {
+        "en": {
+          "short": "casino",
+          "long": "a place where people play and bet their money on gambling games",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kasino",
+          "long": "tempat di mana orang bermain dan bertaruh uang mereka pada game judi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239286.jpeg",
+      "simplified": "赌场",
+      "traditional": "賭場",
+      "pinyin": "dǔchǎng"
+    },
+    {
+      "id": 239267,
+      "translation": {
+        "en": {
+          "short": "courthouse",
+          "long": "a building containing judicial courts, offices of judges, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gedung pengadilan",
+          "long": "Sebuah bangunan yang berisi pengadilan peradilan, kantor hakim, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239267.jpeg",
+      "simplified": "法院大楼",
+      "traditional": "法院大樓",
+      "pinyin": "fǎyuàn dàlóu"
+    },
+    {
+      "id": 239287,
+      "translation": {
+        "en": {
+          "short": "disco",
+          "long": "a place or party at which people dance to music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disko",
+          "long": "tempat atau pesta di mana orang menari untuk musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239287.jpeg",
+      "simplified": "迪斯科",
+      "traditional": "迪斯科",
+      "pinyin": "dísī kē"
+    },
+    {
+      "id": 239285,
+      "translation": {
+        "en": {
+          "short": "nursing home",
+          "long": "a private institute where old people live and are taken care of",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panti jompo",
+          "long": "lembaga pribadi tempat orang tua tinggal dan dirawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239285.jpeg",
+      "simplified": "疗养院",
+      "traditional": "療養院",
+      "pinyin": "liáoyǎng yuàn"
+    },
+    {
+      "id": 239279,
+      "translation": {
+        "en": {
+          "short": "schoolhouse",
+          "long": "a small building, often in a village, that is used as a school",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gedung sekolah",
+          "long": "sebuah bangunan kecil, sering di sebuah desa, yang digunakan sebagai sekolah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239279.jpeg",
+      "simplified": "校舍",
+      "traditional": "校舍",
+      "pinyin": "xiàoshè"
+    },
+    {
+      "id": 239703,
+      "translation": {
+        "en": {
+          "short": "structure",
+          "long": "anything that is built from several parts, such as a house, bridge, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "struktur",
+          "long": "Apa pun yang dibangun dari beberapa bagian, seperti rumah, jembatan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239703.jpeg",
+      "simplified": "结构",
+      "traditional": "結構",
+      "pinyin": "jiégòu"
+    },
+    {
+      "id": 239283,
+      "translation": {
+        "en": {
+          "short": "town hall",
+          "long": "a building in which the officials of a town work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Balai Kota",
+          "long": "sebuah bangunan di mana para pejabat pekerjaan kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239283.jpeg",
+      "simplified": "市政厅",
+      "traditional": "市政廳",
+      "pinyin": "shìzhèng tīng"
+    },
+    {
+      "id": 239289,
+      "translation": {
+        "en": {
+          "short": "funeral home",
+          "long": "a place where dead bodies are prepared in order to be buried or burned",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah duka",
+          "long": "Tempat di mana mayat disiapkan untuk dikuburkan atau dibakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239289.jpeg",
+      "simplified": "殡仪馆",
+      "traditional": "殯儀館",
+      "pinyin": "bìnyí guǎn"
+    },
+    {
+      "id": 239288,
+      "translation": {
+        "en": {
+          "short": "graveyard",
+          "long": "a piece of land where dead people are buried, often situated near a church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makam",
+          "long": "sebidang tanah tempat orang mati dimakamkan, sering terletak di dekat sebuah gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239288.jpeg",
+      "simplified": "墓地",
+      "traditional": "墓地",
+      "pinyin": "mùdì"
+    },
+    {
+      "id": 239282,
+      "translation": {
+        "en": {
+          "short": "tomb",
+          "long": "an overground or underground grave that is large in size and is often made of stone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makam",
+          "long": "kuburan overground atau bawah tanah yang berukuran besar dan sering terbuat dari batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239282.jpeg",
+      "simplified": "墓",
+      "traditional": "墓",
+      "pinyin": "mù"
+    }
+  ]
+}

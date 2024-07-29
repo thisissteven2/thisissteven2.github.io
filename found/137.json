@@ -1,0 +1,602 @@
+{
+  "id": 137,
+  "title": {
+    "en": "The Weather",
+    "id": "Cuaca"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the weather, such as \"climate\", \"condition\",  and \"foggy\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang cuaca, seperti \"iklim\", \"kondisi\", dan \"berkabut\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 212436,
+      "translation": {
+        "en": {
+          "short": "climate",
+          "long": "the typical weather conditions of a particular region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "iklim",
+          "long": "kondisi cuaca khas dari wilayah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212436.jpeg",
+      "simplified": "气候",
+      "traditional": "氣候",
+      "pinyin": "qìhòu"
+    },
+    {
+      "id": 221520,
+      "translation": {
+        "en": {
+          "short": "condition",
+          "long": "the state of something at a particular time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kondisi",
+          "long": "keadaan sesuatu pada waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221520.jpeg",
+      "simplified": "条件",
+      "traditional": "條件",
+      "pinyin": "tiáojiàn"
+    },
+    {
+      "id": 212439,
+      "translation": {
+        "en": {
+          "short": "air",
+          "long": "the mixture of gases in the atmosphere that we breathe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "udara",
+          "long": "campuran gas di atmosfer yang kita hirup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212439.jpeg",
+      "simplified": "空气",
+      "traditional": "空氣",
+      "pinyin": "kōngqì"
+    },
+    {
+      "id": 221509,
+      "translation": {
+        "en": {
+          "short": "cold",
+          "long": "the temperature that is below what is considered normal or comfortable for a particular thing, person, or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dingin",
+          "long": "suhu yang ada di bawah apa yang dianggap normal atau nyaman untuk hal, orang, atau tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221509.jpeg",
+      "simplified": "寒冷",
+      "traditional": "寒冷",
+      "pinyin": "hánlěng"
+    },
+    {
+      "id": 212433,
+      "translation": {
+        "en": {
+          "short": "heat",
+          "long": "a state of having a higher than normal temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panas",
+          "long": "keadaan memiliki suhu yang lebih tinggi dari normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212433.jpeg",
+      "simplified": "热",
+      "traditional": "熱",
+      "pinyin": "rè"
+    },
+    {
+      "id": 212428,
+      "translation": {
+        "en": {
+          "short": "wind",
+          "long": "air that moves quickly or strongly in a current as a result of natural forces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angin",
+          "long": "udara yang bergerak cepat atau kuat dalam arus sebagai akibat dari kekuatan alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212428.jpeg",
+      "simplified": "风",
+      "traditional": "風",
+      "pinyin": "fēng"
+    },
+    {
+      "id": 212429,
+      "translation": {
+        "en": {
+          "short": "windy",
+          "long": "having a lot of strong winds",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berangin",
+          "long": "memiliki banyak angin kencang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212429.jpeg",
+      "simplified": "有风的",
+      "traditional": "有風的",
+      "pinyin": "yǒufēng de"
+    },
+    {
+      "id": 212413,
+      "translation": {
+        "en": {
+          "short": "fog",
+          "long": "a thick cloud close to the ground that makes it hard to see through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabut",
+          "long": "awan tebal dekat dengan tanah yang membuatnya sulit dilihat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212413.jpeg",
+      "simplified": "雾",
+      "traditional": "霧",
+      "pinyin": "wù"
+    },
+    {
+      "id": 212414,
+      "translation": {
+        "en": {
+          "short": "foggy",
+          "long": "filled with fog",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berkabut",
+          "long": "diisi dengan kabut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212414.jpeg",
+      "simplified": "大雾天气",
+      "traditional": "大霧天氣",
+      "pinyin": "dàwù tiānqì"
+    },
+    {
+      "id": 221506,
+      "translation": {
+        "en": {
+          "short": "breeze",
+          "long": "a gentle and usually pleasant wind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angin semilir",
+          "long": "Angin yang lembut dan biasanya menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221506.jpeg",
+      "simplified": "微风",
+      "traditional": "微風",
+      "pinyin": "wēifēng"
+    },
+    {
+      "id": 212422,
+      "translation": {
+        "en": {
+          "short": "storm",
+          "long": "a strong and noisy event in the sky with heavy rain, thunder, lightning, and strong winds.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badai",
+          "long": "Peristiwa yang kuat dan berisik di langit dengan hujan lebat, guntur, kilat, dan angin kencang.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212422.jpeg",
+      "simplified": "风暴",
+      "traditional": "風暴",
+      "pinyin": "fēngbào"
+    },
+    {
+      "id": 221516,
+      "translation": {
+        "en": {
+          "short": "stormy",
+          "long": "(of weather) with strong wind and often heavy rain and thick clouds",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "badai",
+          "long": "(cuaca) dengan angin kencang dan sering hujan lebat dan awan tebal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221516.jpeg",
+      "simplified": "暴风雨的",
+      "traditional": "暴風雨的",
+      "pinyin": "bàofēng yǔ de"
+    },
+    {
+      "id": 221505,
+      "translation": {
+        "en": {
+          "short": "blizzard",
+          "long": "a storm with heavy snowfall and strong winds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badai salju",
+          "long": "badai dengan salju deras dan angin kencang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221505.jpeg",
+      "simplified": "暴风雪",
+      "traditional": "暴風雪",
+      "pinyin": "bàofēng xuě"
+    },
+    {
+      "id": 212425,
+      "translation": {
+        "en": {
+          "short": "thunderstorm",
+          "long": "‌a storm with thunder and lightning and often heavy rain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hujan badai",
+          "long": "‌ badai dengan guntur dan kilat dan sering hujan lebat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212425.jpeg",
+      "simplified": "雷雨",
+      "traditional": "雷雨",
+      "pinyin": "léiyǔ"
+    },
+    {
+      "id": 221517,
+      "translation": {
+        "en": {
+          "short": "hail",
+          "long": "small and round balls of ice falling from the sky like rain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memanggil",
+          "long": "Bola es kecil dan bulat jatuh dari langit seperti hujan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221517.jpeg",
+      "simplified": "雹暴",
+      "traditional": "雹暴",
+      "pinyin": "báobào"
+    },
+    {
+      "id": 212418,
+      "translation": {
+        "en": {
+          "short": "warm",
+          "long": "having a temperature that is high but not hot, especially in a way that is pleasant",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hangat",
+          "long": "memiliki suhu yang tinggi tetapi tidak panas, terutama dengan cara yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212418.jpeg",
+      "simplified": "温暖的",
+      "traditional": "溫暖的",
+      "pinyin": "wēnnuǎn de"
+    },
+    {
+      "id": 212417,
+      "translation": {
+        "en": {
+          "short": "cool",
+          "long": "having a temperature that is low but not cold, especially in a way that is pleasant",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Dingin",
+          "long": "memiliki suhu yang rendah tetapi tidak dingin, terutama dengan cara yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212417.jpeg",
+      "simplified": "凉爽的",
+      "traditional": "涼爽的",
+      "pinyin": "liángshuǎng de"
+    },
+    {
+      "id": 221508,
+      "translation": {
+        "en": {
+          "short": "freezing",
+          "long": "regarding extremely cold temperatures, typically below the freezing point of water",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pembekuan",
+          "long": "Mengenai suhu yang sangat dingin, biasanya di bawah titik beku air",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221508.jpeg",
+      "simplified": "真的很冷",
+      "traditional": "真的很冷",
+      "pinyin": "zhēnde hěn Lěng"
+    },
+    {
+      "id": 221510,
+      "translation": {
+        "en": {
+          "short": "chilly",
+          "long": "cold in an unpleasant or uncomfortable way",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dingin",
+          "long": "dingin dengan cara yang tidak menyenangkan atau tidak nyaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221510.jpeg",
+      "simplified": "很冷",
+      "traditional": "很冷",
+      "pinyin": "hěn Lěng"
+    },
+    {
+      "id": 212432,
+      "translation": {
+        "en": {
+          "short": "clear",
+          "long": "without clouds or mist",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jernih",
+          "long": "tanpa awan atau kabut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212432.jpeg",
+      "simplified": "天气晴朗",
+      "traditional": "天氣晴朗",
+      "pinyin": "tiānqì qínglǎng"
+    },
+    {
+      "id": 212441,
+      "translation": {
+        "en": {
+          "short": "dark",
+          "long": "having very little or no light",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gelap",
+          "long": "memiliki sangat sedikit atau tidak ada cahaya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212441.jpeg",
+      "simplified": "很暗",
+      "traditional": "很暗",
+      "pinyin": "hěn àn"
+    },
+    {
+      "id": 221069,
+      "translation": {
+        "en": {
+          "short": "light",
+          "long": "having enough brightness, especially natural light",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lampu",
+          "long": "memiliki kecerahan yang cukup, terutama cahaya alami",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221069.jpeg",
+      "simplified": "明亮的环境",
+      "traditional": "明亮的環境",
+      "pinyin": "míngliàng de huánjìng"
+    },
+    {
+      "id": 212427,
+      "translation": {
+        "en": {
+          "short": "wet",
+          "long": "covered with or full of water or another liquid",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "basah",
+          "long": "ditutupi atau penuh air atau cairan lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212427.jpeg",
+      "simplified": "潮湿的天气",
+      "traditional": "潮濕的天氣",
+      "pinyin": "cháoshī de tiānqì"
+    },
+    {
+      "id": 221068,
+      "translation": {
+        "en": {
+          "short": "dry",
+          "long": "lacking moisture or liquid",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kering",
+          "long": "kurang kelembaban atau cairan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221068.jpeg",
+      "simplified": "干燥天气",
+      "traditional": "乾燥天氣",
+      "pinyin": "gānzào tiānqì"
+    },
+    {
+      "id": 221495,
+      "translation": {
+        "en": {
+          "short": "to blow",
+          "long": "(of wind or an air current) to move or be in motion",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meniup",
+          "long": "(angin atau arus udara) untuk bergerak atau bergerak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221495.jpeg",
+      "simplified": "吹风",
+      "traditional": "吹風",
+      "pinyin": "chuī fēng"
+    },
+    {
+      "id": 221496,
+      "translation": {
+        "en": {
+          "short": "to change",
+          "long": "to not stay the same and as a result become different",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk mengganti",
+          "long": "untuk tidak tetap sama dan akibatnya menjadi berbeda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221496.jpeg",
+      "simplified": "改变",
+      "traditional": "改變",
+      "pinyin": "gǎibiàn"
+    },
+    {
+      "id": 221497,
+      "translation": {
+        "en": {
+          "short": "awful",
+          "long": "extremely unpleasant, bad, or disagreeable",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "buruk sekali",
+          "long": "sangat tidak menyenangkan, buruk, atau tidak menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221497.jpeg",
+      "simplified": "非常不愉快",
+      "traditional": "非常不愉快",
+      "pinyin": "fēicháng bùyú kuài"
+    },
+    {
+      "id": 221518,
+      "translation": {
+        "en": {
+          "short": "mild",
+          "long": "(of weather) pleasantly warm and less cold than expected",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lembut",
+          "long": "(cuaca) hangat dan kurang dingin dari yang diharapkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221518.jpeg",
+      "simplified": "温和的",
+      "traditional": "溫和的",
+      "pinyin": "wēnhé de"
+    },
+    {
+      "id": 221519,
+      "translation": {
+        "en": {
+          "short": "severe",
+          "long": "very bad, harsh, or intense",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berat",
+          "long": "sangat buruk, keras, atau intens",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221519.jpeg",
+      "simplified": "严重",
+      "traditional": "嚴重",
+      "pinyin": "yánzhòng"
+    },
+    {
+      "id": 235787,
+      "translation": {
+        "en": {
+          "short": "to snow",
+          "long": "(of water) to fall from the sky in the shape of small and soft ice crystals",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk salju",
+          "long": "(air) jatuh dari langit dalam bentuk kristal es kecil dan lembut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235787.jpeg",
+      "simplified": "雪",
+      "traditional": "雪",
+      "pinyin": "Xuě"
+    },
+    {
+      "id": 235788,
+      "translation": {
+        "en": {
+          "short": "to rain",
+          "long": "(of water) to fall from the sky in the shape of small drops",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "hujan",
+          "long": "(air) jatuh dari langit dalam bentuk tetesan kecil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235788.jpeg",
+      "simplified": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xiàyǔ"
+    }
+  ]
+}

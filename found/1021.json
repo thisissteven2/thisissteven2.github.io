@@ -1,0 +1,602 @@
+{
+  "id": 1021,
+  "title": {
+    "en": "Shopping",
+    "id": "Belanja"
+  },
+  "description": {
+    "en": "Here you will learn some English words about shopping, such as \"barter\", \"gratis\", \"kiosk\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang berbelanja, seperti \"barter\", \"gratis\", \"kios\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 244443,
+      "translation": {
+        "en": {
+          "short": "to bargain",
+          "long": "to negotiate the terms of a contract, sale, or similar arrangement for a better agreement, price, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menawar",
+          "long": "Untuk menegosiasikan ketentuan kontrak, penjualan, atau pengaturan serupa untuk kesepakatan yang lebih baik, harga, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244443.jpeg",
+      "simplified": "讨价还价",
+      "traditional": "討價還價",
+      "pinyin": "tǎojià huán jià"
+    },
+    {
+      "id": 244444,
+      "translation": {
+        "en": {
+          "short": "to barter",
+          "long": "to exchange goods or services without using money",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk barter",
+          "long": "untuk bertukar barang atau jasa tanpa menggunakan uang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244444.jpeg",
+      "simplified": "物物交换",
+      "traditional": "物物交換",
+      "pinyin": "wùwù jiāo huàn"
+    },
+    {
+      "id": 244453,
+      "translation": {
+        "en": {
+          "short": "to haggle",
+          "long": "to negotiate, typically over the price of goods or services",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tawar -menawar",
+          "long": "Untuk bernegosiasi, biasanya lebih dari harga barang atau jasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244453.jpeg",
+      "simplified": "讨价还价",
+      "traditional": "討價還價",
+      "pinyin": "tǎojià huán jià"
+    },
+    {
+      "id": 244463,
+      "translation": {
+        "en": {
+          "short": "to shortchange",
+          "long": "to give or return less money than the correct amount",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk shortchange",
+          "long": "untuk memberi atau mengembalikan lebih sedikit uang dari jumlah yang benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244463.jpeg",
+      "simplified": "少给某人一些钱",
+      "traditional": "少給某人一些錢",
+      "pinyin": "shǎo gěi mǒurén yīxiē Qián"
+    },
+    {
+      "id": 244447,
+      "translation": {
+        "en": {
+          "short": "complimentary",
+          "long": "supplied or given for free",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gratis",
+          "long": "disediakan atau diberikan secara gratis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244447.jpeg",
+      "simplified": "免费",
+      "traditional": "免費",
+      "pinyin": "miǎnfèi"
+    },
+    {
+      "id": 244451,
+      "translation": {
+        "en": {
+          "short": "exorbitant",
+          "long": "(of prices) unreasonably or extremely high",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terlalu tinggi",
+          "long": "(harga) tidak masuk akal atau sangat tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244451.jpeg",
+      "simplified": "价格高且不合理",
+      "traditional": "價格高且不合理",
+      "pinyin": "jiàgé Gāo qiě bùhé lǐ"
+    },
+    {
+      "id": 244452,
+      "translation": {
+        "en": {
+          "short": "gratis",
+          "long": "without costing anything",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "gratis",
+          "long": "tanpa biaya apapun",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244452.jpeg",
+      "simplified": "免费",
+      "traditional": "免費",
+      "pinyin": "miǎnfèi"
+    },
+    {
+      "id": 244449,
+      "translation": {
+        "en": {
+          "short": "denomination",
+          "long": "a unit of value, especially monetary value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "denominasi",
+          "long": "satuan nilai, terutama nilai moneter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244449.jpeg",
+      "simplified": "面值",
+      "traditional": "面值",
+      "pinyin": "miànzhí"
+    },
+    {
+      "id": 244456,
+      "translation": {
+        "en": {
+          "short": "markup",
+          "long": "the amount added to the price of something to cover overheads and profit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "markup",
+          "long": "jumlah yang ditambahkan ke harga sesuatu untuk menutupi overhead dan untung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244456.jpeg",
+      "simplified": "增加成本",
+      "traditional": "增加成本",
+      "pinyin": "zēngjiā chéngběn"
+    },
+    {
+      "id": 244466,
+      "translation": {
+        "en": {
+          "short": "spree",
+          "long": "a short period of time during which one does a particular activity in an extreme way without control, especially spending money",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesenangan",
+          "long": "periode waktu yang singkat di mana seseorang melakukan aktivitas tertentu dengan cara yang ekstrem tanpa kendali, terutama menghabiskan uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244466.jpeg",
+      "simplified": "狂欢",
+      "traditional": "狂歡",
+      "pinyin": "kuánghuān"
+    },
+    {
+      "id": 244468,
+      "translation": {
+        "en": {
+          "short": "token",
+          "long": "a piece of paper or a disc of metal or plastic used instead of money as a form of payment or to operate some machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "token",
+          "long": "selembar kertas atau cakram logam atau plastik yang digunakan sebagai pengganti uang sebagai bentuk pembayaran atau untuk mengoperasikan beberapa mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244468.jpeg",
+      "simplified": "购买代币",
+      "traditional": "購買代幣",
+      "pinyin": "gòumǎi dàibì"
+    },
+    {
+      "id": 244470,
+      "translation": {
+        "en": {
+          "short": "voucher",
+          "long": "a digital code or a printed piece of paper that can be used instead of money when making a purchase or used to receive a discount",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "voucher",
+          "long": "kode digital atau selembar kertas cetak yang dapat digunakan sebagai pengganti uang saat melakukan pembelian atau digunakan untuk menerima diskon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244470.jpeg",
+      "simplified": "优惠券",
+      "traditional": "優惠券",
+      "pinyin": "yōuhuì quàn"
+    },
+    {
+      "id": 244445,
+      "translation": {
+        "en": {
+          "short": "bodega",
+          "long": "(in the US) a small grocery shop, especially in a neighborhood inhabited by a Spanish-speaking population",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bodega",
+          "long": "(Di AS) sebuah toko kelontong kecil, terutama di lingkungan yang dihuni oleh populasi berbahasa Spanyol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244445.jpeg",
+      "simplified": "酒窖",
+      "traditional": "酒窖",
+      "pinyin": "jiǔjiào"
+    },
+    {
+      "id": 244446,
+      "translation": {
+        "en": {
+          "short": "boutique",
+          "long": "a small store in which fashionable clothes or accessories are sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "butik",
+          "long": "Toko kecil di mana pakaian atau aksesori modis dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244446.jpeg",
+      "simplified": "精品店",
+      "traditional": "精品店",
+      "pinyin": "jīngpǐn diàn"
+    },
+    {
+      "id": 244448,
+      "translation": {
+        "en": {
+          "short": "delicatessen",
+          "long": "a shop or part of one that sells high-quality foods, such as types of cooked meat, cheese, and unusual foods that come from other countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko makanan",
+          "long": "toko atau bagian dari yang menjual makanan berkualitas tinggi, seperti jenis daging, keju, dan makanan yang tidak biasa yang berasal dari negara lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244448.jpeg",
+      "simplified": "熟食",
+      "traditional": "熟食",
+      "pinyin": "shúshí"
+    },
+    {
+      "id": 244450,
+      "translation": {
+        "en": {
+          "short": "emporium",
+          "long": "a large retail store selling various goods, or a particular type of goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pusat pertokoan",
+          "long": "Toko ritel besar yang menjual berbagai barang, atau jenis barang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244450.jpeg",
+      "simplified": "商场",
+      "traditional": "商場",
+      "pinyin": "shāngchǎng"
+    },
+    {
+      "id": 244454,
+      "translation": {
+        "en": {
+          "short": "kiosk",
+          "long": "a small store with an open front selling newspapers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kios",
+          "long": "Toko kecil dengan front terbuka yang menjual koran, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244454.jpeg",
+      "simplified": "亭",
+      "traditional": "亭",
+      "pinyin": "tíng"
+    },
+    {
+      "id": 244455,
+      "translation": {
+        "en": {
+          "short": "laundromat",
+          "long": "a facility where coin-operated washing machines and dryers are available to customers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Laundromat",
+          "long": "Fasilitas di mana mesin cuci dan pengering yang dioperasikan dengan koin tersedia untuk pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244455.jpeg",
+      "simplified": "自助洗衣房",
+      "traditional": "自助洗衣房",
+      "pinyin": "zìzhù xǐyī fáng"
+    },
+    {
+      "id": 244457,
+      "translation": {
+        "en": {
+          "short": "off-licence",
+          "long": "a shop selling alcoholic drinks to be taken away and consumed elsewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "off-lisensi",
+          "long": "sebuah toko yang menjual minuman beralkohol untuk dibawa dan dikonsumsi di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244457.jpeg",
+      "simplified": "卖酒执照",
+      "traditional": "賣酒執照",
+      "pinyin": "mài jiǔ zhízhào"
+    },
+    {
+      "id": 244458,
+      "translation": {
+        "en": {
+          "short": "parlor",
+          "long": "a shop or business offering specific goods or services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang tamu",
+          "long": "toko atau bisnis yang menawarkan barang atau jasa tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244458.jpeg",
+      "simplified": "客厅",
+      "traditional": "客廳",
+      "pinyin": "kètīng"
+    },
+    {
+      "id": 244459,
+      "translation": {
+        "en": {
+          "short": "pawnshop",
+          "long": "a store in which one leaves personal belongings to get a loan, and if the money is not returned, the pawnbroker can possess or sell these objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pegadaian",
+          "long": "Toko di mana seseorang meninggalkan barang -barang pribadi untuk mendapatkan pinjaman, dan jika uang tidak dikembalikan, pegadaian dapat memiliki atau menjual objek -objek ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244459.jpeg",
+      "simplified": "当铺",
+      "traditional": "當舖",
+      "pinyin": "dàngpù"
+    },
+    {
+      "id": 244460,
+      "translation": {
+        "en": {
+          "short": "plaza",
+          "long": "a type of shopping center, common in North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Plaza",
+          "long": "Jenis pusat perbelanjaan, umum di Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244460.jpeg",
+      "simplified": "广场",
+      "traditional": "廣場",
+      "pinyin": "guǎngchǎng"
+    },
+    {
+      "id": 244461,
+      "translation": {
+        "en": {
+          "short": "precinct",
+          "long": "a commercial area in a city or a town that is closed to traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Precinct",
+          "long": "Area komersial di kota atau kota yang ditutup untuk lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244461.jpeg",
+      "simplified": "管理区",
+      "traditional": "管理區",
+      "pinyin": "guǎnlǐ Oū"
+    },
+    {
+      "id": 244464,
+      "translation": {
+        "en": {
+          "short": "slopshop",
+          "long": "a store where cheap, ready-made clothing is available for purchase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "slopshop",
+          "long": "Toko di mana pakaian yang murah dan siap pakai tersedia untuk dibeli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244464.jpeg",
+      "simplified": "粗制滥造",
+      "traditional": "粗製濫造",
+      "pinyin": "cūzhì làn zào"
+    },
+    {
+      "id": 244462,
+      "translation": {
+        "en": {
+          "short": "proprietor",
+          "long": "the owner of a property or business",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemilik",
+          "long": "pemilik properti atau bisnis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244462.jpeg",
+      "simplified": "业主",
+      "traditional": "業主",
+      "pinyin": "yèzhǔ"
+    },
+    {
+      "id": 244465,
+      "translation": {
+        "en": {
+          "short": "spendthrift",
+          "long": "an individual who is in the habit of spending money in a careless and wasteful way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "boros",
+          "long": "seorang individu yang terbiasa menghabiskan uang dengan cara yang ceroboh dan sia -sia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244465.jpeg",
+      "simplified": "败家子",
+      "traditional": "敗家子",
+      "pinyin": "bàijiā zǐ"
+    },
+    {
+      "id": 244469,
+      "translation": {
+        "en": {
+          "short": "vendor",
+          "long": "someone on the street who offers food, clothing, etc. for sale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjual",
+          "long": "Seseorang di jalan yang menawarkan makanan, pakaian, dll untuk dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244469.jpeg",
+      "simplified": "滩",
+      "traditional": "灘",
+      "pinyin": "tān"
+    },
+    {
+      "id": 244471,
+      "translation": {
+        "en": {
+          "short": "wet market",
+          "long": "a market in which fresh meat, fish, fruit, and vegetables are sold to customers, especially in Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasar basah",
+          "long": "Pasar di mana daging segar, ikan, buah, dan sayuran dijual kepada pelanggan, terutama di Asia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244471.jpeg",
+      "simplified": "菜市场",
+      "traditional": "菜市場",
+      "pinyin": "càishì chǎng"
+    },
+    {
+      "id": 244472,
+      "translation": {
+        "en": {
+          "short": "wholesale",
+          "long": "the process or activity of selling goods in large quantities to businesses at a lower price",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grosir",
+          "long": "proses atau aktivitas menjual barang dalam jumlah besar ke bisnis dengan harga lebih rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244472.jpeg",
+      "simplified": "批发",
+      "traditional": "批發",
+      "pinyin": "pīfā"
+    },
+    {
+      "id": 244467,
+      "translation": {
+        "en": {
+          "short": "toiletries",
+          "long": "products used in a bathroom for washing and taking care of one's body, such as soap, toothpaste, and shampoo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perlengkapan mandi",
+          "long": "Produk yang digunakan di kamar mandi untuk mencuci dan merawat tubuh seseorang, seperti sabun, pasta gigi, dan sampo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244467.jpeg",
+      "simplified": "化妆品",
+      "traditional": "化妝品",
+      "pinyin": "huàzhuāng pǐn"
+    },
+    {
+      "id": 244473,
+      "translation": {
+        "en": {
+          "short": "white goods",
+          "long": "large electrical home appliances such as washing machines and refrigerators",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "barang putih",
+          "long": "Peralatan rumah listrik yang besar seperti mesin cuci dan lemari es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244473.jpeg",
+      "simplified": "白色商品",
+      "traditional": "白色商品",
+      "pinyin": "báisè shāngpǐn"
+    }
+  ]
+}

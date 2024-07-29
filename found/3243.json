@@ -1,0 +1,944 @@
+{
+  "id": 3243,
+  "title": {
+    "en": "Tastes and Flavors",
+    "id": "Rasa dan rasa"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to tastes and flavors such as \"sourness\", \"umami\", and \"nutty\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan selera dan rasa seperti \"asam\", \"umami\", dan \"gila\"."
+  },
+  "cards": [
+    {
+      "id": 322326,
+      "translation": {
+        "en": {
+          "short": "sweetness",
+          "long": "the sensory experience of a pleasing or sugary flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa manis",
+          "long": "Pengalaman sensorik dari rasa yang menyenangkan atau manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322326.jpeg",
+      "simplified": "甜美",
+      "traditional": "甜美",
+      "pinyin": "tiánměi"
+    },
+    {
+      "id": 322333,
+      "translation": {
+        "en": {
+          "short": "sourness",
+          "long": "the sharp or tangy flavor often associated with acidic or tart substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asam",
+          "long": "rasa tajam atau tajam yang sering dikaitkan dengan zat asam atau tart",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322333.jpeg",
+      "simplified": "酸味",
+      "traditional": "酸味",
+      "pinyin": "suān wèi"
+    },
+    {
+      "id": 322335,
+      "translation": {
+        "en": {
+          "short": "saltiness",
+          "long": "the characteristic taste sensation associated with the presence of salt in food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa asin",
+          "long": "Sensasi rasa karakteristik yang terkait dengan keberadaan garam dalam makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322335.jpeg",
+      "simplified": "咸味",
+      "traditional": "鹹味",
+      "pinyin": "Xián wèi"
+    },
+    {
+      "id": 322338,
+      "translation": {
+        "en": {
+          "short": "bitterness",
+          "long": "the sharp and unpleasant taste often found in coffee, dark chocolate, or certain vegetables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepahitan",
+          "long": "Rasa yang tajam dan tidak menyenangkan sering ditemukan dalam kopi, cokelat hitam, atau sayuran tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322338.jpeg",
+      "simplified": "苦味",
+      "traditional": "苦味",
+      "pinyin": "kǔwèi"
+    },
+    {
+      "id": 322339,
+      "translation": {
+        "en": {
+          "short": "umami",
+          "long": "‌a taste that is not sour, bitter, salty, or sweet, found in some foods such as meat, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Umami",
+          "long": "Rasa yang tidak asam, pahit, asin, atau manis, ditemukan dalam beberapa makanan seperti daging, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322339.jpeg",
+      "simplified": "类似番茄的味道",
+      "traditional": "類似番茄的味道",
+      "pinyin": "lèisì fānqié de wèidao"
+    },
+    {
+      "id": 322341,
+      "translation": {
+        "en": {
+          "short": "pungency",
+          "long": "the strong, sharp taste or sensation often associated with spicy or intensely flavored foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepedasan",
+          "long": "Rasa atau sensasi yang kuat dan tajam yang sering dikaitkan dengan makanan pedas atau beraroma intens",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322341.jpeg",
+      "simplified": "锋",
+      "traditional": "鋒",
+      "pinyin": "fēng"
+    },
+    {
+      "id": 322344,
+      "translation": {
+        "en": {
+          "short": "spiciness",
+          "long": "the quality of having a strong or fiery taste due to the presence of spices or chili peppers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepedasan",
+          "long": "Kualitas memiliki rasa yang kuat atau berapi -api karena adanya rempah -rempah atau cabai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322344.jpeg",
+      "simplified": "富于香料",
+      "traditional": "富於香料",
+      "pinyin": "fùyú xiāngliào"
+    },
+    {
+      "id": 322345,
+      "translation": {
+        "en": {
+          "short": "hotness",
+          "long": "the level of spiciness or heat in food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hotness",
+          "long": "tingkat kepedasan atau panas dalam makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322345.jpeg",
+      "simplified": "热",
+      "traditional": "熱",
+      "pinyin": "rè"
+    },
+    {
+      "id": 322353,
+      "translation": {
+        "en": {
+          "short": "coolness",
+          "long": "a refreshing, mild, or soothing sensation in the mouth, often associated with mint, menthol, or cucumber",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesejukan",
+          "long": "Sensasi yang menyegarkan, ringan, atau menenangkan di mulut, sering dikaitkan dengan mint, mentol, atau mentimun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322353.jpeg",
+      "simplified": "凉爽",
+      "traditional": "涼爽",
+      "pinyin": "liángshuǎng"
+    },
+    {
+      "id": 322359,
+      "translation": {
+        "en": {
+          "short": "astringency",
+          "long": "the dry, puckering, or rough sensation experienced in the mouth, often caused by substances like tannins in tea or unripe fruits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "astringency",
+          "long": "Sensasi kering, kerutan, atau kasar yang dialami di mulut, sering disebabkan oleh zat -zat seperti tanin dalam teh atau buah -buahan mentah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322359.jpeg",
+      "simplified": "涩味",
+      "traditional": "澀味",
+      "pinyin": "sèwèi"
+    },
+    {
+      "id": 322384,
+      "translation": {
+        "en": {
+          "short": "metallicness",
+          "long": "a taste, aroma, or sensation resembling that of metal such as certain medicines or amalgam dental fillings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "logam",
+          "long": "Rasa, aroma, atau sensasi yang menyerupai logam seperti obat -obatan tertentu atau tambalan gigi amalgam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322384.jpeg",
+      "simplified": "金属性",
+      "traditional": "金屬性",
+      "pinyin": "jīnshǔ xìng"
+    },
+    {
+      "id": 322281,
+      "translation": {
+        "en": {
+          "short": "acidic",
+          "long": "having a sharp and sour flavour",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asam",
+          "long": "memiliki rasa yang tajam dan asam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322281.jpeg",
+      "simplified": "很酸",
+      "traditional": "很酸",
+      "pinyin": "hěn suān"
+    },
+    {
+      "id": 322288,
+      "translation": {
+        "en": {
+          "short": "astringent",
+          "long": "having a sharp, bitter, or sour taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "astringen",
+          "long": "memiliki rasa yang tajam, pahit, atau asam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322288.jpeg",
+      "simplified": "涩",
+      "traditional": "澀",
+      "pinyin": "sè"
+    },
+    {
+      "id": 322291,
+      "translation": {
+        "en": {
+          "short": "bitter",
+          "long": "having a strong taste that is unpleasant and not sweet",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pahit",
+          "long": "memiliki rasa yang kuat yang tidak menyenangkan dan tidak manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322291.jpeg",
+      "simplified": "苦的",
+      "traditional": "苦的",
+      "pinyin": "kǔ de"
+    },
+    {
+      "id": 322295,
+      "translation": {
+        "en": {
+          "short": "bittersweet",
+          "long": "having a taste that is a blend of both bitter and sweet flavors",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Bittersweet",
+          "long": "memiliki rasa yang merupakan perpaduan dari rasa pahit dan manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322295.jpeg",
+      "simplified": "苦乐参半",
+      "traditional": "苦樂參半",
+      "pinyin": "kǔ Lè cānbàn"
+    },
+    {
+      "id": 322298,
+      "translation": {
+        "en": {
+          "short": "brackish",
+          "long": "describing water that is slightly salty, typically where freshwater mixes with seawater",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "payau",
+          "long": "menggambarkan air yang sedikit asin, biasanya di mana air tawar bercampur dengan air laut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322298.jpeg",
+      "simplified": "微咸的",
+      "traditional": "微鹹的",
+      "pinyin": "Wēi Xián de"
+    },
+    {
+      "id": 322303,
+      "translation": {
+        "en": {
+          "short": "hot",
+          "long": "(of food) having spices or pepper which when tasted creates a burning feeling in one's mouth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas",
+          "long": "(makanan) Memiliki rempah -rempah atau lada yang saat rasanya menciptakan perasaan yang membara di mulut seseorang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322303.jpeg",
+      "simplified": "热的",
+      "traditional": "熱的",
+      "pinyin": "rè de"
+    },
+    {
+      "id": 322310,
+      "translation": {
+        "en": {
+          "short": "mild",
+          "long": "having a taste or flavor that is not strong or intense",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lembut",
+          "long": "memiliki rasa atau rasa yang tidak kuat atau intens",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322310.jpeg",
+      "simplified": "温和的",
+      "traditional": "溫和的",
+      "pinyin": "wēnhé de"
+    },
+    {
+      "id": 322311,
+      "translation": {
+        "en": {
+          "short": "robust",
+          "long": "featuring a strong, full-bodied, and rich taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kokoh",
+          "long": "menampilkan rasa yang kuat, bertubuh penuh, dan kaya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322311.jpeg",
+      "simplified": "强壮的",
+      "traditional": "強壯的",
+      "pinyin": "qiángzhuàng de"
+    },
+    {
+      "id": 322312,
+      "translation": {
+        "en": {
+          "short": "savory",
+          "long": "(of food) salty or spicy rather than sweet",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gurih",
+          "long": "(makanan) asin atau pedas daripada manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322312.jpeg",
+      "simplified": "咸味的",
+      "traditional": "鹹味的",
+      "pinyin": "Xián wèi de"
+    },
+    {
+      "id": 322313,
+      "translation": {
+        "en": {
+          "short": "seasoned",
+          "long": "(of food) flavored with spices, herbs, or other ingredients to improve its taste and smell",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berpengalaman",
+          "long": "(makanan) dibumbui dengan rempah -rempah, rempah -rempah, atau bahan -bahan lain untuk meningkatkan rasanya dan baunya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322313.jpeg",
+      "simplified": "经验丰富的",
+      "traditional": "經驗豐富的",
+      "pinyin": "jīngyàn fēng fù de"
+    },
+    {
+      "id": 322315,
+      "translation": {
+        "en": {
+          "short": "sharp",
+          "long": "having a taste or flavor that is strong, intense, pungent, or tangy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tajam",
+          "long": "memiliki rasa atau rasa yang kuat, intens, pedas, atau tajam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322315.jpeg",
+      "simplified": "浓（味道）",
+      "traditional": "濃（味道）",
+      "pinyin": "nóng wèidao"
+    },
+    {
+      "id": 322316,
+      "translation": {
+        "en": {
+          "short": "sour",
+          "long": "having a sharp acidic taste like lemon",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kecut",
+          "long": "memiliki rasa asam yang tajam seperti lemon",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322316.jpeg",
+      "simplified": "酸的",
+      "traditional": "酸的",
+      "pinyin": "suān de"
+    },
+    {
+      "id": 322317,
+      "translation": {
+        "en": {
+          "short": "spicy",
+          "long": "having a strong taste that gives your mouth a pleasant burning feeling",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedas",
+          "long": "memiliki selera yang kuat yang memberi mulut Anda perasaan yang membara yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322317.jpeg",
+      "simplified": "辛辣的",
+      "traditional": "辛辣的",
+      "pinyin": "xīnlà de"
+    },
+    {
+      "id": 322318,
+      "translation": {
+        "en": {
+          "short": "sweet-and-sour",
+          "long": "(of food) cooked in a way that tastes both sweet and sour",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asam manis",
+          "long": "(makanan) dimasak dengan cara yang rasanya manis dan asam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322318.jpeg",
+      "simplified": "酸甜的",
+      "traditional": "酸甜的",
+      "pinyin": "suāntián de"
+    },
+    {
+      "id": 322319,
+      "translation": {
+        "en": {
+          "short": "sweetish",
+          "long": "characterized by a taste that is somewhat sweet but not overwhelmingly so",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "agak manis",
+          "long": "ditandai dengan rasa yang agak manis tapi tidak begitu besar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322319.jpeg",
+      "simplified": "甜甜的",
+      "traditional": "甜甜的",
+      "pinyin": "tián tián de"
+    },
+    {
+      "id": 322320,
+      "translation": {
+        "en": {
+          "short": "syrupy",
+          "long": "having an excessively sweet flavor",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "seperti sirop",
+          "long": "memiliki rasa yang sangat manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322320.jpeg",
+      "simplified": "糖浆状的",
+      "traditional": "糖漿狀的",
+      "pinyin": "tángjiāng zhuàng de"
+    },
+    {
+      "id": 322321,
+      "translation": {
+        "en": {
+          "short": "tart",
+          "long": "having a sharp taste that stings the tongue",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kue tar",
+          "long": "memiliki rasa tajam yang menyengat lidah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322321.jpeg",
+      "simplified": "酸",
+      "traditional": "酸",
+      "pinyin": "suān"
+    },
+    {
+      "id": 322322,
+      "translation": {
+        "en": {
+          "short": "unsalted",
+          "long": "(of food)  not containing added salt",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tawar",
+          "long": "(makanan) tidak mengandung garam tambahan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322322.jpeg",
+      "simplified": "不加盐的",
+      "traditional": "不加鹽的",
+      "pinyin": "bùjiā yán de"
+    },
+    {
+      "id": 322323,
+      "translation": {
+        "en": {
+          "short": "watery",
+          "long": "having too much water and little taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berair",
+          "long": "memiliki terlalu banyak air dan sedikit rasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322323.jpeg",
+      "simplified": "水汪汪的",
+      "traditional": "水汪汪的",
+      "pinyin": "shuǐwāng wāng de"
+    },
+    {
+      "id": 322324,
+      "translation": {
+        "en": {
+          "short": "tang",
+          "long": "a sharp and distinctive taste, typically associated with acidity or a lively and refreshing quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bau",
+          "long": "rasa yang tajam dan khas, biasanya terkait dengan keasaman atau kualitas yang hidup dan menyegarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322324.jpeg",
+      "simplified": "铃声",
+      "traditional": "鈴聲",
+      "pinyin": "língshēng"
+    },
+    {
+      "id": 322325,
+      "translation": {
+        "en": {
+          "short": "savor",
+          "long": "the distinctive and enjoyable taste or aroma of food or drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menikmati",
+          "long": "rasa atau aroma makanan atau minuman yang khas dan menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322325.jpeg",
+      "simplified": "趣味",
+      "traditional": "趣味",
+      "pinyin": "qùwèi"
+    },
+    {
+      "id": 322329,
+      "translation": {
+        "en": {
+          "short": "bite",
+          "long": "the intense taste experience of food, particularly characterized by a sharp or strong flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggigit",
+          "long": "Pengalaman rasa makanan yang intens, terutama ditandai dengan rasa yang tajam atau kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322329.jpeg",
+      "simplified": "咬伤",
+      "traditional": "咬傷",
+      "pinyin": "yǎoshāng"
+    },
+    {
+      "id": 322332,
+      "translation": {
+        "en": {
+          "short": "aftertaste",
+          "long": "the lingering flavor that remains in the mouth after eating or drinking something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aftertaste",
+          "long": "rasa yang tersisa yang tetap ada di mulut setelah makan atau minum sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322332.jpeg",
+      "simplified": "回味",
+      "traditional": "回味",
+      "pinyin": "huíwèi"
+    },
+    {
+      "id": 322340,
+      "translation": {
+        "en": {
+          "short": "savoriness",
+          "long": "the state of having a delicious taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecintaan",
+          "long": "keadaan memiliki selera yang lezat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322340.jpeg",
+      "simplified": "美味",
+      "traditional": "美味",
+      "pinyin": "měiwèi"
+    },
+    {
+      "id": 322393,
+      "translation": {
+        "en": {
+          "short": "oleogustus",
+          "long": "a unique taste sensation that is attributed to the perception of fats or lipids in food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oleogustus",
+          "long": "Sensasi rasa unik yang disebabkan oleh persepsi lemak atau lipid dalam makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322393.jpeg",
+      "simplified": "油橄榄",
+      "traditional": "油橄欖",
+      "pinyin": "yóugǎn lǎn"
+    },
+    {
+      "id": 322398,
+      "translation": {
+        "en": {
+          "short": "supertaster",
+          "long": "an individual who has a heightened sense of taste and is more sensitive to the flavors and sensations in food and beverages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "SuperTaster",
+          "long": "seorang individu yang memiliki rasa selera yang tinggi dan lebih sensitif terhadap rasa dan sensasi makanan dan minuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322398.jpeg",
+      "simplified": "超级味觉者",
+      "traditional": "超級味覺者",
+      "pinyin": "chāojí wèijué zhě"
+    },
+    {
+      "id": 322399,
+      "translation": {
+        "en": {
+          "short": "acquired taste",
+          "long": "something that one dislikes first but starts to like it with the passage of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa yang diperoleh",
+          "long": "sesuatu yang tidak disukai terlebih dahulu tetapi mulai menyukainya dengan berlalunya waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322399.jpeg",
+      "simplified": "后天的品味",
+      "traditional": "後天的品味",
+      "pinyin": "hòutiān de pǐnwèi"
+    },
+    {
+      "id": 322400,
+      "translation": {
+        "en": {
+          "short": "briny",
+          "long": "having the taste of salt",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asin",
+          "long": "memiliki rasa garam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322400.jpeg",
+      "simplified": "咸水",
+      "traditional": "鹹水",
+      "pinyin": "xiánshuǐ"
+    },
+    {
+      "id": 322403,
+      "translation": {
+        "en": {
+          "short": "earthy",
+          "long": "having characteristics of soil or the earth, often associated with flavors such as mushrooms, root vegetables, or certain types of wine",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bersahaja",
+          "long": "memiliki karakteristik tanah atau bumi, sering dikaitkan dengan rasa seperti jamur, sayuran akar, atau jenis anggur tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322403.jpeg",
+      "simplified": "泥土",
+      "traditional": "泥土",
+      "pinyin": "nítǔ"
+    },
+    {
+      "id": 322406,
+      "translation": {
+        "en": {
+          "short": "fruity",
+          "long": "having a sweet, fresh, or juicy taste or smell associated with various types of fruits",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "buah",
+          "long": "memiliki rasa atau bau yang manis, segar, atau berair yang terkait dengan berbagai jenis buah -buahan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322406.jpeg",
+      "simplified": "果味的",
+      "traditional": "果味的",
+      "pinyin": "guǒ wèi de"
+    },
+    {
+      "id": 322408,
+      "translation": {
+        "en": {
+          "short": "full-bodied",
+          "long": "(of drinks) having a rich and intense flavor, often with a satisfying texture",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bertubuh penuh",
+          "long": "(minuman) memiliki rasa yang kaya dan intens, seringkali dengan tekstur yang memuaskan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322408.jpeg",
+      "simplified": "浓郁的",
+      "traditional": "濃郁的",
+      "pinyin": "nóngyù de"
+    },
+    {
+      "id": 322410,
+      "translation": {
+        "en": {
+          "short": "nutty",
+          "long": "having a rich, earthy, and slightly sweet taste similar to almonds, walnuts, or hazelnuts",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedas",
+          "long": "memiliki rasa yang kaya, bersahaja, dan sedikit manis mirip dengan almond, kenari, atau hazelnut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322410.jpeg",
+      "simplified": "疯狂的",
+      "traditional": "瘋狂的",
+      "pinyin": "fēngkuáng de"
+    },
+    {
+      "id": 322412,
+      "translation": {
+        "en": {
+          "short": "rich",
+          "long": "(of food) containing much fat, sugar, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kaya",
+          "long": "(makanan) yang mengandung banyak lemak, gula, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322412.jpeg",
+      "simplified": "富有的",
+      "traditional": "富有的",
+      "pinyin": "fùyǒu de"
+    },
+    {
+      "id": 322413,
+      "translation": {
+        "en": {
+          "short": "smoky",
+          "long": "having a taste like smoke",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Smoky",
+          "long": "memiliki rasa seperti asap",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322413.jpeg",
+      "simplified": "烟",
+      "traditional": "煙",
+      "pinyin": "yān"
+    },
+    {
+      "id": 322415,
+      "translation": {
+        "en": {
+          "short": "tangy",
+          "long": "having a sharp, refreshing taste with a slight sourness or acidity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tajam",
+          "long": "memiliki rasa yang tajam dan menyegarkan dengan sedikit asam atau keasaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322415.jpeg",
+      "simplified": "扑鼻的",
+      "traditional": "撲鼻的",
+      "pinyin": "pūbí de"
+    },
+    {
+      "id": 322416,
+      "translation": {
+        "en": {
+          "short": "yeasty",
+          "long": "having a taste or aroma resembling yeast, often found in bread, beer, or other fermented foods",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "beragi",
+          "long": "memiliki rasa atau aroma yang menyerupai ragi, sering ditemukan dalam roti, bir, atau makanan fermentasi lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322416.jpeg",
+      "simplified": "酵母味的",
+      "traditional": "酵母味的",
+      "pinyin": "jiàomǔ wèi de"
+    },
+    {
+      "id": 322418,
+      "translation": {
+        "en": {
+          "short": "zesty",
+          "long": "(of food) lively and full of flavor, often with a refreshing and energizing taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "zesty",
+          "long": "(makanan) yang hidup dan penuh rasa, seringkali dengan rasa yang menyegarkan dan memberi energi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322418.jpeg",
+      "simplified": "热情的",
+      "traditional": "熱情的",
+      "pinyin": "rèqíng de"
+    },
+    {
+      "id": 386612,
+      "translation": {
+        "en": {
+          "short": "woody",
+          "long": "describing a flavor or aroma that is reminiscent of wood, often earthy, rich, and sometimes slightly sweet or spicy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Woody",
+          "long": "menggambarkan rasa atau aroma yang mengingatkan pada kayu, seringkali bersahaja, kaya, dan terkadang sedikit manis atau pedas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/386612.jpeg",
+      "simplified": "木质的",
+      "traditional": "木質的",
+      "pinyin": "mùzhì de"
+    }
+  ]
+}

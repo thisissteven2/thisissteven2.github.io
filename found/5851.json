@@ -1,0 +1,753 @@
+{
+  "id": 5851,
+  "title": {
+    "en": "Cricket",
+    "id": "Jangkrik"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394905,
+      "translation": {
+        "en": {
+          "short": "Test cricket",
+          "long": "a type of cricket match that lasts up to five days between international teams",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Uji kriket",
+          "long": "Jenis pertandingan kriket yang berlangsung hingga lima hari antara tim internasional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394905.jpeg",
+      "simplified": "测试板球",
+      "traditional": "測試板球",
+      "pinyin": "cèshì bǎnqiú"
+    },
+    {
+      "id": 394906,
+      "translation": {
+        "en": {
+          "short": "One Day International",
+          "long": "a format of cricket where each team faces a fixed number of overs, usually 50, in a single day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Satu hari internasional",
+          "long": "Format kriket di mana masing -masing tim menghadapi jumlah overs yang tetap, biasanya 50, dalam satu hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394906.jpeg",
+      "simplified": "国际一日游",
+      "traditional": "國際一日遊",
+      "pinyin": "guójì yī Rì Yóu"
+    },
+    {
+      "id": 394907,
+      "translation": {
+        "en": {
+          "short": "List A cricket",
+          "long": "a classification of limited-overs cricket matches, typically 40 to 60 overs per side, played at a high domestic or international level",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daftar kriket",
+          "long": "Klasifikasi pertandingan kriket terbatas, biasanya 40 hingga 60 overs per sisi, dimainkan di tingkat domestik atau internasional yang tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394907.jpeg",
+      "simplified": "列出一个板球",
+      "traditional": "列出一個板球",
+      "pinyin": "lièchū yī gě bǎnqiú"
+    },
+    {
+      "id": 394908,
+      "translation": {
+        "en": {
+          "short": "first-class cricket",
+          "long": "the highest standard of domestic cricket played over three or more days",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kriket kelas satu",
+          "long": "Standar kriket domestik tertinggi dimainkan selama tiga hari atau lebih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394908.jpeg",
+      "simplified": "一流的板球",
+      "traditional": "一流的板球",
+      "pinyin": "yīliú de bǎnqiú"
+    },
+    {
+      "id": 394909,
+      "translation": {
+        "en": {
+          "short": "limited overs cricket",
+          "long": "a format of the game where each team is allowed a fixed number of overs to bat, typically 20 or 50",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kriket overs terbatas",
+          "long": "Format permainan di mana masing -masing tim diizinkan sejumlah overs tetap untuk kelelawar, biasanya 20 atau 50",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394909.jpeg",
+      "simplified": "板球有限轮次",
+      "traditional": "板球有限輪次",
+      "pinyin": "bǎnqiú yǒuxiàn lúncì"
+    },
+    {
+      "id": 394910,
+      "translation": {
+        "en": {
+          "short": "indoor cricket",
+          "long": "a variant of cricket played in an enclosed indoor space, typically on a smaller pitch with modified rules",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kriket dalam ruangan",
+          "long": "Varian kriket yang dimainkan di ruang indoor tertutup, biasanya pada pitch yang lebih kecil dengan aturan yang dimodifikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394910.jpeg",
+      "simplified": "室内板球",
+      "traditional": "室內板球",
+      "pinyin": "shìnèi bǎnqiú"
+    },
+    {
+      "id": 394911,
+      "translation": {
+        "en": {
+          "short": "twenty20",
+          "long": "a shorter, fast-paced, and exciting form of cricket where each team gets twenty sets of six throws to bat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Twenty20",
+          "long": "Bentuk kriket yang lebih pendek, serba cepat, dan menarik di mana masing-masing tim mendapat dua puluh set enam lemparan untuk kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394911.jpeg",
+      "simplified": "二十二十",
+      "traditional": "二十二十",
+      "pinyin": "èrshí èrshí"
+    },
+    {
+      "id": 394912,
+      "translation": {
+        "en": {
+          "short": "boundary",
+          "long": "(cricket) the scoring of four or six runs by hitting the ball to or over the designated outer edge of the field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batas",
+          "long": "(kriket) skor empat atau enam kali dengan memukul bola ke atau di atas tepi luar yang ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394912.jpeg",
+      "simplified": "边界",
+      "traditional": "邊界",
+      "pinyin": "biānjiè"
+    },
+    {
+      "id": 394913,
+      "translation": {
+        "en": {
+          "short": "century",
+          "long": "a batsman scoring 100 or more runs in a single innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "abad",
+          "long": "Batsman mencetak 100 atau lebih berjalan dalam satu inning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394913.jpeg",
+      "simplified": "世纪",
+      "traditional": "世紀",
+      "pinyin": "shìjì"
+    },
+    {
+      "id": 394914,
+      "translation": {
+        "en": {
+          "short": "duck",
+          "long": "(cricket) a score of zero runs by a batsman in their innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bebek",
+          "long": "(kriket) Skor nol berjalan oleh batsman di babak mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394914.jpeg",
+      "simplified": "鸭",
+      "traditional": "鴨",
+      "pinyin": "yā"
+    },
+    {
+      "id": 394915,
+      "translation": {
+        "en": {
+          "short": "half-century",
+          "long": "a batsman scoring fifty runs in a single innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah abad",
+          "long": "Seorang batsman mencetak lima puluh run dalam satu babak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394915.jpeg",
+      "simplified": "半个世纪",
+      "traditional": "半個世紀",
+      "pinyin": "bànge shìjì"
+    },
+    {
+      "id": 394916,
+      "translation": {
+        "en": {
+          "short": "dismissal",
+          "long": "the act of a batsman being declared out by the official who oversees the cricket match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemecatan",
+          "long": "Tindakan seorang batsman dinyatakan oleh pejabat yang mengawasi pertandingan kriket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394916.jpeg",
+      "simplified": "解雇",
+      "traditional": "解僱",
+      "pinyin": "jiěgù"
+    },
+    {
+      "id": 394917,
+      "translation": {
+        "en": {
+          "short": "ball",
+          "long": "a single delivery bowled by the bowler toward the batsman in cricket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "satu pengiriman yang dipenuhi bowler ke batsman di kriket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394917.jpeg",
+      "simplified": "球",
+      "traditional": "球",
+      "pinyin": "qiú"
+    },
+    {
+      "id": 394918,
+      "translation": {
+        "en": {
+          "short": "edge",
+          "long": "(cricket) the contact between the bat and the ball resulting in the ball going toward the fielding team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tepian",
+          "long": "(kriket) Kontak antara kelelawar dan bola menghasilkan bola menuju tim lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394918.jpeg",
+      "simplified": "边缘",
+      "traditional": "邊緣",
+      "pinyin": "biānyuán"
+    },
+    {
+      "id": 394919,
+      "translation": {
+        "en": {
+          "short": "innings",
+          "long": "the batting turn of a team during which their players attempt to score runs against the bowling of the opposing team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "babak",
+          "long": "pergantian pemukul tim di mana pemain mereka berusaha mencetak gol melawan bowling tim lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394919.jpeg",
+      "simplified": "局",
+      "traditional": "局",
+      "pinyin": "jú"
+    },
+    {
+      "id": 394920,
+      "translation": {
+        "en": {
+          "short": "run out",
+          "long": "(cricket) a batsman being dismissed when when the ball hits the stumps before they reach the crease while running",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keluar",
+          "long": "(kriket) Seorang batsman diberhentikan ketika bola menabrak tunggul sebelum mereka mencapai lipatan saat berlari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394920.jpeg",
+      "simplified": "用完",
+      "traditional": "用完",
+      "pinyin": "yòngwán"
+    },
+    {
+      "id": 394923,
+      "translation": {
+        "en": {
+          "short": "follow-on",
+          "long": "a situation that happens when a team is made to bat again immediately after their first innings because they scored significantly fewer runs than the opposing team in their first innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lanjutan",
+          "long": "Situasi yang terjadi ketika sebuah tim dibuat untuk melakukan kelelawar lagi setelah inning pertama mereka karena mereka mencetak skor secara signifikan lebih sedikit daripada tim lawan di babak pertama mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394923.jpeg",
+      "simplified": "后续",
+      "traditional": "後續",
+      "pinyin": "hòuxù"
+    },
+    {
+      "id": 394924,
+      "translation": {
+        "en": {
+          "short": "bowling",
+          "long": "(cricket) the act of delivering the ball to the batsman with the aim of dismissing them or preventing runs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bowling",
+          "long": "(kriket) Tindakan mengirimkan bola ke batsman dengan tujuan mengabaikan mereka atau mencegah lari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394924.jpeg",
+      "simplified": "保龄球",
+      "traditional": "保齡球",
+      "pinyin": "bǎolíng qiú"
+    },
+    {
+      "id": 394925,
+      "translation": {
+        "en": {
+          "short": "maiden over",
+          "long": "a period of six balls bowled by a cricketer during which no runs are scored by the batsman",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gadis berakhir",
+          "long": "periode enam bola yang dipenuhi oleh pemain kriket di mana tidak ada lari yang dicetak oleh batsman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394925.jpeg",
+      "simplified": "处女结束",
+      "traditional": "處女結束",
+      "pinyin": "chǔnǚ jiéshù"
+    },
+    {
+      "id": 394926,
+      "translation": {
+        "en": {
+          "short": "no ball",
+          "long": "an illegal delivery bowled by a bowler, resulting in a penalty against the bowling team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tidak ada bola",
+          "long": "Pengiriman ilegal bowled oleh bowler, menghasilkan penalti melawan tim bowling",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394926.jpeg",
+      "simplified": "没有球",
+      "traditional": "沒有球",
+      "pinyin": "méiyǒu qiú"
+    },
+    {
+      "id": 394927,
+      "translation": {
+        "en": {
+          "short": "googly",
+          "long": "a type of delivery that spins in the opposite direction to what is expected, often deceiving the batsman",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "googly",
+          "long": "Jenis pengiriman yang berputar ke arah yang berlawanan dengan apa yang diharapkan, sering menipu batsman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394927.jpeg",
+      "simplified": "谷歌式的",
+      "traditional": "谷歌式的",
+      "pinyin": "Gǔgē shì de"
+    },
+    {
+      "id": 394944,
+      "translation": {
+        "en": {
+          "short": "full toss",
+          "long": "a delivery that reaches the batsman without bouncing on the pitch in cricket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lemparan penuh",
+          "long": "Pengiriman yang mencapai batsman tanpa memantul di lapangan di kriket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394944.jpeg",
+      "simplified": "全力折腾",
+      "traditional": "全力折騰",
+      "pinyin": "quánlì zhēteng"
+    },
+    {
+      "id": 394945,
+      "translation": {
+        "en": {
+          "short": "wicketkeeping",
+          "long": "the role of the cricket player who stands behind the stumps to catch missed balls and attempt dismissals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjaga gawang",
+          "long": "Peran pemain kriket yang berdiri di belakang tunggul untuk menangkap bola yang terlewat dan mencoba pemecatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394945.jpeg",
+      "simplified": "检票口",
+      "traditional": "檢票口",
+      "pinyin": "jiǎnpiào kǒu"
+    },
+    {
+      "id": 394946,
+      "translation": {
+        "en": {
+          "short": "caught behind",
+          "long": "a batsman being dismissed when the wicketkeeper catches the ball after it touches the bat in cricket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tertangkap di belakang",
+          "long": "seorang batsman diberhentikan ketika penjaga gawang menangkap bola setelah menyentuh kelelawar di kriket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394946.jpeg",
+      "simplified": "被抓住了",
+      "traditional": "被抓住了",
+      "pinyin": "bèi zhuāzhù le"
+    },
+    {
+      "id": 394947,
+      "translation": {
+        "en": {
+          "short": "stumping",
+          "long": "a method of dismissal in cricket where the wicketkeeper removes the bails to dismiss a batsman out of their crease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bingung",
+          "long": "Metode pemecatan di kriket di mana penjaga gawang menghapus jaminan untuk mengeluarkan batsman dari lipatan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394947.jpeg",
+      "simplified": "绊倒",
+      "traditional": "絆倒",
+      "pinyin": "bàndǎo"
+    },
+    {
+      "id": 394948,
+      "translation": {
+        "en": {
+          "short": "bye",
+          "long": "an extra run scored when the batsman misses the ball and it passes the wicketkeeper, allowing runners to run",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selamat tinggal",
+          "long": "Lari tambahan mencetak gol ketika batsman melewatkan bola dan melewati penjaga gawang, memungkinkan pelari untuk berlari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394948.jpeg",
+      "simplified": "枝节",
+      "traditional": "枝節",
+      "pinyin": "zhījié"
+    },
+    {
+      "id": 394949,
+      "translation": {
+        "en": {
+          "short": "leg bye",
+          "long": "(cricket) a run scored when the ball hits the batsman's body, not the bat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "by bye",
+          "long": "(kriket) Lari mencetak gol saat bola menyentuh tubuh batsman, bukan kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394949.jpeg",
+      "simplified": "腿再见",
+      "traditional": "腿再見",
+      "pinyin": "tuǐ zàijiàn"
+    },
+    {
+      "id": 394951,
+      "translation": {
+        "en": {
+          "short": "to hook",
+          "long": "(cricket) to play a shot by hitting the ball delivered by the bowler with the bat held horizontally and swinging it in a downward direction towards the leg side",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengaitkan",
+          "long": "(kriket) untuk memainkan tembakan dengan memukul bola yang dikirim oleh bowler dengan kelelawar dipegang secara horizontal dan mengayunkannya ke arah ke bawah ke arah sisi kaki",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394951.jpeg",
+      "simplified": "钩",
+      "traditional": "鉤",
+      "pinyin": "gōu"
+    },
+    {
+      "id": 394953,
+      "translation": {
+        "en": {
+          "short": "crease",
+          "long": "(cricket) a line marked on the pitch that defines the area within which a batsman must stand to be safe from being run out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lipatan",
+          "long": "(kriket) Garis yang ditandai di lapangan yang mendefinisikan area di mana batsman harus berdiri agar aman dari kehabisan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394953.jpeg",
+      "simplified": "襞",
+      "traditional": "襞",
+      "pinyin": "bì"
+    },
+    {
+      "id": 394954,
+      "translation": {
+        "en": {
+          "short": "leg before wicket",
+          "long": "(cricket) a batsman is dismissed when the ball hits their leg instead of the stumps",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaki sebelum gawang",
+          "long": "(kriket) Seorang batsman diberhentikan ketika bola menyentuh kaki mereka, bukan tunggul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394954.jpeg",
+      "simplified": "检票口前的腿",
+      "traditional": "檢票口前的腿",
+      "pinyin": "jiǎnpiào kǒu qián de tuǐ"
+    },
+    {
+      "id": 395100,
+      "translation": {
+        "en": {
+          "short": "caught",
+          "long": "a situation in cricket where a batsman is out when a fielder catches the ball on the full after the batsman hits it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tertangkap",
+          "long": "Situasi di kriket di mana seorang batsman keluar ketika seorang gelandang menangkap bola secara penuh setelah batsman memukulnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395100.jpeg",
+      "simplified": "捕捉",
+      "traditional": "捕捉",
+      "pinyin": "bǔzhuō"
+    },
+    {
+      "id": 403149,
+      "translation": {
+        "en": {
+          "short": "half volley",
+          "long": "(cricket) a ball that bounces just in front of the batsman, making it challenging to play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah tendangan voli",
+          "long": "(kriket) Bola yang memantul tepat di depan batsman, membuatnya menantang untuk bermain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403149.jpeg",
+      "simplified": "半截击",
+      "traditional": "半截擊",
+      "pinyin": "bànjié jī"
+    },
+    {
+      "id": 404257,
+      "translation": {
+        "en": {
+          "short": "reverse sweep",
+          "long": "a shot in cricket where the batsman switches hands and stance to hit the ball to the opposite side of their normal direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sapuan terbalik",
+          "long": "tembakan di kriket di mana batsman itu mengganti tangan dan sikap untuk memukul bola ke sisi berlawanan dari arah normal mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404257.jpeg",
+      "simplified": "反向扫描",
+      "traditional": "反向掃描",
+      "pinyin": "fǎnxiàng sǎomiáo"
+    },
+    {
+      "id": 404200,
+      "translation": {
+        "en": {
+          "short": "sweep shot",
+          "long": "a batting stroke played to hit the ball square on the leg side behind square, typically against a spin bowler",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sapu tembakan",
+          "long": "Stroke pemukul dimainkan untuk memukul bola di sisi kaki di belakang alun -alun, biasanya melawan bowler spin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404200.jpeg",
+      "simplified": "扫射",
+      "traditional": "掃射",
+      "pinyin": "sǎoshè"
+    },
+    {
+      "id": 404271,
+      "translation": {
+        "en": {
+          "short": "wide",
+          "long": "(in cricket) a ball delivered by the bowler that is too far from the batsman to hit, usually penalized with an extra run to the batting side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lebar",
+          "long": "(dalam kriket) Sebuah bola yang disampaikan oleh bowler yang terlalu jauh dari batsman untuk memukul, biasanya dihukum dengan lari ekstra ke sisi pemukul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404271.jpeg",
+      "simplified": "宽阔",
+      "traditional": "寬闊",
+      "pinyin": "kuānkuò"
+    },
+    {
+      "id": 404363,
+      "translation": {
+        "en": {
+          "short": "to stump",
+          "long": "to dismiss a batsman by knocking over their stumps with the ball in cricket",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tunggul",
+          "long": "untuk mengabaikan batsman dengan menjatuhkan tunggul mereka dengan bola di kriket",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404363.jpeg",
+      "simplified": "使 ... 为难",
+      "traditional": "使 ... 為難",
+      "pinyin": "shǐ wéinán"
+    },
+    {
+      "id": 404433,
+      "translation": {
+        "en": {
+          "short": "yorker",
+          "long": "a delivery in cricket bowled by a fast bowler aimed at the batsman's feet, typically difficult to play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Yorker",
+          "long": "Pengiriman di kriket bowled oleh bowler cepat yang ditujukan untuk kaki batsman, biasanya sulit untuk dimainkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404433.jpeg",
+      "simplified": "约克人",
+      "traditional": "約克人",
+      "pinyin": "Yuēkè rén"
+    },
+    {
+      "id": 407212,
+      "translation": {
+        "en": {
+          "short": "batting average",
+          "long": "(cricket) a statistic that shows how many runs a batsman scores on average per innings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rata -rata pukulan",
+          "long": "(kriket) Statistik yang menunjukkan berapa banyak yang menjalankan skor batsman rata -rata per inning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407212.jpeg",
+      "simplified": "击球率",
+      "traditional": "擊球率",
+      "pinyin": "jīqiú lǜ"
+    },
+    {
+      "id": 407223,
+      "translation": {
+        "en": {
+          "short": "to cut",
+          "long": "(of cricket ball) to turn and move off the pitch after bouncing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "(dari bola kriket) untuk berbalik dan bergerak dari lapangan setelah memantul",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407223.jpeg",
+      "simplified": "切",
+      "traditional": "切",
+      "pinyin": "qiē"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "id": 162,
+  "title": {
+    "en": "City and the Countryside",
+    "id": "Kota dan pedesaan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the city and the countryside, such as \"orchard\", \"gym\", \"suburb\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kota dan pedesaan, seperti \"kebun\", \"gym\", \"pinggiran kota\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 235936,
+      "translation": {
+        "en": {
+          "short": "cafe",
+          "long": "a small restaurant that sells drinks and meals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kafe",
+          "long": "restoran kecil yang menjual minuman dan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235936.jpeg",
+      "simplified": "咖啡店",
+      "traditional": "咖啡店",
+      "pinyin": "kāfēi diàn"
+    },
+    {
+      "id": 213252,
+      "translation": {
+        "en": {
+          "short": "gallery",
+          "long": "a place in which works of art are shown or sold to the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "galeri",
+          "long": "tempat di mana karya seni ditampilkan atau dijual kepada publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213252.jpeg",
+      "simplified": "画廊",
+      "traditional": "畫廊",
+      "pinyin": "huàláng"
+    },
+    {
+      "id": 213246,
+      "translation": {
+        "en": {
+          "short": "nightclub",
+          "long": "a place that is open during nighttime in which people can dance, eat, and drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klub malam",
+          "long": "tempat yang terbuka pada malam hari di mana orang bisa menari, makan, dan minum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213246.jpeg",
+      "simplified": "夜总会",
+      "traditional": "夜總會",
+      "pinyin": "yèzǒng huì"
+    },
+    {
+      "id": 235939,
+      "translation": {
+        "en": {
+          "short": "fire station",
+          "long": "a building where firefighters stay and have the tools they need to help with fires and other emergencies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stasiun pemadam kebakaran",
+          "long": "Bangunan tempat petugas pemadam kebakaran tinggal dan memiliki alat yang mereka butuhkan untuk membantu dengan kebakaran dan keadaan darurat lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235939.jpeg",
+      "simplified": "消防局",
+      "traditional": "消防局",
+      "pinyin": "xiāofáng jú"
+    },
+    {
+      "id": 213247,
+      "translation": {
+        "en": {
+          "short": "gym",
+          "long": "a place with special equipment that people go to exercise or play sports",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gym",
+          "long": "tempat dengan peralatan khusus yang orang berolahraga atau berolahraga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213247.jpeg",
+      "simplified": "健身房",
+      "traditional": "健身房",
+      "pinyin": "jiànshēn fáng"
+    },
+    {
+      "id": 235937,
+      "translation": {
+        "en": {
+          "short": "playground",
+          "long": "a playing area built outdoors for children, particularly inside parks or schools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat bermain",
+          "long": "Area bermain yang dibangun di luar ruangan untuk anak -anak, terutama di dalam taman atau sekolah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235937.jpeg",
+      "simplified": "操场",
+      "traditional": "操場",
+      "pinyin": "cāochǎng"
+    },
+    {
+      "id": 235938,
+      "translation": {
+        "en": {
+          "short": "barbershop",
+          "long": "a shop where a barber works and men can get haircuts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang potong rambut",
+          "long": "Toko tempat seorang tukang cukur bekerja dan pria bisa mendapatkan potongan rambut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235938.jpeg",
+      "simplified": "理发店",
+      "traditional": "理髮店",
+      "pinyin": "lǐfà diàn"
+    },
+    {
+      "id": 213263,
+      "translation": {
+        "en": {
+          "short": "urban",
+          "long": "related to or characteristic of a city or town",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "perkotaan",
+          "long": "terkait atau karakteristik kota atau kota",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213263.jpeg",
+      "simplified": "城市的",
+      "traditional": "城市的",
+      "pinyin": "chéngshì de"
+    },
+    {
+      "id": 213264,
+      "translation": {
+        "en": {
+          "short": "suburb",
+          "long": "a residential area outside a city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinggiran kota",
+          "long": "Area perumahan di luar kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213264.jpeg",
+      "simplified": "市郊",
+      "traditional": "市郊",
+      "pinyin": "shìjiāo"
+    },
+    {
+      "id": 213267,
+      "translation": {
+        "en": {
+          "short": "outskirts",
+          "long": "the outer areas or parts of a city or town",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinggiran",
+          "long": "area luar atau bagian kota atau kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213267.jpeg",
+      "simplified": "郊区",
+      "traditional": "郊區",
+      "pinyin": "JiāoQū"
+    },
+    {
+      "id": 213274,
+      "translation": {
+        "en": {
+          "short": "uptown",
+          "long": "a town or city's upper area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Uptown",
+          "long": "Area Atas Kota atau Kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213274.jpeg",
+      "simplified": "住宅区",
+      "traditional": "住宅區",
+      "pinyin": "zhùzhái qū"
+    },
+    {
+      "id": 213272,
+      "translation": {
+        "en": {
+          "short": "inner city",
+          "long": "an area close to the center of a city that usually suffers from economic problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dalam kota",
+          "long": "Area yang dekat dengan pusat kota yang biasanya menderita masalah ekonomi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213272.jpeg",
+      "simplified": "内城",
+      "traditional": "內城",
+      "pinyin": "nèichéng"
+    },
+    {
+      "id": 213271,
+      "translation": {
+        "en": {
+          "short": "community",
+          "long": "a group of people who live in the same area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masyarakat",
+          "long": "sekelompok orang yang tinggal di daerah yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213271.jpeg",
+      "simplified": "社区",
+      "traditional": "社區",
+      "pinyin": "shèqū"
+    },
+    {
+      "id": 213268,
+      "translation": {
+        "en": {
+          "short": "commuter",
+          "long": "a person who regularly travels to city for work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komuter",
+          "long": "seseorang yang secara teratur bepergian ke kota untuk bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213268.jpeg",
+      "simplified": "通勤者",
+      "traditional": "通勤者",
+      "pinyin": "tōngqín zhě"
+    },
+    {
+      "id": 213275,
+      "translation": {
+        "en": {
+          "short": "population",
+          "long": "the number of people who live in a particular city or country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "populasi",
+          "long": "jumlah orang yang tinggal di kota atau negara tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213275.jpeg",
+      "simplified": "人口",
+      "traditional": "人口",
+      "pinyin": "rénkǒu"
+    },
+    {
+      "id": 213276,
+      "translation": {
+        "en": {
+          "short": "housing",
+          "long": "buildings in which people live, including their condition, prices, or types",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perumahan",
+          "long": "bangunan tempat orang tinggal, termasuk kondisi, harga, atau jenisnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213276.jpeg",
+      "simplified": "住房",
+      "traditional": "住房",
+      "pinyin": "zhùfáng"
+    },
+    {
+      "id": 235928,
+      "translation": {
+        "en": {
+          "short": "parking lot",
+          "long": "an area in which people leave their vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat parkir",
+          "long": "Area di mana orang meninggalkan kendaraan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235928.jpeg",
+      "simplified": "停车场",
+      "traditional": "停車場",
+      "pinyin": "tíngchē chǎng"
+    },
+    {
+      "id": 235932,
+      "translation": {
+        "en": {
+          "short": "road sign",
+          "long": "a sign that shows warnings or information to drivers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rambu lalulintas",
+          "long": "Tanda yang menunjukkan peringatan atau informasi kepada pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235932.jpeg",
+      "simplified": "路标",
+      "traditional": "路標",
+      "pinyin": "lùbiāo"
+    },
+    {
+      "id": 221960,
+      "translation": {
+        "en": {
+          "short": "pedestrian",
+          "long": "a person who is on foot and not in or on a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pejalan kaki",
+          "long": "seseorang yang berjalan kaki dan tidak di dalam atau di atas kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221960.jpeg",
+      "simplified": "行人",
+      "traditional": "行人",
+      "pinyin": "xíngrén"
+    },
+    {
+      "id": 235935,
+      "translation": {
+        "en": {
+          "short": "street light",
+          "long": "a tall post with a light on top, usually found along roads, streets, or sidewalks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampu jalan",
+          "long": "Pos tinggi dengan cahaya di atas, biasanya ditemukan di sepanjang jalan, jalan, atau trotoar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235935.jpeg",
+      "simplified": "灯柱",
+      "traditional": "燈柱",
+      "pinyin": "dēngzhù"
+    },
+    {
+      "id": 235933,
+      "translation": {
+        "en": {
+          "short": "lane",
+          "long": "a narrow path in the countryside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur",
+          "long": "jalan sempit di pedesaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235933.jpeg",
+      "simplified": "狭窄的道路",
+      "traditional": "狹窄的道路",
+      "pinyin": "xiázhǎi de dàolù"
+    },
+    {
+      "id": 235931,
+      "translation": {
+        "en": {
+          "short": "overpass",
+          "long": "a type of bridge that is built over a road to provide a different passage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jembatan penyeberangan",
+          "long": "Jenis jembatan yang dibangun di atas jalan untuk memberikan bagian yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235931.jpeg",
+      "simplified": "立交桥",
+      "traditional": "高架橋",
+      "pinyin": "lìjiāo qiáo"
+    },
+    {
+      "id": 235929,
+      "translation": {
+        "en": {
+          "short": "crossroad",
+          "long": "the place where a road is crossed by another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crossroad",
+          "long": "Tempat di mana jalan dilintasi oleh yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235929.jpeg",
+      "simplified": "逵",
+      "traditional": "逵",
+      "pinyin": "kuí"
+    },
+    {
+      "id": 235922,
+      "translation": {
+        "en": {
+          "short": "farmland",
+          "long": "a land that is used for farming, especially in rural areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanah pertanian",
+          "long": "tanah yang digunakan untuk pertanian, terutama di daerah pedesaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235922.jpeg",
+      "simplified": "农田",
+      "traditional": "農田",
+      "pinyin": "nóngtián"
+    },
+    {
+      "id": 235923,
+      "translation": {
+        "en": {
+          "short": "grassland",
+          "long": "a large, open, and grass-covered area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padang rumput",
+          "long": "area yang besar, terbuka, dan tertutup rumput",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235923.jpeg",
+      "simplified": "草原",
+      "traditional": "草原",
+      "pinyin": "cǎoyuán"
+    },
+    {
+      "id": 235924,
+      "translation": {
+        "en": {
+          "short": "county",
+          "long": "(in the US) one of the areas into which a state is divided and has a local government of its own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daerah",
+          "long": "(di AS) Salah satu bidang di mana suatu negara dibagi dan memiliki pemerintah daerah sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235924.jpeg",
+      "simplified": "县",
+      "traditional": "縣",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 235925,
+      "translation": {
+        "en": {
+          "short": "orchard",
+          "long": "an area of land that is usually enclosed and is used to grow fruit trees in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebun",
+          "long": "Area lahan yang biasanya tertutup dan digunakan untuk menanam pohon buah -buahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235925.jpeg",
+      "simplified": "果园",
+      "traditional": "果園",
+      "pinyin": "guǒyuán"
+    },
+    {
+      "id": 235926,
+      "translation": {
+        "en": {
+          "short": "well",
+          "long": "a deep hole dug in the ground to get access to the resources beneath, such as water, oil, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sehat",
+          "long": "Sebuah lubang dalam yang digali di tanah untuk mendapatkan akses ke sumber daya di bawah, seperti air, minyak, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235926.jpeg",
+      "simplified": "井",
+      "traditional": "井",
+      "pinyin": "Jǐng"
+    },
+    {
+      "id": 262028,
+      "translation": {
+        "en": {
+          "short": "pizzeria",
+          "long": "a restaurant where mainly pizza is served",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "restoran pizza",
+          "long": "sebuah restoran di mana terutama pizza disajikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262028.jpeg",
+      "simplified": "比萨店",
+      "traditional": "比薩店",
+      "pinyin": "Bǐsà diàn"
+    },
+    {
+      "id": 235927,
+      "translation": {
+        "en": {
+          "short": "dam",
+          "long": "a huge wall built to keep water from entering an area or to contain and use water as a power source to produce electricity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bendungan",
+          "long": "Dinding besar yang dibangun untuk menjaga air agar tidak memasuki suatu area atau mengandung dan menggunakan air sebagai sumber daya untuk menghasilkan listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235927.jpeg",
+      "simplified": "坝",
+      "traditional": "壩",
+      "pinyin": "bà"
+    },
+    {
+      "id": 269732,
+      "translation": {
+        "en": {
+          "short": "sidewalk",
+          "long": "a pathway typically made of concrete or asphalt at the side of a street for people to walk on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trotoar",
+          "long": "Jalur yang biasanya terbuat dari beton atau aspal di sisi jalan bagi orang untuk berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269732.jpeg",
+      "simplified": "人行道",
+      "traditional": "人行道",
+      "pinyin": "rénxíng dào"
+    },
+    {
+      "id": 352427,
+      "translation": {
+        "en": {
+          "short": "homeland",
+          "long": "the place where someone or a group of people come from and feel a strong connection to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanah air",
+          "long": "Tempat dari mana seseorang atau sekelompok orang berasal dan merasakan hubungan yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352427.jpeg",
+      "simplified": "家园",
+      "traditional": "家園",
+      "pinyin": "jiāyuán"
+    }
+  ]
+}

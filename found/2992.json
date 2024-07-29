@@ -1,0 +1,716 @@
+{
+  "id": 2992,
+  "title": {
+    "en": "Preparing Drinks",
+    "id": "Menyiapkan minuman"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to preparing drinks such as \"brew\", \"fermentation\", and \"kettle\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan menyiapkan minuman seperti \"minuman\", \"fermentasi\", dan \"ketel\"."
+  },
+  "cards": [
+    {
+      "id": 311671,
+      "translation": {
+        "en": {
+          "short": "to brew",
+          "long": "to make a drink, such as tea or coffee, or soup by soaking ingredients in hot water",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyeduh",
+          "long": "untuk membuat minuman, seperti teh atau kopi, atau sup dengan merendam bahan dalam air panas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311671.jpeg",
+      "simplified": "酿",
+      "traditional": "釀",
+      "pinyin": "niàng"
+    },
+    {
+      "id": 311672,
+      "translation": {
+        "en": {
+          "short": "grounds",
+          "long": "the settled particles that collect at the bottom of a liquid, such as coffee or tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alasan",
+          "long": "Partikel -partikel yang diselesaikan yang mengumpulkan di bagian bawah cairan, seperti kopi atau teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311672.jpeg",
+      "simplified": "理由",
+      "traditional": "理由",
+      "pinyin": "lǐyóu"
+    },
+    {
+      "id": 311675,
+      "translation": {
+        "en": {
+          "short": "to percolate",
+          "long": "to brew coffee by passing hot water through the grounds, typically in a percolator",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meresap",
+          "long": "untuk menyeduh kopi dengan melewati air panas melalui tanah, biasanya dalam perkolator",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311675.jpeg",
+      "simplified": "过滤",
+      "traditional": "過濾",
+      "pinyin": "guòlǜ"
+    },
+    {
+      "id": 312008,
+      "translation": {
+        "en": {
+          "short": "to [put] the kettle on",
+          "long": "to start boiling water in a kettle, typically to make tea or coffee",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [memakai] ketel",
+          "long": "Untuk mulai mendidih air dalam ketel, biasanya untuk membuat teh atau kopi",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312008.jpeg",
+      "simplified": "把水壶放上",
+      "traditional": "把水壺放上",
+      "pinyin": "bǎ shuǐhú fàng shǎng"
+    },
+    {
+      "id": 312009,
+      "translation": {
+        "en": {
+          "short": "tea bag",
+          "long": "a small bag or sachet containing tea leaves or herbal ingredients used to steep in hot water for brewing tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kantong teh",
+          "long": "Kantong kecil atau sachet yang mengandung daun teh atau bahan herbal digunakan untuk curam dalam air panas untuk menyeduh teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312009.jpeg",
+      "simplified": "茶包",
+      "traditional": "茶包",
+      "pinyin": "chábāo"
+    },
+    {
+      "id": 312010,
+      "translation": {
+        "en": {
+          "short": "tea leaf",
+          "long": "dried leaves of the tea plant used to brew tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daun teh",
+          "long": "Daun tanaman teh kering digunakan untuk menyeduh teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312010.jpeg",
+      "simplified": "茶叶",
+      "traditional": "茶葉",
+      "pinyin": "cháyè"
+    },
+    {
+      "id": 312011,
+      "translation": {
+        "en": {
+          "short": "brewer",
+          "long": "a person who is skilled in creating and fermenting beer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuat bir",
+          "long": "Seseorang yang terampil dalam menciptakan dan memfermentasi bir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312011.jpeg",
+      "simplified": "酿酒师",
+      "traditional": "釀酒師",
+      "pinyin": "niàngjiǔ Shī"
+    },
+    {
+      "id": 312012,
+      "translation": {
+        "en": {
+          "short": "brewery",
+          "long": "a place where beer is produced",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat pembuatan bir",
+          "long": "tempat bir diproduksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312012.jpeg",
+      "simplified": "酒厂",
+      "traditional": "酒廠",
+      "pinyin": "jiǔchǎng"
+    },
+    {
+      "id": 312013,
+      "translation": {
+        "en": {
+          "short": "draught",
+          "long": "a serving of a drink, such as beer, from a cask or keg rather than a bottle or can",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "draf",
+          "long": "satu porsi minuman, seperti bir, dari tong atau tong daripada botol atau kaleng",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312013.jpeg",
+      "simplified": "草案",
+      "traditional": "草案",
+      "pinyin": "cǎoàn"
+    },
+    {
+      "id": 312014,
+      "translation": {
+        "en": {
+          "short": "to freshen",
+          "long": "to refill or top up someone's glass with more of the same beverage they were having",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyegarkan",
+          "long": "untuk mengisi ulang atau menambah gelas seseorang dengan lebih banyak minuman yang sama dengan yang mereka alami",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312014.jpeg",
+      "simplified": "清新",
+      "traditional": "清新",
+      "pinyin": "qīngxīn"
+    },
+    {
+      "id": 312024,
+      "translation": {
+        "en": {
+          "short": "head",
+          "long": "the bubbly layer that forms on the surface of certain drinks, such as beer or other carbonated beverages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepala",
+          "long": "lapisan bergelembung yang terbentuk di permukaan minuman tertentu, seperti bir atau minuman berkarbonasi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312024.jpeg",
+      "simplified": "头",
+      "traditional": "頭",
+      "pinyin": "tóu"
+    },
+    {
+      "id": 312028,
+      "translation": {
+        "en": {
+          "short": "mash",
+          "long": "a mixture of food ingredients, typically cooked, that have been crushed or beaten together until they form a smooth texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tumbuk",
+          "long": "Campuran bahan makanan, biasanya dimasak, yang telah dihancurkan atau dipukuli bersama sampai mereka membentuk tekstur halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312028.jpeg",
+      "simplified": "饲料",
+      "traditional": "飼料",
+      "pinyin": "sìliào"
+    },
+    {
+      "id": 312029,
+      "translation": {
+        "en": {
+          "short": "microbrewery",
+          "long": "a small-scale brewery that produces limited quantities of craft beer, focusing on quality and innovation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Microbrewery",
+          "long": "Tempat pembuatan bir skala kecil yang menghasilkan sejumlah bir kerajinan, fokus pada kualitas dan inovasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312029.jpeg",
+      "simplified": "小啤酒厂",
+      "traditional": "小啤酒廠",
+      "pinyin": "xiǎo píjiǔ chǎng"
+    },
+    {
+      "id": 312030,
+      "translation": {
+        "en": {
+          "short": "draught beer",
+          "long": "a type of beer that is served from a keg or a cask and dispensed through a tap or a faucet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Draf bir",
+          "long": "Jenis bir yang disajikan dari tong atau tong dan dibagikan melalui keran atau faucet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312030.jpeg",
+      "simplified": "扎啤酒",
+      "traditional": "生啤酒",
+      "pinyin": "zhāpí jiǔ"
+    },
+    {
+      "id": 312047,
+      "translation": {
+        "en": {
+          "short": "winemaking",
+          "long": "the process and science of producing wine, encompassing grape cultivation, harvesting, fermentation, aging, blending, and bottling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuatan anggur",
+          "long": "Proses dan ilmu memproduksi anggur, meliputi budidaya anggur, panen, fermentasi, penuaan, pencampuran, dan pembotolan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312047.jpeg",
+      "simplified": "酿酒",
+      "traditional": "釀酒",
+      "pinyin": "niàngjiǔ"
+    },
+    {
+      "id": 312056,
+      "translation": {
+        "en": {
+          "short": "winery",
+          "long": "a place where wine is made and usually stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kilang anggur",
+          "long": "tempat di mana anggur dibuat dan biasanya disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312056.jpeg",
+      "simplified": "酒厂",
+      "traditional": "酒廠",
+      "pinyin": "jiǔchǎng"
+    },
+    {
+      "id": 312063,
+      "translation": {
+        "en": {
+          "short": "fermentation",
+          "long": "the process by which microorganisms convert carbohydrates into alcohol, acids, or gases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fermentasi",
+          "long": "Proses dimana mikroorganisme mengubah karbohidrat menjadi alkohol, asam, atau gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312063.jpeg",
+      "simplified": "发酵作用",
+      "traditional": "發酵作用",
+      "pinyin": "fājiào zuòyòng"
+    },
+    {
+      "id": 313507,
+      "translation": {
+        "en": {
+          "short": "cezve",
+          "long": "a small pot used for brewing coffee, often associated with Middle Eastern and Turkish coffee traditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cezve",
+          "long": "Panci kecil yang digunakan untuk menyeduh kopi, sering dikaitkan dengan tradisi kopi Timur Tengah dan Turki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313507.jpeg",
+      "simplified": "杰兹韦",
+      "traditional": "傑茲韋",
+      "pinyin": "jié zī Wéi"
+    },
+    {
+      "id": 313515,
+      "translation": {
+        "en": {
+          "short": "dallah",
+          "long": "a decorative Arabic coffee pot for brewing and serving Arabic coffee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dallah",
+          "long": "Panci kopi Arab dekoratif untuk menyeduh dan menyajikan kopi Arab",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313515.jpeg",
+      "simplified": "达拉",
+      "traditional": "達拉",
+      "pinyin": "Dá lā"
+    },
+    {
+      "id": 313525,
+      "translation": {
+        "en": {
+          "short": "jebena",
+          "long": "a traditional Ethiopian coffee pot used for brewing and serving coffee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jebena",
+          "long": "Pot kopi Ethiopia tradisional yang digunakan untuk menyeduh dan menyajikan kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313525.jpeg",
+      "simplified": "杰贝纳",
+      "traditional": "傑貝納",
+      "pinyin": "jié Bèi Nà"
+    },
+    {
+      "id": 313545,
+      "translation": {
+        "en": {
+          "short": "espresso machine",
+          "long": "a machine that brews coffee by forcing water near boiling point through ground coffee and a filter to produce a thick, concentrated coffee called espresso",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin espresso",
+          "long": "Mesin yang menyeduh kopi dengan memaksa air di dekat titik didih melalui kopi bubuk dan filter untuk menghasilkan kopi tebal dan terkonsentrasi yang disebut espresso",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313545.jpeg",
+      "simplified": "浓缩咖啡机",
+      "traditional": "濃縮咖啡機",
+      "pinyin": "nóngsuō kā fēi Jī"
+    },
+    {
+      "id": 313551,
+      "translation": {
+        "en": {
+          "short": "wine cooler",
+          "long": "a refrigeration unit designed specifically to store and chill wine bottles at the optimal temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendingin anggur",
+          "long": "Unit pendingin yang dirancang khusus untuk menyimpan dan mendinginkan botol anggur pada suhu optimal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313551.jpeg",
+      "simplified": "酒柜",
+      "traditional": "酒櫃",
+      "pinyin": "jiǔguì"
+    },
+    {
+      "id": 313553,
+      "translation": {
+        "en": {
+          "short": "coffee maker",
+          "long": "a machine used for making coffee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuat kopi",
+          "long": "mesin yang digunakan untuk membuat kopi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313553.jpeg",
+      "simplified": "咖啡机",
+      "traditional": "咖啡機",
+      "pinyin": "kāfēi jī"
+    },
+    {
+      "id": 313554,
+      "translation": {
+        "en": {
+          "short": "kettle",
+          "long": "a container with a handle, lid, and spout that is used for boiling water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketel",
+          "long": "wadah dengan pegangan, tutup, dan semburan yang digunakan untuk air mendidih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313554.jpeg",
+      "simplified": "水壶",
+      "traditional": "水壺",
+      "pinyin": "shuǐhú"
+    },
+    {
+      "id": 313557,
+      "translation": {
+        "en": {
+          "short": "water dispenser",
+          "long": "a device or appliance that provides a convenient source of drinking water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dispenser air",
+          "long": "perangkat atau alat yang menyediakan sumber air minum yang nyaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313557.jpeg",
+      "simplified": "饮水机",
+      "traditional": "飲水機",
+      "pinyin": "yǐnshuǐ jī"
+    },
+    {
+      "id": 313558,
+      "translation": {
+        "en": {
+          "short": "water boiler",
+          "long": "a device or appliance that heats water for various purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemanas air",
+          "long": "perangkat atau alat yang memanaskan air untuk berbagai keperluan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313558.jpeg",
+      "simplified": "开水器",
+      "traditional": "開水器",
+      "pinyin": "kāishuǐ qì"
+    },
+    {
+      "id": 313560,
+      "translation": {
+        "en": {
+          "short": "moka pot",
+          "long": "a stovetop coffee maker that brews coffee by passing hot water through coffee grounds under pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pot moka",
+          "long": "pembuat kopi kompor yang menyeduh kopi dengan melewati air panas melalui bubuk kopi di bawah tekanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313560.jpeg",
+      "simplified": "摩卡壶",
+      "traditional": "摩卡壺",
+      "pinyin": "mókǎ hú"
+    },
+    {
+      "id": 313565,
+      "translation": {
+        "en": {
+          "short": "samovar",
+          "long": "a metal urn used to heat and boil water for making tea, commonly found in Russia and other countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Samovar",
+          "long": "guci logam yang digunakan untuk memanaskan dan mendidihkan air untuk membuat teh, biasanya ditemukan di Rusia dan negara -negara lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313565.jpeg",
+      "simplified": "茶炊",
+      "traditional": "茶炊",
+      "pinyin": "chá chuī"
+    },
+    {
+      "id": 313568,
+      "translation": {
+        "en": {
+          "short": "teapot",
+          "long": "a container with a handle, lid, and spout for brewing and serving tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teko",
+          "long": "wadah dengan pegangan, tutup, dan cerat untuk menyeduh dan menyajikan teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313568.jpeg",
+      "simplified": "茶壶",
+      "traditional": "茶壺",
+      "pinyin": "cháhú"
+    },
+    {
+      "id": 313570,
+      "translation": {
+        "en": {
+          "short": "cafetiere",
+          "long": "a coffee maker that brews coffee by steeping ground beans in hot water and separating the coffee from the grounds using a plunger and filter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cafetiere",
+          "long": "Seorang pembuat kopi yang menyeduh kopi dengan merendam kacang tanah dalam air panas dan memisahkan kopi dari lahan menggunakan plunger dan filter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313570.jpeg",
+      "simplified": "咖啡厅",
+      "traditional": "咖啡廳",
+      "pinyin": "kāfēi tīng"
+    },
+    {
+      "id": 336511,
+      "translation": {
+        "en": {
+          "short": "magnum",
+          "long": "a large-sized bottle for wine or other alcoholic beverages, holding 1.5 liters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Magnum",
+          "long": "Botol berukuran besar untuk anggur atau minuman beralkohol lainnya, memegang 1,5 liter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336511.jpeg",
+      "simplified": "马格南",
+      "traditional": "馬格南",
+      "pinyin": "Mǎ gé Nán"
+    },
+    {
+      "id": 336512,
+      "translation": {
+        "en": {
+          "short": "jeroboam",
+          "long": "a large-sized bottle used for storing and serving wine or other alcoholic beverages, typically containing 3 liters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jeroboam",
+          "long": "Botol berukuran besar yang digunakan untuk menyimpan dan menyajikan anggur atau minuman beralkohol lainnya, biasanya mengandung 3 liter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336512.jpeg",
+      "simplified": "耶罗波安",
+      "traditional": "耶羅波安",
+      "pinyin": "yē Luó Bō An1"
+    },
+    {
+      "id": 336514,
+      "translation": {
+        "en": {
+          "short": "rehoboam",
+          "long": "a large wine or champagne bottle size, typically holding 4.5 liters or equivalent to 6 regular wine bottles or 6 liters of champagne",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rehoboam",
+          "long": "Ukuran botol anggur atau sampanye besar, biasanya memegang 4,5 liter atau setara dengan 6 botol anggur biasa atau 6 liter sampanye",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336514.jpeg",
+      "simplified": "罗波安",
+      "traditional": "羅波安",
+      "pinyin": "Luó Bō An1"
+    },
+    {
+      "id": 336516,
+      "translation": {
+        "en": {
+          "short": "methuselah",
+          "long": "a large wine or champagne bottle size, typically holding 6 liters or equivalent to 8 regular wine bottles or 8 liters of champagne",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Methuselah",
+          "long": "Ukuran botol anggur atau sampanye besar, biasanya memegang 6 liter atau setara dengan 8 botol anggur biasa atau 8 liter sampanye",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336516.jpeg",
+      "simplified": "玛撒拉",
+      "traditional": "瑪撒拉",
+      "pinyin": "mǎ Sālā"
+    },
+    {
+      "id": 336518,
+      "translation": {
+        "en": {
+          "short": "salmanazar",
+          "long": "a large wine or champagne bottle size, typically holding 9 liters or equivalent to 12 regular wine bottles or 12 liters of champagne",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salmanazar",
+          "long": "Ukuran botol anggur atau sampanye besar, biasanya memegang 9 liter atau setara dengan 12 botol anggur biasa atau 12 liter sampanye",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336518.jpeg",
+      "simplified": "萨尔马纳扎尔",
+      "traditional": "薩爾馬納扎爾",
+      "pinyin": "Sàěr Mǎ Nà zhā ěr"
+    },
+    {
+      "id": 336520,
+      "translation": {
+        "en": {
+          "short": "balthazar",
+          "long": "a large wine or champagne bottle size, typically holding 12 liters or equivalent to 16 regular wine bottles or 16 liters of champagne",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Balthazar",
+          "long": "Ukuran botol anggur atau sampanye besar, biasanya memegang 12 liter atau setara dengan 16 botol anggur biasa atau 16 liter sampanye",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336520.jpeg",
+      "simplified": "巴尔萨泽",
+      "traditional": "巴爾薩澤",
+      "pinyin": "Bā ěr Sà zé"
+    },
+    {
+      "id": 336521,
+      "translation": {
+        "en": {
+          "short": "nebuchadnezzar",
+          "long": "an extra-large bottle for wine or other alcoholic drinks, holding around 15 liters or 20 standard bottles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nebukadnezar",
+          "long": "botol ekstra besar untuk anggur atau minuman beralkohol lainnya, memegang sekitar 15 liter atau 20 botol standar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/336521.jpeg",
+      "simplified": "尼布甲尼撒",
+      "traditional": "尼布甲尼撒",
+      "pinyin": "Níbù jiǎ ní sā"
+    }
+  ]
+}

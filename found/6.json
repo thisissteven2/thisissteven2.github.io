@@ -1,0 +1,469 @@
+{
+  "id": 6,
+  "title": {
+    "en": "Time and Date",
+    "id": "Waktu dan tanggal"
+  },
+  "description": {
+    "en": "Here you will learn some basic English words about the time and date, such as \"hour\", \"morning\", and \"week\", prepared for A1 learners.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris dasar tentang waktu dan tanggal, seperti \"jam\", \"pagi\", dan \"minggu\", yang dipersiapkan untuk pelajar A1."
+  },
+  "cards": [
+    {
+      "id": 221073,
+      "translation": {
+        "en": {
+          "short": "clock",
+          "long": "a device used to measure and show time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam",
+          "long": "perangkat yang digunakan untuk mengukur dan menunjukkan waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221073.jpeg",
+      "simplified": "时钟",
+      "traditional": "時鐘",
+      "pinyin": "shízhōng"
+    },
+    {
+      "id": 220436,
+      "translation": {
+        "en": {
+          "short": "year",
+          "long": "a period of time that is made up of twelve months, particularly one that starts on January first and ends on December thirty-first",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tahun",
+          "long": "periode waktu yang terdiri dari dua belas bulan, terutama yang dimulai pada Januari pertama dan berakhir pada Desember tiga puluh satu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220436.jpeg",
+      "simplified": "年",
+      "traditional": "年",
+      "pinyin": "Nián"
+    },
+    {
+      "id": 220650,
+      "translation": {
+        "en": {
+          "short": "time",
+          "long": "the quantity that is measured in seconds, minutes, hours, etc. using a device like clock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waktu",
+          "long": "Jumlah yang diukur dalam detik, menit, jam, dll. Menggunakan perangkat seperti jam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220650.jpeg",
+      "simplified": "时间",
+      "traditional": "時間",
+      "pinyin": "shíjiān"
+    },
+    {
+      "id": 220435,
+      "translation": {
+        "en": {
+          "short": "date",
+          "long": "a specific day in a month or sometimes a year, shown using a number and sometimes a name",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanggal",
+          "long": "hari tertentu dalam sebulan atau kadang -kadang setahun, ditampilkan menggunakan angka dan terkadang nama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220435.jpeg",
+      "simplified": "日历日期",
+      "traditional": "日曆日期",
+      "pinyin": "rìlì rìqī"
+    },
+    {
+      "id": 208474,
+      "translation": {
+        "en": {
+          "short": "day",
+          "long": "a period of time that is made up of twenty-four hours",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hari",
+          "long": "periode waktu yang terdiri dari dua puluh empat jam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208474.jpeg",
+      "simplified": "日",
+      "traditional": "日",
+      "pinyin": "Rì"
+    },
+    {
+      "id": 208471,
+      "translation": {
+        "en": {
+          "short": "hour",
+          "long": "each of the twenty-four time periods that exist in a day and each time period is made up of sixty minutes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam",
+          "long": "Masing-masing dari dua puluh empat periode waktu yang ada dalam sehari dan setiap periode waktu terdiri dari enam puluh menit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208471.jpeg",
+      "simplified": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎoshí"
+    },
+    {
+      "id": 208470,
+      "translation": {
+        "en": {
+          "short": "o'clock",
+          "long": "put after the numbers one to twelve to show or tell what time it is, only when it is at that exact hour",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "jam",
+          "long": "Letakkan setelah angka satu ke dua belas untuk menunjukkan atau memberi tahu jam berapa sekarang, hanya saat itu pada jam yang tepat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208470.jpeg",
+      "simplified": "点钟",
+      "traditional": "點鐘",
+      "pinyin": "diǎnzhōng"
+    },
+    {
+      "id": 208472,
+      "translation": {
+        "en": {
+          "short": "minute",
+          "long": "each of the sixty parts that creates one hour and is made up of sixty seconds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menit",
+          "long": "Masing -masing dari enam puluh bagian yang menciptakan satu jam dan terdiri dari enam puluh detik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208472.jpeg",
+      "simplified": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēnzhōng"
+    },
+    {
+      "id": 208473,
+      "translation": {
+        "en": {
+          "short": "second",
+          "long": "each of the sixty parts that creates one minute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kedua",
+          "long": "masing -masing dari enam puluh bagian yang menciptakan satu menit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208473.jpeg",
+      "simplified": "秒",
+      "traditional": "秒",
+      "pinyin": "miǎo"
+    },
+    {
+      "id": 208475,
+      "translation": {
+        "en": {
+          "short": "morning",
+          "long": "the time of day that is between when the sun starts to rise and the middle of the day at twelve o'clock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pagi",
+          "long": "Waktu hari yang antara matahari mulai terbit dan tengah hari pada jam dua belas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208475.jpeg",
+      "simplified": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎoshang"
+    },
+    {
+      "id": 208477,
+      "translation": {
+        "en": {
+          "short": "afternoon",
+          "long": "the time of day that is between twelve o'clock and the time that the sun starts to set",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sore",
+          "long": "Waktu hari itu adalah antara jam dua belas dan waktu matahari mulai terbenam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208477.jpeg",
+      "simplified": "下午",
+      "traditional": "下午",
+      "pinyin": "xiàwǔ"
+    },
+    {
+      "id": 208478,
+      "translation": {
+        "en": {
+          "short": "evening",
+          "long": "the time of day that is between the time that the sun starts to set and when the sky becomes completely dark",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "malam",
+          "long": "Waktu hari itu adalah antara waktu matahari mulai terbenam dan ketika langit menjadi benar -benar gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208478.jpeg",
+      "simplified": "晚间",
+      "traditional": "晚間",
+      "pinyin": "wǎnjiān"
+    },
+    {
+      "id": 208479,
+      "translation": {
+        "en": {
+          "short": "night",
+          "long": "the time when the sun goes down, it gets dark outside, and we sleep",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "malam",
+          "long": "Waktu ketika matahari terbenam, menjadi gelap di luar, dan kami tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208479.jpeg",
+      "simplified": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn"
+    },
+    {
+      "id": 208481,
+      "translation": {
+        "en": {
+          "short": "week",
+          "long": "a period of time that is made up of seven days in a calendar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekan",
+          "long": "periode waktu yang terdiri dari tujuh hari dalam kalender",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208481.jpeg",
+      "simplified": "周",
+      "traditional": "週",
+      "pinyin": "Zhōu"
+    },
+    {
+      "id": 208483,
+      "translation": {
+        "en": {
+          "short": "Sunday",
+          "long": "‌the day that comes after Saturday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Minggu",
+          "long": "Hari yang datang setelah hari Sabtu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208483.jpeg",
+      "simplified": "星期日",
+      "traditional": "星期日",
+      "pinyin": "Xīngqī rì"
+    },
+    {
+      "id": 208484,
+      "translation": {
+        "en": {
+          "short": "Monday",
+          "long": "‌the day that comes after Sunday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Senin",
+          "long": "‌ Hari yang datang setelah hari Minggu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208484.jpeg",
+      "simplified": "周一",
+      "traditional": "週一",
+      "pinyin": "Zhōuyī"
+    },
+    {
+      "id": 208485,
+      "translation": {
+        "en": {
+          "short": "Tuesday",
+          "long": "‌the day that comes after Monday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Selasa",
+          "long": "Hari yang datang setelah Senin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208485.jpeg",
+      "simplified": "星期二",
+      "traditional": "星期二",
+      "pinyin": "Xīngqī èr"
+    },
+    {
+      "id": 208486,
+      "translation": {
+        "en": {
+          "short": "Wednesday",
+          "long": "‌the day that comes after Tuesday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rabu",
+          "long": "Hari yang datang setelah Selasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208486.jpeg",
+      "simplified": "星期三",
+      "traditional": "星期三",
+      "pinyin": "Xīngqī sān"
+    },
+    {
+      "id": 208487,
+      "translation": {
+        "en": {
+          "short": "Thursday",
+          "long": "‌the day that comes after Wednesday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kamis",
+          "long": "Hari yang datang setelah Rabu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208487.jpeg",
+      "simplified": "星期四",
+      "traditional": "星期四",
+      "pinyin": "Xīngqī sì"
+    },
+    {
+      "id": 208488,
+      "translation": {
+        "en": {
+          "short": "Friday",
+          "long": "‌the day that comes after Thursday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jumat",
+          "long": "Hari yang datang setelah Kamis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208488.jpeg",
+      "simplified": "星期五",
+      "traditional": "星期五",
+      "pinyin": "Xīngqī wǔ"
+    },
+    {
+      "id": 208482,
+      "translation": {
+        "en": {
+          "short": "Saturday",
+          "long": "‌the day that comes after Friday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sabtu",
+          "long": "Hari yang datang setelah Jumat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208482.jpeg",
+      "simplified": "星期六",
+      "traditional": "星期六",
+      "pinyin": "Xīngqī liù"
+    },
+    {
+      "id": 208489,
+      "translation": {
+        "en": {
+          "short": "weekend",
+          "long": "the days of the week, usually Saturday and Sunday, when people do not have to go to work or school",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akhir pekan",
+          "long": "Hari -hari dalam seminggu, biasanya Sabtu dan Minggu, ketika orang tidak harus pergi bekerja atau sekolah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208489.jpeg",
+      "simplified": "周末",
+      "traditional": "週末",
+      "pinyin": "zhōumò"
+    },
+    {
+      "id": 220566,
+      "translation": {
+        "en": {
+          "short": "next",
+          "long": "coming immediately after a person or thing in time, place, or rank",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Berikutnya",
+          "long": "datang segera setelah seseorang atau sesuatu dalam waktu, tempat, atau pangkat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220566.jpeg",
+      "simplified": "下一个",
+      "traditional": "下一個",
+      "pinyin": "xiàyī ge"
+    },
+    {
+      "id": 220654,
+      "translation": {
+        "en": {
+          "short": "half",
+          "long": "either one of two equal parts of a thing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah",
+          "long": "salah satu dari dua bagian yang sama dari suatu hal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220654.jpeg",
+      "simplified": "半",
+      "traditional": "半",
+      "pinyin": "bàn"
+    }
+  ]
+}

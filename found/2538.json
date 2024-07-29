@@ -1,0 +1,678 @@
+{
+  "id": 2538,
+  "title": {
+    "en": "Blood Test",
+    "id": "Tes darah"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to blood tests, such as \"platelet\", \"hematocrit\", and \"doppler ultrasound\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan tes darah, seperti \"trombosit\", \"hematokrit\", dan \"USG Doppler\"."
+  },
+  "cards": [
+    {
+      "id": 300420,
+      "translation": {
+        "en": {
+          "short": "platelet",
+          "long": "a small, cell-like structure in the blood that helps in clotting and preventing excessive bleeding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trombosit",
+          "long": "Struktur kecil seperti sel dalam darah yang membantu dalam pembekuan dan mencegah pendarahan berlebihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300420.jpeg",
+      "simplified": "血小板",
+      "traditional": "血小板",
+      "pinyin": "xuèxiǎo bǎn"
+    },
+    {
+      "id": 300398,
+      "translation": {
+        "en": {
+          "short": "hemoglobin",
+          "long": "a protein that carries oxygen in red blood cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hemoglobin",
+          "long": "protein yang membawa oksigen dalam sel darah merah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300398.jpeg",
+      "simplified": "血红蛋白",
+      "traditional": "血紅蛋白",
+      "pinyin": "xuèhóng dàn bái"
+    },
+    {
+      "id": 300419,
+      "translation": {
+        "en": {
+          "short": "hematocrit",
+          "long": "a measure of the percentage of red blood cells in the total volume of blood, indicating its oxygen-carrying capacity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hematokrit",
+          "long": "Ukuran persentase sel darah merah dalam volume total darah, menunjukkan kapasitas pembawa oksigen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300419.jpeg",
+      "simplified": "分血器",
+      "traditional": "分血器",
+      "pinyin": "fēn xiě qì"
+    },
+    {
+      "id": 300379,
+      "translation": {
+        "en": {
+          "short": "doppler ultrasound",
+          "long": "a diagnostic imaging technique that uses sound waves to assess blood flow and detect abnormalities in blood vessels and organs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "USG DOPPLER",
+          "long": "Teknik pencitraan diagnostik yang menggunakan gelombang suara untuk menilai aliran darah dan mendeteksi kelainan pada pembuluh darah dan organ",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300379.jpeg",
+      "simplified": "多普勒超声",
+      "traditional": "多普勒超聲",
+      "pinyin": "Duōpǔ lè chāoshēng"
+    },
+    {
+      "id": 300380,
+      "translation": {
+        "en": {
+          "short": "blood type",
+          "long": "any of the types into which human blood is divided",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "golongan darah",
+          "long": "Salah satu jenis di mana darah manusia dibagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300380.jpeg",
+      "simplified": "血型",
+      "traditional": "血型",
+      "pinyin": "xuèxíng"
+    },
+    {
+      "id": 300381,
+      "translation": {
+        "en": {
+          "short": "angiography",
+          "long": "a medical imaging procedure that uses contrast dye and X-rays to visualize blood vessels and diagnose conditions such as blockages or abnormalities in the circulatory system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angiografi",
+          "long": "Prosedur pencitraan medis yang menggunakan pewarna kontras dan sinar-X untuk memvisualisasikan pembuluh darah dan mendiagnosis kondisi seperti penyumbatan atau kelainan pada sistem peredaran darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300381.jpeg",
+      "simplified": "血管造影",
+      "traditional": "血管造影",
+      "pinyin": "xuèguǎn zào yǐng"
+    },
+    {
+      "id": 300383,
+      "translation": {
+        "en": {
+          "short": "erythrocyte sedimentation rate",
+          "long": "a blood test that shows the speed at which red blood cells settle, often used to detect inflammation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tingkat sedimentasi eritrosit",
+          "long": "Tes darah yang menunjukkan kecepatan sel darah merah mengendap, sering digunakan untuk mendeteksi peradangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300383.jpeg",
+      "simplified": "红细胞沉降率",
+      "traditional": "紅細胞沉降率",
+      "pinyin": "hóngxì bāo chén jiàng lǜ"
+    },
+    {
+      "id": 300385,
+      "translation": {
+        "en": {
+          "short": "red blood cell antibody screen",
+          "long": "a test to detect antibodies against red blood cells for safe blood transfusion practices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layar Antibodi Sel Darah Merah",
+          "long": "Tes untuk mendeteksi antibodi terhadap sel darah merah untuk praktik transfusi darah yang aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300385.jpeg",
+      "simplified": "红细胞抗体筛查",
+      "traditional": "紅細胞抗體篩查",
+      "pinyin": "hóngxì bāo kàngtǐ shāichá"
+    },
+    {
+      "id": 300386,
+      "translation": {
+        "en": {
+          "short": "complete blood count",
+          "long": "a blood test that assesses various components, aiding in the diagnosis of medical conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jumlah darah lengkap",
+          "long": "tes darah yang menilai berbagai komponen, membantu dalam diagnosis kondisi medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300386.jpeg",
+      "simplified": "全血细胞计数",
+      "traditional": "全血細胞計數",
+      "pinyin": "Quán xuèxì bāo jìshù"
+    },
+    {
+      "id": 300389,
+      "translation": {
+        "en": {
+          "short": "arterial blood gas test",
+          "long": "blood test to assess respiratory and metabolic function, acid-base balance, and oxygenation status",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tes gas darah arteri",
+          "long": "Tes darah untuk menilai fungsi pernapasan dan metabolisme, keseimbangan asam-basa, dan status oksigenasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300389.jpeg",
+      "simplified": "动脉血液测试",
+      "traditional": "動脈血液測試",
+      "pinyin": "dòngmài xuèyè cèshì"
+    },
+    {
+      "id": 300391,
+      "translation": {
+        "en": {
+          "short": "ammonia test",
+          "long": "a blood test to assess liver function and detect liver disease by measuring ammonia levels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes amonia",
+          "long": "Tes darah untuk menilai fungsi hati dan mendeteksi penyakit hati dengan mengukur kadar amonia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300391.jpeg",
+      "simplified": "氨测试",
+      "traditional": "氨測試",
+      "pinyin": "ān cèshì"
+    },
+    {
+      "id": 300393,
+      "translation": {
+        "en": {
+          "short": "alanine transaminase",
+          "long": "an enzyme found in liver cells that is commonly measured in blood tests to assess liver health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Alanine transaminase",
+          "long": "enzim yang ditemukan dalam sel hati yang biasanya diukur dalam tes darah untuk menilai kesehatan hati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300393.jpeg",
+      "simplified": "丙氨酸转氨酶",
+      "traditional": "丙氨酸轉氨酶",
+      "pinyin": "bǐngān suān zhuǎnān méi"
+    },
+    {
+      "id": 300395,
+      "translation": {
+        "en": {
+          "short": "ALT blood test",
+          "long": "a blood test that measures the levels of an enzyme called ALT in the blood, which can indicate liver health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes darah alt",
+          "long": "Tes darah yang mengukur kadar enzim yang disebut alt dalam darah, yang dapat menunjukkan kesehatan hati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300395.jpeg",
+      "simplified": "Alt血液测试",
+      "traditional": "Alt血液測試",
+      "pinyin": "A xuèyè cèshì"
+    },
+    {
+      "id": 300397,
+      "translation": {
+        "en": {
+          "short": "anion gap",
+          "long": "a blood test that measures ion imbalance in the blood for diagnosing metabolic and acid-base disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celah anion",
+          "long": "Tes darah yang mengukur ketidakseimbangan ion dalam darah untuk mendiagnosis gangguan metabolik dan asam-basa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300397.jpeg",
+      "simplified": "阴离子间隙",
+      "traditional": "陰離子間隙",
+      "pinyin": "yīnlí zǐ jiànxì"
+    },
+    {
+      "id": 300399,
+      "translation": {
+        "en": {
+          "short": "platelet count",
+          "long": "a blood test that measures the number of small cell fragments called platelets involved in blood clotting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jumlah trombosit",
+          "long": "Tes darah yang mengukur jumlah fragmen sel kecil yang disebut trombosit yang terlibat dalam pembekuan darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300399.jpeg",
+      "simplified": "血小板计数",
+      "traditional": "血小板計數",
+      "pinyin": "xuèxiǎo bǎn jìshù"
+    },
+    {
+      "id": 300406,
+      "translation": {
+        "en": {
+          "short": "red blood cell count",
+          "long": "a blood test that measures the number of red blood cells, important for oxygen transport, and can aid in diagnosing blood-related medical conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jumlah Sel Darah Merah",
+          "long": "Tes darah yang mengukur jumlah sel darah merah, penting untuk transportasi oksigen, dan dapat membantu dalam mendiagnosis kondisi medis terkait darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300406.jpeg",
+      "simplified": "红细胞计数",
+      "traditional": "紅細胞計數",
+      "pinyin": "hóngxì bāo jìshù"
+    },
+    {
+      "id": 300408,
+      "translation": {
+        "en": {
+          "short": "reticulocyte count",
+          "long": "a blood test that measures immature red blood cells, providing information about bone marrow function and blood disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hitungan retikulosit",
+          "long": "Tes darah yang mengukur sel darah merah yang belum matang, memberikan informasi tentang fungsi sumsum tulang dan gangguan darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300408.jpeg",
+      "simplified": "网状细胞计数",
+      "traditional": "網狀細胞計數",
+      "pinyin": "wǎng zhuàng xìbāo jìshù"
+    },
+    {
+      "id": 300409,
+      "translation": {
+        "en": {
+          "short": "Red Cell Distribution Width blood test",
+          "long": "a measure of the variation in size of red blood cells, which can help diagnose certain types of anemia and other blood disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes darah distribusi sel merah",
+          "long": "Ukuran variasi dalam ukuran sel darah merah, yang dapat membantu mendiagnosis jenis anemia tertentu dan gangguan darah lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300409.jpeg",
+      "simplified": "红细胞分布宽度血液测试",
+      "traditional": "紅細胞分佈寬度血液測試",
+      "pinyin": "hóngxì bāo fēnbù kuāndù xuèyè cèshì"
+    },
+    {
+      "id": 300410,
+      "translation": {
+        "en": {
+          "short": "MPV blood test",
+          "long": "a blood test that measures platelet size, aiding in the diagnosis of blood clotting and bleeding disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes darah MPV",
+          "long": "Tes darah yang mengukur ukuran trombosit, membantu diagnosis pembekuan darah dan gangguan perdarahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300410.jpeg",
+      "simplified": "MPV血液测试",
+      "traditional": "MPV血液測試",
+      "pinyin": "P xuèyè cèshì"
+    },
+    {
+      "id": 300411,
+      "translation": {
+        "en": {
+          "short": "mean corpuscular volume",
+          "long": "a measure of the average size of red blood cells, used to diagnose anemia and other blood conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Volume sel -rata -rata",
+          "long": "Ukuran ukuran rata -rata sel darah merah, digunakan untuk mendiagnosis anemia dan kondisi darah lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300411.jpeg",
+      "simplified": "平均局部体积",
+      "traditional": "平均局部體積",
+      "pinyin": "píngjūn júbù tǐjī"
+    },
+    {
+      "id": 300412,
+      "translation": {
+        "en": {
+          "short": "hemoglobin test",
+          "long": "a blood test that measures blood hemoglobin levels, used to assess anemia and blood health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes hemoglobin",
+          "long": "Tes darah yang mengukur kadar hemoglobin darah, digunakan untuk menilai anemia dan kesehatan darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300412.jpeg",
+      "simplified": "血红蛋白测试",
+      "traditional": "血紅蛋白測試",
+      "pinyin": "xuèhóng dàn bái cèshì"
+    },
+    {
+      "id": 300413,
+      "translation": {
+        "en": {
+          "short": "hemoglobin electrophoresis",
+          "long": "a blood test that identifies different types of hemoglobin for diagnosing hemoglobinopathies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektroforesis hemoglobin",
+          "long": "Tes darah yang mengidentifikasi berbagai jenis hemoglobin untuk mendiagnosis hemoglobinopati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300413.jpeg",
+      "simplified": "血红蛋白电泳",
+      "traditional": "血紅蛋白電泳",
+      "pinyin": "xuèhóng dàn bái diànyǒng"
+    },
+    {
+      "id": 300414,
+      "translation": {
+        "en": {
+          "short": "blood smear",
+          "long": "a stained microscopic slide used to examine the morphology of blood cells for diagnostic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "noda darah",
+          "long": "Slide mikroskopis bernoda yang digunakan untuk memeriksa morfologi sel darah untuk tujuan diagnostik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300414.jpeg",
+      "simplified": "鲜血涂抹",
+      "traditional": "鮮血塗抹",
+      "pinyin": "xiānxuè túmǒ"
+    },
+    {
+      "id": 300415,
+      "translation": {
+        "en": {
+          "short": "blood differential test",
+          "long": "a lab test that identifies and quantifies different types of white blood cells in a blood sample, aiding in the diagnosis of various medical conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tes diferensial darah",
+          "long": "Tes laboratorium yang mengidentifikasi dan mengukur berbagai jenis sel darah putih dalam sampel darah, membantu dalam diagnosis berbagai kondisi medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300415.jpeg",
+      "simplified": "血液差异测试",
+      "traditional": "血液差異測試",
+      "pinyin": "xuèyè chāyì cèshì"
+    },
+    {
+      "id": 300489,
+      "translation": {
+        "en": {
+          "short": "newborn screening",
+          "long": "a program that tests newborns for genetic, metabolic, and congenital disorders shortly after birth to detect and treat conditions early",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Skrining Baru Lahir",
+          "long": "sebuah program yang menguji bayi baru lahir untuk gangguan genetik, metabolisme, dan kongenital tak lama setelah lahir untuk mendeteksi dan mengobati kondisi lebih awal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300489.jpeg",
+      "simplified": "新生儿筛查",
+      "traditional": "新生兒篩查",
+      "pinyin": "xīnshēng ér shāichá"
+    },
+    {
+      "id": 300496,
+      "translation": {
+        "en": {
+          "short": "blood glucose",
+          "long": "the amount of sugar in your blood",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gula darah",
+          "long": "Jumlah gula dalam darah Anda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300496.jpeg",
+      "simplified": "血糖",
+      "traditional": "血糖",
+      "pinyin": "xuètáng"
+    },
+    {
+      "id": 300512,
+      "translation": {
+        "en": {
+          "short": "RH factor",
+          "long": "a protein on red blood cells, influencing blood type",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Faktor RH",
+          "long": "protein pada sel darah merah, mempengaruhi jenis darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300512.jpeg",
+      "simplified": "相对湿度因子",
+      "traditional": "相對濕度因子",
+      "pinyin": "xiāngduì shī dù yīnzǐ"
+    },
+    {
+      "id": 300513,
+      "translation": {
+        "en": {
+          "short": "Rh-negative",
+          "long": "characterized by the absence of the Rh factor, a protein on the surface of red blood cells",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "RH-negatif",
+          "long": "ditandai dengan tidak adanya faktor RH, protein pada permukaan sel darah merah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300513.jpeg",
+      "simplified": "Rh阴性",
+      "traditional": "Rh陰性",
+      "pinyin": "yīnxìng"
+    },
+    {
+      "id": 300514,
+      "translation": {
+        "en": {
+          "short": "Rh-positive",
+          "long": "characterized by the presence of the Rh factor, a protein on the surface of red blood cells",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "RH-POSITIF",
+          "long": "ditandai dengan adanya faktor RH, protein pada permukaan sel darah merah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300514.jpeg",
+      "simplified": "RH阳性",
+      "traditional": "RH陽性",
+      "pinyin": "yángxìng"
+    },
+    {
+      "id": 300551,
+      "translation": {
+        "en": {
+          "short": "immunofixation blood test",
+          "long": "a laboratory test used to identify and characterize abnormal proteins (immunoglobulins) in blood serum or urine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes darah imunofixation",
+          "long": "Tes laboratorium yang digunakan untuk mengidentifikasi dan mengkarakterisasi protein abnormal (imunoglobulin) dalam serum darah atau urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300551.jpeg",
+      "simplified": "免疫固定血液检查",
+      "traditional": "免疫固定血液檢查",
+      "pinyin": "miǎnyì gùdìng xuèyè jiǎnchá"
+    },
+    {
+      "id": 300538,
+      "translation": {
+        "en": {
+          "short": "basic metabolic panel",
+          "long": "a blood test that assesses electrolytes, glucose, and kidney function for diagnosing metabolic conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Panel Metabolik Dasar",
+          "long": "Tes darah yang menilai elektrolit, glukosa, dan fungsi ginjal untuk mendiagnosis kondisi metabolisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300538.jpeg",
+      "simplified": "基础代谢组",
+      "traditional": "基礎代謝組",
+      "pinyin": "jīchǔ dàixiè Zǔ"
+    },
+    {
+      "id": 300567,
+      "translation": {
+        "en": {
+          "short": "blood urea nitrogen",
+          "long": "a measurement in blood tests that assesses kidney function and hydration status for diagnosing conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nitrogen urea darah",
+          "long": "Pengukuran tes darah yang menilai fungsi ginjal dan status hidrasi untuk mendiagnosis kondisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300567.jpeg",
+      "simplified": "血尿素氮",
+      "traditional": "血尿素氮",
+      "pinyin": "xuèniào sù dàn"
+    },
+    {
+      "id": 389123,
+      "translation": {
+        "en": {
+          "short": "red blood cell",
+          "long": "one of the many cells of red color carrying oxygen in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel darah merah",
+          "long": "Salah satu dari banyak sel warna merah membawa oksigen di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389123.jpeg",
+      "simplified": "红细胞",
+      "traditional": "紅細胞",
+      "pinyin": "hóngxì bāo"
+    },
+    {
+      "id": 389126,
+      "translation": {
+        "en": {
+          "short": "white blood cell",
+          "long": "one of the many cells that protects the body against diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel darah putih",
+          "long": "salah satu dari banyak sel yang melindungi tubuh dari penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389126.jpeg",
+      "simplified": "白细胞",
+      "traditional": "白細胞",
+      "pinyin": "báixì bāo"
+    },
+    {
+      "id": 340753,
+      "translation": {
+        "en": {
+          "short": "Rh factor test",
+          "long": "a blood test that determines an individual's blood type and Rh factor status, which can impact pregnancy and transfusion compatibility",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tes Faktor RH",
+          "long": "Tes darah yang menentukan jenis darah individu dan status faktor RH, yang dapat memengaruhi kompatibilitas kehamilan dan transfusi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340753.jpeg",
+      "simplified": "RH因子测试",
+      "traditional": "RH因子測試",
+      "pinyin": "yīnzǐ cèshì"
+    }
+  ]
+}

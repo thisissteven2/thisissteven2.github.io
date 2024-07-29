@@ -1,0 +1,355 @@
+{
+  "id": 5701,
+  "title": {
+    "en": "Mathematics",
+    "id": "Matematika"
+  },
+  "description": {
+    "en": "Here you will learn all the essential words for talking about Mathematics, collected specifically for level C2 learners.",
+    "id": "Di sini Anda akan mempelajari semua kata penting untuk berbicara tentang matematika, dikumpulkan khusus untuk peserta didik Level C2."
+  },
+  "cards": [
+    {
+      "id": 390964,
+      "translation": {
+        "en": {
+          "short": "algorithm",
+          "long": "a finite sequence of well-defined, mathematical instructions for completing a specific task or solving a problem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "algoritma",
+          "long": "Urutan terbatas instruksi matematika yang terdefinisi dengan baik untuk menyelesaikan tugas tertentu atau menyelesaikan masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390964.jpeg",
+      "simplified": "数学指令集",
+      "traditional": "數學指令集",
+      "pinyin": "shùxué zhǐlìng jí"
+    },
+    {
+      "id": 390965,
+      "translation": {
+        "en": {
+          "short": "variance",
+          "long": "a measure of the dispersion or spread of a set of data points in statistics, representing the average squared deviation from the mean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perbedaan",
+          "long": "Ukuran dispersi atau penyebaran serangkaian titik data dalam statistik, mewakili rata -rata penyimpangan kuadrat dari rata -rata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390965.jpeg",
+      "simplified": "方差",
+      "traditional": "方差",
+      "pinyin": "fāngchā"
+    },
+    {
+      "id": 390966,
+      "translation": {
+        "en": {
+          "short": "derivative",
+          "long": "the rate at which a function changes with respect to its independent variable, representing the slope of the tangent line to the function's graph",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turunan",
+          "long": "Tingkat di mana fungsi berubah sehubungan dengan variabel independennya, mewakili kemiringan garis garis singgung ke grafik fungsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390966.jpeg",
+      "simplified": "衍生物",
+      "traditional": "衍生物",
+      "pinyin": "yǎnshēng wù"
+    },
+    {
+      "id": 390967,
+      "translation": {
+        "en": {
+          "short": "integral",
+          "long": "a mathematical concept representing the total accumulation of a quantity, often represented by the area under a curve on a graph",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "integral",
+          "long": "Konsep matematika yang mewakili akumulasi total suatu kuantitas, sering diwakili oleh area di bawah kurva pada grafik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390967.jpeg",
+      "simplified": "积分",
+      "traditional": "積分",
+      "pinyin": "jīfēn"
+    },
+    {
+      "id": 390968,
+      "translation": {
+        "en": {
+          "short": "limit",
+          "long": "the value that a function or sequence approaches as its input or index gets close to a particular value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membatasi",
+          "long": "Nilai yang didekati fungsi atau urutan saat input atau indeksnya mendekati nilai tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390968.jpeg",
+      "simplified": "极限（数学）",
+      "traditional": "極限（數學）",
+      "pinyin": "jíxiàn shùxué"
+    },
+    {
+      "id": 390969,
+      "translation": {
+        "en": {
+          "short": "catastrophe theory",
+          "long": "a branch of mathematics that studies and classifies phenomena characterized by sudden shifts in behavior arising from small changes in circumstances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teori bencana",
+          "long": "cabang matematika yang mempelajari dan mengklasifikasikan fenomena yang ditandai dengan pergeseran perilaku mendadak yang timbul dari perubahan kecil dalam keadaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390969.jpeg",
+      "simplified": "灾难理论",
+      "traditional": "災難理論",
+      "pinyin": "zāinàn lǐlùn"
+    },
+    {
+      "id": 390970,
+      "translation": {
+        "en": {
+          "short": "differential",
+          "long": "(mathematics) a really small change in a function or variable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diferensial",
+          "long": "(Matematika) Perubahan yang sangat kecil dalam suatu fungsi atau variabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390970.jpeg",
+      "simplified": "微分",
+      "traditional": "微分",
+      "pinyin": "wēifēn"
+    },
+    {
+      "id": 390971,
+      "translation": {
+        "en": {
+          "short": "logarithm",
+          "long": "a mathematical function that represents the exponent to which a fixed number, called the base, must be raised to produce a given number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "logaritma",
+          "long": "Fungsi matematika yang mewakili eksponen yang menjadi angka tetap, yang disebut basis, harus dinaikkan untuk menghasilkan nomor yang diberikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390971.jpeg",
+      "simplified": "对数",
+      "traditional": "對數",
+      "pinyin": "duìshù"
+    },
+    {
+      "id": 390974,
+      "translation": {
+        "en": {
+          "short": "prime",
+          "long": "a natural number greater than 1 that has no positive divisors other than 1 and itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "utama",
+          "long": "angka alami lebih besar dari 1 yang tidak memiliki pembagi positif selain 1 dan dirinya sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390974.jpeg",
+      "simplified": "素数",
+      "traditional": "素數",
+      "pinyin": "sùshù"
+    },
+    {
+      "id": 390975,
+      "translation": {
+        "en": {
+          "short": "vector",
+          "long": "an ordered set of numbers that describes both magnitude and direction, commonly used to represent quantities like displacement, velocity, or force in physics and engineering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vektor",
+          "long": "Sejumlah angka yang dipesan yang menggambarkan besarnya dan arah, biasanya digunakan untuk mewakili jumlah seperti perpindahan, kecepatan, atau gaya dalam fisika dan teknik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390975.jpeg",
+      "simplified": "向量",
+      "traditional": "向量",
+      "pinyin": "xiàngliàng"
+    },
+    {
+      "id": 390976,
+      "translation": {
+        "en": {
+          "short": "theorem",
+          "long": "a statement or proposition that has been proven to be true based on previously established axioms, definitions, and other theorems within a particular mathematical or logical system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dalil",
+          "long": "Pernyataan atau proposisi yang telah terbukti benar berdasarkan aksioma, definisi, dan teorema lain yang ditetapkan sebelumnya dalam sistem matematika atau logis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390976.jpeg",
+      "simplified": "定理",
+      "traditional": "定理",
+      "pinyin": "dìnglǐ"
+    },
+    {
+      "id": 390977,
+      "translation": {
+        "en": {
+          "short": "permutation",
+          "long": "(mathematics) a rearrangement of a set of elements in a specific order or sequence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permutasi",
+          "long": "(Matematika) Penataan ulang serangkaian elemen dalam urutan atau urutan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390977.jpeg",
+      "simplified": "排列",
+      "traditional": "排列",
+      "pinyin": "páiliè"
+    },
+    {
+      "id": 390978,
+      "translation": {
+        "en": {
+          "short": "eigenvalue",
+          "long": "a special number used in linear algebra to describe how vectors change during transformations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nilai eigen",
+          "long": "Jumlah khusus yang digunakan dalam aljabar linier untuk menggambarkan bagaimana vektor berubah selama transformasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390978.jpeg",
+      "simplified": "显示向量在变换过程中如何变化的数字",
+      "traditional": "顯示向量在變換過程中如何變化的數字",
+      "pinyin": "xiǎnshì xiàngliàng zài biànhuàn guòchéng Zhōng rúhé biànhuà de shùzì"
+    },
+    {
+      "id": 391002,
+      "translation": {
+        "en": {
+          "short": "set theory",
+          "long": "a branch of mathematics that deals with the study of sets, which are collections of distinct objects, and their properties, relationships, and operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teori yang ditetapkan",
+          "long": "Cabang matematika yang membahas studi tentang set, yang merupakan koleksi objek yang berbeda, dan sifat, hubungan, dan operasi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391002.jpeg",
+      "simplified": "集合论",
+      "traditional": "集合論",
+      "pinyin": "jíhé lùn"
+    },
+    {
+      "id": 391003,
+      "translation": {
+        "en": {
+          "short": "polynomial",
+          "long": "a mathematical expression with variables raised to powers and combined using arithmetic operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polinomial",
+          "long": "Ekspresi matematika dengan variabel yang dinaikkan menjadi kekuatan dan dikombinasikan menggunakan operasi aritmatika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391003.jpeg",
+      "simplified": "多项式",
+      "traditional": "多項式",
+      "pinyin": "duōxiàng shì"
+    },
+    {
+      "id": 391004,
+      "translation": {
+        "en": {
+          "short": "integration",
+          "long": "a mathematical operation that calculates the accumulation of quantities, represented as the area under a curve on a graph",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "integrasi",
+          "long": "Operasi matematika yang menghitung akumulasi kuantitas, direpresentasikan sebagai area di bawah kurva pada grafik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391004.jpeg",
+      "simplified": "数值积分",
+      "traditional": "數值積分",
+      "pinyin": "shùzhí jīfēn"
+    },
+    {
+      "id": 391005,
+      "translation": {
+        "en": {
+          "short": "matrix multiplication",
+          "long": "a mathematical operation that combines two matrices to produce a new matrix, calculated by multiplying rows and columns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Multiplikasi matriks",
+          "long": "Operasi matematika yang menggabungkan dua matriks untuk menghasilkan matriks baru, dihitung dengan mengalikan baris dan kolom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391005.jpeg",
+      "simplified": "矩阵乘法",
+      "traditional": "矩陣乘法",
+      "pinyin": "jǔzhèn chéngfǎ"
+    },
+    {
+      "id": 391120,
+      "translation": {
+        "en": {
+          "short": "quadratic equation",
+          "long": "an equation involving the square of a variable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persamaan kuadrat",
+          "long": "persamaan yang melibatkan kuadrat dari suatu variabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391120.jpeg",
+      "simplified": "二次方程",
+      "traditional": "二次方程",
+      "pinyin": "èrcì fāng chéng"
+    }
+  ]
+}

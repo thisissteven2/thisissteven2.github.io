@@ -1,0 +1,982 @@
+{
+  "id": 1115,
+  "title": {
+    "en": "Walls",
+    "id": "Dinding"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to walls such as \"attic\", \"parapet\", and \"corbel\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan dinding seperti \"loteng\", \"tembok pembatas\", dan \"corbel\"."
+  },
+  "cards": [
+    {
+      "id": 347852,
+      "translation": {
+        "en": {
+          "short": "attic",
+          "long": "a type of wall, specifically a low wall or parapet that extends above the main roofline of a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "loteng",
+          "long": "Jenis dinding, khususnya dinding rendah atau tembok pembatas yang meluas di atas garis atap utama sebuah bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347852.jpeg",
+      "simplified": "阁楼",
+      "traditional": "閣樓",
+      "pinyin": "gélóu"
+    },
+    {
+      "id": 347855,
+      "translation": {
+        "en": {
+          "short": "bracket",
+          "long": "a architectural element that projects from a wall to support or adorn another element, such as a shelf, beam, or cornice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengurung",
+          "long": "elemen arsitektur yang diproyeksikan dari dinding untuk mendukung atau menghiasi elemen lain, seperti rak, balok, atau cornice",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347855.jpeg",
+      "simplified": "托架",
+      "traditional": "托架",
+      "pinyin": "tuōjià"
+    },
+    {
+      "id": 347856,
+      "translation": {
+        "en": {
+          "short": "parapet",
+          "long": "a low protective wall or railing built along the edge of a roof, balcony, bridge, or other elevated structure to prevent people from falling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sandaran",
+          "long": "Dinding pelindung rendah atau pagar yang dibangun di sepanjang tepi atap, balkon, jembatan, atau struktur yang ditinggikan lainnya untuk mencegah orang jatuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347856.jpeg",
+      "simplified": "栏杆",
+      "traditional": "欄杆",
+      "pinyin": "lángān"
+    },
+    {
+      "id": 347857,
+      "translation": {
+        "en": {
+          "short": "rampart",
+          "long": "a defensive wall or embankment built around a fortification or city for protection against enemy attacks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benteng",
+          "long": "Tembok defensif atau tanggul yang dibangun di sekitar benteng atau kota untuk perlindungan terhadap serangan musuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347857.jpeg",
+      "simplified": "壁垒",
+      "traditional": "壁壘",
+      "pinyin": "bìlěi"
+    },
+    {
+      "id": 347860,
+      "translation": {
+        "en": {
+          "short": "breast",
+          "long": "the upper part of a wall, typically referring to the portion that is above a lintel or a horizontal projection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dada",
+          "long": "Bagian atas dinding, biasanya mengacu pada bagian yang berada di atas ambang pintu atau proyeksi horizontal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347860.jpeg",
+      "simplified": "乳房",
+      "traditional": "乳房",
+      "pinyin": "rǔfáng"
+    },
+    {
+      "id": 347861,
+      "translation": {
+        "en": {
+          "short": "crenel",
+          "long": "a notched or indented opening in a battlement or parapet, typically used for observation or defensive purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crenel",
+          "long": "pembukaan berlekuk atau indentasi di battlement atau tembok pembatas, biasanya digunakan untuk observasi atau tujuan defensif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347861.jpeg",
+      "simplified": "垛口",
+      "traditional": "垛口",
+      "pinyin": "duǒkǒu"
+    },
+    {
+      "id": 347862,
+      "translation": {
+        "en": {
+          "short": "corbel",
+          "long": "a piece of stone or wood protruding from a wall, supporting its above structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Corbel",
+          "long": "sepotong batu atau kayu yang menonjol dari dinding, mendukung strukturnya di atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347862.jpeg",
+      "simplified": "承材",
+      "traditional": "承材",
+      "pinyin": "Chéng cái"
+    },
+    {
+      "id": 347864,
+      "translation": {
+        "en": {
+          "short": "curtain wall",
+          "long": "a non-structural exterior wall system made of lightweight materials, such as glass, providing a protective barrier and allowing natural light into a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding tirai",
+          "long": "Sistem dinding eksterior non-struktural yang terbuat dari bahan ringan, seperti kaca, memberikan penghalang pelindung dan memungkinkan cahaya alami ke dalam bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347864.jpeg",
+      "simplified": "窗帘墙",
+      "traditional": "窗簾牆",
+      "pinyin": "chuānglián qiáng"
+    },
+    {
+      "id": 347866,
+      "translation": {
+        "en": {
+          "short": "screen wall",
+          "long": "a wall constructed primarily for the purpose of screening or enclosing an area, often made of decorative materials and providing privacy or protection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding layar",
+          "long": "Dinding yang dibangun terutama untuk tujuan menyaring atau melampirkan suatu area, sering terbuat dari bahan dekoratif dan memberikan privasi atau perlindungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347866.jpeg",
+      "simplified": "屏幕墙",
+      "traditional": "屏幕牆",
+      "pinyin": "píngmù qiáng"
+    },
+    {
+      "id": 347868,
+      "translation": {
+        "en": {
+          "short": "niche",
+          "long": "a hollow space in a wall, used for putting in decorative objects such a statue",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ceruk",
+          "long": "ruang berongga di dinding, digunakan untuk memasukkan benda dekoratif patung seperti itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347868.jpeg",
+      "simplified": "利基",
+      "traditional": "利基",
+      "pinyin": "lìjī"
+    },
+    {
+      "id": 347926,
+      "translation": {
+        "en": {
+          "short": "perpend",
+          "long": "the vertical joint or seam between two bricks or stones in a masonry wall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dilaksanakan",
+          "long": "sambungan vertikal atau jahitan antara dua batu bata atau batu di dinding batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347926.jpeg",
+      "simplified": "持续",
+      "traditional": "持續",
+      "pinyin": "chíxù"
+    },
+    {
+      "id": 347928,
+      "translation": {
+        "en": {
+          "short": "quoin",
+          "long": "the corner angle of a building, typically formed by masonry blocks or stones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "quoin",
+          "long": "Sudut sudut bangunan, biasanya dibentuk oleh blok batu atau batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347928.jpeg",
+      "simplified": "quoin",
+      "traditional": "quoin",
+      "pinyin": ""
+    },
+    {
+      "id": 347932,
+      "translation": {
+        "en": {
+          "short": "reveal",
+          "long": "the vertical side or edge of a door or window frame that is set back from the surrounding wall surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengungkap",
+          "long": "sisi vertikal atau tepi bingkai pintu atau jendela yang diatur mundur dari permukaan dinding di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347932.jpeg",
+      "simplified": "揭示",
+      "traditional": "揭示",
+      "pinyin": "jiēshì"
+    },
+    {
+      "id": 347933,
+      "translation": {
+        "en": {
+          "short": "splay",
+          "long": "an angled or sloping surface, typically found on the sides or edges of a window or door opening, creating a wider opening towards the inside of a wall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melebarkan",
+          "long": "Permukaan miring atau miring, biasanya ditemukan di sisi atau tepi jendela atau pintu bukaan, menciptakan lubang yang lebih lebar ke arah bagian dalam dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347933.jpeg",
+      "simplified": "展开",
+      "traditional": "展開",
+      "pinyin": "zhǎnkāi"
+    },
+    {
+      "id": 347935,
+      "translation": {
+        "en": {
+          "short": "squint",
+          "long": "a diagonal or oblique opening or passage in a wall, typically found in architecture, allowing a view or passage between different spaces or rooms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juling",
+          "long": "pembukaan atau bagian diagonal atau miring di dinding, biasanya ditemukan dalam arsitektur, memungkinkan pemandangan atau lorong antara berbagai ruang atau kamar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347935.jpeg",
+      "simplified": "眯",
+      "traditional": "瞇",
+      "pinyin": "mí"
+    },
+    {
+      "id": 347937,
+      "translation": {
+        "en": {
+          "short": "water table",
+          "long": "a projecting horizontal molding or ledge located at the base of a building or wall, designed to divert water away from the structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tabel air",
+          "long": "Cetakan horizontal yang memproyeksikan atau langkan yang terletak di dasar bangunan atau dinding, yang dirancang untuk mengalihkan air dari struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347937.jpeg",
+      "simplified": "地下水位",
+      "traditional": "地下水位",
+      "pinyin": "dìxià shuǐ wèi"
+    },
+    {
+      "id": 347940,
+      "translation": {
+        "en": {
+          "short": "band",
+          "long": "a horizontal decorative or structural element that runs along the exterior or interior of a building, typically separating different sections or adding visual interest to the architecture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita",
+          "long": "elemen dekoratif atau struktural horizontal yang berjalan di sepanjang bagian luar atau interior bangunan, biasanya memisahkan bagian yang berbeda atau menambah minat visual pada arsitektur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347940.jpeg",
+      "simplified": "带",
+      "traditional": "帶",
+      "pinyin": "dài"
+    },
+    {
+      "id": 347947,
+      "translation": {
+        "en": {
+          "short": "load-bearing wall",
+          "long": "a structural wall that supports the weight of the building or a significant portion of it, transmitting the load to the foundation and other structural elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding penahan beban",
+          "long": "Dinding struktural yang menopang bobot bangunan atau sebagian besar darinya, mentransmisikan beban ke fondasi dan elemen struktural lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347947.jpeg",
+      "simplified": "承重墙",
+      "traditional": "承重牆",
+      "pinyin": "chéngzhòng qiáng"
+    },
+    {
+      "id": 347949,
+      "translation": {
+        "en": {
+          "short": "exterior wall",
+          "long": "a wall that forms the outer boundary of a building, separating the interior space from the external environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding luar",
+          "long": "dinding yang membentuk batas luar bangunan, memisahkan ruang interior dari lingkungan eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347949.jpeg",
+      "simplified": "外墙",
+      "traditional": "外牆",
+      "pinyin": "wàiqiáng"
+    },
+    {
+      "id": 347951,
+      "translation": {
+        "en": {
+          "short": "interior wall",
+          "long": "a wall that divides the interior space of a building into separate rooms or areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding interior",
+          "long": "dinding yang membagi ruang interior bangunan menjadi kamar atau area terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347951.jpeg",
+      "simplified": "内墙",
+      "traditional": "內牆",
+      "pinyin": "nèi qiáng"
+    },
+    {
+      "id": 347952,
+      "translation": {
+        "en": {
+          "short": "retaining wall",
+          "long": "a structure designed to hold back soil or other materials and prevent erosion or the collapse of land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding penahan",
+          "long": "Struktur yang dirancang untuk menahan tanah atau bahan lainnya dan mencegah erosi atau runtuhnya lahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347952.jpeg",
+      "simplified": "挡土墙",
+      "traditional": "擋土牆",
+      "pinyin": "dǎng Tǔ qiáng"
+    },
+    {
+      "id": 347955,
+      "translation": {
+        "en": {
+          "short": "stud wall",
+          "long": "a non-load-bearing wall made of vertical wooden or metal studs covered with materials such as drywall or paneling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding stud",
+          "long": "Dinding non-beban yang terbuat dari kayu vertikal atau stud logam ditutupi dengan bahan seperti drywall atau paneling",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347955.jpeg",
+      "simplified": "立柱墙",
+      "traditional": "立柱牆",
+      "pinyin": "Lì zhù qiáng"
+    },
+    {
+      "id": 347957,
+      "translation": {
+        "en": {
+          "short": "concrete wall",
+          "long": "a solid structure made of concrete that provides strength, durability, and stability to a building or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding beton",
+          "long": "Struktur padat yang terbuat dari beton yang memberikan kekuatan, daya tahan, dan stabilitas pada bangunan atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347957.jpeg",
+      "simplified": "水泥墙",
+      "traditional": "水泥牆",
+      "pinyin": "shuǐní qiáng"
+    },
+    {
+      "id": 347959,
+      "translation": {
+        "en": {
+          "short": "brick wall",
+          "long": "a construction made of bricks, typically arranged in a pattern, that forms a sturdy and durable barrier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding bata",
+          "long": "Konstruksi yang terbuat dari batu bata, biasanya diatur dalam pola, yang membentuk penghalang yang kokoh dan tahan lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347959.jpeg",
+      "simplified": "砖墙",
+      "traditional": "磚牆",
+      "pinyin": "zhuān qiáng"
+    },
+    {
+      "id": 347961,
+      "translation": {
+        "en": {
+          "short": "stone wall",
+          "long": "a structure built using stones or rocks, typically stacked together, to create a solid and enduring barrier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding batu",
+          "long": "Struktur yang dibangun menggunakan batu atau batu, biasanya ditumpuk bersama, untuk menciptakan penghalang yang solid dan abadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347961.jpeg",
+      "simplified": "石墙",
+      "traditional": "石牆",
+      "pinyin": "Shí qiáng"
+    },
+    {
+      "id": 347963,
+      "translation": {
+        "en": {
+          "short": "timber wall",
+          "long": "a wall constructed primarily using timber or wood as the main material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding kayu",
+          "long": "Dinding yang dibangun terutama menggunakan kayu atau kayu sebagai bahan utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347963.jpeg",
+      "simplified": "木墙",
+      "traditional": "木牆",
+      "pinyin": "Mù qiáng"
+    },
+    {
+      "id": 347969,
+      "translation": {
+        "en": {
+          "short": "glass wall",
+          "long": "a transparent or translucent barrier made of glass that separates or divides spaces while allowing visual connection between them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding kaca",
+          "long": "penghalang transparan atau tembus cahaya yang terbuat dari kaca yang memisahkan atau membagi ruang sambil memungkinkan koneksi visual di antara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347969.jpeg",
+      "simplified": "玻璃墙",
+      "traditional": "玻璃牆",
+      "pinyin": "bōli qiáng"
+    },
+    {
+      "id": 347970,
+      "translation": {
+        "en": {
+          "short": "green wall",
+          "long": "a plant-covered vertical structure that can be attached to a building wall, particularly when there is not enough space for plants to grow on the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding hijau",
+          "long": "Struktur vertikal yang tertutup tanaman yang dapat melekat pada dinding bangunan, terutama ketika tidak ada cukup ruang untuk tanaman untuk tumbuh di tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347970.jpeg",
+      "simplified": "绿化墙",
+      "traditional": "綠化牆",
+      "pinyin": "lǜhuà qiáng"
+    },
+    {
+      "id": 347973,
+      "translation": {
+        "en": {
+          "short": "temporary wall",
+          "long": "a partition or barrier that is intended for short-term use and can be easily installed, removed, or repositioned without causing permanent structural changes to a space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding sementara",
+          "long": "partisi atau penghalang yang dimaksudkan untuk penggunaan jangka pendek dan dapat dengan mudah dipasang, dihapus, atau diposisikan ulang tanpa menyebabkan perubahan struktural permanen ke ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347973.jpeg",
+      "simplified": "临时墙",
+      "traditional": "臨時牆",
+      "pinyin": "línshí qiáng"
+    },
+    {
+      "id": 347976,
+      "translation": {
+        "en": {
+          "short": "boundary wall",
+          "long": "a structure built to mark and enclose the boundary or perimeter of a property, providing separation and security between neighboring properties or areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding pembatas",
+          "long": "Struktur yang dibangun untuk menandai dan melampirkan batas atau perimeter properti, memberikan pemisahan dan keamanan antara properti atau area tetangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347976.jpeg",
+      "simplified": "边界墙",
+      "traditional": "邊界牆",
+      "pinyin": "biānjiè qiáng"
+    },
+    {
+      "id": 347980,
+      "translation": {
+        "en": {
+          "short": "fire-rated wall",
+          "long": "a specially constructed wall that is designed and built to resist the spread of fire for a specified period of time, providing a barrier to limit the fire's progression and protect adjacent areas or structures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding berperingkat api",
+          "long": "Dinding yang dibangun khusus yang dirancang dan dibangun untuk menahan penyebaran api untuk periode waktu tertentu, memberikan penghalang untuk membatasi perkembangan api dan melindungi area atau struktur yang berdekatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347980.jpeg",
+      "simplified": "防火墙",
+      "traditional": "防火牆",
+      "pinyin": "fánghuǒ qiáng"
+    },
+    {
+      "id": 347987,
+      "translation": {
+        "en": {
+          "short": "clerestory",
+          "long": "a high section of a wall, typically containing windows or other openings, that allows natural light to enter a building while providing a sense of height and airiness to the interior space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "clerestory",
+          "long": "Bagian tinggi dinding, biasanya berisi jendela atau bukaan lainnya, yang memungkinkan cahaya alami memasuki bangunan sambil memberikan rasa tinggi dan udara ke ruang interior",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347987.jpeg",
+      "simplified": "天窗",
+      "traditional": "天窗",
+      "pinyin": "tiānchuāng"
+    },
+    {
+      "id": 347990,
+      "translation": {
+        "en": {
+          "short": "coping",
+          "long": "the protective covering or cap placed on top of a wall, parapet, or other architectural element to prevent water infiltration, enhance structural integrity, and provide a finished appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koping",
+          "long": "Penutup atau tutup pelindung ditempatkan di atas dinding, tembok pembatas, atau elemen arsitektur lainnya untuk mencegah infiltrasi air, meningkatkan integritas struktural, dan memberikan penampilan yang sudah jadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347990.jpeg",
+      "simplified": "应对",
+      "traditional": "應對",
+      "pinyin": "yìngduì"
+    },
+    {
+      "id": 347991,
+      "translation": {
+        "en": {
+          "short": "coping stone",
+          "long": "the individual stone unit or element that forms the topmost layer or cap of a wall, parapet, or similar architectural feature, serving as a protective and decorative covering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu koping",
+          "long": "Unit atau elemen batu individu yang membentuk lapisan atau tutup dinding, tembok pembatas, atau fitur arsitektur serupa, berfungsi sebagai penutup pelindung dan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347991.jpeg",
+      "simplified": "顶石",
+      "traditional": "頂石",
+      "pinyin": "dǐng Shí"
+    },
+    {
+      "id": 347994,
+      "translation": {
+        "en": {
+          "short": "cap",
+          "long": "the uppermost layer or finishing element placed on the top of a wall, providing protection from weather elements and giving a completed appearance to the structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "topi",
+          "long": "Lapisan atau elemen finishing paling atas ditempatkan di bagian atas dinding, memberikan perlindungan dari elemen cuaca dan memberikan penampilan yang lengkap untuk struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/347994.jpeg",
+      "simplified": "帽",
+      "traditional": "帽",
+      "pinyin": "mào"
+    },
+    {
+      "id": 348000,
+      "translation": {
+        "en": {
+          "short": "wainscot",
+          "long": "a decorative paneling or covering applied to the lower part of a wall, typically extending from the floor to a certain height, often made of wood or other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kayu lis",
+          "long": "Panel atau penutup dekoratif yang diaplikasikan pada bagian bawah dinding, biasanya memanjang dari lantai ke ketinggian tertentu, sering terbuat dari kayu atau bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348000.jpeg",
+      "simplified": "壁板",
+      "traditional": "壁板",
+      "pinyin": "bì bǎn"
+    },
+    {
+      "id": 348002,
+      "translation": {
+        "en": {
+          "short": "panelling",
+          "long": "the application of decorative panels or boards to enhance the appearance of walls or other surfaces, adding texture and visual interest to the space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panel",
+          "long": "Aplikasi panel atau papan dekoratif untuk meningkatkan penampilan dinding atau permukaan lainnya, menambahkan tekstur dan minat visual ke ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348002.jpeg",
+      "simplified": "镶板",
+      "traditional": "鑲板",
+      "pinyin": "xiāng bǎn"
+    },
+    {
+      "id": 348003,
+      "translation": {
+        "en": {
+          "short": "partition",
+          "long": "a wall or piece of glass that is used to divide different parts of a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "partisi",
+          "long": "dinding atau sepotong kaca yang digunakan untuk membagi berbagai bagian bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348003.jpeg",
+      "simplified": "划分",
+      "traditional": "劃分",
+      "pinyin": "huàfēn"
+    },
+    {
+      "id": 348006,
+      "translation": {
+        "en": {
+          "short": "party wall",
+          "long": "a shared boundary wall between two adjacent properties or structures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding pesta",
+          "long": "Dinding batas bersama antara dua sifat atau struktur yang berdekatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348006.jpeg",
+      "simplified": "派对墙",
+      "traditional": "派對牆",
+      "pinyin": "pàiduì qiáng"
+    },
+    {
+      "id": 348009,
+      "translation": {
+        "en": {
+          "short": "recess",
+          "long": "a small indented area or alcove set back into a wall or other surface, often used for decorative or functional purposes such as display, storage, or seating",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reses",
+          "long": "Area atau ceruk indentasi kecil yang diatur kembali ke dinding atau permukaan lain, sering digunakan untuk tujuan dekoratif atau fungsional seperti tampilan, penyimpanan, atau tempat duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348009.jpeg",
+      "simplified": "深处",
+      "traditional": "深處",
+      "pinyin": "shēnchù"
+    },
+    {
+      "id": 348011,
+      "translation": {
+        "en": {
+          "short": "divider",
+          "long": "a partition or object used to separate or divide a larger space into distinct sections, providing visual or physical separation between areas for functional or aesthetic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembagi",
+          "long": "Partisi atau objek yang digunakan untuk memisahkan atau membagi ruang yang lebih besar menjadi bagian yang berbeda, memberikan pemisahan visual atau fisik antara area untuk tujuan fungsional atau estetika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348011.jpeg",
+      "simplified": "规",
+      "traditional": "規",
+      "pinyin": "guī"
+    },
+    {
+      "id": 348013,
+      "translation": {
+        "en": {
+          "short": "shoji screen",
+          "long": "a traditional Japanese folding screen or room divider made of a wooden frame and translucent paper or fabric panels, allowing diffused light to pass through while providing privacy and aesthetic beauty",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layar Shoji",
+          "long": "Layar lipatan atau pembagi room tradisional Jepang yang terbuat dari bingkai kayu dan kertas tembus pandang atau kain yang tembus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348013.jpeg",
+      "simplified": "障子屏",
+      "traditional": "障子屏",
+      "pinyin": "zhàng zǐ bīng"
+    },
+    {
+      "id": 348015,
+      "translation": {
+        "en": {
+          "short": "wing wall",
+          "long": "a short wall extending from a main structure, often found at the sides of bridges or buildings, providing support or separation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding sayap",
+          "long": "Dinding pendek yang memanjang dari struktur utama, sering ditemukan di sisi jembatan atau bangunan, memberikan dukungan atau pemisahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348015.jpeg",
+      "simplified": "翼墙",
+      "traditional": "翼牆",
+      "pinyin": "Yì qiáng"
+    },
+    {
+      "id": 348016,
+      "translation": {
+        "en": {
+          "short": "reglet",
+          "long": "a small groove in a wall or surface used to hide the edge of another material or component",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Reglet",
+          "long": "Alur kecil di dinding atau permukaan yang digunakan untuk menyembunyikan tepi bahan atau komponen lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348016.jpeg",
+      "simplified": "雷格莱特",
+      "traditional": "雷格萊特",
+      "pinyin": "Léi gé Láitè"
+    },
+    {
+      "id": 348017,
+      "translation": {
+        "en": {
+          "short": "drip",
+          "long": "a projecting edge used to redirect water away from a building's surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menetes",
+          "long": "Tepi proyeksi yang digunakan untuk mengarahkan air menjauh dari permukaan bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348017.jpeg",
+      "simplified": "水滴",
+      "traditional": "水滴",
+      "pinyin": "shuǐdī"
+    },
+    {
+      "id": 348018,
+      "translation": {
+        "en": {
+          "short": "grille",
+          "long": "a framework of bars or slats used to cover or protect openings while allowing airflow or visibility",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kisi",
+          "long": "Kerangka kerja batang atau bilah yang digunakan untuk menutup atau melindungi bukaan sambil memungkinkan aliran udara atau visibilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348018.jpeg",
+      "simplified": "铁门",
+      "traditional": "鐵門",
+      "pinyin": "Tiě Mén"
+    },
+    {
+      "id": 350533,
+      "translation": {
+        "en": {
+          "short": "gable",
+          "long": "the upper part of a house wall in the shape of a triangle where it meets a sloping roof",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gable",
+          "long": "Bagian atas dinding rumah dalam bentuk segitiga di mana ia bertemu atap miring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350533.jpeg",
+      "simplified": "山墙（建筑）",
+      "traditional": "山牆（建築）",
+      "pinyin": "shānqiáng jiànzhù"
+    },
+    {
+      "id": 348031,
+      "translation": {
+        "en": {
+          "short": "gable end",
+          "long": "the vertical wall surface that forms the triangular end of a building or structure, enclosed by the gable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akhir pelana",
+          "long": "Permukaan dinding vertikal yang membentuk ujung segitiga bangunan atau struktur, tertutup oleh atap pelana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348031.jpeg",
+      "simplified": "山墙端",
+      "traditional": "山牆端",
+      "pinyin": "shānqiáng duān"
+    },
+    {
+      "id": 348032,
+      "translation": {
+        "en": {
+          "short": "gable wall",
+          "long": "the specific gable end wall or any wall within the gable structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding pelana",
+          "long": "dinding ujung atap pelana spesifik atau dinding apa pun dalam struktur atap pelana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348032.jpeg",
+      "simplified": "山墙",
+      "traditional": "山牆",
+      "pinyin": "shānqiáng"
+    },
+    {
+      "id": 348033,
+      "translation": {
+        "en": {
+          "short": "corbie step",
+          "long": "a decorative architectural feature consisting of a series of stone steps or corbels that project horizontally from a gable wall or vertical surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Langkah Corbie",
+          "long": "Fitur arsitektur dekoratif yang terdiri dari serangkaian langkah batu atau corbels yang memproyeksikan secara horizontal dari dinding atap atau permukaan vertikal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348033.jpeg",
+      "simplified": "科比步",
+      "traditional": "科比步",
+      "pinyin": "Kēbǐ Bù"
+    },
+    {
+      "id": 348040,
+      "translation": {
+        "en": {
+          "short": "cullis",
+          "long": "a small groove or channel in a stone or masonry surface used for directing water flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cullis",
+          "long": "alur atau saluran kecil di permukaan batu atau batu yang digunakan untuk mengarahkan aliran air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348040.jpeg",
+      "simplified": "库利斯",
+      "traditional": "庫利斯",
+      "pinyin": "kù Lì Sī"
+    }
+  ]
+}

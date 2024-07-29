@@ -1,0 +1,754 @@
+{
+  "id": 961,
+  "title": {
+    "en": "The Computer World",
+    "id": "Dunia komputer"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the computer world, such as \"binary\", \"boot\", \"cpu\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang dunia komputer, seperti \"biner\", \"boot\", \"cpu\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 242304,
+      "translation": {
+        "en": {
+          "short": "cyberspace",
+          "long": "the non-physical space in which communication over computer networks takes place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cyberspace",
+          "long": "Ruang non-fisik di mana komunikasi melalui jaringan komputer terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242304.jpeg",
+      "simplified": "网络空间",
+      "traditional": "網絡空間",
+      "pinyin": "wǎngluò kōng jiān"
+    },
+    {
+      "id": 242283,
+      "translation": {
+        "en": {
+          "short": "analog",
+          "long": "relating to or using signals in which information is represented through constant changing of physical quantities",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "analog",
+          "long": "berkaitan dengan atau menggunakan sinyal di mana informasi diwakili melalui perubahan jumlah fisik secara konstan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242283.jpeg",
+      "simplified": "模拟",
+      "traditional": "模擬",
+      "pinyin": "mónǐ"
+    },
+    {
+      "id": 242290,
+      "translation": {
+        "en": {
+          "short": "binary",
+          "long": "(computing, mathematics) based on a numerical system that operates only on 0 and 1",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "biner",
+          "long": "(Komputasi, matematika) Berdasarkan sistem numerik yang hanya beroperasi pada 0 dan 1",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242290.jpeg",
+      "simplified": "二进制",
+      "traditional": "二進制",
+      "pinyin": "èrjìn zhì"
+    },
+    {
+      "id": 242286,
+      "translation": {
+        "en": {
+          "short": "to archive",
+          "long": "(computing) to move important information or information that is not often needed to a different disk, tape, or another computer to store it, sometimes as a security measure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengarsipkan",
+          "long": "(Komputasi) Untuk memindahkan informasi atau informasi penting yang tidak sering diperlukan ke disk, tape, atau komputer lain yang berbeda untuk menyimpannya, kadang -kadang sebagai tindakan keamanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242286.jpeg",
+      "simplified": "档案",
+      "traditional": "檔案",
+      "pinyin": "dàngàn"
+    },
+    {
+      "id": 242289,
+      "translation": {
+        "en": {
+          "short": "backup",
+          "long": "(computing) a copy of computer data that can be used to restore lost or damaged data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cadangan",
+          "long": "(Komputasi) Salinan data komputer yang dapat digunakan untuk mengembalikan data yang hilang atau rusak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242289.jpeg",
+      "simplified": "数据备份",
+      "traditional": "數據備份",
+      "pinyin": "shùjù bèifèn"
+    },
+    {
+      "id": 242287,
+      "translation": {
+        "en": {
+          "short": "backslash",
+          "long": "the symbol (\\), used in some computer commands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Backslash",
+          "long": "simbol (\\), digunakan dalam beberapa perintah komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242287.jpeg",
+      "simplified": "反斜杠",
+      "traditional": "反斜杠",
+      "pinyin": "fǎnxié gàng"
+    },
+    {
+      "id": 242288,
+      "translation": {
+        "en": {
+          "short": "backspace",
+          "long": "(in a computer, phone, etc.) a key on the keyboard used to erase the last letter or go backward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghapus",
+          "long": "(di komputer, telepon, dll.) Kunci pada keyboard yang digunakan untuk menghapus huruf terakhir atau mundur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242288.jpeg",
+      "simplified": "退格键",
+      "traditional": "退格鍵",
+      "pinyin": "tuìgé jiàn"
+    },
+    {
+      "id": 242352,
+      "translation": {
+        "en": {
+          "short": "function key",
+          "long": "each of the several keys at the top of a computer keyboard marked with (F) and a number that make the computer perform particular operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tombol fungsi",
+          "long": "Masing -masing beberapa tombol di bagian atas keyboard komputer yang ditandai dengan (f) dan angka yang membuat komputer melakukan operasi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242352.jpeg",
+      "simplified": "功能键",
+      "traditional": "功能鍵",
+      "pinyin": "gōngnéng jiàn"
+    },
+    {
+      "id": 242291,
+      "translation": {
+        "en": {
+          "short": "to boot",
+          "long": "to start a computer, typically involves setting up hardware elements to prepare the computer for use",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk boot",
+          "long": "Untuk memulai komputer, biasanya melibatkan pengaturan elemen perangkat keras untuk menyiapkan komputer untuk digunakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242291.jpeg",
+      "simplified": "启动",
+      "traditional": "啟動",
+      "pinyin": "qǐdòng"
+    },
+    {
+      "id": 242293,
+      "translation": {
+        "en": {
+          "short": "bot",
+          "long": "a computer program that automatically performs tasks over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bot",
+          "long": "program komputer yang secara otomatis melakukan tugas melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242293.jpeg",
+      "simplified": "机器人",
+      "traditional": "機器人",
+      "pinyin": "jīqì rén"
+    },
+    {
+      "id": 242294,
+      "translation": {
+        "en": {
+          "short": "cache",
+          "long": "(computing) a type of computer memory in which information that is often in use can be stored temporarily, a cache can be accessed quickly and is needed while a program is running",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cache",
+          "long": "(komputasi) Jenis memori komputer di mana informasi yang sering digunakan dapat disimpan sementara, cache dapat diakses dengan cepat dan diperlukan saat program sedang berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242294.jpeg",
+      "simplified": "缓存",
+      "traditional": "快取",
+      "pinyin": "huǎncún"
+    },
+    {
+      "id": 242298,
+      "translation": {
+        "en": {
+          "short": "clipboard",
+          "long": "(computing) a temporary storage area for data that has been copied or cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CLIPBOARD",
+          "long": "(komputasi) Area penyimpanan sementara untuk data yang telah disalin atau dipotong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242298.jpeg",
+      "simplified": "剪贴板",
+      "traditional": "剪貼板",
+      "pinyin": "jiǎntiē bǎn"
+    },
+    {
+      "id": 242295,
+      "translation": {
+        "en": {
+          "short": "byte",
+          "long": "a unit for measuring the size of computer data that equals 8 bits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "byte",
+          "long": "unit untuk mengukur ukuran data komputer yang sama dengan 8 bit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242295.jpeg",
+      "simplified": "字节（数据大小）",
+      "traditional": "字節（數據大小）",
+      "pinyin": "zìjié shùjù dàxiǎo"
+    },
+    {
+      "id": 242374,
+      "translation": {
+        "en": {
+          "short": "motherboard",
+          "long": "(in electronic devices such as computers, etc.) the main printed circuit board that makes it possible for all the parts of a computer to communicate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Motherboard",
+          "long": "(Di perangkat elektronik seperti komputer, dll.) Papan sirkuit cetak utama yang memungkinkan semua bagian komputer untuk berkomunikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242374.jpeg",
+      "simplified": "母板",
+      "traditional": "主機板",
+      "pinyin": "mǔbǎn"
+    },
+    {
+      "id": 242379,
+      "translation": {
+        "en": {
+          "short": "on-board",
+          "long": "belonging, relating to, or controlled by the main circuit board of a computer",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di atas kapal",
+          "long": "memiliki, berkaitan dengan, atau dikendalikan oleh papan sirkuit utama komputer",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242379.jpeg",
+      "simplified": "在船上",
+      "traditional": "在船上",
+      "pinyin": "zài chuán shǎng"
+    },
+    {
+      "id": 242383,
+      "translation": {
+        "en": {
+          "short": "pixel",
+          "long": "the smallest unit of an image on the screen that collectively can form a whole image",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piksel",
+          "long": "unit terkecil dari suatu gambar di layar yang secara kolektif dapat membentuk seluruh gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242383.jpeg",
+      "simplified": "像素",
+      "traditional": "像素",
+      "pinyin": "xiàngsù"
+    },
+    {
+      "id": 242306,
+      "translation": {
+        "en": {
+          "short": "disk drive",
+          "long": "a device that allows the computer to read the data on a computer disk and transfer data to or from it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drive disk",
+          "long": "perangkat yang memungkinkan komputer membaca data pada disk komputer dan mentransfer data ke atau dari itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242306.jpeg",
+      "simplified": "磁盘驱动器",
+      "traditional": "磁盤驅動器",
+      "pinyin": "cípán qū dòng qì"
+    },
+    {
+      "id": 242307,
+      "translation": {
+        "en": {
+          "short": "driver",
+          "long": "a software that controls the interaction between a computer and another equipment, such as a printer or scanner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengemudi",
+          "long": "Perangkat lunak yang mengontrol interaksi antara komputer dan peralatan lain, seperti printer atau pemindai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242307.jpeg",
+      "simplified": "司机",
+      "traditional": "司機",
+      "pinyin": "sījī"
+    },
+    {
+      "id": 242301,
+      "translation": {
+        "en": {
+          "short": "clock speed",
+          "long": "the speed at which a computer can process information, expressed in (MHz)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecepatan jam",
+          "long": "Kecepatan di mana komputer dapat memproses informasi, dinyatakan dalam (MHz)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242301.jpeg",
+      "simplified": "时钟速度",
+      "traditional": "時鐘速度",
+      "pinyin": "shízhōng sùdù"
+    },
+    {
+      "id": 242328,
+      "translation": {
+        "en": {
+          "short": "firmware",
+          "long": "(computing) a type of software stored in a way that it cannot be modified or erased",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "firmware",
+          "long": "(komputasi) Jenis perangkat lunak yang disimpan dengan cara yang tidak dapat dimodifikasi atau dihapus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242328.jpeg",
+      "simplified": "固件",
+      "traditional": "韌體",
+      "pinyin": "gùjiàn"
+    },
+    {
+      "id": 242369,
+      "translation": {
+        "en": {
+          "short": "malware",
+          "long": "a software designed to disrupt or damage the computer without the user knowing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "malware",
+          "long": "Perangkat lunak yang dirancang untuk mengganggu atau merusak komputer tanpa tahu pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242369.jpeg",
+      "simplified": "恶意软件",
+      "traditional": "惡意軟件",
+      "pinyin": "èyì ruǎn jiàn"
+    },
+    {
+      "id": 242299,
+      "translation": {
+        "en": {
+          "short": "compatibility",
+          "long": "the ability of a computer, software, or equipment to work with another device or software",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesesuaian",
+          "long": "kemampuan komputer, perangkat lunak, atau peralatan untuk bekerja dengan perangkat atau perangkat lunak lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242299.jpeg",
+      "simplified": "兼容性",
+      "traditional": "相容性",
+      "pinyin": "jiānróng xìng"
+    },
+    {
+      "id": 242303,
+      "translation": {
+        "en": {
+          "short": "configuration",
+          "long": "the set-up, hardware, and software of a computer that makes a complete system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konfigurasi",
+          "long": "pengaturan, perangkat keras, dan perangkat lunak komputer yang membuat sistem yang lengkap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242303.jpeg",
+      "simplified": "组态",
+      "traditional": "組態",
+      "pinyin": "Zǔ tài"
+    },
+    {
+      "id": 242305,
+      "translation": {
+        "en": {
+          "short": "to debug",
+          "long": "(computing) to detect and remove faults in a software",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk men -debug",
+          "long": "(komputasi) untuk mendeteksi dan menghapus kesalahan dalam perangkat lunak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242305.jpeg",
+      "simplified": "调试",
+      "traditional": "偵錯",
+      "pinyin": "tiáoshì"
+    },
+    {
+      "id": 242333,
+      "translation": {
+        "en": {
+          "short": "to format",
+          "long": "(computing) to prepare a storage device, such as a hard drive or USB, for use by deleting all the data on it and setting it up for a specific file system",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk format",
+          "long": "(Komputasi) Untuk menyiapkan perangkat penyimpanan, seperti hard drive atau USB, untuk digunakan dengan menghapus semua data di atasnya dan mengaturnya untuk sistem file tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242333.jpeg",
+      "simplified": "格式化",
+      "traditional": "格式化",
+      "pinyin": "géshì huà"
+    },
+    {
+      "id": 242340,
+      "translation": {
+        "en": {
+          "short": "back end",
+          "long": "a part of a computer responsible for storing and controlling data where users cannot easily access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Back End",
+          "long": "Bagian dari komputer yang bertanggung jawab untuk menyimpan dan mengendalikan data di mana pengguna tidak dapat dengan mudah mengakses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242340.jpeg",
+      "simplified": "用户不直接访问的系统处理",
+      "traditional": "用戶不直接訪問的系統處理",
+      "pinyin": "yònghù bù zhíjiē fǎngwèn de xìtǒng chǔlǐ"
+    },
+    {
+      "id": 242344,
+      "translation": {
+        "en": {
+          "short": "front end",
+          "long": "a part of a computer that is easily accessible and one uses constantly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paling depan",
+          "long": "bagian dari komputer yang mudah diakses dan seseorang menggunakannya terus -menerus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242344.jpeg",
+      "simplified": "用户直接与之交互的系统的一部分",
+      "traditional": "用戶直接與之交互的系統的一部分",
+      "pinyin": "yònghù zhíjiē yú zhī jiāohù de xìtǒng de yībù fen"
+    },
+    {
+      "id": 242356,
+      "translation": {
+        "en": {
+          "short": "interface",
+          "long": "(computing) the program through which a user can interact with a computer, especially its design and appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antarmuka",
+          "long": "(komputasi) Program yang melaluinya pengguna dapat berinteraksi dengan komputer, terutama desain dan penampilannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242356.jpeg",
+      "simplified": "用户界面",
+      "traditional": "使用者介面",
+      "pinyin": "yònghù jiè miàn"
+    },
+    {
+      "id": 242355,
+      "translation": {
+        "en": {
+          "short": "hack",
+          "long": "an adjustment of the codes of a computer program that solves a problem in a quick way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hack",
+          "long": "penyesuaian kode program komputer yang memecahkan masalah dengan cara yang cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242355.jpeg",
+      "simplified": "雇佣文人",
+      "traditional": "僱傭文人",
+      "pinyin": "gùyōng wénrén"
+    },
+    {
+      "id": 242325,
+      "translation": {
+        "en": {
+          "short": "to encode",
+          "long": "to transform data into a coded form",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyandikan",
+          "long": "untuk mengubah data menjadi formulir kode",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242325.jpeg",
+      "simplified": "编码",
+      "traditional": "編碼",
+      "pinyin": "biānmǎ"
+    },
+    {
+      "id": 242404,
+      "translation": {
+        "en": {
+          "short": "to encrypt",
+          "long": "to convert data or information into a coded form, mainly to prevent unauthorized access",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengenkripsi",
+          "long": "untuk mengonversi data atau informasi menjadi formulir kode, terutama untuk mencegah akses yang tidak sah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242404.jpeg",
+      "simplified": "加密",
+      "traditional": "加密",
+      "pinyin": "jiāmì"
+    },
+    {
+      "id": 242357,
+      "translation": {
+        "en": {
+          "short": "interactive",
+          "long": "describing the constant passage of data between a computer or other device and a user",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "interaktif",
+          "long": "menggambarkan bagian data yang konstan antara komputer atau perangkat lain dan pengguna",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242357.jpeg",
+      "simplified": "（计算）互动",
+      "traditional": "（計算）互動",
+      "pinyin": "jìsuàn hùdòng"
+    },
+    {
+      "id": 242359,
+      "translation": {
+        "en": {
+          "short": "to time out",
+          "long": "(computing) to cancel an operation or to turn off the computer automatically because a predefined interval of time has passed without a certain event happening",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk waktu habis",
+          "long": "(komputasi) untuk membatalkan operasi atau mematikan komputer secara otomatis karena interval waktu yang telah ditentukan telah berlalu tanpa terjadi peristiwa tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242359.jpeg",
+      "simplified": "暂停",
+      "traditional": "暫停",
+      "pinyin": "zàntíng"
+    },
+    {
+      "id": 242363,
+      "translation": {
+        "en": {
+          "short": "open-source",
+          "long": "(computing) describing a computer program whose source code is available to everyone",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "open-source",
+          "long": "(komputasi) Menjelaskan program komputer yang kode sumbernya tersedia untuk semua orang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242363.jpeg",
+      "simplified": "开源",
+      "traditional": "開源",
+      "pinyin": "kāiyuán"
+    },
+    {
+      "id": 242358,
+      "translation": {
+        "en": {
+          "short": "local area network",
+          "long": "a network for communication between computers, usually within a building",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Jaringan Area Lokal",
+          "long": "jaringan untuk komunikasi antar komputer, biasanya di dalam gedung",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242358.jpeg",
+      "simplified": "局域网",
+      "traditional": "局域網",
+      "pinyin": "júyù wǎng"
+    },
+    {
+      "id": 242367,
+      "translation": {
+        "en": {
+          "short": "modem",
+          "long": "an electronic device that uses telephone lines to send and receive data between two computers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modem",
+          "long": "Perangkat elektronik yang menggunakan saluran telepon untuk mengirim dan menerima data antara dua komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242367.jpeg",
+      "simplified": "调制解调器",
+      "traditional": "數據機",
+      "pinyin": "tiáozhì jiě tiáo qì"
+    },
+    {
+      "id": 385609,
+      "translation": {
+        "en": {
+          "short": "graphical user interface",
+          "long": "the visual interaction that users have with the computer through icons, menus, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antarmuka pengguna grafis",
+          "long": "Interaksi visual yang dimiliki pengguna dengan komputer melalui ikon, menu, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385609.jpeg",
+      "simplified": "图形用户界面",
+      "traditional": "圖形用戶界面",
+      "pinyin": "túxíng yòng hù jiè miàn"
+    },
+    {
+      "id": 384926,
+      "translation": {
+        "en": {
+          "short": "central processing unit",
+          "long": "the part of a computer where operations are controlled and executed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Unit pemrosesan utama",
+          "long": "Bagian dari komputer tempat operasi dikendalikan dan dieksekusi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384926.jpeg",
+      "simplified": "中央处理器",
+      "traditional": "中央處理器",
+      "pinyin": "zhōngyāng chǔlǐ qì"
+    },
+    {
+      "id": 242360,
+      "translation": {
+        "en": {
+          "short": "router",
+          "long": "an electronic device that connects computer networks and sends data between networks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "router",
+          "long": "Perangkat elektronik yang menghubungkan jaringan komputer dan mengirim data antar jaringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242360.jpeg",
+      "simplified": "路由器",
+      "traditional": "路由器",
+      "pinyin": "lùyóu qì"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "id": 1100,
+  "title": {
+    "en": "Paranoid Android",
+    "id": "Android paranoid"
+  },
+  "description": {
+    "en": "Here you will learn some English words about computer and internet, such as \"trojan horse\", \"corrupt\", \"router\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang komputer dan internet, seperti \"Trojan Horse\", \"Corrup\", \"Router\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 249298,
+      "translation": {
+        "en": {
+          "short": "analog",
+          "long": "relating to or using signals in which information is represented through constant changing of physical quantities",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "analog",
+          "long": "berkaitan dengan atau menggunakan sinyal di mana informasi diwakili melalui perubahan jumlah fisik secara konstan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249298.jpeg",
+      "simplified": "模拟",
+      "traditional": "模擬",
+      "pinyin": "mónǐ"
+    },
+    {
+      "id": 249299,
+      "translation": {
+        "en": {
+          "short": "trojan horse",
+          "long": "a harmful program that pretends to be legitimate and can give unauthorized access to a device",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuda Troya",
+          "long": "Program berbahaya yang berpura -pura sah dan dapat memberikan akses yang tidak sah ke perangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249299.jpeg",
+      "simplified": "特洛伊木马（计算机和信息技术）",
+      "traditional": "特洛伊木馬（計算機和信息技術）",
+      "pinyin": "Tèluò yī Mù mǎ jìsuàn jī hé xìnxī jì shù"
+    },
+    {
+      "id": 249300,
+      "translation": {
+        "en": {
+          "short": "source code",
+          "long": "a text containing instructions in a specific order that supports a programming language which human can read and it specifies the behaviors of a computer system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kode sumber",
+          "long": "Teks yang berisi instruksi dalam urutan tertentu yang mendukung bahasa pemrograman yang dapat dibaca manusia dan menentukan perilaku sistem komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249300.jpeg",
+      "simplified": "源代码",
+      "traditional": "原始碼",
+      "pinyin": "yuándài mǎ"
+    },
+    {
+      "id": 249302,
+      "translation": {
+        "en": {
+          "short": "to authenticate",
+          "long": "to verify a device, user, or process before an access to the computer's resources is allowed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengotentikasi",
+          "long": "Untuk memverifikasi perangkat, pengguna, atau proses sebelum akses ke sumber daya komputer diperbolehkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249302.jpeg",
+      "simplified": "认证",
+      "traditional": "認證",
+      "pinyin": "rènzhèng"
+    },
+    {
+      "id": 249304,
+      "translation": {
+        "en": {
+          "short": "to boot",
+          "long": "to start a computer, typically involves setting up hardware elements to prepare the computer for use",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk boot",
+          "long": "Untuk memulai komputer, biasanya melibatkan pengaturan elemen perangkat keras untuk menyiapkan komputer untuk digunakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249304.jpeg",
+      "simplified": "启动",
+      "traditional": "啟動",
+      "pinyin": "qǐdòng"
+    },
+    {
+      "id": 249306,
+      "translation": {
+        "en": {
+          "short": "beta version",
+          "long": "a test version of software released to users to find and fix bugs before the final release",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "versi beta",
+          "long": "Versi uji perangkat lunak yang dirilis ke pengguna untuk menemukan dan memperbaiki bug sebelum rilis akhir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249306.jpeg",
+      "simplified": "测试版",
+      "traditional": "測試版",
+      "pinyin": "cèshì bǎn"
+    },
+    {
+      "id": 249308,
+      "translation": {
+        "en": {
+          "short": "bootstrap",
+          "long": "a program that automatically loads and initializes the operating system on a computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bootstrap",
+          "long": "Program yang secara otomatis memuat dan menginisialisasi sistem operasi pada komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249308.jpeg",
+      "simplified": "拔靴带",
+      "traditional": "拔靴帶",
+      "pinyin": "bá xuē dài"
+    },
+    {
+      "id": 249309,
+      "translation": {
+        "en": {
+          "short": "cache",
+          "long": "(computing) a type of computer memory in which information that is often in use can be stored temporarily, a cache can be accessed quickly and is needed while a program is running",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cache",
+          "long": "(komputasi) Jenis memori komputer di mana informasi yang sering digunakan dapat disimpan sementara, cache dapat diakses dengan cepat dan diperlukan saat program sedang berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249309.jpeg",
+      "simplified": "缓存",
+      "traditional": "快取",
+      "pinyin": "huǎncún"
+    },
+    {
+      "id": 249311,
+      "translation": {
+        "en": {
+          "short": "clipboard",
+          "long": "(computing) a temporary storage area for data that has been copied or cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CLIPBOARD",
+          "long": "(komputasi) Area penyimpanan sementara untuk data yang telah disalin atau dipotong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249311.jpeg",
+      "simplified": "剪贴板",
+      "traditional": "剪貼板",
+      "pinyin": "jiǎntiē bǎn"
+    },
+    {
+      "id": 249312,
+      "translation": {
+        "en": {
+          "short": "compatibility",
+          "long": "the ability of a computer, software, or equipment to work with another device or software",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesesuaian",
+          "long": "kemampuan komputer, perangkat lunak, atau peralatan untuk bekerja dengan perangkat atau perangkat lunak lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249312.jpeg",
+      "simplified": "兼容性",
+      "traditional": "相容性",
+      "pinyin": "jiānróng xìng"
+    },
+    {
+      "id": 249313,
+      "translation": {
+        "en": {
+          "short": "configuration",
+          "long": "the set-up, hardware, and software of a computer that makes a complete system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konfigurasi",
+          "long": "pengaturan, perangkat keras, dan perangkat lunak komputer yang membuat sistem yang lengkap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249313.jpeg",
+      "simplified": "组态",
+      "traditional": "組態",
+      "pinyin": "Zǔ tài"
+    },
+    {
+      "id": 249315,
+      "translation": {
+        "en": {
+          "short": "to corrupt",
+          "long": "to cause errors or damage to a digital file, program, or system, either intentionally or unintentionally, due to a malfunction or interference",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk korup",
+          "long": "Untuk menyebabkan kesalahan atau kerusakan pada file digital, program, atau sistem, baik secara sengaja atau tidak sengaja, karena kerusakan atau gangguan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249315.jpeg",
+      "simplified": "败坏",
+      "traditional": "敗壞",
+      "pinyin": "bàihuài"
+    },
+    {
+      "id": 249316,
+      "translation": {
+        "en": {
+          "short": "cyberspace",
+          "long": "the non-physical space in which communication over computer networks takes place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cyberspace",
+          "long": "Ruang non-fisik di mana komunikasi melalui jaringan komputer terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249316.jpeg",
+      "simplified": "网络空间",
+      "traditional": "網絡空間",
+      "pinyin": "wǎngluò kōng jiān"
+    },
+    {
+      "id": 249319,
+      "translation": {
+        "en": {
+          "short": "diagnostic",
+          "long": "a tool that analyzes and identifies issues, errors, or problems within the software or system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diagnostik",
+          "long": "alat yang menganalisis dan mengidentifikasi masalah, kesalahan, atau masalah dalam perangkat lunak atau sistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249319.jpeg",
+      "simplified": "病的征候",
+      "traditional": "病的徵候",
+      "pinyin": "bìng de zhēnghòu"
+    },
+    {
+      "id": 249321,
+      "translation": {
+        "en": {
+          "short": "to disassemble",
+          "long": "to convert machine code back into human-readable assembly language or source code for analysis or modification",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membongkar",
+          "long": "untuk mengonversi kode mesin kembali ke bahasa perakitan yang dapat dibaca manusia atau kode sumber untuk analisis atau modifikasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249321.jpeg",
+      "simplified": "拆卸",
+      "traditional": "拆卸",
+      "pinyin": "chāixiè"
+    },
+    {
+      "id": 249322,
+      "translation": {
+        "en": {
+          "short": "dongle",
+          "long": "a small hardware device that connects to a computer, smartphone, or other electronic device to provide additional functionality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dongle",
+          "long": "Perangkat perangkat keras kecil yang terhubung ke komputer, smartphone, atau perangkat elektronik lainnya untuk menyediakan fungsionalitas tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249322.jpeg",
+      "simplified": "加密狗",
+      "traditional": "加密狗",
+      "pinyin": "jiāmì gǒu"
+    },
+    {
+      "id": 249324,
+      "translation": {
+        "en": {
+          "short": "router",
+          "long": "an electronic device that connects computer networks and sends data between networks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "router",
+          "long": "Perangkat elektronik yang menghubungkan jaringan komputer dan mengirim data antar jaringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249324.jpeg",
+      "simplified": "路由器",
+      "traditional": "路由器",
+      "pinyin": "lùyóu qì"
+    },
+    {
+      "id": 249325,
+      "translation": {
+        "en": {
+          "short": "read-only memory",
+          "long": "a type of non-volatile memory in a computer or electronic device where data is permanently stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memori baca saja",
+          "long": "Jenis memori yang tidak mudah menguap di komputer atau perangkat elektronik di mana data disimpan secara permanen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249325.jpeg",
+      "simplified": "只读存储器",
+      "traditional": "只讀存儲器",
+      "pinyin": "zhǐdú cúnchǔ qì"
+    },
+    {
+      "id": 249330,
+      "translation": {
+        "en": {
+          "short": "proxy server",
+          "long": "a server that acts as an intermediary between a user's device and the internet, forwarding requests and responses to enhance security, privacy, or performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "server proxy",
+          "long": "Server yang bertindak sebagai perantara antara perangkat pengguna dan internet, permintaan penerusan dan tanggapan untuk meningkatkan keamanan, privasi, atau kinerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249330.jpeg",
+      "simplified": "代理服务器",
+      "traditional": "代理服務器",
+      "pinyin": "dàilǐ fúwù qì"
+    },
+    {
+      "id": 249331,
+      "translation": {
+        "en": {
+          "short": "piracy",
+          "long": "unauthorized reproduction, distribution, or use of copyrighted materials, such as software, music, movies, or books",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembajakan",
+          "long": "Reproduksi, distribusi, atau penggunaan materi yang tidak sah, seperti perangkat lunak, musik, film, atau buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249331.jpeg",
+      "simplified": "海盗行为",
+      "traditional": "海盜行為",
+      "pinyin": "hǎidào xíng wéi"
+    },
+    {
+      "id": 249332,
+      "translation": {
+        "en": {
+          "short": "patch",
+          "long": "a small piece of code or update applied to existing software to fix issues, enhance functionality, or address vulnerabilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambalan",
+          "long": "Sepotong kecil kode atau pembaruan yang diterapkan pada perangkat lunak yang ada untuk memperbaiki masalah, meningkatkan fungsionalitas, atau mengatasi kerentanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249332.jpeg",
+      "simplified": "补丁",
+      "traditional": "補丁",
+      "pinyin": "bǔding"
+    },
+    {
+      "id": 249333,
+      "translation": {
+        "en": {
+          "short": "open-source",
+          "long": "(computing) describing a computer program whose source code is available to everyone",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "open-source",
+          "long": "(komputasi) Menjelaskan program komputer yang kode sumbernya tersedia untuk semua orang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249333.jpeg",
+      "simplified": "开源",
+      "traditional": "開源",
+      "pinyin": "kāiyuán"
+    },
+    {
+      "id": 249335,
+      "translation": {
+        "en": {
+          "short": "overload",
+          "long": "a condition where a circuit or electrical system experiences a current higher than its designed capacity; potentially leading to overheating and damage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelebihan muatan",
+          "long": "suatu kondisi di mana sirkuit atau sistem listrik mengalami arus lebih tinggi dari kapasitas yang dirancang; berpotensi menyebabkan kepanasan dan kerusakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249335.jpeg",
+      "simplified": "过重负载",
+      "traditional": "過重負載",
+      "pinyin": "guòzhòng fùzài"
+    },
+    {
+      "id": 249337,
+      "translation": {
+        "en": {
+          "short": "malicious",
+          "long": "(of software or a code) intentionally designed to harm, damage, or disrupt computer systems, networks, or data",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jahat",
+          "long": "(dari perangkat lunak atau kode) sengaja dirancang untuk membahayakan, merusak, atau mengganggu sistem komputer, jaringan, atau data",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249337.jpeg",
+      "simplified": "恶意的",
+      "traditional": "惡意的",
+      "pinyin": "èyì de"
+    },
+    {
+      "id": 249339,
+      "translation": {
+        "en": {
+          "short": "intranet",
+          "long": "a private network within an organization for internal communication, collaboration, and resource sharing among members",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intranet",
+          "long": "jaringan pribadi dalam suatu organisasi untuk komunikasi internal, kolaborasi, dan berbagi sumber daya di antara anggota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249339.jpeg",
+      "simplified": "内部网",
+      "traditional": "內部網",
+      "pinyin": "nèibù wǎng"
+    },
+    {
+      "id": 249340,
+      "translation": {
+        "en": {
+          "short": "interface",
+          "long": "(computing) the program through which a user can interact with a computer, especially its design and appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antarmuka",
+          "long": "(komputasi) Program yang melaluinya pengguna dapat berinteraksi dengan komputer, terutama desain dan penampilannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249340.jpeg",
+      "simplified": "用户界面",
+      "traditional": "使用者介面",
+      "pinyin": "yònghù jiè miàn"
+    },
+    {
+      "id": 249345,
+      "translation": {
+        "en": {
+          "short": "to encrypt",
+          "long": "to convert data or information into a coded form, mainly to prevent unauthorized access",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengenkripsi",
+          "long": "untuk mengonversi data atau informasi menjadi formulir kode, terutama untuk mencegah akses yang tidak sah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249345.jpeg",
+      "simplified": "加密",
+      "traditional": "加密",
+      "pinyin": "jiāmì"
+    },
+    {
+      "id": 249347,
+      "translation": {
+        "en": {
+          "short": "codec",
+          "long": "a technology that compresses and decompresses audio or video data; facilitating efficient storage, transmission, and playback of multimedia content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "codec",
+          "long": "teknologi yang menekan dan mendekompresi data audio atau video; memfasilitasi penyimpanan, transmisi, dan pemutaran konten multimedia yang efisien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249347.jpeg",
+      "simplified": "编解码器",
+      "traditional": "編解碼器",
+      "pinyin": "biān jiěmǎ qì"
+    },
+    {
+      "id": 249342,
+      "translation": {
+        "en": {
+          "short": "firmware",
+          "long": "(computing) a type of software stored in a way that it cannot be modified or erased",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "firmware",
+          "long": "(komputasi) Jenis perangkat lunak yang disimpan dengan cara yang tidak dapat dimodifikasi atau dihapus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249342.jpeg",
+      "simplified": "固件",
+      "traditional": "韌體",
+      "pinyin": "gùjiàn"
+    },
+    {
+      "id": 249344,
+      "translation": {
+        "en": {
+          "short": "to generate",
+          "long": "to create a new set of data by using a mathematical or logical process to transform an existing set of data",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghasilkan",
+          "long": "Untuk membuat set data baru dengan menggunakan proses matematika atau logis untuk mengubah set data yang ada",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249344.jpeg",
+      "simplified": "生成",
+      "traditional": "生成",
+      "pinyin": "shēngchéng"
+    },
+    {
+      "id": 249348,
+      "translation": {
+        "en": {
+          "short": "clock speed",
+          "long": "the speed at which a computer can process information, expressed in (MHz)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecepatan jam",
+          "long": "Kecepatan di mana komputer dapat memproses informasi, dinyatakan dalam (MHz)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249348.jpeg",
+      "simplified": "时钟速度",
+      "traditional": "時鐘速度",
+      "pinyin": "shízhōng sùdù"
+    },
+    {
+      "id": 249349,
+      "translation": {
+        "en": {
+          "short": "byte",
+          "long": "a unit for measuring the size of computer data that equals 8 bits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "byte",
+          "long": "unit untuk mengukur ukuran data komputer yang sama dengan 8 bit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249349.jpeg",
+      "simplified": "字节（数据大小）",
+      "traditional": "字節（數據大小）",
+      "pinyin": "zìjié shùjù dàxiǎo"
+    },
+    {
+      "id": 249350,
+      "translation": {
+        "en": {
+          "short": "binary",
+          "long": "a system of encoding information using two distinct symbols, typically 0 and 1; representing the fundamental language of machine code executed by computers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biner",
+          "long": "sistem pengkodean informasi menggunakan dua simbol berbeda, biasanya 0 dan 1; mewakili bahasa dasar kode mesin yang dieksekusi oleh komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249350.jpeg",
+      "simplified": "二进制",
+      "traditional": "二進制",
+      "pinyin": "èrjìn zhì"
+    },
+    {
+      "id": 249353,
+      "translation": {
+        "en": {
+          "short": "read-only",
+          "long": "characterized by a mode in which data or a file is accessible for viewing but cannot be modified or altered",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hanya baca",
+          "long": "ditandai dengan mode di mana data atau file dapat diakses untuk dilihat tetapi tidak dapat dimodifikasi atau diubah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249353.jpeg",
+      "simplified": "只读",
+      "traditional": "只讀",
+      "pinyin": "zhǐdú"
+    },
+    {
+      "id": 249355,
+      "translation": {
+        "en": {
+          "short": "to rip",
+          "long": "to extract audio or video content from a physical medium, such as a CD or DVD; converting it into a digital format for storage or playback",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merobek",
+          "long": "untuk mengekstrak konten audio atau video dari media fisik, seperti CD atau DVD; Mengubahnya menjadi format digital untuk penyimpanan atau pemutaran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249355.jpeg",
+      "simplified": "刳",
+      "traditional": "刳",
+      "pinyin": "kū"
+    },
+    {
+      "id": 249356,
+      "translation": {
+        "en": {
+          "short": "stack",
+          "long": "a data structure that removes data in the reverse order of saving them and serves as a temporary storage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tumpukan",
+          "long": "Struktur Data yang Menghapus Data dalam Urutan Terbalik Menyimpannya dan berfungsi sebagai penyimpanan sementara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249356.jpeg",
+      "simplified": "堆",
+      "traditional": "堆",
+      "pinyin": "duī"
+    },
+    {
+      "id": 385034,
+      "translation": {
+        "en": {
+          "short": "local area network",
+          "long": "a network for communication between computers, usually within a building",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Jaringan Area Lokal",
+          "long": "jaringan untuk komunikasi antar komputer, biasanya di dalam gedung",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385034.jpeg",
+      "simplified": "局域网",
+      "traditional": "局域網",
+      "pinyin": "júyù wǎng"
+    },
+    {
+      "id": 249358,
+      "translation": {
+        "en": {
+          "short": "to troubleshoot",
+          "long": "to identify, analyze, and resolve problems or malfunctions in a system, device, or process to restore it to proper functioning",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memecahkan masalah",
+          "long": "untuk mengidentifikasi, menganalisis, dan menyelesaikan masalah atau kerusakan dalam sistem, perangkat, atau proses untuk mengembalikannya ke fungsi yang tepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249358.jpeg",
+      "simplified": "排除故障",
+      "traditional": "排除故障",
+      "pinyin": "páichú gùzhàng"
+    },
+    {
+      "id": 385038,
+      "translation": {
+        "en": {
+          "short": "random-access memory",
+          "long": "a type of computer memory tasked with temporarily storing data for a quicker access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memori akses acak",
+          "long": "Jenis memori komputer yang ditugaskan untuk menyimpan data sementara untuk akses yang lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385038.jpeg",
+      "simplified": "随机存取存储器",
+      "traditional": "隨機存取存儲器",
+      "pinyin": "suíjī cún qǔ cún chǔ qì"
+    },
+    {
+      "id": 385610,
+      "translation": {
+        "en": {
+          "short": "graphical user interface",
+          "long": "the visual interaction that users have with the computer through icons, menus, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antarmuka pengguna grafis",
+          "long": "Interaksi visual yang dimiliki pengguna dengan komputer melalui ikon, menu, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385610.jpeg",
+      "simplified": "图形用户界面",
+      "traditional": "圖形用戶界面",
+      "pinyin": "túxíng yòng hù jiè miàn"
+    }
+  ]
+}

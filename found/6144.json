@@ -1,0 +1,792 @@
+{
+  "id": 6144,
+  "title": {
+    "en": "Rolling Stock",
+    "id": "Rolling stock"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to rolling stock such as \"drag freight\", \"maglev\", and \"railcar.\"",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan rolling stock seperti \"drag barang\", \"maglev\", dan \"railcar.\""
+  },
+  "cards": [
+    {
+      "id": 407860,
+      "translation": {
+        "en": {
+          "short": "rolling stock",
+          "long": "the vehicles that move on a railway, including locomotives, railcars, and wagons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rolling stock",
+          "long": "Kendaraan yang bergerak di kereta api, termasuk lokomotif, kereta api, dan gerbong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407860.jpeg",
+      "simplified": "机车车辆",
+      "traditional": "機車車輛",
+      "pinyin": "jīchē chēliàng"
+    },
+    {
+      "id": 407863,
+      "translation": {
+        "en": {
+          "short": "drag freight",
+          "long": "a slow-moving train carrying heavy goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seret barang",
+          "long": "Kereta yang bergerak lambat membawa barang berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407863.jpeg",
+      "simplified": "拖放货物",
+      "traditional": "拖放貨物",
+      "pinyin": "tuōfàng huòwù"
+    },
+    {
+      "id": 407865,
+      "translation": {
+        "en": {
+          "short": "push–pull train",
+          "long": "a train that can be driven from either end, allowing it to go forward or backward without needing to turn around",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta push -pull",
+          "long": "kereta yang dapat didorong dari kedua ujungnya, memungkinkannya untuk maju atau mundur tanpa perlu berbalik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407865.jpeg",
+      "simplified": "推车火车",
+      "traditional": "推車火車",
+      "pinyin": "tuīchē huǒchē"
+    },
+    {
+      "id": 407869,
+      "translation": {
+        "en": {
+          "short": "unit train",
+          "long": "a train that carries just one type of cargo from one place to another without stopping",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kereta unit",
+          "long": "kereta yang hanya membawa satu jenis kargo dari satu tempat ke tempat lain tanpa berhenti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407869.jpeg",
+      "simplified": "单位火车",
+      "traditional": "單位火車",
+      "pinyin": "dānwèi huǒchē"
+    },
+    {
+      "id": 407871,
+      "translation": {
+        "en": {
+          "short": "shuttle train",
+          "long": "a train that goes back and forth between two places regularly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kereta Shuttle",
+          "long": "kereta yang bolak -balik antara dua tempat secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407871.jpeg",
+      "simplified": "穿梭火车",
+      "traditional": "穿梭火車",
+      "pinyin": "chuānsuō huǒchē"
+    },
+    {
+      "id": 407874,
+      "translation": {
+        "en": {
+          "short": "elevated train",
+          "long": "a train that runs on tracks above the ground, usually on a bridge-like structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta tinggi",
+          "long": "Kereta yang berjalan di jalur di atas tanah, biasanya pada struktur seperti jembatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407874.jpeg",
+      "simplified": "高架火车",
+      "traditional": "高架火車",
+      "pinyin": "gāojià huǒchē"
+    },
+    {
+      "id": 407877,
+      "translation": {
+        "en": {
+          "short": "express train",
+          "long": "a fast train that makes few stops and travels quickly between cities or towns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta cepat",
+          "long": "Kereta cepat yang membuat beberapa pemberhentian dan bepergian dengan cepat antara kota atau kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407877.jpeg",
+      "simplified": "快速列车",
+      "traditional": "快速列車",
+      "pinyin": "kuàisù lièchē"
+    },
+    {
+      "id": 407879,
+      "translation": {
+        "en": {
+          "short": "milk train",
+          "long": "a slow train that stops at many small stations to pick up and deliver goods, traditionally including fresh milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta susu",
+          "long": "Kereta lambat yang berhenti di banyak stasiun kecil untuk mengambil dan mengirimkan barang, secara tradisional termasuk susu segar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407879.jpeg",
+      "simplified": "牛奶火车",
+      "traditional": "牛奶火車",
+      "pinyin": "niúnǎi huǒchē"
+    },
+    {
+      "id": 407882,
+      "translation": {
+        "en": {
+          "short": "local train",
+          "long": "a train that stops at all or most stations on its route within a certain area or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta lokal",
+          "long": "kereta yang berhenti sama sekali atau sebagian besar stasiun di rutenya di dalam area atau wilayah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407882.jpeg",
+      "simplified": "当地火车",
+      "traditional": "當地火車",
+      "pinyin": "dāngdì huǒchē"
+    },
+    {
+      "id": 407884,
+      "translation": {
+        "en": {
+          "short": "stopping train",
+          "long": "a train that stops at all or most of the stations along its route",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Menghentikan kereta",
+          "long": "kereta yang berhenti sama sekali atau sebagian besar stasiun di sepanjang rutenya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407884.jpeg",
+      "simplified": "停下火车",
+      "traditional": "停下火車",
+      "pinyin": "tíngxià huǒchē"
+    },
+    {
+      "id": 407885,
+      "translation": {
+        "en": {
+          "short": "freight train",
+          "long": "a train that transports goods, not people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta barang",
+          "long": "kereta yang mengangkut barang, bukan orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407885.jpeg",
+      "simplified": "货车",
+      "traditional": "貨車",
+      "pinyin": "huòchē"
+    },
+    {
+      "id": 407886,
+      "translation": {
+        "en": {
+          "short": "boat train",
+          "long": "a train that transports passengers to and from a port",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta perahu",
+          "long": "kereta yang mengangkut penumpang ke dan dari pelabuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407886.jpeg",
+      "simplified": "船火车",
+      "traditional": "船火車",
+      "pinyin": "chuán huǒchē"
+    },
+    {
+      "id": 407887,
+      "translation": {
+        "en": {
+          "short": "magnetic levitation",
+          "long": "a transportation system that uses magnetic fields to propel vehicles without contact with the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Levitasi Magnetik",
+          "long": "Sistem transportasi yang menggunakan medan magnet untuk mendorong kendaraan tanpa kontak dengan tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407887.jpeg",
+      "simplified": "磁悬浮",
+      "traditional": "磁浮",
+      "pinyin": "cíxuán fú"
+    },
+    {
+      "id": 407889,
+      "translation": {
+        "en": {
+          "short": "through train",
+          "long": "a train that travels directly to its destination without stopping",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melalui kereta",
+          "long": "kereta yang bergerak langsung ke tujuannya tanpa berhenti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407889.jpeg",
+      "simplified": "通过火车",
+      "traditional": "通過火車",
+      "pinyin": "tōngguò huǒchē"
+    },
+    {
+      "id": 407890,
+      "translation": {
+        "en": {
+          "short": "bullet train",
+          "long": "a high-speed passenger train known for its streamlined design and rapid travel times",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta peluru",
+          "long": "Kereta penumpang berkecepatan tinggi yang dikenal karena desainnya yang ramping dan waktu perjalanan yang cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407890.jpeg",
+      "simplified": "子弹头列车",
+      "traditional": "子彈頭列車",
+      "pinyin": "zǐdàn tóu lièchē"
+    },
+    {
+      "id": 407892,
+      "translation": {
+        "en": {
+          "short": "doodlebug",
+          "long": "a type of railcar that combines a locomotive's engine and passenger compartments into a single unit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Doodlebug",
+          "long": "Jenis kereta api yang menggabungkan kompartemen mesin dan penumpang lokomotif menjadi satu unit tunggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407892.jpeg",
+      "simplified": "嘟嘟虫",
+      "traditional": "嘟嘟蟲",
+      "pinyin": "dū dū chóng"
+    },
+    {
+      "id": 407894,
+      "translation": {
+        "en": {
+          "short": "roadrailer",
+          "long": "a specialized type of transportation vehicle that can travel both on roads and on railway tracks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Roadrailer",
+          "long": "Jenis Kendaraan Transportasi Khusus yang Dapat Meluncur Baik Di Jalan maupun Di Kereta Api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407894.jpeg",
+      "simplified": "路拖车",
+      "traditional": "路拖車",
+      "pinyin": "Lù tuōchē"
+    },
+    {
+      "id": 407897,
+      "translation": {
+        "en": {
+          "short": "trainset",
+          "long": "a group of railway carriages or cars that are coupled together and operated as a single unit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Trainset",
+          "long": "sekelompok kereta kereta api atau mobil yang digabungkan bersama dan dioperasikan sebagai satu unit tunggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407897.jpeg",
+      "simplified": "动车组",
+      "traditional": "動車組",
+      "pinyin": "dòngchē Zǔ"
+    },
+    {
+      "id": 407899,
+      "translation": {
+        "en": {
+          "short": "railbus",
+          "long": "a small, self-propelled vehicle designed to transport passengers on railways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Railbus",
+          "long": "Kendaraan kecil dan self-propelled yang dirancang untuk mengangkut penumpang di kereta api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407899.jpeg",
+      "simplified": "铁路",
+      "traditional": "鐵路",
+      "pinyin": "tiělù"
+    },
+    {
+      "id": 407900,
+      "translation": {
+        "en": {
+          "short": "locomotive",
+          "long": "a powered railroad vehicle that pulls a train along",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lokomotif",
+          "long": "Kendaraan kereta api bertenaga yang menarik kereta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407900.jpeg",
+      "simplified": "机车",
+      "traditional": "機車",
+      "pinyin": "jīchē"
+    },
+    {
+      "id": 407902,
+      "translation": {
+        "en": {
+          "short": "Berkshire locomotive",
+          "long": "a specific type of steam locomotive characterized by its 2-8-4 wheel arrangement, commonly used for hauling heavy freight trains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lokomotif Berkshire",
+          "long": "Jenis lokomotif uap tertentu yang ditandai dengan pengaturan roda 2-8-4, yang biasa digunakan untuk mengangkut kereta barang berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407902.jpeg",
+      "simplified": "伯克希尔机车",
+      "traditional": "伯克希爾機車",
+      "pinyin": "bà Kè Xīěr jīchē"
+    },
+    {
+      "id": 407904,
+      "translation": {
+        "en": {
+          "short": "compound locomotive",
+          "long": "a type of steam engine where steam is used in two or more stages for improved efficiency and power output",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lokomotif majemuk",
+          "long": "Jenis mesin uap di mana uap digunakan dalam dua tahap atau lebih untuk meningkatkan efisiensi dan output daya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407904.jpeg",
+      "simplified": "复合机车",
+      "traditional": "複合機車",
+      "pinyin": "fùhé jīchē"
+    },
+    {
+      "id": 407906,
+      "translation": {
+        "en": {
+          "short": "Garratt locomotive",
+          "long": "a specialized steam engine with two separate power units and a central articulated frame, invented by Herbert William Garratt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lokomotif Garratt",
+          "long": "mesin uap khusus dengan dua unit listrik terpisah dan bingkai artikulasi sentral, diciptakan oleh Herbert William Garratt",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407906.jpeg",
+      "simplified": "Garratt机车",
+      "traditional": "Garratt機車",
+      "pinyin": "jīchē"
+    },
+    {
+      "id": 407908,
+      "translation": {
+        "en": {
+          "short": "Fairlie locomotive",
+          "long": "a type of steam engine with a unique double-ended design and twin boiler arrangement, often used for hauling heavy loads on narrow-gauge railways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lokomotif Fairlie",
+          "long": "Jenis mesin uap dengan desain ganda yang unik dan pengaturan boiler kembar, sering digunakan untuk mengangkut beban berat di kereta api pengukur sempit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407908.jpeg",
+      "simplified": "Fairlie机车",
+      "traditional": "Fairlie機車",
+      "pinyin": "jīchē"
+    },
+    {
+      "id": 407909,
+      "translation": {
+        "en": {
+          "short": "tank locomotive",
+          "long": "a steam-powered train engine that stores its water in tanks attached directly to the locomotive, rather than in a separate carriage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lokomotif tangki",
+          "long": "Mesin kereta bertenaga uap yang menyimpan airnya dalam tangki yang terpasang langsung ke lokomotif, bukan di kereta terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407909.jpeg",
+      "simplified": "坦克机车",
+      "traditional": "坦克機車",
+      "pinyin": "tǎnkè jīchē"
+    },
+    {
+      "id": 407911,
+      "translation": {
+        "en": {
+          "short": "electric multiple unit",
+          "long": "a train consisting of self-propelled carriages that are powered by electricity from overhead lines or third rails",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Listrik banyak unit",
+          "long": "Kereta yang terdiri dari gerbong self-propelled yang ditenagai oleh listrik dari saluran overhead atau rel ketiga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407911.jpeg",
+      "simplified": "电气多单元",
+      "traditional": "電氣多單元",
+      "pinyin": "diànqì duō dānyuán"
+    },
+    {
+      "id": 407913,
+      "translation": {
+        "en": {
+          "short": "diesel multiple unit",
+          "long": "a type of train composed of self-propelled carriages powered by diesel engines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diesel beberapa unit",
+          "long": "Jenis kereta yang terdiri dari gerbong self-propelled yang ditenagai oleh mesin diesel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407913.jpeg",
+      "simplified": "柴油多个单位",
+      "traditional": "柴油多個單位",
+      "pinyin": "cháiyóu duōge dānwèi"
+    },
+    {
+      "id": 407915,
+      "translation": {
+        "en": {
+          "short": "B-unit",
+          "long": "a non-powered locomotive unit that is coupled with a powered locomotive to provide additional traction or increase hauling capacity on trains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "B-unit",
+          "long": "Unit lokomotif yang tidak bertenaga yang digabungkan dengan lokomotif bertenaga untuk memberikan traksi tambahan atau meningkatkan kapasitas pengangkutan pada kereta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407915.jpeg",
+      "simplified": "b-unit",
+      "traditional": "b-unit",
+      "pinyin": ""
+    },
+    {
+      "id": 407917,
+      "translation": {
+        "en": {
+          "short": "cab-forward",
+          "long": "pretaining to a design where the driver's compartment is positioned unusually forward, often to maximize space or improve visibility",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Cab-forward",
+          "long": "pretining ke desain di mana kompartemen pengemudi diposisikan secara luar biasa ke depan, seringkali untuk memaksimalkan ruang atau meningkatkan visibilitas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407917.jpeg",
+      "simplified": "出租车前",
+      "traditional": "出租車前",
+      "pinyin": "chūzū chē qián"
+    },
+    {
+      "id": 407918,
+      "translation": {
+        "en": {
+          "short": "railcar",
+          "long": "a type of train car that can move on its own and is used to carry passengers or freight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kereta",
+          "long": "Jenis mobil kereta api yang dapat bergerak sendiri dan digunakan untuk membawa penumpang atau pengiriman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407918.jpeg",
+      "simplified": "有轨电车",
+      "traditional": "有軌電車",
+      "pinyin": "yǒuguǐ diàn chē"
+    },
+    {
+      "id": 407919,
+      "translation": {
+        "en": {
+          "short": "passenger car",
+          "long": "a railway car designed specifically for carrying passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil penumpang",
+          "long": "mobil kereta api yang dirancang khusus untuk membawa penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407919.jpeg",
+      "simplified": "客车",
+      "traditional": "客車",
+      "pinyin": "kèchē"
+    },
+    {
+      "id": 407920,
+      "translation": {
+        "en": {
+          "short": "caboose",
+          "long": "a special car at the end of a freight train where crew members stay to watch the train and sometimes live during their journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerbong tukang rem",
+          "long": "mobil khusus di ujung kereta barang di mana anggota kru tetap menonton kereta dan kadang -kadang hidup selama perjalanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407920.jpeg",
+      "simplified": "守车",
+      "traditional": "守車",
+      "pinyin": "shǒuchē"
+    },
+    {
+      "id": 407922,
+      "translation": {
+        "en": {
+          "short": "through coach",
+          "long": "a railway carriage that remains attached to a train for the entire journey, often traveling between different cities or countries without requiring passengers to change trains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melalui pelatih",
+          "long": "kereta kereta api yang tetap melekat pada kereta api untuk seluruh perjalanan, sering bepergian antara berbagai kota atau negara tanpa mengharuskan penumpang untuk berganti kereta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407922.jpeg",
+      "simplified": "通过教练",
+      "traditional": "通過教練",
+      "pinyin": "tōngguò jiàoliàn"
+    },
+    {
+      "id": 407923,
+      "translation": {
+        "en": {
+          "short": "flatcar",
+          "long": "a type of railway car with a flat, open deck, used for transporting heavy or oversized loads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerobak datar",
+          "long": "Jenis mobil kereta api dengan dek terbuka, terbuka, digunakan untuk mengangkut beban berat atau besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407923.jpeg",
+      "simplified": "敞车",
+      "traditional": "敞車",
+      "pinyin": "chǎngchē"
+    },
+    {
+      "id": 407924,
+      "translation": {
+        "en": {
+          "short": "boxcar",
+          "long": "a  closed railway car used for transporting various types of goods and cargo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerbong barang",
+          "long": "mobil kereta api tertutup yang digunakan untuk mengangkut berbagai jenis barang dan kargo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407924.jpeg",
+      "simplified": "棚车",
+      "traditional": "棚車",
+      "pinyin": "péng Chē"
+    },
+    {
+      "id": 407925,
+      "translation": {
+        "en": {
+          "short": "freight car",
+          "long": "a railroad car used for transporting goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil barang",
+          "long": "mobil kereta api yang digunakan untuk mengangkut barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407925.jpeg",
+      "simplified": "货车",
+      "traditional": "貨車",
+      "pinyin": "huòchē"
+    },
+    {
+      "id": 407927,
+      "translation": {
+        "en": {
+          "short": "schnabel car",
+          "long": "a specialized type of freight railcar designed with adjustable, projecting arms to securely transport heavy and oversized loads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mobil Schnabel",
+          "long": "Jenis khusus kereta api barang yang dirancang dengan lengan yang dapat disesuaikan dan memproyeksikan untuk mengangkut beban yang berat dan besar dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407927.jpeg",
+      "simplified": "施纳贝尔汽车",
+      "traditional": "施納貝爾汽車",
+      "pinyin": "Shī Nà Bèiěr qìchē"
+    },
+    {
+      "id": 407929,
+      "translation": {
+        "en": {
+          "short": "refrigerated boxcar",
+          "long": "a type of railway freight car equipped with cooling machinery to transport perishable goods such as food at controlled temperatures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerbong didinginkan",
+          "long": "Jenis mobil barang kereta api yang dilengkapi dengan mesin pendingin untuk mengangkut barang yang mudah rusak seperti makanan pada suhu yang dikendalikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407929.jpeg",
+      "simplified": "冷藏棚车",
+      "traditional": "冷藏棚車",
+      "pinyin": "lěngcáng péng Chē"
+    },
+    {
+      "id": 407931,
+      "translation": {
+        "en": {
+          "short": "covered goods wagon",
+          "long": "a type of train car with a roof and sides, used for transporting goods securely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gerobak barang tertutup",
+          "long": "Jenis mobil kereta api dengan atap dan samping, digunakan untuk mengangkut barang dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407931.jpeg",
+      "simplified": "覆盖的货车",
+      "traditional": "覆蓋的貨車",
+      "pinyin": "fùgài de huòchē"
+    },
+    {
+      "id": 407934,
+      "translation": {
+        "en": {
+          "short": "open wagon",
+          "long": "a type of railcar without a roof or sides, used for transporting goods or materials on railways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Open Wagon",
+          "long": "Jenis kereta api tanpa atap atau samping, digunakan untuk mengangkut barang atau bahan di kereta api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407934.jpeg",
+      "simplified": "敞车",
+      "traditional": "敞車",
+      "pinyin": "chǎngchē"
+    },
+    {
+      "id": 407935,
+      "translation": {
+        "en": {
+          "short": "tank car",
+          "long": "a train car specially made for carrying liquids or gases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil tank",
+          "long": "mobil kereta api yang dibuat khusus untuk membawa cairan atau gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407935.jpeg",
+      "simplified": "油罐车",
+      "traditional": "油罐車",
+      "pinyin": "yóuguàn chē"
+    }
+  ]
+}

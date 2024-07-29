@@ -1,0 +1,621 @@
+{
+  "id": 124,
+  "title": {
+    "en": "Music and Literature",
+    "id": "Musik dan sastra"
+  },
+  "description": {
+    "en": "Here you will learn some English words about music and literature, such as \"culture\", \"art\", and \"painting\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang musik dan sastra, seperti \"budaya\", \"seni\", dan \"lukisan\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 221225,
+      "translation": {
+        "en": {
+          "short": "culture",
+          "long": "the general beliefs, customs, and lifestyles of a specific society",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "budaya",
+          "long": "Keyakinan umum, kebiasaan, dan gaya hidup masyarakat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221225.jpeg",
+      "simplified": "文化",
+      "traditional": "文化",
+      "pinyin": "wénhuà"
+    },
+    {
+      "id": 221223,
+      "translation": {
+        "en": {
+          "short": "art",
+          "long": "works of art or objects produced in a beautiful way such as paintings, sculptures, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seni",
+          "long": "Karya seni atau benda yang diproduksi dengan cara yang indah seperti lukisan, patung, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221223.jpeg",
+      "simplified": "艺术",
+      "traditional": "藝術",
+      "pinyin": "yìshù"
+    },
+    {
+      "id": 221876,
+      "translation": {
+        "en": {
+          "short": "painting",
+          "long": "the act or art of making pictures, using paints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan",
+          "long": "tindakan atau seni membuat gambar, menggunakan cat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221876.jpeg",
+      "simplified": "绘画",
+      "traditional": "繪畫",
+      "pinyin": "huìhuà"
+    },
+    {
+      "id": 221879,
+      "translation": {
+        "en": {
+          "short": "picture",
+          "long": "a drawing or painting, etc. of someone or something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambar",
+          "long": "gambar atau lukisan, dll. Dari seseorang atau sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221879.jpeg",
+      "simplified": "图片",
+      "traditional": "圖片",
+      "pinyin": "túpiàn"
+    },
+    {
+      "id": 211860,
+      "translation": {
+        "en": {
+          "short": "hit",
+          "long": "something, such as a movie, play, song, etc. that is very popular and successful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memukul",
+          "long": "sesuatu, seperti film, permainan, lagu, dll. Itu sangat populer dan sukses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211860.jpeg",
+      "simplified": "击中",
+      "traditional": "擊中",
+      "pinyin": "jīzhòng"
+    },
+    {
+      "id": 211861,
+      "translation": {
+        "en": {
+          "short": "instrument",
+          "long": "an object or device used for producing music, such as a violin or a piano",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "instrumen",
+          "long": "objek atau perangkat yang digunakan untuk memproduksi musik, seperti biola atau piano",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211861.jpeg",
+      "simplified": "仪器",
+      "traditional": "儀器",
+      "pinyin": "yíqì"
+    },
+    {
+      "id": 211859,
+      "translation": {
+        "en": {
+          "short": "guitarist",
+          "long": "someone who plays the guitar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitaris",
+          "long": "seseorang yang memainkan gitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211859.jpeg",
+      "simplified": "吉他手",
+      "traditional": "吉他手",
+      "pinyin": "jítā shǒu"
+    },
+    {
+      "id": 211865,
+      "translation": {
+        "en": {
+          "short": "musician",
+          "long": "someone who plays a musical instrument or writes music, especially as a profession",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemusik",
+          "long": "seseorang yang memainkan alat musik atau menulis musik, terutama sebagai profesi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211865.jpeg",
+      "simplified": "音乐家",
+      "traditional": "音樂家",
+      "pinyin": "yīnyuè jiā"
+    },
+    {
+      "id": 211862,
+      "translation": {
+        "en": {
+          "short": "jazz",
+          "long": "a music genre that emphasizes improvisation, complex rhythms, and extended chords, originated in the United States in the late 19th and early 20th centuries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jazz",
+          "long": "Genre musik yang menekankan improvisasi, ritme kompleks, dan akord yang diperluas, berasal dari Amerika Serikat pada akhir abad ke -19 dan awal ke -20",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211862.jpeg",
+      "simplified": "爵士乐",
+      "traditional": "爵士樂",
+      "pinyin": "juéshì yuè"
+    },
+    {
+      "id": 391585,
+      "translation": {
+        "en": {
+          "short": "rock music",
+          "long": "a genre of popular music, with a strong beat played on electric guitars and drums, evolved from rock and roll and pop music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik rock",
+          "long": "Genre musik populer, dengan ketukan kuat dimainkan pada gitar dan drum listrik, berevolusi dari rock and roll dan musik pop",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391585.jpeg",
+      "simplified": "摇滚音乐",
+      "traditional": "搖滾音樂",
+      "pinyin": "yáogǔn yīnyuè"
+    },
+    {
+      "id": 211869,
+      "translation": {
+        "en": {
+          "short": "record",
+          "long": "a round, thin piece of plastic with a hole in the middle, on which music, etc. is recorded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catatan",
+          "long": "sepotong plastik bundar dan tipis dengan lubang di tengah, di mana musik, dll. direkam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211869.jpeg",
+      "simplified": "记录",
+      "traditional": "記錄",
+      "pinyin": "jìlù"
+    },
+    {
+      "id": 211872,
+      "translation": {
+        "en": {
+          "short": "tour",
+          "long": "a series of concerts held in different locations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wisata",
+          "long": "serangkaian konser yang diadakan di lokasi yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211872.jpeg",
+      "simplified": "音乐之旅",
+      "traditional": "音樂之旅",
+      "pinyin": "yīnyuè zhī lǚ"
+    },
+    {
+      "id": 211874,
+      "translation": {
+        "en": {
+          "short": "voice",
+          "long": "the unique and recognizable way someone sounds when they sing or speak, including aspects like tone, pitch, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suara",
+          "long": "Cara unik dan dikenali seseorang terdengar ketika mereka bernyanyi atau berbicara, termasuk aspek seperti nada, nada, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211874.jpeg",
+      "simplified": "嗓音",
+      "traditional": "嗓音",
+      "pinyin": "sǎngyīn"
+    },
+    {
+      "id": 211875,
+      "translation": {
+        "en": {
+          "short": "work",
+          "long": "a painting, piece of music or book that is produced by a painter, musician or writer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bekerja",
+          "long": "Lukisan, musik atau buku yang diproduksi oleh pelukis, musisi atau penulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211875.jpeg",
+      "simplified": "艺术作品",
+      "traditional": "藝術作品",
+      "pinyin": "yìshù zuòpǐn"
+    },
+    {
+      "id": 211876,
+      "translation": {
+        "en": {
+          "short": "concert",
+          "long": "a public performance by musicians or singers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konser",
+          "long": "Penampilan publik oleh musisi atau penyanyi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211876.jpeg",
+      "simplified": "音乐会",
+      "traditional": "音樂會",
+      "pinyin": "yīnyuè huì"
+    },
+    {
+      "id": 211877,
+      "translation": {
+        "en": {
+          "short": "dancer",
+          "long": "a person who dances, often for fun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penari",
+          "long": "Seseorang yang menari, sering kali untuk bersenang -senang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211877.jpeg",
+      "simplified": "舞蹈家",
+      "traditional": "舞蹈家",
+      "pinyin": "wǔdǎo jiā"
+    },
+    {
+      "id": 211878,
+      "translation": {
+        "en": {
+          "short": "drum",
+          "long": "a musical instrument consisting of a hollow, round frame with plastic or skin stretched tightly across one or both ends, played by hitting it with sticks or hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drum",
+          "long": "Alat musik yang terdiri dari bingkai bundar berongga dengan plastik atau kulit yang direntangkan di satu atau kedua ujungnya, dimainkan dengan memukulnya dengan tongkat atau tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211878.jpeg",
+      "simplified": "鼓",
+      "traditional": "鼓",
+      "pinyin": "gǔ"
+    },
+    {
+      "id": 221224,
+      "translation": {
+        "en": {
+          "short": "poet",
+          "long": "a person who writes pieces of poetry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyair",
+          "long": "Seseorang yang menulis potongan puisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221224.jpeg",
+      "simplified": "诗人",
+      "traditional": "詩人",
+      "pinyin": "shīrén"
+    },
+    {
+      "id": 221227,
+      "translation": {
+        "en": {
+          "short": "story",
+          "long": "a description of events and people either real or imaginary",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cerita",
+          "long": "deskripsi peristiwa dan orang baik nyata atau imajiner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221227.jpeg",
+      "simplified": "故事",
+      "traditional": "故事",
+      "pinyin": "gùshì"
+    },
+    {
+      "id": 221226,
+      "translation": {
+        "en": {
+          "short": "novel",
+          "long": "a long written story that usually involves imaginary characters and places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "novel",
+          "long": "Kisah tertulis yang panjang yang biasanya melibatkan karakter dan tempat imajiner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221226.jpeg",
+      "simplified": "小说",
+      "traditional": "小說",
+      "pinyin": "xiǎoshuō"
+    },
+    {
+      "id": 221228,
+      "translation": {
+        "en": {
+          "short": "song",
+          "long": "a piece of music that has words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lagu",
+          "long": "Sepotong musik yang memiliki kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221228.jpeg",
+      "simplified": "歌曲",
+      "traditional": "歌曲",
+      "pinyin": "gēqǔ"
+    },
+    {
+      "id": 221230,
+      "translation": {
+        "en": {
+          "short": "player",
+          "long": "a person who plays a musical instrument professionally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemain",
+          "long": "seseorang yang memainkan alat musik secara profesional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221230.jpeg",
+      "simplified": "演员",
+      "traditional": "演員",
+      "pinyin": "yǎnyuán"
+    },
+    {
+      "id": 226022,
+      "translation": {
+        "en": {
+          "short": "painter",
+          "long": "an artist who paints pictures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelukis",
+          "long": "seorang seniman yang melukis gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/226022.jpeg",
+      "simplified": "画家",
+      "traditional": "畫家",
+      "pinyin": "huàjiā"
+    },
+    {
+      "id": 211857,
+      "translation": {
+        "en": {
+          "short": "classical",
+          "long": "related to classical music",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "klasik",
+          "long": "terkait dengan musik klasik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211857.jpeg",
+      "simplified": "古典",
+      "traditional": "古典",
+      "pinyin": "gǔdiǎn"
+    },
+    {
+      "id": 211863,
+      "translation": {
+        "en": {
+          "short": "musical",
+          "long": "relating to or containing music",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "musikal",
+          "long": "berkaitan dengan atau berisi musik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211863.jpeg",
+      "simplified": "音乐",
+      "traditional": "音樂",
+      "pinyin": "yīnyuè"
+    },
+    {
+      "id": 221880,
+      "translation": {
+        "en": {
+          "short": "opera",
+          "long": "a musical play sung and performed by singers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "opera",
+          "long": "sebuah drama musik yang dinyanyikan dan dilakukan oleh penyanyi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221880.jpeg",
+      "simplified": "歌剧",
+      "traditional": "歌劇",
+      "pinyin": "gējù"
+    },
+    {
+      "id": 221231,
+      "translation": {
+        "en": {
+          "short": "loud",
+          "long": "producing a sound or noise with high volume",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "keras",
+          "long": "menghasilkan suara atau kebisingan dengan volume tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221231.jpeg",
+      "simplified": "大声",
+      "traditional": "大聲",
+      "pinyin": "dàshēng"
+    },
+    {
+      "id": 221232,
+      "translation": {
+        "en": {
+          "short": "loudly",
+          "long": "with a high volume or intensity",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "dengan keras",
+          "long": "dengan volume atau intensitas tinggi",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221232.jpeg",
+      "simplified": "高声",
+      "traditional": "高聲",
+      "pinyin": "gāoshēng"
+    },
+    {
+      "id": 211882,
+      "translation": {
+        "en": {
+          "short": "to sing",
+          "long": "to use our voice in order to produce musical sounds in the form of a tune or song",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyanyikan",
+          "long": "untuk menggunakan suara kami untuk menghasilkan suara musik dalam bentuk lagu atau lagu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211882.jpeg",
+      "simplified": "唱歌",
+      "traditional": "唱歌",
+      "pinyin": "chànggē"
+    },
+    {
+      "id": 211881,
+      "translation": {
+        "en": {
+          "short": "to play",
+          "long": "to perform music on a musical instrument",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bermain",
+          "long": "untuk menampilkan musik pada alat musik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211881.jpeg",
+      "simplified": "玩",
+      "traditional": "玩",
+      "pinyin": "wán"
+    },
+    {
+      "id": 389086,
+      "translation": {
+        "en": {
+          "short": "pop music",
+          "long": "popular music, especially with young people, consisting a strong rhythm and simple tunes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik pop",
+          "long": "Musik populer, terutama dengan kaum muda, yang terdiri dari ritme yang kuat dan lagu -lagu sederhana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389086.jpeg",
+      "simplified": "流行音乐",
+      "traditional": "流行音樂",
+      "pinyin": "liúxíng yīn yuè"
+    },
+    {
+      "id": 211858,
+      "translation": {
+        "en": {
+          "short": "to dance",
+          "long": "to move the body to music in a special way",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menari",
+          "long": "untuk memindahkan tubuh ke musik dengan cara khusus",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211858.jpeg",
+      "simplified": "跳舞",
+      "traditional": "跳舞",
+      "pinyin": "tiàowǔ"
+    }
+  ]
+}

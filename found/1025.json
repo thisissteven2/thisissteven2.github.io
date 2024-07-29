@@ -1,0 +1,773 @@
+{
+  "id": 1025,
+  "title": {
+    "en": "Farming and Vegetation",
+    "id": "Pertanian dan Vegetasi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about farming and vegetation, such as \"arable\", \"croft\", \"silage\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pertanian dan vegetasi, seperti \"subur\", \"croft\", \"silage\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 244621,
+      "translation": {
+        "en": {
+          "short": "arable",
+          "long": "having the capacity to be used to grow crops",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subur",
+          "long": "memiliki kapasitas untuk digunakan untuk menanam tanaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244621.jpeg",
+      "simplified": "耕地",
+      "traditional": "耕地",
+      "pinyin": "gēngdì"
+    },
+    {
+      "id": 244625,
+      "translation": {
+        "en": {
+          "short": "fallow",
+          "long": "(of farmland) not used for growing crops for a period of time, especially for the quality of the soil to improve",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kosong",
+          "long": "(lahan pertanian) tidak digunakan untuk menanam tanaman untuk jangka waktu tertentu, terutama untuk kualitas tanah untuk meningkatkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244625.jpeg",
+      "simplified": "休耕",
+      "traditional": "休耕",
+      "pinyin": "xiūgēng"
+    },
+    {
+      "id": 244650,
+      "translation": {
+        "en": {
+          "short": "coniferous",
+          "long": "relating to trees with hard and dry fruits called cones and needle-shaped leaves",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "koniferus",
+          "long": "berkaitan dengan pohon dengan buah-buahan keras dan kering yang disebut kerucut dan daun berbentuk jarum",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244650.jpeg",
+      "simplified": "针叶",
+      "traditional": "針葉",
+      "pinyin": "zhēnyè"
+    },
+    {
+      "id": 244653,
+      "translation": {
+        "en": {
+          "short": "deciduous",
+          "long": "(of plants) annually losing leaves",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "deciduous",
+          "long": "(tanaman) setiap tahun kehilangan daun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244653.jpeg",
+      "simplified": "落叶的",
+      "traditional": "落葉的",
+      "pinyin": "luòyè de"
+    },
+    {
+      "id": 244626,
+      "translation": {
+        "en": {
+          "short": "to fodder",
+          "long": "to feed farm animals with any agricultural foodstuff that is specifically for domesticated livestock",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke pakan ternak",
+          "long": "untuk memberi makan hewan ternak dengan bahan makanan pertanian apa pun yang khusus untuk ternak jinak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244626.jpeg",
+      "simplified": "饲料",
+      "traditional": "飼料",
+      "pinyin": "sìliào"
+    },
+    {
+      "id": 244630,
+      "translation": {
+        "en": {
+          "short": "to irrigate",
+          "long": "to supply crops, land, etc. with water, typically by artificial means",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengairi",
+          "long": "untuk memasok tanaman, tanah, dll. Dengan air, biasanya dengan cara buatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244630.jpeg",
+      "simplified": "灌溉",
+      "traditional": "灌溉",
+      "pinyin": "guàngài"
+    },
+    {
+      "id": 244660,
+      "translation": {
+        "en": {
+          "short": "to sprout",
+          "long": "(of a seed or plant) to begin growing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kecambah",
+          "long": "(dari benih atau tanaman) untuk mulai tumbuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244660.jpeg",
+      "simplified": "发芽",
+      "traditional": "發芽",
+      "pinyin": "fāyá"
+    },
+    {
+      "id": 244622,
+      "translation": {
+        "en": {
+          "short": "blight",
+          "long": "any disease that causes a plant to wither and eventually dies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hawar",
+          "long": "penyakit apa pun yang menyebabkan tanaman layu dan akhirnya mati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244622.jpeg",
+      "simplified": "枯萎病",
+      "traditional": "枯萎病",
+      "pinyin": "kūwěi bìng"
+    },
+    {
+      "id": 244623,
+      "translation": {
+        "en": {
+          "short": "croft",
+          "long": "a small rented farm around a house or the house itself, especially in Scotland",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ladang kecil",
+          "long": "sebuah peternakan kecil sewaan di sekitar rumah atau rumah itu sendiri, terutama di Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244623.jpeg",
+      "simplified": "克罗夫特",
+      "traditional": "克羅夫特",
+      "pinyin": "Kè Luó fū tè"
+    },
+    {
+      "id": 244624,
+      "translation": {
+        "en": {
+          "short": "cultivator",
+          "long": "a piece of mechanical equipment used to break up the soil and remove weeds from the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petani",
+          "long": "Sepotong peralatan mekanis yang digunakan untuk memecah tanah dan menghilangkan gulma dari tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244624.jpeg",
+      "simplified": "耕耘者",
+      "traditional": "耕耘者",
+      "pinyin": "gēngyún zhě"
+    },
+    {
+      "id": 244627,
+      "translation": {
+        "en": {
+          "short": "hedgerow",
+          "long": "a line of shrubs, bushes, or small trees that are planted along the edge of a field or road, especially in the UK",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pagar",
+          "long": "Garis semak, semak -semak, atau pohon kecil yang ditanam di sepanjang tepi lapangan atau jalan, terutama di Inggris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244627.jpeg",
+      "simplified": "灌木篱墙",
+      "traditional": "灌木籬牆",
+      "pinyin": "guànmù lí qiáng"
+    },
+    {
+      "id": 244628,
+      "translation": {
+        "en": {
+          "short": "homestead",
+          "long": "a house, especially a farmhouse, with the land and buildings surrounding it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Homestead",
+          "long": "sebuah rumah, terutama rumah pertanian, dengan tanah dan bangunan di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244628.jpeg",
+      "simplified": "农家",
+      "traditional": "農家",
+      "pinyin": "Nóngjiā"
+    },
+    {
+      "id": 244629,
+      "translation": {
+        "en": {
+          "short": "husbandry",
+          "long": "the practice of cultivating and breeding crops and animals and taking care of them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Peternakan",
+          "long": "praktik menanam dan membiakkan tanaman dan hewan dan merawatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244629.jpeg",
+      "simplified": "畜牧业",
+      "traditional": "畜牧業",
+      "pinyin": "xùmù yè"
+    },
+    {
+      "id": 244631,
+      "translation": {
+        "en": {
+          "short": "manure",
+          "long": "solid waste from animals spread on a piece of land to help plants and crops grow healthier and stronger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pupuk",
+          "long": "Limbah padat dari hewan yang tersebar di sebidang tanah untuk membantu tanaman dan tanaman tumbuh lebih sehat dan lebih kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244631.jpeg",
+      "simplified": "肥料",
+      "traditional": "肥料",
+      "pinyin": "féiliào"
+    },
+    {
+      "id": 244632,
+      "translation": {
+        "en": {
+          "short": "pasture",
+          "long": "a field covered with grass or similar herbs suitable for animals to graze on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padang rumput",
+          "long": "ladang yang ditutupi dengan rumput atau bumbu serupa yang cocok untuk hewan untuk digembalakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244632.jpeg",
+      "simplified": "牧场",
+      "traditional": "牧場",
+      "pinyin": "mùchǎng"
+    },
+    {
+      "id": 244633,
+      "translation": {
+        "en": {
+          "short": "reaper",
+          "long": "a person who gathers the harvest on a farm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin penuai",
+          "long": "seseorang yang mengumpulkan panen di pertanian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244633.jpeg",
+      "simplified": "收割者",
+      "traditional": "收割者",
+      "pinyin": "shōugē zhě"
+    },
+    {
+      "id": 244634,
+      "translation": {
+        "en": {
+          "short": "rustler",
+          "long": "someone who steals farm animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rustler",
+          "long": "seseorang yang mencuri hewan ternak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244634.jpeg",
+      "simplified": "鲁斯勒",
+      "traditional": "魯斯勒",
+      "pinyin": "Lǔ Sī lè"
+    },
+    {
+      "id": 244635,
+      "translation": {
+        "en": {
+          "short": "silage",
+          "long": "grass or other green crops that are harvested and stored without being dried to be fed to animals in winter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Silase",
+          "long": "rumput atau tanaman hijau lainnya yang dipanen dan disimpan tanpa dikeringkan untuk diberi makan hewan di musim dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244635.jpeg",
+      "simplified": "青贮饲料",
+      "traditional": "青貯飼料",
+      "pinyin": "qīngzhù sìliào"
+    },
+    {
+      "id": 244636,
+      "translation": {
+        "en": {
+          "short": "sprinkler",
+          "long": "a small device with holes that is put on the end of a hose, used for watering soil or lawns; a piece of equipment that is utilized in case a building is on fire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat penyiram",
+          "long": "Perangkat kecil dengan lubang yang diletakkan di ujung selang, digunakan untuk menyirami tanah atau rumput; sepotong peralatan yang digunakan jika ada bangunan yang terbakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244636.jpeg",
+      "simplified": "洒水车",
+      "traditional": "灑水車",
+      "pinyin": "sǎshuǐ chē"
+    },
+    {
+      "id": 244637,
+      "translation": {
+        "en": {
+          "short": "vintage",
+          "long": "the amount of wine produced in a particular year or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antik",
+          "long": "jumlah anggur yang diproduksi di tahun atau tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244637.jpeg",
+      "simplified": "葡萄收获期",
+      "traditional": "葡萄收穫期",
+      "pinyin": "pútao shōuhuò qī"
+    },
+    {
+      "id": 244641,
+      "translation": {
+        "en": {
+          "short": "botany",
+          "long": "the scientific study of plants, their structure, genetics, classification, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "botani",
+          "long": "Studi ilmiah tanaman, strukturnya, genetika, klasifikasi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244641.jpeg",
+      "simplified": "植物学",
+      "traditional": "植物學",
+      "pinyin": "zhíwù xué"
+    },
+    {
+      "id": 244640,
+      "translation": {
+        "en": {
+          "short": "biennial",
+          "long": "a plant that lives for two years and in its second year produces seeds and flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dua tahunan",
+          "long": "tanaman yang hidup selama dua tahun dan pada tahun kedua menghasilkan benih dan bunga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244640.jpeg",
+      "simplified": "双年展",
+      "traditional": "雙年展",
+      "pinyin": "Shuāng Nián Zhǎn"
+    },
+    {
+      "id": 244643,
+      "translation": {
+        "en": {
+          "short": "bough",
+          "long": "a major branch of a tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dahan",
+          "long": "cabang utama pohon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244643.jpeg",
+      "simplified": "树枝",
+      "traditional": "樹枝",
+      "pinyin": "shùzhī"
+    },
+    {
+      "id": 244644,
+      "translation": {
+        "en": {
+          "short": "bramble",
+          "long": "a thorny shrub of the rose family on which blackberries grow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semak duri",
+          "long": "semak berduri dari keluarga mawar tempat blackberry tumbuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244644.jpeg",
+      "simplified": "荆棘",
+      "traditional": "荊棘",
+      "pinyin": "jīngjí"
+    },
+    {
+      "id": 244654,
+      "translation": {
+        "en": {
+          "short": "foliage",
+          "long": "a plant or tree's branches and leaves collectively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dedaunan",
+          "long": "cabang dan daun tanaman atau pohon secara kolektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244654.jpeg",
+      "simplified": "叶子",
+      "traditional": "葉子",
+      "pinyin": "yèzi"
+    },
+    {
+      "id": 244659,
+      "translation": {
+        "en": {
+          "short": "sapling",
+          "long": "a small and young tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pohon muda",
+          "long": "pohon kecil dan muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244659.jpeg",
+      "simplified": "树苗",
+      "traditional": "樹苗",
+      "pinyin": "shùmiáo"
+    },
+    {
+      "id": 244648,
+      "translation": {
+        "en": {
+          "short": "chlorophyll",
+          "long": "a green pigment found in all green plants and cyanobacteria that is responsible for the absorption of the sunlight needed for the photosynthesis process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klorofil",
+          "long": "Pigmen hijau yang ditemukan di semua tanaman hijau dan cyanobacteria yang bertanggung jawab atas penyerapan sinar matahari yang diperlukan untuk proses fotosintesis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244648.jpeg",
+      "simplified": "叶绿素",
+      "traditional": "葉綠素",
+      "pinyin": "yèlǜ sù"
+    },
+    {
+      "id": 244638,
+      "translation": {
+        "en": {
+          "short": "aspen",
+          "long": "a tree of the poplar family, with leaves that move even in the breeze",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aspen",
+          "long": "pohon keluarga poplar, dengan daun yang bergerak bahkan dalam angin sepoi -sepoi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244638.jpeg",
+      "simplified": "白杨",
+      "traditional": "白楊",
+      "pinyin": "báiyáng"
+    },
+    {
+      "id": 244639,
+      "translation": {
+        "en": {
+          "short": "banyan",
+          "long": "a South Asian fig tree that can grow new trunks and roots from its branch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Banyan",
+          "long": "Pohon ara Asia Selatan yang dapat menumbuhkan batang dan akar baru dari cabangnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244639.jpeg",
+      "simplified": "榕树",
+      "traditional": "榕樹",
+      "pinyin": "róngshù"
+    },
+    {
+      "id": 244642,
+      "translation": {
+        "en": {
+          "short": "beech",
+          "long": "a large forest tree with a smooth grey trunk, shiny leaves, and small nuts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Beech",
+          "long": "Pohon hutan besar dengan batang abu -abu halus, daun mengkilap, dan kacang kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244642.jpeg",
+      "simplified": "山毛榉",
+      "traditional": "山毛櫸",
+      "pinyin": "shānmáo jǔ"
+    },
+    {
+      "id": 244645,
+      "translation": {
+        "en": {
+          "short": "buttercup",
+          "long": "a wild plant with cup-shaped flowers that are small, bright, and yellow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cangkir mentega",
+          "long": "tanaman liar dengan bunga berbentuk cangkir yang kecil, cerah, dan kuning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244645.jpeg",
+      "simplified": "毛茛",
+      "traditional": "毛茛",
+      "pinyin": "máogèn"
+    },
+    {
+      "id": 244646,
+      "translation": {
+        "en": {
+          "short": "carnation",
+          "long": "a type of Dianthus often bright-colored and used for formal occasions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anyelir",
+          "long": "Jenis Dianthus sering berwarna cerah dan digunakan untuk acara formal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244646.jpeg",
+      "simplified": "康乃馨",
+      "traditional": "康乃馨",
+      "pinyin": "kāngnǎi xīn"
+    },
+    {
+      "id": 244647,
+      "translation": {
+        "en": {
+          "short": "cedar",
+          "long": "a tall evergreen tree from the conifer family that has wide spreading branches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cedar",
+          "long": "Pohon Evergreen yang tinggi dari keluarga Conifer yang memiliki cabang yang menyebar lebar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244647.jpeg",
+      "simplified": "雪松",
+      "traditional": "雪松",
+      "pinyin": "xuěsōng"
+    },
+    {
+      "id": 244649,
+      "translation": {
+        "en": {
+          "short": "clover",
+          "long": "a small wild plant of the pea family usually with three round leaves, often pink, purple, or white",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semanggi",
+          "long": "tanaman liar kecil dari keluarga kacang biasanya dengan tiga daun bundar, seringkali merah muda, ungu, atau putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244649.jpeg",
+      "simplified": "苜",
+      "traditional": "苜",
+      "pinyin": "mù"
+    },
+    {
+      "id": 244651,
+      "translation": {
+        "en": {
+          "short": "cypress",
+          "long": "a type of evergreen conifer tree with small rounded woody cones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cypress",
+          "long": "Jenis pohon konifer hijau dengan kerucut kayu bulat kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244651.jpeg",
+      "simplified": "柏",
+      "traditional": "柏",
+      "pinyin": "Bǎi"
+    },
+    {
+      "id": 244652,
+      "translation": {
+        "en": {
+          "short": "dandelion",
+          "long": "a small plant of the daisy family with a yellow flower that turns into a fluffy white ball of seeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dandelion",
+          "long": "Tanaman kecil keluarga Daisy dengan bunga kuning yang berubah menjadi bola biji putih halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244652.jpeg",
+      "simplified": "蒲公英",
+      "traditional": "蒲公英",
+      "pinyin": "púgōng yīng"
+    },
+    {
+      "id": 244655,
+      "translation": {
+        "en": {
+          "short": "elm",
+          "long": "a type of tall deciduous tree with rough serrated leaves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Elm",
+          "long": "Jenis pohon gugur tinggi dengan daun bergerigi kasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244655.jpeg",
+      "simplified": "榆树",
+      "traditional": "榆樹",
+      "pinyin": "Yúshù"
+    },
+    {
+      "id": 244656,
+      "translation": {
+        "en": {
+          "short": "hibiscus",
+          "long": "a tropical plant of the mallow family that has large and brightly colored flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kembang sepatu",
+          "long": "tanaman tropis dari keluarga mallow yang memiliki bunga besar dan berwarna cerah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244656.jpeg",
+      "simplified": "槿",
+      "traditional": "槿",
+      "pinyin": "jǐn"
+    },
+    {
+      "id": 244657,
+      "translation": {
+        "en": {
+          "short": "iris",
+          "long": "a plant with long narrow leaves and large yellow or purple flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Iris",
+          "long": "tanaman dengan daun sempit panjang dan bunga kuning atau ungu besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244657.jpeg",
+      "simplified": "鸢尾花",
+      "traditional": "鳶尾花",
+      "pinyin": "yuānwěi huā"
+    },
+    {
+      "id": 244658,
+      "translation": {
+        "en": {
+          "short": "mimosa",
+          "long": "a plant whose leaves droop when touched",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mimosa",
+          "long": "tanaman yang daunnya terkulai saat disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244658.jpeg",
+      "simplified": "含羞草花",
+      "traditional": "含羞草花",
+      "pinyin": "hánxiū cǎo Huā"
+    }
+  ]
+}

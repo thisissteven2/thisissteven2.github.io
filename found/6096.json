@@ -1,0 +1,810 @@
+{
+  "id": 6096,
+  "title": {
+    "en": "Protective Equipment",
+    "id": "Peralatan pelindung"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 405797,
+      "translation": {
+        "en": {
+          "short": "body protector",
+          "long": "a piece of padding worn to absorb impacts and shield the body during sports like horseback riding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelindung tubuh",
+          "long": "Sepotong bantalan yang dikenakan untuk menyerap dampak dan melindungi tubuh selama olahraga seperti menunggang kuda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405797.jpeg",
+      "simplified": "身体保护器",
+      "traditional": "身體保護器",
+      "pinyin": "shēntǐ bǎohù qì"
+    },
+    {
+      "id": 405798,
+      "translation": {
+        "en": {
+          "short": "shoulder pad",
+          "long": "a hard protective material worn under the jersey on the shoulder of players in sports such as ice hockey or football",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bantalan bahu",
+          "long": "bahan pelindung keras yang dikenakan di bawah jersey di bahu para pemain dalam olahraga seperti hoki es atau sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405798.jpeg",
+      "simplified": "垫肩",
+      "traditional": "墊肩",
+      "pinyin": "diànjiān"
+    },
+    {
+      "id": 405799,
+      "translation": {
+        "en": {
+          "short": "arm pad",
+          "long": "a protective piece of equipment worn on the forearm or elbow to cushion impacts and prevent injuries during sports or activities such as football, lacrosse, or volleyball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lengan pad",
+          "long": "Sepotong pelindung peralatan yang dikenakan di lengan bawah atau siku untuk dampak bantalan dan mencegah cedera selama olahraga atau kegiatan seperti sepak bola, lacrosse, atau bola voli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405799.jpeg",
+      "simplified": "臂垫",
+      "traditional": "臂墊",
+      "pinyin": "bì diàn"
+    },
+    {
+      "id": 405801,
+      "translation": {
+        "en": {
+          "short": "batting pad",
+          "long": "a protective piece of equipment worn on the legs by batters to absorb the impact of the baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bantalan pemukul",
+          "long": "Sepotong pelindung peralatan yang dikenakan pada kaki oleh batters untuk menyerap dampak bisbol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405801.jpeg",
+      "simplified": "击球垫",
+      "traditional": "擊球墊",
+      "pinyin": "jīqiú diàn"
+    },
+    {
+      "id": 405802,
+      "translation": {
+        "en": {
+          "short": "hip pad",
+          "long": "a protective gear worn over the hips to cushion impacts and reduce the risk of injury during contact sports or activities such as football, hockey, or rugby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hip Pad",
+          "long": "Perlengkapan pelindung yang dikenakan di pinggul untuk bantalan berdampak dan mengurangi risiko cedera selama olahraga kontak atau kegiatan seperti sepak bola, hoki, atau rugby",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405802.jpeg",
+      "simplified": "臀垫",
+      "traditional": "臀墊",
+      "pinyin": "tún diàn"
+    },
+    {
+      "id": 405803,
+      "translation": {
+        "en": {
+          "short": "thigh pad",
+          "long": "a protective gear worn over the thigh in sports like cricket or American football to absorb impact and prevent injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pad paha",
+          "long": "Perlengkapan pelindung yang dikenakan di atas paha dalam olahraga seperti kriket atau sepak bola Amerika untuk menyerap dampak dan mencegah cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405803.jpeg",
+      "simplified": "大腿垫",
+      "traditional": "大腿墊",
+      "pinyin": "dàtuǐ diàn"
+    },
+    {
+      "id": 405804,
+      "translation": {
+        "en": {
+          "short": "knee pad",
+          "long": "a protective equipment worn over the knee to cushion impacts and prevent injuries during sports like volleyball, basketball, or skateboarding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pelindung lutut",
+          "long": "Peralatan pelindung yang dikenakan di atas lutut untuk berdampak bantalan dan mencegah cedera selama olahraga seperti bola voli, bola basket, atau skateboarding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405804.jpeg",
+      "simplified": "护膝",
+      "traditional": "護膝",
+      "pinyin": "hùxī"
+    },
+    {
+      "id": 405805,
+      "translation": {
+        "en": {
+          "short": "ankle brace",
+          "long": "a supportive device worn around the ankle to provide stability, reduce movement, and prevent injuries during physical activities, especially sports like basketball, soccer, or running",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brace pergelangan kaki",
+          "long": "Perangkat suportif yang dikenakan di sekitar pergelangan kaki untuk memberikan stabilitas, mengurangi gerakan, dan mencegah cedera selama aktivitas fisik, terutama olahraga seperti bola basket, sepak bola, atau berlari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405805.jpeg",
+      "simplified": "脚踝支架",
+      "traditional": "腳踝支架",
+      "pinyin": "jiǎohuái zhījià"
+    },
+    {
+      "id": 405806,
+      "translation": {
+        "en": {
+          "short": "shin guard",
+          "long": "a protective piece of equipment worn over the shin and lower leg to prevent injuries during sports such as soccer, field hockey, or rugby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penjaga Shin",
+          "long": "Sepotong pelindung peralatan yang dikenakan di atas tulang kering dan kaki bagian bawah untuk mencegah cedera selama olahraga seperti sepak bola, hoki lapangan, atau rugby",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405806.jpeg",
+      "simplified": "护腿",
+      "traditional": "護腿",
+      "pinyin": "hù tuǐ"
+    },
+    {
+      "id": 405808,
+      "translation": {
+        "en": {
+          "short": "throat guard",
+          "long": "a protective pad worn around the neck to shield the throat from impacts, commonly used in sports like hockey and baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjaga tenggorokan",
+          "long": "Pad pelindung yang dikenakan di sekitar leher untuk melindungi tenggorokan dari dampak, biasanya digunakan dalam olahraga seperti hoki dan baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405808.jpeg",
+      "simplified": "护喉器",
+      "traditional": "護喉器",
+      "pinyin": "hù hóu qì"
+    },
+    {
+      "id": 405810,
+      "translation": {
+        "en": {
+          "short": "leg guard",
+          "long": "the protective pads worn on the legs to shield them from blows, commonly used in sports like baseball and cricket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjaga kaki",
+          "long": "Bantalan pelindung yang dikenakan pada kaki untuk melindungi mereka dari pukulan, biasanya digunakan dalam olahraga seperti baseball dan kriket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405810.jpeg",
+      "simplified": "护腿",
+      "traditional": "護腿",
+      "pinyin": "hù tuǐ"
+    },
+    {
+      "id": 405812,
+      "translation": {
+        "en": {
+          "short": "rib protector",
+          "long": "a padded vest worn by athletes in sports with high risk of blows to the ribs, like motocross or horseback riding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelindung tulang rusuk",
+          "long": "Rompi empuk yang dikenakan oleh para atlet dalam olahraga dengan risiko tinggi meniup iga, seperti motorcross atau menunggang kuda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405812.jpeg",
+      "simplified": "肋骨保护器",
+      "traditional": "肋骨保護器",
+      "pinyin": "lèigǔ bǎohù qì"
+    },
+    {
+      "id": 405814,
+      "translation": {
+        "en": {
+          "short": "instep protector",
+          "long": "a padded guard worn on the top of the foot for shin guards in sports like soccer and lacrosse, to shield the instep from impact",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelindung punggung",
+          "long": "Seorang penjaga empuk yang dikenakan di atas kaki untuk penjaga shin dalam olahraga seperti sepak bola dan lacrosse, untuk melindungi punggung kaki dari dampak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405814.jpeg",
+      "simplified": "脚背保护器",
+      "traditional": "腳背保護器",
+      "pinyin": "jiǎobèi bǎohù qì"
+    },
+    {
+      "id": 405816,
+      "translation": {
+        "en": {
+          "short": "polo leg wrap",
+          "long": "a protective bandage used on a horse's legs in polo and other fast-paced equestrian sports",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bungkus kaki polo",
+          "long": "Perban pelindung yang digunakan pada kaki kuda di Polo dan olahraga berkuda yang serba cepat lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405816.jpeg",
+      "simplified": "马球腿裹",
+      "traditional": "馬球腿裹",
+      "pinyin": "mǎqiú tuǐ guǒ"
+    },
+    {
+      "id": 405817,
+      "translation": {
+        "en": {
+          "short": "bracer",
+          "long": "a protective or supportive device worn on the arm or wrist, often used in archery or fencing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bracer",
+          "long": "Perangkat pelindung atau suportif yang dikenakan di lengan atau pergelangan tangan, sering digunakan dalam memanah atau pagar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405817.jpeg",
+      "simplified": "护腕",
+      "traditional": "護腕",
+      "pinyin": "hù wàn"
+    },
+    {
+      "id": 405818,
+      "translation": {
+        "en": {
+          "short": "boxing glove",
+          "long": "a padded glove worn by boxers to protect their hands and opponents during boxing matches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung tinju",
+          "long": "Sarung tangan empuk yang dikenakan oleh petinju untuk melindungi tangan dan lawan mereka selama pertandingan tinju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405818.jpeg",
+      "simplified": "拳击手套",
+      "traditional": "拳擊手套",
+      "pinyin": "quánjī shǒu tào"
+    },
+    {
+      "id": 405820,
+      "translation": {
+        "en": {
+          "short": "fencing glove",
+          "long": "a thick, padded glove worn by fencers to protect their hand while wielding a sword",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung tangan pagar",
+          "long": "Sarung tangan tebal dan empuk yang dikenakan oleh pemain anggar untuk melindungi tangan mereka sambil memegang pedang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405820.jpeg",
+      "simplified": "击剑手套",
+      "traditional": "擊劍手套",
+      "pinyin": "jījiàn shǒutào"
+    },
+    {
+      "id": 405823,
+      "translation": {
+        "en": {
+          "short": "baseball glove",
+          "long": "a leather glove worn by baseball players to catch and field the baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung baseball",
+          "long": "Sarung tangan kulit yang dikenakan oleh pemain baseball untuk menangkap dan menurunkan baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405823.jpeg",
+      "simplified": "棒球手套",
+      "traditional": "棒球手套",
+      "pinyin": "bàngqiú shǒutào"
+    },
+    {
+      "id": 405824,
+      "translation": {
+        "en": {
+          "short": "batting glove",
+          "long": "a piece of equipment worn by baseball and softball players on their hands while batting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Batting Glove",
+          "long": "sepotong peralatan yang dikenakan oleh pemain baseball dan softball di tangan mereka saat memukul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405824.jpeg",
+      "simplified": "击球手套",
+      "traditional": "擊球手套",
+      "pinyin": "jīqiú shǒutào"
+    },
+    {
+      "id": 405826,
+      "translation": {
+        "en": {
+          "short": "wicket-keeper's glove",
+          "long": "the thickly padded gloves with webbing between the thumb and index finger, used in cricket to catch the ball bowled by the bowler",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung tangan penjaga gawang",
+          "long": "Sarung tangan empuk yang tebal dengan anyaman antara ibu jari dan jari telunjuk, digunakan dalam kriket untuk menangkap bola yang dipenuhi bowler",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405826.jpeg",
+      "simplified": "守门员的手套",
+      "traditional": "守門員的手套",
+      "pinyin": "shǒumén yuán de shǒutào"
+    },
+    {
+      "id": 405828,
+      "translation": {
+        "en": {
+          "short": "racing glove",
+          "long": "the protective gloves designed for grip and fire resistance, used in motorsports like car racing and motorcycle racing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung tangan balap",
+          "long": "Sarung tangan pelindung yang dirancang untuk genggaman dan ketahanan api, digunakan dalam olahraga motor seperti balap mobil dan balap sepeda motor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405828.jpeg",
+      "simplified": "赛车手套",
+      "traditional": "賽車手套",
+      "pinyin": "sàichē shǒu tào"
+    },
+    {
+      "id": 405830,
+      "translation": {
+        "en": {
+          "short": "hand wrap",
+          "long": "a long piece of fabric used in combat sports like boxing and Muay Thai to protect the hands and wrists during training and competition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bungkus tangan",
+          "long": "sepotong kain panjang yang digunakan dalam olahraga tempur seperti tinju dan muay thai untuk melindungi tangan dan pergelangan tangan selama pelatihan dan kompetisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405830.jpeg",
+      "simplified": "手包",
+      "traditional": "手包",
+      "pinyin": "shǒubāo"
+    },
+    {
+      "id": 405832,
+      "translation": {
+        "en": {
+          "short": "athletic tape",
+          "long": "a sticky strap used to support muscles and joints during physical activity, commonly seen in sports like basketball and soccer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pita atletik",
+          "long": "Tali lengket yang digunakan untuk mendukung otot dan persendian selama aktivitas fisik, biasa terlihat dalam olahraga seperti bola basket dan sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405832.jpeg",
+      "simplified": "运动胶带",
+      "traditional": "運動膠帶",
+      "pinyin": "yùndòng jiāodài"
+    },
+    {
+      "id": 405833,
+      "translation": {
+        "en": {
+          "short": "sweatband",
+          "long": "a band of cloth that is worn around the wrist or head to keep the sweat out of the hand or eyes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita penahan keringat",
+          "long": "sekelompok kain yang dikenakan di sekitar pergelangan tangan atau kepala untuk menjaga keringat keluar dari tangan atau mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405833.jpeg",
+      "simplified": "防汗带",
+      "traditional": "防汗帶",
+      "pinyin": "fáng hán dài"
+    },
+    {
+      "id": 405834,
+      "translation": {
+        "en": {
+          "short": "helmet",
+          "long": "a hard hat worn by soldiers, bikers, etc. for protection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "helm",
+          "long": "Topi keras yang dikenakan oleh tentara, pengendara sepeda, dll. Untuk perlindungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405834.jpeg",
+      "simplified": "头盔",
+      "traditional": "頭盔",
+      "pinyin": "tóukuī"
+    },
+    {
+      "id": 405835,
+      "translation": {
+        "en": {
+          "short": "batting helmet",
+          "long": "a protective headgear worn by baseball and softball players while batting to prevent head injuries from pitches and accidental strikes by the ball or bat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "helm pemukul",
+          "long": "tutup kepala pelindung yang dikenakan oleh pemain baseball dan softball saat memukul untuk mencegah cedera kepala dari lapangan dan serangan yang tidak disengaja oleh bola atau kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405835.jpeg",
+      "simplified": "击球头盔",
+      "traditional": "擊球頭盔",
+      "pinyin": "jīqiú tóukuī"
+    },
+    {
+      "id": 405836,
+      "translation": {
+        "en": {
+          "short": "ski mask",
+          "long": "a covering for the face and head worn to protect against cold weather or to conceal one's identity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Topeng ski",
+          "long": "penutup untuk wajah dan kepala yang dikenakan untuk melindungi terhadap cuaca dingin atau menyembunyikan identitas seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405836.jpeg",
+      "simplified": "滑雪面罩",
+      "traditional": "滑雪面罩",
+      "pinyin": "huáxuě miànzhào"
+    },
+    {
+      "id": 405837,
+      "translation": {
+        "en": {
+          "short": "fencing mask",
+          "long": "a protective headgear worn by fencers to cover the face, including the eyes, nose, and mouth, during fencing bouts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Topeng Pagar",
+          "long": "tutup kepala pelindung yang dikenakan oleh pemain anggar untuk menutupi wajah, termasuk mata, hidung, dan mulut, selama pertarungan pagar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405837.jpeg",
+      "simplified": "击剑面具",
+      "traditional": "擊劍面具",
+      "pinyin": "jījiàn miànjù"
+    },
+    {
+      "id": 405838,
+      "translation": {
+        "en": {
+          "short": "goggles",
+          "long": "a type of eyewear that are designed to protect the eyes from harm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacamata",
+          "long": "Jenis kacamata yang dirancang untuk melindungi mata dari bahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405838.jpeg",
+      "simplified": "风镜",
+      "traditional": "風鏡",
+      "pinyin": "fēngjìng"
+    },
+    {
+      "id": 405840,
+      "translation": {
+        "en": {
+          "short": "mouthguard",
+          "long": "a protective device worn in the mouth to cushion teeth and gums during sports like boxing or football",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengarang mulut",
+          "long": "Perangkat pelindung yang dikenakan di mulut untuk bantalan gigi dan gusi selama olahraga seperti tinju atau sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405840.jpeg",
+      "simplified": "牙套",
+      "traditional": "牙套",
+      "pinyin": "yátào"
+    },
+    {
+      "id": 405842,
+      "translation": {
+        "en": {
+          "short": "chin strap",
+          "long": "a padded strap that secures a helmet to your chin, used in sports like American football and baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tali dagu",
+          "long": "Tali empuk yang mengamankan helm ke dagu Anda, digunakan dalam olahraga seperti sepak bola Amerika dan baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405842.jpeg",
+      "simplified": "下巴带",
+      "traditional": "下巴帶",
+      "pinyin": "xiàba dài"
+    },
+    {
+      "id": 405843,
+      "translation": {
+        "en": {
+          "short": "earplug",
+          "long": "a small device inserted into the ear canal to protect against noise, water, or other external elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penutup telinga",
+          "long": "Perangkat kecil yang dimasukkan ke saluran telinga untuk melindungi terhadap kebisingan, air, atau elemen eksternal lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405843.jpeg",
+      "simplified": "耳塞",
+      "traditional": "耳塞",
+      "pinyin": "ěrsāi"
+    },
+    {
+      "id": 405845,
+      "translation": {
+        "en": {
+          "short": "parachute harness",
+          "long": "a system of straps that securely connects a skydiver or BASE jumper to their parachute during descent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Harness parasut",
+          "long": "Sistem tali pengikat yang menghubungkan skydiver atau jumper pangkalan dengan parasut mereka selama turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405845.jpeg",
+      "simplified": "降落伞安全带",
+      "traditional": "降落傘安全帶",
+      "pinyin": "jiàngluò sǎn ānquán dài"
+    },
+    {
+      "id": 405846,
+      "translation": {
+        "en": {
+          "short": "plastron",
+          "long": "a protective garment worn underneath the fencing jacket to cover the torso and protect against potential thrusts and touches during fencing bouts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Plastron",
+          "long": "Pakaian pelindung yang dikenakan di bawah jaket pagar untuk menutupi tubuh dan melindungi terhadap potensi dorongan dan sentuhan selama pertarungan pagar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405846.jpeg",
+      "simplified": "胸饰",
+      "traditional": "胸飾",
+      "pinyin": "xiōng shì"
+    },
+    {
+      "id": 405848,
+      "translation": {
+        "en": {
+          "short": "rescue throw bag",
+          "long": "a weighted bag with a long rope used to toss to someone in the water during water activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyelamatan tas lemparan",
+          "long": "kantong tertimbang dengan tali panjang yang digunakan untuk melemparkan ke seseorang di dalam air selama aktivitas air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405848.jpeg",
+      "simplified": "救援投掷袋",
+      "traditional": "救援投擲袋",
+      "pinyin": "jiùyuán tóuzhì dài"
+    },
+    {
+      "id": 405851,
+      "translation": {
+        "en": {
+          "short": "compression shorts",
+          "long": "the tight-fitting, supportive garments worn by athletes during activities like running or cycling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celana pendek kompresi",
+          "long": "Pakaian yang pas dan mendukung yang dikenakan oleh atlet selama kegiatan seperti berlari atau bersepeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405851.jpeg",
+      "simplified": "压缩短裤",
+      "traditional": "壓縮短褲",
+      "pinyin": "yāsuō duǎnkù"
+    },
+    {
+      "id": 405855,
+      "translation": {
+        "en": {
+          "short": "bilge pump",
+          "long": "a device used to remove water that has accumulated in the bilge of a boat, helping to prevent flooding and maintain buoyancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pompa lambung kapal",
+          "long": "Perangkat yang digunakan untuk menghilangkan air yang telah menumpuk di lambung kapal, membantu mencegah banjir dan mempertahankan daya apung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405855.jpeg",
+      "simplified": "舱底泵",
+      "traditional": "艙底泵",
+      "pinyin": "cāng de bèng"
+    },
+    {
+      "id": 405854,
+      "translation": {
+        "en": {
+          "short": "leg rope",
+          "long": "a leash for a surfboard that attaches to your ankle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tali kaki",
+          "long": "tali untuk papan selancar yang melekat pada pergelangan kaki Anda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405854.jpeg",
+      "simplified": "腿绳",
+      "traditional": "腿繩",
+      "pinyin": "tuǐ shéng"
+    },
+    {
+      "id": 405930,
+      "translation": {
+        "en": {
+          "short": "ankle band",
+          "long": "a piece of sports equipment worn around the ankle for support or protection purposes, commonly used in soccer and basketball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band pergelangan kaki",
+          "long": "Sepotong peralatan olahraga yang dikenakan di sekitar pergelangan kaki untuk tujuan dukungan atau perlindungan, biasanya digunakan dalam sepak bola dan bola basket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405930.jpeg",
+      "simplified": "脚踝乐队",
+      "traditional": "腳踝樂隊",
+      "pinyin": "jiǎohuái yuèduì"
+    },
+    {
+      "id": 408230,
+      "translation": {
+        "en": {
+          "short": "life jacket",
+          "long": "a special type of vest worn to help keep a person afloat in water, especially in case of an emergency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaket pelampung",
+          "long": "Jenis rompi khusus yang dikenakan untuk membantu menjaga orang terapung di dalam air, terutama jika terjadi keadaan darurat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408230.jpeg",
+      "simplified": "救生衣",
+      "traditional": "救生衣",
+      "pinyin": "jiùshēng yī"
+    },
+    {
+      "id": 408231,
+      "translation": {
+        "en": {
+          "short": "athletic supporter",
+          "long": "an undergarment designed to provide support and protection to the male genitalia during athletic activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendukung atletik",
+          "long": "Suatu pakaian dalam yang dirancang untuk memberikan dukungan dan perlindungan kepada alat kelamin pria selama aktivitas atletik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408231.jpeg",
+      "simplified": "三角腹带",
+      "traditional": "三角腹帶",
+      "pinyin": "sānjiǎo fù dài"
+    },
+    {
+      "id": 406185,
+      "translation": {
+        "en": {
+          "short": "personal flotation device",
+          "long": "a piece of sports equipment designed to keep a person afloat in water, commonly used in activities like boating and kayaking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perangkat pengapungan pribadi",
+          "long": "Sepotong peralatan olahraga yang dirancang untuk membuat seseorang mengapung di dalam air, biasanya digunakan dalam kegiatan seperti berperahu dan kayak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406185.jpeg",
+      "simplified": "个人浮选设备",
+      "traditional": "個人浮選設備",
+      "pinyin": "gèrén fúxuǎn shèbèi"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "id": 849,
+  "title": {
+    "en": "Shapes and Colors",
+    "id": "Bentuk dan warna"
+  },
+  "description": {
+    "en": "Here you will learn some English words about shapes and colors, such as \"steep\", \"marron\", \"violet\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang bentuk dan warna, seperti \"curam\", \"marron\", \"violet\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 238042,
+      "translation": {
+        "en": {
+          "short": "angle",
+          "long": "the space between two lines or surfaces that are joined, measured in degrees or radians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut",
+          "long": "Ruang antara dua garis atau permukaan yang bergabung, diukur dalam derajat atau radian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238042.jpeg",
+      "simplified": "角度",
+      "traditional": "角度",
+      "pinyin": "jiǎodù"
+    },
+    {
+      "id": 238047,
+      "translation": {
+        "en": {
+          "short": "curve",
+          "long": "a line or shape that is not straight and bends gradually",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melengkung",
+          "long": "garis atau bentuk yang tidak lurus dan membungkuk secara bertahap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238047.jpeg",
+      "simplified": "曲线",
+      "traditional": "曲線",
+      "pinyin": "qūxiàn"
+    },
+    {
+      "id": 238053,
+      "translation": {
+        "en": {
+          "short": "form",
+          "long": "the shape of someone or something, especially the outline",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membentuk",
+          "long": "bentuk seseorang atau sesuatu, terutama garis besarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238053.jpeg",
+      "simplified": "形式",
+      "traditional": "形式",
+      "pinyin": "xíngshì"
+    },
+    {
+      "id": 238048,
+      "translation": {
+        "en": {
+          "short": "curved",
+          "long": "having a shape that is rounded or bent rather than straight",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lengkung",
+          "long": "memiliki bentuk yang bulat atau bengkok daripada lurus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238048.jpeg",
+      "simplified": "弯曲",
+      "traditional": "彎曲",
+      "pinyin": "wānqū"
+    },
+    {
+      "id": 238055,
+      "translation": {
+        "en": {
+          "short": "horizontal",
+          "long": "positioned across and parallel to the ground and not up or down",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "horisontal",
+          "long": "diposisikan melintasi dan sejajar dengan tanah dan tidak naik atau turun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238055.jpeg",
+      "simplified": "水平的",
+      "traditional": "水平的",
+      "pinyin": "shuǐpíng de"
+    },
+    {
+      "id": 238063,
+      "translation": {
+        "en": {
+          "short": "vertical",
+          "long": "positioned at a right angle to the horizon or ground, typically moving up or down",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "vertikal",
+          "long": "diposisikan pada sudut kanan ke cakrawala atau tanah, biasanya bergerak ke atas atau ke bawah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238063.jpeg",
+      "simplified": "垂直的",
+      "traditional": "垂直的",
+      "pinyin": "chuízhí de"
+    },
+    {
+      "id": 238059,
+      "translation": {
+        "en": {
+          "short": "parallel",
+          "long": "having an equal distance from each other at every point",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "paralel",
+          "long": "memiliki jarak yang sama satu sama lain di setiap titik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238059.jpeg",
+      "simplified": "平行线",
+      "traditional": "平行線",
+      "pinyin": "píngxíng xiàn"
+    },
+    {
+      "id": 238061,
+      "translation": {
+        "en": {
+          "short": "shaped",
+          "long": "having a particular structure or external form",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berbentuk",
+          "long": "memiliki struktur atau bentuk eksternal tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238061.jpeg",
+      "simplified": "具有独特的形状或形式",
+      "traditional": "具有獨特的形狀或形式",
+      "pinyin": "jùyǒu dútè de xíngzhuàng huò xíngshì"
+    },
+    {
+      "id": 238074,
+      "translation": {
+        "en": {
+          "short": "cube",
+          "long": "a figure, either hollow or solid, with six equal square sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubus",
+          "long": "Sosok, baik berongga atau padat, dengan enam sisi persegi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238074.jpeg",
+      "simplified": "立方体",
+      "traditional": "立方體",
+      "pinyin": "lìfāng tǐ"
+    },
+    {
+      "id": 238070,
+      "translation": {
+        "en": {
+          "short": "pentagon",
+          "long": "a geometric shape with five angles and five straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi lima",
+          "long": "bentuk geometris dengan lima sudut dan lima sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238070.jpeg",
+      "simplified": "五角形",
+      "traditional": "五角形",
+      "pinyin": "wǔjiǎo xíng"
+    },
+    {
+      "id": 238069,
+      "translation": {
+        "en": {
+          "short": "oval",
+          "long": "a shape that is wide in the middle and narrow at both ends",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulat telur",
+          "long": "bentuk yang lebar di tengah dan sempit di kedua ujungnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238069.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    },
+    {
+      "id": 238060,
+      "translation": {
+        "en": {
+          "short": "pyramid",
+          "long": "a solid object with a square base and four triangular sides joined to a point on the top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida",
+          "long": "objek padat dengan alas persegi dan empat sisi segitiga bergabung ke titik di atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238060.jpeg",
+      "simplified": "金字塔",
+      "traditional": "金字塔",
+      "pinyin": "jīnzì tǎ"
+    },
+    {
+      "id": 238065,
+      "translation": {
+        "en": {
+          "short": "rectangle",
+          "long": "(geometry) a flat shape with four right angles, especially one with opposing sides that are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persegi panjang",
+          "long": "(Geometri) Bentuk datar dengan empat sudut kanan, terutama satu dengan sisi lawan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238065.jpeg",
+      "simplified": "矩形",
+      "traditional": "矩形",
+      "pinyin": "jǔxíng"
+    },
+    {
+      "id": 238075,
+      "translation": {
+        "en": {
+          "short": "sphere",
+          "long": "(geometry) a round object that every point on its surface has the same distance from its center",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "(Geometri) Objek bundar yang setiap titik di permukaannya memiliki jarak yang sama dari pusatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238075.jpeg",
+      "simplified": "球形",
+      "traditional": "球形",
+      "pinyin": "qiúxíng"
+    },
+    {
+      "id": 238062,
+      "translation": {
+        "en": {
+          "short": "triangle",
+          "long": "(geometry) a flat shape consisting of three straight sides and three angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tiga",
+          "long": "(Geometri) Bentuk datar yang terdiri dari tiga sisi lurus dan tiga sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238062.jpeg",
+      "simplified": "三角形",
+      "traditional": "三角形",
+      "pinyin": "sānjiǎo xíng"
+    },
+    {
+      "id": 239879,
+      "translation": {
+        "en": {
+          "short": "hollow",
+          "long": "having an empty space within",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kosong",
+          "long": "memiliki ruang kosong di dalam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239879.jpeg",
+      "simplified": "空洞的",
+      "traditional": "空洞的",
+      "pinyin": "kōngdòng de"
+    },
+    {
+      "id": 239869,
+      "translation": {
+        "en": {
+          "short": "pointed",
+          "long": "having an end or tip that is sharp",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lancip",
+          "long": "Memiliki akhir atau ujung yang tajam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239869.jpeg",
+      "simplified": "尖",
+      "traditional": "尖",
+      "pinyin": "jiān"
+    },
+    {
+      "id": 258222,
+      "translation": {
+        "en": {
+          "short": "level",
+          "long": "having a surface that is flat and horizontal",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tingkat",
+          "long": "memiliki permukaan yang datar dan horizontal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258222.jpeg",
+      "simplified": "等级",
+      "traditional": "等級",
+      "pinyin": "děngjí"
+    },
+    {
+      "id": 239870,
+      "translation": {
+        "en": {
+          "short": "steep",
+          "long": "(of an angle) measuring less than 90 degrees",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "curam",
+          "long": "(dari sudut) berukuran kurang dari 90 derajat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239870.jpeg",
+      "simplified": "陡",
+      "traditional": "陡",
+      "pinyin": "dǒu"
+    },
+    {
+      "id": 238058,
+      "translation": {
+        "en": {
+          "short": "paleness",
+          "long": "the quality of having a light color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepucatan",
+          "long": "kualitas memiliki warna terang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238058.jpeg",
+      "simplified": "苍白",
+      "traditional": "蒼白",
+      "pinyin": "cāngbái"
+    },
+    {
+      "id": 238052,
+      "translation": {
+        "en": {
+          "short": "to dye",
+          "long": "to change the color of something using a liquid substance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mewarnai",
+          "long": "untuk mengubah warna sesuatu menggunakan zat cair",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238052.jpeg",
+      "simplified": "染",
+      "traditional": "染",
+      "pinyin": "rǎn"
+    },
+    {
+      "id": 238057,
+      "translation": {
+        "en": {
+          "short": "light-colored",
+          "long": "(of colors) having a bright or pale shade or tone",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berwarna terang",
+          "long": "(warna) memiliki warna atau nada yang cerah atau pucat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238057.jpeg",
+      "simplified": "浅色的",
+      "traditional": "淺色的",
+      "pinyin": "qiǎnsè de"
+    },
+    {
+      "id": 238050,
+      "translation": {
+        "en": {
+          "short": "deep",
+          "long": "(of a color) showing darkness and intensity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dalam",
+          "long": "(warna) menunjukkan kegelapan dan intensitas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238050.jpeg",
+      "simplified": "深色（颜色）",
+      "traditional": "深色（顏色）",
+      "pinyin": "shēnsè yánsè"
+    },
+    {
+      "id": 238043,
+      "translation": {
+        "en": {
+          "short": "blood-red",
+          "long": "having a deep red color, like blood or fresh berries",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "darah merah",
+          "long": "Memiliki warna merah tua, seperti darah atau beri segar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238043.jpeg",
+      "simplified": "血红",
+      "traditional": "血紅",
+      "pinyin": "xiě Hóng"
+    },
+    {
+      "id": 238045,
+      "translation": {
+        "en": {
+          "short": "chocolate",
+          "long": "having a dark or deep brown color",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "cokelat",
+          "long": "memiliki warna coklat gelap atau dalam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238045.jpeg",
+      "simplified": "巧克力",
+      "traditional": "巧克力",
+      "pinyin": "qiǎokè lì"
+    },
+    {
+      "id": 238046,
+      "translation": {
+        "en": {
+          "short": "coffee",
+          "long": "(of a shade) ranging from a pale or light brown color to a medium brown",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kopi",
+          "long": "(dari naungan) mulai dari warna pucat atau coklat muda hingga coklat sedang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238046.jpeg",
+      "simplified": "浅褐色",
+      "traditional": "淺褐色",
+      "pinyin": "jiān hèsè"
+    },
+    {
+      "id": 238056,
+      "translation": {
+        "en": {
+          "short": "lemon",
+          "long": "having a bright yellow color like the lemon fruit",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lemon",
+          "long": "memiliki warna kuning cerah seperti buah lemon",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238056.jpeg",
+      "simplified": "柠檬色",
+      "traditional": "檸檬色",
+      "pinyin": "níngméng sè"
+    },
+    {
+      "id": 238066,
+      "translation": {
+        "en": {
+          "short": "navy blue",
+          "long": "having a very dark blue color like the deep sea",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "biru laut",
+          "long": "memiliki warna biru yang sangat gelap seperti laut dalam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238066.jpeg",
+      "simplified": "海军蓝",
+      "traditional": "海軍藍",
+      "pinyin": "hǎijūn lán"
+    },
+    {
+      "id": 238067,
+      "translation": {
+        "en": {
+          "short": "maroon",
+          "long": "having a dark brownish-red color",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "merah tua",
+          "long": "memiliki warna merah kecoklatan gelap",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238067.jpeg",
+      "simplified": "栗色",
+      "traditional": "栗色",
+      "pinyin": "lìsè"
+    },
+    {
+      "id": 238072,
+      "translation": {
+        "en": {
+          "short": "violet",
+          "long": "having a bluish-purple color",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ungu",
+          "long": "memiliki warna ungu kebiruan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238072.jpeg",
+      "simplified": "紫色",
+      "traditional": "紫色",
+      "pinyin": "zǐsè"
+    },
+    {
+      "id": 238073,
+      "translation": {
+        "en": {
+          "short": "rose",
+          "long": "having a pink color between red and magenta",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mawar",
+          "long": "memiliki warna merah muda antara merah dan magenta",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238073.jpeg",
+      "simplified": "玫瑰色",
+      "traditional": "玫瑰色",
+      "pinyin": "méiguī sè"
+    }
+  ]
+}

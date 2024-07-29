@@ -1,0 +1,963 @@
+{
+  "id": 5366,
+  "title": {
+    "en": "Transportation",
+    "id": "Angkutan"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to transportation such as \"subway\", \"scooter\", and \"submarine\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan transportasi seperti \"Subway\", \"Scooter\", dan \"Submarine\"."
+  },
+  "cards": [
+    {
+      "id": 382504,
+      "translation": {
+        "en": {
+          "short": "car",
+          "long": "a road vehicle that has four wheels, an engine, and a small number of seats for people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil",
+          "long": "Kendaraan jalan yang memiliki empat roda, mesin, dan sejumlah kecil kursi untuk orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382504.jpeg",
+      "simplified": "汽车",
+      "traditional": "汽車",
+      "pinyin": "qìchē"
+    },
+    {
+      "id": 382505,
+      "translation": {
+        "en": {
+          "short": "bicycle",
+          "long": "a vehicle with two wheels that we ride by pushing its pedals with our feet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepeda",
+          "long": "kendaraan dengan dua roda yang kami kendarai dengan mendorong pedal dengan kaki kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382505.jpeg",
+      "simplified": "自行车",
+      "traditional": "自行車",
+      "pinyin": "zìxíng chē"
+    },
+    {
+      "id": 382506,
+      "translation": {
+        "en": {
+          "short": "bus",
+          "long": "a large vehicle that carries many passengers by road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bis",
+          "long": "kendaraan besar yang membawa banyak penumpang melalui jalan darat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382506.jpeg",
+      "simplified": "总线",
+      "traditional": "總線",
+      "pinyin": "zǒngxiàn"
+    },
+    {
+      "id": 382507,
+      "translation": {
+        "en": {
+          "short": "train",
+          "long": "a series of connected carriages that travel on a railroad, often pulled by a locomotive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta",
+          "long": "serangkaian gerbong terhubung yang bepergian dengan kereta api, sering ditarik oleh lokomotif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382507.jpeg",
+      "simplified": "火车",
+      "traditional": "火車",
+      "pinyin": "huǒchē"
+    },
+    {
+      "id": 382508,
+      "translation": {
+        "en": {
+          "short": "subway",
+          "long": "an underground railroad system, typically in a big city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta bawah tanah",
+          "long": "sistem kereta api bawah tanah, biasanya di kota besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382508.jpeg",
+      "simplified": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dìtiě"
+    },
+    {
+      "id": 382509,
+      "translation": {
+        "en": {
+          "short": "motorcycle",
+          "long": "a vehicle with two wheels, powered by an engine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepeda motor",
+          "long": "kendaraan dengan dua roda, ditenagai oleh mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382509.jpeg",
+      "simplified": "摩托车",
+      "traditional": "摩托車",
+      "pinyin": "mótuō chē"
+    },
+    {
+      "id": 382510,
+      "translation": {
+        "en": {
+          "short": "scooter",
+          "long": "a light motor vehicle with a floorboard on which the rider puts their legs, and with wheels of usually small size",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skuter",
+          "long": "Kendaraan bermotor ringan dengan papan lantai tempat pengendara meletakkan kaki mereka, dan dengan roda dengan ukuran yang biasanya kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382510.jpeg",
+      "simplified": "摩托车",
+      "traditional": "摩托車",
+      "pinyin": "mótuō chē"
+    },
+    {
+      "id": 382511,
+      "translation": {
+        "en": {
+          "short": "taxi",
+          "long": "a car that has a driver whom we pay to take us to different places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taksi",
+          "long": "mobil yang memiliki pengemudi yang kami bayar untuk membawa kami ke tempat yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382511.jpeg",
+      "simplified": "出租车",
+      "traditional": "計程車",
+      "pinyin": "chūzū chē"
+    },
+    {
+      "id": 382512,
+      "translation": {
+        "en": {
+          "short": "airplane",
+          "long": "a flying vehicle with fixed wings that moves people and goods from one place to another through sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat terbang",
+          "long": "Kendaraan terbang dengan sayap tetap yang menggerakkan orang dan barang dari satu tempat ke tempat lain melalui langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382512.jpeg",
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēijī"
+    },
+    {
+      "id": 382513,
+      "translation": {
+        "en": {
+          "short": "helicopter",
+          "long": "a large aircraft with metal blades on top that go around",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "helikopter",
+          "long": "pesawat besar dengan bilah logam di atas yang berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382513.jpeg",
+      "simplified": "直升机",
+      "traditional": "直升機",
+      "pinyin": "zhíshēng jī"
+    },
+    {
+      "id": 382514,
+      "translation": {
+        "en": {
+          "short": "rollerblade",
+          "long": "(trademark) a boot with a line of small wheels at its bottom that is used for skating",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rollerblade",
+          "long": "(merek dagang) Boot dengan garis roda kecil di bagian bawahnya yang digunakan untuk skating",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382514.jpeg",
+      "simplified": "旱冰鞋",
+      "traditional": "旱冰鞋",
+      "pinyin": "hànbīng xié"
+    },
+    {
+      "id": 382515,
+      "translation": {
+        "en": {
+          "short": "trolley",
+          "long": "a vehicle that runs on electricity, moving on a rail in streets of a town or city to carry passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta dorong",
+          "long": "Kendaraan yang berjalan dengan listrik, bergerak di atas rel di jalan -jalan kota atau kota untuk membawa penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382515.jpeg",
+      "simplified": "手推车",
+      "traditional": "手推車",
+      "pinyin": "shǒutuī chē"
+    },
+    {
+      "id": 382516,
+      "translation": {
+        "en": {
+          "short": "boat",
+          "long": "a type of small vehicle that is used to travel on water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal",
+          "long": "Jenis kendaraan kecil yang digunakan untuk bepergian dengan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382516.jpeg",
+      "simplified": "船",
+      "traditional": "船",
+      "pinyin": "chuán"
+    },
+    {
+      "id": 382517,
+      "translation": {
+        "en": {
+          "short": "ship",
+          "long": "a large boat, used for carrying passengers or goods across the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengirimkan",
+          "long": "perahu besar, digunakan untuk membawa penumpang atau barang di seberang laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382517.jpeg",
+      "simplified": "船",
+      "traditional": "船",
+      "pinyin": "chuán"
+    },
+    {
+      "id": 382518,
+      "translation": {
+        "en": {
+          "short": "van",
+          "long": "a big vehicle without back windows, smaller than a truck, used for carrying people or things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil van",
+          "long": "kendaraan besar tanpa jendela belakang, lebih kecil dari truk, digunakan untuk membawa orang atau barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382518.jpeg",
+      "simplified": "面包车",
+      "traditional": "麵包車",
+      "pinyin": "miànbāo chē"
+    },
+    {
+      "id": 382519,
+      "translation": {
+        "en": {
+          "short": "locomotive",
+          "long": "a powered railroad vehicle that pulls a train along",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lokomotif",
+          "long": "Kendaraan kereta api bertenaga yang menarik kereta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382519.jpeg",
+      "simplified": "机车",
+      "traditional": "機車",
+      "pinyin": "jīchē"
+    },
+    {
+      "id": 382520,
+      "translation": {
+        "en": {
+          "short": "ferry",
+          "long": "a boat or ship used to transport passengers and sometimes vehicles, usually across a body of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "feri",
+          "long": "perahu atau kapal yang digunakan untuk mengangkut penumpang dan kadang -kadang kendaraan, biasanya melintasi badan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382520.jpeg",
+      "simplified": "渡船",
+      "traditional": "渡船",
+      "pinyin": "dùchuán"
+    },
+    {
+      "id": 382521,
+      "translation": {
+        "en": {
+          "short": "canoe",
+          "long": "a narrow boat that is light and has pointed ends, which can be moved using paddles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kano",
+          "long": "perahu sempit yang ringan dan memiliki ujung runcing, yang dapat dipindahkan menggunakan dayung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382521.jpeg",
+      "simplified": "用于划独木舟的船",
+      "traditional": "用於劃獨木舟的船",
+      "pinyin": "yòngyú huá dúmù zhōu de chuán"
+    },
+    {
+      "id": 382522,
+      "translation": {
+        "en": {
+          "short": "skateboard",
+          "long": "a small board with two sets of wheels we stand on to move around by pushing one foot down",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skateboard",
+          "long": "Papan kecil dengan dua set roda kami berdiri untuk bergerak dengan mendorong satu kaki ke bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382522.jpeg",
+      "simplified": "滑板",
+      "traditional": "滑板",
+      "pinyin": "huábǎn"
+    },
+    {
+      "id": 382523,
+      "translation": {
+        "en": {
+          "short": "jet ski",
+          "long": "a small motorized vehicle that one can ride like a motorcycle on water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jet ski",
+          "long": "Kendaraan bermotor kecil yang bisa dikendarai seperti sepeda motor di atas air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382523.jpeg",
+      "simplified": "摩托艇",
+      "traditional": "摩托艇",
+      "pinyin": "mótuō tǐng"
+    },
+    {
+      "id": 382524,
+      "translation": {
+        "en": {
+          "short": "kayak",
+          "long": "a type of boat that is light and has an opening in the top in which the paddler sits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kayak",
+          "long": "Jenis perahu yang ringan dan memiliki celah di bagian atas tempat darat duduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382524.jpeg",
+      "simplified": "皮艇",
+      "traditional": "皮艇",
+      "pinyin": "pítǐng"
+    },
+    {
+      "id": 382525,
+      "translation": {
+        "en": {
+          "short": "yacht",
+          "long": "a large boat with an engine used for pleasure trips",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal pesiar",
+          "long": "Perahu besar dengan mesin yang digunakan untuk perjalanan kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382525.jpeg",
+      "simplified": "游艇",
+      "traditional": "遊艇",
+      "pinyin": "yóutǐng"
+    },
+    {
+      "id": 382526,
+      "translation": {
+        "en": {
+          "short": "cruise ship",
+          "long": "a big ship for vacation trips, usually with fun things to do and entertainment on board",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal pesiar",
+          "long": "kapal besar untuk perjalanan liburan, biasanya dengan hal -hal menyenangkan untuk dilakukan dan hiburan di atas kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382526.jpeg",
+      "simplified": "游轮",
+      "traditional": "遊輪",
+      "pinyin": "yóulún"
+    },
+    {
+      "id": 382527,
+      "translation": {
+        "en": {
+          "short": "rickshaw",
+          "long": "a doorless two-wheeled vehicle that holds one or two passengers and is drawn by a person walking or cycling, used in South East Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angkong",
+          "long": "Kendaraan roda dua tanpa pintu yang menampung satu atau dua penumpang dan ditarik oleh seseorang yang berjalan atau bersepeda, digunakan di Asia Tenggara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382527.jpeg",
+      "simplified": "黄包车",
+      "traditional": "黃包車",
+      "pinyin": "huángbāo chē"
+    },
+    {
+      "id": 382528,
+      "translation": {
+        "en": {
+          "short": "cable car",
+          "long": "a vehicle that runs on tracks and is pulled by a moving cable, typically used for transportation up steep hills or mountains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta gantung",
+          "long": "Kendaraan yang berjalan di trek dan ditarik oleh kabel yang bergerak, biasanya digunakan untuk transportasi ke bukit atau pegunungan yang curam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382528.jpeg",
+      "simplified": "空中缆车",
+      "traditional": "空中纜車",
+      "pinyin": "kōngzhōng lǎnchē"
+    },
+    {
+      "id": 382529,
+      "translation": {
+        "en": {
+          "short": "sled",
+          "long": "a vehicle often pulled by horses used for carrying people over snow from one place to the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta luncur",
+          "long": "kendaraan yang sering ditarik oleh kuda yang digunakan untuk membawa orang di atas salju dari satu tempat ke tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382529.jpeg",
+      "simplified": "雪橇",
+      "traditional": "雪橇",
+      "pinyin": "xuěqiāo"
+    },
+    {
+      "id": 382530,
+      "translation": {
+        "en": {
+          "short": "monorail",
+          "long": "a railway system that has only one rail instead of two, usually in an elevated position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monorel",
+          "long": "sistem kereta api yang hanya memiliki satu rel, bukan dua, biasanya dalam posisi yang ditinggikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382530.jpeg",
+      "simplified": "单轨列车",
+      "traditional": "單軌列車",
+      "pinyin": "dānguǐ lièchē"
+    },
+    {
+      "id": 382531,
+      "translation": {
+        "en": {
+          "short": "recreational vehicle",
+          "long": "a motorized or towable vehicle equipped with living amenities, designed for temporary accommodation and travel enjoyment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendaraan rekreasi",
+          "long": "Kendaraan bermotor atau ditarik dilengkapi dengan fasilitas hidup, yang dirancang untuk akomodasi sementara dan kenikmatan perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382531.jpeg",
+      "simplified": "休闲车",
+      "traditional": "休閒車",
+      "pinyin": "xiūxián Chē"
+    },
+    {
+      "id": 382532,
+      "translation": {
+        "en": {
+          "short": "space shuttle",
+          "long": "a vehicle designed and used to go to space and return multiple times",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ulang -alik",
+          "long": "kendaraan yang dirancang dan digunakan untuk pergi ke luar angkasa dan kembali beberapa kali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382532.jpeg",
+      "simplified": "航天飞机",
+      "traditional": "太空梭",
+      "pinyin": "hángtiān fēi jī"
+    },
+    {
+      "id": 382533,
+      "translation": {
+        "en": {
+          "short": "jet",
+          "long": "a very fast aircraft with jet engines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jet",
+          "long": "pesawat yang sangat cepat dengan mesin jet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382533.jpeg",
+      "simplified": "喷射",
+      "traditional": "噴射",
+      "pinyin": "pēnshè"
+    },
+    {
+      "id": 382534,
+      "translation": {
+        "en": {
+          "short": "paraglider",
+          "long": "a big, colorful, and light kite that people use to fly in the sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paraglider",
+          "long": "Layang -layang besar, penuh warna, dan ringan yang digunakan orang untuk terbang di langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382534.jpeg",
+      "simplified": "滑翔伞",
+      "traditional": "滑翔傘",
+      "pinyin": "huáxiáng sǎn"
+    },
+    {
+      "id": 382535,
+      "translation": {
+        "en": {
+          "short": "zip line",
+          "long": "an outdoor recreational activity and adventure sport where participants ride along a cable or wire, often suspended between two elevated points, using a harness and pulley system, experiencing a thrilling and fast-paced aerial ride",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis zip",
+          "long": "Aktivitas rekreasi luar ruangan dan olahraga petualangan di mana para peserta mengendarai kabel atau kawat, sering kali ditangguhkan di antara dua titik tinggi, menggunakan sistem harness dan katrol, mengalami perjalanan udara yang mendebarkan dan cepat berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382535.jpeg",
+      "simplified": "滑索",
+      "traditional": "滑索",
+      "pinyin": "huásuǒ"
+    },
+    {
+      "id": 382536,
+      "translation": {
+        "en": {
+          "short": "submarine",
+          "long": "a warship that can operate both on and under water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal selam",
+          "long": "kapal perang yang dapat beroperasi baik di dalam maupun di bawah air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382536.jpeg",
+      "simplified": "潜艇",
+      "traditional": "潛艇",
+      "pinyin": "qiántǐng"
+    },
+    {
+      "id": 382537,
+      "translation": {
+        "en": {
+          "short": "truck",
+          "long": "a large road vehicle used for carrying goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk",
+          "long": "Kendaraan jalan besar yang digunakan untuk membawa barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382537.jpeg",
+      "simplified": "卡车",
+      "traditional": "卡車",
+      "pinyin": "kǎchē"
+    },
+    {
+      "id": 382538,
+      "translation": {
+        "en": {
+          "short": "limousine",
+          "long": "a large, luxurious, and expensive car with a partition between the passengers and the driver",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limousine",
+          "long": "mobil besar, mewah, dan mahal dengan partisi antara penumpang dan pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382538.jpeg",
+      "simplified": "豪华轿车",
+      "traditional": "豪華轎車",
+      "pinyin": "háohuá jiào chē"
+    },
+    {
+      "id": 382539,
+      "translation": {
+        "en": {
+          "short": "minivan",
+          "long": "a large car that is similar to a van and can seat up to eight or nine people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minivan",
+          "long": "mobil besar yang mirip dengan van dan dapat menampung hingga delapan atau sembilan orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382539.jpeg",
+      "simplified": "小型货车",
+      "traditional": "小型貨車",
+      "pinyin": "xiǎoxíng huò chē"
+    },
+    {
+      "id": 382540,
+      "translation": {
+        "en": {
+          "short": "off-road vehicle",
+          "long": "a type of vehicle designed to be used on rough or uneven surfaces, like dirt trails or rocky terrain, rather than on smooth roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kendaraan off-road",
+          "long": "Jenis kendaraan yang dirancang untuk digunakan pada permukaan yang kasar atau tidak rata, seperti jalur tanah atau medan berbatu, bukan di jalan yang halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382540.jpeg",
+      "simplified": "越野车",
+      "traditional": "越野車",
+      "pinyin": "yuèyě chē"
+    },
+    {
+      "id": 382541,
+      "translation": {
+        "en": {
+          "short": "sport utility vehicle",
+          "long": "a type of car that is roomy, versatile, and often has four-wheel drive, suitable for various terrains and carrying lots of stuff or people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kendaraan Utilitas Olahraga",
+          "long": "Jenis mobil yang lapang, serbaguna, dan sering memiliki penggerak empat roda, cocok untuk berbagai medan dan membawa banyak barang atau orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382541.jpeg",
+      "simplified": "运动型多用途车",
+      "traditional": "運動型多用途車",
+      "pinyin": "yùndòng xíng duōyòng tú Chē"
+    },
+    {
+      "id": 382542,
+      "translation": {
+        "en": {
+          "short": "sedan",
+          "long": "a car having a closed body with two or four doors and a separated boot in the back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sedan",
+          "long": "mobil yang memiliki tubuh tertutup dengan dua atau empat pintu dan boot terpisah di belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382542.jpeg",
+      "simplified": "舆",
+      "traditional": "輿",
+      "pinyin": "yú"
+    },
+    {
+      "id": 382543,
+      "translation": {
+        "en": {
+          "short": "hatchback",
+          "long": "a car with a rear door that swings upward, providing access to the cargo area, and usually has a shared space for passengers and cargo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hatchback",
+          "long": "mobil dengan pintu belakang yang berayun ke atas, menyediakan akses ke area kargo, dan biasanya memiliki ruang bersama untuk penumpang dan kargo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382543.jpeg",
+      "simplified": "掀背车",
+      "traditional": "掀背車",
+      "pinyin": "xiānbèi chē"
+    },
+    {
+      "id": 382544,
+      "translation": {
+        "en": {
+          "short": "coupe",
+          "long": "a car with a fixed roof, two doors, and a compact size, often designed for style and performance rather than spaciousness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "coupe",
+          "long": "mobil dengan atap tetap, dua pintu, dan ukuran kompak, sering dirancang untuk gaya dan kinerja daripada kelapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382544.jpeg",
+      "simplified": "轿跑车",
+      "traditional": "轎跑車",
+      "pinyin": "jiào pǎochē"
+    },
+    {
+      "id": 382546,
+      "translation": {
+        "en": {
+          "short": "forklift",
+          "long": "a powerful truck with forks at the front that is used to lift and move heavy materials, commonly found in places like warehouses and construction sites",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "forklift",
+          "long": "Truk yang kuat dengan garpu di bagian depan yang digunakan untuk mengangkat dan memindahkan bahan berat, biasanya ditemukan di tempat -tempat seperti gudang dan lokasi konstruksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382546.jpeg",
+      "simplified": "铲",
+      "traditional": "鏟",
+      "pinyin": "chǎn"
+    },
+    {
+      "id": 382547,
+      "translation": {
+        "en": {
+          "short": "crane",
+          "long": "a very large tall machine used for lifting heavy objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "derek",
+          "long": "Mesin tinggi yang sangat besar digunakan untuk mengangkat benda berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382547.jpeg",
+      "simplified": "建筑起重机",
+      "traditional": "建築起重機",
+      "pinyin": "jiànzhù qǐzhòng jī"
+    },
+    {
+      "id": 382548,
+      "translation": {
+        "en": {
+          "short": "cherry picker",
+          "long": "a type of elevated platform machinery that features a hydraulic or articulated arm with a platform at the end, enabling workers to access elevated areas for maintenance, construction, or other tasks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemetik ceri",
+          "long": "Jenis mesin platform yang ditinggikan yang memiliki lengan hidrolik atau artikulasi dengan platform di akhir, memungkinkan pekerja untuk mengakses area yang ditinggikan untuk pemeliharaan, konstruksi, atau tugas lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382548.jpeg",
+      "simplified": "樱桃采摘机",
+      "traditional": "櫻桃採摘機",
+      "pinyin": "yīngtáo cǎizhāi Jī"
+    },
+    {
+      "id": 382550,
+      "translation": {
+        "en": {
+          "short": "trailer truck",
+          "long": "a large vehicle composed of a tractor unit that pulls a separate trailer, commonly used for transporting goods over long distances on highways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta gandeng",
+          "long": "Kendaraan besar yang terdiri dari unit traktor yang menarik trailer terpisah, biasanya digunakan untuk mengangkut barang dari jarak jauh di jalan raya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382550.jpeg",
+      "simplified": "拖车",
+      "traditional": "拖車",
+      "pinyin": "tuōchē"
+    },
+    {
+      "id": 382551,
+      "translation": {
+        "en": {
+          "short": "pickup truck",
+          "long": "a vehicle with an open cargo area at the back, usually separated from the cab, designed for hauling goods, equipment, or transporting smaller loads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk pickup",
+          "long": "Kendaraan dengan area kargo terbuka di bagian belakang, biasanya terpisah dari kabin, dirancang untuk mengangkut barang, peralatan, atau mengangkut beban yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382551.jpeg",
+      "simplified": "皮卡车",
+      "traditional": "皮卡車",
+      "pinyin": "píkǎ Chē"
+    },
+    {
+      "id": 382552,
+      "translation": {
+        "en": {
+          "short": "dump truck",
+          "long": "a heavy-duty vehicle with a bed that can be tilted or raised at the front, allowing it to unload its contents by tipping them out behind the truck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk jungkit",
+          "long": "Kendaraan tugas berat dengan tempat tidur yang dapat dimiringkan atau diangkat di bagian depan, memungkinkannya untuk menurunkan isinya dengan memberi tahu mereka di belakang truk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382552.jpeg",
+      "simplified": "倾卸汽车",
+      "traditional": "傾卸汽車",
+      "pinyin": "qīngxiè qìchē"
+    },
+    {
+      "id": 382553,
+      "translation": {
+        "en": {
+          "short": "compact car",
+          "long": "an automobile that is smaller than a full-sized car, making it easier to drive and park in tight spaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil kompak",
+          "long": "mobil yang lebih kecil dari mobil berukuran penuh, membuatnya lebih mudah untuk dikendarai dan parkir di ruang yang sempit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382553.jpeg",
+      "simplified": "小汽车",
+      "traditional": "小汽車",
+      "pinyin": "xiǎoqì chē"
+    },
+    {
+      "id": 382917,
+      "translation": {
+        "en": {
+          "short": "station wagon",
+          "long": "a longer-bodied vehicle with a rear cargo area that is part of the passenger compartment, often with a rear hatchback or tailgate for cargo access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "station wagon",
+          "long": "Kendaraan bertubuh lebih panjang dengan area kargo belakang yang merupakan bagian dari kompartemen penumpang, seringkali dengan hatchback belakang atau bak belakang untuk akses kargo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382917.jpeg",
+      "simplified": "旅行车",
+      "traditional": "旅行車",
+      "pinyin": "lǚxíng Chē"
+    },
+    {
+      "id": 382919,
+      "translation": {
+        "en": {
+          "short": "spacecraft",
+          "long": "a vehicle designed to travel in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ruang angkasa",
+          "long": "kendaraan yang dirancang untuk bepergian di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382919.jpeg",
+      "simplified": "宇宙飞船",
+      "traditional": "太空船",
+      "pinyin": "yǔzhòu fēi chuán"
+    }
+  ]
+}

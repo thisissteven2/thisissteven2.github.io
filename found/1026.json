@@ -1,0 +1,640 @@
+{
+  "id": 1026,
+  "title": {
+    "en": "I Think, Therefore I Am!",
+    "id": "Oleh karena itu saya pikir saya!"
+  },
+  "description": {
+    "en": "Here you will learn some English words about thinking, such as \"ethics\", \"nihilism\", \"being\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang berpikir, seperti \"etika\", \"nihilisme\", \"menjadi\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 244662,
+      "translation": {
+        "en": {
+          "short": "ethics",
+          "long": "the branch of philosophy that studies moral values and principles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "etika",
+          "long": "cabang filsafat yang mempelajari nilai dan prinsip moral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244662.jpeg",
+      "simplified": "伦理",
+      "traditional": "倫理",
+      "pinyin": "lúnlǐ"
+    },
+    {
+      "id": 244663,
+      "translation": {
+        "en": {
+          "short": "epistemology",
+          "long": "the branch of philosophy in which knowledge is studied",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "epistemologi",
+          "long": "cabang filsafat di mana pengetahuan dipelajari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244663.jpeg",
+      "simplified": "知识",
+      "traditional": "知識",
+      "pinyin": "zhīshi"
+    },
+    {
+      "id": 244664,
+      "translation": {
+        "en": {
+          "short": "humanism",
+          "long": "a system of thought based on human values and nature in which solving human problems is considered more important than religious beliefs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "humanisme",
+          "long": "Sistem pemikiran yang didasarkan pada nilai -nilai manusia dan sifat di mana memecahkan masalah manusia dianggap lebih penting daripada kepercayaan agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244664.jpeg",
+      "simplified": "人道主义",
+      "traditional": "人道主義",
+      "pinyin": "réndào zhǔ yì"
+    },
+    {
+      "id": 244665,
+      "translation": {
+        "en": {
+          "short": "metaphysics",
+          "long": "a branch of philosophy that deals with abstract concepts such as existence or reality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metafisika",
+          "long": "cabang filsafat yang berhubungan dengan konsep abstrak seperti keberadaan atau kenyataan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244665.jpeg",
+      "simplified": "形而上学",
+      "traditional": "形而上學",
+      "pinyin": "xíngér shàng xué"
+    },
+    {
+      "id": 244666,
+      "translation": {
+        "en": {
+          "short": "ontology",
+          "long": "the branch of philosophy that is concerned with concepts such as existence, being, and reality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ontologi",
+          "long": "cabang filsafat yang berkaitan dengan konsep -konsep seperti keberadaan, keberadaan, dan kenyataan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244666.jpeg",
+      "simplified": "本体论",
+      "traditional": "本體論",
+      "pinyin": "běntǐ lùn"
+    },
+    {
+      "id": 244667,
+      "translation": {
+        "en": {
+          "short": "determinism",
+          "long": "the theory or doctrine that all events and occurrences are completely determined by previously existing causes, therefore human beings cannot be punished or held accountable for their deeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "determinisme",
+          "long": "Teori atau doktrin bahwa semua peristiwa dan kejadian sepenuhnya ditentukan oleh penyebab yang ada sebelumnya, oleh karena itu manusia tidak dapat dihukum atau dimintai pertanggungjawaban atas perbuatan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244667.jpeg",
+      "simplified": "决定论",
+      "traditional": "決定論",
+      "pinyin": "juédìng lùn"
+    },
+    {
+      "id": 244668,
+      "translation": {
+        "en": {
+          "short": "hedonism",
+          "long": "a system of belief that the highest of good is when one is in the pursuit of pleasure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hedonisme",
+          "long": "Sistem keyakinan bahwa kebaikan tertinggi adalah ketika seseorang sedang mengejar kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244668.jpeg",
+      "simplified": "享乐主义（哲学）",
+      "traditional": "享樂主義（哲學）",
+      "pinyin": "xiǎnglè zhǔ yì zhéxué"
+    },
+    {
+      "id": 244669,
+      "translation": {
+        "en": {
+          "short": "idealism",
+          "long": "(philosophy) the belief that the physical world is either a product of the mind, or is entirely subjective and exists only in the mind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "idealisme",
+          "long": "(Filsafat) Keyakinan bahwa dunia fisik adalah produk pikiran, atau sepenuhnya subyektif dan hanya ada dalam pikiran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244669.jpeg",
+      "simplified": "唯心主义",
+      "traditional": "唯心主義",
+      "pinyin": "wéixīn zhǔ yì"
+    },
+    {
+      "id": 244670,
+      "translation": {
+        "en": {
+          "short": "empiricism",
+          "long": "a theory stating that all knowledge is derived from experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "empirisme",
+          "long": "Teori yang menyatakan bahwa semua pengetahuan berasal dari pengalaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244670.jpeg",
+      "simplified": "经验主义",
+      "traditional": "經驗主義",
+      "pinyin": "jīngyàn zhǔ yì"
+    },
+    {
+      "id": 244671,
+      "translation": {
+        "en": {
+          "short": "existentialism",
+          "long": "a philosophical theory according to which the world has no meaning and humans are free and responsible for their actions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eksistensialisme",
+          "long": "Teori filosofis yang dengannya dunia tidak memiliki makna dan manusia bebas dan bertanggung jawab atas tindakan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244671.jpeg",
+      "simplified": "存在主义",
+      "traditional": "存在主義",
+      "pinyin": "cúnzài zhǔ yì"
+    },
+    {
+      "id": 244672,
+      "translation": {
+        "en": {
+          "short": "materialism",
+          "long": "the philosophical belief that the spiritual world does not exist and the only thing that exists is physical matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "materialisme",
+          "long": "Keyakinan filosofis bahwa dunia spiritual tidak ada dan satu -satunya hal yang ada adalah materi fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244672.jpeg",
+      "simplified": "唯物主义",
+      "traditional": "唯物主義",
+      "pinyin": "wéiwù zhǔ yì"
+    },
+    {
+      "id": 244673,
+      "translation": {
+        "en": {
+          "short": "nihilism",
+          "long": "a system of thought that considers life as meaningless and rejects religious beliefs, moral principles, legal rules, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nihilisme",
+          "long": "Suatu sistem pemikiran yang menganggap kehidupan sebagai tidak berarti dan menolak keyakinan agama, prinsip -prinsip moral, aturan hukum, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244673.jpeg",
+      "simplified": "怀疑论",
+      "traditional": "懷疑論",
+      "pinyin": "huáiyí Lún"
+    },
+    {
+      "id": 244689,
+      "translation": {
+        "en": {
+          "short": "positivism",
+          "long": "a philosophical system based on things that can be proved by logic or experienced with the senses, rejecting metaphysics and theism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "positivisme",
+          "long": "Sistem filosofis berdasarkan hal -hal yang dapat dibuktikan dengan logika atau berpengalaman dengan indera, menolak metafisika dan teisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244689.jpeg",
+      "simplified": "实证主义",
+      "traditional": "實證主義",
+      "pinyin": "shízhèng zhǔ yì"
+    },
+    {
+      "id": 244674,
+      "translation": {
+        "en": {
+          "short": "pragmatism",
+          "long": "a philosophical movement that emerged in the late 19th and early 20th centuries, emphasizing the practical consequences and real-world effectiveness of beliefs, theories, and actions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pragmatisme",
+          "long": "Gerakan filosofis yang muncul di akhir abad ke-19 dan awal ke-20, menekankan konsekuensi praktis dan keefektifan keyakinan, teori, dan tindakan dunia nyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244674.jpeg",
+      "simplified": "实用主义",
+      "traditional": "實用主義",
+      "pinyin": "shíyòng zhǔ yì"
+    },
+    {
+      "id": 244675,
+      "translation": {
+        "en": {
+          "short": "rationalism",
+          "long": "the belief or principle that ideas and actions should be based on logic instead of religion or emotion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasionalisme",
+          "long": "keyakinan atau prinsip bahwa ide dan tindakan harus didasarkan pada logika alih -alih agama atau emosi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244675.jpeg",
+      "simplified": "合理主义",
+      "traditional": "合理主義",
+      "pinyin": "hélǐ zhǔyì"
+    },
+    {
+      "id": 244694,
+      "translation": {
+        "en": {
+          "short": "scholasticism",
+          "long": "a system of philosophy based on religious scripts and principles and Aristotelian logic, taught in medieval European universities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Skolastik",
+          "long": "Sistem filsafat berdasarkan naskah dan prinsip agama dan logika Aristotelian, yang diajarkan di universitas -universitas Eropa abad pertengahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244694.jpeg",
+      "simplified": "墨守成规",
+      "traditional": "墨守成規",
+      "pinyin": "mòshǒu chéng guī"
+    },
+    {
+      "id": 244676,
+      "translation": {
+        "en": {
+          "short": "skepticism",
+          "long": "the philosophical theory that certain knowledge is unattainable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keraguan",
+          "long": "Teori filosofis bahwa pengetahuan tertentu tidak dapat dicapai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244676.jpeg",
+      "simplified": "怀疑论",
+      "traditional": "懷疑論",
+      "pinyin": "huáiyí Lún"
+    },
+    {
+      "id": 244690,
+      "translation": {
+        "en": {
+          "short": "stoicism",
+          "long": "an ancient Greek philosophy that values virtue and encourages living in harmony with nature's divine Reason",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sikap tabah",
+          "long": "filosofi Yunani kuno yang menghargai kebajikan dan mendorong hidup selaras dengan alasan ilahi alam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244690.jpeg",
+      "simplified": "斯多葛派",
+      "traditional": "斯多葛派",
+      "pinyin": "Sī duō Gě pā"
+    },
+    {
+      "id": 244692,
+      "translation": {
+        "en": {
+          "short": "subjectivism",
+          "long": "a notion in philosophy according to which knowledge, moral values, and ethical obligations are subjective and there is no external or objective truth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subjektivisme",
+          "long": "Gagasan dalam filsafat yang menurutnya pengetahuan, nilai -nilai moral, dan kewajiban etis bersifat subyektif dan tidak ada kebenaran eksternal atau objektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244692.jpeg",
+      "simplified": "主观主义",
+      "traditional": "主觀主義",
+      "pinyin": "zhǔguān zhǔ yì"
+    },
+    {
+      "id": 244693,
+      "translation": {
+        "en": {
+          "short": "utilitarianism",
+          "long": "the doctrine that the best measure or decision is the one that satisfies the majority of people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "utilitarianisme",
+          "long": "Doktrin bahwa ukuran atau keputusan terbaik adalah yang memuaskan mayoritas orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244693.jpeg",
+      "simplified": "功利主义",
+      "traditional": "功利主義",
+      "pinyin": "gōnglì zhǔ yì"
+    },
+    {
+      "id": 244677,
+      "translation": {
+        "en": {
+          "short": "phenomenology",
+          "long": "the branch of philosophy concerned with things that exist and can be seen, felt, etc. as opposed to what may actually be their real existence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fenomenologi",
+          "long": "cabang filsafat yang berkaitan dengan hal -hal yang ada dan dapat dilihat, dirasakan, dll. Berbeda dengan apa yang sebenarnya adalah keberadaan mereka yang sebenarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244677.jpeg",
+      "simplified": "现象学",
+      "traditional": "現象學",
+      "pinyin": "xiànxiàng xué"
+    },
+    {
+      "id": 244678,
+      "translation": {
+        "en": {
+          "short": "alienation",
+          "long": "‌the feeling that one is different from others and therefore not part of a particular group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengasingan",
+          "long": "‌ Perasaan bahwa seseorang berbeda dari yang lain dan karena itu bukan bagian dari kelompok tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244678.jpeg",
+      "simplified": "异化",
+      "traditional": "異化",
+      "pinyin": "yìhuà"
+    },
+    {
+      "id": 244680,
+      "translation": {
+        "en": {
+          "short": "a priori",
+          "long": "using the previous knowledge, reasoning, or general facts to decide the likely result of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "a priori",
+          "long": "menggunakan pengetahuan, penalaran, atau fakta umum sebelumnya untuk memutuskan kemungkinan hasil dari sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244680.jpeg",
+      "simplified": "先验",
+      "traditional": "先驗",
+      "pinyin": "xiānyàn"
+    },
+    {
+      "id": 244681,
+      "translation": {
+        "en": {
+          "short": "a posteriori",
+          "long": "using observation or experience to determine the probable cause of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "a posteriori",
+          "long": "menggunakan pengamatan atau pengalaman untuk menentukan kemungkinan penyebab sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244681.jpeg",
+      "simplified": "后验",
+      "traditional": "後驗",
+      "pinyin": "Hòu yàn"
+    },
+    {
+      "id": 244682,
+      "translation": {
+        "en": {
+          "short": "being",
+          "long": "existence; the state of existing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makhluk",
+          "long": "adanya; keadaan yang ada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244682.jpeg",
+      "simplified": "存在",
+      "traditional": "存在",
+      "pinyin": "cúnzài"
+    },
+    {
+      "id": 244683,
+      "translation": {
+        "en": {
+          "short": "nothingness",
+          "long": "non-existence; a state in which nothing exists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketiadaan",
+          "long": "tidak adanya; keadaan di mana tidak ada yang ada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244683.jpeg",
+      "simplified": "虚无",
+      "traditional": "虛無",
+      "pinyin": "xūwú"
+    },
+    {
+      "id": 244684,
+      "translation": {
+        "en": {
+          "short": "consciousness",
+          "long": "the state of being sensible and aware",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesadaran",
+          "long": "keadaan masuk akal dan sadar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244684.jpeg",
+      "simplified": "意识",
+      "traditional": "意識",
+      "pinyin": "yìshí"
+    },
+    {
+      "id": 244685,
+      "translation": {
+        "en": {
+          "short": "dogma",
+          "long": "a belief or a belief system held by an authority who proclaims it to be undeniably true and expects immediate acceptance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dogma",
+          "long": "Keyakinan atau sistem kepercayaan yang dipegang oleh otoritas yang menyatakannya tidak dapat disangkal benar dan mengharapkan penerimaan segera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244685.jpeg",
+      "simplified": "教条",
+      "traditional": "教條",
+      "pinyin": "jiàotiáo"
+    },
+    {
+      "id": 244688,
+      "translation": {
+        "en": {
+          "short": "logic",
+          "long": "sensible methods of thinking and decision making, especially ones that are based on reasonable judgment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "logika",
+          "long": "Metode pemikiran dan pengambilan keputusan yang masuk akal, terutama yang didasarkan pada penilaian yang masuk akal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244688.jpeg",
+      "simplified": "逻辑",
+      "traditional": "邏輯",
+      "pinyin": "luóji"
+    },
+    {
+      "id": 244686,
+      "translation": {
+        "en": {
+          "short": "virtue",
+          "long": "attitudes or manners exhibiting high moral standards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebajikan",
+          "long": "sikap atau sopan santun yang menunjukkan standar moral yang tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244686.jpeg",
+      "simplified": "美德",
+      "traditional": "美德",
+      "pinyin": "MěiDé"
+    },
+    {
+      "id": 384621,
+      "translation": {
+        "en": {
+          "short": "aesthetics",
+          "long": "the branch of philosophy which deals with the nature of beauty and art",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "estetika",
+          "long": "cabang filsafat yang berkaitan dengan sifat kecantikan dan seni",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384621.jpeg",
+      "simplified": "美学",
+      "traditional": "美學",
+      "pinyin": "měixué"
+    },
+    {
+      "id": 244687,
+      "translation": {
+        "en": {
+          "short": "wisdom",
+          "long": "the quality of being knowledgeable, experienced, and able to make good decisions and judgments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebijaksanaan",
+          "long": "kualitas menjadi berpengetahuan, berpengalaman, dan mampu membuat keputusan dan penilaian yang baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244687.jpeg",
+      "simplified": "智慧",
+      "traditional": "智慧",
+      "pinyin": "zhìhuì"
+    },
+    {
+      "id": 244691,
+      "translation": {
+        "en": {
+          "short": "sophist",
+          "long": "a teacher of philosophy and rhetoric in ancient Greek with a skeptical attitude",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sofis",
+          "long": "Seorang guru filsafat dan retorika dalam bahasa Yunani kuno dengan sikap skeptis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244691.jpeg",
+      "simplified": "辩士",
+      "traditional": "辯士",
+      "pinyin": "biànshì"
+    }
+  ]
+}

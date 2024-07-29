@@ -1,0 +1,792 @@
+{
+  "id": 1055,
+  "title": {
+    "en": "Ripples in a Pond",
+    "id": "Riak di kolam"
+  },
+  "description": {
+    "en": "Here you will learn some English words about change, cause and effect, such as \"baleful\", \"trifling\", \"constrict\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perubahan, sebab dan akibat, seperti \"buruk\", \"sepele\", \"menyempit\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 245981,
+      "translation": {
+        "en": {
+          "short": "baleful",
+          "long": "able to bring about dangerous or destructive consequences",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "yg adalah amat buruk",
+          "long": "mampu menghasilkan konsekuensi berbahaya atau destruktif",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245981.jpeg",
+      "simplified": "恶意的",
+      "traditional": "惡意的",
+      "pinyin": "èyì de"
+    },
+    {
+      "id": 245983,
+      "translation": {
+        "en": {
+          "short": "cardinal",
+          "long": "possessing the quality of being the most important or basic part of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kardinal",
+          "long": "memiliki kualitas menjadi bagian yang paling penting atau dasar dari sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245983.jpeg",
+      "simplified": "基本的",
+      "traditional": "基本的",
+      "pinyin": "jīběn de"
+    },
+    {
+      "id": 245985,
+      "translation": {
+        "en": {
+          "short": "concomitant",
+          "long": "simultaneously occurring with something else as it is either related to it or an outcome of it",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "seiring",
+          "long": "secara bersamaan terjadi dengan sesuatu yang lain karena terkait dengan itu atau hasilnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245985.jpeg",
+      "simplified": "伴随的",
+      "traditional": "伴隨的",
+      "pinyin": "bànsuí de"
+    },
+    {
+      "id": 245988,
+      "translation": {
+        "en": {
+          "short": "counterproductive",
+          "long": "producing results that are contrary to what was intended",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kontraproduktif",
+          "long": "menghasilkan hasil yang bertentangan dengan apa yang dimaksudkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245988.jpeg",
+      "simplified": "适得其反",
+      "traditional": "適得其反",
+      "pinyin": "shìdé qí fǎn"
+    },
+    {
+      "id": 245994,
+      "translation": {
+        "en": {
+          "short": "feckless",
+          "long": "of no determination, competence, or strength",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lemah",
+          "long": "tidak ada tekad, kompetensi, atau kekuatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245994.jpeg",
+      "simplified": "无能的",
+      "traditional": "無能的",
+      "pinyin": "wúnéng de"
+    },
+    {
+      "id": 245998,
+      "translation": {
+        "en": {
+          "short": "immaterial",
+          "long": "not relevant or significant to the current situation, discussion, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak material",
+          "long": "Tidak relevan atau signifikan dengan situasi saat ini, diskusi, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245998.jpeg",
+      "simplified": "不相关的",
+      "traditional": "不相關的",
+      "pinyin": "bù xiāngguān de"
+    },
+    {
+      "id": 245999,
+      "translation": {
+        "en": {
+          "short": "inchoate",
+          "long": "recently started to develop, thus not complete",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "belum lengkap",
+          "long": "baru -baru ini mulai berkembang, sehingga tidak lengkap",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245999.jpeg",
+      "simplified": "早期的",
+      "traditional": "早期的",
+      "pinyin": "zǎoqī de"
+    },
+    {
+      "id": 246000,
+      "translation": {
+        "en": {
+          "short": "inconsequential",
+          "long": "lacking significance or importance",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ngawur",
+          "long": "kurang penting atau penting",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246000.jpeg",
+      "simplified": "无关紧要的",
+      "traditional": "無關緊要的",
+      "pinyin": "wúguān jǐn yào de"
+    },
+    {
+      "id": 246016,
+      "translation": {
+        "en": {
+          "short": "transitory",
+          "long": "only continuing for a short stretch of time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sementara",
+          "long": "hanya melanjutkan waktu singkat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246016.jpeg",
+      "simplified": "暂时的",
+      "traditional": "暫時的",
+      "pinyin": "zànshí de"
+    },
+    {
+      "id": 246017,
+      "translation": {
+        "en": {
+          "short": "trifling",
+          "long": "without any value or importance",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "remeh",
+          "long": "tanpa nilai atau pentingnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246017.jpeg",
+      "simplified": "琐事",
+      "traditional": "瑣事",
+      "pinyin": "suǒshì"
+    },
+    {
+      "id": 246009,
+      "translation": {
+        "en": {
+          "short": "plastic",
+          "long": "capable of easily being molded or shaped into taking another form",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "plastik",
+          "long": "mampu dengan mudah dibentuk atau dibentuk menjadi mengambil bentuk lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246009.jpeg",
+      "simplified": "塑料",
+      "traditional": "塑膠",
+      "pinyin": "sùliào"
+    },
+    {
+      "id": 246443,
+      "translation": {
+        "en": {
+          "short": "portentous",
+          "long": "warning or indicating that something significant, particularly unpleasant, is going to take place",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "menakjubkan",
+          "long": "peringatan atau menunjukkan bahwa sesuatu yang signifikan, terutama tidak menyenangkan, akan terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246443.jpeg",
+      "simplified": "预兆",
+      "traditional": "預兆",
+      "pinyin": "yùzhào"
+    },
+    {
+      "id": 246012,
+      "translation": {
+        "en": {
+          "short": "retrospective",
+          "long": "referring or relating to a past event",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "retrospektif",
+          "long": "mengacu atau berkaitan dengan acara masa lalu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246012.jpeg",
+      "simplified": "回顾性的",
+      "traditional": "回顧性的",
+      "pinyin": "huígù xìng de"
+    },
+    {
+      "id": 245976,
+      "translation": {
+        "en": {
+          "short": "to aggrandize",
+          "long": "to make someone or something appear more significant than it actually is",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperbesar",
+          "long": "membuat seseorang atau sesuatu tampak lebih penting dari yang sebenarnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245976.jpeg",
+      "simplified": "夸大某事",
+      "traditional": "誇大某事",
+      "pinyin": "kuādà mǒushì"
+    },
+    {
+      "id": 245977,
+      "translation": {
+        "en": {
+          "short": "to appease",
+          "long": "to end or lessen a person's anger by giving in to their demands",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menenangkan",
+          "long": "untuk mengakhiri atau mengurangi kemarahan seseorang dengan menyerah pada tuntutan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245977.jpeg",
+      "simplified": "安抚",
+      "traditional": "安撫",
+      "pinyin": "ānfǔ"
+    },
+    {
+      "id": 245979,
+      "translation": {
+        "en": {
+          "short": "to attenuate",
+          "long": "to take away from something's effect, value, size, power, or amount",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melemahkan",
+          "long": "untuk mengambil dari efek, nilai, ukuran, daya, atau jumlah sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245979.jpeg",
+      "simplified": "衰减",
+      "traditional": "衰減",
+      "pinyin": "shuāijiǎn"
+    },
+    {
+      "id": 245982,
+      "translation": {
+        "en": {
+          "short": "to burgeon",
+          "long": "to have a rapid development or growth",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Burgeon",
+          "long": "untuk memiliki perkembangan atau pertumbuhan yang cepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245982.jpeg",
+      "simplified": "芊芊",
+      "traditional": "芊芊",
+      "pinyin": "qiān qiān"
+    },
+    {
+      "id": 245987,
+      "translation": {
+        "en": {
+          "short": "to constrict",
+          "long": "to restrict the things someone can or wants to do",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyempitkan",
+          "long": "untuk membatasi hal -hal yang dapat atau ingin dilakukan atau ingin dilakukan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245987.jpeg",
+      "simplified": "压迫",
+      "traditional": "壓迫",
+      "pinyin": "yāpò"
+    },
+    {
+      "id": 245989,
+      "translation": {
+        "en": {
+          "short": "to culminate",
+          "long": "to end by coming to a climactic point",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memuncak",
+          "long": "untuk mengakhiri dengan datang ke titik klimaks",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245989.jpeg",
+      "simplified": "达到高潮",
+      "traditional": "達到高潮",
+      "pinyin": "dádào gāocháo"
+    },
+    {
+      "id": 245990,
+      "translation": {
+        "en": {
+          "short": "to deflect",
+          "long": "to stop a person from doing what they initially intended",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menangkis",
+          "long": "untuk menghentikan seseorang dari melakukan apa yang awalnya mereka maksudkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245990.jpeg",
+      "simplified": "打歪",
+      "traditional": "打歪",
+      "pinyin": "dá wāi"
+    },
+    {
+      "id": 245992,
+      "translation": {
+        "en": {
+          "short": "to elevate",
+          "long": "to raise someone or something to a higher rank or better position",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengangkat",
+          "long": "untuk membesarkan seseorang atau sesuatu ke peringkat yang lebih tinggi atau posisi yang lebih baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245992.jpeg",
+      "simplified": "给某人升职",
+      "traditional": "給某人升職",
+      "pinyin": "gěi mǒurén shēngzhí"
+    },
+    {
+      "id": 245996,
+      "translation": {
+        "en": {
+          "short": "to foment",
+          "long": "to either worsen or cause violence, trouble, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengomentari",
+          "long": "baik memperburuk atau menyebabkan kekerasan, masalah, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245996.jpeg",
+      "simplified": "罨",
+      "traditional": "罨",
+      "pinyin": "yǎn"
+    },
+    {
+      "id": 245997,
+      "translation": {
+        "en": {
+          "short": "to galvanize",
+          "long": "to push someone into taking action, particularly by evoking a strong emotion in them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggembleng",
+          "long": "untuk mendorong seseorang untuk mengambil tindakan, terutama dengan membangkitkan emosi yang kuat di dalamnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245997.jpeg",
+      "simplified": "镀锌",
+      "traditional": "鍍鋅",
+      "pinyin": "dùxīn"
+    },
+    {
+      "id": 246001,
+      "translation": {
+        "en": {
+          "short": "to lull",
+          "long": "to help someone feel relaxed and calm or to help them fall asleep",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menidurkan",
+          "long": "untuk membantu seseorang merasa santai dan tenang atau membantu mereka tertidur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246001.jpeg",
+      "simplified": "麻痹",
+      "traditional": "麻痺",
+      "pinyin": "mábì"
+    },
+    {
+      "id": 246018,
+      "translation": {
+        "en": {
+          "short": "to wax",
+          "long": "to grow in strength, size, intensity, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk lilin",
+          "long": "untuk tumbuh dalam kekuatan, ukuran, intensitas, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246018.jpeg",
+      "simplified": "蜡",
+      "traditional": "蠟",
+      "pinyin": "là"
+    },
+    {
+      "id": 246003,
+      "translation": {
+        "en": {
+          "short": "to misattribute",
+          "long": "to incorrectly state what or who created or caused something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk salah mengartikan",
+          "long": "untuk secara tidak benar menyatakan apa atau siapa yang menciptakan atau menyebabkan sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246003.jpeg",
+      "simplified": "错误归因",
+      "traditional": "錯誤歸因",
+      "pinyin": "cuòwù guīyīn"
+    },
+    {
+      "id": 246005,
+      "translation": {
+        "en": {
+          "short": "to obtain",
+          "long": "to be widely common, applied, or recognized",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperoleh",
+          "long": "menjadi umum, diterapkan, atau diakui",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246005.jpeg",
+      "simplified": "获得",
+      "traditional": "獲得",
+      "pinyin": "huòdé"
+    },
+    {
+      "id": 246006,
+      "translation": {
+        "en": {
+          "short": "to oscillate",
+          "long": "to frequently change between different viewpoints or beliefs without settling on a fixed one",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk terosilasi",
+          "long": "untuk sering berubah antara sudut pandang atau keyakinan yang berbeda tanpa memilih yang tetap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246006.jpeg",
+      "simplified": "振荡",
+      "traditional": "振盪",
+      "pinyin": "zhèndàng"
+    },
+    {
+      "id": 246007,
+      "translation": {
+        "en": {
+          "short": "to overshadow",
+          "long": "to cause a person or thing to come across as less significant",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menaungi",
+          "long": "menyebabkan seseorang atau benda dianggap kurang signifikan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246007.jpeg",
+      "simplified": "让某人显得不那么重要",
+      "traditional": "讓某人顯得不那麼重要",
+      "pinyin": "ràng mǒurén xiǎnde bù nàme zhòngyào"
+    },
+    {
+      "id": 246008,
+      "translation": {
+        "en": {
+          "short": "to permeate",
+          "long": "to expand to every part of a thing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meresap",
+          "long": "untuk memperluas ke setiap bagian dari suatu hal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246008.jpeg",
+      "simplified": "渗透",
+      "traditional": "滲透",
+      "pinyin": "shèntòu"
+    },
+    {
+      "id": 246011,
+      "translation": {
+        "en": {
+          "short": "to proliferate",
+          "long": "to cause something to increase rapidly in number or size",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berkembang biak",
+          "long": "menyebabkan sesuatu meningkat dengan cepat dalam jumlah atau ukurannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246011.jpeg",
+      "simplified": "增生",
+      "traditional": "增生",
+      "pinyin": "zēngshēng"
+    },
+    {
+      "id": 246013,
+      "translation": {
+        "en": {
+          "short": "to squelch",
+          "long": "to forcefully bring the development or growth of something that is troubling to an end",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memadamkan",
+          "long": "untuk secara paksa mengakhiri perkembangan atau pertumbuhan sesuatu yang mengganggu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246013.jpeg",
+      "simplified": "镇压",
+      "traditional": "鎮壓",
+      "pinyin": "zhènyā"
+    },
+    {
+      "id": 246015,
+      "translation": {
+        "en": {
+          "short": "to supersede",
+          "long": "to take something or someone's position or place, particularly due to being more effective or up to date",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggantikan",
+          "long": "untuk mengambil sesuatu atau posisi atau tempat seseorang, terutama karena lebih efektif atau terkini",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246015.jpeg",
+      "simplified": "取而代之",
+      "traditional": "取而代之",
+      "pinyin": "qǔér dài zhī"
+    },
+    {
+      "id": 245991,
+      "translation": {
+        "en": {
+          "short": "deterrent",
+          "long": "a thing that reduces the chances of someone doing something because it makes them aware of its difficulties or consequences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencegah",
+          "long": "Suatu hal yang mengurangi kemungkinan seseorang melakukan sesuatu karena itu membuat mereka sadar akan kesulitan atau konsekuensinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245991.jpeg",
+      "simplified": "威慑",
+      "traditional": "威懾",
+      "pinyin": "wēishè"
+    },
+    {
+      "id": 246004,
+      "translation": {
+        "en": {
+          "short": "nadir",
+          "long": "the moment in which a situation or life is at its lowest or worst",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nadir",
+          "long": "momen di mana situasi atau kehidupan berada pada titik terendah atau terburuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246004.jpeg",
+      "simplified": "纳迪尔",
+      "traditional": "納迪爾",
+      "pinyin": "Nà dí ěr"
+    },
+    {
+      "id": 246010,
+      "translation": {
+        "en": {
+          "short": "precursor",
+          "long": "someone or something that comes before another of the same type, acting as a sign of what will come next",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendahulu",
+          "long": "seseorang atau sesuatu yang datang sebelum jenis yang sama, bertindak sebagai tanda dari apa yang akan terjadi selanjutnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246010.jpeg",
+      "simplified": "先导",
+      "traditional": "先導",
+      "pinyin": "xiāndǎo"
+    },
+    {
+      "id": 259847,
+      "translation": {
+        "en": {
+          "short": "to check",
+          "long": "to keep something bad under control in order to prevent deterioration or to slow down its spread or development",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memeriksa",
+          "long": "untuk menjaga sesuatu yang buruk di bawah kendali untuk mencegah kerusakan atau memperlambat penyebaran atau perkembangannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/259847.jpeg",
+      "simplified": "校验",
+      "traditional": "校驗",
+      "pinyin": "jiàoyàn"
+    },
+    {
+      "id": 264682,
+      "translation": {
+        "en": {
+          "short": "to converge",
+          "long": "(of roads, paths, lines, etc.) to lead toward a point that connects them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bertemu",
+          "long": "(jalan, jalur, garis, dll.) Untuk mengarah ke titik yang menghubungkannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264682.jpeg",
+      "simplified": "汇合",
+      "traditional": "匯合",
+      "pinyin": "huìhé"
+    },
+    {
+      "id": 246014,
+      "translation": {
+        "en": {
+          "short": "status quo",
+          "long": "the situation or condition that is currently at hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Status quo",
+          "long": "situasi atau kondisi yang saat ini sudah dekat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246014.jpeg",
+      "simplified": "现状",
+      "traditional": "現狀",
+      "pinyin": "xiànzhuàng"
+    },
+    {
+      "id": 264739,
+      "translation": {
+        "en": {
+          "short": "to assuage",
+          "long": "to help reduce the severity of an unpleasant feeling",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meredakan",
+          "long": "untuk membantu mengurangi keparahan perasaan yang tidak menyenangkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264739.jpeg",
+      "simplified": "减轻某人的痛苦",
+      "traditional": "減輕某人的痛苦",
+      "pinyin": "jiǎnqīng mǒurén de tòngkǔ"
+    },
+    {
+      "id": 265677,
+      "translation": {
+        "en": {
+          "short": "zenith",
+          "long": "the highest point that a certain celestial body reaches, directly above an observer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "Titik tertinggi yang dicapai oleh benda selestial tertentu, tepat di atas pengamat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265677.jpeg",
+      "simplified": "顶点",
+      "traditional": "頂點",
+      "pinyin": "dǐngdiǎn"
+    }
+  ]
+}

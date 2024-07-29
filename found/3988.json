@@ -1,0 +1,678 @@
+{
+  "id": 3988,
+  "title": {
+    "en": "Housekeeping",
+    "id": "Pembenahan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to housekeeping such as \"cleaning\", \"chore\", and \"yardwork\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan tata graha seperti \"pembersihan\", \"tugas\", dan \"pekarangan\"."
+  },
+  "cards": [
+    {
+      "id": 345982,
+      "translation": {
+        "en": {
+          "short": "cleaning",
+          "long": "the action or process of making something, especially inside a house, etc. clean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembersihan",
+          "long": "tindakan atau proses membuat sesuatu, terutama di dalam rumah, dll. Bersih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345982.jpeg",
+      "simplified": "打扫",
+      "traditional": "打掃",
+      "pinyin": "dǎsǎo"
+    },
+    {
+      "id": 345983,
+      "translation": {
+        "en": {
+          "short": "housework",
+          "long": "regular work done in a house, especially cleaning, washing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tugas rumah",
+          "long": "Pekerjaan rutin dilakukan di rumah, terutama membersihkan, mencuci, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345983.jpeg",
+      "simplified": "家务",
+      "traditional": "家務",
+      "pinyin": "jiāwù"
+    },
+    {
+      "id": 345984,
+      "translation": {
+        "en": {
+          "short": "spring-cleaning",
+          "long": "the act of thoroughly cleaning  a room or house, especially before the arrival of Spring and including parts one does not usually clean",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembersihan musim semi",
+          "long": "tindakan membersihkan kamar atau rumah secara menyeluruh, terutama sebelum kedatangan musim semi dan termasuk bagian yang biasanya tidak bersih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345984.jpeg",
+      "simplified": "春季大扫除",
+      "traditional": "春季大掃除",
+      "pinyin": "chūnjì dà sǎochú"
+    },
+    {
+      "id": 345985,
+      "translation": {
+        "en": {
+          "short": "dishwashing",
+          "long": "the process of cleaning and sanitizing dishes, utensils, and cookware using water, detergent, and sometimes a dishwasher machine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencuci piring",
+          "long": "Proses pembersihan dan sanitasi hidangan, peralatan, dan peralatan masak menggunakan air, deterjen, dan terkadang mesin pencuci piring mesin cuci piring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345985.jpeg",
+      "simplified": "洗碗",
+      "traditional": "洗碗",
+      "pinyin": "xǐwǎn"
+    },
+    {
+      "id": 345988,
+      "translation": {
+        "en": {
+          "short": "grocery shopping",
+          "long": "the act of purchasing food and other household items from a grocery store or supermarket to meet one's household needs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbelanja",
+          "long": "tindakan membeli makanan dan barang -barang rumah tangga lainnya dari toko kelontong atau supermarket untuk memenuhi kebutuhan rumah tangga seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345988.jpeg",
+      "simplified": "杂货店购物",
+      "traditional": "雜貨店購物",
+      "pinyin": "záhuò diàn gòuwù"
+    },
+    {
+      "id": 346010,
+      "translation": {
+        "en": {
+          "short": "chore",
+          "long": "a task, especially a household one, that is done regularly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerjaan rumah",
+          "long": "tugas, terutama rumah tangga, yang dilakukan secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346010.jpeg",
+      "simplified": "琐事",
+      "traditional": "瑣事",
+      "pinyin": "suǒshì"
+    },
+    {
+      "id": 345990,
+      "translation": {
+        "en": {
+          "short": "yardwork",
+          "long": "the physical labor of maintaining and beautifying an outdoor space, including tasks like mowing, pruning, weeding, planting, and general landscaping",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerjaan halaman",
+          "long": "kerja fisik mempertahankan dan mempercantik ruang luar, termasuk tugas seperti memotong, memangkas, menyiangi, menanam, dan lansekap umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345990.jpeg",
+      "simplified": "院子里的工作",
+      "traditional": "院子裡的工作",
+      "pinyin": "yuànzi Lǐ de gōngzuò"
+    },
+    {
+      "id": 346006,
+      "translation": {
+        "en": {
+          "short": "domestic",
+          "long": "a person who is employed to perform household tasks within a residence, such as cleaning, cooking, and other domestic duties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lokal",
+          "long": "Seseorang yang dipekerjakan untuk melakukan tugas rumah tangga di dalam tempat tinggal, seperti membersihkan, memasak, dan tugas domestik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346006.jpeg",
+      "simplified": "仆人",
+      "traditional": "僕人",
+      "pinyin": "púrén"
+    },
+    {
+      "id": 346007,
+      "translation": {
+        "en": {
+          "short": "domesticity",
+          "long": "the state or quality of being focused on home life, family, and the activities associated with maintaining a household",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerumahtanggaan",
+          "long": "Negara atau kualitas menjadi fokus pada kehidupan rumah tangga, keluarga, dan kegiatan yang terkait dengan memelihara rumah tangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346007.jpeg",
+      "simplified": "对家庭的挚爱",
+      "traditional": "對家庭的摯愛",
+      "pinyin": "duìjiā tíng de zhìài"
+    },
+    {
+      "id": 346075,
+      "translation": {
+        "en": {
+          "short": "odd job",
+          "long": "a single miscellaneous task or chore, typically small in scale and unrelated to one's primary occupation or job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerjaan yang aneh",
+          "long": "satu tugas atau tugas lain -lain, biasanya dalam skala kecil dan tidak terkait dengan pekerjaan atau pekerjaan utama seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346075.jpeg",
+      "simplified": "零工",
+      "traditional": "零工",
+      "pinyin": "línggōng"
+    },
+    {
+      "id": 345992,
+      "translation": {
+        "en": {
+          "short": "home repair",
+          "long": "the process of fixing or addressing damages, defects, and malfunctions in a residential property to restore its functionality and safety",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perbaikan rumah",
+          "long": "Proses memperbaiki atau mengatasi kerusakan, cacat, dan kerusakan di properti perumahan untuk mengembalikan fungsionalitas dan keamanannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345992.jpeg",
+      "simplified": "上门维修",
+      "traditional": "上門維修",
+      "pinyin": "shàngmén wéixiū"
+    },
+    {
+      "id": 345993,
+      "translation": {
+        "en": {
+          "short": "to dust",
+          "long": "to use a soft cloth or tool to clean and remove particles from the surface of objects, like furniture",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menjadi debu",
+          "long": "untuk menggunakan kain atau alat lunak untuk membersihkan dan menghilangkan partikel dari permukaan benda, seperti furnitur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345993.jpeg",
+      "simplified": "掸",
+      "traditional": "撣",
+      "pinyin": "dǎn"
+    },
+    {
+      "id": 345994,
+      "translation": {
+        "en": {
+          "short": "to recycle",
+          "long": "to make a waste product usable again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendaur ulang",
+          "long": "untuk membuat produk limbah dapat digunakan lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345994.jpeg",
+      "simplified": "回收",
+      "traditional": "回收",
+      "pinyin": "huíshōu"
+    },
+    {
+      "id": 345995,
+      "translation": {
+        "en": {
+          "short": "to mop",
+          "long": "to clean a surface by wiping it with a handle attached to a sponge or cloth at its end",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengepel",
+          "long": "untuk membersihkan permukaan dengan menyeka dengan pegangan yang melekat pada spons atau kain di ujungnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345995.jpeg",
+      "simplified": "擦",
+      "traditional": "擦",
+      "pinyin": "cā"
+    },
+    {
+      "id": 345996,
+      "translation": {
+        "en": {
+          "short": "to polish",
+          "long": "to rub the surface of something, often using a brush or a piece of cloth, to make it bright, smooth, and shiny",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyemir",
+          "long": "untuk menggosok permukaan sesuatu, sering menggunakan sikat atau selembar kain, untuk membuatnya cerah, halus, dan mengkilap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345996.jpeg",
+      "simplified": "研磨",
+      "traditional": "研磨",
+      "pinyin": "yánmó"
+    },
+    {
+      "id": 345997,
+      "translation": {
+        "en": {
+          "short": "to vacuum",
+          "long": "to clean a surface by using a machine that sucks up dirt, dust, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyedot debu",
+          "long": "Untuk membersihkan permukaan dengan menggunakan mesin yang menyedot kotoran, debu, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345997.jpeg",
+      "simplified": "真空",
+      "traditional": "真空",
+      "pinyin": "zhēnkōng"
+    },
+    {
+      "id": 345998,
+      "translation": {
+        "en": {
+          "short": "to wash",
+          "long": "to clean someone or something with water, often with a type of soap",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencuci",
+          "long": "untuk membersihkan seseorang atau sesuatu dengan air, seringkali dengan jenis sabun",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345998.jpeg",
+      "simplified": "洗东西",
+      "traditional": "洗東西",
+      "pinyin": "xǐ dōngxī"
+    },
+    {
+      "id": 345999,
+      "translation": {
+        "en": {
+          "short": "to scrub",
+          "long": "to clean a surface by rubbing it very hard using a brush, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggosok",
+          "long": "Untuk membersihkan permukaan dengan menggosoknya dengan sangat keras menggunakan sikat, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345999.jpeg",
+      "simplified": "用刷子刷洗",
+      "traditional": "用刷子刷洗",
+      "pinyin": "yòng shuāzi shuāxǐ"
+    },
+    {
+      "id": 346000,
+      "translation": {
+        "en": {
+          "short": "to empty",
+          "long": "to remove the contents of a container or space",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengosongkan",
+          "long": "untuk menghilangkan isi wadah atau ruang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346000.jpeg",
+      "simplified": "倾倒",
+      "traditional": "傾倒",
+      "pinyin": "qīngdǎo"
+    },
+    {
+      "id": 346001,
+      "translation": {
+        "en": {
+          "short": "to dry",
+          "long": "to lose wetness, by being exposed to heat or air",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "kering",
+          "long": "kehilangan basah, dengan terkena panas atau udara",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346001.jpeg",
+      "simplified": "槁",
+      "traditional": "槁",
+      "pinyin": "gǎo"
+    },
+    {
+      "id": 346002,
+      "translation": {
+        "en": {
+          "short": "to wipe",
+          "long": "to clean or dry a surface using a cloth, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghapus",
+          "long": "Untuk membersihkan atau mengeringkan permukaan menggunakan kain, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346002.jpeg",
+      "simplified": "擦拭",
+      "traditional": "擦拭",
+      "pinyin": "cāshì"
+    },
+    {
+      "id": 346003,
+      "translation": {
+        "en": {
+          "short": "to fold",
+          "long": "to bend something in a way that one part of it touches or covers another",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melipat",
+          "long": "untuk menekuk sesuatu dengan cara yang satu bagiannya menyentuh atau menutupi yang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346003.jpeg",
+      "simplified": "折叠（衣服等）",
+      "traditional": "折疊（衣服等）",
+      "pinyin": "zhédié yīfu děng"
+    },
+    {
+      "id": 346004,
+      "translation": {
+        "en": {
+          "short": "to cook",
+          "long": "to make food with heat",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memasak",
+          "long": "untuk membuat makanan dengan panas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346004.jpeg",
+      "simplified": "煮食物",
+      "traditional": "煮食物",
+      "pinyin": "zhǔ shíwù"
+    },
+    {
+      "id": 346005,
+      "translation": {
+        "en": {
+          "short": "to clean",
+          "long": "to make something have no bacteria, marks, or dirt",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membersihkan",
+          "long": "untuk membuat sesuatu tidak memiliki bakteri, tanda, atau kotoran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346005.jpeg",
+      "simplified": "清洁某物",
+      "traditional": "清潔某物",
+      "pinyin": "qīngjié mǒuwù"
+    },
+    {
+      "id": 346008,
+      "translation": {
+        "en": {
+          "short": "to organize",
+          "long": "to put things into a particular order or structure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengatur",
+          "long": "untuk menempatkan sesuatu ke dalam urutan atau struktur tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346008.jpeg",
+      "simplified": "组织",
+      "traditional": "組織",
+      "pinyin": "zǔzhī"
+    },
+    {
+      "id": 346009,
+      "translation": {
+        "en": {
+          "short": "to furnish",
+          "long": "to equip a room, house, etc. with furniture",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melengkapi",
+          "long": "untuk melengkapi kamar, rumah, dll. Dengan furnitur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346009.jpeg",
+      "simplified": "提供",
+      "traditional": "提供",
+      "pinyin": "tígōng"
+    },
+    {
+      "id": 346011,
+      "translation": {
+        "en": {
+          "short": "to dry up",
+          "long": "to become empty of water or other liquids, often through evaporation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengering",
+          "long": "menjadi kosong dari air atau cairan lainnya, seringkali melalui penguapan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346011.jpeg",
+      "simplified": "干涸",
+      "traditional": "乾涸",
+      "pinyin": "gānhé"
+    },
+    {
+      "id": 346012,
+      "translation": {
+        "en": {
+          "short": "to iron",
+          "long": "to use a heated appliance to straighten and smooth wrinkles and creases from fabric",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyetrika",
+          "long": "untuk menggunakan alat yang dipanaskan untuk meluruskan dan meringkas kerutan dan lipatan dari kain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346012.jpeg",
+      "simplified": "熨",
+      "traditional": "熨",
+      "pinyin": "yù"
+    },
+    {
+      "id": 346013,
+      "translation": {
+        "en": {
+          "short": "to unload",
+          "long": "to remove things or goods from a container, vehicle, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membongkar",
+          "long": "Untuk menghilangkan barang atau barang dari wadah, kendaraan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346013.jpeg",
+      "simplified": "卸下",
+      "traditional": "卸下",
+      "pinyin": "xièxià"
+    },
+    {
+      "id": 346014,
+      "translation": {
+        "en": {
+          "short": "to drip-dry",
+          "long": "to allow wet clothes to dry by hanging them up without wringing them out",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengeringkan",
+          "long": "untuk membiarkan pakaian basah kering dengan menggantungnya tanpa meremasnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346014.jpeg",
+      "simplified": "滴干",
+      "traditional": "滴幹",
+      "pinyin": "dī gān"
+    },
+    {
+      "id": 346015,
+      "translation": {
+        "en": {
+          "short": "to press",
+          "long": "to apply pressure to something by a heated iron in order to smooth it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menekan",
+          "long": "untuk memberikan tekanan pada sesuatu dengan besi yang dipanaskan untuk menghaluskannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346015.jpeg",
+      "simplified": "按",
+      "traditional": "按",
+      "pinyin": "àn"
+    },
+    {
+      "id": 346016,
+      "translation": {
+        "en": {
+          "short": "to wet",
+          "long": "to make something damp or moist by applying water or another liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk membasahi",
+          "long": "untuk membuat sesuatu yang lembab atau lembab dengan mengoleskan air atau cairan lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346016.jpeg",
+      "simplified": "濡湿",
+      "traditional": "濡濕",
+      "pinyin": "rúshī"
+    },
+    {
+      "id": 346017,
+      "translation": {
+        "en": {
+          "short": "to unfold",
+          "long": "to open or spread something out from a folded state or compact form",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk dibuka",
+          "long": "untuk membuka atau menyebarkan sesuatu dari keadaan terlipat atau bentuk kompak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346017.jpeg",
+      "simplified": "展开",
+      "traditional": "展開",
+      "pinyin": "zhǎnkāi"
+    },
+    {
+      "id": 346018,
+      "translation": {
+        "en": {
+          "short": "to launder",
+          "long": "to wash, clean, and iron clothes and linens",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pencucian",
+          "long": "untuk mencuci, membersihkan, dan besi dan linen",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346018.jpeg",
+      "simplified": "濯",
+      "traditional": "濯",
+      "pinyin": "zhào"
+    },
+    {
+      "id": 346068,
+      "translation": {
+        "en": {
+          "short": "to sweep",
+          "long": "to clean a place by using a broom",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyapu",
+          "long": "untuk membersihkan tempat dengan menggunakan sapu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346068.jpeg",
+      "simplified": "扫",
+      "traditional": "掃",
+      "pinyin": "sǎo"
+    }
+  ]
+}

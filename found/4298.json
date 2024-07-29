@@ -1,0 +1,374 @@
+{
+  "id": 4298,
+  "title": {
+    "en": "Adjectives of Frequency",
+    "id": "Kata sifat frekuensi"
+  },
+  "description": {
+    "en": "These adjectives describe how often or how frequently events or actions occur, conveying attributes such as \"frequent\", \"intermittent\", \"rare\", etc.",
+    "id": "Kata sifat ini menggambarkan seberapa sering atau seberapa sering peristiwa atau tindakan terjadi, menyampaikan atribut seperti \"sering\", \"terputus -putus\", \"langka\", dll."
+  },
+  "cards": [
+    {
+      "id": 358656,
+      "translation": {
+        "en": {
+          "short": "occasional",
+          "long": "happening or done from time to time, not frequently",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sesekali",
+          "long": "terjadi atau dilakukan dari waktu ke waktu, tidak sering",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358656.jpeg",
+      "simplified": "偶然",
+      "traditional": "偶然",
+      "pinyin": "ǒurán"
+    },
+    {
+      "id": 358657,
+      "translation": {
+        "en": {
+          "short": "frequent",
+          "long": "done or happening repeatedly",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sering",
+          "long": "selesai atau terjadi berulang kali",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358657.jpeg",
+      "simplified": "经常",
+      "traditional": "經常",
+      "pinyin": "jīngcháng"
+    },
+    {
+      "id": 358658,
+      "translation": {
+        "en": {
+          "short": "infrequent",
+          "long": "occurring or happening at irregular intervals or rarely",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jarang",
+          "long": "terjadi atau terjadi pada interval yang tidak teratur atau jarang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358658.jpeg",
+      "simplified": "不常见的",
+      "traditional": "不常見的",
+      "pinyin": "bù chángjiàn de"
+    },
+    {
+      "id": 358642,
+      "translation": {
+        "en": {
+          "short": "hourly",
+          "long": "after every 60 minutes",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "per jam",
+          "long": "setiap 60 menit",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358642.jpeg",
+      "simplified": "每小时",
+      "traditional": "每小時",
+      "pinyin": "měi xiǎoshí"
+    },
+    {
+      "id": 358643,
+      "translation": {
+        "en": {
+          "short": "daily",
+          "long": "done, happening, or produced every day",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sehari-hari",
+          "long": "selesai, terjadi, atau diproduksi setiap hari",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358643.jpeg",
+      "simplified": "日常的",
+      "traditional": "日常的",
+      "pinyin": "rìcháng de"
+    },
+    {
+      "id": 358644,
+      "translation": {
+        "en": {
+          "short": "nightly",
+          "long": "on every night",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "malam",
+          "long": "di setiap malam",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358644.jpeg",
+      "simplified": "每晚",
+      "traditional": "每晚",
+      "pinyin": "měi wǎn"
+    },
+    {
+      "id": 358645,
+      "translation": {
+        "en": {
+          "short": "weekly",
+          "long": "happening or done every week",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mingguan",
+          "long": "terjadi atau dilakukan setiap minggu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358645.jpeg",
+      "simplified": "每周",
+      "traditional": "每週",
+      "pinyin": "měizhōu"
+    },
+    {
+      "id": 358646,
+      "translation": {
+        "en": {
+          "short": "monthly",
+          "long": "happening or done once every month",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bulanan",
+          "long": "terjadi atau dilakukan sekali setiap bulan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358646.jpeg",
+      "simplified": "每月",
+      "traditional": "每月",
+      "pinyin": "měiyuè"
+    },
+    {
+      "id": 358647,
+      "translation": {
+        "en": {
+          "short": "quarterly",
+          "long": "in three month intervals",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "triwulanan",
+          "long": "dalam interval tiga bulan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358647.jpeg",
+      "simplified": "季刊",
+      "traditional": "季刊",
+      "pinyin": "jìkān"
+    },
+    {
+      "id": 358648,
+      "translation": {
+        "en": {
+          "short": "yearly",
+          "long": "appearing or happening once a year",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tahunan",
+          "long": "muncul atau terjadi setahun sekali",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358648.jpeg",
+      "simplified": "每年",
+      "traditional": "每年",
+      "pinyin": "měinián"
+    },
+    {
+      "id": 358649,
+      "translation": {
+        "en": {
+          "short": "annual",
+          "long": "happening or calculated once every year",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tahunan",
+          "long": "terjadi atau dihitung sekali setiap tahun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358649.jpeg",
+      "simplified": "年度的",
+      "traditional": "年度的",
+      "pinyin": "niándù de"
+    },
+    {
+      "id": 358650,
+      "translation": {
+        "en": {
+          "short": "seasonal",
+          "long": "related to or happening during a particular season of the year",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "musiman",
+          "long": "terkait atau terjadi selama musim tertentu tahun ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358650.jpeg",
+      "simplified": "季节性的",
+      "traditional": "季節性的",
+      "pinyin": "jìjié xìng de"
+    },
+    {
+      "id": 358651,
+      "translation": {
+        "en": {
+          "short": "everyday",
+          "long": "happening or used each day",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "setiap hari",
+          "long": "terjadi atau digunakan setiap hari",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358651.jpeg",
+      "simplified": "日常的",
+      "traditional": "日常的",
+      "pinyin": "rìcháng de"
+    },
+    {
+      "id": 358652,
+      "translation": {
+        "en": {
+          "short": "periodic",
+          "long": "occurring or repeating at regular intervals",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berkala",
+          "long": "terjadi atau diulang secara berkala",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358652.jpeg",
+      "simplified": "周期性的",
+      "traditional": "週期性的",
+      "pinyin": "zhōuqī xìng de"
+    },
+    {
+      "id": 358653,
+      "translation": {
+        "en": {
+          "short": "circadian",
+          "long": "relating to the body's natural 24-hour cycle, affecting sleep patterns and other bodily functions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sirkadian",
+          "long": "Berkaitan dengan siklus 24 jam alami tubuh, mempengaruhi pola tidur dan fungsi tubuh lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358653.jpeg",
+      "simplified": "昼夜节律",
+      "traditional": "晝夜節律",
+      "pinyin": "zhòuyè jié lǜ"
+    },
+    {
+      "id": 358654,
+      "translation": {
+        "en": {
+          "short": "repetitive",
+          "long": "having elements or actions that occur in a repeated and predictable manner",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berulang",
+          "long": "memiliki elemen atau tindakan yang terjadi dengan cara yang diulang dan dapat diprediksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358654.jpeg",
+      "simplified": "重复的",
+      "traditional": "重複的",
+      "pinyin": "chóngfù de"
+    },
+    {
+      "id": 358655,
+      "translation": {
+        "en": {
+          "short": "recurrent",
+          "long": "repeatedly happening or reappearing over time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berulang",
+          "long": "berulang kali terjadi atau muncul kembali dari waktu ke waktu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358655.jpeg",
+      "simplified": "经常性的",
+      "traditional": "經常性的",
+      "pinyin": "jīngcháng xìng de"
+    },
+    {
+      "id": 358672,
+      "translation": {
+        "en": {
+          "short": "recurring",
+          "long": "happening repeatedly or returning from time to time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berulang",
+          "long": "terjadi berulang kali atau kembali dari waktu ke waktu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/358672.jpeg",
+      "simplified": "再次发生的",
+      "traditional": "再次發生的",
+      "pinyin": "zàicì fāshēng de"
+    },
+    {
+      "id": 360814,
+      "translation": {
+        "en": {
+          "short": "seldom",
+          "long": "rarely occurring or happening",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jarang",
+          "long": "jarang terjadi atau terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360814.jpeg",
+      "simplified": "很少",
+      "traditional": "很少",
+      "pinyin": "hěn shǎo"
+    }
+  ]
+}

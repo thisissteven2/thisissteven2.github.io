@@ -1,0 +1,659 @@
+{
+  "id": 1011,
+  "title": {
+    "en": "The Law",
+    "id": "Hukum"
+  },
+  "description": {
+    "en": "Here you will learn some English words about law, such as \"article\", \"waiver\", \"acquit\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang hukum, seperti \"artikel\", \"pengabaian\", \"membebaskan\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 243998,
+      "translation": {
+        "en": {
+          "short": "court of appeals",
+          "long": "in the US, a court of law that makes decisions regarding cases in which the lower court's judgment is contested",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengadilan banding",
+          "long": "Di AS, pengadilan yang membuat keputusan mengenai kasus -kasus di mana putusan pengadilan yang lebih rendah diperebutkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243998.jpeg",
+      "simplified": "上诉法院",
+      "traditional": "上訴法院",
+      "pinyin": "shàngsù fǎ yuàn"
+    },
+    {
+      "id": 244000,
+      "translation": {
+        "en": {
+          "short": "appellant",
+          "long": "a person who appeals in a higher court against a decision made in a lower court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemohon",
+          "long": "seseorang yang mengajukan banding di pengadilan yang lebih tinggi terhadap keputusan yang dibuat di pengadilan yang lebih rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244000.jpeg",
+      "simplified": "上诉人",
+      "traditional": "上訴人",
+      "pinyin": "shàngsù rén"
+    },
+    {
+      "id": 243999,
+      "translation": {
+        "en": {
+          "short": "article",
+          "long": "a paragraph or clause in a legal agreement or document that is separate from others and deals with something particular",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "artikel",
+          "long": "paragraf atau klausa dalam perjanjian hukum atau dokumen yang terpisah dari orang lain dan berurusan dengan sesuatu yang khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243999.jpeg",
+      "simplified": "文章",
+      "traditional": "文章",
+      "pinyin": "wénzhāng"
+    },
+    {
+      "id": 244004,
+      "translation": {
+        "en": {
+          "short": "subclause",
+          "long": "an additional part of a legal document",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subklausa",
+          "long": "Bagian tambahan dari dokumen hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244004.jpeg",
+      "simplified": "子条款",
+      "traditional": "子條款",
+      "pinyin": "zǐ tiáokuǎn"
+    },
+    {
+      "id": 243993,
+      "translation": {
+        "en": {
+          "short": "writ",
+          "long": "a legal document from a court or another legal authority that instructs someone on what to do or not to do",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surat perintah",
+          "long": "dokumen hukum dari pengadilan atau otoritas hukum lain yang menginstruksikan seseorang tentang apa yang harus dilakukan atau tidak dilakukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243993.jpeg",
+      "simplified": "令状",
+      "traditional": "令狀",
+      "pinyin": "lìngzhuàng"
+    },
+    {
+      "id": 243995,
+      "translation": {
+        "en": {
+          "short": "affidavit",
+          "long": "a written statement affirmed by oath that can be used as evidence in court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surat sumpah",
+          "long": "pernyataan tertulis yang ditegaskan oleh sumpah yang dapat digunakan sebagai bukti di pengadilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243995.jpeg",
+      "simplified": "宣誓书",
+      "traditional": "宣誓書",
+      "pinyin": "xuānshì shū"
+    },
+    {
+      "id": 243991,
+      "translation": {
+        "en": {
+          "short": "warrant",
+          "long": "an order issued by a judge that authorizes the police to take specific actions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjamin",
+          "long": "Perintah yang dikeluarkan oleh hakim yang memberi wewenang kepada polisi untuk mengambil tindakan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243991.jpeg",
+      "simplified": "法律依据",
+      "traditional": "法律依據",
+      "pinyin": "fǎlǜ yījù"
+    },
+    {
+      "id": 244001,
+      "translation": {
+        "en": {
+          "short": "plaintiff",
+          "long": "a person who brings a lawsuit against someone else in a court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggugat",
+          "long": "seseorang yang mengajukan gugatan terhadap orang lain di pengadilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244001.jpeg",
+      "simplified": "原告",
+      "traditional": "原告",
+      "pinyin": "yuángào"
+    },
+    {
+      "id": 244002,
+      "translation": {
+        "en": {
+          "short": "litigator",
+          "long": "a lawyer who specializes in bringing a lawsuit against people or organizations in a court of law",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "litigator",
+          "long": "Seorang pengacara yang berspesialisasi dalam mengajukan gugatan terhadap orang atau organisasi di pengadilan hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244002.jpeg",
+      "simplified": "诉讼人",
+      "traditional": "訴訟人",
+      "pinyin": "sùsòng rén"
+    },
+    {
+      "id": 244005,
+      "translation": {
+        "en": {
+          "short": "settlement",
+          "long": "an official agreement that puts an end to a dispute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hunian",
+          "long": "perjanjian resmi yang mengakhiri perselisihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244005.jpeg",
+      "simplified": "官方协议",
+      "traditional": "官方協議",
+      "pinyin": "guānfāng xiéyì"
+    },
+    {
+      "id": 244022,
+      "translation": {
+        "en": {
+          "short": "waiver",
+          "long": "an official statement according to which one gives up their legal right or claim",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengabaian",
+          "long": "pernyataan resmi yang menurutnya seseorang menyerahkan hak atau klaim hukum mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244022.jpeg",
+      "simplified": "放弃",
+      "traditional": "放棄",
+      "pinyin": "fàngqì"
+    },
+    {
+      "id": 244038,
+      "translation": {
+        "en": {
+          "short": "to nullify",
+          "long": "to legally invalidate an agreement, decision, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membatalkan",
+          "long": "Untuk secara hukum membatalkan perjanjian, keputusan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244038.jpeg",
+      "simplified": "废止",
+      "traditional": "廢止",
+      "pinyin": "fèizhǐ"
+    },
+    {
+      "id": 244039,
+      "translation": {
+        "en": {
+          "short": "to sanction",
+          "long": "to officially approve of something such as an action, change, practice, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk sanksi",
+          "long": "untuk secara resmi menyetujui sesuatu seperti tindakan, perubahan, latihan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244039.jpeg",
+      "simplified": "制裁",
+      "traditional": "制裁",
+      "pinyin": "zhìcái"
+    },
+    {
+      "id": 244040,
+      "translation": {
+        "en": {
+          "short": "to enforce",
+          "long": "to ensure that a law or rule is followed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memaksa",
+          "long": "untuk memastikan bahwa hukum atau aturan diikuti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244040.jpeg",
+      "simplified": "执行规则",
+      "traditional": "執行規則",
+      "pinyin": "zhíxíng guīzé"
+    },
+    {
+      "id": 244041,
+      "translation": {
+        "en": {
+          "short": "to issue",
+          "long": "to release an official document such as a statement, warrant, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menerbitkan",
+          "long": "Untuk merilis dokumen resmi seperti pernyataan, surat perintah, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244041.jpeg",
+      "simplified": "发出",
+      "traditional": "發出",
+      "pinyin": "fāchū"
+    },
+    {
+      "id": 244042,
+      "translation": {
+        "en": {
+          "short": "to acquit",
+          "long": "to officially decide and declare in a law court that someone is not guilty of a crime",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membebaskan",
+          "long": "untuk secara resmi memutuskan dan menyatakan di pengadilan hukum bahwa seseorang tidak bersalah atas kejahatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244042.jpeg",
+      "simplified": "无罪释放某人",
+      "traditional": "無罪釋放某人",
+      "pinyin": "wúzuì shìfàng mǒurén"
+    },
+    {
+      "id": 244043,
+      "translation": {
+        "en": {
+          "short": "to pardon",
+          "long": "to discharge a criminal from the legal consequences of a conviction or violation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengampuni",
+          "long": "untuk melepaskan penjahat dari konsekuensi hukum dari hukuman atau pelanggaran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244043.jpeg",
+      "simplified": "赦免",
+      "traditional": "赦免",
+      "pinyin": "shèmiǎn"
+    },
+    {
+      "id": 244044,
+      "translation": {
+        "en": {
+          "short": "to decree",
+          "long": "to make an official judgment, decision, or order",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keputusan",
+          "long": "untuk membuat penilaian, keputusan, atau ketertiban resmi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244044.jpeg",
+      "simplified": "发号施令",
+      "traditional": "發號施令",
+      "pinyin": "fāhào shī lìng"
+    },
+    {
+      "id": 244045,
+      "translation": {
+        "en": {
+          "short": "prosecution",
+          "long": "the process of bringing someone to court in an attempt to prove their guilt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penuntutan",
+          "long": "proses membawa seseorang ke pengadilan dalam upaya untuk membuktikan rasa bersalah mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244045.jpeg",
+      "simplified": "检察官",
+      "traditional": "檢察官",
+      "pinyin": "jiǎnchá guān"
+    },
+    {
+      "id": 244046,
+      "translation": {
+        "en": {
+          "short": "judiciary",
+          "long": "the part of a country's government that administers the legal system, including all its judges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengadilan",
+          "long": "Bagian dari pemerintah suatu negara yang mengelola sistem hukum, termasuk semua hakimnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244046.jpeg",
+      "simplified": "法官",
+      "traditional": "法官",
+      "pinyin": "fǎguān"
+    },
+    {
+      "id": 244048,
+      "translation": {
+        "en": {
+          "short": "to infringe",
+          "long": "to violate someone's rights or property",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melanggar",
+          "long": "untuk melanggar hak atau properti seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244048.jpeg",
+      "simplified": "违犯",
+      "traditional": "違犯",
+      "pinyin": "wéifàn"
+    },
+    {
+      "id": 244049,
+      "translation": {
+        "en": {
+          "short": "to overturn",
+          "long": "to reverse, abolish, or invalidate something, especially a legal decision",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membatalkan",
+          "long": "untuk membalikkan, menghapuskan, atau membatalkan sesuatu, terutama keputusan hukum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244049.jpeg",
+      "simplified": "颠覆",
+      "traditional": "顛覆",
+      "pinyin": "diānfù"
+    },
+    {
+      "id": 244050,
+      "translation": {
+        "en": {
+          "short": "to void",
+          "long": "to announce that something is no longer legally valid or binding",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membatalkan",
+          "long": "untuk mengumumkan bahwa ada sesuatu yang tidak lagi valid secara hukum atau mengikat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244050.jpeg",
+      "simplified": "废止",
+      "traditional": "廢止",
+      "pinyin": "fèizhǐ"
+    },
+    {
+      "id": 244073,
+      "translation": {
+        "en": {
+          "short": "conviction",
+          "long": "a formal declaration by which someone is found guilty of a crime in a court of law",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengakuan",
+          "long": "Deklarasi Formal dimana seseorang dinyatakan bersalah atas kejahatan di pengadilan hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244073.jpeg",
+      "simplified": "定罪",
+      "traditional": "定罪",
+      "pinyin": "dìngzuì"
+    },
+    {
+      "id": 244074,
+      "translation": {
+        "en": {
+          "short": "indictment",
+          "long": "a formal accusation of a crime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dakwaan",
+          "long": "tuduhan formal kejahatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244074.jpeg",
+      "simplified": "指控",
+      "traditional": "指控",
+      "pinyin": "zhǐkòng"
+    },
+    {
+      "id": 244076,
+      "translation": {
+        "en": {
+          "short": "validation",
+          "long": "the act of making something legally acceptable and the declaration of it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "validasi",
+          "long": "tindakan membuat sesuatu yang dapat diterima secara hukum dan deklarasi itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244076.jpeg",
+      "simplified": "验证",
+      "traditional": "驗證",
+      "pinyin": "yànzhèng"
+    },
+    {
+      "id": 244077,
+      "translation": {
+        "en": {
+          "short": "litigation",
+          "long": "the process of bringing a lawsuit to a court in order to obtain a judgment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "proses pengadilan",
+          "long": "Proses membawa gugatan ke pengadilan untuk mendapatkan putusan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244077.jpeg",
+      "simplified": "诉讼",
+      "traditional": "訴訟",
+      "pinyin": "sùsòng"
+    },
+    {
+      "id": 244078,
+      "translation": {
+        "en": {
+          "short": "to outlaw",
+          "long": "to officially state that something is illegal",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melarang",
+          "long": "untuk secara resmi menyatakan bahwa ada sesuatu yang ilegal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244078.jpeg",
+      "simplified": "取缔",
+      "traditional": "取締",
+      "pinyin": "qǔdì"
+    },
+    {
+      "id": 244079,
+      "translation": {
+        "en": {
+          "short": "to legislate",
+          "long": "to create or bring laws into effect through a formal process",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membuat undang -undang",
+          "long": "untuk membuat atau memberlakukan undang -undang melalui proses formal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244079.jpeg",
+      "simplified": "立法",
+      "traditional": "立法",
+      "pinyin": "lìfǎ"
+    },
+    {
+      "id": 244080,
+      "translation": {
+        "en": {
+          "short": "notary",
+          "long": "an official authorized to conduct particular legal formalities, especially to make documents legally acceptable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "notaris",
+          "long": "seorang pejabat yang berwenang untuk melakukan formalitas hukum tertentu, terutama untuk membuat dokumen dapat diterima secara hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244080.jpeg",
+      "simplified": "公证人",
+      "traditional": "公證人",
+      "pinyin": "gōngzhèng rén"
+    },
+    {
+      "id": 244081,
+      "translation": {
+        "en": {
+          "short": "legality",
+          "long": "the fact that something is in accordance with the law",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "legalitas",
+          "long": "fakta bahwa sesuatu sesuai dengan hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244081.jpeg",
+      "simplified": "合法性",
+      "traditional": "合法性",
+      "pinyin": "héfǎ xìng"
+    },
+    {
+      "id": 244082,
+      "translation": {
+        "en": {
+          "short": "to interrogate",
+          "long": "to question someone in an aggressive way for a long time in order to get information",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menginterogasi",
+          "long": "untuk menanyai seseorang dengan cara yang agresif untuk waktu yang lama untuk mendapatkan informasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244082.jpeg",
+      "simplified": "审问",
+      "traditional": "審問",
+      "pinyin": "shěnwèn"
+    },
+    {
+      "id": 244083,
+      "translation": {
+        "en": {
+          "short": "barrister",
+          "long": "a legal professional who is qualified and licensed to advocate on the behalf of clients in both lower and higher courts, primarily in Britain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengacara",
+          "long": "seorang profesional hukum yang memenuhi syarat dan berlisensi untuk mengadvokasi atas nama klien di pengadilan yang lebih rendah dan lebih tinggi, terutama di Inggris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244083.jpeg",
+      "simplified": "律师",
+      "traditional": "律師",
+      "pinyin": "lǜshī"
+    },
+    {
+      "id": 244349,
+      "translation": {
+        "en": {
+          "short": "to adjudicate",
+          "long": "to make a formal decision or judgment about who is right in an argument or dispute",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengadili",
+          "long": "untuk membuat keputusan atau penilaian formal tentang siapa yang benar dalam argumen atau perselisihan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244349.jpeg",
+      "simplified": "裁决某事",
+      "traditional": "裁決某事",
+      "pinyin": "cáijué mǒushì"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "id": 3184,
+  "title": {
+    "en": "Musical Ensembles",
+    "id": "Ansambel musik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to musical ensembles such as \"choir\", \"quartet\", and \"band\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan ansambel musik seperti \"paduan suara\", \"kuartet\", dan \"band\"."
+  },
+  "cards": [
+    {
+      "id": 320139,
+      "translation": {
+        "en": {
+          "short": "band",
+          "long": "a group of musicians and singers playing popular music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita",
+          "long": "sekelompok musisi dan penyanyi memainkan musik populer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320139.jpeg",
+      "simplified": "乐队",
+      "traditional": "樂隊",
+      "pinyin": "yuèduì"
+    },
+    {
+      "id": 320140,
+      "translation": {
+        "en": {
+          "short": "big band",
+          "long": "a large group of musicians playing jazz or dance music that usually features ensemble playing and solo improvisations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band besar",
+          "long": "Sekelompok besar musisi yang memainkan musik jazz atau dansa yang biasanya menampilkan bermain ensemble dan improvisasi solo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320140.jpeg",
+      "simplified": "大乐队",
+      "traditional": "大樂隊",
+      "pinyin": "dà yuèduì"
+    },
+    {
+      "id": 320141,
+      "translation": {
+        "en": {
+          "short": "choir",
+          "long": "a group of singers who perform together, particularly in religious ceremonies or in public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paduan suara",
+          "long": "sekelompok penyanyi yang tampil bersama, khususnya dalam upacara keagamaan atau di depan umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320141.jpeg",
+      "simplified": "唱诗班",
+      "traditional": "唱詩班",
+      "pinyin": "chàngshī bān"
+    },
+    {
+      "id": 320144,
+      "translation": {
+        "en": {
+          "short": "garage band",
+          "long": "an amateur group of people who play and practice rock music in a garage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Band Garasi",
+          "long": "sekelompok orang amatir yang bermain dan berlatih musik rock di garasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320144.jpeg",
+      "simplified": "车库乐队",
+      "traditional": "車庫樂隊",
+      "pinyin": "chēkù yuèduì"
+    },
+    {
+      "id": 320145,
+      "translation": {
+        "en": {
+          "short": "group",
+          "long": "a small number of musicians who gather together to perform or play pop music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelompok",
+          "long": "Sejumlah kecil musisi yang berkumpul bersama untuk melakukan atau memainkan musik pop",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320145.jpeg",
+      "simplified": "组",
+      "traditional": "組",
+      "pinyin": "Zǔ"
+    },
+    {
+      "id": 324561,
+      "translation": {
+        "en": {
+          "short": "duet",
+          "long": "two singers or performers who perform a piece of music together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "duet",
+          "long": "dua penyanyi atau pemain yang menampilkan musik bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324561.jpeg",
+      "simplified": "双人",
+      "traditional": "雙人",
+      "pinyin": "shuāngrén"
+    },
+    {
+      "id": 320172,
+      "translation": {
+        "en": {
+          "short": "trio",
+          "long": "a group consisting of three musicians or singers who perform together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trio",
+          "long": "kelompok yang terdiri dari tiga musisi atau penyanyi yang tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320172.jpeg",
+      "simplified": "队",
+      "traditional": "隊",
+      "pinyin": "duì"
+    },
+    {
+      "id": 320154,
+      "translation": {
+        "en": {
+          "short": "quartet",
+          "long": "a group consisting of four musicians or singers performing together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuartet",
+          "long": "grup yang terdiri dari empat musisi atau penyanyi tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320154.jpeg",
+      "simplified": "四重奏",
+      "traditional": "四重奏",
+      "pinyin": "sìchóng zòu"
+    },
+    {
+      "id": 321273,
+      "translation": {
+        "en": {
+          "short": "quintet",
+          "long": "a group consisting of five musicians or singers who perform together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kwintet",
+          "long": "kelompok yang terdiri dari lima musisi atau penyanyi yang tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321273.jpeg",
+      "simplified": "五重奏",
+      "traditional": "五重奏",
+      "pinyin": "wǔ chóngzòu"
+    },
+    {
+      "id": 320166,
+      "translation": {
+        "en": {
+          "short": "sextet",
+          "long": "a group consisting of six musicians or singers who perform together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik untuk enam orang",
+          "long": "kelompok yang terdiri dari enam musisi atau penyanyi yang tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320166.jpeg",
+      "simplified": "六重态",
+      "traditional": "六重態",
+      "pinyin": "liù chóng tài"
+    },
+    {
+      "id": 320163,
+      "translation": {
+        "en": {
+          "short": "septet",
+          "long": "a group consisting of seven musicians or singers who perform together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "septet",
+          "long": "grup yang terdiri dari tujuh musisi atau penyanyi yang tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320163.jpeg",
+      "simplified": "七重奏",
+      "traditional": "七重奏",
+      "pinyin": "qī chóngzòu"
+    },
+    {
+      "id": 320148,
+      "translation": {
+        "en": {
+          "short": "octet",
+          "long": "a group consisting of eight musicians or singers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "oktet",
+          "long": "kelompok yang terdiri dari delapan musisi atau penyanyi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320148.jpeg",
+      "simplified": "八位位组",
+      "traditional": "八位位組",
+      "pinyin": "bā wèi wèi Zǔ"
+    },
+    {
+      "id": 320147,
+      "translation": {
+        "en": {
+          "short": "nonet",
+          "long": "a group consisting of nine people or objects, especially nine musicians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nonet",
+          "long": "kelompok yang terdiri dari sembilan orang atau objek, terutama sembilan musisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320147.jpeg",
+      "simplified": "诺内特",
+      "traditional": "諾內特",
+      "pinyin": "nuò nèi tè"
+    },
+    {
+      "id": 320405,
+      "translation": {
+        "en": {
+          "short": "decet",
+          "long": "a  group of ten musicians who perform together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "decet",
+          "long": "sekelompok sepuluh musisi yang tampil bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320405.jpeg",
+      "simplified": "德塞特",
+      "traditional": "德塞特",
+      "pinyin": "Dé Sāi tè"
+    },
+    {
+      "id": 320151,
+      "translation": {
+        "en": {
+          "short": "orchestra",
+          "long": "a group of musicians playing various instruments gathered and organized to perform a classic piece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orkestra",
+          "long": "Sekelompok musisi yang memainkan berbagai instrumen berkumpul dan terorganisir untuk melakukan karya klasik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320151.jpeg",
+      "simplified": "乐队",
+      "traditional": "樂隊",
+      "pinyin": "yuèduì"
+    },
+    {
+      "id": 320167,
+      "translation": {
+        "en": {
+          "short": "supergroup",
+          "long": "a successful rock band consisting of musicians who have already become famous in other bands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Supergroup",
+          "long": "band rock yang sukses yang terdiri dari musisi yang telah menjadi terkenal di band lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320167.jpeg",
+      "simplified": "超群",
+      "traditional": "超群",
+      "pinyin": "chāoqún"
+    },
+    {
+      "id": 320168,
+      "translation": {
+        "en": {
+          "short": "tribute band",
+          "long": "a group of musicians who perform the music of a well-known band, imitating their musical and fashion style",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Band Tribute",
+          "long": "Sekelompok musisi yang menampilkan musik band terkenal, meniru gaya musik dan mode mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320168.jpeg",
+      "simplified": "致敬乐队",
+      "traditional": "致敬樂隊",
+      "pinyin": "zhìjìng yuèduì"
+    },
+    {
+      "id": 320174,
+      "translation": {
+        "en": {
+          "short": "boy band",
+          "long": "a musical group composed of young male singers who typically perform pop or R&B music, often with synchronized dance routines and a carefully cultivated image",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Boy band",
+          "long": "Grup musik yang terdiri dari penyanyi pria muda yang biasanya menampilkan musik pop atau R&B, seringkali dengan rutinitas tarian yang disinkronkan dan gambar yang dibudidayakan dengan cermat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320174.jpeg",
+      "simplified": "男孩乐队",
+      "traditional": "男孩樂隊",
+      "pinyin": "nánhái yuè duì"
+    },
+    {
+      "id": 320175,
+      "translation": {
+        "en": {
+          "short": "brass band",
+          "long": "a musical ensemble primarily composed of brass instruments, often accompanied by percussion, and playing a variety of musical genres",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band kuningan",
+          "long": "Sebuah ansambel musik yang terutama terdiri dari instrumen kuningan, sering disertai dengan perkusi, dan memainkan berbagai genre musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320175.jpeg",
+      "simplified": "铜管乐队",
+      "traditional": "銅管樂隊",
+      "pinyin": "tóngguǎn yuèduì"
+    },
+    {
+      "id": 320176,
+      "translation": {
+        "en": {
+          "short": "chamber orchestra",
+          "long": "a small orchestra comprising a limited number of musicians, often one player per part",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orkestra kamar",
+          "long": "Orkestra kecil yang terdiri dari sejumlah musisi, seringkali satu pemain per bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320176.jpeg",
+      "simplified": "室内乐团",
+      "traditional": "室內樂團",
+      "pinyin": "shìnèi yuè tuán"
+    },
+    {
+      "id": 320207,
+      "translation": {
+        "en": {
+          "short": "dance band",
+          "long": "a musical ensemble, specializing in performing music suitable for dancing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Band dansa",
+          "long": "ansambel musik, yang berspesialisasi dalam pertunjukan musik yang cocok untuk menari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320207.jpeg",
+      "simplified": "舞蹈乐队",
+      "traditional": "舞蹈樂隊",
+      "pinyin": "wǔdǎo yuèduì"
+    },
+    {
+      "id": 320209,
+      "translation": {
+        "en": {
+          "short": "gamelan",
+          "long": "a traditional Indonesian percussion ensemble comprising metallophones, xylophones, drums, and gongs, used in ceremonial and cultural events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gamelan",
+          "long": "Sebuah ansambel perkusi tradisional Indonesia yang terdiri dari metalofon, xilofon, drum, dan gong, digunakan dalam acara upacara dan budaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320209.jpeg",
+      "simplified": "加麦兰",
+      "traditional": "加麥蘭",
+      "pinyin": "Jiā Mài Lán"
+    },
+    {
+      "id": 320213,
+      "translation": {
+        "en": {
+          "short": "glee club",
+          "long": "a musical ensemble, typically consisting of vocalists, that performs choral music, often in a formal or academic setting, and may include arrangements of popular songs or show tunes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Klub Glee",
+          "long": "Sebuah ansambel musik, biasanya terdiri dari vokalis, yang menampilkan musik paduan suara, seringkali dalam pengaturan formal atau akademik, dan dapat mencakup pengaturan lagu -lagu populer atau menampilkan lagu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320213.jpeg",
+      "simplified": "欢乐合唱团",
+      "traditional": "歡樂合唱團",
+      "pinyin": "huānlè héchàng tuán"
+    },
+    {
+      "id": 320220,
+      "translation": {
+        "en": {
+          "short": "marching band",
+          "long": "a group of instrumental musicians, often brass and percussion, who perform while marching in parades or events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "marching band",
+          "long": "sekelompok musisi instrumental, sering kali kuningan dan perkusi, yang tampil saat berbaris di parade atau acara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320220.jpeg",
+      "simplified": "军乐队",
+      "traditional": "軍樂隊",
+      "pinyin": "jūnyuè duì"
+    },
+    {
+      "id": 320230,
+      "translation": {
+        "en": {
+          "short": "steel band",
+          "long": "a musical ensemble from Trinidad and Tobago, consisting of steel drums played with mallets or sticks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita baja",
+          "long": "Sebuah ansambel musik dari Trinidad dan Tobago, yang terdiri dari drum baja yang dimainkan dengan palu atau tongkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320230.jpeg",
+      "simplified": "钢带",
+      "traditional": "鋼帶",
+      "pinyin": "gāng dài"
+    },
+    {
+      "id": 320296,
+      "translation": {
+        "en": {
+          "short": "girl group",
+          "long": "a musical ensemble consisting of female vocalists who perform together, often with choreographed dance routines, and typically focusing on pop, R&B, or other contemporary music genres",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelompok gadis",
+          "long": "Sebuah ansambel musik yang terdiri dari vokalis wanita yang tampil bersama, seringkali dengan rutinitas tarian koreografi, dan biasanya berfokus pada pop, R&B, atau genre musik kontemporer lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320296.jpeg",
+      "simplified": "女子组合",
+      "traditional": "女子組合",
+      "pinyin": "nǚzǐ zǔhé"
+    },
+    {
+      "id": 320338,
+      "translation": {
+        "en": {
+          "short": "men's chorus",
+          "long": "a musical ensemble consisting of male vocalists who perform together, often with harmonized singing, and typically focusing on choral music or a cappella arrangements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paduan Suara Pria",
+          "long": "Sebuah ansambel musik yang terdiri dari vokalis pria yang tampil bersama, seringkali dengan nyanyian yang diselaraskan, dan biasanya berfokus pada musik paduan suara atau pengaturan cappella",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320338.jpeg",
+      "simplified": "男子合唱团",
+      "traditional": "男子合唱團",
+      "pinyin": "nánzǐ héchàng tuán"
+    },
+    {
+      "id": 320341,
+      "translation": {
+        "en": {
+          "short": "military band",
+          "long": "a musical ensemble from a military organization, typically playing brass, woodwind, and percussion instruments for ceremonial and entertainment purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band militer",
+          "long": "Sebuah ansambel musik dari organisasi militer, biasanya bermain instrumen kuningan, kayu, dan perkusi untuk tujuan upacara dan hiburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320341.jpeg",
+      "simplified": "军乐队",
+      "traditional": "軍樂隊",
+      "pinyin": "jūnyuè duì"
+    },
+    {
+      "id": 320248,
+      "translation": {
+        "en": {
+          "short": "string quartet",
+          "long": "a musical ensemble consisting of four stringed instruments, typically two violins, a viola, and a cello, that play music arranged or composed for this combination of instruments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "string Quartet",
+          "long": "Sebuah ansambel musik yang terdiri dari empat instrumen senar, biasanya dua biola, biola, dan selo, yang memutar musik yang diatur atau disusun untuk kombinasi instrumen ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320248.jpeg",
+      "simplified": "弦乐四重奏",
+      "traditional": "弦樂四重奏",
+      "pinyin": "xiányuè sìchóng zòu"
+    },
+    {
+      "id": 320251,
+      "translation": {
+        "en": {
+          "short": "symphony orchestra",
+          "long": "a large ensemble of musicians playing symphonic music, led by a conductor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Simfoni orkestra",
+          "long": "Sebuah ansambel besar musisi memainkan musik simfonik, dipimpin oleh seorang konduktor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320251.jpeg",
+      "simplified": "交响乐队",
+      "traditional": "交響樂隊",
+      "pinyin": "jiāoxiǎng yuè duì"
+    },
+    {
+      "id": 320354,
+      "translation": {
+        "en": {
+          "short": "percussion ensemble",
+          "long": "a group of percussion instruments played together in a coordinated manner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ensemble Perkusi",
+          "long": "Sekelompok instrumen perkusi dimainkan bersama secara terkoordinasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320354.jpeg",
+      "simplified": "打击乐团",
+      "traditional": "打擊樂團",
+      "pinyin": "dǎjī yuètuán"
+    },
+    {
+      "id": 320387,
+      "translation": {
+        "en": {
+          "short": "cover band",
+          "long": "a band that performs songs by other artists, usually replicating their style and arrangements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band penutup",
+          "long": "sebuah band yang menampilkan lagu oleh artis lain, biasanya mereplikasi gaya dan pengaturan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320387.jpeg",
+      "simplified": "翻唱乐队",
+      "traditional": "翻唱樂隊",
+      "pinyin": "fānchàng yuèduì"
+    },
+    {
+      "id": 320411,
+      "translation": {
+        "en": {
+          "short": "rock band",
+          "long": "a musical group consisting of musicians who play rock music, typically including electric guitar, bass guitar, drums, and vocals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "band rock",
+          "long": "Grup musik yang terdiri dari musisi yang memainkan musik rock, biasanya termasuk gitar listrik, gitar bass, drum, dan vokal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320411.jpeg",
+      "simplified": "摇滚乐队",
+      "traditional": "搖滾樂團",
+      "pinyin": "yáogǔn yuè duì"
+    },
+    {
+      "id": 320600,
+      "translation": {
+        "en": {
+          "short": "mariachi",
+          "long": "a group of musicians that perform Mexican folk music in a small group usually consisting of trumpeters, guitarists and violinists dressed in traditional costumes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mariachi",
+          "long": "Sekelompok musisi yang menampilkan musik rakyat Meksiko dalam kelompok kecil yang biasanya terdiri dari trompet, gitaris, dan pemain biola yang mengenakan kostum tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320600.jpeg",
+      "simplified": "流浪乐队",
+      "traditional": "流浪樂隊",
+      "pinyin": "liúlàng yuèduì"
+    },
+    {
+      "id": 320891,
+      "translation": {
+        "en": {
+          "short": "chorus",
+          "long": "a group of dancers and singers who perform in a musical show, typically providing supporting or background roles and enhancing the main performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paduan suara",
+          "long": "Sekelompok penari dan penyanyi yang tampil dalam pertunjukan musik, biasanya memberikan peran pendukung atau latar belakang dan meningkatkan kinerja utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/320891.jpeg",
+      "simplified": "合唱",
+      "traditional": "合唱",
+      "pinyin": "héchàng"
+    }
+  ]
+}

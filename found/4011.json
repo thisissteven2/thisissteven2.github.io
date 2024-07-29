@@ -1,0 +1,811 @@
+{
+  "id": 4011,
+  "title": {
+    "en": "Plumbing System",
+    "id": "Sistem Plumbing"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the plumbing system such as \"sewer\", \"drain\", and \"pipework\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan sistem pipa seperti \"saluran pembuangan\", \"tiriskan\", dan \"pipa\"."
+  },
+  "cards": [
+    {
+      "id": 348745,
+      "translation": {
+        "en": {
+          "short": "downspout",
+          "long": "a vertical pipe attached to a building which carries away rainwater from the roof to the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "downspout",
+          "long": "Pipa vertikal yang melekat pada bangunan yang membawa air hujan dari atap ke tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348745.jpeg",
+      "simplified": "落水",
+      "traditional": "落水",
+      "pinyin": "luòshuǐ"
+    },
+    {
+      "id": 348746,
+      "translation": {
+        "en": {
+          "short": "sewer",
+          "long": "a system of underground pipes and tunnels used to carry away used water and waste matter from houses, factories, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selokan",
+          "long": "Sistem pipa bawah tanah dan terowongan yang digunakan untuk membawa air bekas dan limbah dari rumah, pabrik, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348746.jpeg",
+      "simplified": "下水道",
+      "traditional": "下水道",
+      "pinyin": "xiàshuǐ dào"
+    },
+    {
+      "id": 348747,
+      "translation": {
+        "en": {
+          "short": "pipework",
+          "long": "the pipes of a building or machine that carry water, gas, or oil",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pipework",
+          "long": "Pipa bangunan atau mesin yang membawa air, gas, atau minyak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348747.jpeg",
+      "simplified": "管道工程",
+      "traditional": "管道工程",
+      "pinyin": "guǎndào gōngchéng"
+    },
+    {
+      "id": 348762,
+      "translation": {
+        "en": {
+          "short": "blockage",
+          "long": "the obstruction or partial restriction of a passage, such as a pipe, duct, or pathway, preventing the smooth flow of air, fluid, or other substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halangan",
+          "long": "Obstruksi atau pembatasan parsial dari suatu bagian, seperti pipa, saluran, atau jalur, mencegah aliran udara, cairan, atau zat lain yang halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348762.jpeg",
+      "simplified": "阻止",
+      "traditional": "阻止",
+      "pinyin": "zǔzhǐ"
+    },
+    {
+      "id": 348765,
+      "translation": {
+        "en": {
+          "short": "cesspit",
+          "long": "an underground tank used for the temporary storage of sewage or wastewater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limbahan",
+          "long": "Tangki bawah tanah yang digunakan untuk penyimpanan sementara limbah atau air limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348765.jpeg",
+      "simplified": "粪坑",
+      "traditional": "糞坑",
+      "pinyin": "fènkēng"
+    },
+    {
+      "id": 348768,
+      "translation": {
+        "en": {
+          "short": "cutoff",
+          "long": "a valve, gate, or device that is used to stop or control the flow of fluid or gas within a pipe or conduit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memotong",
+          "long": "katup, gerbang, atau perangkat yang digunakan untuk menghentikan atau mengontrol aliran fluida atau gas di dalam pipa atau saluran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348768.jpeg",
+      "simplified": "截止",
+      "traditional": "截止",
+      "pinyin": "jiézhǐ"
+    },
+    {
+      "id": 348769,
+      "translation": {
+        "en": {
+          "short": "drain",
+          "long": "a pipe in the bottom of a sink, bath, etc. through which dirty water flows out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengeringkan",
+          "long": "Pipa di bagian bawah wastafel, mandi, dll. Melalui air kotor mengalir keluar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348769.jpeg",
+      "simplified": "流走",
+      "traditional": "流走",
+      "pinyin": "liú zǒu"
+    },
+    {
+      "id": 348770,
+      "translation": {
+        "en": {
+          "short": "drainage",
+          "long": "the process of removing excess water or other liquids from an area or system, typically through a network of pipes, channels, or natural slopes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drainase",
+          "long": "Proses menghilangkan kelebihan air atau cairan lain dari suatu area atau sistem, biasanya melalui jaringan pipa, saluran, atau lereng alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348770.jpeg",
+      "simplified": "引流",
+      "traditional": "引流",
+      "pinyin": "yǐnliú"
+    },
+    {
+      "id": 348771,
+      "translation": {
+        "en": {
+          "short": "drainpipe",
+          "long": "a pipe installed in a building's plumbing system that carries wastewater or excess water away from the structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tiriskanpipe",
+          "long": "Pipa yang dipasang di sistem pipa ledeng bangunan yang membawa air limbah atau kelebihan air dari struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348771.jpeg",
+      "simplified": "排水管",
+      "traditional": "排水管",
+      "pinyin": "páishuǐ guǎn"
+    },
+    {
+      "id": 348772,
+      "translation": {
+        "en": {
+          "short": "duct",
+          "long": "a hollow conduit or passage that is used for the distribution, circulation, or ventilation of air, gases, or other substances within a building or system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran",
+          "long": "saluran atau saluran berongga yang digunakan untuk distribusi, sirkulasi, atau ventilasi udara, gas, atau zat lain di dalam bangunan atau sistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348772.jpeg",
+      "simplified": "管",
+      "traditional": "管",
+      "pinyin": "guǎn"
+    },
+    {
+      "id": 348774,
+      "translation": {
+        "en": {
+          "short": "ducting",
+          "long": "the system of pipes, channels, or conduits used to convey or distribute air, gases, or other substances within a building, HVAC (heating, ventilation, and air conditioning) system, or industrial setup",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ducting",
+          "long": "Sistem pipa, saluran, atau saluran yang digunakan untuk menyampaikan atau mendistribusikan udara, gas, atau zat lain di dalam sistem bangunan, HVAC (pemanas, ventilasi, dan pendingin udara, atau pengaturan industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348774.jpeg",
+      "simplified": "管道",
+      "traditional": "管道",
+      "pinyin": "guǎndào"
+    },
+    {
+      "id": 348778,
+      "translation": {
+        "en": {
+          "short": "fatberg",
+          "long": "a large congealed mass or blockage in a sewer system that is primarily composed of fats, oils, grease, and non-biodegradable items that have been flushed down drains or toilets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fatberg",
+          "long": "Massa atau penyumbatan yang besar dalam sistem saluran pembuangan yang terutama terdiri dari lemak, minyak, minyak, dan barang-barang yang tidak terbiodegradasi yang telah disiram saluran air atau toilet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348778.jpeg",
+      "simplified": "法特伯格",
+      "traditional": "法特伯格",
+      "pinyin": "fǎ tè bà gé"
+    },
+    {
+      "id": 348779,
+      "translation": {
+        "en": {
+          "short": "faucet",
+          "long": "an object that controls the flow of liquid or gas from a container or pipe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keran",
+          "long": "objek yang mengontrol aliran cairan atau gas dari wadah atau pipa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348779.jpeg",
+      "simplified": "龙头",
+      "traditional": "龍頭",
+      "pinyin": "lóngtóu"
+    },
+    {
+      "id": 348780,
+      "translation": {
+        "en": {
+          "short": "gutter",
+          "long": "an open pipe that is attached beneath the edge of a building roof and carries rainwater away",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selokan",
+          "long": "Pipa terbuka yang terpasang di bawah tepi atap bangunan dan membawa air hujan pergi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348780.jpeg",
+      "simplified": "屋顶天沟",
+      "traditional": "屋頂天溝",
+      "pinyin": "wūdǐng tiāngōu"
+    },
+    {
+      "id": 348781,
+      "translation": {
+        "en": {
+          "short": "main",
+          "long": "a large pipe through which water or gas is carried to a building; a wire by which electricity is carried to a building or house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "utama",
+          "long": "pipa besar di mana air atau gas dibawa ke sebuah bangunan; kawat di mana listrik dibawa ke gedung atau rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348781.jpeg",
+      "simplified": "主要的",
+      "traditional": "主要的",
+      "pinyin": "zhǔyào de"
+    },
+    {
+      "id": 348782,
+      "translation": {
+        "en": {
+          "short": "outfall",
+          "long": "a point or location where water or another substance is discharged or flows out from a system, such as a drainage system, sewer, or wastewater treatment plant, into a body of water or the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "muara sungai",
+          "long": "titik atau lokasi di mana air atau zat lain dibuang atau mengalir keluar dari suatu sistem, seperti sistem drainase, saluran pembuangan, atau pabrik pengolahan air limbah, ke dalam badan air atau lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348782.jpeg",
+      "simplified": "出口",
+      "traditional": "出口",
+      "pinyin": "chūkǒu"
+    },
+    {
+      "id": 348783,
+      "translation": {
+        "en": {
+          "short": "drainage system",
+          "long": "a network of pipes, channels, and structures designed to collect and channel excess water, wastewater, or other liquids away from an area or a property",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem drainase",
+          "long": "Jaringan pipa, saluran, dan struktur yang dirancang untuk mengumpulkan dan menyalurkan air berlebih, air limbah, atau cairan lain yang jauh dari suatu daerah atau properti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348783.jpeg",
+      "simplified": "排水系统",
+      "traditional": "排水系統",
+      "pinyin": "páishuǐ xìtǒng"
+    },
+    {
+      "id": 348786,
+      "translation": {
+        "en": {
+          "short": "leakage",
+          "long": "the unintended or accidental escape or loss of a substance, typically a liquid or gas, from a container, system, or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebocoran",
+          "long": "Escape atau kehilangan zat yang tidak disengaja atau tidak disengaja, biasanya cairan atau gas, dari wadah, sistem, atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348786.jpeg",
+      "simplified": "泄漏",
+      "traditional": "洩漏",
+      "pinyin": "xièlòu"
+    },
+    {
+      "id": 348788,
+      "translation": {
+        "en": {
+          "short": "pipe",
+          "long": "a cylindrical hollow tube or conduit typically made of metal, plastic, or other materials, used for the transportation of fluids, gases, or other substances from one place to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa",
+          "long": "Tabung berongga silinder atau saluran biasanya terbuat dari logam, plastik, atau bahan lainnya, digunakan untuk pengangkutan cairan, gas, atau zat lain dari satu tempat ke tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348788.jpeg",
+      "simplified": "管",
+      "traditional": "管",
+      "pinyin": "guǎn"
+    },
+    {
+      "id": 348789,
+      "translation": {
+        "en": {
+          "short": "pipeline",
+          "long": "a system of interconnected pipes used for the transport of liquids, gases, or other substances over long distances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa",
+          "long": "Sistem pipa yang saling berhubungan yang digunakan untuk pengangkutan cairan, gas, atau zat lain dari jarak jauh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348789.jpeg",
+      "simplified": "管道",
+      "traditional": "管道",
+      "pinyin": "guǎndào"
+    },
+    {
+      "id": 348790,
+      "translation": {
+        "en": {
+          "short": "running water",
+          "long": "water that is brought into a house, building, etc. through pipes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air mengalir",
+          "long": "air yang dibawa ke rumah, bangunan, dll. Melalui pipa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348790.jpeg",
+      "simplified": "自来水",
+      "traditional": "自來水",
+      "pinyin": "zìlái shuǐ"
+    },
+    {
+      "id": 348791,
+      "translation": {
+        "en": {
+          "short": "septic tank",
+          "long": "an underground container that treats household wastewater by allowing solids to settle and separate from the liquid before further treatment or absorption into the soil",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangki kotoran",
+          "long": "wadah bawah tanah yang mengolah air limbah rumah tangga dengan memungkinkan padatan untuk mengendap dan terpisah dari cairan sebelum pengolahan atau penyerapan lebih lanjut ke dalam tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348791.jpeg",
+      "simplified": "化粪池",
+      "traditional": "化糞池",
+      "pinyin": "huàfèn chí"
+    },
+    {
+      "id": 348792,
+      "translation": {
+        "en": {
+          "short": "sewage",
+          "long": "the wastewater or used water that contains various types of contaminants, including human and household waste, from residential, commercial, or industrial sources",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyaluran pecomberan",
+          "long": "Air limbah atau air bekas yang berisi berbagai jenis kontaminan, termasuk limbah manusia dan rumah tangga, dari sumber perumahan, komersial, atau industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348792.jpeg",
+      "simplified": "濊",
+      "traditional": "濊",
+      "pinyin": "huì"
+    },
+    {
+      "id": 348793,
+      "translation": {
+        "en": {
+          "short": "sluice",
+          "long": "a channel or gate that is used to control or redirect the flow of water. It typically consists of a barrier that can be opened or closed to regulate the passage of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu air",
+          "long": "saluran atau gerbang yang digunakan untuk mengontrol atau mengarahkan kembali aliran air. Biasanya terdiri dari penghalang yang dapat dibuka atau ditutup untuk mengatur bagian air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348793.jpeg",
+      "simplified": "水闸",
+      "traditional": "水閘",
+      "pinyin": "shuǐzhá"
+    },
+    {
+      "id": 348794,
+      "translation": {
+        "en": {
+          "short": "spigot",
+          "long": "a valve or tap that is used to control the release of water from a pipe or container",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keran",
+          "long": "katup atau keran yang digunakan untuk mengontrol pelepasan air dari pipa atau wadah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348794.jpeg",
+      "simplified": "塞子",
+      "traditional": "塞子",
+      "pinyin": "sāizi"
+    },
+    {
+      "id": 348795,
+      "translation": {
+        "en": {
+          "short": "standpipe",
+          "long": "a vertical pipe or fixture connected to a water supply system, typically equipped with valves or outlets, used for firefighting purposes or as a source of water in buildings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "standpipe",
+          "long": "Pipa atau perlengkapan vertikal yang terhubung ke sistem pasokan air, biasanya dilengkapi dengan katup atau outlet, digunakan untuk keperluan pemadam kebakaran atau sebagai sumber air di dalam bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348795.jpeg",
+      "simplified": "立管",
+      "traditional": "立管",
+      "pinyin": "Lì guǎn"
+    },
+    {
+      "id": 348796,
+      "translation": {
+        "en": {
+          "short": "stopcock",
+          "long": "a valve or faucet used to control or shut off the flow of water or other fluids in a plumbing system, typically located at a point where pipes connect or branch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kunci pipa",
+          "long": "katup atau keran yang digunakan untuk mengontrol atau mematikan aliran air atau cairan lain dalam sistem pipa ledeng, biasanya terletak di titik di mana pipa terhubung atau cabang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348796.jpeg",
+      "simplified": "旋塞阀",
+      "traditional": "旋塞閥",
+      "pinyin": "xuán Sāi fá"
+    },
+    {
+      "id": 348798,
+      "translation": {
+        "en": {
+          "short": "valve",
+          "long": "a mechanical device that controls or regulates the flow of fluids, such as liquids, gases, or slurries, by opening, closing, or partially obstructing passageways within a pipe or system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "katup",
+          "long": "Perangkat mekanis yang mengontrol atau mengatur aliran cairan, seperti cairan, gas, atau bubur, dengan membuka, menutup, atau menghambat sebagian lorong dalam pipa atau sistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348798.jpeg",
+      "simplified": "阀门",
+      "traditional": "閥門",
+      "pinyin": "fámén"
+    },
+    {
+      "id": 348800,
+      "translation": {
+        "en": {
+          "short": "sump",
+          "long": "a pit or reservoir typically found in the basement or lower level of a building that collects excess water or liquid, such as groundwater, rainwater, or wastewater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bah",
+          "long": "Pit atau reservoir yang biasanya ditemukan di ruang bawah tanah atau tingkat bawah bangunan yang mengumpulkan kelebihan air atau cairan, seperti air tanah, air hujan, atau air limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348800.jpeg",
+      "simplified": "油盘",
+      "traditional": "油盤",
+      "pinyin": "yóu pán"
+    },
+    {
+      "id": 348801,
+      "translation": {
+        "en": {
+          "short": "waste pipe",
+          "long": "a pipe within a building's plumbing system that carries wastewater from plumbing fixtures, such as sinks, toilets, or showers, to the main drainage system or septic tank for proper disposal or treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa limbah",
+          "long": "Pipa di dalam sistem pipa ledeng bangunan yang membawa air limbah dari perlengkapan pipa, seperti wastafel, toilet, atau pancuran, ke sistem drainase utama atau tangki septik untuk pembuangan atau perawatan yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348801.jpeg",
+      "simplified": "废水管",
+      "traditional": "廢水管",
+      "pinyin": "fèishuǐ guǎn"
+    },
+    {
+      "id": 348802,
+      "translation": {
+        "en": {
+          "short": "water main",
+          "long": "a large underground pipe that delivers potable water from a water treatment plant or other water source to individual buildings or communities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air utama",
+          "long": "Pipa bawah tanah besar yang mengantarkan air minum dari pabrik pengolahan air atau sumber air lainnya ke bangunan atau komunitas individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348802.jpeg",
+      "simplified": "输水道",
+      "traditional": "輸水道",
+      "pinyin": "shū shuǐdào"
+    },
+    {
+      "id": 348803,
+      "translation": {
+        "en": {
+          "short": "waterworks",
+          "long": "the infrastructure and facilities responsible for supplying clean water and managing wastewater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bangunan air",
+          "long": "Infrastruktur dan fasilitas yang bertanggung jawab untuk memasok air bersih dan mengelola air limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348803.jpeg",
+      "simplified": "喷水装置",
+      "traditional": "噴水裝置",
+      "pinyin": "pēn Shuǐ zhuāngzhì"
+    },
+    {
+      "id": 348804,
+      "translation": {
+        "en": {
+          "short": "plumbing",
+          "long": "the system of pipes for the distribution of water in a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa saluran air",
+          "long": "Sistem pipa untuk distribusi air di sebuah bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348804.jpeg",
+      "simplified": "管道",
+      "traditional": "管道",
+      "pinyin": "guǎndào"
+    },
+    {
+      "id": 348805,
+      "translation": {
+        "en": {
+          "short": "plumbing fixture",
+          "long": "a device or appliance connected to a plumbing system that is used for a specific function related to water supply or drainage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perlengkapan pipa",
+          "long": "Perangkat atau alat yang terhubung ke sistem pipa yang digunakan untuk fungsi tertentu yang terkait dengan pasokan atau drainase air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348805.jpeg",
+      "simplified": "管道装置",
+      "traditional": "管道裝置",
+      "pinyin": "guǎndào zhuāngzhì"
+    },
+    {
+      "id": 350545,
+      "translation": {
+        "en": {
+          "short": "pipe fitting",
+          "long": "a component used in plumbing and construction to join, redirect, or control the flow of fluids or gases in a piping system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fitting pipa",
+          "long": "Komponen yang digunakan dalam pipa ledeng dan konstruksi untuk bergabung, mengarahkan, atau mengontrol aliran cairan atau gas dalam sistem perpipaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350545.jpeg",
+      "simplified": "管道配件",
+      "traditional": "管道配件",
+      "pinyin": "guǎndào pèijiàn"
+    },
+    {
+      "id": 348806,
+      "translation": {
+        "en": {
+          "short": "urinal",
+          "long": "a plumbing fixture specifically designed for the purpose of urination. It is typically found in public restrooms and is designed to be used by males",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkemihan",
+          "long": "Perlengkapan pipa yang dirancang khusus untuk tujuan buang air kecil. Biasanya ditemukan di toilet umum dan dirancang untuk digunakan oleh laki -laki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348806.jpeg",
+      "simplified": "便池",
+      "traditional": "便池",
+      "pinyin": "biànchí"
+    },
+    {
+      "id": 348807,
+      "translation": {
+        "en": {
+          "short": "sink",
+          "long": "a large and open container that has a water supply and you can use to wash your hands, dishes, etc. in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenggelam",
+          "long": "wadah besar dan terbuka yang memiliki persediaan air dan Anda dapat menggunakan untuk mencuci tangan, piring, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348807.jpeg",
+      "simplified": "厨房水槽",
+      "traditional": "廚房水槽",
+      "pinyin": "chúfáng shuǐcáo"
+    },
+    {
+      "id": 348808,
+      "translation": {
+        "en": {
+          "short": "laundry sink",
+          "long": "a type of sink that is specifically designed for use in laundry rooms or areas where clothes are washed or laundered",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wastafel cucian",
+          "long": "Jenis wastafel yang secara khusus dirancang untuk digunakan di kamar binatu atau area di mana pakaian dicuci atau dicuci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348808.jpeg",
+      "simplified": "洗衣池",
+      "traditional": "洗衣池",
+      "pinyin": "xǐyī Chí"
+    },
+    {
+      "id": 348809,
+      "translation": {
+        "en": {
+          "short": "toilet",
+          "long": "the seat we use for getting rid of bodily waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toilet",
+          "long": "Kursi yang kami gunakan untuk menyingkirkan limbah tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348809.jpeg",
+      "simplified": "厕所",
+      "traditional": "廁所",
+      "pinyin": "cèsuǒ"
+    },
+    {
+      "id": 348810,
+      "translation": {
+        "en": {
+          "short": "shower",
+          "long": "a piece of equipment that flows water all over your body from above",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandi",
+          "long": "sepotong peralatan yang mengalir air ke seluruh tubuh Anda dari atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348810.jpeg",
+      "simplified": "淋浴",
+      "traditional": "淋浴",
+      "pinyin": "línyù"
+    },
+    {
+      "id": 350542,
+      "translation": {
+        "en": {
+          "short": "male pipe",
+          "long": "a type of pipe fitting that has external threads on the outer surface, designed to be inserted into a corresponding female pipe fitting with internal threads to create a secure and sealed connection for the flow of fluids or gases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa pria",
+          "long": "Jenis pemasangan pipa yang memiliki benang eksternal pada permukaan luar, yang dirancang untuk dimasukkan ke dalam pemasangan pipa betina yang sesuai dengan benang internal untuk membuat koneksi yang aman dan disegel untuk aliran cairan atau gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350542.jpeg",
+      "simplified": "外螺纹管",
+      "traditional": "外螺紋管",
+      "pinyin": "wài luówén guǎn"
+    },
+    {
+      "id": 350544,
+      "translation": {
+        "en": {
+          "short": "female pipe",
+          "long": "a type of pipe fitting that has internal threads on the inner surface, designed to receive and make a secure connection with a male pipe fitting that has external threads, allowing for the flow of fluids or gases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa wanita",
+          "long": "Jenis pemasangan pipa yang memiliki benang internal di permukaan bagian dalam, dirancang untuk menerima dan membuat koneksi yang aman dengan pemasangan pipa jantan yang memiliki benang eksternal, memungkinkan aliran cairan atau gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350544.jpeg",
+      "simplified": "内螺纹管",
+      "traditional": "內螺紋管",
+      "pinyin": "nèi luówén guǎn"
+    }
+  ]
+}

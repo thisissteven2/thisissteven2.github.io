@@ -1,0 +1,659 @@
+{
+  "id": 4334,
+  "title": {
+    "en": "Adjectives of Location",
+    "id": "Kata sifat lokasi"
+  },
+  "description": {
+    "en": "These adjectives help convey the spatial positioning associated with a particular entity or occurrence such as \"inside\", \"outside\", \"top\", \"bottom\", etc.",
+    "id": "Kata sifat ini membantu menyampaikan posisi spasial yang terkait dengan entitas atau kejadian tertentu seperti \"di dalam\", \"di luar\", \"atas\", \"bawah\", dll."
+  },
+  "cards": [
+    {
+      "id": 359327,
+      "translation": {
+        "en": {
+          "short": "top",
+          "long": "highest in position, degree, or status",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atas",
+          "long": "Posisi, derajat, atau status tertinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359327.jpeg",
+      "simplified": "最高",
+      "traditional": "最高",
+      "pinyin": "zuìgāo"
+    },
+    {
+      "id": 359328,
+      "translation": {
+        "en": {
+          "short": "bottom",
+          "long": "lowest in position, degree, or status",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dasar",
+          "long": "Posisi, derajat, atau status terendah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359328.jpeg",
+      "simplified": "下部",
+      "traditional": "下部",
+      "pinyin": "xià bù"
+    },
+    {
+      "id": 359331,
+      "translation": {
+        "en": {
+          "short": "outdoor",
+          "long": "happening, located, or used outside a house, building, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di luar ruangan",
+          "long": "terjadi, ditemukan, atau digunakan di luar rumah, bangunan, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359331.jpeg",
+      "simplified": "户外的",
+      "traditional": "戶外的",
+      "pinyin": "hùwài de"
+    },
+    {
+      "id": 359332,
+      "translation": {
+        "en": {
+          "short": "indoor",
+          "long": "happening, located, or used inside a building",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dalam",
+          "long": "terjadi, terletak, atau digunakan di dalam gedung",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359332.jpeg",
+      "simplified": "室内的",
+      "traditional": "室內的",
+      "pinyin": "shìnèi de"
+    },
+    {
+      "id": 359333,
+      "translation": {
+        "en": {
+          "short": "outside",
+          "long": "not inside a thing or place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di luar",
+          "long": "tidak di dalam hal atau tempat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359333.jpeg",
+      "simplified": "外部",
+      "traditional": "外部",
+      "pinyin": "wàibù"
+    },
+    {
+      "id": 359334,
+      "translation": {
+        "en": {
+          "short": "inside",
+          "long": "in or into a room, building, etc.",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di dalam",
+          "long": "di dalam atau ke dalam ruangan, bangunan, dll.",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359334.jpeg",
+      "simplified": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐmiàn"
+    },
+    {
+      "id": 359335,
+      "translation": {
+        "en": {
+          "short": "interior",
+          "long": "relating to or located on the inside part of a particular thing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedalaman",
+          "long": "berkaitan dengan atau terletak di bagian dalam hal tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359335.jpeg",
+      "simplified": "内部的",
+      "traditional": "內部的",
+      "pinyin": "nèibù de"
+    },
+    {
+      "id": 359336,
+      "translation": {
+        "en": {
+          "short": "exterior",
+          "long": "relating to or located on the outside part of a particular thing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bagian luar",
+          "long": "berkaitan dengan atau terletak di bagian luar dari hal tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359336.jpeg",
+      "simplified": "外部的",
+      "traditional": "外部的",
+      "pinyin": "wàibù de"
+    },
+    {
+      "id": 359337,
+      "translation": {
+        "en": {
+          "short": "eastern",
+          "long": "related to or positioned in the direction of the east",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Timur",
+          "long": "terkait atau diposisikan ke arah timur",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359337.jpeg",
+      "simplified": "东",
+      "traditional": "東",
+      "pinyin": "Dōng"
+    },
+    {
+      "id": 359338,
+      "translation": {
+        "en": {
+          "short": "western",
+          "long": "related to or positioned in the direction of the west",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "barat",
+          "long": "terkait atau diposisikan ke arah barat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359338.jpeg",
+      "simplified": "西",
+      "traditional": "西",
+      "pinyin": "Xī"
+    },
+    {
+      "id": 359339,
+      "translation": {
+        "en": {
+          "short": "northern",
+          "long": "related to or positioned in the direction of the north",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sebelah utara",
+          "long": "terkait atau diposisikan ke arah utara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359339.jpeg",
+      "simplified": "北方",
+      "traditional": "北方",
+      "pinyin": "běifāng"
+    },
+    {
+      "id": 359340,
+      "translation": {
+        "en": {
+          "short": "southern",
+          "long": "related to or situated in the direction of the south",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Selatan",
+          "long": "terkait atau terletak di arah selatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359340.jpeg",
+      "simplified": "南部",
+      "traditional": "南部",
+      "pinyin": "nánbù"
+    },
+    {
+      "id": 359341,
+      "translation": {
+        "en": {
+          "short": "upper",
+          "long": "situated above something similar",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atas",
+          "long": "terletak di atas sesuatu yang serupa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359341.jpeg",
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shǎng"
+    },
+    {
+      "id": 359342,
+      "translation": {
+        "en": {
+          "short": "outer",
+          "long": "situated on the outside of something else",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luar",
+          "long": "terletak di luar sesuatu yang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359342.jpeg",
+      "simplified": "外",
+      "traditional": "外",
+      "pinyin": "wài"
+    },
+    {
+      "id": 359343,
+      "translation": {
+        "en": {
+          "short": "inner",
+          "long": "situated inside of something else",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "batin",
+          "long": "terletak di dalam sesuatu yang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359343.jpeg",
+      "simplified": "内",
+      "traditional": "內",
+      "pinyin": "nèi"
+    },
+    {
+      "id": 359344,
+      "translation": {
+        "en": {
+          "short": "underwater",
+          "long": "placed, operating, or occurring below the surface of water, or designed to function in such an environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di bawah air",
+          "long": "ditempatkan, beroperasi, atau terjadi di bawah permukaan air, atau dirancang untuk berfungsi di lingkungan seperti itu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359344.jpeg",
+      "simplified": "水下",
+      "traditional": "水下",
+      "pinyin": "shuǐxià"
+    },
+    {
+      "id": 359345,
+      "translation": {
+        "en": {
+          "short": "underground",
+          "long": "situated, operating, or existing beneath the surface of the ground",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bawah tanah",
+          "long": "terletak, beroperasi, atau ada di bawah permukaan tanah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359345.jpeg",
+      "simplified": "地下",
+      "traditional": "地下",
+      "pinyin": "dìxià"
+    },
+    {
+      "id": 359346,
+      "translation": {
+        "en": {
+          "short": "frontal",
+          "long": "facing or positioned toward the front, as seen from the viewer's perspective",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "frontal",
+          "long": "menghadap atau diposisikan ke depan, seperti yang terlihat dari perspektif pemirsa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359346.jpeg",
+      "simplified": "额叶",
+      "traditional": "額葉",
+      "pinyin": "éyè"
+    },
+    {
+      "id": 359347,
+      "translation": {
+        "en": {
+          "short": "lateral",
+          "long": "relating to or directed toward the side or sides",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lateral",
+          "long": "berkaitan dengan atau diarahkan ke samping atau samping",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359347.jpeg",
+      "simplified": "侧",
+      "traditional": "側",
+      "pinyin": "cè"
+    },
+    {
+      "id": 359348,
+      "translation": {
+        "en": {
+          "short": "elevated",
+          "long": "lifted up to a higher position",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tinggi",
+          "long": "terangkat ke posisi yang lebih tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359348.jpeg",
+      "simplified": "高架",
+      "traditional": "高架",
+      "pinyin": "gāojià"
+    },
+    {
+      "id": 359349,
+      "translation": {
+        "en": {
+          "short": "subterranean",
+          "long": "situated, occurring, or existing beneath the surface of the Earth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di bawah tanah",
+          "long": "terletak, terjadi, atau ada di bawah permukaan bumi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359349.jpeg",
+      "simplified": "地下",
+      "traditional": "地下",
+      "pinyin": "dìxià"
+    },
+    {
+      "id": 359350,
+      "translation": {
+        "en": {
+          "short": "overseas",
+          "long": "located or originating in a foreign country across the sea from one's own",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luar negeri",
+          "long": "terletak atau berasal dari negara asing di seberang laut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359350.jpeg",
+      "simplified": "海外",
+      "traditional": "海外",
+      "pinyin": "hǎiwài"
+    },
+    {
+      "id": 359351,
+      "translation": {
+        "en": {
+          "short": "medial",
+          "long": "located or relating to the middle or center",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "medial",
+          "long": "terletak atau berkaitan dengan tengah atau tengah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359351.jpeg",
+      "simplified": "内侧",
+      "traditional": "內側",
+      "pinyin": "nèicè"
+    },
+    {
+      "id": 359352,
+      "translation": {
+        "en": {
+          "short": "overhead",
+          "long": "located or occurring above the level of the head",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atas",
+          "long": "terletak atau terjadi di atas tingkat kepala",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359352.jpeg",
+      "simplified": "高架",
+      "traditional": "高架",
+      "pinyin": "gāojià"
+    },
+    {
+      "id": 359353,
+      "translation": {
+        "en": {
+          "short": "offshore",
+          "long": "situated or occurring in the sea, typically away from the shore or coast",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di lepas pantai",
+          "long": "terletak atau terjadi di laut, biasanya jauh dari pantai atau pantai",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359353.jpeg",
+      "simplified": "远离海岸",
+      "traditional": "遠離海岸",
+      "pinyin": "yuǎnlí hǎiàn"
+    },
+    {
+      "id": 359354,
+      "translation": {
+        "en": {
+          "short": "upstate",
+          "long": "in or toward the northern parts of a state",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "bagian utara",
+          "long": "di atau menuju bagian utara suatu negara bagian",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359354.jpeg",
+      "simplified": "北部",
+      "traditional": "北部",
+      "pinyin": "běibù"
+    },
+    {
+      "id": 359355,
+      "translation": {
+        "en": {
+          "short": "outermost",
+          "long": "referring to the farthest or most distant part of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "paling luar",
+          "long": "mengacu pada sesuatu yang terjauh atau paling jauh dari sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359355.jpeg",
+      "simplified": "最外层",
+      "traditional": "最外層",
+      "pinyin": "zuì wàicéng"
+    },
+    {
+      "id": 359357,
+      "translation": {
+        "en": {
+          "short": "downtown",
+          "long": "toward or within the central or main business area of a town or city",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pusat kota",
+          "long": "menuju atau di dalam area bisnis pusat atau utama di kota atau kota",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359357.jpeg",
+      "simplified": "市中心",
+      "traditional": "市中心",
+      "pinyin": "shìzhōng xīn"
+    },
+    {
+      "id": 359358,
+      "translation": {
+        "en": {
+          "short": "inland",
+          "long": "located or occurring away from the coast",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedalaman",
+          "long": "terletak atau terjadi jauh dari pantai",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359358.jpeg",
+      "simplified": "内陆",
+      "traditional": "內陸",
+      "pinyin": "nèilù"
+    },
+    {
+      "id": 359359,
+      "translation": {
+        "en": {
+          "short": "surrounding",
+          "long": "nearby or encircling a particular area or object",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sekitarnya",
+          "long": "di dekatnya atau mengelilingi area atau objek tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/359359.jpeg",
+      "simplified": "周围",
+      "traditional": "周圍",
+      "pinyin": "zhōuwéi"
+    },
+    {
+      "id": 375244,
+      "translation": {
+        "en": {
+          "short": "high",
+          "long": "near the top in position, rank, or influence",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tinggi",
+          "long": "dekat bagian atas di posisi, pangkat, atau pengaruh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/375244.jpeg",
+      "simplified": "高的",
+      "traditional": "高的",
+      "pinyin": "Gāo de"
+    },
+    {
+      "id": 375245,
+      "translation": {
+        "en": {
+          "short": "upstairs",
+          "long": "located on an upper floor",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di atas",
+          "long": "Terletak di lantai atas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/375245.jpeg",
+      "simplified": "楼上",
+      "traditional": "樓上",
+      "pinyin": "lóushàng"
+    },
+    {
+      "id": 375246,
+      "translation": {
+        "en": {
+          "short": "downstairs",
+          "long": "located on a lower floor of a building, particularly the ground floor",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di bawah",
+          "long": "Terletak di lantai bawah bangunan, terutama lantai dasar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/375246.jpeg",
+      "simplified": "楼下",
+      "traditional": "樓下",
+      "pinyin": "lóuxià"
+    },
+    {
+      "id": 360465,
+      "translation": {
+        "en": {
+          "short": "perpendicular",
+          "long": "positioned at a right angle to another object or surface",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tegak lurus",
+          "long": "diposisikan pada sudut kanan ke objek atau permukaan lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360465.jpeg",
+      "simplified": "垂直",
+      "traditional": "垂直",
+      "pinyin": "chuízhí"
+    }
+  ]
+}

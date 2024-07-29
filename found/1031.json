@@ -1,0 +1,830 @@
+{
+  "id": 1031,
+  "title": {
+    "en": "Science",
+    "id": "Sains"
+  },
+  "description": {
+    "en": "Here you will learn some English words about science, such as \"atomic\", \"density\", \"evolution\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang sains, seperti \"atom\", \"kepadatan\", \"evolusi\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 244950,
+      "translation": {
+        "en": {
+          "short": "atomic",
+          "long": "related to atoms, the smallest units of matter, including their structure, properties, and interactions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atom",
+          "long": "terkait dengan atom, unit materi terkecil, termasuk struktur, sifat, dan interaksi mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244950.jpeg",
+      "simplified": "原子",
+      "traditional": "原子",
+      "pinyin": "yuánzǐ"
+    },
+    {
+      "id": 244942,
+      "translation": {
+        "en": {
+          "short": "nucleus",
+          "long": "(biology) the part of a cell that contains most of the genetic information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inti",
+          "long": "(Biologi) Bagian sel yang berisi sebagian besar informasi genetik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244942.jpeg",
+      "simplified": "细胞核",
+      "traditional": "細胞核",
+      "pinyin": "xìbāo hé"
+    },
+    {
+      "id": 244951,
+      "translation": {
+        "en": {
+          "short": "bond",
+          "long": "a link that holds atoms or ions together in any molecule or crystal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjalin kedekatan",
+          "long": "tautan yang menyatukan atom atau ion dalam molekul atau kristal apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244951.jpeg",
+      "simplified": "化学键",
+      "traditional": "化學鍵",
+      "pinyin": "huàxué jiàn"
+    },
+    {
+      "id": 244952,
+      "translation": {
+        "en": {
+          "short": "charge",
+          "long": "the physical property in matter that causes it to experience a force in an electromagnetic field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengenakan biaya",
+          "long": "Properti fisik dalam materi yang menyebabkannya mengalami kekuatan dalam medan elektromagnetik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244952.jpeg",
+      "simplified": "电荷（电子）",
+      "traditional": "電荷（電子）",
+      "pinyin": "diànhè diànzǐ"
+    },
+    {
+      "id": 244958,
+      "translation": {
+        "en": {
+          "short": "density",
+          "long": "(physics) the degree to which a substance is compacted, measured by dividing its mass by its volume",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepadatan",
+          "long": "(Fisika) Sejauh mana suatu zat dipadatkan, diukur dengan membagi massa dengan volumenya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244958.jpeg",
+      "simplified": "密度",
+      "traditional": "密度",
+      "pinyin": "mìdù"
+    },
+    {
+      "id": 244963,
+      "translation": {
+        "en": {
+          "short": "gravity",
+          "long": "(physics) the universal force of attraction between any pair of objects with mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gravitasi",
+          "long": "(Fisika) Kekuatan universal daya tarik antara setiap pasangan objek dengan massa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244963.jpeg",
+      "simplified": "地球引力",
+      "traditional": "地球引力",
+      "pinyin": "dìqiú yǐnlì"
+    },
+    {
+      "id": 244969,
+      "translation": {
+        "en": {
+          "short": "particle",
+          "long": "(physics) any of the smallest units that energy or matter consists of, such as electrons, atoms, molecules, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "partikel",
+          "long": "(Fisika) Salah satu unit terkecil yang terdiri dari energi atau materi, seperti elektron, atom, molekul, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244969.jpeg",
+      "simplified": "粒子",
+      "traditional": "粒子",
+      "pinyin": "lìzǐ"
+    },
+    {
+      "id": 244970,
+      "translation": {
+        "en": {
+          "short": "property",
+          "long": "a feature or quality of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Properti",
+          "long": "fitur atau kualitas sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244970.jpeg",
+      "simplified": "属性",
+      "traditional": "屬性",
+      "pinyin": "shǔxìng"
+    },
+    {
+      "id": 244939,
+      "translation": {
+        "en": {
+          "short": "instinct",
+          "long": "a reaction or behavior whose reason is innate, not a result of thinking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "naluri",
+          "long": "reaksi atau perilaku yang alasannya bawaan, bukan hasil dari pemikiran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244939.jpeg",
+      "simplified": "本能",
+      "traditional": "本能",
+      "pinyin": "běnnéng"
+    },
+    {
+      "id": 244940,
+      "translation": {
+        "en": {
+          "short": "metabolism",
+          "long": "the chemical processes through which food is changed into energy for the body to use",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metabolisme",
+          "long": "Proses kimia melalui mana makanan diubah menjadi energi untuk digunakan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244940.jpeg",
+      "simplified": "代谢",
+      "traditional": "代謝",
+      "pinyin": "dàixiè"
+    },
+    {
+      "id": 245167,
+      "translation": {
+        "en": {
+          "short": "evolutionary",
+          "long": "related to evolution or the slow and gradual development of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "evolusioner",
+          "long": "terkait dengan evolusi atau pengembangan sesuatu yang lambat dan bertahap",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245167.jpeg",
+      "simplified": "进化的",
+      "traditional": "進化的",
+      "pinyin": "jìnhuà de"
+    },
+    {
+      "id": 244943,
+      "translation": {
+        "en": {
+          "short": "organic",
+          "long": "from or related to living things",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "organik",
+          "long": "dari atau terkait dengan makhluk hidup",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244943.jpeg",
+      "simplified": "有机的",
+      "traditional": "有機的",
+      "pinyin": "yǒujī de"
+    },
+    {
+      "id": 244936,
+      "translation": {
+        "en": {
+          "short": "evolution",
+          "long": "(biology) the slow and gradual development of living things throughout the history of the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "evolusi",
+          "long": "(Biologi) Perkembangan makhluk hidup yang lambat dan bertahap di seluruh sejarah bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244936.jpeg",
+      "simplified": "演化",
+      "traditional": "演化",
+      "pinyin": "yǎnhuà"
+    },
+    {
+      "id": 244937,
+      "translation": {
+        "en": {
+          "short": "genome",
+          "long": "the complete set of genetic material of any living thing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genom",
+          "long": "set lengkap bahan genetik dari makhluk hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244937.jpeg",
+      "simplified": "基因组",
+      "traditional": "基因組",
+      "pinyin": "jīyīn zǔ"
+    },
+    {
+      "id": 244941,
+      "translation": {
+        "en": {
+          "short": "mutation",
+          "long": "(biology) a change in the structure of the genes of an individual that causes them to develop different physical features",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mutasi",
+          "long": "(Biologi) Perubahan dalam struktur gen individu yang menyebabkan mereka mengembangkan fitur fisik yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244941.jpeg",
+      "simplified": "突变",
+      "traditional": "突變",
+      "pinyin": "tūbiàn"
+    },
+    {
+      "id": 244935,
+      "translation": {
+        "en": {
+          "short": "embryo",
+          "long": "an unhatched or unborn offspring in the process of development, especially a human offspring roughly from the second to the eighth week after fertilization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "embrio",
+          "long": "anak yang tidak ditarik atau belum lahir dalam proses pembangunan, terutama keturunan manusia secara kasar dari minggu kedua hingga kedelapan setelah pembuahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244935.jpeg",
+      "simplified": "胎儿",
+      "traditional": "胎兒",
+      "pinyin": "tāiér"
+    },
+    {
+      "id": 244938,
+      "translation": {
+        "en": {
+          "short": "hybrid",
+          "long": "an animal or plant with parents that belong to different breeds or varieties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hibrida",
+          "long": "Hewan atau tumbuhan dengan orang tua yang termasuk ras atau varietas yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244938.jpeg",
+      "simplified": "混血",
+      "traditional": "混血",
+      "pinyin": "hùnxuè"
+    },
+    {
+      "id": 244933,
+      "translation": {
+        "en": {
+          "short": "clone",
+          "long": "a cell or a group of cells created through a natural or artificial process from a source that they are genetically identical to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klon",
+          "long": "sel atau sekelompok sel yang dibuat melalui proses alami atau buatan dari sumber yang secara genetik identik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244933.jpeg",
+      "simplified": "生物克隆",
+      "traditional": "生物克隆",
+      "pinyin": "shēngwù kèlóng"
+    },
+    {
+      "id": 244944,
+      "translation": {
+        "en": {
+          "short": "to reproduce",
+          "long": "(of a living being) to produce offspring or more of itself",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mereproduksi",
+          "long": "(dari makhluk hidup) untuk menghasilkan keturunan atau lebih dari dirinya sendiri",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244944.jpeg",
+      "simplified": "通过交配繁殖",
+      "traditional": "通過交配繁殖",
+      "pinyin": "tōngguò jiāopèi fánzhí"
+    },
+    {
+      "id": 244945,
+      "translation": {
+        "en": {
+          "short": "stimulus",
+          "long": "something that triggers a reaction in various areas like psychology or physiology",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rangsangan",
+          "long": "sesuatu yang memicu reaksi di berbagai bidang seperti psikologi atau fisiologi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244945.jpeg",
+      "simplified": "刺激（生理学）",
+      "traditional": "刺激（生理學）",
+      "pinyin": "cìjī shēnglǐ xué"
+    },
+    {
+      "id": 244946,
+      "translation": {
+        "en": {
+          "short": "synthesis",
+          "long": "the act of producing a substance that exists in living beings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perpaduan",
+          "long": "tindakan menghasilkan zat yang ada dalam makhluk hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244946.jpeg",
+      "simplified": "合成",
+      "traditional": "合成",
+      "pinyin": "héchéng"
+    },
+    {
+      "id": 244947,
+      "translation": {
+        "en": {
+          "short": "to accelerate",
+          "long": "to increase the velocity of something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mempercepat",
+          "long": "untuk meningkatkan kecepatan sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244947.jpeg",
+      "simplified": "加快",
+      "traditional": "加快",
+      "pinyin": "jiākuài"
+    },
+    {
+      "id": 244959,
+      "translation": {
+        "en": {
+          "short": "to dissolve",
+          "long": "(of a solid) to become one with a liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk larut",
+          "long": "(dari padatan) menjadi satu dengan cairan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244959.jpeg",
+      "simplified": "溶解（在水等中）",
+      "traditional": "溶解（在水等中）",
+      "pinyin": "róngjiě zài Shuǐ děng Zhōng"
+    },
+    {
+      "id": 244948,
+      "translation": {
+        "en": {
+          "short": "acid",
+          "long": "a water-soluble chemical substance that contains Hydrogen and has a sour taste or corrosive feature with a PH less than 7",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asam",
+          "long": "Zat kimia yang larut dalam air yang mengandung hidrogen dan memiliki rasa asam atau fitur korosif dengan pH kurang dari 7",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244948.jpeg",
+      "simplified": "酸性物质",
+      "traditional": "酸性物質",
+      "pinyin": "suānxìng wùzhì"
+    },
+    {
+      "id": 244949,
+      "translation": {
+        "en": {
+          "short": "aluminum",
+          "long": "a light silver-gray metal used primarily for making cooking equipment and aircraft parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aluminium",
+          "long": "Logam abu-abu perak ringan digunakan terutama untuk membuat peralatan memasak dan bagian pesawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244949.jpeg",
+      "simplified": "铝",
+      "traditional": "鋁",
+      "pinyin": "lǚ"
+    },
+    {
+      "id": 244956,
+      "translation": {
+        "en": {
+          "short": "copper",
+          "long": "a metallic chemical element that has a red-brown color, primarily used as a conductor in wiring",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembaga",
+          "long": "elemen kimia logam yang memiliki warna merah-coklat, terutama digunakan sebagai konduktor dalam kabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244956.jpeg",
+      "simplified": "铜",
+      "traditional": "銅",
+      "pinyin": "tóng"
+    },
+    {
+      "id": 244967,
+      "translation": {
+        "en": {
+          "short": "lead",
+          "long": "a heavy soft metal, used in making bullets, in plumbing and roofing, especially in the past",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memimpin",
+          "long": "Logam lunak yang berat, digunakan dalam membuat peluru, dalam pipa dan atap, terutama di masa lalu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244967.jpeg",
+      "simplified": "铅",
+      "traditional": "鉛",
+      "pinyin": "qiān"
+    },
+    {
+      "id": 244955,
+      "translation": {
+        "en": {
+          "short": "conductor",
+          "long": "a substance that permits electricity to pass through or along it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konduktor",
+          "long": "zat yang memungkinkan listrik untuk melewati atau di sepanjang itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244955.jpeg",
+      "simplified": "电流的导体",
+      "traditional": "電流的導體",
+      "pinyin": "diànliú de dǎotǐ"
+    },
+    {
+      "id": 244957,
+      "translation": {
+        "en": {
+          "short": "crystal",
+          "long": "a substance of small size and equal sides, formed naturally when turns to solid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kristal",
+          "long": "zat dengan ukuran kecil dan sisi yang sama, terbentuk secara alami saat berubah menjadi padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244957.jpeg",
+      "simplified": "水晶",
+      "traditional": "水晶",
+      "pinyin": "shuǐjīng"
+    },
+    {
+      "id": 244964,
+      "translation": {
+        "en": {
+          "short": "gunpowder",
+          "long": "a type of powder that is explosive, used in making bullets, bombs, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bubuk mesiu",
+          "long": "Jenis bubuk yang eksplosif, digunakan dalam membuat peluru, bom, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244964.jpeg",
+      "simplified": "火药",
+      "traditional": "火藥",
+      "pinyin": "huǒyào"
+    },
+    {
+      "id": 244960,
+      "translation": {
+        "en": {
+          "short": "dynamite",
+          "long": "an explosive that is very powerful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinamit",
+          "long": "bahan peledak yang sangat kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244960.jpeg",
+      "simplified": "炸药",
+      "traditional": "炸藥",
+      "pinyin": "zhàyào"
+    },
+    {
+      "id": 244953,
+      "translation": {
+        "en": {
+          "short": "composition",
+          "long": "the different elements that form something or the arrangement of these elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komposisi",
+          "long": "berbagai elemen yang membentuk sesuatu atau pengaturan elemen -elemen ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244953.jpeg",
+      "simplified": "成分（化学）",
+      "traditional": "成分（化學）",
+      "pinyin": "chéngfèn huàxué"
+    },
+    {
+      "id": 244961,
+      "translation": {
+        "en": {
+          "short": "to emit",
+          "long": "to release heat, light, sound, radiation, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memancarkan",
+          "long": "Untuk melepaskan panas, cahaya, suara, radiasi, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244961.jpeg",
+      "simplified": "发射",
+      "traditional": "發射",
+      "pinyin": "fāshè"
+    },
+    {
+      "id": 244971,
+      "translation": {
+        "en": {
+          "short": "ray",
+          "long": "a narrow beam of light, heat, or other form of energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinar",
+          "long": "Bentak cahaya yang sempit, panas, atau bentuk energi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244971.jpeg",
+      "simplified": "射线",
+      "traditional": "射線",
+      "pinyin": "shèxiàn"
+    },
+    {
+      "id": 244966,
+      "translation": {
+        "en": {
+          "short": "laser",
+          "long": "a device that produces a powerful and concentrated beam of light that can be used in medical procedures, for cutting metal objects, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laser",
+          "long": "Perangkat yang menghasilkan sinar cahaya yang kuat dan terkonsentrasi yang dapat digunakan dalam prosedur medis, untuk memotong benda logam, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244966.jpeg",
+      "simplified": "激光装置",
+      "traditional": "激光裝置",
+      "pinyin": "jīguāng zhuāngzhì"
+    },
+    {
+      "id": 244968,
+      "translation": {
+        "en": {
+          "short": "magnet",
+          "long": "an object that produces an invisible field capable of attracting certain metals without physical contact",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "magnet",
+          "long": "objek yang menghasilkan bidang yang tidak terlihat yang mampu menarik logam tertentu tanpa kontak fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244968.jpeg",
+      "simplified": "一块磁铁",
+      "traditional": "一塊磁鐵",
+      "pinyin": "yīkuài cítiě"
+    },
+    {
+      "id": 244972,
+      "translation": {
+        "en": {
+          "short": "thermal",
+          "long": "related to heat or temperature, including how heat moves, how materials expand with temperature changes, and the energy stored in heat",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas",
+          "long": "terkait dengan panas atau suhu, termasuk bagaimana panas bergerak, bagaimana bahan berkembang dengan perubahan suhu, dan energi yang disimpan dalam panas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244972.jpeg",
+      "simplified": "热的",
+      "traditional": "熱的",
+      "pinyin": "rè de"
+    },
+    {
+      "id": 244954,
+      "translation": {
+        "en": {
+          "short": "to compress",
+          "long": "to press two things together or be pressed together to become smaller",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengompres",
+          "long": "untuk menekan dua hal bersama atau ditekan bersama untuk menjadi lebih kecil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244954.jpeg",
+      "simplified": "压缩",
+      "traditional": "壓縮",
+      "pinyin": "yāsuō"
+    },
+    {
+      "id": 244965,
+      "translation": {
+        "en": {
+          "short": "generator",
+          "long": "a machine that produces electricity by converting mechanical energy into electrical energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "generator",
+          "long": "mesin yang menghasilkan listrik dengan mengubah energi mekanik menjadi energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244965.jpeg",
+      "simplified": "发电机",
+      "traditional": "發電機",
+      "pinyin": "fādiàn jī"
+    },
+    {
+      "id": 244962,
+      "translation": {
+        "en": {
+          "short": "to evaporate",
+          "long": "to become gas or vapor from liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menguap",
+          "long": "menjadi gas atau uap dari cairan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244962.jpeg",
+      "simplified": "蒸发",
+      "traditional": "蒸發",
+      "pinyin": "zhēngfā"
+    },
+    {
+      "id": 244973,
+      "translation": {
+        "en": {
+          "short": "vacuum",
+          "long": "a space that is utterly empty of all matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekosongan",
+          "long": "ruang yang benar -benar kosong dari semua materi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244973.jpeg",
+      "simplified": "真空",
+      "traditional": "真空",
+      "pinyin": "zhēnkōng"
+    },
+    {
+      "id": 250164,
+      "translation": {
+        "en": {
+          "short": "infinite",
+          "long": "without end or limits in extent, size, or space",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tak terbatas",
+          "long": "tanpa akhir atau batas dalam ukuran, ukuran, atau ruang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/250164.jpeg",
+      "simplified": "无穷",
+      "traditional": "無窮",
+      "pinyin": "wúqióng"
+    },
+    {
+      "id": 290811,
+      "translation": {
+        "en": {
+          "short": "residue",
+          "long": "a small remaining amount or part of a thing after it has been taken, used, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "residu",
+          "long": "Jumlah kecil yang tersisa atau bagian dari sesuatu setelah diambil, digunakan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290811.jpeg",
+      "simplified": "废墟",
+      "traditional": "廢墟",
+      "pinyin": "fèixū"
+    }
+  ]
+}

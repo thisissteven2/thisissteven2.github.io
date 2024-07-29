@@ -1,0 +1,1343 @@
+{
+  "id": 4187,
+  "title": {
+    "en": "Syntax",
+    "id": "Sintaksis"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to syntax such as \"function word\", \"interrogative\", and \"neuter\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan sintaks seperti \"Function Word\", \"Interogative\", dan \"Netral\"."
+  },
+  "cards": [
+    {
+      "id": 353682,
+      "translation": {
+        "en": {
+          "short": "catena",
+          "long": "a sequence or chain of linguistic units, such as words or morphemes, that are linked together to form a larger structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deretan",
+          "long": "Urutan atau rantai unit linguistik, seperti kata atau morfem, yang dihubungkan bersama untuk membentuk struktur yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353682.jpeg",
+      "simplified": "系列",
+      "traditional": "系列",
+      "pinyin": "xìliè"
+    },
+    {
+      "id": 353683,
+      "translation": {
+        "en": {
+          "short": "grammatical relation",
+          "long": "the relationship between words or constituents in a sentence that determines their roles and functions within the sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hubungan tata bahasa",
+          "long": "Hubungan antara kata atau konstituen dalam kalimat yang menentukan peran dan fungsinya dalam kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353683.jpeg",
+      "simplified": "语法关系",
+      "traditional": "語法關係",
+      "pinyin": "yǔfǎ guānxi"
+    },
+    {
+      "id": 353684,
+      "translation": {
+        "en": {
+          "short": "function word",
+          "long": "a type of word that serves a grammatical or structural role in a sentence rather than carrying lexical meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata fungsi",
+          "long": "Jenis kata yang melayani peran tata bahasa atau struktural dalam kalimat daripada membawa makna leksikal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353684.jpeg",
+      "simplified": "虚词",
+      "traditional": "虛詞",
+      "pinyin": "xūcí"
+    },
+    {
+      "id": 353685,
+      "translation": {
+        "en": {
+          "short": "antecedent",
+          "long": "a word, phrase, or clause that is mentioned prior to a pronoun or anaphoric expression and to which the pronoun or anaphor refers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mendahului",
+          "long": "kata, frasa, atau klausa yang disebutkan sebelum kata ganti atau ekspresi anafora dan yang merujuk pada kata ganti atau anafor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353685.jpeg",
+      "simplified": "前情",
+      "traditional": "前情",
+      "pinyin": "qiánqíng"
+    },
+    {
+      "id": 353687,
+      "translation": {
+        "en": {
+          "short": "binding",
+          "long": "a concept within the field of syntax and semantics in linguistics that refers to the grammatical and semantic relationships between pronouns, reflexives, and their antecedents within a sentence or discourse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengikat",
+          "long": "Konsep dalam bidang sintaksis dan semantik dalam linguistik yang mengacu pada hubungan tata bahasa dan semantik antara kata ganti, refleksif, dan anteseden mereka dalam kalimat atau wacana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353687.jpeg",
+      "simplified": "捆绑",
+      "traditional": "捆綁",
+      "pinyin": "kǔnbǎng"
+    },
+    {
+      "id": 353689,
+      "translation": {
+        "en": {
+          "short": "control",
+          "long": "a syntactic relationship between two clauses where the subject of one clause determines the interpretation or reference of an element in the other clause",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kontrol",
+          "long": "Hubungan sintaksis antara dua klausa di mana subjek satu klausa menentukan interpretasi atau referensi elemen dalam klausa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353689.jpeg",
+      "simplified": "管制",
+      "traditional": "管制",
+      "pinyin": "guǎnzhì"
+    },
+    {
+      "id": 353690,
+      "translation": {
+        "en": {
+          "short": "coreference",
+          "long": "a linguistic relationship where two or more linguistic expressions within a discourse refer to the same entity in the world",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "coreference",
+          "long": "Hubungan linguistik di mana dua atau lebih ekspresi linguistik dalam wacana merujuk pada entitas yang sama di dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353690.jpeg",
+      "simplified": "共指",
+      "traditional": "共指",
+      "pinyin": "gòng zhǐ"
+    },
+    {
+      "id": 353692,
+      "translation": {
+        "en": {
+          "short": "do-support",
+          "long": "a syntactic phenomenon in English where the auxiliary verb \"do\" is used to form questions, negatives, and emphatic statements in certain contexts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "do-support",
+          "long": "Fenomena sintaksis dalam bahasa Inggris di mana kata kerja bantu \"do\" digunakan untuk membentuk pertanyaan, negatif, dan pernyataan tegas dalam konteks tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353692.jpeg",
+      "simplified": "提供支持",
+      "traditional": "提供支持",
+      "pinyin": "tígōng zhīchí"
+    },
+    {
+      "id": 353694,
+      "translation": {
+        "en": {
+          "short": "exceptional case-marking",
+          "long": "a syntactic phenomenon in which a verb assigns accusative case to a noun phrase that is syntactically an object but semantically related to a higher clause",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penandaan kasus yang luar biasa",
+          "long": "Fenomena sintaksis di mana kata kerja memberikan kasus akusatif ke frasa kata benda yang secara sintaksis suatu objek tetapi secara semantik terkait dengan klausa yang lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353694.jpeg",
+      "simplified": "特殊情况标记",
+      "traditional": "特殊情況標記",
+      "pinyin": "tèshū qíngkuàng biāojì"
+    },
+    {
+      "id": 353696,
+      "translation": {
+        "en": {
+          "short": "extraposition",
+          "long": "a syntactic process in which a constituent is moved from its canonical position to a non-canonical position in a sentence for the purpose of improving readability or emphasizing certain elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ekstraposisi",
+          "long": "Proses sintaksis di mana konstituen dipindahkan dari posisi kanoniknya ke posisi non-kanonik dalam kalimat untuk tujuan meningkatkan keterbacaan atau menekankan elemen-elemen tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353696.jpeg",
+      "simplified": "外加",
+      "traditional": "外加",
+      "pinyin": "wàijiā"
+    },
+    {
+      "id": 353698,
+      "translation": {
+        "en": {
+          "short": "gapping",
+          "long": "a syntactic phenomenon where non-finite verbs or verb phrases are omitted in coordinated clauses, with only the shared elements being expressed, resulting in a shortened or elliptical sentence structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gapping",
+          "long": "Fenomena sintaksis di mana kata kerja atau kata kerja tidak terbatas dihilangkan dalam klausa terkoordinasi, dengan hanya elemen bersama yang diekspresikan, menghasilkan struktur kalimat yang lebih pendek atau elips",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353698.jpeg",
+      "simplified": "间隙",
+      "traditional": "間隙",
+      "pinyin": "jiànxì"
+    },
+    {
+      "id": 353700,
+      "translation": {
+        "en": {
+          "short": "verb stacking",
+          "long": "a linguistic phenomenon where multiple verbs are consecutively combined in a single clause without explicit marking or coordination, resulting in a complex verb phrase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stacking kata kerja",
+          "long": "Fenomena linguistik di mana banyak kata kerja secara berurutan dikombinasikan dalam satu klausa tunggal tanpa tanda atau koordinasi eksplisit, menghasilkan frasa kata kerja yang kompleks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353700.jpeg",
+      "simplified": "动词堆叠",
+      "traditional": "動詞堆疊",
+      "pinyin": "dòngcí duīdié"
+    },
+    {
+      "id": 353702,
+      "translation": {
+        "en": {
+          "short": "gap",
+          "long": "an empty or unpronounced position within a sentence or phrase, typically representing a missing word or element that is implied or understood from the context",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celah",
+          "long": "Posisi kosong atau tidak diumumkan dalam kalimat atau frasa, biasanya mewakili kata atau elemen yang hilang yang tersirat atau dipahami dari konteks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353702.jpeg",
+      "simplified": "间隙",
+      "traditional": "間隙",
+      "pinyin": "jiànxì"
+    },
+    {
+      "id": 353708,
+      "translation": {
+        "en": {
+          "short": "pseudogapping",
+          "long": "a sentence structure where a verb is missing, but the meaning can still be understood based on the context, creating a sense of omission or gap in the sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pseudogapping",
+          "long": "Struktur kalimat di mana kata kerja hilang, tetapi artinya masih dapat dipahami berdasarkan konteks, menciptakan rasa kelalaian atau kesenjangan dalam kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353708.jpeg",
+      "simplified": "赝间隙",
+      "traditional": "贗間隙",
+      "pinyin": "yàn jiànxì"
+    },
+    {
+      "id": 353710,
+      "translation": {
+        "en": {
+          "short": "raising",
+          "long": "a syntactic process in which a verb or predicate raises its subject to a higher syntactic position, often resulting in a mismatch between the surface structure and the underlying syntactic structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemeliharaan",
+          "long": "Proses sintaksis di mana kata kerja atau predikat meningkatkan subjeknya ke posisi sintaksis yang lebih tinggi, sering mengakibatkan ketidakcocokan antara struktur permukaan dan struktur sintaksis yang mendasarinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353710.jpeg",
+      "simplified": "升起",
+      "traditional": "升起",
+      "pinyin": "shēngqǐ"
+    },
+    {
+      "id": 353712,
+      "translation": {
+        "en": {
+          "short": "right node raising",
+          "long": "a syntactic phenomenon where multiple constituents to the right of a shared verb are \"raised\" or elided, except for the rightmost one, creating a parallel structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Peningkatan Node Kanan",
+          "long": "Fenomena sintaksis di mana beberapa konstituen di sebelah kanan kata kerja bersama \"dinaikkan\" atau dielakkan, kecuali yang paling kanan, menciptakan struktur paralel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353712.jpeg",
+      "simplified": "右节点提升",
+      "traditional": "右節點提升",
+      "pinyin": "yòu jiédiǎn tíshēng"
+    },
+    {
+      "id": 353714,
+      "translation": {
+        "en": {
+          "short": "shifting",
+          "long": "the movement or reordering of constituents within a sentence, often for reasons of emphasis, focus, or stylistic variation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bergeser",
+          "long": "Gerakan atau penataan kembali konstituen dalam suatu kalimat, seringkali karena alasan penekanan, fokus, atau variasi gaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353714.jpeg",
+      "simplified": "转移",
+      "traditional": "轉移",
+      "pinyin": "zhuǎnyí"
+    },
+    {
+      "id": 353718,
+      "translation": {
+        "en": {
+          "short": "stripping",
+          "long": "(in syntax) a process of omitting some words or phrases of a clause which are repetitive and could be understood from the context",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stripping",
+          "long": "(dalam sintaks) Suatu proses menghilangkan beberapa kata atau frasa klausa yang berulang dan dapat dipahami dari konteks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353718.jpeg",
+      "simplified": "剥离",
+      "traditional": "剝離",
+      "pinyin": "bōlí"
+    },
+    {
+      "id": 353719,
+      "translation": {
+        "en": {
+          "short": "topicalization",
+          "long": "the linguistic process of placing a specific word or phrase at the beginning of a sentence to highlight and give emphasis to the topic being discussed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Topikalisasi",
+          "long": "Proses linguistik menempatkan kata atau frasa tertentu di awal kalimat untuk menyoroti dan memberikan penekanan pada topik yang sedang dibahas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353719.jpeg",
+      "simplified": "话题化",
+      "traditional": "話題化",
+      "pinyin": "huàtí huā"
+    },
+    {
+      "id": 353721,
+      "translation": {
+        "en": {
+          "short": "tough movement",
+          "long": "a syntactic phenomenon in which the object of a verb appears to move to the subject position in a sentence, often resulting in a complex and challenging grammatical structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gerakan yang tangguh",
+          "long": "Fenomena sintaksis di mana objek kata kerja tampaknya bergerak ke posisi subjek dalam sebuah kalimat, sering menghasilkan struktur tata bahasa yang kompleks dan menantang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353721.jpeg",
+      "simplified": "艰难的动作",
+      "traditional": "艱難的動作",
+      "pinyin": "jiānnán de dòngzuò"
+    },
+    {
+      "id": 353722,
+      "translation": {
+        "en": {
+          "short": "inchoative aspect",
+          "long": "a grammatical aspect that indicates the beginning or initiation of an action or state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aspek inciatif",
+          "long": "aspek tata bahasa yang menunjukkan awal atau inisiasi tindakan atau negara bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353722.jpeg",
+      "simplified": "初始方面",
+      "traditional": "初始方面",
+      "pinyin": "chūshǐ fāngmiàn"
+    },
+    {
+      "id": 353727,
+      "translation": {
+        "en": {
+          "short": "cataphora",
+          "long": "(grammar) the use of a word or phrase that refers to or has the same meaning as a later word",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cataphora",
+          "long": "(tata bahasa) Penggunaan kata atau frasa yang mengacu atau memiliki arti yang sama dengan kata selanjutnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353727.jpeg",
+      "simplified": "卡塔弗拉",
+      "traditional": "卡塔弗拉",
+      "pinyin": "kǎ tǎ fú lā"
+    },
+    {
+      "id": 353728,
+      "translation": {
+        "en": {
+          "short": "declension",
+          "long": "(in the grammar of some languages) a group of nouns, pronouns, or adjectives changing in the same way to indicate case, number, and gender",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deklinasi",
+          "long": "(dalam tata bahasa beberapa bahasa) Sekelompok kata benda, kata ganti, atau kata sifat berubah dengan cara yang sama untuk menunjukkan kasus, angka, dan jenis kelamin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353728.jpeg",
+      "simplified": "逐渐变化",
+      "traditional": "逐漸變化",
+      "pinyin": "zhújiàn biànhuà"
+    },
+    {
+      "id": 353730,
+      "translation": {
+        "en": {
+          "short": "telicity",
+          "long": "the property of a verb or an event that indicates whether it is viewed as having a definite endpoint or culmination, distinguishing between activities and accomplishments or achievements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Telisitas",
+          "long": "Properti dari kata kerja atau peristiwa yang menunjukkan apakah itu dipandang memiliki titik akhir atau puncak yang pasti, membedakan antara kegiatan dan pencapaian atau pencapaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353730.jpeg",
+      "simplified": "远程性",
+      "traditional": "遠程性",
+      "pinyin": "yuǎnchéng xìng"
+    },
+    {
+      "id": 353731,
+      "translation": {
+        "en": {
+          "short": "parenthesis",
+          "long": "a word, sentence, etc. that is explanatory and the meaning of the sentence is complete without it being inserted, usually coming between curved brackets, commas or dashes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kurung",
+          "long": "Sebuah kata, kalimat, dll. Itu penjelasan dan arti kalimat selesai tanpa dimasukkan, biasanya datang di antara kurung melengkung, koma atau tanda hubung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353731.jpeg",
+      "simplified": "插入语",
+      "traditional": "插入語",
+      "pinyin": "chārù yǔ"
+    },
+    {
+      "id": 353732,
+      "translation": {
+        "en": {
+          "short": "interrogative",
+          "long": "(grammar) a function word that is used to form a question",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "interogatif",
+          "long": "(tata bahasa) Kata fungsi yang digunakan untuk membentuk pertanyaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353732.jpeg",
+      "simplified": "疑问",
+      "traditional": "疑問",
+      "pinyin": "yíwèn"
+    },
+    {
+      "id": 353733,
+      "translation": {
+        "en": {
+          "short": "apposition",
+          "long": "(grammar) the use of two adjacent noun phrases having the same referent that have the same syntactical role in a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aposisi",
+          "long": "(tata bahasa) Penggunaan dua frasa kata benda yang berdekatan yang memiliki referensi yang sama yang memiliki peran sintaksis yang sama dalam suatu kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353733.jpeg",
+      "simplified": "替代（语法）",
+      "traditional": "替代（語法）",
+      "pinyin": "tìdài yǔfǎ"
+    },
+    {
+      "id": 353734,
+      "translation": {
+        "en": {
+          "short": "coordination",
+          "long": "a grammatical process where two or more words, phrases, or clauses of equal importance are joined together using conjunctions like \"and\" or \"or\" to express a relationship between them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koordinasi",
+          "long": "Proses tata bahasa di mana dua atau lebih kata, frasa, atau klausa yang sama pentingnya bergabung bersama menggunakan konjungsi seperti \"dan\" atau \"atau\" untuk mengekspresikan hubungan di antara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353734.jpeg",
+      "simplified": "协调",
+      "traditional": "協調",
+      "pinyin": "xiétiáo"
+    },
+    {
+      "id": 353735,
+      "translation": {
+        "en": {
+          "short": "number",
+          "long": "(grammar) the form of a word that indicates whether one, two, or more things or people are being referred to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor",
+          "long": "(tata bahasa) Bentuk kata yang menunjukkan apakah satu, dua, atau lebih hal atau orang dirujuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353735.jpeg",
+      "simplified": "单复数（语法）",
+      "traditional": "單複數（語法）",
+      "pinyin": "Shàn fùshù yǔfǎ"
+    },
+    {
+      "id": 353736,
+      "translation": {
+        "en": {
+          "short": "gender",
+          "long": "(grammar) a class of words indicating whether they are feminine, masculine, or neuter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis kelamin",
+          "long": "(tata bahasa) Kelas kata yang menunjukkan apakah mereka feminin, maskulin, atau netral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353736.jpeg",
+      "simplified": "性别（语法）",
+      "traditional": "性別（語法）",
+      "pinyin": "xìngbié yǔfǎ"
+    },
+    {
+      "id": 353737,
+      "translation": {
+        "en": {
+          "short": "person",
+          "long": "(grammar) each of the three classes of pronouns that refers to who is speaking, who is being spoken to, or others that are not present during the conversation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang",
+          "long": "(tata bahasa) Masing -masing dari tiga kelas kata ganti yang mengacu pada siapa yang berbicara, siapa yang sedang diajak bicara, atau orang lain yang tidak hadir selama percakapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353737.jpeg",
+      "simplified": "人",
+      "traditional": "人",
+      "pinyin": "rén"
+    },
+    {
+      "id": 353738,
+      "translation": {
+        "en": {
+          "short": "first-person",
+          "long": "(grammar) a set of linguistic structures that refer to the speaker or writer of the discourse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang pertama",
+          "long": "(tata bahasa) Satu set struktur linguistik yang merujuk pada pembicara atau penulis wacana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353738.jpeg",
+      "simplified": "第一个人",
+      "traditional": "第一個人",
+      "pinyin": "dìyī gèrén"
+    },
+    {
+      "id": 353739,
+      "translation": {
+        "en": {
+          "short": "plural form",
+          "long": "(grammar) a grammatical structure or form of a word that refers to more than one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bentuk jamak",
+          "long": "(tata bahasa) Struktur tata bahasa atau bentuk kata yang mengacu pada lebih dari satu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353739.jpeg",
+      "simplified": "复数形式",
+      "traditional": "複數形式",
+      "pinyin": "fùshù xíng shì"
+    },
+    {
+      "id": 353740,
+      "translation": {
+        "en": {
+          "short": "masculine",
+          "long": "(grammar) a word or grammatical form that refers to males",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maskulin",
+          "long": "(tata bahasa) Kata atau bentuk tata bahasa yang mengacu pada pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353740.jpeg",
+      "simplified": "男性",
+      "traditional": "男性",
+      "pinyin": "nánxìng"
+    },
+    {
+      "id": 353741,
+      "translation": {
+        "en": {
+          "short": "neuter",
+          "long": "(grammar) a gender of words that are neither masculine nor feminine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "netral",
+          "long": "(Tata Bahasa) Jenis kelamin kata -kata yang bukan maskulin atau feminin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353741.jpeg",
+      "simplified": "中性",
+      "traditional": "中性",
+      "pinyin": "zhōngxìng"
+    },
+    {
+      "id": 353742,
+      "translation": {
+        "en": {
+          "short": "feminine",
+          "long": "(grammar) a word or grammatical form that refers to females",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wanita",
+          "long": "(tata bahasa) Bentuk kata atau tata bahasa yang mengacu pada wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353742.jpeg",
+      "simplified": "妇女",
+      "traditional": "婦女",
+      "pinyin": "fùnǚ"
+    },
+    {
+      "id": 353743,
+      "translation": {
+        "en": {
+          "short": "part of speech",
+          "long": "(grammar) any of the grammatical classes that words are categorized into, based on their usage in a sentence",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "bagian dari pidato",
+          "long": "(Tata Bahasa) Kelas tata bahasa mana pun yang dikategorikan kata -kata, berdasarkan penggunaannya dalam sebuah kalimat",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353743.jpeg",
+      "simplified": "词类",
+      "traditional": "詞類",
+      "pinyin": "cílèi"
+    },
+    {
+      "id": 353746,
+      "translation": {
+        "en": {
+          "short": "closed-class word",
+          "long": "a category of words that has a limited number of members and does not readily accept new additions, including pronouns, conjunctions, prepositions, and certain adverbs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kata kelas tertutup",
+          "long": "Kategori kata -kata yang memiliki jumlah anggota terbatas dan tidak mudah menerima tambahan baru, termasuk kata ganti, konjungsi, preposisi, dan kata keterangan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353746.jpeg",
+      "simplified": "闭类词",
+      "traditional": "閉類詞",
+      "pinyin": "bì lèi cí"
+    },
+    {
+      "id": 353747,
+      "translation": {
+        "en": {
+          "short": "open-class word",
+          "long": "a category of words that can expand and accept new members, including nouns, verbs, adjectives, and adverbs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kata kelas terbuka",
+          "long": "Kategori kata -kata yang dapat memperluas dan menerima anggota baru, termasuk kata benda, kata kerja, kata sifat, dan kata keterangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353747.jpeg",
+      "simplified": "公开课词",
+      "traditional": "公開課詞",
+      "pinyin": "gōngkāi kè cí"
+    },
+    {
+      "id": 353778,
+      "translation": {
+        "en": {
+          "short": "agreement",
+          "long": "(grammar) the situation where words in a phrase have the same gender, person, or number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjanjian",
+          "long": "(tata bahasa) Situasi di mana kata -kata dalam frasa memiliki jenis kelamin, orang, atau angka yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353778.jpeg",
+      "simplified": "协议",
+      "traditional": "協定",
+      "pinyin": "xiéyì"
+    },
+    {
+      "id": 353797,
+      "translation": {
+        "en": {
+          "short": "grammatical case",
+          "long": "a linguistic category that indicates the relationship of a noun or pronoun to other words in a sentence, typically reflecting its role as a subject, object, or modifier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kasus tata bahasa",
+          "long": "Kategori linguistik yang menunjukkan hubungan kata benda atau kata ganti dengan kata lain dalam kalimat, biasanya mencerminkan perannya sebagai subjek, objek, atau pengubah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353797.jpeg",
+      "simplified": "语法格",
+      "traditional": "語法格",
+      "pinyin": "yǔfǎ gé"
+    },
+    {
+      "id": 353855,
+      "translation": {
+        "en": {
+          "short": "subordinate conjunction",
+          "long": "a word or phrase that connects a subordinate clause to a main clause, indicating a relationship of dependence or subordination between the two clauses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konjungsi bawahan",
+          "long": "kata atau frasa yang menghubungkan klausa bawahan ke klausa utama, menunjukkan hubungan ketergantungan atau subordinasi antara kedua klausa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353855.jpeg",
+      "simplified": "从属连词",
+      "traditional": "從屬連詞",
+      "pinyin": "cóngshǔ liáncí"
+    },
+    {
+      "id": 353856,
+      "translation": {
+        "en": {
+          "short": "conjunction",
+          "long": "(grammar) a word such as and, because, but, and or that connects phrases, sentences, or words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konjungsi",
+          "long": "(tata bahasa) Sebuah kata seperti dan, karena, tetapi, dan atau itu menghubungkan frasa, kalimat, atau kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353856.jpeg",
+      "simplified": "用于连接句子中的单词、短语或从句",
+      "traditional": "用於連接句子中的單詞、短語或從句",
+      "pinyin": "yòngyú liánjiē jùzi zhòngdì dāncí duǎnyǔ huò cóngjù"
+    },
+    {
+      "id": 353857,
+      "translation": {
+        "en": {
+          "short": "coordinate conjunction",
+          "long": "a word or phrase that connects two or more elements of equal grammatical importance, such as words, phrases, or clauses, within a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Konjungsi Koordinat",
+          "long": "kata atau frasa yang menghubungkan dua atau lebih elemen dengan kepentingan tata bahasa yang sama, seperti kata, frasa, atau klausa, dalam kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353857.jpeg",
+      "simplified": "并列连词",
+      "traditional": "並列連詞",
+      "pinyin": "bìngliè liáncí"
+    },
+    {
+      "id": 353859,
+      "translation": {
+        "en": {
+          "short": "correlative conjunction",
+          "long": "a pair of conjunctions that work together to connect two or more elements of equal importance in a sentence, such as \"both...and,\" \"either...or,\" and \"neither...nor\"",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konjungsi korelatif",
+          "long": "Sepasang konjungsi yang bekerja bersama untuk menghubungkan dua atau lebih elemen yang sama pentingnya dalam sebuah kalimat, seperti \"baik ... dan,\" \"baik ... atau,\" dan \"tidak ... atau\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353859.jpeg",
+      "simplified": "关联连词",
+      "traditional": "關聯連詞",
+      "pinyin": "guānlián liáncí"
+    },
+    {
+      "id": 353803,
+      "translation": {
+        "en": {
+          "short": "subject-verb agreement",
+          "long": "the grammatical rule that a verb must agree in number and person with its subject, meaning that a singular subject takes a singular verb and a plural subject takes a plural verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perjanjian Subjek-Kerja",
+          "long": "Aturan tata bahasa bahwa kata kerja harus setuju dalam jumlah dan orang dengan subjeknya, yang berarti bahwa subjek tunggal mengambil kata kerja tunggal dan subjek jamak mengambil kata kerja jamak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353803.jpeg",
+      "simplified": "主谓一致",
+      "traditional": "主謂一致",
+      "pinyin": "zhǔ Wèi yīzhì"
+    },
+    {
+      "id": 353749,
+      "translation": {
+        "en": {
+          "short": "interposition",
+          "long": "the placement of an element, typically a word or phrase, between other elements in a sentence, disrupting the typical linear order of constituents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perantaraan",
+          "long": "penempatan suatu elemen, biasanya kata atau frasa, antara elemen lain dalam sebuah kalimat, mengganggu urutan linear konstituen yang khas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353749.jpeg",
+      "simplified": "介入",
+      "traditional": "介入",
+      "pinyin": "jièrù"
+    },
+    {
+      "id": 353849,
+      "translation": {
+        "en": {
+          "short": "wh-word",
+          "long": "a word used to introduce a question or a relative clause, typically including words like \"who,\" \"what,\" \"where,\" \"when,\" \"why,\" and \"how\"",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "word-word",
+          "long": "Sebuah kata yang digunakan untuk memperkenalkan pertanyaan atau klausa relatif, biasanya termasuk kata -kata seperti \"siapa,\" \"apa,\" \"di mana,\" \"kapan,\" \"mengapa,\" dan \"bagaimana\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353849.jpeg",
+      "simplified": "wh 词",
+      "traditional": "wh 詞",
+      "pinyin": "w cí"
+    },
+    {
+      "id": 353869,
+      "translation": {
+        "en": {
+          "short": "functional category",
+          "long": "a linguistic category that serves a grammatical or structural function in a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kategori fungsional",
+          "long": "kategori linguistik yang melayani fungsi tata bahasa atau struktural dalam suatu kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353869.jpeg",
+      "simplified": "功能类别",
+      "traditional": "功能類別",
+      "pinyin": "gōngnéng lèibié"
+    },
+    {
+      "id": 353872,
+      "translation": {
+        "en": {
+          "short": "complementizer",
+          "long": "a word that joins two parts of a sentence, like the main clause and a subordinate clause, indicating how they relate to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komplemenisasi",
+          "long": "Sebuah kata yang bergabung dengan dua bagian dari sebuah kalimat, seperti klausa utama dan klausa bawahan, menunjukkan bagaimana mereka saling berhubungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353872.jpeg",
+      "simplified": "互补者",
+      "traditional": "互補者",
+      "pinyin": "hùbǔ zhě"
+    },
+    {
+      "id": 353884,
+      "translation": {
+        "en": {
+          "short": "intensifier",
+          "long": "a word or phrase that is used to emphasize or strengthen the meaning of another word or phrase in a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intensifier",
+          "long": "kata atau frasa yang digunakan untuk menekankan atau memperkuat makna kata atau frasa lain dalam sebuah kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353884.jpeg",
+      "simplified": "增强器",
+      "traditional": "增強器",
+      "pinyin": "zēngqiáng qì"
+    },
+    {
+      "id": 353886,
+      "translation": {
+        "en": {
+          "short": "periphrasis",
+          "long": "a linguistic phenomenon that involves expressing a single grammatical meaning using multiple words or a phrase instead of a single word",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hal mengatakan dgn kata lain",
+          "long": "Fenomena linguistik yang melibatkan mengekspresikan makna tata bahasa tunggal menggunakan banyak kata atau frasa alih -alih satu kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353886.jpeg",
+      "simplified": "旁述",
+      "traditional": "旁述",
+      "pinyin": "páng shù"
+    },
+    {
+      "id": 353876,
+      "translation": {
+        "en": {
+          "short": "interjection",
+          "long": "(grammar) a phrase or word used suddenly to express a particular emotion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata seru",
+          "long": "(tata bahasa) Sebuah frasa atau kata tiba -tiba digunakan untuk mengekspresikan emosi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353876.jpeg",
+      "simplified": "欹",
+      "traditional": "欹",
+      "pinyin": "yī"
+    },
+    {
+      "id": 353887,
+      "translation": {
+        "en": {
+          "short": "adjunct",
+          "long": "a grammatical element that provides additional information or adds extra meaning to a sentence, but is not essential to its basic structure or meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambahan",
+          "long": "elemen tata bahasa yang memberikan informasi tambahan atau menambahkan makna ekstra pada kalimat, tetapi tidak penting untuk struktur atau maknanya dasarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353887.jpeg",
+      "simplified": "附件",
+      "traditional": "附件",
+      "pinyin": "fùjiàn"
+    },
+    {
+      "id": 353889,
+      "translation": {
+        "en": {
+          "short": "disjunct",
+          "long": "an adverbial element that provides additional information or commentary on the main clause or sentence, expressing the speaker's attitude, viewpoint, or evaluation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terpisah",
+          "long": "elemen kata keterangan yang memberikan informasi atau komentar tambahan tentang klausa atau kalimat utama, menyatakan sikap, sudut pandang, atau evaluasi pembicara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353889.jpeg",
+      "simplified": "分离的",
+      "traditional": "分離的",
+      "pinyin": "fēnlí de"
+    },
+    {
+      "id": 353891,
+      "translation": {
+        "en": {
+          "short": "noun modifier",
+          "long": "a word or phrase that provides additional information or description about a noun, clarifying its characteristics, qualities, or attributes within a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengubah kata benda",
+          "long": "kata atau frasa yang memberikan informasi atau deskripsi tambahan tentang kata benda, mengklarifikasi karakteristik, kualitas, atau atributnya dalam sebuah kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353891.jpeg",
+      "simplified": "名词修饰语",
+      "traditional": "名詞修飾語",
+      "pinyin": "míngcí xiūshì yǔ"
+    },
+    {
+      "id": 353894,
+      "translation": {
+        "en": {
+          "short": "binomial",
+          "long": "(grammar) a pair of words in the same grammatical category that are joined by a conjunction, usually 'and' or 'or', with a fixed order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "binomium",
+          "long": "(tata bahasa) Sepasang kata dalam kategori tata bahasa yang sama yang bergabung dengan konjungsi, biasanya 'dan' atau 'atau', dengan urutan tetap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353894.jpeg",
+      "simplified": "二项式",
+      "traditional": "二項式",
+      "pinyin": "èrxiàng shì"
+    },
+    {
+      "id": 353905,
+      "translation": {
+        "en": {
+          "short": "mood",
+          "long": "(grammar) a group of verb forms that indicate if the action or state is conceived as a statement, question, command or in another way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suasana hati",
+          "long": "(tata bahasa) Sekelompok formulir kata kerja yang menunjukkan apakah tindakan atau keadaan dipahami sebagai pernyataan, pertanyaan, perintah atau dengan cara lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353905.jpeg",
+      "simplified": "心情",
+      "traditional": "心情",
+      "pinyin": "xīnqíng"
+    },
+    {
+      "id": 353906,
+      "translation": {
+        "en": {
+          "short": "tense",
+          "long": "(grammar) a form of the verb that indicates the time or duration of the action or state of the verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tegang",
+          "long": "(tata bahasa) Bentuk kata kerja yang menunjukkan waktu atau durasi tindakan atau keadaan kata kerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353906.jpeg",
+      "simplified": "时",
+      "traditional": "時",
+      "pinyin": "shí"
+    },
+    {
+      "id": 353907,
+      "translation": {
+        "en": {
+          "short": "verb",
+          "long": "(grammar) a word or phrase used to describe an action, state, or experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata kerja",
+          "long": "(tata bahasa) Kata atau frasa yang digunakan untuk menggambarkan tindakan, negara, atau pengalaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353907.jpeg",
+      "simplified": "动词",
+      "traditional": "動詞",
+      "pinyin": "dòngcí"
+    },
+    {
+      "id": 353908,
+      "translation": {
+        "en": {
+          "short": "noun",
+          "long": "a word that is used to name a person, thing, event, state, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda",
+          "long": "Kata yang digunakan untuk menyebutkan nama seseorang, benda, acara, negara, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353908.jpeg",
+      "simplified": "名词",
+      "traditional": "名詞",
+      "pinyin": "míngcí"
+    },
+    {
+      "id": 353909,
+      "translation": {
+        "en": {
+          "short": "pronoun",
+          "long": "(grammar) a word that can replace a noun or noun phrase, such as she, it, they, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti",
+          "long": "(Tata Bahasa) Kata yang dapat menggantikan frasa kata benda atau kata benda, seperti dia, itu, mereka, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353909.jpeg",
+      "simplified": "代词",
+      "traditional": "代詞",
+      "pinyin": "dàicí"
+    },
+    {
+      "id": 353910,
+      "translation": {
+        "en": {
+          "short": "adjective",
+          "long": "a type of word that describes a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat",
+          "long": "Jenis kata yang menggambarkan kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353910.jpeg",
+      "simplified": "形容词",
+      "traditional": "形容詞",
+      "pinyin": "xíngróng cí"
+    },
+    {
+      "id": 353911,
+      "translation": {
+        "en": {
+          "short": "determiner",
+          "long": "(grammar) a word coming before a noun or noun phrase to specify its denotation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penentu",
+          "long": "(tata bahasa) Sebuah kata yang datang sebelum frasa kata benda atau kata benda untuk menentukan denotasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353911.jpeg",
+      "simplified": "定子",
+      "traditional": "定子",
+      "pinyin": "dìngzǐ"
+    },
+    {
+      "id": 353912,
+      "translation": {
+        "en": {
+          "short": "adposition",
+          "long": "a word or a morpheme that combines with a noun phrase or a pronoun to express its syntactic relationship to other parts of a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Adposisi",
+          "long": "kata atau morfem yang digabungkan dengan frasa kata benda atau kata ganti untuk mengekspresikan hubungan sintaksisnya dengan bagian lain dari sebuah kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353912.jpeg",
+      "simplified": "介词",
+      "traditional": "介詞",
+      "pinyin": "jiècí"
+    },
+    {
+      "id": 353913,
+      "translation": {
+        "en": {
+          "short": "adverb",
+          "long": "a word that gives more information about a verb, adjective, or another adverb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata keterangan",
+          "long": "kata yang memberikan lebih banyak informasi tentang kata kerja, kata sifat, atau kata keterangan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353913.jpeg",
+      "simplified": "副词",
+      "traditional": "副詞",
+      "pinyin": "fùcí"
+    },
+    {
+      "id": 354350,
+      "translation": {
+        "en": {
+          "short": "solecism",
+          "long": "a grammatical error or deviation from accepted language norms that occurs in speech or writing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan tatabahasa",
+          "long": "kesalahan tata bahasa atau penyimpangan dari norma bahasa yang diterima yang terjadi dalam bicara atau tulisan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354350.jpeg",
+      "simplified": "谬误",
+      "traditional": "謬誤",
+      "pinyin": "miùwù"
+    },
+    {
+      "id": 354370,
+      "translation": {
+        "en": {
+          "short": "pro-drop language",
+          "long": "a type of language in which pronouns can be omitted or dropped from sentences without causing ambiguity or loss of grammaticality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa pro-drop",
+          "long": "Jenis bahasa di mana kata ganti dapat dihilangkan atau dijatuhkan dari kalimat tanpa menyebabkan ambiguitas atau kehilangan tata bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354370.jpeg",
+      "simplified": "赞成放弃语言",
+      "traditional": "贊成放棄語言",
+      "pinyin": "zànchéng fàngqì yǔyán"
+    },
+    {
+      "id": 354375,
+      "translation": {
+        "en": {
+          "short": "topic-prominent language",
+          "long": "a language in which sentence structure is influenced by the topic of discourse, emphasizing information rather than grammatical subjects or verbs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa topik yang menonjol",
+          "long": "Bahasa di mana struktur kalimat dipengaruhi oleh topik wacana, menekankan informasi daripada subjek atau kata kerja tata bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354375.jpeg",
+      "simplified": "主题突出的语言",
+      "traditional": "主題突出的語言",
+      "pinyin": "zhǔtí tūchū de yǔyán"
+    },
+    {
+      "id": 354469,
+      "translation": {
+        "en": {
+          "short": "anaphora",
+          "long": "(grammar) a word or phrase that refers to a preceding word or phrase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Anaphora",
+          "long": "(tata bahasa) Kata atau frasa yang mengacu pada kata atau frasa sebelumnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354469.jpeg",
+      "simplified": "用于避免重复的单词",
+      "traditional": "用於避免重複的單詞",
+      "pinyin": "yòngyú bìmiǎn chóngfù de dāncí"
+    }
+  ]
+}

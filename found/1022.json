@@ -1,0 +1,773 @@
+{
+  "id": 1022,
+  "title": {
+    "en": "Money and Business",
+    "id": "Uang dan bisnis"
+  },
+  "description": {
+    "en": "Here you will learn some English words about money and business, such as \"soar\", \"overdue\", \"quotation\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang uang dan bisnis, seperti \"melambung\", \"terlambat\", \"kutipan\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 244479,
+      "translation": {
+        "en": {
+          "short": "to depreciate",
+          "long": "to diminish in value, especially over time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendepresiasi",
+          "long": "untuk mengurangi nilainya, terutama seiring waktu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244479.jpeg",
+      "simplified": "贬值",
+      "traditional": "貶值",
+      "pinyin": "biǎnzhí"
+    },
+    {
+      "id": 244494,
+      "translation": {
+        "en": {
+          "short": "to fluctuate",
+          "long": "to vary or waver between two or more states or amounts",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berfluktuasi",
+          "long": "bervariasi atau goyah antara dua atau lebih negara atau jumlah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244494.jpeg",
+      "simplified": "不稳定（价格）",
+      "traditional": "不穩定（價格）",
+      "pinyin": "bùwěn dìng jiàgé"
+    },
+    {
+      "id": 244500,
+      "translation": {
+        "en": {
+          "short": "to plummet",
+          "long": "to decline in amount or value in a sudden and rapid way",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk anjlok",
+          "long": "untuk menolak jumlah atau nilai dengan cara yang tiba -tiba dan cepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244500.jpeg",
+      "simplified": "垂直落下",
+      "traditional": "垂直落下",
+      "pinyin": "chuízhí luòxià"
+    },
+    {
+      "id": 244503,
+      "translation": {
+        "en": {
+          "short": "to soar",
+          "long": "to increase rapidly to a high level",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melambung",
+          "long": "untuk meningkat dengan cepat ke tingkat tinggi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244503.jpeg",
+      "simplified": "当某物快速增加时",
+      "traditional": "當某物快速增加時",
+      "pinyin": "dāng mǒuwù kuàisù zēngjiā shí"
+    },
+    {
+      "id": 244487,
+      "translation": {
+        "en": {
+          "short": "convertible",
+          "long": "able to be changed from one form of currency, investment, or security into another",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mobil atap terbuka",
+          "long": "dapat diubah dari satu bentuk mata uang, investasi, atau keamanan menjadi yang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244487.jpeg",
+      "simplified": "敞篷车",
+      "traditional": "敞篷車",
+      "pinyin": "chǎngpéng chē"
+    },
+    {
+      "id": 244490,
+      "translation": {
+        "en": {
+          "short": "deregulatory",
+          "long": "relating to the removal or reduction of governmental power or regulations from an industry, commodity, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Deregulatory",
+          "long": "Berkaitan dengan penghapusan atau pengurangan kekuasaan atau peraturan pemerintah dari suatu industri, komoditas, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244490.jpeg",
+      "simplified": "放松管制",
+      "traditional": "放鬆管制",
+      "pinyin": "fàngsōng guǎn zhì"
+    },
+    {
+      "id": 244492,
+      "translation": {
+        "en": {
+          "short": "extravagant",
+          "long": "costing a lot of money, more than the necessary or affordable amount",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "boros",
+          "long": "menghabiskan banyak uang, lebih dari jumlah yang diperlukan atau terjangkau",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244492.jpeg",
+      "simplified": "非常贵",
+      "traditional": "非常貴",
+      "pinyin": "fēicháng guì"
+    },
+    {
+      "id": 244493,
+      "translation": {
+        "en": {
+          "short": "fiscal",
+          "long": "relating to government revenue or public money, especially taxes",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "fiskal",
+          "long": "terkait dengan pendapatan pemerintah atau uang publik, terutama pajak",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244493.jpeg",
+      "simplified": "财",
+      "traditional": "財",
+      "pinyin": "cái"
+    },
+    {
+      "id": 244495,
+      "translation": {
+        "en": {
+          "short": "laissez-faire",
+          "long": "relating to a policy in which private businesses are allowed to thrive without government control",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "laissez-faire",
+          "long": "Berkaitan dengan kebijakan di mana bisnis swasta diizinkan untuk berkembang tanpa kendali pemerintah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244495.jpeg",
+      "simplified": "自由放任",
+      "traditional": "自由放任",
+      "pinyin": "zìyóu fàng rèn"
+    },
+    {
+      "id": 244499,
+      "translation": {
+        "en": {
+          "short": "overdue",
+          "long": "‌not paid, done, etc. within the required or expected timeframe",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terlambat",
+          "long": "‌Tidak dibayar, selesai, dll. Dalam jangka waktu yang diperlukan atau yang diharapkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244499.jpeg",
+      "simplified": "逾期的",
+      "traditional": "逾期的",
+      "pinyin": "yúqī de"
+    },
+    {
+      "id": 244478,
+      "translation": {
+        "en": {
+          "short": "alimony",
+          "long": "the money that is demanded by the court to be paid to an ex-spouse or ex-partner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alimentasi",
+          "long": "uang yang diminta oleh pengadilan untuk dibayarkan kepada mantan pasangan atau mantan rekan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244478.jpeg",
+      "simplified": "生活费",
+      "traditional": "生活費",
+      "pinyin": "shēnghuó fèi"
+    },
+    {
+      "id": 244480,
+      "translation": {
+        "en": {
+          "short": "arrears",
+          "long": "an unpaid debt that is past due",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tunggakan",
+          "long": "hutang yang belum dibayar yang sudah lewat jatuh tempo",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244480.jpeg",
+      "simplified": "欠帐",
+      "traditional": "欠帳",
+      "pinyin": "qiàn zhàng"
+    },
+    {
+      "id": 244486,
+      "translation": {
+        "en": {
+          "short": "collateral",
+          "long": "a loan guarantee that may be taken away if the loan is not repaid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaminan",
+          "long": "jaminan pinjaman yang mungkin diambil jika pinjaman tidak dibayar kembali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244486.jpeg",
+      "simplified": "抵押品",
+      "traditional": "抵押品",
+      "pinyin": "dǐyā pǐn"
+    },
+    {
+      "id": 244484,
+      "translation": {
+        "en": {
+          "short": "incentive",
+          "long": "a payment or concession to encourage someone to do something specific",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "insentif",
+          "long": "pembayaran atau konsesi untuk mendorong seseorang melakukan sesuatu yang spesifik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244484.jpeg",
+      "simplified": "激励",
+      "traditional": "激勵",
+      "pinyin": "jīlì"
+    },
+    {
+      "id": 244481,
+      "translation": {
+        "en": {
+          "short": "audit",
+          "long": "a formal inspection of a business's financial records to see if they are correct and accurate or not",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "audit",
+          "long": "inspeksi formal catatan keuangan bisnis untuk melihat apakah mereka benar dan akurat atau tidak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244481.jpeg",
+      "simplified": "财务检查",
+      "traditional": "財務檢查",
+      "pinyin": "cáiwù jiǎnchá"
+    },
+    {
+      "id": 244482,
+      "translation": {
+        "en": {
+          "short": "bailout",
+          "long": "an act of giving money to a foreign country, a failing company, or an organization on the verge of collapse to ensure their safety from bankruptcy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bailout",
+          "long": "tindakan memberikan uang kepada negara asing, perusahaan yang gagal, atau organisasi di ambang kehancuran untuk memastikan keamanan mereka dari kebangkrutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244482.jpeg",
+      "simplified": "济",
+      "traditional": "濟",
+      "pinyin": "Jǐ"
+    },
+    {
+      "id": 244483,
+      "translation": {
+        "en": {
+          "short": "insolvency",
+          "long": "the state or condition of not having enough money to pay one's debts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keadaan bangkrut",
+          "long": "negara atau kondisi tidak memiliki cukup uang untuk membayar hutang seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244483.jpeg",
+      "simplified": "破产",
+      "traditional": "破產",
+      "pinyin": "pòchǎn"
+    },
+    {
+      "id": 244501,
+      "translation": {
+        "en": {
+          "short": "quotation",
+          "long": "a statement indicating the cost of a specific service or piece of work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kutipan",
+          "long": "pernyataan yang menunjukkan biaya layanan atau pekerjaan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244501.jpeg",
+      "simplified": "当前市场价格表",
+      "traditional": "當前市場價格表",
+      "pinyin": "dāngqián shìchǎng jià gé biǎo"
+    },
+    {
+      "id": 244488,
+      "translation": {
+        "en": {
+          "short": "crunch",
+          "long": "a challenging situation caused by a shortage, such as time, money, or resources, that requires immediate attention or action",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kegentingan",
+          "long": "Situasi yang menantang yang disebabkan oleh kekurangan, seperti waktu, uang, atau sumber daya, yang membutuhkan perhatian atau tindakan segera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244488.jpeg",
+      "simplified": "紧缩",
+      "traditional": "緊縮",
+      "pinyin": "jǐnsuō"
+    },
+    {
+      "id": 244489,
+      "translation": {
+        "en": {
+          "short": "deflation",
+          "long": "(economics) a decrease in the amount of money in an economy, resulting in falling or unchanged prices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deflasi",
+          "long": "(Ekonomi) Penurunan jumlah uang dalam ekonomi, yang mengakibatkan penurunan atau harga yang tidak berubah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244489.jpeg",
+      "simplified": "缩小",
+      "traditional": "縮小",
+      "pinyin": "suōxiǎo"
+    },
+    {
+      "id": 244491,
+      "translation": {
+        "en": {
+          "short": "dividend",
+          "long": "an amount of money paid regularly to the shareholders of a company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dividen",
+          "long": "Sejumlah uang yang dibayarkan secara teratur kepada pemegang saham perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244491.jpeg",
+      "simplified": "股利",
+      "traditional": "股利",
+      "pinyin": "gǔlì"
+    },
+    {
+      "id": 244496,
+      "translation": {
+        "en": {
+          "short": "leverage",
+          "long": "(finance) the value of a company's shares in relation to its debts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "manfaat",
+          "long": "(Keuangan) Nilai saham perusahaan sehubungan dengan utangnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244496.jpeg",
+      "simplified": "杠杆作用",
+      "traditional": "槓桿作用",
+      "pinyin": "gànggǎn zuòyòng"
+    },
+    {
+      "id": 244502,
+      "translation": {
+        "en": {
+          "short": "ransom",
+          "long": "an amount of money demanded or paid for the release of a person who is in captivity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tebusan",
+          "long": "Sejumlah uang yang diminta atau dibayar untuk pelepasan orang yang berada di penangkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244502.jpeg",
+      "simplified": "赎金（钱）",
+      "traditional": "贖金（錢）",
+      "pinyin": "shújīn Qián"
+    },
+    {
+      "id": 244505,
+      "translation": {
+        "en": {
+          "short": "subsidy",
+          "long": "an amount of money that a government or organization pays to lower the costs of producing goods or providing services so that prices do not increase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subsidi",
+          "long": "Sejumlah uang yang dibayar pemerintah atau organisasi untuk menurunkan biaya memproduksi barang atau menyediakan layanan sehingga harga tidak meningkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244505.jpeg",
+      "simplified": "补贴",
+      "traditional": "補貼",
+      "pinyin": "bǔtiē"
+    },
+    {
+      "id": 244506,
+      "translation": {
+        "en": {
+          "short": "tariff",
+          "long": "a tax paid on goods imported or exported",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarif",
+          "long": "pajak yang dibayarkan atas barang yang diimpor atau diekspor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244506.jpeg",
+      "simplified": "关税",
+      "traditional": "關稅",
+      "pinyin": "guānshuì"
+    },
+    {
+      "id": 244515,
+      "translation": {
+        "en": {
+          "short": "usury",
+          "long": "the act of loaning money to others and demanding a very high interest rate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "riba",
+          "long": "tindakan meminjamkan uang kepada orang lain dan menuntut tingkat bunga yang sangat tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244515.jpeg",
+      "simplified": "高利贷",
+      "traditional": "高利貸",
+      "pinyin": "gāolì dài"
+    },
+    {
+      "id": 244497,
+      "translation": {
+        "en": {
+          "short": "liquidity",
+          "long": "financial assets in the form of money or able to be easily converted into money",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "likuiditas",
+          "long": "aset keuangan dalam bentuk uang atau dapat dengan mudah dikonversi menjadi uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244497.jpeg",
+      "simplified": "流动性",
+      "traditional": "流動性",
+      "pinyin": "liúdòng xìng"
+    },
+    {
+      "id": 244498,
+      "translation": {
+        "en": {
+          "short": "monetarism",
+          "long": "the theory or policy of controlling the amount of money in circulation as the preferred method of stabilizing the economy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monetarisme",
+          "long": "teori atau kebijakan mengendalikan jumlah uang yang beredar sebagai metode yang disukai untuk menstabilkan ekonomi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244498.jpeg",
+      "simplified": "货币主义",
+      "traditional": "貨幣主義",
+      "pinyin": "huòbì zhǔ yì"
+    },
+    {
+      "id": 244504,
+      "translation": {
+        "en": {
+          "short": "stagflation",
+          "long": "an economic situation with persistent high inflation and a high unemployment rate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stagflasi",
+          "long": "Situasi ekonomi dengan inflasi tinggi yang persisten dan tingkat pengangguran yang tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244504.jpeg",
+      "simplified": "滞胀",
+      "traditional": "滯脹",
+      "pinyin": "zhìzhàng"
+    },
+    {
+      "id": 244507,
+      "translation": {
+        "en": {
+          "short": "clientele",
+          "long": "all the customers collectively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelanggan",
+          "long": "semua pelanggan secara kolektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244507.jpeg",
+      "simplified": "客户",
+      "traditional": "客戶",
+      "pinyin": "kèhù"
+    },
+    {
+      "id": 244508,
+      "translation": {
+        "en": {
+          "short": "conglomerate",
+          "long": "a corporation formed by merging different firms or businesses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konglomerat",
+          "long": "Korporasi yang dibentuk dengan menggabungkan berbagai perusahaan atau bisnis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244508.jpeg",
+      "simplified": "由多个不同商业实体组成的公司",
+      "traditional": "由多個不同商業實體組成的公司",
+      "pinyin": "yóu duōge bùtóng shāngyè shítǐ zǔchéng de gōngsī"
+    },
+    {
+      "id": 244513,
+      "translation": {
+        "en": {
+          "short": "subsidiary",
+          "long": "a business company controlled or owned by a holding or parent company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak perusahaan",
+          "long": "perusahaan bisnis yang dikendalikan atau dimiliki oleh perusahaan induk atau induk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244513.jpeg",
+      "simplified": "附加物",
+      "traditional": "附加物",
+      "pinyin": "fùjiā wù"
+    },
+    {
+      "id": 244510,
+      "translation": {
+        "en": {
+          "short": "infomercial",
+          "long": "an advertising television program that tries to promote a product by giving a lot of information about it in a supposedly objective manner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "infomersial",
+          "long": "program televisi periklanan yang mencoba mempromosikan produk dengan memberikan banyak informasi tentang hal itu dengan cara yang seharusnya objektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244510.jpeg",
+      "simplified": "电视广告",
+      "traditional": "電視廣告",
+      "pinyin": "diànshì guǎnggào"
+    },
+    {
+      "id": 244517,
+      "translation": {
+        "en": {
+          "short": "curtailment",
+          "long": "the act of reducing or limiting something in order to reach financial stability",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembatasan",
+          "long": "tindakan mengurangi atau membatasi sesuatu untuk mencapai stabilitas keuangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244517.jpeg",
+      "simplified": "削减",
+      "traditional": "削減",
+      "pinyin": "xuējiǎn"
+    },
+    {
+      "id": 244511,
+      "translation": {
+        "en": {
+          "short": "outsourcing",
+          "long": "the process of having someone outside of a company provide goods or services for that company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "outsourcing",
+          "long": "proses memiliki seseorang di luar perusahaan menyediakan barang atau jasa untuk perusahaan itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244511.jpeg",
+      "simplified": "外包",
+      "traditional": "外包",
+      "pinyin": "wàibāo"
+    },
+    {
+      "id": 244485,
+      "translation": {
+        "en": {
+          "short": "broker",
+          "long": "a person whose job is to sell and buy assets and goods for other people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makelar",
+          "long": "seseorang yang tugasnya adalah menjual dan membeli aset dan barang untuk orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244485.jpeg",
+      "simplified": "经纪人",
+      "traditional": "經紀人",
+      "pinyin": "jīngjì rén"
+    },
+    {
+      "id": 244512,
+      "translation": {
+        "en": {
+          "short": "loan shark",
+          "long": "a person who lends money to people, typically under illegal conditions, at a very high rate of interest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lintah darat",
+          "long": "seseorang yang memberikan uang kepada orang -orang, biasanya dalam kondisi ilegal, pada tingkat bunga yang sangat tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244512.jpeg",
+      "simplified": "高利贷者",
+      "traditional": "高利貸者",
+      "pinyin": "gāolì dài zhě"
+    },
+    {
+      "id": 244514,
+      "translation": {
+        "en": {
+          "short": "tycoon",
+          "long": "a rich and powerful person who is successful in business or industry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "raja",
+          "long": "Orang yang kaya dan kuat yang sukses dalam bisnis atau industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244514.jpeg",
+      "simplified": "巨头",
+      "traditional": "巨頭",
+      "pinyin": "jùtóu"
+    },
+    {
+      "id": 244516,
+      "translation": {
+        "en": {
+          "short": "magnate",
+          "long": "a wealthy, influential, and successful businessperson",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tokoh terkemuka",
+          "long": "Seorang pebisnis yang kaya, berpengaruh, dan sukses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244516.jpeg",
+      "simplified": "巨头",
+      "traditional": "巨頭",
+      "pinyin": "jùtóu"
+    },
+    {
+      "id": 244509,
+      "translation": {
+        "en": {
+          "short": "dog eat dog",
+          "long": "(in business, politics, etc.) a situation in which the competition is so fierce that everyone is willing to do whatever it takes to be successful, even if it means harming others",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "anjing makan anjing",
+          "long": "(dalam bisnis, politik, dll.) Suatu situasi di mana persaingan begitu sengit sehingga semua orang bersedia melakukan apa pun yang diperlukan untuk menjadi sukses, bahkan jika itu berarti menyakiti orang lain",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244509.jpeg",
+      "simplified": "激烈无情的竞争",
+      "traditional": "激烈無情的競爭",
+      "pinyin": "jīliè wúqíng de jìngzhēng"
+    }
+  ]
+}

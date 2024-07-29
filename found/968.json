@@ -1,0 +1,773 @@
+{
+  "id": 968,
+  "title": {
+    "en": "Religion",
+    "id": "Agama"
+  },
+  "description": {
+    "en": "Here you will learn some English words about religion, such as \"father\", \"bishop\", \"parish\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang agama, seperti \"ayah\", \"uskup\", \"paroki\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 242550,
+      "translation": {
+        "en": {
+          "short": "Father",
+          "long": "God's title, given and used by Christians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ayah",
+          "long": "Gelar Tuhan, diberikan dan digunakan oleh orang Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242550.jpeg",
+      "simplified": "父亲",
+      "traditional": "父親",
+      "pinyin": "fùqīn"
+    },
+    {
+      "id": 242543,
+      "translation": {
+        "en": {
+          "short": "Christ",
+          "long": "the man based on whose teachings Christianity is established",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kristus",
+          "long": "Pria yang didasarkan pada ajarannya yang Kristen didirikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242543.jpeg",
+      "simplified": "基督",
+      "traditional": "基督",
+      "pinyin": "Jīdū"
+    },
+    {
+      "id": 242555,
+      "translation": {
+        "en": {
+          "short": "Jesus",
+          "long": "the man whose followers believe to be the son of God and whose teachings are the foundation of the Christian religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Yesus",
+          "long": "Pria yang pengikutnya percaya sebagai Anak Allah dan yang ajarannya adalah fondasi agama Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242555.jpeg",
+      "simplified": "耶稣基督",
+      "traditional": "耶穌基督",
+      "pinyin": "Yēsū Jī dū"
+    },
+    {
+      "id": 242570,
+      "translation": {
+        "en": {
+          "short": "saint",
+          "long": "someone who, after their death, is officially recognized by the Christian Church as a very holy person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "santo",
+          "long": "seseorang yang, setelah kematian mereka, secara resmi diakui oleh Gereja Kristen sebagai orang yang sangat suci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242570.jpeg",
+      "simplified": "圣人",
+      "traditional": "聖人",
+      "pinyin": "shèngrén"
+    },
+    {
+      "id": 242564,
+      "translation": {
+        "en": {
+          "short": "Pope",
+          "long": "the person who leads the Roman Catholic Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paus",
+          "long": "orang yang memimpin Gereja Katolik Roma",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242564.jpeg",
+      "simplified": "教皇",
+      "traditional": "教皇",
+      "pinyin": "Jiàohuáng"
+    },
+    {
+      "id": 242537,
+      "translation": {
+        "en": {
+          "short": "bishop",
+          "long": "a high-ranking priest who supervises all the churches and priests in a city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uskup",
+          "long": "seorang pendeta berpangkat tinggi yang mengawasi semua gereja dan imam di kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242537.jpeg",
+      "simplified": "主教",
+      "traditional": "主教",
+      "pinyin": "zhǔjiào"
+    },
+    {
+      "id": 242562,
+      "translation": {
+        "en": {
+          "short": "pastor",
+          "long": "a priest or minister who is in charge of a church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendeta",
+          "long": "seorang pendeta atau menteri yang bertanggung jawab atas sebuah gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242562.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 242539,
+      "translation": {
+        "en": {
+          "short": "brother",
+          "long": "a man who is a member of a religious group, particularly a monk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudara laki-laki",
+          "long": "Seorang pria yang merupakan anggota kelompok agama, terutama seorang bhikkhu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242539.jpeg",
+      "simplified": "宗教兄弟",
+      "traditional": "宗教兄弟",
+      "pinyin": "zōngjiào xiōngdì"
+    },
+    {
+      "id": 242556,
+      "translation": {
+        "en": {
+          "short": "missionary",
+          "long": "someone who is sent to a foreign country to teach and talk about religion, particularly to persuade others to become a member of the Christian Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "misionaris",
+          "long": "seseorang yang dikirim ke negara asing untuk mengajar dan berbicara tentang agama, terutama untuk membujuk orang lain untuk menjadi anggota gereja Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242556.jpeg",
+      "simplified": "传教士",
+      "traditional": "傳教士",
+      "pinyin": "chuánjiào shì"
+    },
+    {
+      "id": 242558,
+      "translation": {
+        "en": {
+          "short": "monk",
+          "long": "a member of a male religious group that lives in a monastery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biarawan",
+          "long": "anggota kelompok agama pria yang tinggal di sebuah biara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242558.jpeg",
+      "simplified": "僧",
+      "traditional": "僧",
+      "pinyin": "sēng"
+    },
+    {
+      "id": 242560,
+      "translation": {
+        "en": {
+          "short": "nun",
+          "long": "a member of a female religious group that lives in a convent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biarawati",
+          "long": "anggota kelompok agama wanita yang tinggal di biara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242560.jpeg",
+      "simplified": "尼姑",
+      "traditional": "尼姑",
+      "pinyin": "nígū"
+    },
+    {
+      "id": 242542,
+      "translation": {
+        "en": {
+          "short": "Catholic",
+          "long": "related to or belonging to the Western branch of the Christian Church that is led by the Pope",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Katolik",
+          "long": "Terkait atau Milik Cabang Barat Gereja Kristen yang dipimpin oleh Paus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242542.jpeg",
+      "simplified": "天主教",
+      "traditional": "天主教",
+      "pinyin": "Tiānzhǔ jiào"
+    },
+    {
+      "id": 242566,
+      "translation": {
+        "en": {
+          "short": "Protestant",
+          "long": "related to or belonging to the Western branch of the Christian Church, distinct from the Roman Catholic Church",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Protestan",
+          "long": "Terkait dengan atau milik Cabang Barat Gereja Kristen, berbeda dari Gereja Katolik Roma",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242566.jpeg",
+      "simplified": "新教",
+      "traditional": "新教",
+      "pinyin": "Xīnjiào"
+    },
+    {
+      "id": 242545,
+      "translation": {
+        "en": {
+          "short": "congregation",
+          "long": "a group of people who gather in a church to say prayers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kongregasi",
+          "long": "sekelompok orang yang berkumpul di gereja untuk berdoa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242545.jpeg",
+      "simplified": "集合",
+      "traditional": "集合",
+      "pinyin": "jíhé"
+    },
+    {
+      "id": 242561,
+      "translation": {
+        "en": {
+          "short": "parish",
+          "long": "an area with a church of its own that is under the care of a priest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paroki",
+          "long": "Area dengan gereja sendiri yang berada di bawah perawatan seorang imam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242561.jpeg",
+      "simplified": "地方教会区",
+      "traditional": "地方教會區",
+      "pinyin": "dìfāng jiāohuì Oū"
+    },
+    {
+      "id": 242546,
+      "translation": {
+        "en": {
+          "short": "convert",
+          "long": "someone who has changed their religion or opinion regarding a matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengubah",
+          "long": "seseorang yang telah mengubah agama atau pendapat mereka tentang suatu masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242546.jpeg",
+      "simplified": "皈依另一种宗教的人",
+      "traditional": "皈依另一種宗教的人",
+      "pinyin": "guīyī lìngyī zhǒng zōngjiào de rén"
+    },
+    {
+      "id": 242551,
+      "translation": {
+        "en": {
+          "short": "follower",
+          "long": "someone who respects, supports, and believes in a certain individual or system of ideas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengikut",
+          "long": "seseorang yang menghormati, mendukung, dan percaya pada individu atau sistem ide tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242551.jpeg",
+      "simplified": "追随者（宗教、信仰等）",
+      "traditional": "追隨者（宗教、信仰等）",
+      "pinyin": "zhuīsuí zhě zōngjiào xìnyǎng děng"
+    },
+    {
+      "id": 242563,
+      "translation": {
+        "en": {
+          "short": "pilgrim",
+          "long": "a religious person who travels to a sacred place for a holy cause",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peziarah",
+          "long": "orang yang religius yang bepergian ke tempat suci untuk tujuan suci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242563.jpeg",
+      "simplified": "香客",
+      "traditional": "香客",
+      "pinyin": "xiāngkè"
+    },
+    {
+      "id": 242544,
+      "translation": {
+        "en": {
+          "short": "christening",
+          "long": "a Christian religious ceremony during which a baby is named and admitted to the Christian Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembaptisan",
+          "long": "Upacara keagamaan Kristen di mana seorang bayi dinamai dan dirawat di gereja Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242544.jpeg",
+      "simplified": "洗礼",
+      "traditional": "洗禮",
+      "pinyin": "xǐlǐ"
+    },
+    {
+      "id": 242538,
+      "translation": {
+        "en": {
+          "short": "blessing",
+          "long": "a prayer asking for God's protection and help",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anugerah",
+          "long": "Doa meminta perlindungan dan bantuan Tuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242538.jpeg",
+      "simplified": "祝福",
+      "traditional": "祝福",
+      "pinyin": "zhùfú"
+    },
+    {
+      "id": 242540,
+      "translation": {
+        "en": {
+          "short": "Buddhist",
+          "long": "someone who follows Buddhism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Buddhis",
+          "long": "seseorang yang mengikuti agama Buddha",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242540.jpeg",
+      "simplified": "佛教徒",
+      "traditional": "佛教徒",
+      "pinyin": "Fójiào tú"
+    },
+    {
+      "id": 242552,
+      "translation": {
+        "en": {
+          "short": "funeral",
+          "long": "a religious ceremony in which people bury or cremate a dead person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemakaman",
+          "long": "Upacara keagamaan di mana orang mengubur atau mengkremasi orang yang sudah mati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242552.jpeg",
+      "simplified": "葬礼",
+      "traditional": "葬禮",
+      "pinyin": "zànglǐ"
+    },
+    {
+      "id": 242547,
+      "translation": {
+        "en": {
+          "short": "cult",
+          "long": "a group of people with extreme religious views who are separate from any established religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kultus",
+          "long": "sekelompok orang dengan pandangan agama ekstrem yang terpisah dari agama yang mapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242547.jpeg",
+      "simplified": "邪教",
+      "traditional": "邪教",
+      "pinyin": "xiéjiào"
+    },
+    {
+      "id": 242549,
+      "translation": {
+        "en": {
+          "short": "fate",
+          "long": "the power that some people believe controls everything that occurs and that is inevitable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "takdir",
+          "long": "Kekuatan yang diyakini beberapa orang mengendalikan segala sesuatu yang terjadi dan itu tidak bisa dihindari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242549.jpeg",
+      "simplified": "命运",
+      "traditional": "命運",
+      "pinyin": "mìngyùn"
+    },
+    {
+      "id": 242554,
+      "translation": {
+        "en": {
+          "short": "Islam",
+          "long": "the religion of the Muslims, which was established by Muhammad whose holy book is called the Quran",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Islam",
+          "long": "Agama Muslim, yang didirikan oleh Muhammad yang kitab sucinya disebut The Quran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242554.jpeg",
+      "simplified": "伊斯兰教",
+      "traditional": "伊斯蘭教",
+      "pinyin": "Yīsī lán jiào"
+    },
+    {
+      "id": 242559,
+      "translation": {
+        "en": {
+          "short": "Muhammad",
+          "long": "the Arab prophet who established the religion of Islam",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Muhammad",
+          "long": "Nabi Arab yang mendirikan agama Islam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242559.jpeg",
+      "simplified": "穆罕默德",
+      "traditional": "穆罕默德",
+      "pinyin": "Mùhǎn mò dé"
+    },
+    {
+      "id": 242557,
+      "translation": {
+        "en": {
+          "short": "monastery",
+          "long": "a building where a group of monks live and pray",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biara",
+          "long": "sebuah bangunan tempat sekelompok bhikkhu tinggal dan berdoa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242557.jpeg",
+      "simplified": "修道院",
+      "traditional": "修道院",
+      "pinyin": "xiūdào yuàn"
+    },
+    {
+      "id": 242571,
+      "translation": {
+        "en": {
+          "short": "shrine",
+          "long": "a place or building for people to pray in, which is considered holy by many due to its connection with a sacred person, event, or object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuil",
+          "long": "Tempat atau bangunan untuk didoakan orang, yang dianggap suci oleh banyak orang karena hubungannya dengan orang suci, peristiwa, atau objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242571.jpeg",
+      "simplified": "神社",
+      "traditional": "神社",
+      "pinyin": "shénshè"
+    },
+    {
+      "id": 242567,
+      "translation": {
+        "en": {
+          "short": "ritual",
+          "long": "the act of conducting a series of fixed actions, particular to a religious ceremony",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "upacara",
+          "long": "Tindakan melakukan serangkaian tindakan tetap, khususnya untuk upacara keagamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242567.jpeg",
+      "simplified": "仪式",
+      "traditional": "儀式",
+      "pinyin": "yíshì"
+    },
+    {
+      "id": 242548,
+      "translation": {
+        "en": {
+          "short": "divine",
+          "long": "originating from, relating to, or associated with God or a god",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bersifat ketuhanan",
+          "long": "berasal dari, berkaitan dengan, atau terkait dengan Tuhan atau Tuhan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242548.jpeg",
+      "simplified": "神圣的",
+      "traditional": "神聖的",
+      "pinyin": "shénshèng de"
+    },
+    {
+      "id": 242568,
+      "translation": {
+        "en": {
+          "short": "sacred",
+          "long": "connected with God or a god, and considered holy or deeply respected in religious contexts",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "suci",
+          "long": "terhubung dengan Tuhan atau Tuhan, dan dianggap kudus atau sangat dihormati dalam konteks agama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242568.jpeg",
+      "simplified": "神圣",
+      "traditional": "神聖",
+      "pinyin": "shénshèng"
+    },
+    {
+      "id": 245238,
+      "translation": {
+        "en": {
+          "short": "secular",
+          "long": "not concerned or connected with religion",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sekuler",
+          "long": "tidak peduli atau terhubung dengan agama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245238.jpeg",
+      "simplified": "世俗",
+      "traditional": "世俗",
+      "pinyin": "shìsú"
+    },
+    {
+      "id": 242565,
+      "translation": {
+        "en": {
+          "short": "to preach",
+          "long": "to give a religious speech, particularly in a church",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berkhotbah",
+          "long": "untuk memberikan pidato religius, khususnya di gereja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242565.jpeg",
+      "simplified": "讲道",
+      "traditional": "講道",
+      "pinyin": "jiǎngdào"
+    },
+    {
+      "id": 242569,
+      "translation": {
+        "en": {
+          "short": "to sacrifice",
+          "long": "to kill an animal or person as a religious act",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengorbankan",
+          "long": "untuk membunuh binatang atau orang sebagai tindakan keagamaan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242569.jpeg",
+      "simplified": "（宗教地）牺牲",
+      "traditional": "（宗教地）犧牲",
+      "pinyin": "zōngjiào de xīshēng"
+    },
+    {
+      "id": 242572,
+      "translation": {
+        "en": {
+          "short": "to sin",
+          "long": "to act against religious or moral rules",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk dosa",
+          "long": "untuk bertindak melawan aturan agama atau moral",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242572.jpeg",
+      "simplified": "犯罪",
+      "traditional": "犯罪",
+      "pinyin": "fànzuì"
+    },
+    {
+      "id": 242573,
+      "translation": {
+        "en": {
+          "short": "to worship",
+          "long": "to respect and honor God or a deity, especially by performing rituals",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyembah",
+          "long": "untuk menghormati dan menghormati Tuhan atau dewa, terutama dengan melakukan ritual",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242573.jpeg",
+      "simplified": "崇拜",
+      "traditional": "崇拜",
+      "pinyin": "chóngbài"
+    },
+    {
+      "id": 246273,
+      "translation": {
+        "en": {
+          "short": "archbishop",
+          "long": "a bishop of the highest rank who is responsible for all the churches in a specific large area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uskup agung",
+          "long": "seorang uskup dengan peringkat tertinggi yang bertanggung jawab atas semua gereja di daerah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246273.jpeg",
+      "simplified": "大主教",
+      "traditional": "大主教",
+      "pinyin": "dàzhǔ jiào"
+    },
+    {
+      "id": 264016,
+      "translation": {
+        "en": {
+          "short": "God-fearing",
+          "long": "very faithful to God and devoted to religion",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Taqwa",
+          "long": "sangat setia kepada Tuhan dan mengabdi pada agama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264016.jpeg",
+      "simplified": "敬畏上帝",
+      "traditional": "敬畏上帝",
+      "pinyin": "jìngwèi Shàngdì"
+    },
+    {
+      "id": 264887,
+      "translation": {
+        "en": {
+          "short": "godless",
+          "long": "lacking faith in or respect for God",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Tanpa Tuhan",
+          "long": "kurang percaya atau menghormati Tuhan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264887.jpeg",
+      "simplified": "无神论者",
+      "traditional": "無神論者",
+      "pinyin": "wúshén lùn zhě"
+    },
+    {
+      "id": 262111,
+      "translation": {
+        "en": {
+          "short": "to fear",
+          "long": "to be scared of someone or something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "takut",
+          "long": "untuk ditakuti seseorang atau sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262111.jpeg",
+      "simplified": "恐惧",
+      "traditional": "恐懼",
+      "pinyin": "kǒngjù"
+    }
+  ]
+}

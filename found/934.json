@@ -1,0 +1,716 @@
+{
+  "id": 934,
+  "title": {
+    "en": "Transportation",
+    "id": "Angkutan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about transportation, such as \"terminal\", \"runway\", \"navigate\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang transportasi, seperti \"terminal\", \"landasan pacu\", \"menavigasi\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 241237,
+      "translation": {
+        "en": {
+          "short": "connection",
+          "long": "a means of transportation that is used by a passenger after getting off a previous one to continue their journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koneksi",
+          "long": "sarana transportasi yang digunakan oleh penumpang setelah turun dari yang sebelumnya untuk melanjutkan perjalanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241237.jpeg",
+      "simplified": "接驳交通",
+      "traditional": "接駁交通",
+      "pinyin": "jiēbó jiāotōng"
+    },
+    {
+      "id": 241238,
+      "translation": {
+        "en": {
+          "short": "terminal",
+          "long": "a building where trains, buses, planes, or ships start or finish their journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terminal",
+          "long": "sebuah bangunan tempat kereta api, bus, pesawat, atau kapal memulai atau menyelesaikan perjalanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241238.jpeg",
+      "simplified": "航站楼（巴士、飞机等）",
+      "traditional": "航站樓（巴士、飛機等）",
+      "pinyin": "hángzhàn lóu bāshì fēijī děng"
+    },
+    {
+      "id": 241240,
+      "translation": {
+        "en": {
+          "short": "air traffic control",
+          "long": "the process or act of controlling and directing the aircrafts during their flight which happens in the control tower using radio",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kontrol Lalu Lintas Udara",
+          "long": "Proses atau tindakan mengendalikan dan mengarahkan pesawat selama penerbangan mereka yang terjadi di menara kontrol menggunakan radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241240.jpeg",
+      "simplified": "航空管制",
+      "traditional": "航空管制",
+      "pinyin": "hángkōng guǎnzhì"
+    },
+    {
+      "id": 241241,
+      "translation": {
+        "en": {
+          "short": "aviation",
+          "long": "the process of flying an aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penerbangan",
+          "long": "Proses menerbangkan pesawat terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241241.jpeg",
+      "simplified": "航空",
+      "traditional": "航空",
+      "pinyin": "hángkōng"
+    },
+    {
+      "id": 241242,
+      "translation": {
+        "en": {
+          "short": "to board",
+          "long": "to get on a means of transportation such as a train, bus, aircraft, ship, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk naik",
+          "long": "Untuk mendapatkan alat transportasi seperti kereta api, bus, pesawat terbang, kapal, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241242.jpeg",
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shǎng"
+    },
+    {
+      "id": 241243,
+      "translation": {
+        "en": {
+          "short": "aboard",
+          "long": "on or into a vehicle such as a bus, train, plane, etc.",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "naik",
+          "long": "Pada atau ke dalam kendaraan seperti bus, kereta api, pesawat, dll.",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241243.jpeg",
+      "simplified": "船上",
+      "traditional": "船上",
+      "pinyin": "chuán shǎng"
+    },
+    {
+      "id": 241244,
+      "translation": {
+        "en": {
+          "short": "transit",
+          "long": "the transfer of people on a public transportation vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transit",
+          "long": "pemindahan orang pada kendaraan transportasi umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241244.jpeg",
+      "simplified": "中转运送",
+      "traditional": "中轉運送",
+      "pinyin": "zhōngzhuǎn yùnsòng"
+    },
+    {
+      "id": 241245,
+      "translation": {
+        "en": {
+          "short": "to touch down",
+          "long": "(of an aircraft or spacecraft) to land on the ground",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyentuh",
+          "long": "(dari pesawat atau pesawat ruang angkasa) untuk mendarat di tanah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241245.jpeg",
+      "simplified": "着陆",
+      "traditional": "著陸",
+      "pinyin": "zhuólù"
+    },
+    {
+      "id": 241246,
+      "translation": {
+        "en": {
+          "short": "runway",
+          "long": "a strip of ground with a hard surface on which aircraft land or take off from",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "landasan pacu",
+          "long": "sebidang tanah dengan permukaan yang keras di mana pesawat mendarat atau lepas landas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241246.jpeg",
+      "simplified": "河床",
+      "traditional": "河床",
+      "pinyin": "héchuáng"
+    },
+    {
+      "id": 241248,
+      "translation": {
+        "en": {
+          "short": "on-board",
+          "long": "on an aircraft, ship, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di atas kapal",
+          "long": "di pesawat, kapal, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241248.jpeg",
+      "simplified": "在船上",
+      "traditional": "在船上",
+      "pinyin": "zài chuán shǎng"
+    },
+    {
+      "id": 241250,
+      "translation": {
+        "en": {
+          "short": "in-flight",
+          "long": "offered or occurring during a flight",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dalam penerbangan",
+          "long": "ditawarkan atau terjadi selama penerbangan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241250.jpeg",
+      "simplified": "飞行中",
+      "traditional": "飛行中",
+      "pinyin": "fēixíng Zhōng"
+    },
+    {
+      "id": 241262,
+      "translation": {
+        "en": {
+          "short": "cabin crew",
+          "long": "the group of people whose job is looking after the passengers on an aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kru kabin",
+          "long": "Kelompok orang yang pekerjaannya menjaga penumpang di pesawat terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241262.jpeg",
+      "simplified": "机组人员",
+      "traditional": "機組人員",
+      "pinyin": "jīzǔ rényuán"
+    },
+    {
+      "id": 241252,
+      "translation": {
+        "en": {
+          "short": "excess baggage",
+          "long": "luggage that weighs more than the amount each passenger is allowed on a flight without paying extra money",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelebihan bagasi",
+          "long": "koper yang beratnya lebih dari jumlah setiap penumpang diizinkan dalam penerbangan tanpa membayar uang tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241252.jpeg",
+      "simplified": "累赘",
+      "traditional": "累贅",
+      "pinyin": "léizhuì"
+    },
+    {
+      "id": 241253,
+      "translation": {
+        "en": {
+          "short": "ascent",
+          "long": "the act or process of moving upward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendakian",
+          "long": "tindakan atau proses bergerak ke atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241253.jpeg",
+      "simplified": "上升",
+      "traditional": "上升",
+      "pinyin": "shàngshēng"
+    },
+    {
+      "id": 241254,
+      "translation": {
+        "en": {
+          "short": "descent",
+          "long": "downward movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turun",
+          "long": "Gerakan ke bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241254.jpeg",
+      "simplified": "降落",
+      "traditional": "降落",
+      "pinyin": "jiàngluò"
+    },
+    {
+      "id": 241255,
+      "translation": {
+        "en": {
+          "short": "control tower",
+          "long": "the tallest building at an airport from which aircraft's movements are controlled",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menara kontrol",
+          "long": "bangunan tertinggi di bandara dari mana pergerakan pesawat dikendalikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241255.jpeg",
+      "simplified": "控制塔",
+      "traditional": "控制塔",
+      "pinyin": "kòngzhì tǎ"
+    },
+    {
+      "id": 241256,
+      "translation": {
+        "en": {
+          "short": "turbulence",
+          "long": "instability and sudden changes in the movement of water or air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pergolakan",
+          "long": "ketidakstabilan dan perubahan mendadak dalam pergerakan air atau udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241256.jpeg",
+      "simplified": "动乱",
+      "traditional": "動亂",
+      "pinyin": "dòngluàn"
+    },
+    {
+      "id": 241257,
+      "translation": {
+        "en": {
+          "short": "to navigate",
+          "long": "to choose the direction of and guide a vehicle, ship, etc., especially by using a map",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menavigasi",
+          "long": "untuk memilih arah dan membimbing kendaraan, kapal, dll., Terutama dengan menggunakan peta",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241257.jpeg",
+      "simplified": "通过地图路由",
+      "traditional": "通過地圖路由",
+      "pinyin": "tōngguò dìtú lùyóu"
+    },
+    {
+      "id": 241258,
+      "translation": {
+        "en": {
+          "short": "jet lag",
+          "long": "the confusion and tiredness one can experience after a long flight, particularly when rapidly traveling across multiple time zones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penat terbang",
+          "long": "Kebingungan dan kelelahan yang dapat dialami seseorang setelah penerbangan yang panjang, terutama ketika dengan cepat bepergian melintasi berbagai zona waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241258.jpeg",
+      "simplified": "时差",
+      "traditional": "時差",
+      "pinyin": "shíchā"
+    },
+    {
+      "id": 241261,
+      "translation": {
+        "en": {
+          "short": "landing card",
+          "long": "a card that a passenger on a ship or airplane fills in with their personal information and then gives to officials upon arrival",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu pendaratan",
+          "long": "kartu yang diisi oleh penumpang di kapal atau pesawat terbang dengan informasi pribadi mereka dan kemudian memberikan kepada pejabat pada saat kedatangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241261.jpeg",
+      "simplified": "入境卡",
+      "traditional": "入境卡",
+      "pinyin": "rùjìng kǎ"
+    },
+    {
+      "id": 241485,
+      "translation": {
+        "en": {
+          "short": "shipping",
+          "long": "the act of transporting goods, particularly by sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengiriman",
+          "long": "tindakan mengangkut barang, terutama melalui laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241485.jpeg",
+      "simplified": "航运",
+      "traditional": "航運",
+      "pinyin": "hángyùn"
+    },
+    {
+      "id": 241263,
+      "translation": {
+        "en": {
+          "short": "cargo",
+          "long": "goods on board an aircraft, ship, or vehicle, being transported",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "muatan",
+          "long": "barang di atas pesawat, kapal, atau kendaraan, diangkut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241263.jpeg",
+      "simplified": "货物",
+      "traditional": "貨物",
+      "pinyin": "huòwù"
+    },
+    {
+      "id": 241265,
+      "translation": {
+        "en": {
+          "short": "boarding pass",
+          "long": "a ticket or card that passengers must show to be allowed on a ship or plane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pass boarding",
+          "long": "tiket atau kartu yang harus ditunjukkan oleh penumpang untuk diizinkan di kapal atau pesawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241265.jpeg",
+      "simplified": "登机卡",
+      "traditional": "登機證",
+      "pinyin": "dēngjī kǎ"
+    },
+    {
+      "id": 241266,
+      "translation": {
+        "en": {
+          "short": "baggage claim",
+          "long": "the area at an airport where passengers can collect their cases, bags, etc. after they land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengambilan bagasi",
+          "long": "Area di bandara tempat penumpang dapat mengumpulkan kasing, tas, dll. Setelah mereka mendarat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241266.jpeg",
+      "simplified": "行李提取区",
+      "traditional": "行李提取區",
+      "pinyin": "xíngli tíqǔ Oū"
+    },
+    {
+      "id": 241270,
+      "translation": {
+        "en": {
+          "short": "transfer",
+          "long": "a ticket with which a passenger can continue their journey on another means of transportation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transfer",
+          "long": "Tiket yang dengannya seorang penumpang dapat melanjutkan perjalanan mereka dengan alat transportasi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241270.jpeg",
+      "simplified": "移动",
+      "traditional": "移動",
+      "pinyin": "yídòng"
+    },
+    {
+      "id": 241271,
+      "translation": {
+        "en": {
+          "short": "freight",
+          "long": "goods carried by aircraft, trains, trucks, or ships; the transportation of goods using this method",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kargo",
+          "long": "barang yang dibawa oleh pesawat terbang, kereta api, truk, atau kapal; pengangkutan barang menggunakan metode ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241271.jpeg",
+      "simplified": "货物",
+      "traditional": "貨物",
+      "pinyin": "huòwù"
+    },
+    {
+      "id": 241272,
+      "translation": {
+        "en": {
+          "short": "to cruise",
+          "long": "to go on vacation by a ship or boat",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlayar",
+          "long": "untuk pergi berlibur dengan kapal atau kapal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241272.jpeg",
+      "simplified": "巡航",
+      "traditional": "巡航",
+      "pinyin": "xúnháng"
+    },
+    {
+      "id": 241273,
+      "translation": {
+        "en": {
+          "short": "signpost",
+          "long": "a sign that provides information such as the distance to a certain place or its direction, usually found at the side of a road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "plang",
+          "long": "Tanda yang memberikan informasi seperti jarak ke tempat tertentu atau arahnya, biasanya ditemukan di sisi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241273.jpeg",
+      "simplified": "路标",
+      "traditional": "路標",
+      "pinyin": "lùbiāo"
+    },
+    {
+      "id": 241274,
+      "translation": {
+        "en": {
+          "short": "to pull in",
+          "long": "(of a train or bus) to arrive at a station",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk masuk",
+          "long": "(dari kereta atau bus) untuk tiba di stasiun",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241274.jpeg",
+      "simplified": "引入",
+      "traditional": "引入",
+      "pinyin": "yǐnrù"
+    },
+    {
+      "id": 241275,
+      "translation": {
+        "en": {
+          "short": "to pull out",
+          "long": "(of a train or bus) to leave a station with passengers on board",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menarik",
+          "long": "(dari kereta atau bus) untuk meninggalkan stasiun dengan penumpang di kapal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241275.jpeg",
+      "simplified": "拔出",
+      "traditional": "拔出",
+      "pinyin": "bá chū"
+    },
+    {
+      "id": 241290,
+      "translation": {
+        "en": {
+          "short": "approach",
+          "long": "the part during an aircraft's flight when it is about to land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mendekati",
+          "long": "Bagian selama penerbangan pesawat terbang saat akan mendarat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241290.jpeg",
+      "simplified": "途径",
+      "traditional": "途徑",
+      "pinyin": "tújìng"
+    },
+    {
+      "id": 241294,
+      "translation": {
+        "en": {
+          "short": "autopilot",
+          "long": "a system or device in a ship or aircraft that can keep it on a preset course",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pilot otomatis",
+          "long": "sistem atau perangkat di kapal atau pesawat yang dapat menyimpannya di kursus yang telah ditetapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241294.jpeg",
+      "simplified": "自动驾驶仪",
+      "traditional": "自動駕駛儀",
+      "pinyin": "zìdòng jiàshǐ yí"
+    },
+    {
+      "id": 241297,
+      "translation": {
+        "en": {
+          "short": "co-pilot",
+          "long": "a pilot who assists the main pilot during a flight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "co-pilot",
+          "long": "seorang pilot yang membantu pilot utama selama penerbangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241297.jpeg",
+      "simplified": "副驾驶",
+      "traditional": "副駕駛",
+      "pinyin": "fùjià shǐ"
+    },
+    {
+      "id": 241305,
+      "translation": {
+        "en": {
+          "short": "carry-on",
+          "long": "a suitcase or a small bag that one can carry onto an airplane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melanjutkan",
+          "long": "koper atau tas kecil yang dapat dibawa ke pesawat terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241305.jpeg",
+      "simplified": "继续",
+      "traditional": "繼續",
+      "pinyin": "jìxù"
+    },
+    {
+      "id": 241325,
+      "translation": {
+        "en": {
+          "short": "coach",
+          "long": "the cheapest class of accommodations on a train or plane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelatih",
+          "long": "Kelas akomodasi termurah di kereta atau pesawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241325.jpeg",
+      "simplified": "教练",
+      "traditional": "教練",
+      "pinyin": "jiàoliàn"
+    },
+    {
+      "id": 241320,
+      "translation": {
+        "en": {
+          "short": "hub",
+          "long": "a central station, airport, etc. that provides passengers with many services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pusat",
+          "long": "Stasiun Pusat, Bandara, dll. Yang menyediakan banyak layanan penumpang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241320.jpeg",
+      "simplified": "枢纽",
+      "traditional": "樞紐",
+      "pinyin": "shūniǔ"
+    },
+    {
+      "id": 241728,
+      "translation": {
+        "en": {
+          "short": "steward",
+          "long": "a person who attends to passengers on an airplane, train, or ship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan",
+          "long": "seseorang yang menghadiri penumpang di pesawat terbang, berlatih, atau kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241728.jpeg",
+      "simplified": "服务员",
+      "traditional": "服務生",
+      "pinyin": "fúwù yuán"
+    }
+  ]
+}

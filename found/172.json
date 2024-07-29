@@ -1,0 +1,602 @@
+{
+  "id": 172,
+  "title": {
+    "en": "Art",
+    "id": "Seni"
+  },
+  "description": {
+    "en": "Here you will learn some English words about art, such as \"masterpiece\", \"exhibit\", \"self-portrait\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang seni, seperti \"mahakarya\", \"pameran\", \"potret diri\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 213636,
+      "translation": {
+        "en": {
+          "short": "artwork",
+          "long": "drawings, photographs, and pictures that are prepared for publication in a book, magazine, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karya seni",
+          "long": "Gambar, foto, dan gambar yang disiapkan untuk diterbitkan dalam buku, majalah, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213636.jpeg",
+      "simplified": "图片（报纸、杂志等）",
+      "traditional": "圖片（報紙、雜誌等）",
+      "pinyin": "túpiàn bàozhǐ zázhì děng"
+    },
+    {
+      "id": 213630,
+      "translation": {
+        "en": {
+          "short": "background",
+          "long": "the part of a photograph, etc. that is situated behind the main figures, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "latar belakang",
+          "long": "Bagian dari foto, dll. Yang terletak di belakang angka utama, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213630.jpeg",
+      "simplified": "背景图",
+      "traditional": "背景圖",
+      "pinyin": "bèijǐng tú"
+    },
+    {
+      "id": 213648,
+      "translation": {
+        "en": {
+          "short": "foreground",
+          "long": "the part of a scene, photograph, etc. that is closest to the observer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "latar depan",
+          "long": "Bagian dari adegan, foto, dll. Yang paling dekat dengan pengamat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213648.jpeg",
+      "simplified": "前景",
+      "traditional": "前景",
+      "pinyin": "qiánjǐng"
+    },
+    {
+      "id": 213650,
+      "translation": {
+        "en": {
+          "short": "collector",
+          "long": "someone who gathers things, as a job or hobby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengumpul",
+          "long": "seseorang yang mengumpulkan banyak hal, sebagai pekerjaan atau hobi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213650.jpeg",
+      "simplified": "爱好者收藏家",
+      "traditional": "愛好者收藏家",
+      "pinyin": "àihào zhě shōucáng jiā"
+    },
+    {
+      "id": 213653,
+      "translation": {
+        "en": {
+          "short": "graphic artist",
+          "long": "a professional who designs or creates visual content using various things, such as digital tools, illustration, photography, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seniman grafis",
+          "long": "Seorang profesional yang merancang atau membuat konten visual menggunakan berbagai hal, seperti alat digital, ilustrasi, fotografi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213653.jpeg",
+      "simplified": "图形艺术家",
+      "traditional": "圖形藝術家",
+      "pinyin": "túxíng yìshù jiā"
+    },
+    {
+      "id": 213645,
+      "translation": {
+        "en": {
+          "short": "masterpiece",
+          "long": "a piece of art created with great skill, which is an artist's best work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mahakarya",
+          "long": "Sebuah karya seni yang dibuat dengan keterampilan hebat, yang merupakan karya terbaik seorang seniman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213645.jpeg",
+      "simplified": "杰作",
+      "traditional": "傑作",
+      "pinyin": "jiézuò"
+    },
+    {
+      "id": 213649,
+      "translation": {
+        "en": {
+          "short": "exhibit",
+          "long": "a public event in which objects such as paintings, photographs, etc. are shown",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pameran",
+          "long": "Acara publik di mana benda -benda seperti lukisan, foto, dll ditampilkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213649.jpeg",
+      "simplified": "展览",
+      "traditional": "展覽",
+      "pinyin": "zhǎnlǎn"
+    },
+    {
+      "id": 213632,
+      "translation": {
+        "en": {
+          "short": "image",
+          "long": "a person's or an object's visual representation in art",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambar",
+          "long": "representasi visual seseorang atau objek dalam seni",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213632.jpeg",
+      "simplified": "图像",
+      "traditional": "圖像",
+      "pinyin": "túxiàng"
+    },
+    {
+      "id": 213658,
+      "translation": {
+        "en": {
+          "short": "landscape",
+          "long": "a style of painting that deals with the nature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lanskap",
+          "long": "Gaya lukisan yang berhubungan dengan alam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213658.jpeg",
+      "simplified": "景观",
+      "traditional": "景觀",
+      "pinyin": "jǐngguān"
+    },
+    {
+      "id": 213641,
+      "translation": {
+        "en": {
+          "short": "self-portrait",
+          "long": "a painting of a person that is created by the same person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Potret diri",
+          "long": "lukisan seseorang yang diciptakan oleh orang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213641.jpeg",
+      "simplified": "自画像",
+      "traditional": "自畫像",
+      "pinyin": "zìhuà xiàng"
+    },
+    {
+      "id": 213640,
+      "translation": {
+        "en": {
+          "short": "subject matter",
+          "long": "the specific theme or topic that a work of art, speech, etc. contains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "materi pelajaran",
+          "long": "Tema atau topik spesifik yang berisi karya seni, ucapan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213640.jpeg",
+      "simplified": "题材",
+      "traditional": "題材",
+      "pinyin": "tícái"
+    },
+    {
+      "id": 213657,
+      "translation": {
+        "en": {
+          "short": "shade",
+          "long": "any variation of one color, including darker or lighter versions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "naungan",
+          "long": "variasi satu warna apa pun, termasuk versi yang lebih gelap atau lebih ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213657.jpeg",
+      "simplified": "不同颜色主题",
+      "traditional": "不同顏色主題",
+      "pinyin": "bùtóng yánsè zhǔtí"
+    },
+    {
+      "id": 213659,
+      "translation": {
+        "en": {
+          "short": "ink",
+          "long": "a black or colored liquid used for drawing, writing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinta",
+          "long": "Cairan hitam atau berwarna yang digunakan untuk menggambar, menulis, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213659.jpeg",
+      "simplified": "墨水",
+      "traditional": "墨水",
+      "pinyin": "mòshuǐ"
+    },
+    {
+      "id": 213644,
+      "translation": {
+        "en": {
+          "short": "oil paint",
+          "long": "a thick paint that has oil in it, allowing artists to mix colors and work in layers to achieve the desired effects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat minyak",
+          "long": "cat tebal yang memiliki minyak di dalamnya, memungkinkan seniman untuk mencampur warna dan bekerja berlapis untuk mencapai efek yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213644.jpeg",
+      "simplified": "油漆",
+      "traditional": "油漆",
+      "pinyin": "yóuqī"
+    },
+    {
+      "id": 213654,
+      "translation": {
+        "en": {
+          "short": "watercolor",
+          "long": "the art or practice of painting with watercolors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat air",
+          "long": "seni atau latihan melukis dengan cat air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213654.jpeg",
+      "simplified": "水彩",
+      "traditional": "水彩",
+      "pinyin": "shuǐcǎi"
+    },
+    {
+      "id": 213634,
+      "translation": {
+        "en": {
+          "short": "abstract",
+          "long": "(of a form of art) characterized by the use of shapes, colors, lines, forms, etc. to convey emotions, concepts, or ideas, rather than illustrating recognizable objects or scenes from the physical world",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "abstrak",
+          "long": "(dari bentuk seni) yang ditandai dengan penggunaan bentuk, warna, garis, bentuk, dll. Untuk menyampaikan emosi, konsep, atau ide, daripada menggambarkan objek atau adegan yang dapat dikenali dari dunia fisik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213634.jpeg",
+      "simplified": "抽象的",
+      "traditional": "抽象的",
+      "pinyin": "chōuxiàng de"
+    },
+    {
+      "id": 213635,
+      "translation": {
+        "en": {
+          "short": "artistic",
+          "long": "involving artists or their work",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "artistik",
+          "long": "melibatkan seniman atau karya mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213635.jpeg",
+      "simplified": "艺术的",
+      "traditional": "藝術的",
+      "pinyin": "yìshù de"
+    },
+    {
+      "id": 213631,
+      "translation": {
+        "en": {
+          "short": "original",
+          "long": "resulting from the direct work of an artist, etc., which is not a copy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asli",
+          "long": "dihasilkan dari karya langsung seorang seniman, dll., Yang bukan salinannya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213631.jpeg",
+      "simplified": "原来的",
+      "traditional": "原來的",
+      "pinyin": "yuánlái de"
+    },
+    {
+      "id": 213643,
+      "translation": {
+        "en": {
+          "short": "realistic",
+          "long": "depicting things as what they are in real life",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "realistis",
+          "long": "menggambarkan hal -hal seperti apa yang mereka lakukan dalam kehidupan nyata",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213643.jpeg",
+      "simplified": "实际的",
+      "traditional": "實際的",
+      "pinyin": "shíjì de"
+    },
+    {
+      "id": 239866,
+      "translation": {
+        "en": {
+          "short": "classic",
+          "long": "timeless and widely appreciated for having a continuous quality, relevance, or significance",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "klasik",
+          "long": "abadi dan sangat dihargai karena memiliki kualitas, relevansi, atau signifikansi yang berkelanjutan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239866.jpeg",
+      "simplified": "古老而流行",
+      "traditional": "古老而流行",
+      "pinyin": "gǔlǎo ér liúxíng"
+    },
+    {
+      "id": 237674,
+      "translation": {
+        "en": {
+          "short": "modern",
+          "long": "(of a style in architecture, music, art, etc.) recently formed and different from traditional styles and forms",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "modern",
+          "long": "(dari gaya arsitektur, musik, seni, dll.) Baru -baru ini terbentuk dan berbeda dari gaya dan bentuk tradisional",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237674.jpeg",
+      "simplified": "现代的",
+      "traditional": "現代的",
+      "pinyin": "Xiàndài de"
+    },
+    {
+      "id": 239868,
+      "translation": {
+        "en": {
+          "short": "contemporary",
+          "long": "belonging to the current era",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kontemporer",
+          "long": "milik era saat ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239868.jpeg",
+      "simplified": "当代的",
+      "traditional": "當代的",
+      "pinyin": "dāngdài de"
+    },
+    {
+      "id": 213655,
+      "translation": {
+        "en": {
+          "short": "visual",
+          "long": "related to sight or vision",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "visual",
+          "long": "terkait dengan penglihatan atau visi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213655.jpeg",
+      "simplified": "视觉的",
+      "traditional": "視覺的",
+      "pinyin": "shìjué de"
+    },
+    {
+      "id": 213639,
+      "translation": {
+        "en": {
+          "short": "vivid",
+          "long": "(of colors or light) very intense or bright",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jelas",
+          "long": "(warna atau cahaya) sangat intens atau cerah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213639.jpeg",
+      "simplified": "颜色鲜艳",
+      "traditional": "顏色鮮豔",
+      "pinyin": "yánsè xiānyàn"
+    },
+    {
+      "id": 213661,
+      "translation": {
+        "en": {
+          "short": "to depict",
+          "long": "to represent or show something or someone by a work of art",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menggambarkan",
+          "long": "untuk mewakili atau menunjukkan sesuatu atau seseorang dengan karya seni",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213661.jpeg",
+      "simplified": "描绘某事",
+      "traditional": "描繪某事",
+      "pinyin": "miáohuì mǒushì"
+    },
+    {
+      "id": 239628,
+      "translation": {
+        "en": {
+          "short": "to display",
+          "long": "to publicly show something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menampilkan",
+          "long": "untuk menunjukkan sesuatu secara terbuka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239628.jpeg",
+      "simplified": "显示",
+      "traditional": "顯示",
+      "pinyin": "xiǎnshì"
+    },
+    {
+      "id": 213651,
+      "translation": {
+        "en": {
+          "short": "to exhibit",
+          "long": "to present or show something publicly to inform or entertain an audience",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pameran",
+          "long": "untuk menyajikan atau menampilkan sesuatu secara publik untuk menginformasikan atau menghibur penonton",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213651.jpeg",
+      "simplified": "暴露",
+      "traditional": "暴露",
+      "pinyin": "bàolù"
+    },
+    {
+      "id": 213660,
+      "translation": {
+        "en": {
+          "short": "to frame",
+          "long": "to put a work of art in a solid border",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membingkai",
+          "long": "untuk menempatkan karya seni di perbatasan yang solid",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213660.jpeg",
+      "simplified": "构成",
+      "traditional": "構成",
+      "pinyin": "gòuchéng"
+    },
+    {
+      "id": 213646,
+      "translation": {
+        "en": {
+          "short": "to inspire",
+          "long": "to make someone feel creative and motivated, helping them to think of new ideas to make art or solve problems",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menginspirasi",
+          "long": "untuk membuat seseorang merasa kreatif dan termotivasi, membantu mereka memikirkan ide -ide baru untuk membuat seni atau memecahkan masalah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213646.jpeg",
+      "simplified": "启发",
+      "traditional": "啟發",
+      "pinyin": "qǐfā"
+    },
+    {
+      "id": 239663,
+      "translation": {
+        "en": {
+          "short": "to model",
+          "long": "to create a smaller representation of something using wood, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memodelkan",
+          "long": "Untuk membuat representasi yang lebih kecil dari sesuatu menggunakan kayu, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239663.jpeg",
+      "simplified": "模",
+      "traditional": "模",
+      "pinyin": "mó"
+    },
+    {
+      "id": 213642,
+      "translation": {
+        "en": {
+          "short": "to restore",
+          "long": "to repair a work of art, building, etc. so that it is in a good condition again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memulihkan",
+          "long": "Untuk memperbaiki karya seni, bangunan, dll. Sehingga dalam kondisi baik lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213642.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    }
+  ]
+}

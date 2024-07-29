@@ -1,0 +1,811 @@
+{
+  "id": 5369,
+  "title": {
+    "en": "Shapes",
+    "id": "Bentuk"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to shapes such as \"oval\", \"sphere\", and \"trapezoid\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan bentuk seperti \"oval\", \"sphere\", dan \"trapezoid\"."
+  },
+  "cards": [
+    {
+      "id": 382656,
+      "translation": {
+        "en": {
+          "short": "circle",
+          "long": "a completely round, plain shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkaran",
+          "long": "Bentuk yang benar -benar bulat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382656.jpeg",
+      "simplified": "圈",
+      "traditional": "圈",
+      "pinyin": "juān"
+    },
+    {
+      "id": 382657,
+      "translation": {
+        "en": {
+          "short": "square",
+          "long": "a shape with four equal straight sides and four right angles, each measuring 90°",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persegi",
+          "long": "Bentuk dengan empat sisi lurus yang sama dan empat sudut kanan, masing -masing berukuran 90 °",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382657.jpeg",
+      "simplified": "广场",
+      "traditional": "廣場",
+      "pinyin": "guǎngchǎng"
+    },
+    {
+      "id": 382658,
+      "translation": {
+        "en": {
+          "short": "triangle",
+          "long": "(geometry) a flat shape consisting of three straight sides and three angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tiga",
+          "long": "(Geometri) Bentuk datar yang terdiri dari tiga sisi lurus dan tiga sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382658.jpeg",
+      "simplified": "三角形",
+      "traditional": "三角形",
+      "pinyin": "sānjiǎo xíng"
+    },
+    {
+      "id": 382659,
+      "translation": {
+        "en": {
+          "short": "rectangle",
+          "long": "(geometry) a flat shape with four right angles, especially one with opposing sides that are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persegi panjang",
+          "long": "(Geometri) Bentuk datar dengan empat sudut kanan, terutama satu dengan sisi lawan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382659.jpeg",
+      "simplified": "矩形",
+      "traditional": "矩形",
+      "pinyin": "jǔxíng"
+    },
+    {
+      "id": 382660,
+      "translation": {
+        "en": {
+          "short": "oval",
+          "long": "a shape that is wide in the middle and narrow at both ends",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulat telur",
+          "long": "bentuk yang lebar di tengah dan sempit di kedua ujungnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382660.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    },
+    {
+      "id": 382661,
+      "translation": {
+        "en": {
+          "short": "diamond",
+          "long": "a shape with four equal, sloping straight sides, forming a point at the top and another at the bottom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berlian",
+          "long": "Bentuk dengan empat sisi lurus yang sama dan miring, membentuk titik di bagian atas dan yang lain di bagian bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382661.jpeg",
+      "simplified": "钻石形状",
+      "traditional": "鑽石形狀",
+      "pinyin": "zuànshí xíngzhuàng"
+    },
+    {
+      "id": 382662,
+      "translation": {
+        "en": {
+          "short": "star",
+          "long": "a shape with five or more points, representing a star in the sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bintang",
+          "long": "bentuk dengan lima atau lebih poin, mewakili bintang di langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382662.jpeg",
+      "simplified": "星形",
+      "traditional": "星形",
+      "pinyin": "xīng xíng"
+    },
+    {
+      "id": 382663,
+      "translation": {
+        "en": {
+          "short": "sphere",
+          "long": "(geometry) a round object that every point on its surface has the same distance from its center",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "(Geometri) Objek bundar yang setiap titik di permukaannya memiliki jarak yang sama dari pusatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382663.jpeg",
+      "simplified": "球形",
+      "traditional": "球形",
+      "pinyin": "qiúxíng"
+    },
+    {
+      "id": 382665,
+      "translation": {
+        "en": {
+          "short": "cube",
+          "long": "a figure, either hollow or solid, with six equal square sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubus",
+          "long": "Sosok, baik berongga atau padat, dengan enam sisi persegi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382665.jpeg",
+      "simplified": "立方体",
+      "traditional": "立方體",
+      "pinyin": "lìfāng tǐ"
+    },
+    {
+      "id": 382666,
+      "translation": {
+        "en": {
+          "short": "cylinder",
+          "long": "(geometry) a solid or hollow shape with two circular bases at each end and straight parallel sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "silinder",
+          "long": "(Geometri) Bentuk padat atau berongga dengan dua basa melingkar di setiap ujung dan sisi paralel lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382666.jpeg",
+      "simplified": "圆柱体形状",
+      "traditional": "圓柱體形狀",
+      "pinyin": "yuánzhù tǐ xíngzhuàng"
+    },
+    {
+      "id": 382667,
+      "translation": {
+        "en": {
+          "short": "cone",
+          "long": "(geometry) a three dimensional shape with a circular base that rises to a single point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerucut",
+          "long": "(Geometri) Bentuk tiga dimensi dengan dasar melingkar yang naik ke satu titik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382667.jpeg",
+      "simplified": "锥体",
+      "traditional": "錐體",
+      "pinyin": "zhuī tǐ"
+    },
+    {
+      "id": 382668,
+      "translation": {
+        "en": {
+          "short": "pyramid",
+          "long": "a solid object with a square base and four triangular sides joined to a point on the top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida",
+          "long": "objek padat dengan alas persegi dan empat sisi segitiga bergabung ke titik di atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382668.jpeg",
+      "simplified": "金字塔",
+      "traditional": "金字塔",
+      "pinyin": "jīnzì tǎ"
+    },
+    {
+      "id": 382669,
+      "translation": {
+        "en": {
+          "short": "cuboid",
+          "long": "a three-dimensional geometric shape with six rectangular faces, resembling a box or a rectangular prism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbentuk kubus",
+          "long": "Bentuk geometris tiga dimensi dengan enam wajah persegi panjang, menyerupai kotak atau prisma persegi panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382669.jpeg",
+      "simplified": "长方体",
+      "traditional": "長方體",
+      "pinyin": "chángfāng tǐ"
+    },
+    {
+      "id": 382670,
+      "translation": {
+        "en": {
+          "short": "hemisphere",
+          "long": "either half of a sphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belahan bumi",
+          "long": "Salah satu setengah dari bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382670.jpeg",
+      "simplified": "半球",
+      "traditional": "半球",
+      "pinyin": "bànqiú"
+    },
+    {
+      "id": 382671,
+      "translation": {
+        "en": {
+          "short": "prism",
+          "long": "(geometry) a solid figure with flat sides and two parallel ends of the same size and shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prisma",
+          "long": "(Geometri) Sosok padat dengan sisi datar dan dua ujung paralel dengan ukuran dan bentuk yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382671.jpeg",
+      "simplified": "角柱",
+      "traditional": "角柱",
+      "pinyin": "Jué zhù"
+    },
+    {
+      "id": 382672,
+      "translation": {
+        "en": {
+          "short": "parallelogram",
+          "long": "(geometry) any flat shape with four straight sides, the opposite sides of which are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genjang",
+          "long": "(Geometri) Bentuk datar apa pun dengan empat sisi lurus, sisi yang berlawanan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382672.jpeg",
+      "simplified": "平行四边形",
+      "traditional": "平行四邊形",
+      "pinyin": "píngxíng sì biān xíng"
+    },
+    {
+      "id": 382673,
+      "translation": {
+        "en": {
+          "short": "trapezoid",
+          "long": "(geometry) a flat shape with four flat sides, two of which are parallel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trapesium",
+          "long": "(Geometri) Bentuk datar dengan empat sisi datar, dua di antaranya paralel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382673.jpeg",
+      "simplified": "梯形",
+      "traditional": "梯形",
+      "pinyin": "tīxíng"
+    },
+    {
+      "id": 382675,
+      "translation": {
+        "en": {
+          "short": "crescent",
+          "long": "a curved shape with narrow points at the ends that appears wider in the middle, like the shape of the moon in its first and last quarters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabit",
+          "long": "Bentuk melengkung dengan titik -titik sempit di ujung yang muncul lebih lebar di tengah, seperti bentuk bulan di tempat pertama dan terakhir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382675.jpeg",
+      "simplified": "新月形",
+      "traditional": "新月形",
+      "pinyin": "xīnyuè xíng"
+    },
+    {
+      "id": 382676,
+      "translation": {
+        "en": {
+          "short": "cross",
+          "long": "a mark or an object formed by two short lines or pieces crossing each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyeberang",
+          "long": "tanda atau objek yang dibentuk oleh dua garis pendek atau potongan saling melintasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382676.jpeg",
+      "simplified": "乘号",
+      "traditional": "乘號",
+      "pinyin": "chénghào"
+    },
+    {
+      "id": 382677,
+      "translation": {
+        "en": {
+          "short": "spiral",
+          "long": "(geometry) a curved shape or design that gradually winds around a center or axis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spiral",
+          "long": "(Geometri) Bentuk atau desain melengkung yang secara bertahap berputar di sekitar pusat atau sumbu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382677.jpeg",
+      "simplified": "螺旋",
+      "traditional": "螺旋",
+      "pinyin": "luóxuán"
+    },
+    {
+      "id": 382678,
+      "translation": {
+        "en": {
+          "short": "kite",
+          "long": "a four-sided shape with two pairs of equal-length adjacent sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layang-layang",
+          "long": "Bentuk empat sisi dengan dua pasang sisi yang berdekatan dengan panjang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382678.jpeg",
+      "simplified": "风筝",
+      "traditional": "風箏",
+      "pinyin": "fēngzheng"
+    },
+    {
+      "id": 382679,
+      "translation": {
+        "en": {
+          "short": "right triangle",
+          "long": "a flat geometric shape consisting of three straight sides and one right angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga siku-siku",
+          "long": "Bentuk geometris datar yang terdiri dari tiga sisi lurus dan satu sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382679.jpeg",
+      "simplified": "直角三角形",
+      "traditional": "直角三角形",
+      "pinyin": "zhíjiǎo sān jiǎo xíng"
+    },
+    {
+      "id": 382680,
+      "translation": {
+        "en": {
+          "short": "lozenge",
+          "long": "(geometry) a figure with four sides and two opposite angles more than 90° and two of less than 90°",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permen",
+          "long": "(Geometri) Sosok dengan empat sisi dan dua sudut yang berlawanan lebih dari 90 ° dan dua kurang dari 90 °",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382680.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 382681,
+      "translation": {
+        "en": {
+          "short": "spheroid",
+          "long": "(geometry) a round 3D shape like a ball that is slightly flattened at the top and bottom points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulat",
+          "long": "(Geometri) Bentuk 3D bundar seperti bola yang sedikit rata di bagian atas dan bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382681.jpeg",
+      "simplified": "球体",
+      "traditional": "球體",
+      "pinyin": "qiútǐ"
+    },
+    {
+      "id": 382682,
+      "translation": {
+        "en": {
+          "short": "semicircle",
+          "long": "any half of a circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah lingkaran",
+          "long": "Separuh lingkaran apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382682.jpeg",
+      "simplified": "半圆",
+      "traditional": "半圓",
+      "pinyin": "bànyuán"
+    },
+    {
+      "id": 382683,
+      "translation": {
+        "en": {
+          "short": "pentagon",
+          "long": "a geometric shape with five angles and five straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi lima",
+          "long": "bentuk geometris dengan lima sudut dan lima sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382683.jpeg",
+      "simplified": "五角形",
+      "traditional": "五角形",
+      "pinyin": "wǔjiǎo xíng"
+    },
+    {
+      "id": 382684,
+      "translation": {
+        "en": {
+          "short": "hexagon",
+          "long": "(geometry) a closed shape with six straight sides and six angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi enam",
+          "long": "(Geometri) Bentuk tertutup dengan enam sisi lurus dan enam sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382684.jpeg",
+      "simplified": "六边形",
+      "traditional": "六邊形",
+      "pinyin": "liùbiān xíng"
+    },
+    {
+      "id": 382685,
+      "translation": {
+        "en": {
+          "short": "heptagon",
+          "long": "a seven-sided plane shape consisting of seven line segments or edges that meet at seven interior angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tujuh",
+          "long": "Bentuk pesawat tujuh sisi yang terdiri dari tujuh segmen atau tepi garis yang bertemu pada tujuh sudut interior",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382685.jpeg",
+      "simplified": "七边形",
+      "traditional": "七邊形",
+      "pinyin": "qībiān xíng"
+    },
+    {
+      "id": 382686,
+      "translation": {
+        "en": {
+          "short": "octagon",
+          "long": "(geometry) a polygon consisting of eight straight sides and eight angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi delapan",
+          "long": "(Geometri) Poligon yang terdiri dari delapan sisi lurus dan delapan sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382686.jpeg",
+      "simplified": "八角形",
+      "traditional": "八角形",
+      "pinyin": "bājiǎo xíng"
+    },
+    {
+      "id": 382687,
+      "translation": {
+        "en": {
+          "short": "nonagon",
+          "long": "(geometry) a flat shape consisting of nine straight sides and nine angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nonagon",
+          "long": "(Geometri) Bentuk datar yang terdiri dari sembilan sisi lurus dan sembilan sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382687.jpeg",
+      "simplified": "九角形",
+      "traditional": "九角形",
+      "pinyin": "jiǔ Jué xíng"
+    },
+    {
+      "id": 382688,
+      "translation": {
+        "en": {
+          "short": "decagon",
+          "long": "(geometry) a flat polygon with ten straight sides and ten angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "decagon",
+          "long": "(Geometri) Poligon datar dengan sepuluh sisi lurus dan sepuluh sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382688.jpeg",
+      "simplified": "十边形",
+      "traditional": "十邊形",
+      "pinyin": "shíbiān xíng"
+    },
+    {
+      "id": 382689,
+      "translation": {
+        "en": {
+          "short": "pentagram",
+          "long": "a five-pointed star",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pentagram",
+          "long": "bintang berujung lima",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382689.jpeg",
+      "simplified": "五角星",
+      "traditional": "五角星",
+      "pinyin": "wǔjiǎo xīng"
+    },
+    {
+      "id": 382690,
+      "translation": {
+        "en": {
+          "short": "hexagram",
+          "long": "(geometry) a flat star-shaped figure with six points that can be formed by making equilateral triangles on each side of a regular hexagon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hexagram",
+          "long": "(Geometri) Sosok berbentuk bintang datar dengan enam titik yang dapat dibentuk dengan membuat segitiga sama sisi di setiap sisi segi enam biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382690.jpeg",
+      "simplified": "hexagram",
+      "traditional": "hexagram",
+      "pinyin": ""
+    },
+    {
+      "id": 382691,
+      "translation": {
+        "en": {
+          "short": "zigzag",
+          "long": "(geometry) a shape that consists of a line alternating its direction to left and right",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zigzag",
+          "long": "(Geometri) Bentuk yang terdiri dari garis bergantian arah ke kiri dan kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382691.jpeg",
+      "simplified": "蜿蜒",
+      "traditional": "蜿蜒",
+      "pinyin": "wānyán"
+    },
+    {
+      "id": 382692,
+      "translation": {
+        "en": {
+          "short": "hendecagon",
+          "long": "(geometry) a flat figure consisting of eleven straight sides and eleven angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hendecagon",
+          "long": "(Geometri) Sosok datar yang terdiri dari sebelas sisi lurus dan sebelas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382692.jpeg",
+      "simplified": "十一角形",
+      "traditional": "十一角形",
+      "pinyin": "ShíYī Jué xíng"
+    },
+    {
+      "id": 382693,
+      "translation": {
+        "en": {
+          "short": "dodecagon",
+          "long": "(geometry) a flat figure that consists of twelve sides and twelve angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pigura berduabelas sudut",
+          "long": "(Geometri) Sosok datar yang terdiri dari dua belas sisi dan dua belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382693.jpeg",
+      "simplified": "十二国",
+      "traditional": "十二國",
+      "pinyin": "shíèr Guó"
+    },
+    {
+      "id": 382694,
+      "translation": {
+        "en": {
+          "short": "tridecagon",
+          "long": "a polygon with thirteen sides and thirteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tridecagon",
+          "long": "poligon dengan tiga belas sisi dan tiga belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382694.jpeg",
+      "simplified": "十三边形",
+      "traditional": "十三邊形",
+      "pinyin": "shísān biān xíng"
+    },
+    {
+      "id": 382695,
+      "translation": {
+        "en": {
+          "short": "oblong",
+          "long": "a rectangular figure that has unequal adjacent sides with arched angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bujur",
+          "long": "Sosok persegi panjang yang memiliki sisi yang tidak sama dengan sudut melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382695.jpeg",
+      "simplified": "带弧角的矩形图形",
+      "traditional": "帶弧角的矩形圖形",
+      "pinyin": "dài hú Jué de jǔxíng túxíng"
+    },
+    {
+      "id": 382696,
+      "translation": {
+        "en": {
+          "short": "torus",
+          "long": "a solid shape resembling a donut or ring, made by spinning a circle around a line that does not cut through the circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Torus",
+          "long": "Bentuk padat menyerupai donat atau cincin, dibuat dengan memutar lingkaran di sekitar garis yang tidak memotong lingkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382696.jpeg",
+      "simplified": "花托",
+      "traditional": "花托",
+      "pinyin": "huātuō"
+    },
+    {
+      "id": 382697,
+      "translation": {
+        "en": {
+          "short": "curve",
+          "long": "a line or shape that is not straight and bends gradually",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melengkung",
+          "long": "garis atau bentuk yang tidak lurus dan membungkuk secara bertahap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382697.jpeg",
+      "simplified": "曲线",
+      "traditional": "曲線",
+      "pinyin": "qūxiàn"
+    },
+    {
+      "id": 382698,
+      "translation": {
+        "en": {
+          "short": "parallel",
+          "long": "(mathematics) any of the pair of geometric figures such as lines or planes which do not meet or intersect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paralel",
+          "long": "(Matematika) Pasangan salah satu angka geometrik seperti baris atau pesawat yang tidak memenuhi atau berpotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382698.jpeg",
+      "simplified": "纬线",
+      "traditional": "緯線",
+      "pinyin": "wěixiàn"
+    },
+    {
+      "id": 382699,
+      "translation": {
+        "en": {
+          "short": "ellipse",
+          "long": "(geometry) a closed plane curve that has two focal points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elips",
+          "long": "(Geometri) Kurva bidang tertutup yang memiliki dua titik fokus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382699.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    }
+  ]
+}

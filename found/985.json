@@ -1,0 +1,602 @@
+{
+  "id": 985,
+  "title": {
+    "en": "Plants and Vegetation",
+    "id": "Tanaman dan vegetasi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about plants and vegetation, such as \"blossom\", \"petal\", \"maple\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang tanaman dan vegetasi, seperti \"bunga\", \"kelopak\", \"maple\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 243105,
+      "translation": {
+        "en": {
+          "short": "bark",
+          "long": "the hard outer covering of a tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kulit pohon",
+          "long": "penutup luar pohon yang keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243105.jpeg",
+      "simplified": "树皮",
+      "traditional": "樹皮",
+      "pinyin": "shùpí"
+    },
+    {
+      "id": 243106,
+      "translation": {
+        "en": {
+          "short": "blossom",
+          "long": "a flower or a lot of flowers, particularly on a bush or a fruit tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mekar",
+          "long": "bunga atau banyak bunga, terutama di semak atau pohon buah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243106.jpeg",
+      "simplified": "开花",
+      "traditional": "開花",
+      "pinyin": "kāihuā"
+    },
+    {
+      "id": 243107,
+      "translation": {
+        "en": {
+          "short": "bulb",
+          "long": "the ball-shaped root of some plants that grows anew every year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bohlam",
+          "long": "akar berbentuk bola dari beberapa tanaman yang tumbuh lagi setiap tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243107.jpeg",
+      "simplified": "洋葱（植物学）",
+      "traditional": "洋蔥（植物學）",
+      "pinyin": "yángcōng zhíwù xué"
+    },
+    {
+      "id": 243108,
+      "translation": {
+        "en": {
+          "short": "cane",
+          "long": "the stiff and hollow stem of some tall plants such as sugar cane or bamboo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tebu",
+          "long": "Batang yang kaku dan berongga dari beberapa tanaman tinggi seperti tebu atau bambu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243108.jpeg",
+      "simplified": "芦苇（植物学）",
+      "traditional": "蘆葦（植物學）",
+      "pinyin": "lúwěi zhíwù xué"
+    },
+    {
+      "id": 243109,
+      "translation": {
+        "en": {
+          "short": "crown",
+          "long": "the top part of a tree or other plant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mahkota",
+          "long": "bagian atas pohon atau tanaman lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243109.jpeg",
+      "simplified": "叶子",
+      "traditional": "葉子",
+      "pinyin": "yèzi"
+    },
+    {
+      "id": 243110,
+      "translation": {
+        "en": {
+          "short": "cutting",
+          "long": "a part of a plant that is cut off so that it can be grown into a new plant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemotongan",
+          "long": "bagian dari tanaman yang terputus sehingga dapat ditanam menjadi tanaman baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243110.jpeg",
+      "simplified": "切割（植物）",
+      "traditional": "切割（植物）",
+      "pinyin": "qiēgē zhíwù"
+    },
+    {
+      "id": 243116,
+      "translation": {
+        "en": {
+          "short": "petal",
+          "long": "any of the parts of a flower that is very soft and is usually colored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daun bunga",
+          "long": "Salah satu bagian bunga yang sangat lembut dan biasanya berwarna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243116.jpeg",
+      "simplified": "花瓣",
+      "traditional": "花瓣",
+      "pinyin": "huābàn"
+    },
+    {
+      "id": 243122,
+      "translation": {
+        "en": {
+          "short": "timber",
+          "long": "trees grown to be used in carpentry or construction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kayu",
+          "long": "pohon yang ditanam untuk digunakan di pertukangan atau konstruksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243122.jpeg",
+      "simplified": "木材",
+      "traditional": "木材",
+      "pinyin": "mùcái"
+    },
+    {
+      "id": 243112,
+      "translation": {
+        "en": {
+          "short": "genus",
+          "long": "(biology) any of the groups that plants, animals, etc. with similar characteristics are divided into, which is larger than a species and smaller than a family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "marga",
+          "long": "(Biologi) Setiap kelompok tempat tumbuhan, hewan, dll. Dengan karakteristik yang sama dibagi menjadi, yang lebih besar dari spesies dan lebih kecil dari keluarga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243112.jpeg",
+      "simplified": "属（生物学）",
+      "traditional": "屬（生物學）",
+      "pinyin": "shǔ shēngwù xué"
+    },
+    {
+      "id": 243103,
+      "translation": {
+        "en": {
+          "short": "algae",
+          "long": "plants without true roots, leaves, or stems, which grow in or near a body of water, such as seaweeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Alga",
+          "long": "tanaman tanpa akar, daun, atau batang yang benar, yang tumbuh di dalam atau di dekat badan air, seperti rumput laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243103.jpeg",
+      "simplified": "藻类",
+      "traditional": "藻類",
+      "pinyin": "zǎolèi"
+    },
+    {
+      "id": 243120,
+      "translation": {
+        "en": {
+          "short": "seaweed",
+          "long": "a type of plant that grows in or near the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumput laut",
+          "long": "Jenis tanaman yang tumbuh di atau dekat laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243120.jpeg",
+      "simplified": "海草",
+      "traditional": "海草",
+      "pinyin": "hǎicǎo"
+    },
+    {
+      "id": 243111,
+      "translation": {
+        "en": {
+          "short": "fungus",
+          "long": "a plant-like organism that often grows on organic matter and has no flowers or leaves, such as moulds and mushrooms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jamur",
+          "long": "Organisme seperti tanaman yang sering tumbuh pada bahan organik dan tidak memiliki bunga atau daun, seperti jamur dan jamur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243111.jpeg",
+      "simplified": "菌",
+      "traditional": "菌",
+      "pinyin": "jūn"
+    },
+    {
+      "id": 243114,
+      "translation": {
+        "en": {
+          "short": "maple",
+          "long": "a tall tree, growing in northern countries, with leaves that have five points that turn gold or red in the fall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maple",
+          "long": "pohon tinggi, tumbuh di negara -negara utara, dengan daun yang memiliki lima poin yang berubah menjadi emas atau merah pada musim gugur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243114.jpeg",
+      "simplified": "枫",
+      "traditional": "楓",
+      "pinyin": "fēng"
+    },
+    {
+      "id": 243115,
+      "translation": {
+        "en": {
+          "short": "needle",
+          "long": "a pine tree's leaf that is thin and hard",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jarum",
+          "long": "daun pohon pinus yang tipis dan keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243115.jpeg",
+      "simplified": "松树的叶子",
+      "traditional": "松樹的葉子",
+      "pinyin": "sōngshù de yèzi"
+    },
+    {
+      "id": 243113,
+      "translation": {
+        "en": {
+          "short": "lush",
+          "long": "(of vegetation) growing densely and looking strong and healthy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subur",
+          "long": "(dari vegetasi) tumbuh dengan padat dan terlihat kuat dan sehat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243113.jpeg",
+      "simplified": "郁郁葱葱（植被）",
+      "traditional": "鬱鬱蔥蔥（植被）",
+      "pinyin": "yùyù cōng cōng zhíbèi"
+    },
+    {
+      "id": 243117,
+      "translation": {
+        "en": {
+          "short": "pod",
+          "long": "a long and narrow casing filled with seeds that grows on some specific plants, such as beans and peas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polong",
+          "long": "Casing yang panjang dan sempit diisi dengan biji yang tumbuh pada beberapa tanaman tertentu, seperti kacang dan kacang polong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243117.jpeg",
+      "simplified": "豆荚（植物）",
+      "traditional": "豆莢（植物）",
+      "pinyin": "dòujiá zhíwù"
+    },
+    {
+      "id": 243123,
+      "translation": {
+        "en": {
+          "short": "vegetation",
+          "long": "trees and plants in general, particularly those of a specific habitat or area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vegetasi",
+          "long": "pohon dan tanaman pada umumnya, terutama dari habitat atau daerah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243123.jpeg",
+      "simplified": "植被",
+      "traditional": "植被",
+      "pinyin": "zhíbèi"
+    },
+    {
+      "id": 243124,
+      "translation": {
+        "en": {
+          "short": "window box",
+          "long": "a decorative container placed outside a window in which people grow flowers and other plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak jendela",
+          "long": "wadah dekoratif ditempatkan di luar jendela tempat orang menanam bunga dan tanaman lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243124.jpeg",
+      "simplified": "窗外种植植物的地方",
+      "traditional": "窗外種植植物的地方",
+      "pinyin": "chuāng wài zhòngzhí zhíwù de dìfāng"
+    },
+    {
+      "id": 243118,
+      "translation": {
+        "en": {
+          "short": "to pollinate",
+          "long": "to deposit pollen on a plant or flower so that it can produce new seeds or fruit",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerbuki",
+          "long": "untuk menyimpan serbuk sari pada tanaman atau bunga sehingga dapat menghasilkan benih atau buah baru",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243118.jpeg",
+      "simplified": "对 ... 授粉",
+      "traditional": "對 ... 授粉",
+      "pinyin": "duì shòufěn"
+    },
+    {
+      "id": 266280,
+      "translation": {
+        "en": {
+          "short": "pollination",
+          "long": "(biology) the process of producing plant seeds by transferring a powdery substance from one plant to the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyerbukan",
+          "long": "(Biologi) Proses memproduksi benih tanaman dengan mentransfer zat bubuk dari satu tanaman ke tanaman lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/266280.jpeg",
+      "simplified": "授粉",
+      "traditional": "授粉",
+      "pinyin": "shòufěn"
+    },
+    {
+      "id": 243121,
+      "translation": {
+        "en": {
+          "short": "shoot",
+          "long": "a new growth on a tree or plant or the part of a plant that starts to appear above the ground because it is growing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menembak",
+          "long": "Pertumbuhan baru di pohon atau tanaman atau bagian dari tanaman yang mulai muncul di atas tanah karena sedang tumbuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243121.jpeg",
+      "simplified": "植物芽",
+      "traditional": "植物芽",
+      "pinyin": "zhíwù yá"
+    },
+    {
+      "id": 243119,
+      "translation": {
+        "en": {
+          "short": "reed",
+          "long": "a tall grass-like plant that grows in water or near it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buluh",
+          "long": "tanaman seperti rumput tinggi yang tumbuh di air atau di dekatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243119.jpeg",
+      "simplified": "芦苇（植物）",
+      "traditional": "蘆葦（植物）",
+      "pinyin": "lúwěi zhíwù"
+    },
+    {
+      "id": 243125,
+      "translation": {
+        "en": {
+          "short": "dahlia",
+          "long": "a large Mexican garden plant with brightly colored flowers, which usually has the shape of a ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dahlia",
+          "long": "Sebuah tanaman kebun besar Meksiko dengan bunga berwarna cerah, yang biasanya memiliki bentuk bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243125.jpeg",
+      "simplified": "娇琴纱",
+      "traditional": "嬌琴紗",
+      "pinyin": "jiāo qín shā"
+    },
+    {
+      "id": 243130,
+      "translation": {
+        "en": {
+          "short": "dogwood",
+          "long": "a small tree or bush with red stems and pink or red berries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dogwood",
+          "long": "pohon kecil atau semak dengan batang merah dan buah merah merah muda atau merah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243130.jpeg",
+      "simplified": "萸",
+      "traditional": "萸",
+      "pinyin": "yú"
+    },
+    {
+      "id": 243126,
+      "translation": {
+        "en": {
+          "short": "honeysuckle",
+          "long": "a climbing plant with fragrant flowers that are pink, white, or yellow in color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "honeysuckle",
+          "long": "tanaman panjat dengan bunga harum yang berwarna merah muda, putih, atau kuning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243126.jpeg",
+      "simplified": "金银花",
+      "traditional": "金銀花",
+      "pinyin": "jīnyín huā"
+    },
+    {
+      "id": 243127,
+      "translation": {
+        "en": {
+          "short": "iris",
+          "long": "a plant with long narrow leaves and large yellow or purple flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Iris",
+          "long": "tanaman dengan daun sempit panjang dan bunga kuning atau ungu besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243127.jpeg",
+      "simplified": "鸢尾花",
+      "traditional": "鳶尾花",
+      "pinyin": "yuānwěi huā"
+    },
+    {
+      "id": 243128,
+      "translation": {
+        "en": {
+          "short": "magnolia",
+          "long": "a shrub or tree with purple, white, or pink flowers that are large in size and are also pleasant-smelling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Magnolia",
+          "long": "semak atau pohon dengan bunga ungu, putih, atau merah muda yang berukuran besar dan juga berbau harum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243128.jpeg",
+      "simplified": "玉兰",
+      "traditional": "玉蘭",
+      "pinyin": "Yùlán"
+    },
+    {
+      "id": 243129,
+      "translation": {
+        "en": {
+          "short": "mimosa",
+          "long": "a plant whose leaves droop when touched",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mimosa",
+          "long": "tanaman yang daunnya terkulai saat disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243129.jpeg",
+      "simplified": "含羞草花",
+      "traditional": "含羞草花",
+      "pinyin": "hánxiū cǎo Huā"
+    },
+    {
+      "id": 243132,
+      "translation": {
+        "en": {
+          "short": "myrtle",
+          "long": "a small tree with shiny leaves, blue-black berries and fragrant white flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Myrtle",
+          "long": "Pohon kecil dengan daun mengkilap, buah beri-hitam dan bunga putih harum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243132.jpeg",
+      "simplified": "香桃木",
+      "traditional": "香桃木",
+      "pinyin": "xiāng táo Mù"
+    },
+    {
+      "id": 243131,
+      "translation": {
+        "en": {
+          "short": "quince",
+          "long": "a West Asian small tree with pink flowers and pear-shaped fruit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "quince",
+          "long": "Pohon kecil Asia Barat dengan bunga merah muda dan buah berbentuk pir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243131.jpeg",
+      "simplified": "木瓜树",
+      "traditional": "木瓜樹",
+      "pinyin": "mùguā shù"
+    },
+    {
+      "id": 243133,
+      "translation": {
+        "en": {
+          "short": "snowdrop",
+          "long": "a small plant that starts producing white flowers in early spring",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polisi militer",
+          "long": "tanaman kecil yang mulai menghasilkan bunga putih di awal musim semi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243133.jpeg",
+      "simplified": "雪花",
+      "traditional": "雪花",
+      "pinyin": "xuěhuā"
+    }
+  ]
+}

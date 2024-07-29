@@ -1,0 +1,982 @@
+{
+  "id": 5879,
+  "title": {
+    "en": "Chemistry",
+    "id": "Kimia"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to chemistry, such as \"polymer\", \"isotope\", \"reactive\", etc. that you will need to ace your SATs.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan kimia, seperti \"polimer\", \"isotop\", \"reaktif\", dll. Yang Anda perlukan untuk menyaksikan sats Anda."
+  },
+  "cards": [
+    {
+      "id": 395689,
+      "translation": {
+        "en": {
+          "short": "polymer",
+          "long": "a large molecule composed of repeating structural units, or monomers, covalently bonded together in a chain-like structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polimer",
+          "long": "Molekul besar yang terdiri dari unit struktural yang berulang, atau monomer, secara kovalen terikat bersama dalam struktur seperti rantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395689.jpeg",
+      "simplified": "聚合物",
+      "traditional": "聚合物",
+      "pinyin": "jùhé wù"
+    },
+    {
+      "id": 395690,
+      "translation": {
+        "en": {
+          "short": "isotope",
+          "long": "each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei, leading to variation in atomic mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isotop",
+          "long": "Masing -masing dari dua atau lebih bentuk dari elemen yang sama yang mengandung jumlah proton yang sama tetapi jumlah neutron yang berbeda dalam inti mereka, yang mengarah ke variasi massa atom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395690.jpeg",
+      "simplified": "同位素",
+      "traditional": "同位素",
+      "pinyin": "tóngwèi sù"
+    },
+    {
+      "id": 395692,
+      "translation": {
+        "en": {
+          "short": "reactive",
+          "long": "having a tendency to to undergo chemical reactions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "reaktif",
+          "long": "memiliki kecenderungan untuk menjalani reaksi kimia",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395692.jpeg",
+      "simplified": "反应性的",
+      "traditional": "反應性的",
+      "pinyin": "fǎnyìng xìng de"
+    },
+    {
+      "id": 395693,
+      "translation": {
+        "en": {
+          "short": "radioactive",
+          "long": "containing or relating to a dangerous form of energy produced by nuclear reactions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "radioaktif",
+          "long": "mengandung atau berkaitan dengan bentuk energi yang berbahaya yang dihasilkan oleh reaksi nuklir",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395693.jpeg",
+      "simplified": "放射性",
+      "traditional": "放射性",
+      "pinyin": "fàngshè xìng"
+    },
+    {
+      "id": 395694,
+      "translation": {
+        "en": {
+          "short": "covalent bond",
+          "long": "a chemical bond where atoms share electrons to form a stable molecule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ikatan kovalen",
+          "long": "ikatan kimia di mana atom berbagi elektron untuk membentuk molekul yang stabil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395694.jpeg",
+      "simplified": "共价键",
+      "traditional": "共價鍵",
+      "pinyin": "gòngjià jiàn"
+    },
+    {
+      "id": 395695,
+      "translation": {
+        "en": {
+          "short": "double bond",
+          "long": "a type of chemical bond between two atoms involving the sharing of two pairs of electrons, resulting in a stronger and more stable connection than a single bond",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ikatan rangkap",
+          "long": "Jenis ikatan kimia antara dua atom yang melibatkan berbagi dua pasang elektron, menghasilkan koneksi yang lebih kuat dan lebih stabil daripada ikatan tunggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395695.jpeg",
+      "simplified": "双键",
+      "traditional": "雙鍵",
+      "pinyin": "shuāngjiàn"
+    },
+    {
+      "id": 395696,
+      "translation": {
+        "en": {
+          "short": "hydrophilic",
+          "long": "defining substances or surfaces that have a strong attraction to water molecules, allowing them to easily absorb or interact with water",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hidrofilik",
+          "long": "mendefinisikan zat atau permukaan yang memiliki ketertarikan yang kuat untuk molekul air, memungkinkan mereka untuk dengan mudah menyerap atau berinteraksi dengan air",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395696.jpeg",
+      "simplified": "亲水性的",
+      "traditional": "親水性的",
+      "pinyin": "qīnshuǐ xìng de"
+    },
+    {
+      "id": 395697,
+      "translation": {
+        "en": {
+          "short": "hydrophobic",
+          "long": "characterized by substances or surfaces that repel water molecules, showing little or no affinity for water",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hidrofobik",
+          "long": "ditandai dengan zat atau permukaan yang mengusir molekul air, menunjukkan sedikit atau tidak ada afinitas untuk air",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395697.jpeg",
+      "simplified": "疏水性的",
+      "traditional": "疏水性的",
+      "pinyin": "shū shuǐxìng de"
+    },
+    {
+      "id": 395698,
+      "translation": {
+        "en": {
+          "short": "exothermic reaction",
+          "long": "a chemical reaction that releases heat energy to its surroundings, typically resulting in a temperature increase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reaksi eksotermik",
+          "long": "reaksi kimia yang melepaskan energi panas ke lingkungannya, biasanya menghasilkan kenaikan suhu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395698.jpeg",
+      "simplified": "放热反应",
+      "traditional": "放熱反應",
+      "pinyin": "fàngrè fǎn yìng"
+    },
+    {
+      "id": 395699,
+      "translation": {
+        "en": {
+          "short": "endothermic reaction",
+          "long": "a chemical process that absorbs heat energy from its surroundings, often resulting in a temperature decrease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Reaksi endotermik",
+          "long": "Proses kimia yang menyerap energi panas dari lingkungannya, seringkali menghasilkan penurunan suhu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395699.jpeg",
+      "simplified": "吸热反应",
+      "traditional": "吸熱反應",
+      "pinyin": "xīrè fǎnyìng"
+    },
+    {
+      "id": 395700,
+      "translation": {
+        "en": {
+          "short": "atomic mass",
+          "long": "the weighted average mass of an atom of an element, taking into account the masses of all its naturally occurring isotopes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "massa atom",
+          "long": "massa rata -rata tertimbang dari suatu atom suatu unsur, dengan mempertimbangkan massa semua isotop yang terjadi secara alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395700.jpeg",
+      "simplified": "原子质量",
+      "traditional": "原子質量",
+      "pinyin": "yuánzǐ zhì liàng"
+    },
+    {
+      "id": 395702,
+      "translation": {
+        "en": {
+          "short": "molecular mass",
+          "long": "the total mass of all the atoms in a single molecule of a substance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "massa molekul",
+          "long": "massa total semua atom dalam molekul tunggal suatu zat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395702.jpeg",
+      "simplified": "分子量",
+      "traditional": "分子量",
+      "pinyin": "fēnzǐ liàng"
+    },
+    {
+      "id": 395703,
+      "translation": {
+        "en": {
+          "short": "mass number",
+          "long": "the total number of protons and neutrons in the nucleus of an atom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor massa",
+          "long": "Jumlah total proton dan neutron dalam inti atom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395703.jpeg",
+      "simplified": "质量数",
+      "traditional": "質量數",
+      "pinyin": "zhìliàng shù"
+    },
+    {
+      "id": 395704,
+      "translation": {
+        "en": {
+          "short": "mole",
+          "long": "a fundamental unit in chemistry that represents the amount of substance containing as many entities (atoms, molecules) as there are in 12 grams of carbon-12",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tikus tanah",
+          "long": "Unit mendasar dalam kimia yang mewakili jumlah zat yang mengandung banyak entitas (atom, molekul) seperti dalam 12 gram karbon-12",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395704.jpeg",
+      "simplified": "痣",
+      "traditional": "痣",
+      "pinyin": "zhì"
+    },
+    {
+      "id": 395705,
+      "translation": {
+        "en": {
+          "short": "beaker",
+          "long": "a container usually made of glass or plastic used in chemistry and laboratory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelas kimia",
+          "long": "wadah yang biasanya terbuat dari kaca atau plastik yang digunakan dalam kimia dan laboratorium",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395705.jpeg",
+      "simplified": "樽",
+      "traditional": "樽",
+      "pinyin": "zūn"
+    },
+    {
+      "id": 395706,
+      "translation": {
+        "en": {
+          "short": "pipette",
+          "long": "a laboratory tool used to measure and transfer small volumes of liquid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipet",
+          "long": "Alat laboratorium yang digunakan untuk mengukur dan mentransfer volume kecil cairan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395706.jpeg",
+      "simplified": "吸管",
+      "traditional": "吸管",
+      "pinyin": "xīguǎn"
+    },
+    {
+      "id": 395707,
+      "translation": {
+        "en": {
+          "short": "centrifuge",
+          "long": "a device that spins samples to separate components based on density",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Centrifuge",
+          "long": "perangkat yang memutar sampel untuk memisahkan komponen berdasarkan kepadatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395707.jpeg",
+      "simplified": "离心分离机",
+      "traditional": "離心分離機",
+      "pinyin": "líxīn fēn lí jī"
+    },
+    {
+      "id": 395709,
+      "translation": {
+        "en": {
+          "short": "indicator paper",
+          "long": "a special paper treated with chemicals that change color in response to certain conditions, used to test for the presence of specific substances or measure pH levels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kertas indikator",
+          "long": "Kertas khusus yang diperlakukan dengan bahan kimia yang mengubah warna sebagai respons terhadap kondisi tertentu, digunakan untuk menguji keberadaan zat tertentu atau mengukur tingkat pH",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395709.jpeg",
+      "simplified": "指示纸",
+      "traditional": "指示紙",
+      "pinyin": "zhǐshì zhǐ"
+    },
+    {
+      "id": 395710,
+      "translation": {
+        "en": {
+          "short": "periodic table",
+          "long": "a tabular arrangement of chemical elements organized based on their atomic number, electron configuration, and recurring chemical properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tabel periodik",
+          "long": "Susunan tabular elemen kimia yang diatur berdasarkan nomor atomnya, konfigurasi elektron, dan sifat kimia berulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395710.jpeg",
+      "simplified": "元素周期表",
+      "traditional": "元素週期表",
+      "pinyin": "yuánsù zhōu qī biǎo"
+    },
+    {
+      "id": 395731,
+      "translation": {
+        "en": {
+          "short": "calcification",
+          "long": "the process where calcium or calcium salts accumulate in a tissue, making it hard and rigid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalsifikasi",
+          "long": "Proses di mana garam kalsium atau kalsium menumpuk dalam jaringan, membuatnya sulit dan kaku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395731.jpeg",
+      "simplified": "钙化",
+      "traditional": "鈣化",
+      "pinyin": "gàihuà"
+    },
+    {
+      "id": 395746,
+      "translation": {
+        "en": {
+          "short": "titration",
+          "long": "a laboratory method used to determine the concentration of a substance in a solution by gradually adding a reagent of known concentration until a reaction is completed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titrasi",
+          "long": "Metode laboratorium yang digunakan untuk menentukan konsentrasi suatu zat dalam suatu larutan dengan secara bertahap menambahkan reagen konsentrasi yang diketahui sampai suatu reaksi selesai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395746.jpeg",
+      "simplified": "滴定",
+      "traditional": "滴定",
+      "pinyin": "dīdìng"
+    },
+    {
+      "id": 395732,
+      "translation": {
+        "en": {
+          "short": "fermentation",
+          "long": "the process by which microorganisms convert carbohydrates into alcohol, acids, or gases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fermentasi",
+          "long": "Proses dimana mikroorganisme mengubah karbohidrat menjadi alkohol, asam, atau gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395732.jpeg",
+      "simplified": "发酵作用",
+      "traditional": "發酵作用",
+      "pinyin": "fājiào zuòyòng"
+    },
+    {
+      "id": 395721,
+      "translation": {
+        "en": {
+          "short": "concentration",
+          "long": "the measure of how much of a substance is present in a certain volume of solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konsentrasi",
+          "long": "Ukuran seberapa banyak zat hadir dalam volume larutan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395721.jpeg",
+      "simplified": "浓度",
+      "traditional": "濃度",
+      "pinyin": "nóngdù"
+    },
+    {
+      "id": 395723,
+      "translation": {
+        "en": {
+          "short": "microprobe",
+          "long": "a device used to analyze the chemical composition of small samples at a microscopic scale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Microprobe",
+          "long": "Perangkat yang digunakan untuk menganalisis komposisi kimia sampel kecil pada skala mikroskopis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395723.jpeg",
+      "simplified": "微探针",
+      "traditional": "微探針",
+      "pinyin": "Wēi tànzhēn"
+    },
+    {
+      "id": 395726,
+      "translation": {
+        "en": {
+          "short": "multicomponent alloy",
+          "long": "a type of metallic material composed of three or more elements mixed together in varying proportions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paduan multikomponen",
+          "long": "Jenis bahan logam yang terdiri dari tiga elemen atau lebih yang dicampur bersama dalam berbagai proporsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395726.jpeg",
+      "simplified": "多元合金",
+      "traditional": "多元合金",
+      "pinyin": "duōyuán héjīn"
+    },
+    {
+      "id": 395729,
+      "translation": {
+        "en": {
+          "short": "radical",
+          "long": "a group of atoms bonded together that behaves as a single unit within a molecule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radikal",
+          "long": "sekelompok atom terikat bersama yang berperilaku sebagai satu unit dalam molekul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395729.jpeg",
+      "simplified": "激进",
+      "traditional": "激進",
+      "pinyin": "jījìn"
+    },
+    {
+      "id": 395734,
+      "translation": {
+        "en": {
+          "short": "assay",
+          "long": "a test that measures the presence, amount, or activity of a specific substance in a sample, often used in scientific and medical research",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengujian kadar logam",
+          "long": "Tes yang mengukur keberadaan, jumlah, atau aktivitas zat tertentu dalam sampel, sering digunakan dalam penelitian ilmiah dan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395734.jpeg",
+      "simplified": "化验",
+      "traditional": "化驗",
+      "pinyin": "huàyàn"
+    },
+    {
+      "id": 395747,
+      "translation": {
+        "en": {
+          "short": "equilibrium",
+          "long": "a state in a chemical reaction where the forward and reverse reactions occur at the same rate, resulting in no net change in the concentrations of reactants and products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keseimbangan",
+          "long": "keadaan dalam reaksi kimia di mana reaksi maju dan terbalik terjadi pada tingkat yang sama, mengakibatkan tidak ada perubahan bersih dalam konsentrasi reaktan dan produk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395747.jpeg",
+      "simplified": "平衡",
+      "traditional": "平衡",
+      "pinyin": "pínghéng"
+    },
+    {
+      "id": 395754,
+      "translation": {
+        "en": {
+          "short": "electrolysis",
+          "long": "(chemistry) the process of separating a liquid or solution into its parts by passing electricity through it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektrolisa",
+          "long": "(Kimia) Proses memisahkan cairan atau larutan ke dalam bagian -bagiannya dengan melewati listrik melaluinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395754.jpeg",
+      "simplified": "电解",
+      "traditional": "電解",
+      "pinyin": "diànjiě"
+    },
+    {
+      "id": 395711,
+      "translation": {
+        "en": {
+          "short": "to dissolve",
+          "long": "(of a solid) to become one with a liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk larut",
+          "long": "(dari padatan) menjadi satu dengan cairan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395711.jpeg",
+      "simplified": "溶解（在水等中）",
+      "traditional": "溶解（在水等中）",
+      "pinyin": "róngjiě zài Shuǐ děng Zhōng"
+    },
+    {
+      "id": 395757,
+      "translation": {
+        "en": {
+          "short": "to dilute",
+          "long": "to make a solution or mixture weaker or less concentrated by adding more liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencairkan",
+          "long": "untuk membuat larutan atau campuran lebih lemah atau kurang terkonsentrasi dengan menambahkan lebih banyak cairan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395757.jpeg",
+      "simplified": "稀释",
+      "traditional": "稀釋",
+      "pinyin": "xīshì"
+    },
+    {
+      "id": 395755,
+      "translation": {
+        "en": {
+          "short": "to suspend",
+          "long": "to disperse fine particles throughout a fluid so they remain evenly distributed without settling",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menangguhkan",
+          "long": "untuk membubarkan partikel halus di seluruh cairan sehingga mereka tetap terdistribusi secara merata tanpa mengendap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395755.jpeg",
+      "simplified": "暂停",
+      "traditional": "暫停",
+      "pinyin": "zàntíng"
+    },
+    {
+      "id": 395715,
+      "translation": {
+        "en": {
+          "short": "solubilization",
+          "long": "the process of dispersing or dissolving a substance into a solvent to form a homogeneous solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Solubilisasi",
+          "long": "Proses menyebarkan atau melarutkan suatu zat menjadi pelarut untuk membentuk solusi yang homogen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395715.jpeg",
+      "simplified": "增溶作用",
+      "traditional": "增溶作用",
+      "pinyin": "zēng róng zuòyòng"
+    },
+    {
+      "id": 395719,
+      "translation": {
+        "en": {
+          "short": "microstructure",
+          "long": "the arrangement, composition, and characteristics of a material at a microscopic level",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "struktur mikro",
+          "long": "Pengaturan, komposisi, dan karakteristik material pada tingkat mikroskopis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395719.jpeg",
+      "simplified": "微观结构",
+      "traditional": "微觀結構",
+      "pinyin": "wēiguān jiégòu"
+    },
+    {
+      "id": 395727,
+      "translation": {
+        "en": {
+          "short": "nanotube",
+          "long": "a tiny, tube-shaped structure made of carbon atoms, with remarkable strength and electrical properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nanotube",
+          "long": "Struktur kecil berbentuk tabung yang terbuat dari atom karbon, dengan kekuatan dan sifat listrik yang luar biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395727.jpeg",
+      "simplified": "纳米管",
+      "traditional": "納米管",
+      "pinyin": "nàmǐ guǎn"
+    },
+    {
+      "id": 395728,
+      "translation": {
+        "en": {
+          "short": "molten",
+          "long": "heated to a liquid state due to high temperatures",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "cair",
+          "long": "dipanaskan ke keadaan cair karena suhu tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395728.jpeg",
+      "simplified": "熔化的",
+      "traditional": "熔化的",
+      "pinyin": "rónghuà de"
+    },
+    {
+      "id": 395730,
+      "translation": {
+        "en": {
+          "short": "phase",
+          "long": "a phase is a distinct form of matter with uniform chemical and physical properties, separated from other forms by boundaries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fase",
+          "long": "Fase adalah bentuk materi yang berbeda dengan sifat kimia dan fisik yang seragam, dipisahkan dari bentuk lain dengan batas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395730.jpeg",
+      "simplified": "相",
+      "traditional": "相",
+      "pinyin": "Xiāng"
+    },
+    {
+      "id": 395733,
+      "translation": {
+        "en": {
+          "short": "to detoxify",
+          "long": "to eliminate or neutralize harmful substances",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendetoksifikasi",
+          "long": "untuk menghilangkan atau menetralkan zat berbahaya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395733.jpeg",
+      "simplified": "排毒",
+      "traditional": "排毒",
+      "pinyin": "páidú"
+    },
+    {
+      "id": 395720,
+      "translation": {
+        "en": {
+          "short": "crystalline",
+          "long": "denoting substances with a highly organized molecular structure, akin to crystals",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kristal",
+          "long": "menunjukkan zat dengan struktur molekul yang sangat terorganisir, mirip dengan kristal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395720.jpeg",
+      "simplified": "结晶体",
+      "traditional": "結晶體",
+      "pinyin": "jiéjīng tǐ"
+    },
+    {
+      "id": 395735,
+      "translation": {
+        "en": {
+          "short": "crystallographer",
+          "long": "a scientist who studies the structure and properties of crystals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kristalografi",
+          "long": "seorang ilmuwan yang mempelajari struktur dan sifat kristal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395735.jpeg",
+      "simplified": "晶体学家",
+      "traditional": "晶體學家",
+      "pinyin": "jīngtǐ xué jiā"
+    },
+    {
+      "id": 395739,
+      "translation": {
+        "en": {
+          "short": "cosmochemist",
+          "long": "a scientist who studies the chemical composition and processes of celestial bodies to understand the formation and evolution of the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cosmochemist",
+          "long": "seorang ilmuwan yang mempelajari komposisi kimia dan proses benda langit untuk memahami pembentukan dan evolusi alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395739.jpeg",
+      "simplified": "宇宙化学家",
+      "traditional": "宇宙化學家",
+      "pinyin": "yǔzhòu huàxué jiā"
+    },
+    {
+      "id": 395740,
+      "translation": {
+        "en": {
+          "short": "chromatography",
+          "long": "a laboratory technique used to separate and analyze mixtures of substances based on their differential affinities for a stationary phase and a mobile phase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kromatografi",
+          "long": "Teknik laboratorium yang digunakan untuk memisahkan dan menganalisis campuran zat berdasarkan afinitas diferensial mereka untuk fase stasioner dan fase gerak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395740.jpeg",
+      "simplified": "套色",
+      "traditional": "套色",
+      "pinyin": "tàoshǎi"
+    },
+    {
+      "id": 395741,
+      "translation": {
+        "en": {
+          "short": "beta decay",
+          "long": "a type of radioactive decay where a nucleus emits a beta particle (electron or positron) to transform a neutron into a proton or vice versa",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beta pembusukan",
+          "long": "Jenis peluruhan radioaktif di mana nukleus memancarkan partikel beta (elektron atau positron) untuk mengubah neutron menjadi proton atau sebaliknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395741.jpeg",
+      "simplified": "β衰变",
+      "traditional": "β衰變",
+      "pinyin": "shuāibiàn"
+    },
+    {
+      "id": 395742,
+      "translation": {
+        "en": {
+          "short": "uncharged",
+          "long": "not having an electrical charge",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak bermuatan",
+          "long": "tidak memiliki muatan listrik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395742.jpeg",
+      "simplified": "不带电的",
+      "traditional": "不帶電的",
+      "pinyin": "bùdài diàn de"
+    },
+    {
+      "id": 395748,
+      "translation": {
+        "en": {
+          "short": "condenser",
+          "long": "a device that turns vapor into liquid by cooling it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kondensator",
+          "long": "perangkat yang mengubah uap menjadi cair dengan mendinginkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395748.jpeg",
+      "simplified": "聚光器",
+      "traditional": "聚光器",
+      "pinyin": "jùguāng qì"
+    },
+    {
+      "id": 395749,
+      "translation": {
+        "en": {
+          "short": "van der waal's forces",
+          "long": "weak attractive forces between molecules or atoms, arising from temporary or induced dipoles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pasukan Van Der Waal",
+          "long": "kekuatan menarik yang lemah antara molekul atau atom, timbul dari dipol sementara atau diinduksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395749.jpeg",
+      "simplified": "范德瓦尔力",
+      "traditional": "范德瓦爾力",
+      "pinyin": "fàn Dé wǎ ěr Lì"
+    },
+    {
+      "id": 395750,
+      "translation": {
+        "en": {
+          "short": "metallurgist",
+          "long": "a scientist or engineer who specializes in the study and production of metals and alloys, including their properties, processing methods, and applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Metalurgi",
+          "long": "Seorang ilmuwan atau insinyur yang berspesialisasi dalam studi dan produksi logam dan paduan, termasuk sifatnya, metode pemrosesan, dan aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395750.jpeg",
+      "simplified": "冶金学家",
+      "traditional": "冶金學家",
+      "pinyin": "yějīn xué jiā"
+    },
+    {
+      "id": 395751,
+      "translation": {
+        "en": {
+          "short": "adsorption",
+          "long": "the process by which molecules of a substance adhere to the surface of a solid or liquid, forming a thin film or layer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Adsorpsi",
+          "long": "Proses dimana molekul suatu zat melekat pada permukaan padat atau cairan, membentuk film atau lapisan tipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395751.jpeg",
+      "simplified": "吸附",
+      "traditional": "吸附",
+      "pinyin": "xīfù"
+    },
+    {
+      "id": 395753,
+      "translation": {
+        "en": {
+          "short": "biodiesel",
+          "long": "a renewable, alternative fuel made from organic materials such as vegetable oils, animal fats, or recycled cooking grease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Biodiesel",
+          "long": "Bahan bakar alternatif terbarukan yang terbuat dari bahan organik seperti minyak nabati, lemak hewani, atau minyak memasak daur ulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395753.jpeg",
+      "simplified": "生物柴油",
+      "traditional": "生物柴油",
+      "pinyin": "shēngwù chái yóu"
+    },
+    {
+      "id": 395756,
+      "translation": {
+        "en": {
+          "short": "eutectic",
+          "long": "a specific composition of a mixture of substances, typically metals or alloys, where the melting point is at its lowest possible temperature under atmospheric pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Eutektik",
+          "long": "Komposisi spesifik dari campuran zat, biasanya logam atau paduan, di mana titik leleh berada pada suhu serendah mungkin di bawah tekanan atmosfer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395756.jpeg",
+      "simplified": "共晶",
+      "traditional": "共晶",
+      "pinyin": "gòng jīng"
+    },
+    {
+      "id": 395758,
+      "translation": {
+        "en": {
+          "short": "superabsorbent",
+          "long": "a substance capable of absorbing and retaining a large amount of liquid relative to its own mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "superabsorben",
+          "long": "Suatu zat yang mampu menyerap dan mempertahankan sejumlah besar cairan relatif terhadap massanya sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395758.jpeg",
+      "simplified": "超强吸水性",
+      "traditional": "超強吸水性",
+      "pinyin": "chāo Qiáng xīshuǐ xìng"
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": 2441,
+  "title": {
+    "en": "Chemical Cooking Methods",
+    "id": "Metode Memasak Kimia"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to chemical cooking methods such as \"brine\", \"curdle\", and \"homogenize\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan metode memasak kimia seperti \"air garam\", \"kotoran\", dan \"homogenisasi\"."
+  },
+  "cards": [
+    {
+      "id": 297528,
+      "translation": {
+        "en": {
+          "short": "to brine",
+          "long": "to soak food in a solution of water and salt, often to preserve or flavor it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk air garam",
+          "long": "untuk merendam makanan dalam larutan air dan garam, seringkali untuk melestarikan atau mengoreknya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297528.jpeg",
+      "simplified": "浸入盐水",
+      "traditional": "浸入鹽水",
+      "pinyin": "jìnrù yánshuǐ"
+    },
+    {
+      "id": 297529,
+      "translation": {
+        "en": {
+          "short": "to dry",
+          "long": "to remove moisture from something, such as food or flowers, to preserve it, typically by exposing them to air, heat, or a combination of both",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "kering",
+          "long": "untuk menghilangkan kelembaban dari sesuatu, seperti makanan atau bunga, untuk melestarikannya, biasanya dengan mengeksposnya ke udara, panas, atau kombinasi keduanya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297529.jpeg",
+      "simplified": "槁",
+      "traditional": "槁",
+      "pinyin": "gǎo"
+    },
+    {
+      "id": 297530,
+      "translation": {
+        "en": {
+          "short": "to ferment",
+          "long": "to trigger a process where microorganisms break down sugars in a substance, often creating alcohol or acids",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk fermentasi",
+          "long": "Untuk memicu proses di mana mikroorganisme memecah gula dalam suatu zat, seringkali menciptakan alkohol atau asam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297530.jpeg",
+      "simplified": "发酵",
+      "traditional": "發酵",
+      "pinyin": "fājiào"
+    },
+    {
+      "id": 297531,
+      "translation": {
+        "en": {
+          "short": "to marinate",
+          "long": "to soak food in a seasoned liquid, typically containing oil, vinegar, herbs, and spices, to enhance its flavor and softness before cooking",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk diasinkan",
+          "long": "Untuk merendam makanan dalam cairan berpengalaman, biasanya mengandung minyak, cuka, rempah -rempah, dan rempah -rempah, untuk meningkatkan rasa dan kelembutannya sebelum memasak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297531.jpeg",
+      "simplified": "渍",
+      "traditional": "漬",
+      "pinyin": "zì"
+    },
+    {
+      "id": 297533,
+      "translation": {
+        "en": {
+          "short": "to salt",
+          "long": "to preserve food by packing it in salt",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk garam",
+          "long": "untuk melestarikan makanan dengan mengemasnya dalam garam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297533.jpeg",
+      "simplified": "腌",
+      "traditional": "醃",
+      "pinyin": "yān"
+    },
+    {
+      "id": 297534,
+      "translation": {
+        "en": {
+          "short": "to sour",
+          "long": "to make something taste tangy or tart by adding acid or letting it ferment",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk asam",
+          "long": "Untuk membuat sesuatu terasa tajam atau asam dengan menambahkan asam atau membiarkannya berfermentasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297534.jpeg",
+      "simplified": "使某物变酸",
+      "traditional": "使某物變酸",
+      "pinyin": "shǐ mǒuwù biàn suān"
+    },
+    {
+      "id": 297535,
+      "translation": {
+        "en": {
+          "short": "to sprout",
+          "long": "(of a seed or plant) to begin growing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kecambah",
+          "long": "(dari benih atau tanaman) untuk mulai tumbuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297535.jpeg",
+      "simplified": "发芽",
+      "traditional": "發芽",
+      "pinyin": "fāyá"
+    },
+    {
+      "id": 297536,
+      "translation": {
+        "en": {
+          "short": "to sugar",
+          "long": "to use sugar or a sweetener, to add a sweet taste to something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk gula",
+          "long": "untuk menggunakan gula atau pemanis, untuk menambahkan rasa manis ke sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297536.jpeg",
+      "simplified": "弄甜点",
+      "traditional": "弄甜點",
+      "pinyin": "lòng tiándiǎn"
+    },
+    {
+      "id": 297554,
+      "translation": {
+        "en": {
+          "short": "to acidulate",
+          "long": "to add something that makes a food or drink slightly sour or tangy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk asam",
+          "long": "untuk menambahkan sesuatu yang membuat makanan atau minuman sedikit asam atau tajam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297554.jpeg",
+      "simplified": "酸化",
+      "traditional": "酸化",
+      "pinyin": "suān huā"
+    },
+    {
+      "id": 297559,
+      "translation": {
+        "en": {
+          "short": "amylolysis",
+          "long": "the process of breaking down starch molecules into sugar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amilolisis",
+          "long": "Proses memecah molekul pati menjadi gula",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297559.jpeg",
+      "simplified": "淀粉分解",
+      "traditional": "澱粉分解",
+      "pinyin": "diànfěn fēnjiě"
+    },
+    {
+      "id": 297566,
+      "translation": {
+        "en": {
+          "short": "to bard",
+          "long": "to wrap meat with strips of fat, such as bacon or lard, to add moisture and flavor during cooking",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bard",
+          "long": "untuk membungkus daging dengan potongan lemak, seperti bacon atau lemak babi, untuk menambah kelembaban dan rasa saat memasak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297566.jpeg",
+      "simplified": "诗人",
+      "traditional": "詩人",
+      "pinyin": "shīrén"
+    },
+    {
+      "id": 297574,
+      "translation": {
+        "en": {
+          "short": "carryover cooking",
+          "long": "the phenomenon where food continues to cook even after it has been removed from the heat source due to residual heat retained within the food itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "COVINGOVER COMINGY",
+          "long": "Fenomena di mana makanan terus dimasak bahkan setelah dikeluarkan dari sumber panas karena sisa panas tetap di dalam makanan itu sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297574.jpeg",
+      "simplified": "结转烹饪",
+      "traditional": "結轉烹飪",
+      "pinyin": "jiē zhuǎi pēngrèn"
+    },
+    {
+      "id": 297589,
+      "translation": {
+        "en": {
+          "short": "conche",
+          "long": "a machine used in chocolate making to refine and smooth the texture and flavor of chocolate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CONCHE",
+          "long": "Mesin yang digunakan dalam pembuatan cokelat untuk memperbaiki dan menghaluskan tekstur dan rasa cokelat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297589.jpeg",
+      "simplified": "凝胶",
+      "traditional": "凝膠",
+      "pinyin": "níngjiāo"
+    },
+    {
+      "id": 297593,
+      "translation": {
+        "en": {
+          "short": "to curdle",
+          "long": "to cause or undergo the separation of a liquid, often milk, into solid curds",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengutuk",
+          "long": "untuk menyebabkan atau menjalani pemisahan cairan, seringkali susu, menjadi dadih padat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297593.jpeg",
+      "simplified": "凝固",
+      "traditional": "凝固",
+      "pinyin": "nínggù"
+    },
+    {
+      "id": 297594,
+      "translation": {
+        "en": {
+          "short": "to cure",
+          "long": "to preserve or flavor food by treating it with salt, sugar, or spices",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyembuhkan",
+          "long": "untuk melestarikan atau membumbui makanan dengan merawatnya dengan garam, gula, atau rempah -rempah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297594.jpeg",
+      "simplified": "治愈",
+      "traditional": "治愈",
+      "pinyin": "zhìyù"
+    },
+    {
+      "id": 297606,
+      "translation": {
+        "en": {
+          "short": "to emulsify",
+          "long": "to mix substances together so that they become a smooth and stable blend",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk emulsi",
+          "long": "untuk mencampur zat bersama -sama sehingga mereka menjadi campuran yang halus dan stabil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297606.jpeg",
+      "simplified": "乳化",
+      "traditional": "乳化",
+      "pinyin": "rǔhuà"
+    },
+    {
+      "id": 297611,
+      "translation": {
+        "en": {
+          "short": "to foam",
+          "long": "to cause a liquid to form foam or bubbles by agitating or stirring it vigorously",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk busa",
+          "long": "menyebabkan cairan membentuk busa atau gelembung dengan menggeliat atau mengaduknya dengan penuh semangat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297611.jpeg",
+      "simplified": "起泡",
+      "traditional": "起泡",
+      "pinyin": "qǐpào"
+    },
+    {
+      "id": 297613,
+      "translation": {
+        "en": {
+          "short": "to can",
+          "long": "to preserve food by sealing it in an airtight container, typically made of metal, through sterilization and vacuum sealing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bisa",
+          "long": "Untuk melestarikan makanan dengan menyegelnya dalam wadah kedap udara, biasanya terbuat dari logam, melalui sterilisasi dan penyegelan vakum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297613.jpeg",
+      "simplified": "可以",
+      "traditional": "可以",
+      "pinyin": "kěyǐ"
+    },
+    {
+      "id": 297616,
+      "translation": {
+        "en": {
+          "short": "to frost",
+          "long": "to spread or coat a cake or baked goods with a layer of sweet, often creamy, topping",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Frost",
+          "long": "untuk menyebarkan atau melapisi kue atau makanan yang dipanggang dengan lapisan yang manis, seringkali krim, topping",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297616.jpeg",
+      "simplified": "结霜",
+      "traditional": "結霜",
+      "pinyin": "jiéshuāng"
+    },
+    {
+      "id": 297622,
+      "translation": {
+        "en": {
+          "short": "to homogenize",
+          "long": "to break fat globules into smaller particles to prevent separation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk homogenisasi",
+          "long": "memecah gumpalan lemak menjadi partikel yang lebih kecil untuk mencegah pemisahan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297622.jpeg",
+      "simplified": "均质化",
+      "traditional": "均質化",
+      "pinyin": "jūnzhì huā"
+    },
+    {
+      "id": 297729,
+      "translation": {
+        "en": {
+          "short": "to macerate",
+          "long": "to soften or break down food by soaking it in a liquid, often a flavored liquid like wine or vinegar",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk semakin macerate",
+          "long": "Untuk melembutkan atau memecah makanan dengan merendamnya dalam cairan, seringkali cairan rasa seperti anggur atau cuka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297729.jpeg",
+      "simplified": "沤",
+      "traditional": "漚",
+      "pinyin": "ōu"
+    },
+    {
+      "id": 297730,
+      "translation": {
+        "en": {
+          "short": "to marinade",
+          "long": "to leave food in a seasoned liquid, typically containing oil, vinegar, herbs, and spices, to enhance its flavor and tenderness before cooking",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk Marinade",
+          "long": "Untuk meninggalkan makanan dalam cairan berpengalaman, biasanya mengandung minyak, cuka, rempah -rempah, dan rempah -rempah, untuk meningkatkan rasa dan kelembutannya sebelum memasak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/297730.jpeg",
+      "simplified": "渍",
+      "traditional": "漬",
+      "pinyin": "zì"
+    },
+    {
+      "id": 298142,
+      "translation": {
+        "en": {
+          "short": "to pasteurize",
+          "long": "to heat a liquid, like milk or juice, to kill harmful bacteria while preserving its taste and nutrients",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pasteurisasi",
+          "long": "untuk memanaskan cairan, seperti susu atau jus, untuk membunuh bakteri berbahaya sambil menjaga selera dan nutrisi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298142.jpeg",
+      "simplified": "巴氏杀菌",
+      "traditional": "巴氏殺菌",
+      "pinyin": "Bāshì shā jūn"
+    },
+    {
+      "id": 298148,
+      "translation": {
+        "en": {
+          "short": "to reconstitute",
+          "long": "to restore something to its original state, often by adding liquid or other ingredients to bring it back to its original form or condition",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyusun kembali",
+          "long": "Untuk mengembalikan sesuatu ke keadaan aslinya, seringkali dengan menambahkan cairan atau bahan lain untuk membawanya kembali ke bentuk atau kondisinya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298148.jpeg",
+      "simplified": "重构",
+      "traditional": "重構",
+      "pinyin": "chónggòu"
+    },
+    {
+      "id": 310809,
+      "translation": {
+        "en": {
+          "short": "to chill",
+          "long": "to cool or refrigerate food or beverages to a lower temperature",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendinginkan",
+          "long": "untuk mendinginkan atau mendinginkan makanan atau minuman hingga suhu yang lebih rendah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310809.jpeg",
+      "simplified": "变冷",
+      "traditional": "變冷",
+      "pinyin": "biàn Lěng"
+    },
+    {
+      "id": 310841,
+      "translation": {
+        "en": {
+          "short": "to doctor",
+          "long": "to adjust or modify food or a dish, typically by adding or changing ingredients or flavors",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke dokter",
+          "long": "Untuk menyesuaikan atau memodifikasi makanan atau hidangan, biasanya dengan menambahkan atau mengganti bahan atau rasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310841.jpeg",
+      "simplified": "行医",
+      "traditional": "行醫",
+      "pinyin": "xíngyī"
+    },
+    {
+      "id": 310846,
+      "translation": {
+        "en": {
+          "short": "to enrich",
+          "long": "to add nutrients, flavors, or other ingredients to food to enhance its nutritional value, taste, or texture",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memperkaya",
+          "long": "untuk menambahkan nutrisi, rasa, atau bahan lain ke dalam makanan untuk meningkatkan nilai nutrisi, rasa, atau teksturnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310846.jpeg",
+      "simplified": "丰富",
+      "traditional": "豐富",
+      "pinyin": "fēngfù"
+    },
+    {
+      "id": 310853,
+      "translation": {
+        "en": {
+          "short": "to flavor",
+          "long": "to improve or change the taste of a dish by adding spices, vegetables, etc. to it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk rasa",
+          "long": "Untuk meningkatkan atau mengubah rasa hidangan dengan menambahkan rempah -rempah, sayuran, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310853.jpeg",
+      "simplified": "调味",
+      "traditional": "調味",
+      "pinyin": "tiáowèi"
+    },
+    {
+      "id": 310855,
+      "translation": {
+        "en": {
+          "short": "to fortify",
+          "long": "to add vitamins, minerals, or other nutrients to food or beverages to increase their nutritional content",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membentengi",
+          "long": "untuk menambahkan vitamin, mineral, atau nutrisi lain ke dalam makanan atau minuman untuk meningkatkan kandungan nutrisi mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310855.jpeg",
+      "simplified": "驻守",
+      "traditional": "駐守",
+      "pinyin": "zhùshǒu"
+    },
+    {
+      "id": 310857,
+      "translation": {
+        "en": {
+          "short": "to grease",
+          "long": "to apply a layer of grease or fat onto a surface, usually to prevent sticking or to provide lubrication",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melumasi",
+          "long": "untuk menerapkan lapisan minyak atau lemak ke permukaan, biasanya untuk mencegah lengket atau memberikan pelumasan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310857.jpeg",
+      "simplified": "膏",
+      "traditional": "膏",
+      "pinyin": "gāo"
+    },
+    {
+      "id": 310867,
+      "translation": {
+        "en": {
+          "short": "to ice",
+          "long": "to put something on frozen water",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk es",
+          "long": "untuk meletakkan sesuatu di atas air beku",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310867.jpeg",
+      "simplified": "冰镇",
+      "traditional": "冰鎮",
+      "pinyin": "bīngzhèn"
+    },
+    {
+      "id": 333197,
+      "translation": {
+        "en": {
+          "short": "to leaven",
+          "long": "to add a substance, such as yeast, to dough or batter, causing it to rise and become lighter during the baking process",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ragi",
+          "long": "untuk menambahkan zat, seperti ragi, adonan atau adonan, menyebabkannya naik dan menjadi lebih ringan selama proses memanggang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/333197.jpeg",
+      "simplified": "发生影响",
+      "traditional": "發生影響",
+      "pinyin": "fāshēng yǐngxiǎng"
+    },
+    {
+      "id": 310996,
+      "translation": {
+        "en": {
+          "short": "to thaw",
+          "long": "to make something melt or soften",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencair",
+          "long": "untuk membuat sesuatu yang meleleh atau melunakkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/310996.jpeg",
+      "simplified": "解冻",
+      "traditional": "解凍",
+      "pinyin": "jiědòng"
+    },
+    {
+      "id": 327258,
+      "translation": {
+        "en": {
+          "short": "meuniere",
+          "long": "a cooking technique where fish is coated in flour, sautéed in butter, and served with a sauce made of the butter, lemon juice, and parsley",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meuniere",
+          "long": "Teknik memasak tempat ikan dilapisi tepung, ditumis dengan mentega, dan disajikan dengan saus yang terbuat dari mentega, jus lemon, dan peterseli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/327258.jpeg",
+      "simplified": "莫尼耶尔",
+      "traditional": "莫尼耶爾",
+      "pinyin": "Mò ní yē ěr"
+    }
+  ]
+}

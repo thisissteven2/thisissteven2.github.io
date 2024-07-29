@@ -1,0 +1,735 @@
+{
+  "id": 5877,
+  "title": {
+    "en": "Physics",
+    "id": "Fisika"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to physics, such as \"sonar\", \"prism\", \"diffuse\", etc. that you will need to ace your SATs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan fisika, seperti \"sonar\", \"prism\", \"difus\", dll. Yang Anda perlukan untuk mengikis sats Anda."
+  },
+  "cards": [
+    {
+      "id": 395609,
+      "translation": {
+        "en": {
+          "short": "amplitude",
+          "long": "(physics) the maximum distance a vibrating material, sound wave, etc. such as a pendulum travels from its first position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amplitudo",
+          "long": "(Fisika) Jarak maksimum bahan yang bergetar, gelombang suara, dll. Seperti pendulum bergerak dari posisi pertama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395609.jpeg",
+      "simplified": "振幅（物理）",
+      "traditional": "振幅（物理）",
+      "pinyin": "zhènfú wùlǐ"
+    },
+    {
+      "id": 395610,
+      "translation": {
+        "en": {
+          "short": "acoustic",
+          "long": "relating to the science of studying sounds or the way people hear things",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "akustik",
+          "long": "berkaitan dengan ilmu mempelajari suara atau cara orang mendengar sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395610.jpeg",
+      "simplified": "声学的",
+      "traditional": "聲學的",
+      "pinyin": "shēngxué de"
+    },
+    {
+      "id": 395611,
+      "translation": {
+        "en": {
+          "short": "sonar",
+          "long": "a technology that uses sound waves to detect objects underwater or measure distances underwater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sonar",
+          "long": "Teknologi yang menggunakan gelombang suara untuk mendeteksi objek di bawah air atau mengukur jarak di bawah air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395611.jpeg",
+      "simplified": "声纳",
+      "traditional": "聲納",
+      "pinyin": "shēngnà"
+    },
+    {
+      "id": 395612,
+      "translation": {
+        "en": {
+          "short": "prism",
+          "long": "a solid geometric shape, typically with a triangular base and rectangular sides, that refracts light into its component colors or alters the path of light",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prisma",
+          "long": "Bentuk geometris yang solid, biasanya dengan dasar segitiga dan sisi persegi panjang, yang membiaskan cahaya ke dalam warna -warna komponennya atau mengubah jalur cahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395612.jpeg",
+      "simplified": "角柱",
+      "traditional": "角柱",
+      "pinyin": "Jué zhù"
+    },
+    {
+      "id": 395614,
+      "translation": {
+        "en": {
+          "short": "infrared",
+          "long": "electromagnetic radiation with longer wavelengths than visible light, used for applications such as thermal imaging and remote sensing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inframerah",
+          "long": "Radiasi elektromagnetik dengan panjang gelombang yang lebih panjang dari cahaya tampak, digunakan untuk aplikasi seperti pencitraan termal dan penginderaan jauh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395614.jpeg",
+      "simplified": "红外线的",
+      "traditional": "紅外線的",
+      "pinyin": "hóngwài xiàn de"
+    },
+    {
+      "id": 395615,
+      "translation": {
+        "en": {
+          "short": "ultraviolet",
+          "long": "a type of electromagnetic radiation with shorter wavelengths than visible light, often associated with sunlight and used in various applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ultraungu",
+          "long": "Jenis radiasi elektromagnetik dengan panjang gelombang yang lebih pendek dari cahaya yang terlihat, sering dikaitkan dengan sinar matahari dan digunakan dalam berbagai aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395615.jpeg",
+      "simplified": "紫外线",
+      "traditional": "紫外線",
+      "pinyin": "zǐwài xiàn"
+    },
+    {
+      "id": 395616,
+      "translation": {
+        "en": {
+          "short": "fluorescence",
+          "long": "the emission of light by a substance that has absorbed light or other electromagnetic radiation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fluoresensi",
+          "long": "Emisi cahaya oleh zat yang telah menyerap cahaya atau radiasi elektromagnetik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395616.jpeg",
+      "simplified": "荧光",
+      "traditional": "熒光",
+      "pinyin": "yíngguāng"
+    },
+    {
+      "id": 395617,
+      "translation": {
+        "en": {
+          "short": "spectrometer",
+          "long": "a scientific instrument used to measure and analyze the properties of light over a specific range of wavelengths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spektrometer",
+          "long": "Instrumen ilmiah yang digunakan untuk mengukur dan menganalisis sifat -sifat cahaya di atas rentang panjang gelombang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395617.jpeg",
+      "simplified": "光谱仪",
+      "traditional": "光譜儀",
+      "pinyin": "guāngpǔ yí"
+    },
+    {
+      "id": 395618,
+      "translation": {
+        "en": {
+          "short": "photon",
+          "long": "a fundamental particle of light that carries electromagnetic energy and exhibits both particle-like and wave-like properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "foton",
+          "long": "Partikel fundamental cahaya yang membawa energi elektromagnetik dan menunjukkan sifat seperti partikel dan seperti gelombang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395618.jpeg",
+      "simplified": "光子",
+      "traditional": "光子",
+      "pinyin": "guāngzǐ"
+    },
+    {
+      "id": 395619,
+      "translation": {
+        "en": {
+          "short": "to refract",
+          "long": "(of physics) to change the direction of light, sound, or energy when it passes through something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membiaskan",
+          "long": "(fisika) untuk mengubah arah cahaya, suara, atau energi saat melewati sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395619.jpeg",
+      "simplified": "折射",
+      "traditional": "折射",
+      "pinyin": "zhéshè"
+    },
+    {
+      "id": 395620,
+      "translation": {
+        "en": {
+          "short": "diffraction",
+          "long": "the bending, spreading, and interference of waves as they encounter obstacles or pass through narrow openings, often observed in the behavior of light, sound, or other waves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "difraksi",
+          "long": "Bending, penyebaran, dan gangguan gelombang saat mereka menghadapi rintangan atau melewati bukaan sempit, sering diamati dalam perilaku cahaya, suara, atau gelombang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395620.jpeg",
+      "simplified": "光遇到障碍物时的反射",
+      "traditional": "光遇到障礙物時的反射",
+      "pinyin": "guāng yùdào zhàngài wù shí de fǎnshè"
+    },
+    {
+      "id": 395621,
+      "translation": {
+        "en": {
+          "short": "transmittance",
+          "long": "the fraction or percentage of light or electromagnetic radiation that passes through a substance or medium",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transmitansi",
+          "long": "Fraksi atau persentase radiasi cahaya atau elektromagnetik yang melewati zat atau medium",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395621.jpeg",
+      "simplified": "透过率",
+      "traditional": "透過率",
+      "pinyin": "tòuguò lǜ"
+    },
+    {
+      "id": 397177,
+      "translation": {
+        "en": {
+          "short": "molar absorptivity",
+          "long": "a measure of how strongly a substance absorbs light at a particular wavelength",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Absorptivitas molar",
+          "long": "Ukuran seberapa kuat suatu zat menyerap cahaya pada panjang gelombang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397177.jpeg",
+      "simplified": "摩尔吸光率",
+      "traditional": "摩爾吸光率",
+      "pinyin": "Móěr xī guāng lǜ"
+    },
+    {
+      "id": 397178,
+      "translation": {
+        "en": {
+          "short": "absorption spectrum",
+          "long": "a range of wavelengths of electromagnetic radiation absorbed by a substance, typically represented as a graph showing absorption intensity versus wavelength",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spektrum serapan",
+          "long": "Berbagai panjang gelombang radiasi elektromagnetik yang diserap oleh suatu zat, biasanya direpresentasikan sebagai grafik yang menunjukkan intensitas penyerapan versus panjang gelombang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397178.jpeg",
+      "simplified": "吸收光谱",
+      "traditional": "吸收光譜",
+      "pinyin": "xīshōu guāngpǔ"
+    },
+    {
+      "id": 395622,
+      "translation": {
+        "en": {
+          "short": "thermodynamics",
+          "long": "the branch of physical science that deals with the relationships between heat, work, and energy, particularly the principles governing the conversion of various forms of energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "termodinamika",
+          "long": "Cabang Ilmu Fisik yang berhubungan dengan hubungan antara panas, pekerjaan, dan energi, terutama prinsip -prinsip yang mengatur konversi berbagai bentuk energi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395622.jpeg",
+      "simplified": "热力学",
+      "traditional": "熱力學",
+      "pinyin": "rèlì xué"
+    },
+    {
+      "id": 395624,
+      "translation": {
+        "en": {
+          "short": "thermostat",
+          "long": "an instrument that automatically controls the temperature of a room, machine, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "termostat",
+          "long": "Instrumen yang secara otomatis mengontrol suhu ruangan, mesin, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395624.jpeg",
+      "simplified": "恒温器",
+      "traditional": "恆溫器",
+      "pinyin": "héngwēn qì"
+    },
+    {
+      "id": 395625,
+      "translation": {
+        "en": {
+          "short": "calorimeter",
+          "long": "a device used to measure the heat released or absorbed during a chemical reaction or physical change, typically by measuring temperature changes in a surrounding medium",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalorimeter",
+          "long": "Perangkat yang digunakan untuk mengukur panas yang dilepaskan atau diserap selama reaksi kimia atau perubahan fisik, biasanya dengan mengukur perubahan suhu dalam media di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395625.jpeg",
+      "simplified": "热量计",
+      "traditional": "熱量計",
+      "pinyin": "rèliàng Jì"
+    },
+    {
+      "id": 395626,
+      "translation": {
+        "en": {
+          "short": "thermometer",
+          "long": "a piece of equipment that measures the temperature of the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "termometer",
+          "long": "sepotong peralatan yang mengukur suhu udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395626.jpeg",
+      "simplified": "温度计",
+      "traditional": "溫度計",
+      "pinyin": "wēndù jì"
+    },
+    {
+      "id": 395627,
+      "translation": {
+        "en": {
+          "short": "microchip",
+          "long": "a small piece of material that is a semiconductor, used to make an integrated circuit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Microchip",
+          "long": "sepotong kecil bahan yang merupakan semikonduktor, digunakan untuk membuat sirkuit terintegrasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395627.jpeg",
+      "simplified": "微芯片",
+      "traditional": "微芯片",
+      "pinyin": "Wēi xīnpiàn"
+    },
+    {
+      "id": 395628,
+      "translation": {
+        "en": {
+          "short": "wavelength",
+          "long": "the distance between a point on a wave of energy and a similar point on the next wave",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panjang gelombang",
+          "long": "jarak antara titik pada gelombang energi dan titik serupa pada gelombang berikutnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395628.jpeg",
+      "simplified": "波长",
+      "traditional": "波長",
+      "pinyin": "bōcháng"
+    },
+    {
+      "id": 395629,
+      "translation": {
+        "en": {
+          "short": "relativity",
+          "long": "a theory that explains the relationship between motion, space, and time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Relativitas",
+          "long": "Teori yang menjelaskan hubungan antara gerakan, ruang, dan waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395629.jpeg",
+      "simplified": "相对论",
+      "traditional": "相對論",
+      "pinyin": "xiāngduì lùn"
+    },
+    {
+      "id": 395630,
+      "translation": {
+        "en": {
+          "short": "antimatter",
+          "long": "(physics) matter consisting of elementary particles that are the antiparticles of those of regular matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antimateri",
+          "long": "(Fisika) Materi yang terdiri dari partikel elementer yang merupakan antipartikel dari materi biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395630.jpeg",
+      "simplified": "反物质",
+      "traditional": "反物質",
+      "pinyin": "fǎnwù zhì"
+    },
+    {
+      "id": 395631,
+      "translation": {
+        "en": {
+          "short": "congelation",
+          "long": "the process of solidification or freezing, typically of a liquid or a substance turning into a solid state due to a decrease in temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengentalan",
+          "long": "proses pemadatan atau pembekuan, biasanya cairan atau zat yang berubah menjadi keadaan padat karena penurunan suhu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395631.jpeg",
+      "simplified": "凝结",
+      "traditional": "凝結",
+      "pinyin": "níngjié"
+    },
+    {
+      "id": 395635,
+      "translation": {
+        "en": {
+          "short": "to solidify",
+          "long": "to transform from a liquid or flexible state into a stable, firm, or compact form",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperkuat",
+          "long": "untuk mengubah dari keadaan cairan atau fleksibel menjadi bentuk yang stabil, kuat, atau kompak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395635.jpeg",
+      "simplified": "巩固",
+      "traditional": "鞏固",
+      "pinyin": "gǒnggù"
+    },
+    {
+      "id": 395636,
+      "translation": {
+        "en": {
+          "short": "to liquefy",
+          "long": "to change from a solid state and become fluid or liquid",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencairkan",
+          "long": "untuk berubah dari keadaan padat dan menjadi cairan atau cairan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395636.jpeg",
+      "simplified": "液化",
+      "traditional": "液化",
+      "pinyin": "yèhuà"
+    },
+    {
+      "id": 395632,
+      "translation": {
+        "en": {
+          "short": "subatomic",
+          "long": "relating to particles or forces that exist within atoms, including particles smaller than atoms themselves or the interactions between these particles",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subatomik",
+          "long": "berkaitan dengan partikel atau kekuatan yang ada di dalam atom, termasuk partikel yang lebih kecil dari atom itu sendiri atau interaksi antara partikel -partikel ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395632.jpeg",
+      "simplified": "亚原子的",
+      "traditional": "亞原子的",
+      "pinyin": "yàyuán zǐ de"
+    },
+    {
+      "id": 395633,
+      "translation": {
+        "en": {
+          "short": "neutrino",
+          "long": "a very small, electrically neutral particle that rarely interacts with matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Neutrino",
+          "long": "partikel yang sangat kecil, netral elektrik yang jarang berinteraksi dengan materi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395633.jpeg",
+      "simplified": "中微子",
+      "traditional": "中微子",
+      "pinyin": "zhōngwēi zǐ"
+    },
+    {
+      "id": 395634,
+      "translation": {
+        "en": {
+          "short": "nanoscale",
+          "long": "extremely small size, typically on the scale of nanometers, which is a billionth of a meter",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nano",
+          "long": "Ukuran yang sangat kecil, biasanya pada skala nanometer, yang merupakan seperson meter",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395634.jpeg",
+      "simplified": "极小",
+      "traditional": "極小",
+      "pinyin": "jíxiǎo"
+    },
+    {
+      "id": 395637,
+      "translation": {
+        "en": {
+          "short": "metrology",
+          "long": "the scientific study of measurement, including the development of measurement standards and techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metrologi",
+          "long": "Studi ilmiah pengukuran, termasuk pengembangan standar dan teknik pengukuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395637.jpeg",
+      "simplified": "度量衡学",
+      "traditional": "度量衡學",
+      "pinyin": "dùliàng héng xué"
+    },
+    {
+      "id": 395638,
+      "translation": {
+        "en": {
+          "short": "biophysicist",
+          "long": "a scientist who applies principles and methods of physics to study biological systems and phenomena, aiming to understand life processes at the molecular and cellular levels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli biofisika",
+          "long": "Seorang ilmuwan yang menerapkan prinsip dan metode fisika untuk mempelajari sistem dan fenomena biologis, yang bertujuan untuk memahami proses kehidupan di tingkat molekuler dan seluler",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395638.jpeg",
+      "simplified": "生物物理学家",
+      "traditional": "生物物理學家",
+      "pinyin": "shēngwù wùlǐ xué jiā"
+    },
+    {
+      "id": 395639,
+      "translation": {
+        "en": {
+          "short": "diffuse",
+          "long": "describing light that spreads evenly from a broad source or surface, creating soft illumination without harsh shadows",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "membaur",
+          "long": "menggambarkan cahaya yang menyebar secara merata dari sumber atau permukaan yang luas, menciptakan iluminasi lembut tanpa bayangan yang keras",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395639.jpeg",
+      "simplified": "扩散",
+      "traditional": "擴散",
+      "pinyin": "kuòsàn"
+    },
+    {
+      "id": 395641,
+      "translation": {
+        "en": {
+          "short": "spent fuel",
+          "long": "used nuclear fuel that is no longer efficient for producing energy in a reactor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bahan bakar yang dihabiskan",
+          "long": "Bahan bakar nuklir bekas yang tidak lagi efisien untuk menghasilkan energi dalam reaktor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395641.jpeg",
+      "simplified": "乏燃料",
+      "traditional": "乏燃料",
+      "pinyin": "fárán liào"
+    },
+    {
+      "id": 395643,
+      "translation": {
+        "en": {
+          "short": "pressure gradient",
+          "long": "the rate at which pressure changes over a certain distance in a particular direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gradasi tekanan",
+          "long": "laju tekanan di mana berubah pada jarak tertentu ke arah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395643.jpeg",
+      "simplified": "压力梯度",
+      "traditional": "壓力梯度",
+      "pinyin": "yālì tīdù"
+    },
+    {
+      "id": 395645,
+      "translation": {
+        "en": {
+          "short": "wave number",
+          "long": "the spatial frequency of a wave, representing the number of wavelengths per unit distance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nomor Gelombang",
+          "long": "Frekuensi spasial gelombang, mewakili jumlah panjang gelombang per unit jarak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395645.jpeg",
+      "simplified": "波数",
+      "traditional": "波數",
+      "pinyin": "bōshù"
+    },
+    {
+      "id": 395646,
+      "translation": {
+        "en": {
+          "short": "boson",
+          "long": "a tiny particle with whole-number spin, such as photons or the Higgs boson, often associated with carrying fundamental forces or giving mass to other particles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Boson",
+          "long": "Partikel kecil dengan putaran nomor utuh, seperti foton atau boson Higgs, sering dikaitkan dengan membawa kekuatan fundamental atau memberikan massa kepada partikel lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395646.jpeg",
+      "simplified": "玻色子",
+      "traditional": "玻色子",
+      "pinyin": "bōsè zǐ"
+    },
+    {
+      "id": 395647,
+      "translation": {
+        "en": {
+          "short": "collider",
+          "long": "a type of particle accelerator where two opposing beams of particles are directed to collide with each other at high speeds, allowing scientists to study fundamental particles and forces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Collider",
+          "long": "Jenis akselerator partikel di mana dua balok partikel yang berlawanan diarahkan untuk bertabrakan satu sama lain dengan kecepatan tinggi, memungkinkan para ilmuwan untuk mempelajari partikel dan kekuatan fundamental",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395647.jpeg",
+      "simplified": "对撞机",
+      "traditional": "對撞機",
+      "pinyin": "duìzhuàng jī"
+    },
+    {
+      "id": 395648,
+      "translation": {
+        "en": {
+          "short": "dipole",
+          "long": "a simple type of antenna made of two metal rods, connected in the middle, that is half the wavelength of the signal it transmits or receives",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dipol",
+          "long": "Jenis antena sederhana yang terbuat dari dua batang logam, terhubung di tengah, yaitu setengah panjang gelombang sinyal yang ditransmisikan atau diterima",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395648.jpeg",
+      "simplified": "偶极子",
+      "traditional": "偶極子",
+      "pinyin": "ǒují zǐ"
+    },
+    {
+      "id": 395650,
+      "translation": {
+        "en": {
+          "short": "lepton",
+          "long": "a fundamental particle with half-integer spin, including electrons and their heavier counterparts, as well as neutrinos",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lepton",
+          "long": "Partikel mendasar dengan putaran setengah integer, termasuk elektron dan rekan mereka yang lebih berat, serta neutrino",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395650.jpeg",
+      "simplified": "Lepton",
+      "traditional": "Lepton",
+      "pinyin": ""
+    }
+  ]
+}

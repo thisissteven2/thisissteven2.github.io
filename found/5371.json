@@ -1,0 +1,963 @@
+{
+  "id": 5371,
+  "title": {
+    "en": "Musical Instruments",
+    "id": "Alat-alat musik"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to musical instruments such as \"bassoon\", \"harmonica\", and \"piccolo\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan alat musik seperti \"bassoon\", \"harmonica\", dan \"piccolo\"."
+  },
+  "cards": [
+    {
+      "id": 382752,
+      "translation": {
+        "en": {
+          "short": "piano",
+          "long": "a musical instrument we play by pressing the black and white keys on the keyboard",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piano",
+          "long": "alat musik yang kami mainkan dengan menekan tombol hitam dan putih di keyboard",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382752.jpeg",
+      "simplified": "钢琴",
+      "traditional": "鋼琴",
+      "pinyin": "gāngqín"
+    },
+    {
+      "id": 382753,
+      "translation": {
+        "en": {
+          "short": "violin",
+          "long": "a musical instrument that we play by holding it under our chin and moving a bow across its strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biola",
+          "long": "alat musik yang kami mainkan dengan memegangnya di bawah dagu kami dan menggerakkan busur di senarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382753.jpeg",
+      "simplified": "小提琴",
+      "traditional": "小提琴",
+      "pinyin": "xiǎotí qín"
+    },
+    {
+      "id": 382754,
+      "translation": {
+        "en": {
+          "short": "guitar",
+          "long": "a musical instrument, usually with six strings, that we play by pulling the strings with our fingers or with a plectrum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar",
+          "long": "alat musik, biasanya dengan enam senar, yang kami mainkan dengan menarik string dengan jari kami atau dengan plectrum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382754.jpeg",
+      "simplified": "吉他",
+      "traditional": "吉他",
+      "pinyin": "jítā"
+    },
+    {
+      "id": 382755,
+      "translation": {
+        "en": {
+          "short": "flute",
+          "long": "a tube-like musical instrument that is played by blowing over a hole while covering and uncovering its other holes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seruling",
+          "long": "alat musik seperti tabung yang dimainkan dengan meniup lubang saat menutupi dan mengungkap lubang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382755.jpeg",
+      "simplified": "长笛",
+      "traditional": "長笛",
+      "pinyin": "chángdí"
+    },
+    {
+      "id": 382756,
+      "translation": {
+        "en": {
+          "short": "trumpet",
+          "long": "a musical instrument with a curved metal tube and one wide end, which is played by blowing into it while pressing and releasing its three buttons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terompet",
+          "long": "alat musik dengan tabung logam melengkung dan satu ujung lebar, yang dimainkan dengan meniupnya sambil menekan dan melepaskan tiga tombolnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382756.jpeg",
+      "simplified": "喇叭",
+      "traditional": "喇叭",
+      "pinyin": "lǎba"
+    },
+    {
+      "id": 382757,
+      "translation": {
+        "en": {
+          "short": "drum",
+          "long": "a musical instrument consisting of a hollow, round frame with plastic or skin stretched tightly across one or both ends, played by hitting it with sticks or hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drum",
+          "long": "Alat musik yang terdiri dari bingkai bundar berongga dengan plastik atau kulit yang direntangkan di satu atau kedua ujungnya, dimainkan dengan memukulnya dengan tongkat atau tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382757.jpeg",
+      "simplified": "鼓",
+      "traditional": "鼓",
+      "pinyin": "gǔ"
+    },
+    {
+      "id": 382758,
+      "translation": {
+        "en": {
+          "short": "cello",
+          "long": "a large musical instrument of the violin family that is held upright and is played by pulling a bow across its strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selo",
+          "long": "alat musik besar dari keluarga biola yang diadakan tegak dan dimainkan dengan menarik busur melintasi senarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382758.jpeg",
+      "simplified": "大提琴",
+      "traditional": "大提琴",
+      "pinyin": "dàtí qín"
+    },
+    {
+      "id": 382759,
+      "translation": {
+        "en": {
+          "short": "saxophone",
+          "long": "a curved metal wind instrument that is played by blowing into it while pressing its buttons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saksofon",
+          "long": "instrumen angin logam melengkung yang dimainkan dengan meniupnya sambil menekan tombolnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382759.jpeg",
+      "simplified": "萨克管",
+      "traditional": "薩克管",
+      "pinyin": "sàkè guǎn"
+    },
+    {
+      "id": 382760,
+      "translation": {
+        "en": {
+          "short": "clarinet",
+          "long": "a musical instrument with a mouthpiece and keys, that is played by blowing into it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klarinet",
+          "long": "alat musik dengan corong dan kunci, yang dimainkan dengan meniupnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382760.jpeg",
+      "simplified": "单簧管",
+      "traditional": "單簧管",
+      "pinyin": "dānhuáng guǎn"
+    },
+    {
+      "id": 382761,
+      "translation": {
+        "en": {
+          "short": "trombone",
+          "long": "a wind instrument consisting of a wide hollow end and a sliding metal tube used to vary the pitch and produce a wide range of tones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trombon",
+          "long": "Instrumen angin yang terdiri dari ujung berlubang yang luas dan tabung logam geser yang digunakan untuk memvariasikan pitch dan menghasilkan berbagai nada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382761.jpeg",
+      "simplified": "长号",
+      "traditional": "長號",
+      "pinyin": "chánghào"
+    },
+    {
+      "id": 382762,
+      "translation": {
+        "en": {
+          "short": "harp",
+          "long": "a triangular musical instrument with a row of strings that are stretched vertically, played with the fingers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "harpa",
+          "long": "alat musik segitiga dengan deretan senar yang diregangkan secara vertikal, dimainkan dengan jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382762.jpeg",
+      "simplified": "竖琴乐器",
+      "traditional": "豎琴樂器",
+      "pinyin": "shùqín yuèqì"
+    },
+    {
+      "id": 382763,
+      "translation": {
+        "en": {
+          "short": "accordion",
+          "long": "a box-like musical instrument that is held in both hands and is played by squeezing and stretching it while pressing its keys",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akordeon",
+          "long": "alat musik seperti kotak yang dipegang di kedua tangan dan dimainkan dengan memeras dan meregangkannya sambil menekan kuncinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382763.jpeg",
+      "simplified": "手风琴",
+      "traditional": "手風琴",
+      "pinyin": "shǒufēng qín"
+    },
+    {
+      "id": 382764,
+      "translation": {
+        "en": {
+          "short": "keyboard",
+          "long": "a type of electronic musical instrument with keys like those of a piano, which is able to make many different sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan ketik",
+          "long": "Jenis alat musik elektronik dengan kunci seperti piano, yang mampu membuat banyak suara berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382764.jpeg",
+      "simplified": "音乐键盘",
+      "traditional": "音樂鍵盤",
+      "pinyin": "yīnyuè jiànpán"
+    },
+    {
+      "id": 382765,
+      "translation": {
+        "en": {
+          "short": "horn",
+          "long": "a brass instrument that is played by valves with a curl in its tube and a flared bore",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klakson",
+          "long": "instrumen kuningan yang dimainkan oleh katup dengan ikal di tabungnya dan lubang berkobar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382765.jpeg",
+      "simplified": "喇叭",
+      "traditional": "喇叭",
+      "pinyin": "lǎba"
+    },
+    {
+      "id": 382766,
+      "translation": {
+        "en": {
+          "short": "English horn",
+          "long": "a woodwind instrument like an oboe that has a lower pitch and larger size",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanduk Inggris",
+          "long": "Instrumen angin kayu seperti obo yang memiliki nada yang lebih rendah dan ukuran yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382766.jpeg",
+      "simplified": "英国号",
+      "traditional": "英國號",
+      "pinyin": "Yīngguó háo"
+    },
+    {
+      "id": 382767,
+      "translation": {
+        "en": {
+          "short": "French horn",
+          "long": "a brass instrument with a curl in its tube and a flared bore that is played by valves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanduk Perancis",
+          "long": "instrumen kuningan dengan ikal di tabungnya dan lubang berkobar yang dimainkan oleh katup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382767.jpeg",
+      "simplified": "法国号角",
+      "traditional": "法國號角",
+      "pinyin": "Fǎguó hào Jué"
+    },
+    {
+      "id": 382768,
+      "translation": {
+        "en": {
+          "short": "bagpipe",
+          "long": "a woodwind instrument with a reed and several sticks, played by squeezing a bag and blowing through one of its pipes, originated from Scotland",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bagpipe",
+          "long": "Instrumen Woodwind dengan buluh dan beberapa tongkat, dimainkan dengan meremas tas dan meniup salah satu pipa, berasal dari Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382768.jpeg",
+      "simplified": "苏格兰乐器的类型",
+      "traditional": "蘇格蘭樂器的類型",
+      "pinyin": "Sūgé lán yuèqì de lèixíng"
+    },
+    {
+      "id": 382769,
+      "translation": {
+        "en": {
+          "short": "electric guitar",
+          "long": "a guitar capable of converting the vibration of its strings into electrical impulses using a pickup",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar elektrik",
+          "long": "gitar yang mampu mengubah getaran stringnya menjadi impuls listrik menggunakan pickup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382769.jpeg",
+      "simplified": "电吉他",
+      "traditional": "電吉他",
+      "pinyin": "diànjí tā"
+    },
+    {
+      "id": 382770,
+      "translation": {
+        "en": {
+          "short": "bass guitar",
+          "long": "a type of electric guitar that produces the lowest pitch in the family of guitars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar bass",
+          "long": "Jenis gitar listrik yang menghasilkan nada terendah dalam keluarga gitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382770.jpeg",
+      "simplified": "低音吉他",
+      "traditional": "低音吉他",
+      "pinyin": "dīyīn jítā"
+    },
+    {
+      "id": 382772,
+      "translation": {
+        "en": {
+          "short": "mandolin",
+          "long": "a stringed musical instrument with a curved back and four pairs of metal strings, played with a plectrum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandolin",
+          "long": "alat musik bersatu dengan punggung melengkung dan empat pasang string logam, dimainkan dengan plectrum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382772.jpeg",
+      "simplified": "曼多林",
+      "traditional": "曼多林",
+      "pinyin": "màn duō Lín"
+    },
+    {
+      "id": 382773,
+      "translation": {
+        "en": {
+          "short": "harpsichord",
+          "long": "an early keyboard instrument resembling a piano in which the strings are plucked rather than being hit with a hammer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piano kuno",
+          "long": "Instrumen keyboard awal menyerupai piano di mana string dipetik daripada dipukul dengan palu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382773.jpeg",
+      "simplified": "大键琴",
+      "traditional": "大鍵琴",
+      "pinyin": "dàjiàn qín"
+    },
+    {
+      "id": 382774,
+      "translation": {
+        "en": {
+          "short": "banjo",
+          "long": "a stringed musical instrument with a circular body and a long neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "banjo",
+          "long": "alat musik yang bersatu dengan tubuh melingkar dan leher panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382774.jpeg",
+      "simplified": "班卓琴",
+      "traditional": "班卓琴",
+      "pinyin": "bānzhuó qín"
+    },
+    {
+      "id": 382775,
+      "translation": {
+        "en": {
+          "short": "dulcimer",
+          "long": "a stringed musical instrument with a trapezoidal board or box that is played by hitting the metal strings with a pair of light hammers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dulcimer",
+          "long": "alat musik senar dengan papan atau kotak trapesium yang dimainkan dengan memukul string logam dengan sepasang palu ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382775.jpeg",
+      "simplified": "洋琴",
+      "traditional": "洋琴",
+      "pinyin": "yángqín"
+    },
+    {
+      "id": 382776,
+      "translation": {
+        "en": {
+          "short": "cittern",
+          "long": "a stringed instrument that was popular during the Renaissance with a pear-shaped body and a neck that was thicker under the treble strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cittern",
+          "long": "instrumen senar yang populer selama kebangkitan dengan tubuh berbentuk pir dan leher yang lebih tebal di bawah senar treble",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382776.jpeg",
+      "simplified": "柑橘",
+      "traditional": "柑橘",
+      "pinyin": "gānjú"
+    },
+    {
+      "id": 382777,
+      "translation": {
+        "en": {
+          "short": "double bass",
+          "long": "the largest member of the violin family in the modern symphony orchestra that produces the lowest pitch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bas",
+          "long": "Anggota terbesar keluarga biola di orkestra simfoni modern yang menghasilkan nada terendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382777.jpeg",
+      "simplified": "低音提琴",
+      "traditional": "低音提琴",
+      "pinyin": "dīyīn tí qín"
+    },
+    {
+      "id": 382778,
+      "translation": {
+        "en": {
+          "short": "lyre",
+          "long": "a small U-shaped string instrument similar to the harp originated in ancient Greece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Conre",
+          "long": "Instrumen string kecil berbentuk U yang mirip dengan harpa berasal dari Yunani kuno",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382778.jpeg",
+      "simplified": "七弦琴",
+      "traditional": "七弦琴",
+      "pinyin": "qīxián qín"
+    },
+    {
+      "id": 382779,
+      "translation": {
+        "en": {
+          "short": "oud",
+          "long": "a string instrument with a pear-shaped body, 11 strings and a short neck that is fretless",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oud",
+          "long": "instrumen tali dengan tubuh berbentuk pir, 11 senar dan leher pendek yang fretless",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382779.jpeg",
+      "simplified": "沉香木",
+      "traditional": "沉香木",
+      "pinyin": "chénxiāng Mù"
+    },
+    {
+      "id": 382780,
+      "translation": {
+        "en": {
+          "short": "rubab",
+          "long": "a traditional plucked musical instrument from Afghanistan, known for its pear-shaped body, resonant sound, and intricate melodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rubab",
+          "long": "alat musik tradisional yang dipetik dari Afghanistan, yang dikenal karena tubuhnya yang berbentuk pir, suara resonansi, dan melodi yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382780.jpeg",
+      "simplified": "鲁巴布",
+      "traditional": "魯巴布",
+      "pinyin": "Lǔ Bā bù"
+    },
+    {
+      "id": 382781,
+      "translation": {
+        "en": {
+          "short": "thumb piano",
+          "long": "any of the group of African musical instruments with a row of narrow metal pieces that is hold in the hands and played with the thumbs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piano jempol",
+          "long": "Kelompok alat musik Afrika mana pun dengan deretan potongan logam sempit yang dipegang di tangan dan dimainkan dengan jempol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382781.jpeg",
+      "simplified": "拇指钢琴",
+      "traditional": "拇指鋼琴",
+      "pinyin": "mǔzhǐ gāngqín"
+    },
+    {
+      "id": 382782,
+      "translation": {
+        "en": {
+          "short": "bassoon",
+          "long": "a woodwind instrument of the oboe family consisting of a long wooden tube and a double reed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bassoon",
+          "long": "Instrumen Kayu dari Keluarga Oboe yang terdiri dari tabung kayu panjang dan buluh ganda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382782.jpeg",
+      "simplified": "巴松管",
+      "traditional": "巴鬆管",
+      "pinyin": "bāsōng guǎn"
+    },
+    {
+      "id": 382783,
+      "translation": {
+        "en": {
+          "short": "bugle",
+          "long": "a brass instrument resembling a small trumpet, without any valves or keys, used for military calls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terompet",
+          "long": "Instrumen kuningan yang menyerupai terompet kecil, tanpa katup atau kunci, digunakan untuk panggilan militer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382783.jpeg",
+      "simplified": "号角",
+      "traditional": "號角",
+      "pinyin": "hàojiǎo"
+    },
+    {
+      "id": 382784,
+      "translation": {
+        "en": {
+          "short": "contrabassoon",
+          "long": "a large double-reed woodwind instrument, producing deep, resonant tones and serving as the lowest-pitched instrument in the woodwind family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dontrabassoon",
+          "long": "Instrumen angin kayu ganda besar, menghasilkan nada yang dalam dan resonansi dan berfungsi sebagai instrumen bernada terendah dalam keluarga woodwind",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382784.jpeg",
+      "simplified": "低音大管",
+      "traditional": "低音大管",
+      "pinyin": "dīyīn dàguǎn"
+    },
+    {
+      "id": 382785,
+      "translation": {
+        "en": {
+          "short": "harmonica",
+          "long": "a small mouth organ with a row of metal reeds, hold against the lips and played by blowing or sucking air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Harmonika",
+          "long": "Organ mulut kecil dengan deretan buluh logam, pegang di bibir dan dimainkan dengan meniup atau menghisap udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382785.jpeg",
+      "simplified": "口琴",
+      "traditional": "口琴",
+      "pinyin": "kǒuqín"
+    },
+    {
+      "id": 382786,
+      "translation": {
+        "en": {
+          "short": "melodica",
+          "long": "a wind instrument consisting of a keyboard and a mouthpiece into which the player blows",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melodica",
+          "long": "Instrumen angin yang terdiri dari keyboard dan corong di mana pemain meniup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382786.jpeg",
+      "simplified": "口风琴",
+      "traditional": "口風琴",
+      "pinyin": "kǒufēng qín"
+    },
+    {
+      "id": 382787,
+      "translation": {
+        "en": {
+          "short": "oboe",
+          "long": "a woodwind double-reed instrument with a long tubular body and holes and keys on top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obo",
+          "long": "Instrumen ganda woodwind dengan tubuh tubular panjang dan lubang dan kunci di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382787.jpeg",
+      "simplified": "双簧管",
+      "traditional": "雙簧管",
+      "pinyin": "shuānghuáng guǎn"
+    },
+    {
+      "id": 382788,
+      "translation": {
+        "en": {
+          "short": "tuba",
+          "long": "a large wind instrument with a curved tube and a wide bore that produces the lowest pitches in the brass family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuba",
+          "long": "Instrumen angin besar dengan tabung melengkung dan lubang lebar yang menghasilkan nada terendah dalam keluarga kuningan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382788.jpeg",
+      "simplified": "大号",
+      "traditional": "大號",
+      "pinyin": "dàhào"
+    },
+    {
+      "id": 382789,
+      "translation": {
+        "en": {
+          "short": "Hang drum",
+          "long": "a modern, handcrafted percussion instrument known for its unique UFO-shaped design, with melodic and rhythmic properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gantung drum",
+          "long": "Instrumen perkusi modern dan buatan tangan yang dikenal dengan desainnya yang unik berbentuk UFO, dengan sifat melodi dan berirama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382789.jpeg",
+      "simplified": "挂鼓",
+      "traditional": "掛鼓",
+      "pinyin": "guà gǔ"
+    },
+    {
+      "id": 382790,
+      "translation": {
+        "en": {
+          "short": "bass drum",
+          "long": "a large percussion instrument played by striking a drumhead stretched over a hollow shell, producing deep, low-pitched tones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drum bass",
+          "long": "Instrumen perkusi besar yang dimainkan dengan memukul drumhead yang membentang di atas cangkang berongga, menghasilkan nada yang dalam dan rendah nada rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382790.jpeg",
+      "simplified": "低音鼓",
+      "traditional": "低音鼓",
+      "pinyin": "dīyīn gǔ"
+    },
+    {
+      "id": 382791,
+      "translation": {
+        "en": {
+          "short": "rattle",
+          "long": "a percussion instrument that produces sound when shaken, typically consisting of a container filled with small objects or beads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berdetak",
+          "long": "instrumen perkusi yang menghasilkan suara saat dikocok, biasanya terdiri dari wadah yang diisi dengan benda atau manik -manik kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382791.jpeg",
+      "simplified": "霸王鞭",
+      "traditional": "霸王鞭",
+      "pinyin": "bàwáng biān"
+    },
+    {
+      "id": 382792,
+      "translation": {
+        "en": {
+          "short": "timpani",
+          "long": "a set of kettledrums played in an orchestra",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "timpani",
+          "long": "Satu set kettledrum yang dimainkan dalam orkestra",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382792.jpeg",
+      "simplified": "定音鼓",
+      "traditional": "定音鼓",
+      "pinyin": "dìngyīn gǔ"
+    },
+    {
+      "id": 382793,
+      "translation": {
+        "en": {
+          "short": "xylophone",
+          "long": "a percussion instrument consisting of a row of wooden bars in different lengths set on a frame, played by a wooden or plastic mallet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambang",
+          "long": "Instrumen perkusi yang terdiri dari deretan batang kayu dalam panjang yang berbeda yang diatur pada bingkai, dimainkan oleh palu kayu atau plastik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382793.jpeg",
+      "simplified": "木琴",
+      "traditional": "木琴",
+      "pinyin": "mùqín"
+    },
+    {
+      "id": 382794,
+      "translation": {
+        "en": {
+          "short": "sampler",
+          "long": "musical instrument or device that records and plays back audio samples for music production and performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sampler",
+          "long": "alat atau perangkat musik yang merekam dan memutar sampel audio kembali untuk produksi dan pertunjukan musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382794.jpeg",
+      "simplified": "榜样",
+      "traditional": "榜樣",
+      "pinyin": "bǎngyàng"
+    },
+    {
+      "id": 382795,
+      "translation": {
+        "en": {
+          "short": "synthesizer",
+          "long": "an electronic musical instrument that produces the sounds of other instruments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "synthesizer",
+          "long": "alat musik elektronik yang menghasilkan suara instrumen lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382795.jpeg",
+      "simplified": "合成器",
+      "traditional": "合成器",
+      "pinyin": "héchéng qì"
+    },
+    {
+      "id": 382796,
+      "translation": {
+        "en": {
+          "short": "chenda",
+          "long": "a cylindrical percussion instrument from India, typically used in the state of Kerala's traditional temple music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chenda",
+          "long": "Instrumen perkusi silinder dari India, biasanya digunakan di negara bagian musik kuil tradisional Kerala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382796.jpeg",
+      "simplified": "陈达",
+      "traditional": "陳達",
+      "pinyin": "Chén Dá"
+    },
+    {
+      "id": 382797,
+      "translation": {
+        "en": {
+          "short": "kazoo",
+          "long": "a small toy instrument that produces a buzzing sound when the player blows into its hollow pipe which has a hole in it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kazoo",
+          "long": "Instrumen mainan kecil yang menghasilkan suara ramai saat pemain meniup ke pipa berongga yang memiliki lubang di dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382797.jpeg",
+      "simplified": "卡祖笛",
+      "traditional": "卡祖笛",
+      "pinyin": "kǎ Zǔ dí"
+    },
+    {
+      "id": 382798,
+      "translation": {
+        "en": {
+          "short": "piccolo",
+          "long": "the smallest member of the flute family that plays higher notes than the ordinary flute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piccolo",
+          "long": "anggota terkecil dari keluarga seruling yang memainkan nada lebih tinggi dari seruling biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382798.jpeg",
+      "simplified": "短笛",
+      "traditional": "短笛",
+      "pinyin": "duǎn dí"
+    },
+    {
+      "id": 382799,
+      "translation": {
+        "en": {
+          "short": "daf",
+          "long": "a Middle Eastern frame drum with a circular frame and a thin, stretched membrane, known for its rhythmic sound, used in Middle Eastern and Persian music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daf",
+          "long": "drum bingkai Timur Tengah dengan bingkai melingkar dan membran tipis yang diregangkan, yang dikenal karena suara berirama, digunakan dalam musik Timur Tengah dan Persia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382799.jpeg",
+      "simplified": "达夫",
+      "traditional": "達夫",
+      "pinyin": "Dá fū"
+    },
+    {
+      "id": 382800,
+      "translation": {
+        "en": {
+          "short": "tabla",
+          "long": "a pair of small, hand-played drums from India and Pakistan that are used in classical, devotional, and popular music styles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tabla",
+          "long": "Sepasang drum kecil yang dimainkan tangan dari India dan Pakistan yang digunakan dalam gaya musik klasik, renungan, dan populer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382800.jpeg",
+      "simplified": "塔布拉",
+      "traditional": "塔布拉",
+      "pinyin": "tǎ bù lā"
+    },
+    {
+      "id": 382802,
+      "translation": {
+        "en": {
+          "short": "marimba",
+          "long": "a percussion instrument with a set of wooden bars in different lengths mounted on a frame, played with a yarn or mallets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "marimba",
+          "long": "Instrumen perkusi dengan satu set batang kayu dalam panjang berbeda dipasang pada bingkai, dimainkan dengan benang atau palu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382802.jpeg",
+      "simplified": "马林巴琴",
+      "traditional": "馬林巴琴",
+      "pinyin": "mǎlín bā qín"
+    },
+    {
+      "id": 382912,
+      "translation": {
+        "en": {
+          "short": "theremin",
+          "long": "an electronic musical instrument played without physical contact, controlled by hand movements near two antennas that manipulate electromagnetic fields to produce sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Theremin",
+          "long": "alat musik elektronik dimainkan tanpa kontak fisik, dikendalikan oleh gerakan tangan di dekat dua antena yang memanipulasi medan elektromagnetik untuk menghasilkan suara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382912.jpeg",
+      "simplified": "特雷门琴",
+      "traditional": "特雷門琴",
+      "pinyin": "tè Léi Mén qín"
+    }
+  ]
+}

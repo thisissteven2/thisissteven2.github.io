@@ -1,0 +1,621 @@
+{
+  "id": 4195,
+  "title": {
+    "en": "Broadcasting",
+    "id": "Penyiaran"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to broadcasting such as \"interference\", \"signal\", and \"transmission\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan penyiaran seperti \"gangguan\", \"sinyal\", dan \"transmisi\"."
+  },
+  "cards": [
+    {
+      "id": 355240,
+      "translation": {
+        "en": {
+          "short": "television",
+          "long": "the electronic medium of transmitting audiovisual content to viewers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "televisi",
+          "long": "Media elektronik pengiriman kandungan audiovisual ke pemirsa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355240.jpeg",
+      "simplified": "电视",
+      "traditional": "電視",
+      "pinyin": "diànshì"
+    },
+    {
+      "id": 355242,
+      "translation": {
+        "en": {
+          "short": "radio",
+          "long": "the transmission and reception of audio content through electromagnetic waves, providing a platform for delivering news, music, and other forms of entertainment to listeners",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radio",
+          "long": "Transmisi dan penerimaan konten audio melalui gelombang elektromagnetik, menyediakan platform untuk menyampaikan berita, musik, dan bentuk hiburan lainnya kepada pendengar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355242.jpeg",
+      "simplified": "无线电",
+      "traditional": "無線電",
+      "pinyin": "wúxiàn diàn"
+    },
+    {
+      "id": 355243,
+      "translation": {
+        "en": {
+          "short": "frequency",
+          "long": "the specific number of waves that pass a point every second",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "frekuensi",
+          "long": "Jumlah gelombang spesifik yang melewati satu poin setiap detik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355243.jpeg",
+      "simplified": "频率",
+      "traditional": "頻率",
+      "pinyin": "pínlǜ"
+    },
+    {
+      "id": 355244,
+      "translation": {
+        "en": {
+          "short": "airwaves",
+          "long": "radio waves used as a medium for broadcasting television and radio programs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelombang udara",
+          "long": "Gelombang radio digunakan sebagai media untuk menyiarkan program televisi dan radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355244.jpeg",
+      "simplified": "广播的频道",
+      "traditional": "廣播的頻道",
+      "pinyin": "guǎngbō de píndào"
+    },
+    {
+      "id": 355247,
+      "translation": {
+        "en": {
+          "short": "gigahertz",
+          "long": "a unit that is used to measure the frequency of a radio wave, or speed of a computer, which is equal to 1 billion Hertz",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gigahertz",
+          "long": "Unit yang digunakan untuk mengukur frekuensi gelombang radio, atau kecepatan komputer, yang sama dengan 1 miliar hertz",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355247.jpeg",
+      "simplified": "千兆赫",
+      "traditional": "千兆赫",
+      "pinyin": "qiānzhào Hè"
+    },
+    {
+      "id": 355248,
+      "translation": {
+        "en": {
+          "short": "interference",
+          "long": "disturbance caused by signals from a different source which lead to unwanted noise in a radio signal that is being received",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gangguan",
+          "long": "gangguan yang disebabkan oleh sinyal dari sumber yang berbeda yang menyebabkan kebisingan yang tidak diinginkan dalam sinyal radio yang diterima",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355248.jpeg",
+      "simplified": "干扰",
+      "traditional": "干擾",
+      "pinyin": "gānrǎo"
+    },
+    {
+      "id": 355249,
+      "translation": {
+        "en": {
+          "short": "long wave",
+          "long": "a radio wave with a frequency under 300 kHz and a wavelength of more than 1 kilometer that is used for broadcasting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelombang panjang",
+          "long": "Gelombang radio dengan frekuensi di bawah 300 kHz dan panjang gelombang lebih dari 1 kilometer yang digunakan untuk penyiaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355249.jpeg",
+      "simplified": "长波",
+      "traditional": "長波",
+      "pinyin": "chángbō"
+    },
+    {
+      "id": 355250,
+      "translation": {
+        "en": {
+          "short": "medium wave",
+          "long": "a radio wave that has a frequency between 300 kHz and 3 MHz and a wavelength between 100 to 1000 meters, which is used for broadcasting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelombang sedang",
+          "long": "Gelombang radio yang memiliki frekuensi antara 300 kHz dan 3 MHz dan panjang gelombang antara 100 hingga 1000 meter, yang digunakan untuk penyiaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355250.jpeg",
+      "simplified": "中波",
+      "traditional": "中波",
+      "pinyin": "ZhōngBō"
+    },
+    {
+      "id": 355251,
+      "translation": {
+        "en": {
+          "short": "short wave",
+          "long": "a radio wave that has a frequency between 3 and 30 MHz, and a wavelength between 10 to 100 meters, used for broadcasting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelombang pendek",
+          "long": "Gelombang radio yang memiliki frekuensi antara 3 dan 30 MHz, dan panjang gelombang antara 10 hingga 100 meter, digunakan untuk penyiaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355251.jpeg",
+      "simplified": "短波",
+      "traditional": "短波",
+      "pinyin": "duǎnbō"
+    },
+    {
+      "id": 355252,
+      "translation": {
+        "en": {
+          "short": "megahertz",
+          "long": "a unit that is used to measure the frequency of a radio wave which is equal to 1 million Hertz",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mahehertz",
+          "long": "Unit yang digunakan untuk mengukur frekuensi gelombang radio yang sama dengan 1 juta hertz",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355252.jpeg",
+      "simplified": "兆赫",
+      "traditional": "兆赫",
+      "pinyin": "zhàohè"
+    },
+    {
+      "id": 355253,
+      "translation": {
+        "en": {
+          "short": "signal",
+          "long": "a series of electrical or radio waves carrying data to a radio, television station, or mobile phone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinyal",
+          "long": "Serangkaian gelombang listrik atau radio yang membawa data ke radio, stasiun televisi, atau ponsel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355253.jpeg",
+      "simplified": "信号",
+      "traditional": "訊號",
+      "pinyin": "xìnhào"
+    },
+    {
+      "id": 355254,
+      "translation": {
+        "en": {
+          "short": "time signal",
+          "long": "a recognizable signal that the radio broadcasts at a precise time to indicate the accurate time of day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinyal waktu",
+          "long": "sinyal yang dapat dikenali bahwa radio disiarkan pada waktu yang tepat untuk menunjukkan waktu yang akurat dalam sehari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355254.jpeg",
+      "simplified": "时号",
+      "traditional": "時號",
+      "pinyin": "shí háo"
+    },
+    {
+      "id": 355255,
+      "translation": {
+        "en": {
+          "short": "tower",
+          "long": "a tall structure, usually made of metal, used to transmit television or radio signals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menara",
+          "long": "Struktur tinggi, biasanya terbuat dari logam, digunakan untuk mengirimkan sinyal televisi atau radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355255.jpeg",
+      "simplified": "塔",
+      "traditional": "塔",
+      "pinyin": "tǎ"
+    },
+    {
+      "id": 355256,
+      "translation": {
+        "en": {
+          "short": "transmission",
+          "long": "the activity of transmitting a signal, a message or a program that is being broadcast on radio or television",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penularan",
+          "long": "Aktivitas mentransmisikan sinyal, pesan atau program yang sedang disiarkan di radio atau televisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355256.jpeg",
+      "simplified": "传输",
+      "traditional": "傳輸",
+      "pinyin": "chuánshū"
+    },
+    {
+      "id": 355257,
+      "translation": {
+        "en": {
+          "short": "uhf",
+          "long": "a range of radio waves with a frequency between 300 MHz and 3000 MHz, especially used in broadcasting television and radio programs that are of high-quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "UHF",
+          "long": "Berbagai gelombang radio dengan frekuensi antara 300 MHz dan 3000 MHz, terutama digunakan dalam penyiaran program televisi dan radio yang berkualitas tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355257.jpeg",
+      "simplified": "特高频",
+      "traditional": "特高頻",
+      "pinyin": "tè gāopín"
+    },
+    {
+      "id": 355258,
+      "translation": {
+        "en": {
+          "short": "vhf",
+          "long": "radio waves in the range of 30 to 300 MHz that are used in broadcasting TV signals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "VHF",
+          "long": "Gelombang radio dalam kisaran 30 hingga 300 MHz yang digunakan dalam menyiarkan sinyal TV",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355258.jpeg",
+      "simplified": "甚高频",
+      "traditional": "甚高頻",
+      "pinyin": "shèngāo pín"
+    },
+    {
+      "id": 355259,
+      "translation": {
+        "en": {
+          "short": "waveband",
+          "long": "a series of radio waves with similar lengths used for specific types of radio broadcasting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Waveband",
+          "long": "serangkaian gelombang radio dengan panjang serupa yang digunakan untuk jenis penyiaran radio tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355259.jpeg",
+      "simplified": "波段",
+      "traditional": "波段",
+      "pinyin": "bōduàn"
+    },
+    {
+      "id": 355260,
+      "translation": {
+        "en": {
+          "short": "wavelength",
+          "long": "the distance between a point on a wave of energy and a similar point on the next wave",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panjang gelombang",
+          "long": "jarak antara titik pada gelombang energi dan titik serupa pada gelombang berikutnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355260.jpeg",
+      "simplified": "波长",
+      "traditional": "波長",
+      "pinyin": "bōcháng"
+    },
+    {
+      "id": 355261,
+      "translation": {
+        "en": {
+          "short": "white noise",
+          "long": "a noise that holds numerous sound frequencies with the same strengths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "noise putih",
+          "long": "kebisingan yang menampung banyak frekuensi suara dengan kekuatan yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355261.jpeg",
+      "simplified": "白噪声",
+      "traditional": "白噪聲",
+      "pinyin": "Bái zàoshēng"
+    },
+    {
+      "id": 355262,
+      "translation": {
+        "en": {
+          "short": "broadcast",
+          "long": "the distribution of audio or video content to a wide audience, typically through radio or television, using a network or airwaves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siaran",
+          "long": "Distribusi konten audio atau video ke audiens yang luas, biasanya melalui radio atau televisi, menggunakan jaringan atau gelombang udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355262.jpeg",
+      "simplified": "广播",
+      "traditional": "廣播",
+      "pinyin": "guǎngbō"
+    },
+    {
+      "id": 355263,
+      "translation": {
+        "en": {
+          "short": "dead air",
+          "long": "the absence of any sound or broadcast signal on a radio or television channel, resulting in a period of silence or static noise",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "udara mati",
+          "long": "tidak adanya sinyal suara atau siaran di saluran radio atau televisi, menghasilkan periode keheningan atau kebisingan statis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355263.jpeg",
+      "simplified": "静控气",
+      "traditional": "靜控氣",
+      "pinyin": "jìng kòng qì"
+    },
+    {
+      "id": 355264,
+      "translation": {
+        "en": {
+          "short": "reception",
+          "long": "the quality or the act of receiving radio, television or cellphone signals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penerimaan",
+          "long": "kualitas atau tindakan menerima sinyal radio, televisi atau ponsel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355264.jpeg",
+      "simplified": "接受",
+      "traditional": "接受",
+      "pinyin": "jiēshòu"
+    },
+    {
+      "id": 355266,
+      "translation": {
+        "en": {
+          "short": "feed",
+          "long": "a program sent out by a satellite or from the main network to radio and television stations for broadcasting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memberi makan",
+          "long": "sebuah program yang dikirim oleh satelit atau dari jaringan utama ke stasiun radio dan televisi untuk penyiaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355266.jpeg",
+      "simplified": "料",
+      "traditional": "料",
+      "pinyin": "liào"
+    },
+    {
+      "id": 355321,
+      "translation": {
+        "en": {
+          "short": "narrowcast",
+          "long": "the transmission or dissemination of content to a specific and targeted audience or niche market, as opposed to broadcasting to a broad and general audience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sempit",
+          "long": "transmisi atau penyebaran konten ke audiens yang spesifik dan ditargetkan atau pasar niche, sebagai lawan penyiaran ke audiens yang luas dan umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355321.jpeg",
+      "simplified": "窄播",
+      "traditional": "窄播",
+      "pinyin": "zhǎi bō"
+    },
+    {
+      "id": 355322,
+      "translation": {
+        "en": {
+          "short": "talkback",
+          "long": "‌a system by which people working in a radio station can communicate with one another without being heard by the audience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "KATAMAN BACK",
+          "long": "Sistem yang dengannya orang yang bekerja di stasiun radio dapat berkomunikasi satu sama lain tanpa didengar oleh penonton",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355322.jpeg",
+      "simplified": "顶嘴",
+      "traditional": "頂嘴",
+      "pinyin": "dǐngzuǐ"
+    },
+    {
+      "id": 355354,
+      "translation": {
+        "en": {
+          "short": "static",
+          "long": "interfering noises on telecommunication systems, such as radio, caused by electrical disturbances in the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "statis",
+          "long": "suara yang mengganggu pada sistem telekomunikasi, seperti radio, yang disebabkan oleh gangguan listrik di udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355354.jpeg",
+      "simplified": "大电干扰",
+      "traditional": "大電干擾",
+      "pinyin": "dà diàn gānrǎo"
+    },
+    {
+      "id": 355394,
+      "translation": {
+        "en": {
+          "short": "public access",
+          "long": "a right given to people to broadcast their own programs on television or radio channels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akses publik",
+          "long": "hak diberikan kepada orang untuk menyiarkan program mereka sendiri di televisi atau saluran radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355394.jpeg",
+      "simplified": "公共访问",
+      "traditional": "公共訪問",
+      "pinyin": "gōnggòng fǎngwèn"
+    },
+    {
+      "id": 356048,
+      "translation": {
+        "en": {
+          "short": "syndication",
+          "long": "the licensing or distribution of television or radio programs to multiple broadcasters or stations for airing, allowing content to reach a broader audience beyond its original network or production company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sindikasi",
+          "long": "Lisensi atau distribusi program televisi atau radio ke beberapa penyiar atau stasiun untuk ditayangkan, memungkinkan konten untuk menjangkau audiens yang lebih luas di luar jaringan aslinya atau perusahaan produksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356048.jpeg",
+      "simplified": "联合组织",
+      "traditional": "聯合組織",
+      "pinyin": "liánhé zǔ zhī"
+    },
+    {
+      "id": 356100,
+      "translation": {
+        "en": {
+          "short": "network",
+          "long": "a group of TV or radio stations broadcasting the same program at the same time in different places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaringan",
+          "long": "Sekelompok stasiun TV atau radio menyiarkan program yang sama pada saat yang sama di tempat yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356100.jpeg",
+      "simplified": "网络",
+      "traditional": "網絡",
+      "pinyin": "Wǎngluò"
+    },
+    {
+      "id": 385065,
+      "translation": {
+        "en": {
+          "short": "frequency modulation",
+          "long": "one of the main methods of radio broadcasting with a high sound quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modulasi frekuensi",
+          "long": "Salah satu metode utama penyiaran radio dengan kualitas suara yang tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385065.jpeg",
+      "simplified": "调频",
+      "traditional": "調頻",
+      "pinyin": "tiáopín"
+    },
+    {
+      "id": 391058,
+      "translation": {
+        "en": {
+          "short": "amplitude modulation",
+          "long": "one of the main methods of radio broadcasting with a lower sound quality than FM",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modulasi amplitudo",
+          "long": "Salah satu metode utama penyiaran radio dengan kualitas suara yang lebih rendah dari FM",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391058.jpeg",
+      "simplified": "调幅",
+      "traditional": "調幅",
+      "pinyin": "tiáofú"
+    },
+    {
+      "id": 390813,
+      "translation": {
+        "en": {
+          "short": "cord-cutting",
+          "long": "the trend of canceling traditional cable or satellite TV subscriptions in favor of streaming services or other digital media options",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemotongan kabel",
+          "long": "Tren membatalkan langganan TV kabel atau satelit tradisional yang mendukung layanan streaming atau opsi media digital lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390813.jpeg",
+      "simplified": "用网络平台取代有线电视",
+      "traditional": "用網絡平台取代有線電視",
+      "pinyin": "yòng Wǎngluò píngtái qǔdài yǒuxiàn diàn shì"
+    }
+  ]
+}

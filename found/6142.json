@@ -1,0 +1,564 @@
+{
+  "id": 6142,
+  "title": {
+    "en": "Road Construction and Maintenance",
+    "id": "Konstruksi dan pemeliharaan jalan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to highway infrastructure and intersections such as \"roadwork\", \"asphalt\", and \"steamroller.\"",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan infrastruktur jalan raya dan persimpangan seperti \"perbaikan jalan\", \"aspal\", dan \"steamroller.\""
+  },
+  "cards": [
+    {
+      "id": 407751,
+      "translation": {
+        "en": {
+          "short": "to resurface",
+          "long": "to apply a new coating or material to reconstruct the surface of something, especially a road or pavement",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk muncul kembali",
+          "long": "untuk menerapkan lapisan atau bahan baru untuk merekonstruksi permukaan sesuatu, terutama jalan atau trotoar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407751.jpeg",
+      "simplified": "翻修路面",
+      "traditional": "翻修路面",
+      "pinyin": "fānxiū lùmiàn"
+    },
+    {
+      "id": 407753,
+      "translation": {
+        "en": {
+          "short": "roadwork",
+          "long": "the construction or maintenance activities carried out on roads, highways, or streets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perbaikan jalan",
+          "long": "kegiatan konstruksi atau pemeliharaan yang dilakukan di jalan, jalan raya, atau jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407753.jpeg",
+      "simplified": "道路施工",
+      "traditional": "道路施工",
+      "pinyin": "dàolù shīgōng"
+    },
+    {
+      "id": 407755,
+      "translation": {
+        "en": {
+          "short": "construction zone",
+          "long": "an area on a road where workers are building or repairing something, such as bridges or highways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "zona konstruksi",
+          "long": "Area di jalan tempat para pekerja sedang membangun atau memperbaiki sesuatu, seperti jembatan atau jalan raya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407755.jpeg",
+      "simplified": "建筑区",
+      "traditional": "建築區",
+      "pinyin": "jiànzhù Oū"
+    },
+    {
+      "id": 407756,
+      "translation": {
+        "en": {
+          "short": "tar",
+          "long": "a thick, black, sticky substance used in road construction and maintenance for paving and sealing surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ter",
+          "long": "Zat tebal, hitam, lengket digunakan dalam konstruksi jalan dan pemeliharaan untuk permukaan paving dan penyegelan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407756.jpeg",
+      "simplified": "焦油",
+      "traditional": "焦油",
+      "pinyin": "jiāoyóu"
+    },
+    {
+      "id": 407757,
+      "translation": {
+        "en": {
+          "short": "tarmac",
+          "long": "a type of road surface made of tar mixed with crushed stone, commonly used for runways and road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tarmak",
+          "long": "Jenis permukaan jalan yang terbuat dari tar dicampur dengan batu yang dihancurkan, biasanya digunakan untuk landasan pacu dan jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407757.jpeg",
+      "simplified": "停机坪",
+      "traditional": "停機坪",
+      "pinyin": "tíngjī píng"
+    },
+    {
+      "id": 407758,
+      "translation": {
+        "en": {
+          "short": "asphalt",
+          "long": "a black sticky substance which is the combination of dark bituminous pitch with sand or gravel, commonly used in building roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aspal",
+          "long": "Zat lengket hitam yang merupakan kombinasi dari pitch bituminous gelap dengan pasir atau kerikil, biasanya digunakan di jalan membangun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407758.jpeg",
+      "simplified": "沥青",
+      "traditional": "瀝青",
+      "pinyin": "lìqīng"
+    },
+    {
+      "id": 407759,
+      "translation": {
+        "en": {
+          "short": "blacktop",
+          "long": "a black, sticky mixture used for paving roads and pathways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blacktop",
+          "long": "Campuran hitam dan lengket yang digunakan untuk jalan paving dan jalur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407759.jpeg",
+      "simplified": "柏油路",
+      "traditional": "柏油路",
+      "pinyin": "bǎiyóu lù"
+    },
+    {
+      "id": 407760,
+      "translation": {
+        "en": {
+          "short": "cobblestone",
+          "long": "the small, rounded stones used historically for paving streets and paths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu besar",
+          "long": "Batu -batu kecil yang bundar digunakan secara historis untuk membuka jalan dan jalan setapak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407760.jpeg",
+      "simplified": "鹅卵石",
+      "traditional": "鵝卵石",
+      "pinyin": "éluǎn shí"
+    },
+    {
+      "id": 407761,
+      "translation": {
+        "en": {
+          "short": "gravel",
+          "long": "a mix of sand and small pebbles that cover that surface of some roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerikil",
+          "long": "campuran pasir dan kerikil kecil yang menutupi permukaan beberapa jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407761.jpeg",
+      "simplified": "碎石",
+      "traditional": "碎石",
+      "pinyin": "suìshí"
+    },
+    {
+      "id": 407762,
+      "translation": {
+        "en": {
+          "short": "macadam",
+          "long": "a type of road construction that uses layers of compacted crushed stone, bound with tar or asphalt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "macadam",
+          "long": "Jenis konstruksi jalan yang menggunakan lapisan batu hancur yang dipadatkan, diikat dengan tar atau aspal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407762.jpeg",
+      "simplified": "碎石",
+      "traditional": "碎石",
+      "pinyin": "suìshí"
+    },
+    {
+      "id": 407763,
+      "translation": {
+        "en": {
+          "short": "concrete",
+          "long": "a hard material used for building a house, etc. that is made of the mixture of cement, water, sand, and small stones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konkret",
+          "long": "Bahan keras yang digunakan untuk membangun rumah, dll. Yang terbuat dari campuran semen, air, pasir, dan batu kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407763.jpeg",
+      "simplified": "具体的",
+      "traditional": "具體的",
+      "pinyin": "jùtǐ de"
+    },
+    {
+      "id": 407764,
+      "translation": {
+        "en": {
+          "short": "pothole",
+          "long": "a small, often deep, depression in a road surface caused by wear, weather, and traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lubang",
+          "long": "Depresi kecil, seringkali dalam, di permukaan jalan yang disebabkan oleh keausan, cuaca, dan lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407764.jpeg",
+      "simplified": "壶洞",
+      "traditional": "壺洞",
+      "pinyin": "hú dòng"
+    },
+    {
+      "id": 407765,
+      "translation": {
+        "en": {
+          "short": "rut",
+          "long": "a groove or track made in a road by cars driving over it many times",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebiasaan",
+          "long": "alur atau lintasan yang dibuat di jalan dengan mobil berkali -kali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407765.jpeg",
+      "simplified": "发情",
+      "traditional": "發情",
+      "pinyin": "fāqíng"
+    },
+    {
+      "id": 407766,
+      "translation": {
+        "en": {
+          "short": "backhoe",
+          "long": "a versatile heavy equipment machine with a digging bucket on the rear and a loader bucket on the front, commonly used in construction and utility work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "backhoe",
+          "long": "Mesin alat berat serbaguna dengan ember penggalian di bagian belakang dan ember loader di bagian depan, biasanya digunakan dalam pekerjaan konstruksi dan utilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407766.jpeg",
+      "simplified": "反铲",
+      "traditional": "反鏟",
+      "pinyin": "fǎnchǎn"
+    },
+    {
+      "id": 407767,
+      "translation": {
+        "en": {
+          "short": "steamroller",
+          "long": "a heavy vehicle with a large, smooth roller used for flattening and compressing surfaces during road construction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Steamroller",
+          "long": "Kendaraan berat dengan rol besar dan halus yang digunakan untuk meratakan dan mengompresi permukaan selama konstruksi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407767.jpeg",
+      "simplified": "压路机",
+      "traditional": "壓路機",
+      "pinyin": "yālù jī"
+    },
+    {
+      "id": 407769,
+      "translation": {
+        "en": {
+          "short": "front-end loader",
+          "long": "a type of heavy machinery used in construction and agriculture for lifting and transporting materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "loader front-end",
+          "long": "Jenis mesin berat yang digunakan dalam konstruksi dan pertanian untuk mengangkat dan mengangkut bahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407769.jpeg",
+      "simplified": "前端装载机",
+      "traditional": "前端裝載機",
+      "pinyin": "qiánduān zhuāngzài Jī"
+    },
+    {
+      "id": 407770,
+      "translation": {
+        "en": {
+          "short": "bulldozer",
+          "long": "a large, powerful vehicle with a wide steel blade at its front that is used to destroy buildings or move earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buldoser",
+          "long": "Kendaraan besar dan kuat dengan bilah baja lebar di depannya yang digunakan untuk menghancurkan bangunan atau menggerakkan bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407770.jpeg",
+      "simplified": "推土机",
+      "traditional": "推土機",
+      "pinyin": "tuītǔ jī"
+    },
+    {
+      "id": 407772,
+      "translation": {
+        "en": {
+          "short": "paver",
+          "long": "a vehicle used in construction to lay asphalt or concrete on roads and pavements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu untuk melapisi jalan",
+          "long": "Kendaraan yang digunakan dalam konstruksi untuk meletakkan aspal atau beton di jalan dan trotoar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407772.jpeg",
+      "simplified": "摊铺机",
+      "traditional": "攤舖機",
+      "pinyin": "tān pù Jī"
+    },
+    {
+      "id": 407773,
+      "translation": {
+        "en": {
+          "short": "dump truck",
+          "long": "a heavy-duty vehicle with a bed that can be tilted or raised at the front, allowing it to unload its contents by tipping them out behind the truck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk jungkit",
+          "long": "Kendaraan tugas berat dengan tempat tidur yang dapat dimiringkan atau diangkat di bagian depan, memungkinkannya untuk menurunkan isinya dengan memberi tahu mereka di belakang truk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407773.jpeg",
+      "simplified": "倾卸汽车",
+      "traditional": "傾卸汽車",
+      "pinyin": "qīngxiè qìchē"
+    },
+    {
+      "id": 407775,
+      "translation": {
+        "en": {
+          "short": "pavement milling",
+          "long": "the process of removing a layer of asphalt or concrete from a road or pavement surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggilingan trotoar",
+          "long": "Proses menghilangkan lapisan aspal atau beton dari jalan atau permukaan trotoar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407775.jpeg",
+      "simplified": "路面铣削",
+      "traditional": "路面銑削",
+      "pinyin": "lùmiàn xǐ xiāo"
+    },
+    {
+      "id": 407777,
+      "translation": {
+        "en": {
+          "short": "asphalt distributor truck",
+          "long": "a vehicle equipped with a tank and sprayer used to evenly distribute asphalt onto roads during construction or maintenance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Truk Distributor Asphalt",
+          "long": "Kendaraan yang dilengkapi dengan tangki dan penyemprot yang digunakan untuk mendistribusikan aspal secara merata ke jalan selama konstruksi atau pemeliharaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407777.jpeg",
+      "simplified": "沥青分销商卡车",
+      "traditional": "瀝青分銷商卡車",
+      "pinyin": "lìqīng fēnxiāo shāng kǎchē"
+    },
+    {
+      "id": 407779,
+      "translation": {
+        "en": {
+          "short": "grader",
+          "long": "a heavy vehicle used in construction to level and smooth surfaces such as roads and foundations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siswa kelas",
+          "long": "Kendaraan berat yang digunakan dalam konstruksi untuk meratakan dan permukaan yang halus seperti jalan dan fondasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407779.jpeg",
+      "simplified": "定等级的人",
+      "traditional": "定等級的人",
+      "pinyin": "dìng děngjí de rén"
+    },
+    {
+      "id": 407781,
+      "translation": {
+        "en": {
+          "short": "snowplow",
+          "long": "a vehicle or other piece of equipment used for clearing roads of snow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bajak salju",
+          "long": "kendaraan atau peralatan lain yang digunakan untuk membersihkan jalan salju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407781.jpeg",
+      "simplified": "雪犁",
+      "traditional": "雪犁",
+      "pinyin": "Xuě lí"
+    },
+    {
+      "id": 407782,
+      "translation": {
+        "en": {
+          "short": "salt truck",
+          "long": "‌a large vehicle used for putting salt, sand or grit on the roads in winter when there is ice on them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "truk garam",
+          "long": "‌ kendaraan besar yang digunakan untuk meletakkan garam, pasir atau grit di jalan di musim dingin saat ada es di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407782.jpeg",
+      "simplified": "盐车",
+      "traditional": "鹽車",
+      "pinyin": "yán Chē"
+    },
+    {
+      "id": 407783,
+      "translation": {
+        "en": {
+          "short": "black ice",
+          "long": "a thin, nearly invisible layer of ice on a road surface, often causing dangerous driving conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "es hitam",
+          "long": "lapisan es yang tipis dan hampir tidak terlihat di permukaan jalan, sering kali menyebabkan kondisi mengemudi yang berbahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407783.jpeg",
+      "simplified": "黑冰",
+      "traditional": "黑冰",
+      "pinyin": "Hēi bīng"
+    },
+    {
+      "id": 407784,
+      "translation": {
+        "en": {
+          "short": "to grit",
+          "long": "to scatter small, rough particles like sand or salt on a road to make it less slippery and melt ice",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk grit",
+          "long": "untuk menyebarkan partikel kecil dan kasar seperti pasir atau garam di jalan untuk membuatnya kurang licin dan melelehkan es",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407784.jpeg",
+      "simplified": "覆以砂砾",
+      "traditional": "覆以砂礫",
+      "pinyin": "fù yǐ shālì"
+    },
+    {
+      "id": 407790,
+      "translation": {
+        "en": {
+          "short": "straight-line diagram",
+          "long": "a schematic representation that displays the layout, intersections, and distances along a specific route",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Diagram garis lurus",
+          "long": "Representasi skematik yang menampilkan tata letak, persimpangan, dan jarak di sepanjang rute tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407790.jpeg",
+      "simplified": "直线图",
+      "traditional": "直線圖",
+      "pinyin": "zhíxiàn tú"
+    },
+    {
+      "id": 407792,
+      "translation": {
+        "en": {
+          "short": "paper street",
+          "long": "a fictional or nonexistent street created on paper but not physically built",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paper Street",
+          "long": "jalan fiksi atau tidak ada yang dibuat di atas kertas tetapi tidak dibangun secara fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407792.jpeg",
+      "simplified": "纸街",
+      "traditional": "紙街",
+      "pinyin": "zhǐ jiē"
+    },
+    {
+      "id": 407795,
+      "translation": {
+        "en": {
+          "short": "stub street",
+          "long": "a short, dead-end road that is often planned for future extension but currently terminates without connecting to other streets or throughways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stub Street",
+          "long": "Jalan pendek dan buntu yang sering direncanakan untuk perpanjangan di masa mendatang tetapi saat ini berakhir tanpa terhubung ke jalan lain atau melalui jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407795.jpeg",
+      "simplified": "存根街",
+      "traditional": "存根街",
+      "pinyin": "cúngēn jiē"
+    }
+  ]
+}

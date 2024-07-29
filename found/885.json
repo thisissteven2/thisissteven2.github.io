@@ -1,0 +1,678 @@
+{
+  "id": 885,
+  "title": {
+    "en": "World of Science",
+    "id": "Dunia sains"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the world of science, such as \"biochemistry\", \"biological\", \"bacteria\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang dunia sains, seperti \"biokimia\", \"biologis\", \"bakteri\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 239455,
+      "translation": {
+        "en": {
+          "short": "biochemistry",
+          "long": "a field of science that deals with the chemistry of organisms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biokimia",
+          "long": "bidang sains yang berkaitan dengan kimia organisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239455.jpeg",
+      "simplified": "生物化学",
+      "traditional": "生物化學",
+      "pinyin": "shēngwù huà xué"
+    },
+    {
+      "id": 239456,
+      "translation": {
+        "en": {
+          "short": "biological",
+          "long": "relating to the science that explores living organisms and their functions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "biologis",
+          "long": "berkaitan dengan sains yang mengeksplorasi organisme hidup dan fungsinya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239456.jpeg",
+      "simplified": "生物",
+      "traditional": "生物",
+      "pinyin": "shēngwù"
+    },
+    {
+      "id": 239474,
+      "translation": {
+        "en": {
+          "short": "artificial",
+          "long": "made by humans rather than occurring naturally in nature",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "palsu",
+          "long": "dibuat oleh manusia daripada terjadi secara alami di alam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239474.jpeg",
+      "simplified": "人造的",
+      "traditional": "人造的",
+      "pinyin": "rénzào de"
+    },
+    {
+      "id": 239453,
+      "translation": {
+        "en": {
+          "short": "bacteria",
+          "long": "(microbiology) single-celled microorganisms that can be found in various environments, including soil, water, and living organisms, and can be beneficial, harmful, or neutral",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bakteri",
+          "long": "(Mikrobiologi) Mikroorganisme bersel tunggal yang dapat ditemukan di berbagai lingkungan, termasuk tanah, air, dan organisme hidup, dan dapat bermanfaat, berbahaya, atau netral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239453.jpeg",
+      "simplified": "菌",
+      "traditional": "菌",
+      "pinyin": "jūn"
+    },
+    {
+      "id": 239454,
+      "translation": {
+        "en": {
+          "short": "being",
+          "long": "a living thing, such as a tree, human, animal, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makhluk",
+          "long": "makhluk hidup, seperti pohon, manusia, hewan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239454.jpeg",
+      "simplified": "生物",
+      "traditional": "生物",
+      "pinyin": "shēngwù"
+    },
+    {
+      "id": 239482,
+      "translation": {
+        "en": {
+          "short": "cycle",
+          "long": "(biology) a series of transformations and events that happen in an animal or plant's lifetime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siklus",
+          "long": "(Biologi) Serangkaian transformasi dan peristiwa yang terjadi dalam seumur hidup hewan atau tumbuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239482.jpeg",
+      "simplified": "周期",
+      "traditional": "週期",
+      "pinyin": "zhōuqī"
+    },
+    {
+      "id": 239457,
+      "translation": {
+        "en": {
+          "short": "DNA",
+          "long": "(biochemistry) a chemical substance that carries the genetic information, which is present in every cell and some viruses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "DNA",
+          "long": "(Biokimia) Suatu zat kimia yang membawa informasi genetik, yang ada di setiap sel dan beberapa virus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239457.jpeg",
+      "simplified": "脱氧核糖核酸",
+      "traditional": "脫氧核糖核酸",
+      "pinyin": "tuōyǎng hé táng hé suān"
+    },
+    {
+      "id": 239458,
+      "translation": {
+        "en": {
+          "short": "genetics",
+          "long": "the branch of biology that deals with how individual features and different characteristics are passed through genes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genetika",
+          "long": "Cabang Biologi yang Berhubungan Dengan Bagaimana Fitur Individu dan Karakteristik Berbagai Dikerahkan Gen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239458.jpeg",
+      "simplified": "遗传学",
+      "traditional": "遺傳學",
+      "pinyin": "yíchuán xué"
+    },
+    {
+      "id": 239459,
+      "translation": {
+        "en": {
+          "short": "to evolve",
+          "long": "(biology) to change gradually and over generations into forms that are better adapted to the environment and fitter to survive",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berevolusi",
+          "long": "(Biologi) untuk berubah secara bertahap dan lebih dari generasi ke dalam bentuk yang lebih baik disesuaikan dengan lingkungan dan lebih bugar untuk bertahan hidup",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239459.jpeg",
+      "simplified": "发展",
+      "traditional": "發展",
+      "pinyin": "fāzhǎn"
+    },
+    {
+      "id": 239470,
+      "translation": {
+        "en": {
+          "short": "compound",
+          "long": "(chemistry) a substance that its molecules consist of two or more elements that are held together by a chemical bond",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggabungkan",
+          "long": "(Kimia) Suatu zat bahwa molekulnya terdiri dari dua atau lebih elemen yang disatukan oleh ikatan kimia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239470.jpeg",
+      "simplified": "复合",
+      "traditional": "複合",
+      "pinyin": "fùhé"
+    },
+    {
+      "id": 239468,
+      "translation": {
+        "en": {
+          "short": "element",
+          "long": "a substance that is composed of only one type of atom, typically characterized by specific physical and chemical properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elemen",
+          "long": "zat yang hanya terdiri dari satu jenis atom, biasanya ditandai dengan sifat fisik dan kimia tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239468.jpeg",
+      "simplified": "化学元素",
+      "traditional": "化學元素",
+      "pinyin": "huàxué yuán sù"
+    },
+    {
+      "id": 239469,
+      "translation": {
+        "en": {
+          "short": "matter",
+          "long": "a physical substance that occupies space and exists in every material in the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urusan",
+          "long": "zat fisik yang menempati ruang dan ada di setiap materi di alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239469.jpeg",
+      "simplified": "物",
+      "traditional": "物",
+      "pinyin": "wù"
+    },
+    {
+      "id": 244731,
+      "translation": {
+        "en": {
+          "short": "mineral",
+          "long": "a solid, naturally occurring substance with a specific chemical composition, typically found in the earth's crust, such as gold, copper, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mineral",
+          "long": "Zat padat, yang terjadi secara alami dengan komposisi kimia spesifik, biasanya ditemukan di kerak bumi, seperti emas, tembaga, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244731.jpeg",
+      "simplified": "矿物",
+      "traditional": "礦物",
+      "pinyin": "kuàngwù"
+    },
+    {
+      "id": 239467,
+      "translation": {
+        "en": {
+          "short": "molecule",
+          "long": "the smallest structure of a substance consisting of a group of atoms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "molekul",
+          "long": "Struktur terkecil dari suatu zat yang terdiri dari sekelompok atom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239467.jpeg",
+      "simplified": "分子",
+      "traditional": "分子",
+      "pinyin": "fēnzǐ"
+    },
+    {
+      "id": 239471,
+      "translation": {
+        "en": {
+          "short": "solution",
+          "long": "a mixture of different liquids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "larutan",
+          "long": "campuran cairan yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239471.jpeg",
+      "simplified": "解",
+      "traditional": "解",
+      "pinyin": "Xiè"
+    },
+    {
+      "id": 239464,
+      "translation": {
+        "en": {
+          "short": "boiling point",
+          "long": "the temperature at which a liquid starts boiling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik didih",
+          "long": "suhu di mana cairan mulai mendidih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239464.jpeg",
+      "simplified": "沸点",
+      "traditional": "沸點",
+      "pinyin": "fèidiǎn"
+    },
+    {
+      "id": 239465,
+      "translation": {
+        "en": {
+          "short": "freezing point",
+          "long": "the temperature at which liquid becomes solid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik beku",
+          "long": "suhu di mana cairan menjadi padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239465.jpeg",
+      "simplified": "冰点",
+      "traditional": "冰點",
+      "pinyin": "bīngdiǎn"
+    },
+    {
+      "id": 239466,
+      "translation": {
+        "en": {
+          "short": "radiation",
+          "long": "the energy transmitted in the form of particles or waves through the space or a matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radiasi",
+          "long": "energi yang ditransmisikan dalam bentuk partikel atau gelombang melalui ruang atau masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239466.jpeg",
+      "simplified": "能量传输",
+      "traditional": "能量傳輸",
+      "pinyin": "néngliàng chuánshū"
+    },
+    {
+      "id": 239608,
+      "translation": {
+        "en": {
+          "short": "to advance",
+          "long": "to help something progress or succeed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memajukan",
+          "long": "untuk membantu sesuatu berkembang atau berhasil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239608.jpeg",
+      "simplified": "提前",
+      "traditional": "提前",
+      "pinyin": "tíqián"
+    },
+    {
+      "id": 239472,
+      "translation": {
+        "en": {
+          "short": "to absorb",
+          "long": "to take in energy, liquid, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerap",
+          "long": "Untuk mengambil energi, cair, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239472.jpeg",
+      "simplified": "吸收某物",
+      "traditional": "吸收某物",
+      "pinyin": "xīshōu mǒuwù"
+    },
+    {
+      "id": 239473,
+      "translation": {
+        "en": {
+          "short": "to activate",
+          "long": "(physics) to make a substance radioactive",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengaktifkan",
+          "long": "(Fisika) untuk membuat zat radioaktif",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239473.jpeg",
+      "simplified": "使放射性",
+      "traditional": "使放射性",
+      "pinyin": "shǐ fàngshè xìng"
+    },
+    {
+      "id": 239648,
+      "translation": {
+        "en": {
+          "short": "to generate",
+          "long": "to produce energy, such as heat, electricity, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghasilkan",
+          "long": "untuk menghasilkan energi, seperti panas, listrik, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239648.jpeg",
+      "simplified": "生成",
+      "traditional": "生成",
+      "pinyin": "shēngchéng"
+    },
+    {
+      "id": 239475,
+      "translation": {
+        "en": {
+          "short": "industry",
+          "long": "the manufacture of goods using raw materials, particularly in factories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "industri",
+          "long": "pembuatan barang menggunakan bahan baku, terutama di pabrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239475.jpeg",
+      "simplified": "行业",
+      "traditional": "行業",
+      "pinyin": "hángyè"
+    },
+    {
+      "id": 239460,
+      "translation": {
+        "en": {
+          "short": "civil engineering",
+          "long": "a field of engineering that deals with the design, construction, and repair of buildings, bridges, roads, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknik Sipil",
+          "long": "Bidang teknik yang berkaitan dengan desain, konstruksi, dan perbaikan bangunan, jembatan, jalan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239460.jpeg",
+      "simplified": "土木工程",
+      "traditional": "土木工程",
+      "pinyin": "tǔmù gōng chéng"
+    },
+    {
+      "id": 239673,
+      "translation": {
+        "en": {
+          "short": "sensor",
+          "long": "a machine or device that detects any changes in the environment and sends the information to other electronic devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sensor",
+          "long": "mesin atau perangkat yang mendeteksi perubahan di lingkungan dan mengirimkan informasi ke perangkat elektronik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239673.jpeg",
+      "simplified": "传感器装置",
+      "traditional": "傳感器裝置",
+      "pinyin": "chuángǎn qì zhuāngzhì"
+    },
+    {
+      "id": 239674,
+      "translation": {
+        "en": {
+          "short": "circuit",
+          "long": "the complete circle through which an electric current flows, typically consists of the source of electric energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sirkuit",
+          "long": "Lingkaran lengkap yang melaluinya arus listrik mengalir, biasanya terdiri dari sumber energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239674.jpeg",
+      "simplified": "电子电路",
+      "traditional": "電子電路",
+      "pinyin": "diànzǐ diànlù"
+    },
+    {
+      "id": 239478,
+      "translation": {
+        "en": {
+          "short": "field",
+          "long": "(physics) the space or area within which the effect of a particular force exists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bidang",
+          "long": "(Fisika) Ruang atau area di mana efek dari kekuatan tertentu ada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239478.jpeg",
+      "simplified": "场（磁场等）",
+      "traditional": "場（磁場等）",
+      "pinyin": "cháng cíchǎng děng"
+    },
+    {
+      "id": 239675,
+      "translation": {
+        "en": {
+          "short": "wire",
+          "long": "a long and thin piece of metal that carries an electric current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel",
+          "long": "sepotong logam panjang dan tipis yang membawa arus listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239675.jpeg",
+      "simplified": "线",
+      "traditional": "線",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 343596,
+      "translation": {
+        "en": {
+          "short": "live wire",
+          "long": "a wire that carries electrical current and has the potential to cause electric shock or injury if touched",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat listrik",
+          "long": "Kawat yang membawa arus listrik dan berpotensi menyebabkan sengatan listrik atau cedera jika disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343596.jpeg",
+      "simplified": "火线",
+      "traditional": "火線",
+      "pinyin": "Huǒxiàn"
+    },
+    {
+      "id": 239479,
+      "translation": {
+        "en": {
+          "short": "motion",
+          "long": "the process or act of moving or changing place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerakan",
+          "long": "proses atau tindakan memindahkan atau mengubah tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239479.jpeg",
+      "simplified": "运动",
+      "traditional": "運動",
+      "pinyin": "yùndòng"
+    },
+    {
+      "id": 246620,
+      "translation": {
+        "en": {
+          "short": "to monitor",
+          "long": "to carefully check the quality, activity, or changes of something or someone for a period of time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memantau",
+          "long": "untuk dengan cermat memeriksa kualitas, aktivitas, atau perubahan sesuatu atau seseorang untuk jangka waktu tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246620.jpeg",
+      "simplified": "监视",
+      "traditional": "監視",
+      "pinyin": "jiānshì"
+    },
+    {
+      "id": 239476,
+      "translation": {
+        "en": {
+          "short": "motor",
+          "long": "a machine that converts any form of energy into mechanical energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "motor",
+          "long": "mesin yang mengubah segala bentuk energi menjadi energi mekanik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239476.jpeg",
+      "simplified": "电动机",
+      "traditional": "電動機",
+      "pinyin": "diàndòng jī"
+    },
+    {
+      "id": 246747,
+      "translation": {
+        "en": {
+          "short": "rate",
+          "long": "the number of times something changes or happens during a specific period of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecepatan",
+          "long": "berapa kali sesuatu berubah atau terjadi selama periode waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246747.jpeg",
+      "simplified": "率",
+      "traditional": "率",
+      "pinyin": "lǜ"
+    },
+    {
+      "id": 258213,
+      "translation": {
+        "en": {
+          "short": "weathering",
+          "long": "the effect of sunlight, wind, or rain, on rocks that makes them change color or appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelapukan",
+          "long": "Efek sinar matahari, angin, atau hujan, pada batu yang membuatnya berubah warna atau penampilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258213.jpeg",
+      "simplified": "风化",
+      "traditional": "風化",
+      "pinyin": "fēnghuà"
+    },
+    {
+      "id": 263661,
+      "translation": {
+        "en": {
+          "short": "impervious",
+          "long": "preventing a substance such as liquid from passing through",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tahan",
+          "long": "mencegah suatu zat seperti cairan yang melewati",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263661.jpeg",
+      "simplified": "不透水的",
+      "traditional": "不透水的",
+      "pinyin": "bùtòu shuǐ de"
+    }
+  ]
+}

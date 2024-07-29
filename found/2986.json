@@ -1,0 +1,792 @@
+{
+  "id": 2986,
+  "title": {
+    "en": "Cooks and Cuisine",
+    "id": "Memasak dan masakan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to cooks and cuisine such as \"halal\", \"chef\", and \"recipe\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan koki dan masakan seperti \"halal\", \"koki\", dan \"resep\"."
+  },
+  "cards": [
+    {
+      "id": 311535,
+      "translation": {
+        "en": {
+          "short": "cook",
+          "long": "a person who prepares and cooks food, especially as their job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak",
+          "long": "seseorang yang menyiapkan dan memasak makanan, terutama sebagai pekerjaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311535.jpeg",
+      "simplified": "厨师",
+      "traditional": "廚師",
+      "pinyin": "chúshī"
+    },
+    {
+      "id": 311536,
+      "translation": {
+        "en": {
+          "short": "chef",
+          "long": "a highly trained cook who often cooks for hotels or restaurants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koki",
+          "long": "Seorang juru masak yang sangat terlatih yang sering memasak untuk hotel atau restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311536.jpeg",
+      "simplified": "厨师",
+      "traditional": "廚師",
+      "pinyin": "chúshī"
+    },
+    {
+      "id": 311537,
+      "translation": {
+        "en": {
+          "short": "cookery",
+          "long": "the skill or activity of preparing food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak",
+          "long": "keterampilan atau aktivitas menyiapkan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311537.jpeg",
+      "simplified": "烹饪法",
+      "traditional": "烹飪法",
+      "pinyin": "pēngrèn fǎ"
+    },
+    {
+      "id": 311538,
+      "translation": {
+        "en": {
+          "short": "cooking",
+          "long": "the act of preparing food by heat or mixing different ingredients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak",
+          "long": "Tindakan menyiapkan makanan dengan memanaskan atau mencampur bahan yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311538.jpeg",
+      "simplified": "烹饪",
+      "traditional": "烹飪",
+      "pinyin": "pēngrèn"
+    },
+    {
+      "id": 311539,
+      "translation": {
+        "en": {
+          "short": "cordon bleu",
+          "long": "a person who has attained a high level of skill or expertise in culinary arts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cordon Bleu",
+          "long": "seseorang yang telah mencapai tingkat keterampilan atau keahlian yang tinggi dalam seni kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311539.jpeg",
+      "simplified": "蓝带",
+      "traditional": "藍帶",
+      "pinyin": "Lán dài"
+    },
+    {
+      "id": 311540,
+      "translation": {
+        "en": {
+          "short": "cuisine",
+          "long": "a method or style of cooking that is specific to a country or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Masakan",
+          "long": "metode atau gaya memasak yang khusus untuk suatu negara atau wilayah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311540.jpeg",
+      "simplified": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn"
+    },
+    {
+      "id": 311541,
+      "translation": {
+        "en": {
+          "short": "culinary",
+          "long": "relating to or used in the preparation of food or cooking",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kuliner",
+          "long": "berkaitan dengan atau digunakan dalam persiapan makanan atau memasak",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311541.jpeg",
+      "simplified": "与烹饪有关的",
+      "traditional": "與烹飪有關的",
+      "pinyin": "yú pēngrèn yǒuguān de"
+    },
+    {
+      "id": 311542,
+      "translation": {
+        "en": {
+          "short": "gourmet",
+          "long": "someone who enjoys and knows about food and wine very much",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gourmet",
+          "long": "seseorang yang sangat menikmati dan tahu tentang makanan dan anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311542.jpeg",
+      "simplified": "美食家",
+      "traditional": "美食家",
+      "pinyin": "měishí jiā"
+    },
+    {
+      "id": 311543,
+      "translation": {
+        "en": {
+          "short": "haute cuisine",
+          "long": "fancy and carefully prepared food with beautiful presentation and top-notch ingredients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masakan haute",
+          "long": "Makanan mewah dan disiapkan dengan hati-hati dengan presentasi yang indah dan bahan-bahan terkemuka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311543.jpeg",
+      "simplified": "高级美食",
+      "traditional": "高級美食",
+      "pinyin": "gāojí měishí"
+    },
+    {
+      "id": 311544,
+      "translation": {
+        "en": {
+          "short": "nouvelle cuisine",
+          "long": "a French style of cooking known for its light, delicate dishes, fresh ingredients, and artistic presentation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masakan nouvelle",
+          "long": "Gaya memasak Prancis yang dikenal dengan hidangannya yang ringan dan halus, bahan -bahan segar, dan presentasi artistik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311544.jpeg",
+      "simplified": "新式烹饪",
+      "traditional": "新式烹飪",
+      "pinyin": "xīnshì pēngrèn"
+    },
+    {
+      "id": 311546,
+      "translation": {
+        "en": {
+          "short": "recipe",
+          "long": "the instructions on how to cook a certain food, including a list of the ingredients required",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resep",
+          "long": "instruksi tentang cara memasak makanan tertentu, termasuk daftar bahan yang diperlukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311546.jpeg",
+      "simplified": "食谱",
+      "traditional": "食譜",
+      "pinyin": "shípǔ"
+    },
+    {
+      "id": 311547,
+      "translation": {
+        "en": {
+          "short": "short-order cook",
+          "long": "someone whose job is preparing food that can be quickly or easily cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru masak orde pendek",
+          "long": "seseorang yang pekerjaannya menyiapkan makanan yang bisa dengan cepat atau mudah dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311547.jpeg",
+      "simplified": "快餐厨师",
+      "traditional": "快餐廚師",
+      "pinyin": "kuàicān chúshī"
+    },
+    {
+      "id": 311555,
+      "translation": {
+        "en": {
+          "short": "caterer",
+          "long": "a person or company that provides food and drink for an event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemborong",
+          "long": "seseorang atau perusahaan yang menyediakan makanan dan minuman untuk suatu acara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311555.jpeg",
+      "simplified": "餐饮承办商",
+      "traditional": "餐飲承辦商",
+      "pinyin": "cānyǐn chéngbàn Shāng"
+    },
+    {
+      "id": 311559,
+      "translation": {
+        "en": {
+          "short": "carhop",
+          "long": "a waiter or waitress who serves food to customers in parked cars at a drive-in restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Carhop",
+          "long": "Seorang pelayan atau pelayan yang menyajikan makanan untuk pelanggan di mobil yang diparkir di restoran drive-in",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311559.jpeg",
+      "simplified": "卡霍普",
+      "traditional": "卡霍普",
+      "pinyin": "kǎ Huò pǔ"
+    },
+    {
+      "id": 311560,
+      "translation": {
+        "en": {
+          "short": "commis chef",
+          "long": "‌a novice chef who works under the supervision of the head chef",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chef Commis",
+          "long": "Koki pemula yang bekerja di bawah pengawasan kepala koki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311560.jpeg",
+      "simplified": "厨师长",
+      "traditional": "廚師長",
+      "pinyin": "chúshī zhǎng"
+    },
+    {
+      "id": 311567,
+      "translation": {
+        "en": {
+          "short": "prep cook",
+          "long": "a kitchen staff member who prepares and preps ingredients, such as chopping and measuring, in advance of cooking in a restaurant or culinary setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persiapan koki",
+          "long": "Seorang anggota staf dapur yang menyiapkan dan menyiapkan bahan, seperti memotong dan mengukur, sebelum memasak di restoran atau suasana kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311567.jpeg",
+      "simplified": "准备厨师",
+      "traditional": "準備廚師",
+      "pinyin": "zhǔnbèi chúshī"
+    },
+    {
+      "id": 311570,
+      "translation": {
+        "en": {
+          "short": "sous-chef",
+          "long": "a cook who ranks second after the head chef in a professional restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sous-chef",
+          "long": "Seorang juru masak yang berada di peringkat kedua setelah kepala koki di restoran profesional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311570.jpeg",
+      "simplified": "副主厨",
+      "traditional": "副主廚",
+      "pinyin": "fù zhǔchú"
+    },
+    {
+      "id": 311574,
+      "translation": {
+        "en": {
+          "short": "chef de partie",
+          "long": "a chef who oversees and manages a specific section or station in a professional kitchen, responsible for preparing and cooking a specific type of food or aspect of a meal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chef de Partie",
+          "long": "Seorang koki yang mengawasi dan mengelola bagian atau stasiun tertentu di dapur profesional, bertanggung jawab untuk menyiapkan dan memasak jenis makanan atau aspek makanan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311574.jpeg",
+      "simplified": "主厨",
+      "traditional": "主廚",
+      "pinyin": "zhǔchú"
+    },
+    {
+      "id": 311576,
+      "translation": {
+        "en": {
+          "short": "line cook",
+          "long": "a member of a kitchen staff who works on the cooking line, responsible for preparing and cooking food to order in a restaurant or culinary establishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Line Cook",
+          "long": "Seorang anggota staf dapur yang bekerja di jalur memasak, bertanggung jawab untuk menyiapkan dan memasak makanan untuk dipesan di restoran atau tempat kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311576.jpeg",
+      "simplified": "线厨师",
+      "traditional": "線廚師",
+      "pinyin": "xiàn chúshī"
+    },
+    {
+      "id": 311581,
+      "translation": {
+        "en": {
+          "short": "relief cook",
+          "long": "a chef or cook who temporarily fills in for other cooks who are absent or unavailable, assisting in various sections or stations in a professional kitchen as needed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koki lega",
+          "long": "Seorang koki atau juru masak yang sementara mengisi untuk koki lain yang tidak ada atau tidak tersedia, membantu di berbagai bagian atau stasiun di dapur profesional sesuai kebutuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311581.jpeg",
+      "simplified": "救济厨师",
+      "traditional": "救濟廚師",
+      "pinyin": "jiùjì chúshī"
+    },
+    {
+      "id": 311587,
+      "translation": {
+        "en": {
+          "short": "entremetier",
+          "long": "a chef or cook who is responsible for overseeing the preparation of soups, sauces, and side dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Entremetier",
+          "long": "Seorang koki atau juru masak yang bertanggung jawab untuk mengawasi persiapan sup, saus, dan lauk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311587.jpeg",
+      "simplified": "恩特尔梅蒂耶",
+      "traditional": "恩特爾梅蒂耶",
+      "pinyin": "ēn tè ěr Méi dì yē"
+    },
+    {
+      "id": 311593,
+      "translation": {
+        "en": {
+          "short": "saucier",
+          "long": "a chef or cook who specializes in preparing and cooking sauces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Saucier",
+          "long": "seorang koki atau juru masak yang berspesialisasi dalam mempersiapkan dan memasak saus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311593.jpeg",
+      "simplified": "索西尔",
+      "traditional": "索西爾",
+      "pinyin": "Suǒ Xī ěr"
+    },
+    {
+      "id": 311595,
+      "translation": {
+        "en": {
+          "short": "garde manger",
+          "long": "a chef or cook who is responsible for the preparation, assembly, and presentation of cold dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garde Manger",
+          "long": "seorang koki atau juru masak yang bertanggung jawab atas persiapan, perakitan, dan presentasi hidangan dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311595.jpeg",
+      "simplified": "门卫马槽",
+      "traditional": "門衛馬槽",
+      "pinyin": "ménwèi mǎcáo"
+    },
+    {
+      "id": 311597,
+      "translation": {
+        "en": {
+          "short": "swing cook",
+          "long": "a versatile cook who is able to work across different stations or sections in a professional kitchen, filling in for absent or busy cooks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayunan masak",
+          "long": "Seorang juru masak serba guna yang dapat bekerja di berbagai stasiun atau bagian di dapur profesional, mengisi untuk koki yang tidak ada atau sibuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311597.jpeg",
+      "simplified": "摇摆厨师",
+      "traditional": "搖擺廚師",
+      "pinyin": "yáobǎi chúshī"
+    },
+    {
+      "id": 311601,
+      "translation": {
+        "en": {
+          "short": "patissier",
+          "long": "a pastry chef or baker who specializes in the creation and preparation of desserts, pastries, and baked goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Patisier",
+          "long": "koki atau tukang roti yang berspesialisasi dalam penciptaan dan persiapan makanan penutup, kue kering, dan makanan yang dipanggang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311601.jpeg",
+      "simplified": "糕点师",
+      "traditional": "糕點師",
+      "pinyin": "gāodiǎn Shī"
+    },
+    {
+      "id": 311604,
+      "translation": {
+        "en": {
+          "short": "poissonier",
+          "long": "a chef or cook who specializes in the preparation and cooking of fish and seafood dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poissonier",
+          "long": "Seorang koki atau juru masak yang berspesialisasi dalam persiapan dan memasak hidangan ikan dan makanan laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311604.jpeg",
+      "simplified": "泊索尼耶",
+      "traditional": "泊索尼耶",
+      "pinyin": "bó Suǒní yē"
+    },
+    {
+      "id": 311606,
+      "translation": {
+        "en": {
+          "short": "grillardin",
+          "long": "a chef or cook who is responsible for cooking meats, particularly grilled or broiled meats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grillardin",
+          "long": "Seorang koki atau juru masak yang bertanggung jawab untuk memasak daging, terutama daging panggang atau dipanggang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311606.jpeg",
+      "simplified": "格里拉丁",
+      "traditional": "格里拉丁",
+      "pinyin": "gé lǐlā Dīng"
+    },
+    {
+      "id": 311608,
+      "translation": {
+        "en": {
+          "short": "maitre d'hotel",
+          "long": "someone who is in charge of the waiters and waitresses of a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Maitre d'Hotel",
+          "long": "seseorang yang bertanggung jawab atas pelayan dan pelayan restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311608.jpeg",
+      "simplified": "酒店领班",
+      "traditional": "酒店領班",
+      "pinyin": "jiǔdiàn lǐngbān"
+    },
+    {
+      "id": 311609,
+      "translation": {
+        "en": {
+          "short": "sommelier",
+          "long": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sommelier",
+          "long": "Seseorang yang bertugas menyajikan anggur dan membantu pelanggan memilih anggur di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311609.jpeg",
+      "simplified": "侍酒师",
+      "traditional": "侍酒師",
+      "pinyin": "shì jiǔ Shī"
+    },
+    {
+      "id": 311611,
+      "translation": {
+        "en": {
+          "short": "server",
+          "long": "someone whose job is to serve meals to customers in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "server",
+          "long": "seseorang yang tugasnya adalah menyajikan makanan untuk pelanggan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311611.jpeg",
+      "simplified": "服务器",
+      "traditional": "伺服器",
+      "pinyin": "fúwù qì"
+    },
+    {
+      "id": 311612,
+      "translation": {
+        "en": {
+          "short": "busboy",
+          "long": "someone whose job is to clear tables and dirty dishes, etc. in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Busboy",
+          "long": "seseorang yang tugasnya adalah untuk membersihkan meja dan hidangan kotor, dll. Di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311612.jpeg",
+      "simplified": "勤杂工",
+      "traditional": "勤雜工",
+      "pinyin": "qínzá gōng"
+    },
+    {
+      "id": 311614,
+      "translation": {
+        "en": {
+          "short": "host",
+          "long": "someone who invites guests to their home and is responsible for ensuring that they have a comfortable and enjoyable experience while they are there",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuan rumah",
+          "long": "seseorang yang mengundang tamu ke rumah mereka dan bertanggung jawab untuk memastikan bahwa mereka memiliki pengalaman yang nyaman dan menyenangkan saat mereka berada di sana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311614.jpeg",
+      "simplified": "主",
+      "traditional": "主",
+      "pinyin": "zhǔ"
+    },
+    {
+      "id": 311616,
+      "translation": {
+        "en": {
+          "short": "hostess",
+          "long": "a woman whose job is greeting customers in a restaurant, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nyonya rumah",
+          "long": "Seorang wanita yang pekerjaannya menyapa pelanggan di restoran, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311616.jpeg",
+      "simplified": "女主人",
+      "traditional": "女主人",
+      "pinyin": "nǚzhǔ rén"
+    },
+    {
+      "id": 311618,
+      "translation": {
+        "en": {
+          "short": "bartender",
+          "long": "a person who serves drinks behind a bar, typically in a bar, restaurant, or other establishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bartender",
+          "long": "Seseorang yang menyajikan minuman di belakang bar, biasanya di bar, restoran, atau perusahaan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311618.jpeg",
+      "simplified": "调酒师",
+      "traditional": "調酒師",
+      "pinyin": "tiáojiǔ shī"
+    },
+    {
+      "id": 311621,
+      "translation": {
+        "en": {
+          "short": "taster",
+          "long": "a person who samples or evaluates food, drinks, or other substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengecap",
+          "long": "seseorang yang mengambil sampel atau mengevaluasi makanan, minuman, atau zat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311621.jpeg",
+      "simplified": "品酒师",
+      "traditional": "品酒師",
+      "pinyin": "pǐnjiǔ Shī"
+    },
+    {
+      "id": 311626,
+      "translation": {
+        "en": {
+          "short": "expediter",
+          "long": "an individual who is responsible for coordinating and expediting the flow of food orders between the kitchen and the front of the house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekspeditur",
+          "long": "seorang individu yang bertanggung jawab untuk mengoordinasikan dan mempercepat aliran pesanan makanan antara dapur dan bagian depan rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311626.jpeg",
+      "simplified": "催交者",
+      "traditional": "催交者",
+      "pinyin": "cuī jiāo zhě"
+    },
+    {
+      "id": 311631,
+      "translation": {
+        "en": {
+          "short": "food runner",
+          "long": "a staff member who is responsible for delivering food orders from the kitchen to the dining area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelari makanan",
+          "long": "Seorang anggota staf yang bertanggung jawab untuk mengirimkan pesanan makanan dari dapur ke ruang makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311631.jpeg",
+      "simplified": "食物亚军",
+      "traditional": "食物亞軍",
+      "pinyin": "shíwù yàjūn"
+    },
+    {
+      "id": 311999,
+      "translation": {
+        "en": {
+          "short": "home cooking",
+          "long": "the practice of preparing and cooking meals at home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Masakan rumah",
+          "long": "latihan menyiapkan dan memasak makanan di rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/311999.jpeg",
+      "simplified": "家常菜",
+      "traditional": "家常菜",
+      "pinyin": "jiācháng cài"
+    },
+    {
+      "id": 312002,
+      "translation": {
+        "en": {
+          "short": "kosher",
+          "long": "food prepared according to Jewish dietary laws, fit for consumption by observant Jews",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halal",
+          "long": "Makanan disiapkan menurut hukum diet Yahudi, cocok untuk dikonsumsi oleh orang Yahudi yang jeli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312002.jpeg",
+      "simplified": "犹太洁食",
+      "traditional": "猶太潔食",
+      "pinyin": "Yóutài jiéshí"
+    },
+    {
+      "id": 312004,
+      "translation": {
+        "en": {
+          "short": "halal",
+          "long": "food that is prepared according to Islamic dietary laws",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halal",
+          "long": "makanan yang disiapkan menurut hukum diet Islam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312004.jpeg",
+      "simplified": "清真",
+      "traditional": "清真",
+      "pinyin": "qīngzhēn"
+    },
+    {
+      "id": 312006,
+      "translation": {
+        "en": {
+          "short": "cuisine minceur",
+          "long": "a style of cooking that emphasizes lightness, healthfulness, and the use of minimal fats and calories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cuisine Minceur",
+          "long": "Gaya memasak yang menekankan cahaya, kesehatan, dan penggunaan lemak dan kalori minimal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312006.jpeg",
+      "simplified": "烹饪小馅饼",
+      "traditional": "烹飪小餡餅",
+      "pinyin": "pēngrèn xiǎo xiànbǐng"
+    }
+  ]
+}

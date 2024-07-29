@@ -1,0 +1,944 @@
+{
+  "id": 638,
+  "title": {
+    "en": "Book Production",
+    "id": "Produksi buku"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to book production such as \"novelist\", \"copy editor\", and \"publicist\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan produksi buku seperti \"novelis\", \"copy editor\", dan \"publisis\"."
+  },
+  "cards": [
+    {
+      "id": 343999,
+      "translation": {
+        "en": {
+          "short": "author",
+          "long": "a person who writes books, articles, etc., often as a job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengarang",
+          "long": "seseorang yang menulis buku, artikel, dll., Seringkali sebagai pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343999.jpeg",
+      "simplified": "作者",
+      "traditional": "作者",
+      "pinyin": "zuòzhě"
+    },
+    {
+      "id": 344012,
+      "translation": {
+        "en": {
+          "short": "novelist",
+          "long": "a writer who explores characters, events, and themes in depth through long narrative stories, particularly novels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "novelis",
+          "long": "Seorang penulis yang mengeksplorasi karakter, acara, dan tema secara mendalam melalui cerita naratif panjang, khususnya novel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344012.jpeg",
+      "simplified": "小说家",
+      "traditional": "小說家",
+      "pinyin": "Xiǎoshuō jiā"
+    },
+    {
+      "id": 344001,
+      "translation": {
+        "en": {
+          "short": "copy editor",
+          "long": "a professional who ensures that written material is clear, concise, and free of errors in grammar, spelling, and punctuation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemeriksa naskah",
+          "long": "Seorang profesional yang memastikan bahwa materi tertulis jelas, ringkas, dan bebas dari kesalahan dalam tata bahasa, ejaan, dan tanda baca",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344001.jpeg",
+      "simplified": "编审",
+      "traditional": "編審",
+      "pinyin": "biānshěn"
+    },
+    {
+      "id": 344020,
+      "translation": {
+        "en": {
+          "short": "structural editor",
+          "long": "a professional who works with an author to improve the overall structure, content, and organization of a manuscript",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Struktural",
+          "long": "Seorang profesional yang bekerja dengan penulis untuk meningkatkan struktur, konten, dan organisasi naskah secara keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344020.jpeg",
+      "simplified": "结构编辑器",
+      "traditional": "結構編輯器",
+      "pinyin": "jiégòu biānjí qì"
+    },
+    {
+      "id": 343996,
+      "translation": {
+        "en": {
+          "short": "commissioning editor",
+          "long": "an editor responsible for acquiring and developing content, including books, articles, and other media, for a publishing company or other organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Commissioning",
+          "long": "seorang editor yang bertanggung jawab untuk memperoleh dan mengembangkan konten, termasuk buku, artikel, dan media lainnya, untuk perusahaan penerbitan atau organisasi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343996.jpeg",
+      "simplified": "调试编辑",
+      "traditional": "調試編輯",
+      "pinyin": "tiáoshì biānjí"
+    },
+    {
+      "id": 344014,
+      "translation": {
+        "en": {
+          "short": "permissions editor",
+          "long": "a person responsible for obtaining permission to use copyrighted material in a book, such as images or excerpts from other publications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Izin",
+          "long": "Seseorang yang bertanggung jawab untuk mendapatkan izin untuk menggunakan materi yang dilindungi hak cipta dalam sebuah buku, seperti gambar atau kutipan dari publikasi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344014.jpeg",
+      "simplified": "权限编辑",
+      "traditional": "權限編輯",
+      "pinyin": "quánxiàn biānjí"
+    },
+    {
+      "id": 344016,
+      "translation": {
+        "en": {
+          "short": "content editor",
+          "long": "a professional who reviews and edits the content of a manuscript or document for style, tone, consistency, accuracy, and overall effectiveness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Konten",
+          "long": "Seorang profesional yang mengulas dan mengedit konten naskah atau dokumen untuk gaya, nada, konsistensi, akurasi, dan efektivitas keseluruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344016.jpeg",
+      "simplified": "内容编辑器",
+      "traditional": "內容編輯器",
+      "pinyin": "nèiróng biānjí qì"
+    },
+    {
+      "id": 344031,
+      "translation": {
+        "en": {
+          "short": "sensitivity editor",
+          "long": "a person who reads through a written work to identify and eliminate any potential biases, stereotypes, or insensitive language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Sensitivitas",
+          "long": "Seseorang yang membaca melalui karya tertulis untuk mengidentifikasi dan menghilangkan bias potensial, stereotip, atau bahasa yang tidak sensitif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344031.jpeg",
+      "simplified": "灵敏度编辑器",
+      "traditional": "靈敏度編輯器",
+      "pinyin": "língmǐn dù biānjí qì"
+    },
+    {
+      "id": 344018,
+      "translation": {
+        "en": {
+          "short": "line editor",
+          "long": "a type of editor who focuses on improving the writing style and clarity of individual sentences and paragraphs in a manuscript",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Editor Line",
+          "long": "Jenis editor yang berfokus pada peningkatan gaya penulisan dan kejelasan kalimat dan paragraf individu dalam sebuah naskah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344018.jpeg",
+      "simplified": "线路编辑器",
+      "traditional": "線路編輯器",
+      "pinyin": "xiànlù biānjí qì"
+    },
+    {
+      "id": 344000,
+      "translation": {
+        "en": {
+          "short": "bookseller",
+          "long": "a person or business that sells books to customers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjual buku",
+          "long": "seseorang atau bisnis yang menjual buku kepada pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344000.jpeg",
+      "simplified": "书商",
+      "traditional": "書商",
+      "pinyin": "Shū Shāng"
+    },
+    {
+      "id": 344002,
+      "translation": {
+        "en": {
+          "short": "copywriter",
+          "long": "a professional writer who creates advertising and promotional materials, typically for businesses and organizations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CopyWriter",
+          "long": "Seorang penulis profesional yang menciptakan materi iklan dan promosi, biasanya untuk bisnis dan organisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344002.jpeg",
+      "simplified": "撰稿人",
+      "traditional": "撰稿人",
+      "pinyin": "zhuàngǎo rén"
+    },
+    {
+      "id": 344004,
+      "translation": {
+        "en": {
+          "short": "cover artist",
+          "long": "the person responsible for creating the visual design and artwork for the front cover of a book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Artis sampul",
+          "long": "Orang yang bertanggung jawab untuk membuat desain visual dan karya seni untuk sampul depan buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344004.jpeg",
+      "simplified": "封面艺术家",
+      "traditional": "封面藝術家",
+      "pinyin": "fēngmiàn yìshù jiā"
+    },
+    {
+      "id": 344006,
+      "translation": {
+        "en": {
+          "short": "cover blurber",
+          "long": "someone who writes a brief endorsement or review of a book that appears on the book's cover or promotional materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cover Blurber",
+          "long": "Seseorang yang menulis dukungan singkat atau ulasan buku yang muncul di sampul buku atau materi promosi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344006.jpeg",
+      "simplified": "封面模糊",
+      "traditional": "封面模糊",
+      "pinyin": "fēngmiàn móhu"
+    },
+    {
+      "id": 344008,
+      "translation": {
+        "en": {
+          "short": "fact-checker",
+          "long": "a person who verifies the factual accuracy of information presented in a publication or other form of media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "FACT-PEKERJAAN",
+          "long": "seseorang yang memverifikasi keakuratan faktual informasi yang disajikan dalam publikasi atau bentuk media lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344008.jpeg",
+      "simplified": "事实检查",
+      "traditional": "事實檢查",
+      "pinyin": "shìshí jiǎnchá"
+    },
+    {
+      "id": 344009,
+      "translation": {
+        "en": {
+          "short": "ghostwriter",
+          "long": "an author whose work is published under someone else's name",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis hantu",
+          "long": "seorang penulis yang karyanya diterbitkan dengan nama orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344009.jpeg",
+      "simplified": "代笔作家",
+      "traditional": "代筆作家",
+      "pinyin": "dàibǐ zuòjiā"
+    },
+    {
+      "id": 344010,
+      "translation": {
+        "en": {
+          "short": "indexer",
+          "long": "a professional who creates an index for a book or other document, organizing its contents alphabetically or thematically for easy reference",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengindeks",
+          "long": "Seorang profesional yang membuat indeks untuk buku atau dokumen lain, mengatur isinya secara abjad atau tematis untuk referensi yang mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344010.jpeg",
+      "simplified": "索引器",
+      "traditional": "索引器",
+      "pinyin": "suǒyǐn qì"
+    },
+    {
+      "id": 344011,
+      "translation": {
+        "en": {
+          "short": "literary agent",
+          "long": "a professional who represents writers and their written works to publishers, film producers, and other potential buyers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agen sastra",
+          "long": "Seorang profesional yang mewakili penulis dan karya tertulis mereka untuk penerbit, produser film, dan pembeli potensial lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344011.jpeg",
+      "simplified": "文学经纪人",
+      "traditional": "文學經紀人",
+      "pinyin": "wénxué jīngjì rén"
+    },
+    {
+      "id": 343997,
+      "translation": {
+        "en": {
+          "short": "audio engineer",
+          "long": "sound professional responsible for recording, mixing, and editing audio to achieve desired results",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Insinyur Audio",
+          "long": "Suara profesional yang bertanggung jawab untuk merekam, mencampur, dan mengedit audio untuk mencapai hasil yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343997.jpeg",
+      "simplified": "音频工程师",
+      "traditional": "音頻工程師",
+      "pinyin": "yīnpín gōngchéng shī"
+    },
+    {
+      "id": 344021,
+      "translation": {
+        "en": {
+          "short": "poet",
+          "long": "a person who writes pieces of poetry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyair",
+          "long": "Seseorang yang menulis potongan puisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344021.jpeg",
+      "simplified": "诗人",
+      "traditional": "詩人",
+      "pinyin": "shīrén"
+    },
+    {
+      "id": 344022,
+      "translation": {
+        "en": {
+          "short": "printer",
+          "long": "a company or individual that produces books, magazines, newspapers, or other printed materials by applying ink to paper or other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencetak",
+          "long": "perusahaan atau individu yang memproduksi buku, majalah, surat kabar, atau bahan cetak lainnya dengan menerapkan tinta ke kertas atau bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344022.jpeg",
+      "simplified": "打印机",
+      "traditional": "印表機",
+      "pinyin": "dǎyìn jī"
+    },
+    {
+      "id": 344024,
+      "translation": {
+        "en": {
+          "short": "production manager",
+          "long": "a person responsible for overseeing the production process of a book, including printing, binding, and distribution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "manajer produksi",
+          "long": "Seseorang yang bertanggung jawab untuk mengawasi proses produksi sebuah buku, termasuk pencetakan, pengikatan, dan distribusi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344024.jpeg",
+      "simplified": "产品经理",
+      "traditional": "產品經理",
+      "pinyin": "chǎnpǐn jīng lǐ"
+    },
+    {
+      "id": 344025,
+      "translation": {
+        "en": {
+          "short": "proofreader",
+          "long": "someone whose job involves reading and marking the errors of a written or printed piece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "korektor",
+          "long": "seseorang yang pekerjaannya melibatkan membaca dan menandai kesalahan dari karya tertulis atau dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344025.jpeg",
+      "simplified": "校对",
+      "traditional": "校對",
+      "pinyin": "jiàoduì"
+    },
+    {
+      "id": 344026,
+      "translation": {
+        "en": {
+          "short": "publicist",
+          "long": "a person whose job is to make a new actor, product, etc. known to the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wartawan",
+          "long": "seseorang yang tugasnya adalah membuat aktor, produk, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344026.jpeg",
+      "simplified": "公关人员",
+      "traditional": "公關人員",
+      "pinyin": "gōngguān rényuán"
+    },
+    {
+      "id": 344027,
+      "translation": {
+        "en": {
+          "short": "publisher",
+          "long": "a person or firm that manages the preparation and public distribution of printed material such as books, newspapers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penerbit",
+          "long": "Seseorang atau perusahaan yang mengelola persiapan dan distribusi publik bahan cetak seperti buku, surat kabar, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344027.jpeg",
+      "simplified": "出版者",
+      "traditional": "出版者",
+      "pinyin": "chūbǎn zhě"
+    },
+    {
+      "id": 344029,
+      "translation": {
+        "en": {
+          "short": "rights manager",
+          "long": "a professional responsible for managing the intellectual property rights of an organization or individual",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Manajer Hak",
+          "long": "seorang profesional yang bertanggung jawab untuk mengelola hak kekayaan intelektual suatu organisasi atau individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344029.jpeg",
+      "simplified": "权利经理",
+      "traditional": "權利經理",
+      "pinyin": "quánlì jīnglǐ"
+    },
+    {
+      "id": 344033,
+      "translation": {
+        "en": {
+          "short": "transcriptionist",
+          "long": "a person who converts audio or video recordings into written or electronic text documents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transcriptionist",
+          "long": "Seseorang yang mengubah rekaman audio atau video menjadi dokumen teks tertulis atau elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344033.jpeg",
+      "simplified": "抄写员",
+      "traditional": "抄寫員",
+      "pinyin": "chāoxiě yuán"
+    },
+    {
+      "id": 344034,
+      "translation": {
+        "en": {
+          "short": "translator",
+          "long": "someone whose job is to change written or spoken words from one language to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penerjemah",
+          "long": "seseorang yang tugasnya mengubah kata -kata tertulis atau diucapkan dari satu bahasa ke bahasa lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344034.jpeg",
+      "simplified": "翻译者",
+      "traditional": "翻譯者",
+      "pinyin": "fānyì zhě"
+    },
+    {
+      "id": 344035,
+      "translation": {
+        "en": {
+          "short": "typesetter",
+          "long": "a person or software program that arranges and sets the text, images, and other elements of a book or other printed material into a format ready for printing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seter",
+          "long": "seseorang atau program perangkat lunak yang mengatur dan mengatur teks, gambar, dan elemen lain dari sebuah buku atau bahan cetak lainnya ke dalam format yang siap dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344035.jpeg",
+      "simplified": "排字机",
+      "traditional": "排字機",
+      "pinyin": "pái zì Jī"
+    },
+    {
+      "id": 344036,
+      "translation": {
+        "en": {
+          "short": "typist",
+          "long": "a person who types written or dictated material, often using a typewriter or computer keyboard",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru ketik",
+          "long": "Seseorang yang mengetik materi tertulis atau didikte, sering menggunakan mesin tik atau keyboard komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344036.jpeg",
+      "simplified": "打字员",
+      "traditional": "打字員",
+      "pinyin": "dǎzì yuán"
+    },
+    {
+      "id": 344037,
+      "translation": {
+        "en": {
+          "short": "writer",
+          "long": "someone whose job involves writing articles, books, stories, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis",
+          "long": "Seseorang yang pekerjaannya melibatkan menulis artikel, buku, cerita, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344037.jpeg",
+      "simplified": "作家",
+      "traditional": "作家",
+      "pinyin": "zuòjiā"
+    },
+    {
+      "id": 344038,
+      "translation": {
+        "en": {
+          "short": "distributor",
+          "long": "a company or organization that supplies and delivers products or materials from a manufacturer, supplier, or publisher to businesses, retailers, or end-users",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "distributor",
+          "long": "perusahaan atau organisasi yang memasok dan mengantarkan produk atau bahan dari produsen, pemasok, atau penerbit ke bisnis, pengecer, atau pengguna akhir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344038.jpeg",
+      "simplified": "配电盘",
+      "traditional": "配電盤",
+      "pinyin": "pèi diàn pán"
+    },
+    {
+      "id": 344039,
+      "translation": {
+        "en": {
+          "short": "bard",
+          "long": "a person who writes pieces of poetry and stories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyair",
+          "long": "seseorang yang menulis puisi dan cerita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344039.jpeg",
+      "simplified": "诗人",
+      "traditional": "詩人",
+      "pinyin": "shīrén"
+    },
+    {
+      "id": 344040,
+      "translation": {
+        "en": {
+          "short": "biographer",
+          "long": "someone who writes the story about the events of someone's life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis biografi",
+          "long": "seseorang yang menulis cerita tentang peristiwa kehidupan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344040.jpeg",
+      "simplified": "传记作家",
+      "traditional": "傳記作家",
+      "pinyin": "zhuànjì zuòjiā"
+    },
+    {
+      "id": 344041,
+      "translation": {
+        "en": {
+          "short": "co-author",
+          "long": "someone who writes a book, article, etc. with another author",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rekan penulis",
+          "long": "Seseorang yang menulis buku, artikel, dll. Dengan penulis lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344041.jpeg",
+      "simplified": "合著",
+      "traditional": "合著",
+      "pinyin": "hézhù"
+    },
+    {
+      "id": 344042,
+      "translation": {
+        "en": {
+          "short": "collaborator",
+          "long": "someone who works with another person in order to create or produce something such as a book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolaborator",
+          "long": "seseorang yang bekerja dengan orang lain untuk membuat atau menghasilkan sesuatu seperti buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344042.jpeg",
+      "simplified": "合作者",
+      "traditional": "合作者",
+      "pinyin": "hézuò zhě"
+    },
+    {
+      "id": 344043,
+      "translation": {
+        "en": {
+          "short": "diarist",
+          "long": "someone who keeps a diary, especially for the purpose of publication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buku harian",
+          "long": "seseorang yang membuat buku harian, terutama untuk tujuan publikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344043.jpeg",
+      "simplified": "日记作者",
+      "traditional": "日記作者",
+      "pinyin": "rìjì zuòzhě"
+    },
+    {
+      "id": 344044,
+      "translation": {
+        "en": {
+          "short": "essayist",
+          "long": "someone who writes essays to be published",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eseis",
+          "long": "seseorang yang menulis esai untuk diterbitkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344044.jpeg",
+      "simplified": "散文家",
+      "traditional": "散文家",
+      "pinyin": "sǎnwén jiā"
+    },
+    {
+      "id": 344045,
+      "translation": {
+        "en": {
+          "short": "hack",
+          "long": "an author or journalist who produces low-quality and dull work, aiming solely for commercial success",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hack",
+          "long": "seorang penulis atau jurnalis yang menghasilkan pekerjaan berkualitas rendah dan membosankan, hanya bertujuan untuk kesuksesan komersial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344045.jpeg",
+      "simplified": "雇佣文人",
+      "traditional": "僱傭文人",
+      "pinyin": "gùyōng wénrén"
+    },
+    {
+      "id": 344046,
+      "translation": {
+        "en": {
+          "short": "hagiographer",
+          "long": "a biographer who gives an idealized account of someone's life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hagiografer",
+          "long": "seorang penulis biografi yang memberikan penjelasan ideal tentang kehidupan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344046.jpeg",
+      "simplified": "圣徒传记作者",
+      "traditional": "聖徒傳記作者",
+      "pinyin": "shèngtú zhuànjì zuòzhě"
+    },
+    {
+      "id": 344047,
+      "translation": {
+        "en": {
+          "short": "historian",
+          "long": "someone who studies or records historical events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sejarawan",
+          "long": "seseorang yang mempelajari atau merekam peristiwa sejarah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344047.jpeg",
+      "simplified": "历史学家",
+      "traditional": "歷史學家",
+      "pinyin": "lìshǐ xué jiā"
+    },
+    {
+      "id": 344048,
+      "translation": {
+        "en": {
+          "short": "lexicographer",
+          "long": "a person whose job is to write and edit a dictionary",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "leksikograf",
+          "long": "seseorang yang tugasnya menulis dan mengedit kamus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344048.jpeg",
+      "simplified": "词典编纂者",
+      "traditional": "詞典編纂者",
+      "pinyin": "cídiǎn biānzuǎn zhě"
+    },
+    {
+      "id": 344050,
+      "translation": {
+        "en": {
+          "short": "literati",
+          "long": "well-educated and intelligent people who deal with literature or publishing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis",
+          "long": "orang-orang yang berpendidikan baik dan cerdas yang berurusan dengan sastra atau penerbitan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344050.jpeg",
+      "simplified": "文人",
+      "traditional": "文人",
+      "pinyin": "wénrén"
+    },
+    {
+      "id": 344051,
+      "translation": {
+        "en": {
+          "short": "man of letters",
+          "long": "a male literary author or scholar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sastrawan",
+          "long": "seorang penulis sastra pria atau sarjana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344051.jpeg",
+      "simplified": "文学家",
+      "traditional": "文學家",
+      "pinyin": "wénxué jiā"
+    },
+    {
+      "id": 344052,
+      "translation": {
+        "en": {
+          "short": "pamphleteer",
+          "long": "someone who writes pamphlets, especially one who promotes partisan views on political issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berdebat",
+          "long": "seseorang yang menulis pamflet, terutama orang yang mempromosikan pandangan partisan tentang masalah politik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344052.jpeg",
+      "simplified": "小册子作者",
+      "traditional": "小冊子作者",
+      "pinyin": "xiǎocè zi zuòzhě"
+    },
+    {
+      "id": 344053,
+      "translation": {
+        "en": {
+          "short": "pen name",
+          "long": "a name used by an author instead of their real name when writing or publishing their works",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nama pena",
+          "long": "nama yang digunakan oleh penulis, bukan nama asli mereka saat menulis atau menerbitkan karya mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344053.jpeg",
+      "simplified": "笔名",
+      "traditional": "筆名",
+      "pinyin": "bǐmíng"
+    },
+    {
+      "id": 344054,
+      "translation": {
+        "en": {
+          "short": "satirist",
+          "long": "a person who writes or uses satires in order to criticize or humor someone or something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyindir",
+          "long": "seseorang yang menulis atau menggunakan sindiran untuk mengkritik atau humor seseorang atau sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344054.jpeg",
+      "simplified": "讽刺作家",
+      "traditional": "諷刺作家",
+      "pinyin": "fěngcì zuòjiā"
+    },
+    {
+      "id": 344055,
+      "translation": {
+        "en": {
+          "short": "storyteller",
+          "long": "someone who is telling a story",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendongeng",
+          "long": "Seseorang yang menceritakan sebuah cerita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344055.jpeg",
+      "simplified": "说谎者",
+      "traditional": "說謊者",
+      "pinyin": "shuōhuǎng zhě"
+    },
+    {
+      "id": 344056,
+      "translation": {
+        "en": {
+          "short": "wordsmith",
+          "long": "someone who uses words skillfully, especially a gifted author",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wordsmith",
+          "long": "seseorang yang menggunakan kata -kata dengan terampil, terutama penulis yang berbakat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344056.jpeg",
+      "simplified": "文字大师",
+      "traditional": "文字大師",
+      "pinyin": "wénzì dàshī"
+    },
+    {
+      "id": 344058,
+      "translation": {
+        "en": {
+          "short": "book design",
+          "long": "the process of creating a visually appealing layout and structure for a book, including elements such as typography, page layout, images, and cover design",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Desain Buku",
+          "long": "Proses membuat tata letak dan struktur yang menarik secara visual untuk sebuah buku, termasuk elemen -elemen seperti tipografi, tata letak halaman, gambar, dan desain sampul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344058.jpeg",
+      "simplified": "书籍设计",
+      "traditional": "書籍設計",
+      "pinyin": "shūjí shèjì"
+    }
+  ]
+}

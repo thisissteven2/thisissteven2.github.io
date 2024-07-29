@@ -1,0 +1,982 @@
+{
+  "id": 5357,
+  "title": {
+    "en": "Clothes",
+    "id": "Pakaian"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to clothes such as \"shirt\", \"hat\", and \"leggings\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan pakaian seperti \"kemeja\", \"topi\", dan \"legging\"."
+  },
+  "cards": [
+    {
+      "id": 382192,
+      "translation": {
+        "en": {
+          "short": "shirt",
+          "long": "a piece of clothing usually worn by men on the upper half of the body, typically with a collar and sleeves, and with buttons down the front",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemeja",
+          "long": "Sepotong pakaian yang biasanya dikenakan oleh pria di bagian atas tubuh, biasanya dengan kerah dan lengan, dan dengan kancing di bagian depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382192.jpeg",
+      "simplified": "衬衫",
+      "traditional": "襯衫",
+      "pinyin": "chènshān"
+    },
+    {
+      "id": 382193,
+      "translation": {
+        "en": {
+          "short": "T-shirt",
+          "long": "a casual short-sleeved shirt with no collar, usually made of cotton",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "T-shirt",
+          "long": "kemeja lengan pendek kasual tanpa kerah, biasanya terbuat dari kapas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382193.jpeg",
+      "simplified": "T恤衫",
+      "traditional": "T恤衫",
+      "pinyin": "Txù shān"
+    },
+    {
+      "id": 382208,
+      "translation": {
+        "en": {
+          "short": "hat",
+          "long": "a piece of clothing often with a brim that we wear on our heads, for warmth, as a fashion item or as part of a uniform",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "topi",
+          "long": "sepotong pakaian sering dengan pinggiran yang kita pakai di kepala kita, untuk kehangatan, sebagai barang mode atau sebagai bagian dari seragam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382208.jpeg",
+      "simplified": "帽子",
+      "traditional": "帽子",
+      "pinyin": "màozi"
+    },
+    {
+      "id": 382209,
+      "translation": {
+        "en": {
+          "short": "cap",
+          "long": "a type of soft flat hat with a visor, typically worn by men and boys, often as part of a uniform",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "topi",
+          "long": "Jenis topi datar lembut dengan visor, biasanya dikenakan oleh pria dan anak laki -laki, seringkali sebagai bagian dari seragam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382209.jpeg",
+      "simplified": "帽",
+      "traditional": "帽",
+      "pinyin": "mào"
+    },
+    {
+      "id": 382210,
+      "translation": {
+        "en": {
+          "short": "scarf",
+          "long": "a piece of cloth, worn around the neck or head, especially to keep warm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "syal",
+          "long": "sepotong kain, dikenakan di sekitar leher atau kepala, terutama agar tetap hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382210.jpeg",
+      "simplified": "围巾",
+      "traditional": "圍巾",
+      "pinyin": "wéijīn"
+    },
+    {
+      "id": 382211,
+      "translation": {
+        "en": {
+          "short": "glove",
+          "long": "item of clothing for our hands with a separate space for each finger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarung tangan",
+          "long": "Item pakaian untuk tangan kita dengan ruang terpisah untuk setiap jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382211.jpeg",
+      "simplified": "手套",
+      "traditional": "手套",
+      "pinyin": "shǒutào"
+    },
+    {
+      "id": 382212,
+      "translation": {
+        "en": {
+          "short": "belt",
+          "long": "a long and narrow item that you usually wear around your waist to hold your clothes in place or to decorate your outfit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabuk",
+          "long": "Barang panjang dan sempit yang biasanya Anda kenakan di pinggang Anda untuk memegang pakaian Anda di tempatnya atau untuk menghias pakaian Anda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382212.jpeg",
+      "simplified": "带",
+      "traditional": "帶",
+      "pinyin": "dài"
+    },
+    {
+      "id": 382213,
+      "translation": {
+        "en": {
+          "short": "tie",
+          "long": "a long and narrow piece of fabric tied around the collar, particularly worn by men",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengikat",
+          "long": "sepotong kain yang panjang dan sempit diikat di sekeliling kerah, terutama yang dikenakan oleh laki -laki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382213.jpeg",
+      "simplified": "领带",
+      "traditional": "領帶",
+      "pinyin": "lǐngdài"
+    },
+    {
+      "id": 382214,
+      "translation": {
+        "en": {
+          "short": "suit",
+          "long": "a jacket with a pair of pants or a skirt that are made from the same cloth and should be worn together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setelan",
+          "long": "jaket dengan celana atau rok yang terbuat dari kain yang sama dan harus dikenakan bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382214.jpeg",
+      "simplified": "全套套装",
+      "traditional": "全套套裝",
+      "pinyin": "quántào tàozhuāng"
+    },
+    {
+      "id": 382215,
+      "translation": {
+        "en": {
+          "short": "pajamas",
+          "long": "a loose jacket or shirt and pants worn in bed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piyama",
+          "long": "jaket longgar atau kemeja dan celana yang dikenakan di tempat tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382215.jpeg",
+      "simplified": "睡衣",
+      "traditional": "睡衣",
+      "pinyin": "shuìyī"
+    },
+    {
+      "id": 382216,
+      "translation": {
+        "en": {
+          "short": "lingerie",
+          "long": "women's underwear, sleepwear and light robes worn in bed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pakaian dalam",
+          "long": "Jubah pakaian dalam, pakaian tidur dan ringan wanita yang dikenakan di tempat tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382216.jpeg",
+      "simplified": "女用贴身内衣裤",
+      "traditional": "女用貼身內衣褲",
+      "pinyin": "nǚ yòng tiēshēn nèiyī kù"
+    },
+    {
+      "id": 382217,
+      "translation": {
+        "en": {
+          "short": "bathrobe",
+          "long": "a long piece of clothing, made from the same material that towels are made of, worn after or before taking a shower or bath",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mantel mandi",
+          "long": "Sepotong pakaian panjang, terbuat dari bahan yang sama dengan handuk yang terbuat dari, dikenakan setelah atau sebelum mandi atau mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382217.jpeg",
+      "simplified": "浴衣",
+      "traditional": "浴衣",
+      "pinyin": "yùyī"
+    },
+    {
+      "id": 382241,
+      "translation": {
+        "en": {
+          "short": "underwear",
+          "long": "clothes that we wear under all the other pieces of clothing right on top of our skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pakaian dalam",
+          "long": "pakaian yang kita kenakan di bawah semua pakaian lain tepat di atas kulit kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382241.jpeg",
+      "simplified": "内衣",
+      "traditional": "內衣",
+      "pinyin": "nèiyī"
+    },
+    {
+      "id": 382243,
+      "translation": {
+        "en": {
+          "short": "bra",
+          "long": "a piece of underwear worn by women to cover and support their breasts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "BH",
+          "long": "sepotong pakaian dalam yang dikenakan oleh wanita untuk menutupi dan mendukung payudara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382243.jpeg",
+      "simplified": "胸罩",
+      "traditional": "胸罩",
+      "pinyin": "xiōngzhào"
+    },
+    {
+      "id": 382244,
+      "translation": {
+        "en": {
+          "short": "suspender",
+          "long": "(used plural) a long narrow band of cloth that is passed over the shoulders used to keep the pants from falling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tali selempang",
+          "long": "(bekas jamak) Pita sempit panjang yang dilewatkan di atas bahu yang digunakan untuk menjaga celana agar tidak jatuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382244.jpeg",
+      "simplified": "背带",
+      "traditional": "背帶",
+      "pinyin": "bēidài"
+    },
+    {
+      "id": 382246,
+      "translation": {
+        "en": {
+          "short": "raincoat",
+          "long": "a long, light coat, typically with a belt, made of water-resistant fabric that keeps us dry in the rain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jas hujan",
+          "long": "Mantel yang panjang dan ringan, biasanya dengan ikat pinggang, terbuat dari kain tahan air yang membuat kita tetap kering di tengah hujan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382246.jpeg",
+      "simplified": "雨衣",
+      "traditional": "雨衣",
+      "pinyin": "yǔyī"
+    },
+    {
+      "id": 382248,
+      "translation": {
+        "en": {
+          "short": "bikini",
+          "long": "two-piece swimsuit worn by women, especially in warmer climates or during beach vacations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bikini",
+          "long": "Baju renang dua potong yang dikenakan oleh wanita, terutama di iklim yang lebih hangat atau selama liburan pantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382248.jpeg",
+      "simplified": "比基尼泳装",
+      "traditional": "比基尼泳裝",
+      "pinyin": "bǐjī ní yǒngzhuāng"
+    },
+    {
+      "id": 382250,
+      "translation": {
+        "en": {
+          "short": "swimsuit",
+          "long": "a piece of clothing worn for swimming, especially by women and girls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baju renang",
+          "long": "Sepotong pakaian yang dikenakan untuk berenang, terutama oleh wanita dan anak perempuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382250.jpeg",
+      "simplified": "泳装",
+      "traditional": "泳裝",
+      "pinyin": "yǒngzhuāng"
+    },
+    {
+      "id": 382252,
+      "translation": {
+        "en": {
+          "short": "cardigan",
+          "long": "a type of jacket that is made of wool, usually has a knitted design, and its front could be closed with buttons or a zipper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cardigan",
+          "long": "Jenis jaket yang terbuat dari wol, biasanya memiliki desain rajutan, dan bagian depannya dapat ditutup dengan tombol atau ritsleting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382252.jpeg",
+      "simplified": "羊毛衣",
+      "traditional": "羊毛衣",
+      "pinyin": "yángmáo yī"
+    },
+    {
+      "id": 382254,
+      "translation": {
+        "en": {
+          "short": "overalls",
+          "long": "a type of casual garment consisting of pants, a chest flap and straps over the shoulders, made of denim or other fabrics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "overall",
+          "long": "Jenis pakaian kasual yang terdiri dari celana, tutup dada dan tali di atas bahu, terbuat dari denim atau kain lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382254.jpeg",
+      "simplified": "工作服",
+      "traditional": "工作服",
+      "pinyin": "gōngzuò fú"
+    },
+    {
+      "id": 382255,
+      "translation": {
+        "en": {
+          "short": "kimono",
+          "long": "a long and loose robe with wide sleeves that is fastened with a sash, originally worn on formal occasions in Japan",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kimono",
+          "long": "Jubah panjang dan longgar dengan lengan lebar yang diikat dengan selempang, awalnya dikenakan pada kesempatan formal di Jepang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382255.jpeg",
+      "simplified": "和服",
+      "traditional": "和服",
+      "pinyin": "héfú"
+    },
+    {
+      "id": 382256,
+      "translation": {
+        "en": {
+          "short": "blazer",
+          "long": "a type of light jacket either worn with pants that do not match or as a uniform by the members of a union, school, club, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaket",
+          "long": "Jenis jaket ringan yang dikenakan dengan celana yang tidak cocok atau sebagai seragam oleh anggota serikat, sekolah, klub, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382256.jpeg",
+      "simplified": "西装外套",
+      "traditional": "西裝外套",
+      "pinyin": "xīzhuāng wàitào"
+    },
+    {
+      "id": 382257,
+      "translation": {
+        "en": {
+          "short": "vest",
+          "long": "a sleeveless piece of clothing that is worn under a jacket and over a shirt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rompi",
+          "long": "sepotong pakaian tanpa lengan yang dikenakan di bawah jaket dan di atas kemeja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382257.jpeg",
+      "simplified": "背心",
+      "traditional": "背心",
+      "pinyin": "bèixīn"
+    },
+    {
+      "id": 382258,
+      "translation": {
+        "en": {
+          "short": "apron",
+          "long": "a piece of clothing that is tied around the waist which protects the front part of the body from stains, dirt, etc. when working",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celemek",
+          "long": "Sepotong pakaian yang diikat di sekitar pinggang yang melindungi bagian depan tubuh dari noda, kotoran, dll. Saat bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382258.jpeg",
+      "simplified": "围裙",
+      "traditional": "圍裙",
+      "pinyin": "wéiqún"
+    },
+    {
+      "id": 382259,
+      "translation": {
+        "en": {
+          "short": "leggings",
+          "long": "stretchy pants that fit the legs closely, usually worn by women",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembalut kaki",
+          "long": "celana melar yang sesuai dengan kaki, biasanya dikenakan oleh wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382259.jpeg",
+      "simplified": "绑腿",
+      "traditional": "綁腿",
+      "pinyin": "bǎngtuǐ"
+    },
+    {
+      "id": 382260,
+      "translation": {
+        "en": {
+          "short": "bandana",
+          "long": "a large piece of cloth with vibrant colors worn around the neck or head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bandana",
+          "long": "sepotong kain besar dengan warna -warna cerah yang dikenakan di sekitar leher atau kepala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382260.jpeg",
+      "simplified": "印花大手帕",
+      "traditional": "印花大手帕",
+      "pinyin": "yìnhuā dà shǒupà"
+    },
+    {
+      "id": 382261,
+      "translation": {
+        "en": {
+          "short": "flip-flop",
+          "long": "a backless sandal, usually made of rubber or plastic, with a V-shaped strap between the big toe and the one next to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flip-flop",
+          "long": "sandal tanpa back, biasanya terbuat dari karet atau plastik, dengan tali berbentuk V antara jempol kaki dan yang di sebelahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382261.jpeg",
+      "simplified": "拖鞋",
+      "traditional": "拖鞋",
+      "pinyin": "tuōxié"
+    },
+    {
+      "id": 382263,
+      "translation": {
+        "en": {
+          "short": "poncho",
+          "long": "a simple, sleeveless outer garment, worn over the body to provide warmth and protection from the elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ponco",
+          "long": "Pakaian luar yang sederhana dan tanpa lengan, dikenakan di atas tubuh untuk memberikan kehangatan dan perlindungan dari unsur -unsur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382263.jpeg",
+      "simplified": "雨披",
+      "traditional": "雨披",
+      "pinyin": "yǔpī"
+    },
+    {
+      "id": 382264,
+      "translation": {
+        "en": {
+          "short": "high heels",
+          "long": "shoes with tall and thin heels, usually worn by women",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepatu hak tinggi",
+          "long": "sepatu dengan sepatu hak tinggi dan tipis, biasanya dikenakan oleh wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382264.jpeg",
+      "simplified": "高跟鞋",
+      "traditional": "高跟鞋",
+      "pinyin": "gāogēn xié"
+    },
+    {
+      "id": 382267,
+      "translation": {
+        "en": {
+          "short": "onesie",
+          "long": "a single garment that combines a top and bottom into a one-piece outfit, typically worn for comfort or as sleepwear",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "onesie",
+          "long": "Pakaian tunggal yang menggabungkan bagian atas dan bawah menjadi pakaian one-piece, biasanya dikenakan untuk kenyamanan atau sebagai pakaian tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382267.jpeg",
+      "simplified": "连体衣",
+      "traditional": "連體衣",
+      "pinyin": "liántǐ yī"
+    },
+    {
+      "id": 382270,
+      "translation": {
+        "en": {
+          "short": "romper",
+          "long": "a one-piece garment that combines a top and shorts or pants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baju monyet",
+          "long": "pakaian one-piece yang menggabungkan atas dan celana pendek atau celana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382270.jpeg",
+      "simplified": "连衣裤",
+      "traditional": "連衣褲",
+      "pinyin": "Lián yī kù"
+    },
+    {
+      "id": 382271,
+      "translation": {
+        "en": {
+          "short": "cloak",
+          "long": "a loose overgarment without sleeves fastened at the neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jubah",
+          "long": "narsar longgar tanpa lengan terikat di leher",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382271.jpeg",
+      "simplified": "披风",
+      "traditional": "披風",
+      "pinyin": "pīfēng"
+    },
+    {
+      "id": 382273,
+      "translation": {
+        "en": {
+          "short": "hoodie",
+          "long": "a piece of clothing such as a sweatshirt or jacket that has a cover for the head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tudung",
+          "long": "Sepotong pakaian seperti kaus atau jaket yang memiliki penutup untuk kepala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382273.jpeg",
+      "simplified": "连帽衫",
+      "traditional": "連帽衫",
+      "pinyin": "Lián mào shān"
+    },
+    {
+      "id": 382275,
+      "translation": {
+        "en": {
+          "short": "sweatpants",
+          "long": "a loose, long, and warm item of clothing with a stretchy waist worn casually or for exercising on the bottom part of our body, usually made of cotton",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celana",
+          "long": "Barang pakaian yang longgar, panjang, dan hangat dengan pinggang elastis yang dikenakan dengan santai atau untuk berolahraga di bagian bawah tubuh kita, biasanya terbuat dari kapas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382275.jpeg",
+      "simplified": "运动裤",
+      "traditional": "運動褲",
+      "pinyin": "yùndòng kù"
+    },
+    {
+      "id": 382280,
+      "translation": {
+        "en": {
+          "short": "tunic",
+          "long": "a hip-length loose-fitting blouse that women wear with pants or a skirt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jubah",
+          "long": "Blus longgar yang longgar yang dikenakan wanita dengan celana atau rok",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382280.jpeg",
+      "simplified": "外衣",
+      "traditional": "外衣",
+      "pinyin": "wàiyī"
+    },
+    {
+      "id": 382281,
+      "translation": {
+        "en": {
+          "short": "overcoat",
+          "long": "a long coat worn in cold weather to keep the body warm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mantel",
+          "long": "Mantel panjang yang dikenakan dalam cuaca dingin untuk menjaga tubuh tetap hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382281.jpeg",
+      "simplified": "大衣",
+      "traditional": "大衣",
+      "pinyin": "dàyī"
+    },
+    {
+      "id": 382282,
+      "translation": {
+        "en": {
+          "short": "sweater",
+          "long": "a piece of clothing worn on the top part of our body that is made of cotton or wool, has long sleeves and a closed front",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sweter",
+          "long": "Sepotong pakaian yang dikenakan di bagian atas tubuh kita yang terbuat dari kapas atau wol, memiliki lengan panjang dan bagian depan tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382282.jpeg",
+      "simplified": "毛线衣",
+      "traditional": "毛線衣",
+      "pinyin": "máoxiàn yī"
+    },
+    {
+      "id": 382194,
+      "translation": {
+        "en": {
+          "short": "pants",
+          "long": "an item of clothing that covers the lower half of our body, from our waist to our ankles, and covers each leg separately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celana",
+          "long": "Barang pakaian yang menutupi bagian bawah tubuh kita, dari pinggang kita ke pergelangan kaki kita, dan menutupi setiap kaki secara terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382194.jpeg",
+      "simplified": "裤子",
+      "traditional": "褲子",
+      "pinyin": "kùzi"
+    },
+    {
+      "id": 382195,
+      "translation": {
+        "en": {
+          "short": "jeans",
+          "long": "pants made of denim, that is a type of strong cotton cloth, and is used for a casual style",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jeans",
+          "long": "Celana terbuat dari denim, itu adalah jenis kain katun yang kuat, dan digunakan untuk gaya santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382195.jpeg",
+      "simplified": "牛仔裤",
+      "traditional": "牛仔褲",
+      "pinyin": "niúzǎi kù"
+    },
+    {
+      "id": 382196,
+      "translation": {
+        "en": {
+          "short": "shorts",
+          "long": "short pants that end either above or at the knees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "celana pendek",
+          "long": "celana pendek yang berakhir di atas atau di lutut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382196.jpeg",
+      "simplified": "短裤",
+      "traditional": "短褲",
+      "pinyin": "duǎnkù"
+    },
+    {
+      "id": 382197,
+      "translation": {
+        "en": {
+          "short": "skirt",
+          "long": "a piece of clothing for girls or women that fastens around the waist and hangs down around the legs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rok",
+          "long": "Sepotong pakaian untuk anak perempuan atau wanita yang mengikat di pinggang dan menggantung di sekitar kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382197.jpeg",
+      "simplified": "裙",
+      "traditional": "裙",
+      "pinyin": "qún"
+    },
+    {
+      "id": 382198,
+      "translation": {
+        "en": {
+          "short": "dress",
+          "long": "a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gaun",
+          "long": "Sepotong pakaian yang dikenakan oleh anak perempuan dan perempuan yang dibuat dalam keadaan utuh dan menutupi tubuh hingga ke kaki tetapi tidak memiliki bagian terpisah untuk setiap kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382198.jpeg",
+      "simplified": "连衣裙",
+      "traditional": "連衣裙",
+      "pinyin": "liányī qún"
+    },
+    {
+      "id": 382199,
+      "translation": {
+        "en": {
+          "short": "blouse",
+          "long": "a shirt for women, typically with a collar, buttons and sleeves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "blus",
+          "long": "Kemeja untuk wanita, biasanya dengan kerah, kancing dan lengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382199.jpeg",
+      "simplified": "衬衫",
+      "traditional": "襯衫",
+      "pinyin": "chènshān"
+    },
+    {
+      "id": 382200,
+      "translation": {
+        "en": {
+          "short": "sweater",
+          "long": "a piece of clothing worn on the top part of our body that is made of cotton or wool, has long sleeves and a closed front",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sweter",
+          "long": "Sepotong pakaian yang dikenakan di bagian atas tubuh kita yang terbuat dari kapas atau wol, memiliki lengan panjang dan bagian depan tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382200.jpeg",
+      "simplified": "毛线衣",
+      "traditional": "毛線衣",
+      "pinyin": "máoxiàn yī"
+    },
+    {
+      "id": 382201,
+      "translation": {
+        "en": {
+          "short": "jacket",
+          "long": "a short item of clothing that we wear on the top part of our body, usually has sleeves and something in the front so we could close it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaket",
+          "long": "Item pendek pakaian yang kami kenakan di bagian atas tubuh kami, biasanya memiliki lengan dan sesuatu di depan sehingga kami bisa menutupnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382201.jpeg",
+      "simplified": "夹克",
+      "traditional": "夾克",
+      "pinyin": "jiākè"
+    },
+    {
+      "id": 382202,
+      "translation": {
+        "en": {
+          "short": "coat",
+          "long": "a piece of clothing with long sleeves, worn outdoors and over other clothes to keep warm or dry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mantel",
+          "long": "Sepotong pakaian dengan lengan panjang, usang di luar ruangan dan di atas pakaian lain agar tetap hangat atau kering",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382202.jpeg",
+      "simplified": "涂层",
+      "traditional": "塗層",
+      "pinyin": "túcéng"
+    },
+    {
+      "id": 382203,
+      "translation": {
+        "en": {
+          "short": "sock",
+          "long": "a soft item of clothing we wear on our feet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaus kaki",
+          "long": "Barang lembut pakaian yang kami pakai di kaki kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382203.jpeg",
+      "simplified": "袜子",
+      "traditional": "襪子",
+      "pinyin": "wàzi"
+    },
+    {
+      "id": 382204,
+      "translation": {
+        "en": {
+          "short": "shoe",
+          "long": "something that we wear to cover and protect our feet, generally made of strong materials like leather or plastic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepatu",
+          "long": "sesuatu yang kita kenakan untuk menutupi dan melindungi kaki kita, umumnya terbuat dari bahan yang kuat seperti kulit atau plastik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382204.jpeg",
+      "simplified": "鞋",
+      "traditional": "鞋",
+      "pinyin": "xié"
+    },
+    {
+      "id": 382205,
+      "translation": {
+        "en": {
+          "short": "sneaker",
+          "long": "a light, soft shoe with a rubber sole, worn for sports or casual occasions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sneaker",
+          "long": "Sepatu ringan dan lembut dengan sol karet, dikenakan untuk olahraga atau acara santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382205.jpeg",
+      "simplified": "运动鞋",
+      "traditional": "運動鞋",
+      "pinyin": "yùndòng xié"
+    },
+    {
+      "id": 382206,
+      "translation": {
+        "en": {
+          "short": "boot",
+          "long": "a type of strong shoe that covers the foot and ankle and often the lower part of the leg",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "boot",
+          "long": "Jenis sepatu kuat yang menutupi kaki dan pergelangan kaki dan seringkali bagian bawah kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382206.jpeg",
+      "simplified": "靴",
+      "traditional": "靴",
+      "pinyin": "xuē"
+    },
+    {
+      "id": 382207,
+      "translation": {
+        "en": {
+          "short": "sandal",
+          "long": "an open shoe that fastens the sole to one's foot with straps, particularly worn when the weather is warm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sandal",
+          "long": "sepatu terbuka yang mengikat satu -satunya ke kaki seseorang dengan tali, terutama dipakai saat cuaca hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382207.jpeg",
+      "simplified": "檀香",
+      "traditional": "檀香",
+      "pinyin": "tánxiāng"
+    }
+  ]
+}

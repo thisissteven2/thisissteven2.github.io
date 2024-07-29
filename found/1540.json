@@ -1,0 +1,906 @@
+{
+  "id": 1540,
+  "title": {
+    "en": "Hair Care",
+    "id": "Perawatan Rambut"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to hair care such as \"brush\", \"crimp\", and \"dye\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan perawatan rambut seperti \"kuas\", \"crimp\", dan \"pewarna\"."
+  },
+  "cards": [
+    {
+      "id": 271566,
+      "translation": {
+        "en": {
+          "short": "to blow-dry",
+          "long": "to blow and dry hair and style it in a particular fashion using a dryer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengeringkan",
+          "long": "untuk meniup dan mengeringkan rambut dan menata dengan cara tertentu menggunakan pengering",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271566.jpeg",
+      "simplified": "吹干",
+      "traditional": "吹乾",
+      "pinyin": "chuīgān"
+    },
+    {
+      "id": 271567,
+      "translation": {
+        "en": {
+          "short": "to brush",
+          "long": "to use a tool to arrange or tidy up your hair",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyikat",
+          "long": "untuk menggunakan alat untuk mengatur atau merapikan rambut Anda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271567.jpeg",
+      "simplified": "刷",
+      "traditional": "刷",
+      "pinyin": "shuā"
+    },
+    {
+      "id": 271569,
+      "translation": {
+        "en": {
+          "short": "to condition",
+          "long": "to put a substance on the hair or skin in order to make it healthy and smooth",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kondisi",
+          "long": "untuk menaruh zat pada rambut atau kulit agar sehat dan halus",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271569.jpeg",
+      "simplified": "造成",
+      "traditional": "造成",
+      "pinyin": "zàochéng"
+    },
+    {
+      "id": 271570,
+      "translation": {
+        "en": {
+          "short": "to crimp",
+          "long": "to make tight curls in someone's hair using a hair iron",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk crimp",
+          "long": "untuk membuat ikal ketat di rambut seseorang menggunakan rambut rambut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271570.jpeg",
+      "simplified": "阻塞",
+      "traditional": "阻塞",
+      "pinyin": "zǔsè"
+    },
+    {
+      "id": 271571,
+      "translation": {
+        "en": {
+          "short": "to crop",
+          "long": "to cut someone's hair short",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "untuk memotong rambut seseorang pendek",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271571.jpeg",
+      "simplified": "修剪",
+      "traditional": "修剪",
+      "pinyin": "xiūjiǎn"
+    },
+    {
+      "id": 271573,
+      "translation": {
+        "en": {
+          "short": "to curl",
+          "long": "to form or shape hair into a series of loops or spirals using a curling iron, rollers, or other styling tools",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meringkuk",
+          "long": "untuk membentuk atau membentuk rambut menjadi serangkaian loop atau spiral menggunakan besi keriting, rol, atau alat penata gaya lainnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271573.jpeg",
+      "simplified": "卷",
+      "traditional": "卷",
+      "pinyin": "juǎn"
+    },
+    {
+      "id": 271574,
+      "translation": {
+        "en": {
+          "short": "to delouse",
+          "long": "to remove lice or similar insects from someone's hair or an animals coating",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk delouse",
+          "long": "untuk menghilangkan kutu atau serangga serupa dari rambut seseorang atau lapisan hewan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271574.jpeg",
+      "simplified": "虱子",
+      "traditional": "蝨子",
+      "pinyin": "shīzi"
+    },
+    {
+      "id": 271575,
+      "translation": {
+        "en": {
+          "short": "to dye",
+          "long": "to change the color of something using a liquid substance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mewarnai",
+          "long": "untuk mengubah warna sesuatu menggunakan zat cair",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271575.jpeg",
+      "simplified": "染",
+      "traditional": "染",
+      "pinyin": "rǎn"
+    },
+    {
+      "id": 271577,
+      "translation": {
+        "en": {
+          "short": "to fix",
+          "long": "(of hair, makeup, or outfit) to rearrange in order to look nice and tidy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memperbaiki",
+          "long": "(rambut, riasan, atau pakaian) untuk disusun kembali agar terlihat bagus dan rapi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271577.jpeg",
+      "simplified": "固定",
+      "traditional": "固定",
+      "pinyin": "gùdìng"
+    },
+    {
+      "id": 271578,
+      "translation": {
+        "en": {
+          "short": "haircut",
+          "long": "the act of cutting hair or having our hair cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "potong rambut",
+          "long": "tindakan memotong rambut atau memotong rambut kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271578.jpeg",
+      "simplified": "理发",
+      "traditional": "理髮",
+      "pinyin": "lǐfà"
+    },
+    {
+      "id": 271579,
+      "translation": {
+        "en": {
+          "short": "hairstyling",
+          "long": "the skill or action of cutting and arranging hair in a beautiful way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hairstyling",
+          "long": "keterampilan atau aksi memotong dan mengatur rambut dengan cara yang indah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271579.jpeg",
+      "simplified": "发型设计",
+      "traditional": "髮型設計",
+      "pinyin": "fàxíng shèjì"
+    },
+    {
+      "id": 271580,
+      "translation": {
+        "en": {
+          "short": "styling",
+          "long": "the action or process of dressing someone's hair in a particular fashion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gaya",
+          "long": "aksi atau proses mendandani rambut seseorang dengan cara tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271580.jpeg",
+      "simplified": "造型",
+      "traditional": "造型",
+      "pinyin": "zàoxíng"
+    },
+    {
+      "id": 271581,
+      "translation": {
+        "en": {
+          "short": "to primp",
+          "long": "to spend time in front of a mirror to arrange hair and fix makeup or appearance in an attractive and elaborate way",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk primp",
+          "long": "menghabiskan waktu di depan cermin untuk mengatur rambut dan memperbaiki riasan atau penampilan dengan cara yang menarik dan rumit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271581.jpeg",
+      "simplified": "到Primp",
+      "traditional": "到Primp",
+      "pinyin": "dào P"
+    },
+    {
+      "id": 271585,
+      "translation": {
+        "en": {
+          "short": "to set",
+          "long": "to arrange wet hair in a way that stays the same after being dried",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengatur",
+          "long": "untuk mengatur rambut basah dengan cara yang tetap sama setelah dikeringkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271585.jpeg",
+      "simplified": "定",
+      "traditional": "定",
+      "pinyin": "dìng"
+    },
+    {
+      "id": 271586,
+      "translation": {
+        "en": {
+          "short": "to trim",
+          "long": "to cut beard, hair, or fur in a neat and orderly manner",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "untuk memotong jenggot, rambut, atau bulu dengan cara yang rapi dan tertib",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271586.jpeg",
+      "simplified": "修剪",
+      "traditional": "修剪",
+      "pinyin": "xiūjiǎn"
+    },
+    {
+      "id": 271587,
+      "translation": {
+        "en": {
+          "short": "grooming",
+          "long": "the activity of keeping tidy and neat by brushing hair, keeping clothes clean, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perawatan diri",
+          "long": "Aktivitas menjaga rapi dan rapi dengan menyikat rambut, menjaga pakaian tetap bersih, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271587.jpeg",
+      "simplified": "修饰",
+      "traditional": "修飾",
+      "pinyin": "xiūshì"
+    },
+    {
+      "id": 271590,
+      "translation": {
+        "en": {
+          "short": "hairdo",
+          "long": "the way in which someone's hair is arranged",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tata rambut",
+          "long": "cara rambut seseorang diatur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271590.jpeg",
+      "simplified": "发式",
+      "traditional": "發式",
+      "pinyin": "fàshì"
+    },
+    {
+      "id": 271591,
+      "translation": {
+        "en": {
+          "short": "to backcomb",
+          "long": "to comb hair in the opposite direction that it naturally lies in order to make it look thicker",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mundur",
+          "long": "untuk menyisir rambut ke arah yang berlawanan yang secara alami terletak untuk membuatnya terlihat lebih tebal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271591.jpeg",
+      "simplified": "回到comb",
+      "traditional": "回到comb",
+      "pinyin": "huídào"
+    },
+    {
+      "id": 271592,
+      "translation": {
+        "en": {
+          "short": "to volumize",
+          "long": "to make hair appear thick and full-bodied",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk volume",
+          "long": "untuk membuat rambut tampak tebal dan bertubuh penuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271592.jpeg",
+      "simplified": "大量",
+      "traditional": "大量",
+      "pinyin": "dàliàng"
+    },
+    {
+      "id": 271594,
+      "translation": {
+        "en": {
+          "short": "to untangle",
+          "long": "to become or to cause something, such as tangled hair, become separated",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menguraikan",
+          "long": "untuk menjadi atau menyebabkan sesuatu, seperti rambut kusut, menjadi terpisah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271594.jpeg",
+      "simplified": "解开",
+      "traditional": "解開",
+      "pinyin": "jiěkāi"
+    },
+    {
+      "id": 271595,
+      "translation": {
+        "en": {
+          "short": "coiffure",
+          "long": "the style in which a person's hair is arranged",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gaya potongan rambut",
+          "long": "Gaya di mana rambut seseorang diatur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271595.jpeg",
+      "simplified": "发型",
+      "traditional": "髮型",
+      "pinyin": "fàxíng"
+    },
+    {
+      "id": 271596,
+      "translation": {
+        "en": {
+          "short": "cut",
+          "long": "the style or the act of cutting someone's hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memotong",
+          "long": "Gaya atau tindakan memotong rambut seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271596.jpeg",
+      "simplified": "伤口",
+      "traditional": "傷口",
+      "pinyin": "shāngkǒu"
+    },
+    {
+      "id": 271598,
+      "translation": {
+        "en": {
+          "short": "to braid",
+          "long": "to twist two or three strands of hair in a way that forms a single intertwined piece",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengepang",
+          "long": "untuk memutar dua atau tiga untaian rambut dengan cara yang membentuk satu bagian yang saling terkait",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271598.jpeg",
+      "simplified": "编织",
+      "traditional": "編織",
+      "pinyin": "biānzhī"
+    },
+    {
+      "id": 271600,
+      "translation": {
+        "en": {
+          "short": "to comb",
+          "long": "to use a tool with narrow, evenly spaced teeth to untangle and arrange hair",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyisir",
+          "long": "untuk menggunakan alat dengan gigi sempit dan merata untuk mengurai dan mengatur rambut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271600.jpeg",
+      "simplified": "梳",
+      "traditional": "梳",
+      "pinyin": "shū"
+    },
+    {
+      "id": 271602,
+      "translation": {
+        "en": {
+          "short": "to gel",
+          "long": "to apply hair gel to someone's hair",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk gel",
+          "long": "untuk mengoleskan gel rambut ke rambut seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271602.jpeg",
+      "simplified": "凝胶",
+      "traditional": "凝膠",
+      "pinyin": "níngjiāo"
+    },
+    {
+      "id": 271603,
+      "translation": {
+        "en": {
+          "short": "to highlight",
+          "long": "to make parts of the hair a shade lighter than the rest using chemical substances",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyoroti",
+          "long": "Untuk membuat bagian rambut lebih ringan dari yang lain menggunakan zat kimia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271603.jpeg",
+      "simplified": "突出",
+      "traditional": "突出",
+      "pinyin": "tūchū"
+    },
+    {
+      "id": 271604,
+      "translation": {
+        "en": {
+          "short": "to layer",
+          "long": "to cut hair at different lengths in a way that forms overlapping layers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melapisi",
+          "long": "untuk memotong rambut dengan panjang yang berbeda dengan cara yang membentuk lapisan yang tumpang tindih",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271604.jpeg",
+      "simplified": "层",
+      "traditional": "層",
+      "pinyin": "céng"
+    },
+    {
+      "id": 271606,
+      "translation": {
+        "en": {
+          "short": "to part",
+          "long": "to divide someone's hair in two parts with a comb creating a line on the scalp",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bagian",
+          "long": "untuk membagi rambut seseorang dalam dua bagian dengan sisir membuat garis di kulit kepala",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271606.jpeg",
+      "simplified": "分开",
+      "traditional": "分開",
+      "pinyin": "fēnkāi"
+    },
+    {
+      "id": 271607,
+      "translation": {
+        "en": {
+          "short": "to perm",
+          "long": "to make a straight hair become curly for a period of time, using chemicals",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk perm",
+          "long": "Untuk membuat rambut lurus menjadi keriting untuk jangka waktu tertentu, menggunakan bahan kimia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271607.jpeg",
+      "simplified": "要墨西哥",
+      "traditional": "要墨西哥",
+      "pinyin": "yāo Mòxī gē"
+    },
+    {
+      "id": 271608,
+      "translation": {
+        "en": {
+          "short": "to plait",
+          "long": "to twist two or three strands of hair in a way that forms a single intertwined piece",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk anyaman",
+          "long": "untuk memutar dua atau tiga untaian rambut dengan cara yang membentuk satu bagian yang saling terkait",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271608.jpeg",
+      "simplified": "编",
+      "traditional": "編",
+      "pinyin": "biān"
+    },
+    {
+      "id": 271616,
+      "translation": {
+        "en": {
+          "short": "to slick back",
+          "long": "to comb or style one's hair by smoothing it away from the face using a grooming product like gel or pomade, creating a sleek and neat appearance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengencang kembali",
+          "long": "untuk menyisir atau menata rambut seseorang dengan menghaluskannya dari wajah menggunakan produk perawatan seperti gel atau pomade, menciptakan penampilan yang ramping dan rapi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271616.jpeg",
+      "simplified": "光滑的背部",
+      "traditional": "光滑的背部",
+      "pinyin": "guānghuá de bèibù"
+    },
+    {
+      "id": 271618,
+      "translation": {
+        "en": {
+          "short": "to scrunch-dry",
+          "long": "to dry hair by gently squeezing or scrunching it to enhance natural curls, waves, or texture",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengeringkan",
+          "long": "untuk mengeringkan rambut dengan meremas dengan lembut atau mengeritingnya untuk meningkatkan ikal alami, gelombang, atau tekstur alami",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271618.jpeg",
+      "simplified": "揉干",
+      "traditional": "揉幹",
+      "pinyin": "róu gān"
+    },
+    {
+      "id": 271620,
+      "translation": {
+        "en": {
+          "short": "to shampoo",
+          "long": "to wash something, like hair or carpets, using a special cleaning solution",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keramas",
+          "long": "Untuk mencuci sesuatu, seperti rambut atau karpet, menggunakan solusi pembersihan khusus",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271620.jpeg",
+      "simplified": "洗发水",
+      "traditional": "洗髮精",
+      "pinyin": "xǐfà shuǐ"
+    },
+    {
+      "id": 271622,
+      "translation": {
+        "en": {
+          "short": "to sleek down",
+          "long": "to use styling products or tools to flatten and tame the hair, making it appear smooth, sleek, and well-groomed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ramping",
+          "long": "untuk menggunakan produk atau alat styling untuk meratakan dan menjinakkan rambut, membuatnya tampak halus, ramping, dan terawat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271622.jpeg",
+      "simplified": "圆滑的",
+      "traditional": "圓滑的",
+      "pinyin": "yuánhuá de"
+    },
+    {
+      "id": 271623,
+      "translation": {
+        "en": {
+          "short": "to slick",
+          "long": "to make someone's hair flat and shiny using water or oil",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk licin",
+          "long": "untuk membuat rambut seseorang rata dan berkilau menggunakan air atau minyak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271623.jpeg",
+      "simplified": "光滑的",
+      "traditional": "光滑的",
+      "pinyin": "guānghuá de"
+    },
+    {
+      "id": 271624,
+      "translation": {
+        "en": {
+          "short": "to streak",
+          "long": "to mark with spots or blotches of different color or shades of color as if stained",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk beruntun",
+          "long": "untuk menandai dengan bintik -bintik atau bercak dengan warna atau warna yang berbeda seolah -olah ternoda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271624.jpeg",
+      "simplified": "弄得满是斑点",
+      "traditional": "弄得滿是斑點",
+      "pinyin": "lòng dé Mǎn shì bāndiǎn"
+    },
+    {
+      "id": 271642,
+      "translation": {
+        "en": {
+          "short": "to tease",
+          "long": "to playfully provoke or create volume and texture in hair through backcombing or backbrushing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menggoda",
+          "long": "untuk memprovokasi atau membuat volume dan tekstur dengan ceria dalam rambut melalui backcombing atau backbrushing",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271642.jpeg",
+      "simplified": "取笑",
+      "traditional": "取笑",
+      "pinyin": "qǔxiào"
+    },
+    {
+      "id": 271643,
+      "translation": {
+        "en": {
+          "short": "to tint",
+          "long": "to color someone's hair using a chemical",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mewarnai",
+          "long": "untuk mewarnai rambut seseorang menggunakan bahan kimia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271643.jpeg",
+      "simplified": "着色",
+      "traditional": "著色",
+      "pinyin": "zhuósè"
+    },
+    {
+      "id": 271644,
+      "translation": {
+        "en": {
+          "short": "to tousle",
+          "long": "to make someone's hair appear untidy or unruly",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk Tousle",
+          "long": "untuk membuat rambut seseorang tampak tidak rapi atau tidak enak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271644.jpeg",
+      "simplified": "弄散乱",
+      "traditional": "弄散亂",
+      "pinyin": "lòng sǎnluàn"
+    },
+    {
+      "id": 271612,
+      "translation": {
+        "en": {
+          "short": "to relax",
+          "long": "to loosen or reduce curl or wave pattern in the hair for a straighter or smoother look, often using heat styling tools or techniques",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersantai",
+          "long": "Untuk melonggarkan atau mengurangi pola ikal atau gelombang di rambut untuk tampilan yang lebih lurus atau lebih halus, sering menggunakan alat atau teknik penataan panas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271612.jpeg",
+      "simplified": "放松",
+      "traditional": "放鬆",
+      "pinyin": "fàngsōng"
+    },
+    {
+      "id": 271669,
+      "translation": {
+        "en": {
+          "short": "to mousse",
+          "long": "to style someone's hair with a light foamy product",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Mousse",
+          "long": "untuk menata rambut seseorang dengan produk berbusa ringan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271669.jpeg",
+      "simplified": "摩丝",
+      "traditional": "摩絲",
+      "pinyin": "mósī"
+    },
+    {
+      "id": 271676,
+      "translation": {
+        "en": {
+          "short": "to sweep",
+          "long": "to brush or comb hair back from the face",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyapu",
+          "long": "untuk menyikat atau menyisir rambut ke belakang dari wajah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271676.jpeg",
+      "simplified": "扫",
+      "traditional": "掃",
+      "pinyin": "sǎo"
+    },
+    {
+      "id": 271677,
+      "translation": {
+        "en": {
+          "short": "to scrunch",
+          "long": "to squeeze the hair with hands to make it look wavy",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengerit",
+          "long": "untuk memeras rambut dengan tangan agar terlihat bergelombang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271677.jpeg",
+      "simplified": "紧缩",
+      "traditional": "緊縮",
+      "pinyin": "jǐnsuō"
+    },
+    {
+      "id": 271696,
+      "translation": {
+        "en": {
+          "short": "haircare",
+          "long": "the practice and products used to maintain the health, cleanliness, and appearance of one's hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perawatan Rambut",
+          "long": "Praktek dan produk yang digunakan untuk menjaga kesehatan, kebersihan, dan penampilan rambut seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271696.jpeg",
+      "simplified": "头发护理",
+      "traditional": "頭髮護理",
+      "pinyin": "tóufa hùlǐ"
+    },
+    {
+      "id": 271700,
+      "translation": {
+        "en": {
+          "short": "to henna",
+          "long": "to apply a natural plant-based dye, typically derived from the henna plant",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Henna",
+          "long": "Untuk menerapkan pewarna nabati alami, biasanya berasal dari tanaman pacar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271700.jpeg",
+      "simplified": "指甲花",
+      "traditional": "指甲花",
+      "pinyin": "zhǐjia Huā"
+    },
+    {
+      "id": 271703,
+      "translation": {
+        "en": {
+          "short": "to pomade",
+          "long": "to apply a scented oil to hair to make it shiny",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pomade",
+          "long": "untuk mengoleskan minyak wangi ke rambut agar mengkilap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/271703.jpeg",
+      "simplified": "涂以润发油",
+      "traditional": "塗以潤髮油",
+      "pinyin": "tú yǐ rùn fā yóu"
+    },
+    {
+      "id": 348654,
+      "translation": {
+        "en": {
+          "short": "to groom",
+          "long": "to clean, style, and maintain one's hair",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pria",
+          "long": "untuk membersihkan, gaya, dan memelihara rambutnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348654.jpeg",
+      "simplified": "培养",
+      "traditional": "培養",
+      "pinyin": "péiyǎng"
+    }
+  ]
+}

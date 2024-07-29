@@ -1,0 +1,621 @@
+{
+  "id": 970,
+  "title": {
+    "en": "Cooking",
+    "id": "Memasak"
+  },
+  "description": {
+    "en": "Here you will learn some English words about cooking, such as \"blend\", \"simmer\", \"whip\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang memasak, seperti \"campuran\", \"dididihkan\", \"cambuk\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 242587,
+      "translation": {
+        "en": {
+          "short": "batter",
+          "long": "a mixture consisting of flour, milk, and eggs, used for making pancakes, or for covering food before frying",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "adonan",
+          "long": "campuran yang terdiri dari tepung, susu, dan telur, digunakan untuk membuat pancake, atau untuk menutupi makanan sebelum menggoreng",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242587.jpeg",
+      "simplified": "棒球击球手",
+      "traditional": "棒球擊球手",
+      "pinyin": "bàngqiú jīqiú shǒu"
+    },
+    {
+      "id": 242591,
+      "translation": {
+        "en": {
+          "short": "to blend",
+          "long": "to combine different substances together",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berbaur",
+          "long": "untuk menggabungkan zat yang berbeda bersama -sama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242591.jpeg",
+      "simplified": "混合",
+      "traditional": "混合",
+      "pinyin": "hùnhé"
+    },
+    {
+      "id": 242596,
+      "translation": {
+        "en": {
+          "short": "to carve",
+          "long": "to cut a piece of cooked meat into smaller pieces",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengukir",
+          "long": "untuk memotong sepotong daging yang dimasak menjadi potongan -potongan kecil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242596.jpeg",
+      "simplified": "将肉切成块",
+      "traditional": "將肉切成塊",
+      "pinyin": "jiāng ròu qiēchéng kuài"
+    },
+    {
+      "id": 242605,
+      "translation": {
+        "en": {
+          "short": "to deep-fry",
+          "long": "to cook food by holding it under oil",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggoreng",
+          "long": "untuk memasak makanan dengan memegangnya di bawah minyak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242605.jpeg",
+      "simplified": "油炸",
+      "traditional": "油炸",
+      "pinyin": "yóuzhá"
+    },
+    {
+      "id": 242606,
+      "translation": {
+        "en": {
+          "short": "to defrost",
+          "long": "to cause something frozen become warmer to melt away the ice or frost",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencairkan",
+          "long": "menyebabkan sesuatu yang beku menjadi lebih hangat untuk melelehkan es atau embun beku",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242606.jpeg",
+      "simplified": "除霜",
+      "traditional": "除霜",
+      "pinyin": "chúshuāng"
+    },
+    {
+      "id": 242607,
+      "translation": {
+        "en": {
+          "short": "to digest",
+          "long": "to break down food in the body and to absorb its nutrients and necessary substances",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencerna",
+          "long": "untuk memecah makanan dalam tubuh dan menyerap nutrisi dan zat yang diperlukan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242607.jpeg",
+      "simplified": "消化",
+      "traditional": "消化",
+      "pinyin": "xiāohuà"
+    },
+    {
+      "id": 242612,
+      "translation": {
+        "en": {
+          "short": "to mash",
+          "long": "to crush food into a soft mass",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tumbuk",
+          "long": "untuk menghancurkan makanan menjadi massa yang lembut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242612.jpeg",
+      "simplified": "将某物变成果泥",
+      "traditional": "將某物變成果泥",
+      "pinyin": "jiāng mǒuwù biànchéng guǒ ní"
+    },
+    {
+      "id": 242614,
+      "translation": {
+        "en": {
+          "short": "to reheat",
+          "long": "to warm previously cooked food",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memanaskan kembali",
+          "long": "untuk menghangatkan makanan yang sebelumnya dimasak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242614.jpeg",
+      "simplified": "重新加热食物",
+      "traditional": "重新加熱食物",
+      "pinyin": "chóngxīn jiārè shíwù"
+    },
+    {
+      "id": 242609,
+      "translation": {
+        "en": {
+          "short": "to grate",
+          "long": "to cut food into small pieces or shreds using a tool with sharp holes",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke GRATE",
+          "long": "untuk memotong makanan menjadi potongan -potongan kecil atau serpihan menggunakan alat dengan lubang yang tajam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242609.jpeg",
+      "simplified": "炉排",
+      "traditional": "爐排",
+      "pinyin": "lú pái"
+    },
+    {
+      "id": 242610,
+      "translation": {
+        "en": {
+          "short": "to grind",
+          "long": "to crush something into small particles by rubbing or pressing it against a hard surface",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggiling",
+          "long": "untuk menghancurkan sesuatu menjadi partikel kecil dengan menggosok atau menekannya ke permukaan yang keras",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242610.jpeg",
+      "simplified": "磨东西",
+      "traditional": "磨東西",
+      "pinyin": "mó dōngxī"
+    },
+    {
+      "id": 242615,
+      "translation": {
+        "en": {
+          "short": "to simmer",
+          "long": "to cook something at a temperature just below boiling, allowing it to bubble gently",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendidih",
+          "long": "Untuk memasak sesuatu pada suhu tepat di bawah mendidih, biarkan itu menggelembung dengan lembut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242615.jpeg",
+      "simplified": "煨",
+      "traditional": "煨",
+      "pinyin": "wēi"
+    },
+    {
+      "id": 242618,
+      "translation": {
+        "en": {
+          "short": "to steam",
+          "long": "to cook using the steam of boiling water",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk uap",
+          "long": "untuk memasak menggunakan uap air mendidih",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242618.jpeg",
+      "simplified": "蒸",
+      "traditional": "蒸",
+      "pinyin": "zhēng"
+    },
+    {
+      "id": 242619,
+      "translation": {
+        "en": {
+          "short": "to stew",
+          "long": "to cook something at a low temperature in liquid in a closed container",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk rebus",
+          "long": "untuk memasak sesuatu pada suhu rendah dalam cairan dalam wadah tertutup",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242619.jpeg",
+      "simplified": "炖",
+      "traditional": "燉",
+      "pinyin": "dùn"
+    },
+    {
+      "id": 242624,
+      "translation": {
+        "en": {
+          "short": "to warm up",
+          "long": "‌to make already cooked food warm again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pemanasan",
+          "long": "‌To membuat makanan yang sudah dimasak menjadi hangat lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242624.jpeg",
+      "simplified": "重新加热食物",
+      "traditional": "重新加熱食物",
+      "pinyin": "chóngxīn jiārè shíwù"
+    },
+    {
+      "id": 242623,
+      "translation": {
+        "en": {
+          "short": "to whip",
+          "long": "to mix ingredients with a wire whisk or fork in cooking or baking to achieve a specific texture",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencambuk",
+          "long": "untuk mencampur bahan dengan kocok kawat atau garpu dalam memasak atau memanggang untuk mencapai tekstur tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242623.jpeg",
+      "simplified": "鞭",
+      "traditional": "鞭",
+      "pinyin": "biān"
+    },
+    {
+      "id": 242625,
+      "translation": {
+        "en": {
+          "short": "to squeeze",
+          "long": "to force liquid out of something by firmly twisting or pressing it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memeras",
+          "long": "untuk memaksa cairan keluar dari sesuatu dengan memelintir atau menekannya dengan kuat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242625.jpeg",
+      "simplified": "挤",
+      "traditional": "擠",
+      "pinyin": "jǐ"
+    },
+    {
+      "id": 242589,
+      "translation": {
+        "en": {
+          "short": "bland",
+          "long": "(of drink or food) having no pleasant or strong flavor",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hambar",
+          "long": "(minuman atau makanan) tidak memiliki rasa yang menyenangkan atau kuat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242589.jpeg",
+      "simplified": "平淡",
+      "traditional": "平淡",
+      "pinyin": "píngdàn"
+    },
+    {
+      "id": 242598,
+      "translation": {
+        "en": {
+          "short": "chunky",
+          "long": "(of food) having large pieces",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Chunky",
+          "long": "(makanan) Memiliki potongan besar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242598.jpeg",
+      "simplified": "（食物）成分大的",
+      "traditional": "（食物）成分大的",
+      "pinyin": "shíwù chéngfèn dà de"
+    },
+    {
+      "id": 242597,
+      "translation": {
+        "en": {
+          "short": "chewy",
+          "long": "(of food) requiring to be chewed a lot in order to be swallowed easily",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kenyal",
+          "long": "(makanan) yang perlu banyak dikunyah agar dapat ditelan dengan mudah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242597.jpeg",
+      "simplified": "耐嚼的",
+      "traditional": "耐嚼的",
+      "pinyin": "nài jiáo de"
+    },
+    {
+      "id": 242602,
+      "translation": {
+        "en": {
+          "short": "creamy",
+          "long": "having a smooth and soft texture like cream",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lembut",
+          "long": "memiliki tekstur seperti krim yang halus dan lembut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242602.jpeg",
+      "simplified": "奶油味的",
+      "traditional": "奶油味的",
+      "pinyin": "nǎiyóu wèi de"
+    },
+    {
+      "id": 242603,
+      "translation": {
+        "en": {
+          "short": "crispy",
+          "long": "(of food) having a pleasant, dry, and hard texture or surface that is easily broken or crushed",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "renyah",
+          "long": "(makanan) Memiliki tekstur atau permukaan yang menyenangkan, kering, dan keras yang mudah rusak atau dihancurkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242603.jpeg",
+      "simplified": "脆的",
+      "traditional": "脆的",
+      "pinyin": "cuì de"
+    },
+    {
+      "id": 242604,
+      "translation": {
+        "en": {
+          "short": "crunchy",
+          "long": "(of food) firm and making a sharp sound when bitten or chewed",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "garing",
+          "long": "(makanan) kencang dan membuat suara tajam saat digigit atau dikunyah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242604.jpeg",
+      "simplified": "脆脆的",
+      "traditional": "脆脆的",
+      "pinyin": "cuìcuì de"
+    },
+    {
+      "id": 242621,
+      "translation": {
+        "en": {
+          "short": "tinned",
+          "long": "(of food) preserved and sold in a can",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "yg dikalengi",
+          "long": "(makanan) diawetkan dan dijual dalam kaleng",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242621.jpeg",
+      "simplified": "罐头的",
+      "traditional": "罐頭的",
+      "pinyin": "guàntou de"
+    },
+    {
+      "id": 242585,
+      "translation": {
+        "en": {
+          "short": "appetite",
+          "long": "the feeling of wanting food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nafsu makan",
+          "long": "perasaan menginginkan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242585.jpeg",
+      "simplified": "食欲",
+      "traditional": "食慾",
+      "pinyin": "shíyù"
+    },
+    {
+      "id": 242586,
+      "translation": {
+        "en": {
+          "short": "banquet",
+          "long": "a large and formal meal for many people, often for a special event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjamuan",
+          "long": "Makanan besar dan formal bagi banyak orang, seringkali untuk acara khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242586.jpeg",
+      "simplified": "宴会",
+      "traditional": "宴會",
+      "pinyin": "yànhuì"
+    },
+    {
+      "id": 242588,
+      "translation": {
+        "en": {
+          "short": "feast",
+          "long": "a meal with fine food or a large meal for many people celebrating a special event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesta",
+          "long": "Makanan dengan makanan enak atau makanan besar bagi banyak orang yang merayakan acara khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242588.jpeg",
+      "simplified": "丰盛的一餐",
+      "traditional": "豐盛的一餐",
+      "pinyin": "fēngshèng de yī cān"
+    },
+    {
+      "id": 242592,
+      "translation": {
+        "en": {
+          "short": "brunch",
+          "long": "a meal served late in the morning, as a combination of breakfast and lunch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarapan siang",
+          "long": "Makanan yang disajikan larut malam, sebagai kombinasi sarapan dan makan siang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242592.jpeg",
+      "simplified": "早吃的午餐",
+      "traditional": "早吃的午餐",
+      "pinyin": "zǎo chīde wǔcān"
+    },
+    {
+      "id": 242594,
+      "translation": {
+        "en": {
+          "short": "buffet",
+          "long": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prasmanan",
+          "long": "makan dengan banyak hidangan dari mana orang melayani diri mereka sendiri di meja dan kemudian makan di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242594.jpeg",
+      "simplified": "自助餐",
+      "traditional": "自助餐",
+      "pinyin": "zìzhù cān"
+    },
+    {
+      "id": 242611,
+      "translation": {
+        "en": {
+          "short": "teatime",
+          "long": "a time in the early evening or afternoon when people have a light meal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teatiime",
+          "long": "waktu di sore atau sore hari saat orang -orang makan ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242611.jpeg",
+      "simplified": "下午茶时间",
+      "traditional": "下午茶時間",
+      "pinyin": "xiàwǔ chá shíjiān"
+    },
+    {
+      "id": 242626,
+      "translation": {
+        "en": {
+          "short": "corkscrew",
+          "long": "a small tool with a pointy spiral metal for pulling out corks from bottles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotrek",
+          "long": "Alat kecil dengan logam spiral runcing untuk mengeluarkan gabus dari botol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242626.jpeg",
+      "simplified": "螺丝锥",
+      "traditional": "螺絲錐",
+      "pinyin": "luósī zhuī"
+    },
+    {
+      "id": 242628,
+      "translation": {
+        "en": {
+          "short": "Glassware",
+          "long": "objects that are made of glass, particularly ones used for eating and drinking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barang pecah belah",
+          "long": "objek yang terbuat dari gelas, terutama yang digunakan untuk makan dan minum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242628.jpeg",
+      "simplified": "玻璃器皿",
+      "traditional": "玻璃器皿",
+      "pinyin": "bōli qìmǐn"
+    },
+    {
+      "id": 242627,
+      "translation": {
+        "en": {
+          "short": "tureen",
+          "long": "a deep dish with a lid, used for serving soup",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangkok sup",
+          "long": "Hidangan dalam dengan tutupnya, digunakan untuk menyajikan sup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242627.jpeg",
+      "simplified": "盖碗",
+      "traditional": "蓋碗",
+      "pinyin": "gàiwǎn"
+    }
+  ]
+}

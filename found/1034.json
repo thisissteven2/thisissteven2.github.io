@@ -1,0 +1,583 @@
+{
+  "id": 1034,
+  "title": {
+    "en": "Astronomy",
+    "id": "Astronomi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about astronomy, such as \"cosmic\", \"comet\", \"dwarf\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang astronomi, seperti \"Cosmic\", \"Comet\", \"Dwarf\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 245049,
+      "translation": {
+        "en": {
+          "short": "aerospace",
+          "long": "the earth's atmosphere and the space beyond it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aerospace",
+          "long": "atmosfer bumi dan ruang di luarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245049.jpeg",
+      "simplified": "航天",
+      "traditional": "航天",
+      "pinyin": "hángtiān"
+    },
+    {
+      "id": 245050,
+      "translation": {
+        "en": {
+          "short": "astrobiology",
+          "long": "a branch of biology that deals with the study of life in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "astrobiologi",
+          "long": "Cabang Biologi yang Berurusan dengan Studi Kehidupan di Luar Angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245050.jpeg",
+      "simplified": "天体生物学",
+      "traditional": "天體生物學",
+      "pinyin": "tiāntǐ shēngwù xué"
+    },
+    {
+      "id": 245051,
+      "translation": {
+        "en": {
+          "short": "atmospheric",
+          "long": "related to the atmosphere of the earth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atmosfer",
+          "long": "terkait dengan atmosfer bumi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245051.jpeg",
+      "simplified": "大气的",
+      "traditional": "大氣的",
+      "pinyin": "dàqì de"
+    },
+    {
+      "id": 245056,
+      "translation": {
+        "en": {
+          "short": "cosmic",
+          "long": "related to the universe and the vast space outside the earth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kosmik",
+          "long": "terkait dengan alam semesta dan ruang yang luas di luar bumi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245056.jpeg",
+      "simplified": "宇宙的",
+      "traditional": "宇宙的",
+      "pinyin": "yǔzhòu de"
+    },
+    {
+      "id": 245060,
+      "translation": {
+        "en": {
+          "short": "full moon",
+          "long": "the complete and round-shaped moon as seen from the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulan purnama",
+          "long": "bulan lengkap dan berbentuk bulat seperti yang terlihat dari bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245060.jpeg",
+      "simplified": "望月",
+      "traditional": "望月",
+      "pinyin": "wàngyuè"
+    },
+    {
+      "id": 245062,
+      "translation": {
+        "en": {
+          "short": "half-moon",
+          "long": "the moon when only half of its bright surface can be seen from the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulan sabit",
+          "long": "bulan ketika hanya setengah dari permukaan terang yang dapat dilihat dari bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245062.jpeg",
+      "simplified": "半月",
+      "traditional": "半月",
+      "pinyin": "bànyuè"
+    },
+    {
+      "id": 245069,
+      "translation": {
+        "en": {
+          "short": "new moon",
+          "long": "the moon when only a small portion of its bright side is visible from the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulan baru",
+          "long": "bulan ketika hanya sebagian kecil dari sisi baiknya yang terlihat dari bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245069.jpeg",
+      "simplified": "新月",
+      "traditional": "新月",
+      "pinyin": "xīnyuè"
+    },
+    {
+      "id": 245061,
+      "translation": {
+        "en": {
+          "short": "to go down",
+          "long": "(of the sun or moon) to go out of sight below the horizon",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke bawah",
+          "long": "(matahari atau bulan) tidak terlihat di bawah cakrawala",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245061.jpeg",
+      "simplified": "环境（太阳或月亮）",
+      "traditional": "環境（太陽或月亮）",
+      "pinyin": "huánjìng tàiyang huò yuèliang"
+    },
+    {
+      "id": 245053,
+      "translation": {
+        "en": {
+          "short": "big bang",
+          "long": "the explosion that, according to most scientists, caused the existence of the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dentuman Besar",
+          "long": "ledakan yang, menurut sebagian besar ilmuwan, menyebabkan keberadaan alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245053.jpeg",
+      "simplified": "大爆炸",
+      "traditional": "大霹靂",
+      "pinyin": "Dàbào zhà"
+    },
+    {
+      "id": 245058,
+      "translation": {
+        "en": {
+          "short": "cosmos",
+          "long": "the universe, particularly when it is thought of as a systematic whole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kosmos",
+          "long": "alam semesta, terutama ketika dianggap sebagai keseluruhan yang sistematis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245058.jpeg",
+      "simplified": "宇宙",
+      "traditional": "宇宙",
+      "pinyin": "yǔzhòu"
+    },
+    {
+      "id": 245077,
+      "translation": {
+        "en": {
+          "short": "celestial body",
+          "long": "any natural object in the space, such as the sun, moon, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benda angkasa",
+          "long": "objek alami apa pun di ruang angkasa, seperti matahari, bulan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245077.jpeg",
+      "simplified": "天文物体",
+      "traditional": "天文物體",
+      "pinyin": "tiānwén wùtǐ"
+    },
+    {
+      "id": 245066,
+      "translation": {
+        "en": {
+          "short": "the Milky Way",
+          "long": "a pale band of light seen in the sky at night that contains the solar system and billions of other stars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bima Sakti",
+          "long": "sekelompok cahaya pucat terlihat di langit di malam hari yang berisi tata surya dan miliaran bintang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245066.jpeg",
+      "simplified": "银河",
+      "traditional": "銀河",
+      "pinyin": "Yínhé"
+    },
+    {
+      "id": 245055,
+      "translation": {
+        "en": {
+          "short": "constellation",
+          "long": "a specific group of stars that form a pattern and have a name related to their shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konstelasi",
+          "long": "sekelompok bintang tertentu yang membentuk pola dan memiliki nama yang terkait dengan bentuknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245055.jpeg",
+      "simplified": "星座",
+      "traditional": "星座",
+      "pinyin": "xīngzuò"
+    },
+    {
+      "id": 245074,
+      "translation": {
+        "en": {
+          "short": "zodiac",
+          "long": "(astronomy) the celestial zone in the sky where the sun, moon, and planets appear to move, traditionally divided into twelve equal segments, each associated with a distinct name and symbol",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zodiak",
+          "long": "(Astronomi) Zona surgawi di langit tempat matahari, bulan, dan planet tampak bergerak, secara tradisional dibagi menjadi dua belas segmen yang sama, masing -masing terkait dengan nama dan simbol yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245074.jpeg",
+      "simplified": "（天文学）天区",
+      "traditional": "（天文學）天區",
+      "pinyin": "tiānwén xué tiān Oū"
+    },
+    {
+      "id": 245054,
+      "translation": {
+        "en": {
+          "short": "comet",
+          "long": "an object in space that is a mass of ice and dust and when it nears the sun it starts illuminating in the shape of a tail",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komet",
+          "long": "sebuah objek di ruang yang merupakan massa es dan debu dan ketika mendekati matahari, ia mulai menerangi bentuk ekor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245054.jpeg",
+      "simplified": "彗星（天文学）",
+      "traditional": "彗星（天文學）",
+      "pinyin": "huìxīng tiānwén xué"
+    },
+    {
+      "id": 245075,
+      "translation": {
+        "en": {
+          "short": "dwarf",
+          "long": "a star that is relatively small in size or mass and is not very bright",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerdil",
+          "long": "Bintang yang relatif kecil dalam ukuran atau massa dan tidak terlalu cerah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245075.jpeg",
+      "simplified": "矮星",
+      "traditional": "矮星",
+      "pinyin": "ǎixīng"
+    },
+    {
+      "id": 245059,
+      "translation": {
+        "en": {
+          "short": "exoplanet",
+          "long": "a planet that is outside the solar system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Exoplanet",
+          "long": "sebuah planet yang berada di luar tata surya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245059.jpeg",
+      "simplified": "系外行星",
+      "traditional": "系外行星",
+      "pinyin": "xì wàiháng xīng"
+    },
+    {
+      "id": 245064,
+      "translation": {
+        "en": {
+          "short": "meteor",
+          "long": "a piece of rock coming from outer space that passes through the Earth's atmosphere, producing light",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meteor",
+          "long": "Sepotong batu yang berasal dari luar angkasa yang melewati atmosfer bumi, menghasilkan cahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245064.jpeg",
+      "simplified": "流星",
+      "traditional": "流星",
+      "pinyin": "liúxīng"
+    },
+    {
+      "id": 245065,
+      "translation": {
+        "en": {
+          "short": "meteorite",
+          "long": "a piece of rock or metal from space that has hit the surface of the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meteorit",
+          "long": "sepotong batu atau logam dari luar angkasa yang telah menghantam permukaan bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245065.jpeg",
+      "simplified": "陨石",
+      "traditional": "隕石",
+      "pinyin": "yǔnshí"
+    },
+    {
+      "id": 245076,
+      "translation": {
+        "en": {
+          "short": "Nebula",
+          "long": "a glowing cloud of gas and dust in outer space, often the result of a star explosion or formation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nebula",
+          "long": "Awan gas dan debu yang bersinar di luar angkasa, seringkali merupakan hasil dari ledakan atau pembentukan bintang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245076.jpeg",
+      "simplified": "星云（气体云）",
+      "traditional": "星雲（氣體雲）",
+      "pinyin": "xīngyún qìtǐ yún"
+    },
+    {
+      "id": 245078,
+      "translation": {
+        "en": {
+          "short": "supernova",
+          "long": "an exploding star that as a result is emitting a very large amount of light, more than the sun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Supernova",
+          "long": "Bintang yang meledak yang akibatnya memancarkan cahaya yang sangat besar, lebih dari matahari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245078.jpeg",
+      "simplified": "超新星",
+      "traditional": "超新星",
+      "pinyin": "chāoxīn xīng"
+    },
+    {
+      "id": 245068,
+      "translation": {
+        "en": {
+          "short": "NASA",
+          "long": "a US government agency responsible for space travel and the study of space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "NASA",
+          "long": "Badan pemerintah AS yang bertanggung jawab atas perjalanan ruang angkasa dan studi ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245068.jpeg",
+      "simplified": "美国宇航局",
+      "traditional": "美國宇航局",
+      "pinyin": "Měiguó Yǔ háng jú"
+    },
+    {
+      "id": 245067,
+      "translation": {
+        "en": {
+          "short": "mission",
+          "long": "an operation carried out in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "misi",
+          "long": "operasi yang dilakukan di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245067.jpeg",
+      "simplified": "空间操作",
+      "traditional": "空間操作",
+      "pinyin": "kōngjiān cāozuò"
+    },
+    {
+      "id": 245057,
+      "translation": {
+        "en": {
+          "short": "cosmonaut",
+          "long": "an astronaut from Russia or the former Soviet Union",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kosmonot",
+          "long": "seorang astronot dari Rusia atau bekas Uni Soviet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245057.jpeg",
+      "simplified": "俄罗斯宇航员",
+      "traditional": "俄羅斯宇航員",
+      "pinyin": "E2luó sī yǔháng yuán"
+    },
+    {
+      "id": 245063,
+      "translation": {
+        "en": {
+          "short": "to lift off",
+          "long": "(of a spacecraft or aircraft) to leave the ground, particularly vertically",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengangkat",
+          "long": "(dari pesawat ruang angkasa atau pesawat) untuk meninggalkan tanah, terutama secara vertikal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245063.jpeg",
+      "simplified": "提起",
+      "traditional": "提起",
+      "pinyin": "tíqǐ"
+    },
+    {
+      "id": 245052,
+      "translation": {
+        "en": {
+          "short": "axis",
+          "long": "an imaginary line in the middle of an object around which the object revolves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumbu",
+          "long": "Garis imajiner di tengah objek di mana objek berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245052.jpeg",
+      "simplified": "旋转轴",
+      "traditional": "旋轉軸",
+      "pinyin": "xuánzhuǎn zhóu"
+    },
+    {
+      "id": 245070,
+      "translation": {
+        "en": {
+          "short": "rotation",
+          "long": "the action of circular movement around a fixed point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rotasi",
+          "long": "aksi gerakan melingkar di sekitar titik tetap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245070.jpeg",
+      "simplified": "自转",
+      "traditional": "自轉",
+      "pinyin": "zìzhuàn"
+    },
+    {
+      "id": 245071,
+      "translation": {
+        "en": {
+          "short": "space shuttle",
+          "long": "a vehicle designed and used to go to space and return multiple times",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ulang -alik",
+          "long": "kendaraan yang dirancang dan digunakan untuk pergi ke luar angkasa dan kembali beberapa kali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245071.jpeg",
+      "simplified": "航天飞机",
+      "traditional": "太空梭",
+      "pinyin": "hángtiān fēi jī"
+    },
+    {
+      "id": 245072,
+      "translation": {
+        "en": {
+          "short": "unidentified flying object",
+          "long": "a mysterious object that some people claim to have seen flying around in the sky and assume that it is a spaceship from another world",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "objek terbang yang tidak dikenal",
+          "long": "objek misterius yang diklaim beberapa orang telah melihat terbang di langit dan menganggap bahwa itu adalah pesawat ruang angkasa dari dunia lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245072.jpeg",
+      "simplified": "飞碟",
+      "traditional": "飛碟",
+      "pinyin": "fēidié"
+    },
+    {
+      "id": 245073,
+      "translation": {
+        "en": {
+          "short": "weightless",
+          "long": "having or seeming to have no or little weight, caused by the absence of gravity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tanpa bobot",
+          "long": "memiliki atau tampaknya tidak memiliki atau sedikit berat, disebabkan oleh tidak adanya gravitasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245073.jpeg",
+      "simplified": "失重的",
+      "traditional": "失重的",
+      "pinyin": "shīzhòng de"
+    }
+  ]
+}

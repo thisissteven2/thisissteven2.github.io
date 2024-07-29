@@ -1,0 +1,773 @@
+{
+  "id": 5892,
+  "title": {
+    "en": "Geology",
+    "id": "Geologi"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to geology, such as \"temblor\", \"sediment\", \"quarry\", etc. that you will need to ace your SATs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan geologi, seperti \"Temblor\", \"sedimen\", \"tambang\", dll. Yang Anda perlukan untuk Ace Sats Anda."
+  },
+  "cards": [
+    {
+      "id": 396372,
+      "translation": {
+        "en": {
+          "short": "geologist",
+          "long": "a scientist who studies the Earth's structure, composition, processes, and history, including rocks, minerals, fossils, and geological phenomena",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli geologi",
+          "long": "Seorang ilmuwan yang mempelajari struktur, komposisi, proses, dan sejarah bumi, termasuk batu, mineral, fosil, dan fenomena geologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396372.jpeg",
+      "simplified": "地质学家",
+      "traditional": "地質學家",
+      "pinyin": "dìzhì xué jiā"
+    },
+    {
+      "id": 396423,
+      "translation": {
+        "en": {
+          "short": "seismologist",
+          "long": "a scientist who specializes in the study of earthquakes and seismic waves, investigating their causes, effects, and patterns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seismolog",
+          "long": "Seorang ilmuwan yang berspesialisasi dalam studi tentang gempa bumi dan gelombang seismik, menyelidiki penyebab, efek, dan pola mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396423.jpeg",
+      "simplified": "地震学家",
+      "traditional": "地震學家",
+      "pinyin": "dìzhèn xué jiā"
+    },
+    {
+      "id": 396424,
+      "translation": {
+        "en": {
+          "short": "epicenter",
+          "long": "the point on the surface of the earth vertically above the focus of an earthquake where its effects are felt most strongly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Epicenter",
+          "long": "Titik di permukaan bumi secara vertikal di atas fokus gempa bumi di mana efeknya terasa paling kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396424.jpeg",
+      "simplified": "震中心",
+      "traditional": "震中心",
+      "pinyin": "zhènzhōng xīn"
+    },
+    {
+      "id": 396425,
+      "translation": {
+        "en": {
+          "short": "temblor",
+          "long": "an earthquake caused by underground movement or volcanic activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gempa bumi",
+          "long": "gempa bumi yang disebabkan oleh pergerakan bawah tanah atau aktivitas gunung berapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396425.jpeg",
+      "simplified": "Temblor",
+      "traditional": "Temblor",
+      "pinyin": "T"
+    },
+    {
+      "id": 396426,
+      "translation": {
+        "en": {
+          "short": "tremor",
+          "long": "a small or slight earthquake",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "getaran",
+          "long": "gempa kecil atau sedikit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396426.jpeg",
+      "simplified": "震",
+      "traditional": "震",
+      "pinyin": "zhèn"
+    },
+    {
+      "id": 396331,
+      "translation": {
+        "en": {
+          "short": "volcanology",
+          "long": "a branch of geology that focuses on the study of volcanoes, volcanic activity, and related phenomena",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vulkanologi",
+          "long": "Cabang geologi yang berfokus pada studi tentang gunung berapi, aktivitas gunung berapi, dan fenomena terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396331.jpeg",
+      "simplified": "火山学",
+      "traditional": "火山學",
+      "pinyin": "huǒshān xué"
+    },
+    {
+      "id": 396328,
+      "translation": {
+        "en": {
+          "short": "eruption",
+          "long": "the sudden outburst of lava and steam from a volcanic mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "letusan",
+          "long": "ledakan lava dan uap yang tiba -tiba dari gunung vulkanik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396328.jpeg",
+      "simplified": "火山爆发",
+      "traditional": "火山爆發",
+      "pinyin": "huǒshān bào fā"
+    },
+    {
+      "id": 396330,
+      "translation": {
+        "en": {
+          "short": "shield volcano",
+          "long": "a type of broad, gently sloping volcano formed by the eruption of low-viscosity basaltic lava",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perisai Gunung Berapi",
+          "long": "Jenis gunung berapi yang luas dan miring dengan lembut dibentuk oleh letusan lava basaltik viskositas rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396330.jpeg",
+      "simplified": "盾状火山",
+      "traditional": "盾狀火山",
+      "pinyin": "dùn zhuàng huǒshān"
+    },
+    {
+      "id": 396333,
+      "translation": {
+        "en": {
+          "short": "caldera",
+          "long": "a large, basin-shaped volcanic crater formed by the collapse of a volcano after a massive eruption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Caldera",
+          "long": "Sebuah kawah gunung berapi besar berbentuk cekungan yang dibentuk oleh runtuhnya gunung berapi setelah letusan besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396333.jpeg",
+      "simplified": "喷火口形盘层",
+      "traditional": "噴火口形盤層",
+      "pinyin": "pēnhuǒ kǒu xíng pán céng"
+    },
+    {
+      "id": 396332,
+      "translation": {
+        "en": {
+          "short": "magma",
+          "long": "liquid or semi-liquid rock that exists under the earth's surface with an extremely hot temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "magma",
+          "long": "batuan cair atau semi-cair yang ada di bawah permukaan bumi dengan suhu yang sangat panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396332.jpeg",
+      "simplified": "岩浆",
+      "traditional": "岩漿",
+      "pinyin": "yánjiāng"
+    },
+    {
+      "id": 396337,
+      "translation": {
+        "en": {
+          "short": "sediment",
+          "long": "particles of rock, minerals, or organic materials that have been transported by wind, water, or ice, and deposited in layers on the Earth's surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "endapan",
+          "long": "Partikel -partikel batuan, mineral, atau bahan organik yang telah diangkut oleh angin, air, atau es, dan diendapkan berlapis -lapis di permukaan bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396337.jpeg",
+      "simplified": "沉淀",
+      "traditional": "沉澱",
+      "pinyin": "chéndiàn"
+    },
+    {
+      "id": 396338,
+      "translation": {
+        "en": {
+          "short": "outcrop",
+          "long": "a visible exposure of rock or geological strata at the Earth's surface, often occurring on hillsides, cliffs, or other elevated areas, providing insight into the underlying geological structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "singkapan",
+          "long": "Paparan batu atau strata geologis yang terlihat di permukaan bumi, sering terjadi di lereng bukit, tebing, atau daerah yang ditinggikan lainnya, memberikan wawasan tentang struktur geologis yang mendasarinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396338.jpeg",
+      "simplified": "露头",
+      "traditional": "露頭",
+      "pinyin": "lòutóu"
+    },
+    {
+      "id": 396339,
+      "translation": {
+        "en": {
+          "short": "geothermal",
+          "long": "connected with or produced by the heat inside the earth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas bumi",
+          "long": "terhubung dengan atau diproduksi oleh panas di dalam bumi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396339.jpeg",
+      "simplified": "地热",
+      "traditional": "地熱",
+      "pinyin": "dìrè"
+    },
+    {
+      "id": 396341,
+      "translation": {
+        "en": {
+          "short": "basin",
+          "long": "a large, bowl-shaped depression or low-lying area on the Earth's surface, typically surrounded by higher landforms and often filled with sedimentary deposits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baskom",
+          "long": "Depresi besar, berbentuk mangkuk atau area dataran rendah di permukaan bumi, biasanya dikelilingi oleh lahan yang lebih tinggi dan sering diisi dengan endapan sedimen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396341.jpeg",
+      "simplified": "盆地",
+      "traditional": "盆地",
+      "pinyin": "péndì"
+    },
+    {
+      "id": 396343,
+      "translation": {
+        "en": {
+          "short": "continental crust",
+          "long": "the thick, buoyant part of the Earth's crust that forms the continents, composed mainly of granitic rocks and less dense than oceanic crust",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kerak Kontinental",
+          "long": "Bagian tebal dan apung dari kerak bumi yang membentuk benua, sebagian besar terdiri dari batuan granit dan kurang padat daripada kerak samudera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396343.jpeg",
+      "simplified": "大陆地壳",
+      "traditional": "大陸地殼",
+      "pinyin": "Dàlù dìqiào"
+    },
+    {
+      "id": 396345,
+      "translation": {
+        "en": {
+          "short": "paleocontinent",
+          "long": "a landmass that existed in the geological past",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paleocontinent",
+          "long": "sebuah daratan yang ada di masa lalu geologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396345.jpeg",
+      "simplified": "古大陆",
+      "traditional": "古大陸",
+      "pinyin": "Gǔ Dàlù"
+    },
+    {
+      "id": 396347,
+      "translation": {
+        "en": {
+          "short": "subduction",
+          "long": "a geological process where one tectonic plate moves under another and sinks into the Earth's mantle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subduksi",
+          "long": "Proses geologis di mana satu lempeng tektonik bergerak di bawah yang lain dan tenggelam ke mantel bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396347.jpeg",
+      "simplified": "俯冲",
+      "traditional": "俯衝",
+      "pinyin": "fǔchōng"
+    },
+    {
+      "id": 396348,
+      "translation": {
+        "en": {
+          "short": "mantle",
+          "long": "the region of the Earth's interior, lying beneath the crust and extending to the outer core, composed of solid rock that can deform and flow over geological time scales",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mantel",
+          "long": "Wilayah bagian dalam bumi, terletak di bawah kerak dan memanjang ke inti luar, terdiri dari batuan padat yang dapat merusak dan mengalir di atas skala waktu geologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396348.jpeg",
+      "simplified": "斗篷",
+      "traditional": "斗篷",
+      "pinyin": "dǒupeng"
+    },
+    {
+      "id": 396352,
+      "translation": {
+        "en": {
+          "short": "quarry",
+          "long": "a site where large quantities of rock, stone, or minerals are extracted from the Earth's crust for industrial use or construction purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambang",
+          "long": "Situs di mana sejumlah besar batu, batu, atau mineral diekstraksi dari kerak bumi untuk penggunaan industri atau konstruksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396352.jpeg",
+      "simplified": "采石场",
+      "traditional": "採石場",
+      "pinyin": "cǎishí chǎng"
+    },
+    {
+      "id": 396353,
+      "translation": {
+        "en": {
+          "short": "fault",
+          "long": "a fracture or zone of fractures between two blocks of rock, along which there has been significant displacement due to tectonic forces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan",
+          "long": "fraktur atau zona patah tulang antara dua blok batu, di mana ada perpindahan yang signifikan karena kekuatan tektonik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396353.jpeg",
+      "simplified": "故障",
+      "traditional": "故障",
+      "pinyin": "gùzhàng"
+    },
+    {
+      "id": 396354,
+      "translation": {
+        "en": {
+          "short": "bedrock",
+          "long": "solid rock beneath surface materials, forming the Earth's crust foundation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bedrock",
+          "long": "Batuan padat di bawah bahan permukaan, membentuk fondasi kerak bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396354.jpeg",
+      "simplified": "基岩",
+      "traditional": "基岩",
+      "pinyin": "jīyán"
+    },
+    {
+      "id": 396355,
+      "translation": {
+        "en": {
+          "short": "shale",
+          "long": "a type of fine-grained sedimentary rock made from compacted clay or mud particles, known for its ability to split into thin layers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "serpih",
+          "long": "Jenis batuan sedimen berbutir halus yang terbuat dari tanah liat atau partikel lumpur yang dipadatkan, dikenal karena kemampuannya untuk dibagi menjadi lapisan tipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396355.jpeg",
+      "simplified": "页岩",
+      "traditional": "頁岩",
+      "pinyin": "yèyán"
+    },
+    {
+      "id": 396356,
+      "translation": {
+        "en": {
+          "short": "basalt",
+          "long": "a type of dark, fine-grained igneous rock formed from cooled lava, characterized by its dense composition and typically dark gray to black color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "basal",
+          "long": "Jenis batuan beku gelap dan berbutir halus dari lava dingin, ditandai dengan komposisi padat dan biasanya berwarna abu-abu gelap hingga hitam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396356.jpeg",
+      "simplified": "玄武岩",
+      "traditional": "玄武岩",
+      "pinyin": "xuánwǔ yán"
+    },
+    {
+      "id": 396358,
+      "translation": {
+        "en": {
+          "short": "index fossil",
+          "long": "a fossilized organism that is useful for dating and correlating the strata in which it is found, typically indicative of a particular time period in Earth's geological history",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Indeks Fosil",
+          "long": "Organisme fosil yang berguna untuk berkencan dan mengkorelasikan strata di mana ia ditemukan, biasanya menunjukkan periode waktu tertentu dalam sejarah geologi Bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396358.jpeg",
+      "simplified": "索引化石",
+      "traditional": "索引化石",
+      "pinyin": "suǒyǐn huàshí"
+    },
+    {
+      "id": 396359,
+      "translation": {
+        "en": {
+          "short": "intrusion",
+          "long": "(geology) the injection of magma into existing rock formations underground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intrusi",
+          "long": "(Geologi) Suntikan magma ke formasi batuan yang ada di bawah tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396359.jpeg",
+      "simplified": "入侵",
+      "traditional": "入侵",
+      "pinyin": "rùqīn"
+    },
+    {
+      "id": 396361,
+      "translation": {
+        "en": {
+          "short": "radiometric dating",
+          "long": "a method used to determine the age of rocks and minerals by measuring the decay of radioactive isotopes present in them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kencan radiometrik",
+          "long": "Metode yang digunakan untuk menentukan usia batu dan mineral dengan mengukur pembusukan isotop radioaktif yang ada di dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396361.jpeg",
+      "simplified": "放射性测年",
+      "traditional": "放射性測年",
+      "pinyin": "fàngshè xìng cè Nián"
+    },
+    {
+      "id": 396362,
+      "translation": {
+        "en": {
+          "short": "igneous",
+          "long": "(of rock) formed from cooled magma or lava",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berapi",
+          "long": "(dari batu) yang terbentuk dari magma atau lava yang didinginkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396362.jpeg",
+      "simplified": "火成岩",
+      "traditional": "火成岩",
+      "pinyin": "huǒchéng yán"
+    },
+    {
+      "id": 396363,
+      "translation": {
+        "en": {
+          "short": "metamorphic",
+          "long": "related to rocks transformed by intense heat, pressure, or chemical processes, altering their mineral composition and texture",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Metamorfik",
+          "long": "Terkait dengan batuan yang diubah oleh panas, tekanan, atau proses kimia yang intens, mengubah komposisi dan tekstur mineral mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396363.jpeg",
+      "simplified": "变质的",
+      "traditional": "變質的",
+      "pinyin": "biànzhì de"
+    },
+    {
+      "id": 396364,
+      "translation": {
+        "en": {
+          "short": "tectonic",
+          "long": "relating to the movement and arrangement of the Earth's crust",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tektonik",
+          "long": "berkaitan dengan gerakan dan pengaturan kerak bumi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396364.jpeg",
+      "simplified": "构造的",
+      "traditional": "構造的",
+      "pinyin": "gòuzào de"
+    },
+    {
+      "id": 396365,
+      "translation": {
+        "en": {
+          "short": "to smelt",
+          "long": "to extract metal from its ore by heating and melting it in a furnace",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencium",
+          "long": "untuk mengekstrak logam dari bijihnya dengan memanaskan dan mencairkannya di tungku",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396365.jpeg",
+      "simplified": "冶炼",
+      "traditional": "冶煉",
+      "pinyin": "yěliàn"
+    },
+    {
+      "id": 396366,
+      "translation": {
+        "en": {
+          "short": "slag",
+          "long": "the byproduct of smelting ore that forms a glass-like material, often found as a residue in mining and metalworking activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terak",
+          "long": "Produk sampingan bijih peleburan yang membentuk bahan seperti kaca, sering ditemukan sebagai residu dalam aktivitas penambangan dan pengerjaan logam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396366.jpeg",
+      "simplified": "矿渣",
+      "traditional": "礦渣",
+      "pinyin": "kuàngzhā"
+    },
+    {
+      "id": 396367,
+      "translation": {
+        "en": {
+          "short": "mesozoic",
+          "long": "the period of time from about 252 to 66 million years ago, characterized by the dominance of dinosaurs and the gradual breakup of the supercontinent Pangaea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mesozoikum",
+          "long": "Periode waktu dari sekitar 252 hingga 66 juta tahun yang lalu, ditandai dengan dominasi dinosaurus dan perpisahan bertahap dari pangea superkontinen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396367.jpeg",
+      "simplified": "中生代",
+      "traditional": "中生代",
+      "pinyin": "Zhōngshēng dài"
+    },
+    {
+      "id": 396357,
+      "translation": {
+        "en": {
+          "short": "granite",
+          "long": "a durable and visually appealing natural rock used for countertops, flooring, and other architectural applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "granit",
+          "long": "Batuan alami yang tahan lama dan menarik secara visual yang digunakan untuk countertops, lantai, dan aplikasi arsitektur lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396357.jpeg",
+      "simplified": "花岗岩",
+      "traditional": "花崗岩",
+      "pinyin": "huāgāng yán"
+    },
+    {
+      "id": 396334,
+      "translation": {
+        "en": {
+          "short": "quartzite",
+          "long": "a tough type of rock that starts as sandstone but changes under intense heat and pressure underground, becoming very hard and durable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuarsit",
+          "long": "Jenis batu yang sulit yang dimulai sebagai batu pasir tetapi berubah di bawah panas dan tekanan yang intens di bawah tanah, menjadi sangat keras dan tahan lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396334.jpeg",
+      "simplified": "石英岩",
+      "traditional": "石英岩",
+      "pinyin": "shíyīng yán"
+    },
+    {
+      "id": 396371,
+      "translation": {
+        "en": {
+          "short": "argillite",
+          "long": "a type of rock formed from clay minerals that have been compressed and hardened over time, creating a dense and often smooth-textured material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "argillite",
+          "long": "Jenis batuan yang terbentuk dari mineral tanah liat yang telah dikompresi dan dikeraskan dari waktu ke waktu, menciptakan bahan yang padat dan sering kali bertekstur halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396371.jpeg",
+      "simplified": "泥质岩",
+      "traditional": "泥質岩",
+      "pinyin": "nízhì yán"
+    },
+    {
+      "id": 396368,
+      "translation": {
+        "en": {
+          "short": "olivine",
+          "long": "a mineral with a greenish hue, commonly found in igneous rocks like basalt and peridotite, known for its high magnesium and iron content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "olivin",
+          "long": "Mineral dengan rona kehijauan, biasanya ditemukan di batuan beku seperti basal dan peridotit, yang dikenal karena magnesium tinggi dan kandungan besi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396368.jpeg",
+      "simplified": "黄绿",
+      "traditional": "黃綠",
+      "pinyin": "huánglǜ"
+    },
+    {
+      "id": 396350,
+      "translation": {
+        "en": {
+          "short": "limestone",
+          "long": "a hard gray or white rock that contains calcium and is used for making cement or as a building material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu gamping",
+          "long": "batu abu -abu atau putih keras yang mengandung kalsium dan digunakan untuk membuat semen atau sebagai bahan bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396350.jpeg",
+      "simplified": "石灰石",
+      "traditional": "石灰石",
+      "pinyin": "shíhuī shí"
+    },
+    {
+      "id": 396369,
+      "translation": {
+        "en": {
+          "short": "pyroxene",
+          "long": "a group of minerals found in igneous and metamorphic rocks, typically dark in color and composed of silica, magnesium, and iron",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piroksen",
+          "long": "Sekelompok mineral yang ditemukan di batuan beku dan metamorf, biasanya berwarna gelap dan terdiri dari silika, magnesium, dan besi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396369.jpeg",
+      "simplified": "辉石",
+      "traditional": "輝石",
+      "pinyin": "huīshí"
+    },
+    {
+      "id": 396351,
+      "translation": {
+        "en": {
+          "short": "kaolinite",
+          "long": "a soft, white clay mineral formed from the weathering of aluminum-rich rocks, used widely in ceramics, paper production, and as a filler in some medications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kaolinite",
+          "long": "Mineral tanah liat putih yang lembut terbentuk dari pelapukan batuan kaya aluminium, digunakan secara luas dalam keramik, produksi kertas, dan sebagai pengisi dalam beberapa obat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396351.jpeg",
+      "simplified": "高岭石",
+      "traditional": "高嶺石",
+      "pinyin": "Gāo líng Shí"
+    },
+    {
+      "id": 396370,
+      "translation": {
+        "en": {
+          "short": "feldspar",
+          "long": "a group of minerals that are the most abundant components in the Earth's crust, known for their hardness and varied colors, often used in ceramics and glassmaking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "feldspar",
+          "long": "Sekelompok mineral yang merupakan komponen paling berlimpah di kerak bumi, yang dikenal karena kekerasan dan warna -warna yang bervariasi, sering digunakan dalam keramik dan pembuatan kaca",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396370.jpeg",
+      "simplified": "长石",
+      "traditional": "長石",
+      "pinyin": "chángshí"
+    }
+  ]
+}

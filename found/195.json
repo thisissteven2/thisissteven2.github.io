@@ -1,0 +1,640 @@
+{
+  "id": 195,
+  "title": {
+    "en": "Outer Space",
+    "id": "Luar angkasa"
+  },
+  "description": {
+    "en": "Here you will learn some English words about outer space, such as \"alien\", \"universe\", \"asteroid\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang luar angkasa, seperti \"alien\", \"alam semesta\", \"asteroid\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 214392,
+      "translation": {
+        "en": {
+          "short": "alien",
+          "long": "a creature that is believed to exist in other worlds or planets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asing",
+          "long": "makhluk yang diyakini ada di dunia atau planet lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214392.jpeg",
+      "simplified": "外星人",
+      "traditional": "外星人",
+      "pinyin": "wàixīng rén"
+    },
+    {
+      "id": 214420,
+      "translation": {
+        "en": {
+          "short": "space",
+          "long": "the universe beyond the atmosphere of the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang angkasa",
+          "long": "alam semesta di luar atmosfer bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214420.jpeg",
+      "simplified": "空间",
+      "traditional": "空間",
+      "pinyin": "kōngjiān"
+    },
+    {
+      "id": 214419,
+      "translation": {
+        "en": {
+          "short": "outer space",
+          "long": "the space outside the earth's atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "luar angkasa",
+          "long": "ruang di luar atmosfer bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214419.jpeg",
+      "simplified": "外太空",
+      "traditional": "外太空",
+      "pinyin": "wàitài kōng"
+    },
+    {
+      "id": 214412,
+      "translation": {
+        "en": {
+          "short": "universe",
+          "long": "all that exists in the physical world, such as space, planets, galaxies, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semesta",
+          "long": "Semua itu ada di dunia fisik, seperti ruang, planet, galaksi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214412.jpeg",
+      "simplified": "宇宙",
+      "traditional": "宇宙",
+      "pinyin": "yǔzhòu"
+    },
+    {
+      "id": 214395,
+      "translation": {
+        "en": {
+          "short": "asteroid",
+          "long": "any of the rocky bodies orbiting the sun, ranging greatly in diameter, also found in large numbers between Jupiter and Mars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asteroid",
+          "long": "salah satu dari tubuh berbatu yang mengorbit matahari, sangat berdiameter, juga ditemukan dalam jumlah besar antara Jupiter dan Mars",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214395.jpeg",
+      "simplified": "小行星",
+      "traditional": "小行星",
+      "pinyin": "xiǎoxíng xīng"
+    },
+    {
+      "id": 237380,
+      "translation": {
+        "en": {
+          "short": "black hole",
+          "long": "a place in the space with such high gravity that pulls in everything, even light",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lubang hitam",
+          "long": "tempat di ruang dengan gravitasi tinggi yang menarik segalanya, bahkan ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237380.jpeg",
+      "simplified": "太空黑洞",
+      "traditional": "太空黑洞",
+      "pinyin": "tàikōng hēidòng"
+    },
+    {
+      "id": 214398,
+      "translation": {
+        "en": {
+          "short": "galaxy",
+          "long": "a large number of star systems bound together by gravitational force",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "galaksi",
+          "long": "Sejumlah besar sistem bintang yang diikat bersama oleh gaya gravitasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214398.jpeg",
+      "simplified": "星系",
+      "traditional": "星系",
+      "pinyin": "xīngxì"
+    },
+    {
+      "id": 214406,
+      "translation": {
+        "en": {
+          "short": "solar system",
+          "long": "the sun and the group of planets orbiting around it, including the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tata surya",
+          "long": "Matahari dan kelompok planet yang mengorbit di sekitarnya, termasuk bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214406.jpeg",
+      "simplified": "太阳系",
+      "traditional": "太陽系",
+      "pinyin": "tàiyáng xì"
+    },
+    {
+      "id": 237376,
+      "translation": {
+        "en": {
+          "short": "Mercury",
+          "long": "the 1st and smallest planet in the solar system which is the closest to the sun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Air raksa",
+          "long": "planet pertama dan terkecil di tata surya yang paling dekat dengan matahari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237376.jpeg",
+      "simplified": "水星行星",
+      "traditional": "水星行星",
+      "pinyin": "Shuǐxīng xíngxīng"
+    },
+    {
+      "id": 214424,
+      "translation": {
+        "en": {
+          "short": "Venus",
+          "long": "the 2nd planet of the solar system located between Mercury and earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Venus",
+          "long": "Planet ke -2 tata surya yang terletak di antara merkuri dan bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214424.jpeg",
+      "simplified": "金星行星",
+      "traditional": "金星行星",
+      "pinyin": "Jīnxīng xíngxīng"
+    },
+    {
+      "id": 214422,
+      "translation": {
+        "en": {
+          "short": "Mars",
+          "long": "the 4th planet of the solar system located between earth and Jupiter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mars",
+          "long": "Planet ke -4 tata surya yang terletak di antara Bumi dan Jupiter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214422.jpeg",
+      "simplified": "火星行星",
+      "traditional": "火星行星",
+      "pinyin": "Huǒxīng xíngxīng"
+    },
+    {
+      "id": 214423,
+      "translation": {
+        "en": {
+          "short": "Jupiter",
+          "long": "the 5th and the largest planet of the solar system located between Mars and Saturn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jupiter",
+          "long": "Planet ke -5 dan terbesar dari tata surya yang terletak di antara Mars dan Saturnus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214423.jpeg",
+      "simplified": "木星",
+      "traditional": "木星",
+      "pinyin": "Mùxīng"
+    },
+    {
+      "id": 237377,
+      "translation": {
+        "en": {
+          "short": "Saturn",
+          "long": "the 6th planet of the solar system located between Jupiter and Uranus, which has rings around it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Saturnus",
+          "long": "Planet ke -6 tata surya yang terletak di antara Jupiter dan Uranus, yang memiliki cincin di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237377.jpeg",
+      "simplified": "土星",
+      "traditional": "土星",
+      "pinyin": "Tǔxīng"
+    },
+    {
+      "id": 237378,
+      "translation": {
+        "en": {
+          "short": "Uranus",
+          "long": "the 7th planet of the solar system with a blue-green color located between Saturn and Neptune",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Uranus",
+          "long": "Planet ke-7 Tata Surya dengan warna biru-hijau yang terletak di antara Saturnus dan Neptunus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237378.jpeg",
+      "simplified": "天王星行星",
+      "traditional": "天王星行星",
+      "pinyin": "Tiānwáng xīng xíngxīng"
+    },
+    {
+      "id": 237379,
+      "translation": {
+        "en": {
+          "short": "Neptune",
+          "long": "the 8th planet of the solar system with a ring of icy particles around it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Neptunus",
+          "long": "Planet ke -8 tata surya dengan cincin partikel es di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237379.jpeg",
+      "simplified": "海王星",
+      "traditional": "海王星",
+      "pinyin": "Hǎiwáng xīng"
+    },
+    {
+      "id": 214397,
+      "translation": {
+        "en": {
+          "short": "astronomy",
+          "long": "a branch of science that studies space, planets, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "astronomi",
+          "long": "Cabang sains yang mempelajari ruang, planet, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214397.jpeg",
+      "simplified": "天文学",
+      "traditional": "天文學",
+      "pinyin": "tiānwén xué"
+    },
+    {
+      "id": 214396,
+      "translation": {
+        "en": {
+          "short": "astronomer",
+          "long": "a scientist who studies or observes planets, stars, and other happenings in the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli astronomi",
+          "long": "seorang ilmuwan yang mempelajari atau mengamati planet, bintang, dan kejadian lainnya di alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214396.jpeg",
+      "simplified": "天文学家",
+      "traditional": "天文學家",
+      "pinyin": "tiānwén xué jiā"
+    },
+    {
+      "id": 214399,
+      "translation": {
+        "en": {
+          "short": "landing",
+          "long": "the act of an aircraft or spacecraft arriving on the ground or a solid surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendaratan",
+          "long": "tindakan pesawat terbang atau pesawat ruang angkasa tiba di tanah atau permukaan padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214399.jpeg",
+      "simplified": "降落在地面上",
+      "traditional": "降落在地面上",
+      "pinyin": "jiàngluò zàidì miàn shǎng"
+    },
+    {
+      "id": 239821,
+      "translation": {
+        "en": {
+          "short": "outer",
+          "long": "situated on the outside of something else",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luar",
+          "long": "terletak di luar sesuatu yang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239821.jpeg",
+      "simplified": "外",
+      "traditional": "外",
+      "pinyin": "wài"
+    },
+    {
+      "id": 214402,
+      "translation": {
+        "en": {
+          "short": "orbit",
+          "long": "the path an object in the space follows to move around a planet, star, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orbit",
+          "long": "Jalur objek di ruang mengikuti untuk bergerak di sekitar planet, bintang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214402.jpeg",
+      "simplified": "轨道",
+      "traditional": "軌道",
+      "pinyin": "guǐdào"
+    },
+    {
+      "id": 214403,
+      "translation": {
+        "en": {
+          "short": "to orbit",
+          "long": "to move around a star, planet, or a large object in space",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke orbit",
+          "long": "untuk bergerak di sekitar bintang, planet, atau benda besar di luar angkasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214403.jpeg",
+      "simplified": "轨道",
+      "traditional": "軌道",
+      "pinyin": "guǐdào"
+    },
+    {
+      "id": 214404,
+      "translation": {
+        "en": {
+          "short": "rocket",
+          "long": "a spacecraft that moves up by the force of the gases produced when the fuel burns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "roket",
+          "long": "Pesawat ruang angkasa yang bergerak ke atas oleh gaya gas yang diproduksi saat bahan bakar terbakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214404.jpeg",
+      "simplified": "火箭",
+      "traditional": "火箭",
+      "pinyin": "huǒjiàn"
+    },
+    {
+      "id": 214405,
+      "translation": {
+        "en": {
+          "short": "satellite",
+          "long": "an object sent into space to travel around the earth and send or receive information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "satelit",
+          "long": "objek yang dikirim ke luar angkasa untuk bepergian keliling bumi dan mengirim atau menerima informasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214405.jpeg",
+      "simplified": "卫星",
+      "traditional": "衛星",
+      "pinyin": "wèixīng"
+    },
+    {
+      "id": 214400,
+      "translation": {
+        "en": {
+          "short": "to launch",
+          "long": "to send an object, such as a satellite, missile, etc., into space",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "peluncuran",
+          "long": "untuk mengirim objek, seperti satelit, rudal, dll., Ke luar angkasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214400.jpeg",
+      "simplified": "推出",
+      "traditional": "推出",
+      "pinyin": "tuīchū"
+    },
+    {
+      "id": 214410,
+      "translation": {
+        "en": {
+          "short": "takeoff",
+          "long": "the process by which an aircraft leaves the ground and starts to fly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lepas landas",
+          "long": "Proses dimana pesawat meninggalkan tanah dan mulai terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214410.jpeg",
+      "simplified": "起飞（飞机等）",
+      "traditional": "起飛（飛機等）",
+      "pinyin": "qǐfēi fēijī děng"
+    },
+    {
+      "id": 214394,
+      "translation": {
+        "en": {
+          "short": "spacecraft",
+          "long": "a vehicle designed to travel in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ruang angkasa",
+          "long": "kendaraan yang dirancang untuk bepergian di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214394.jpeg",
+      "simplified": "宇宙飞船",
+      "traditional": "太空船",
+      "pinyin": "yǔzhòu fēi chuán"
+    },
+    {
+      "id": 214407,
+      "translation": {
+        "en": {
+          "short": "spaceman",
+          "long": "someone who travels into space, such as an astronaut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angkasawan",
+          "long": "seseorang yang bepergian ke luar angkasa, seperti astronot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214407.jpeg",
+      "simplified": "太空人",
+      "traditional": "太空人",
+      "pinyin": "tàikōng rén"
+    },
+    {
+      "id": 214415,
+      "translation": {
+        "en": {
+          "short": "spaceship",
+          "long": "a kind of spacecraft used by astronauts to explore in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat ruang angkasa",
+          "long": "semacam pesawat ruang angkasa yang digunakan oleh astronot untuk dijelajahi di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214415.jpeg",
+      "simplified": "飞船",
+      "traditional": "飛船",
+      "pinyin": "fēichuán"
+    },
+    {
+      "id": 214416,
+      "translation": {
+        "en": {
+          "short": "space station",
+          "long": "a large structure used as a long-term base for people to stay in space and conduct research",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stasiun ruang angkasa",
+          "long": "Struktur besar yang digunakan sebagai basis jangka panjang bagi orang untuk tetap di luar angkasa dan melakukan penelitian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214416.jpeg",
+      "simplified": "空间站",
+      "traditional": "空間站",
+      "pinyin": "kōngjiān zhàn"
+    },
+    {
+      "id": 214408,
+      "translation": {
+        "en": {
+          "short": "spacesuit",
+          "long": "clothing used by astronauts while traveling in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pakaian angkasawan",
+          "long": "Pakaian yang digunakan oleh astronot saat bepergian di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214408.jpeg",
+      "simplified": "宇航服",
+      "traditional": "宇航服",
+      "pinyin": "yǔháng fú"
+    },
+    {
+      "id": 214409,
+      "translation": {
+        "en": {
+          "short": "spacewalk",
+          "long": "a period during which an astronaut moves outside an spacecraft in space, typically to perform repairs or experiments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "SPACEWALK",
+          "long": "Suatu periode di mana astronot bergerak di luar pesawat ruang angkasa di luar angkasa, biasanya untuk melakukan perbaikan atau percobaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214409.jpeg",
+      "simplified": "太空行走",
+      "traditional": "太空行走",
+      "pinyin": "tàikōng xíng zǒu"
+    },
+    {
+      "id": 214411,
+      "translation": {
+        "en": {
+          "short": "telescope",
+          "long": "a piece of equipment by which the far objects, particularly those in space, are made clearly visible",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teleskop",
+          "long": "sepotong peralatan yang dengannya benda -benda jauh, terutama yang ada di luar angkasa, dibuat terlihat jelas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214411.jpeg",
+      "simplified": "望远镜",
+      "traditional": "望遠鏡",
+      "pinyin": "wàngyuǎn jìng"
+    },
+    {
+      "id": 214413,
+      "translation": {
+        "en": {
+          "short": "voyage",
+          "long": "a long journey taken on a ship or spacecraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "Perjalanan panjang yang dilakukan di atas kapal atau pesawat ruang angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214413.jpeg",
+      "simplified": "航程",
+      "traditional": "航程",
+      "pinyin": "hángchéng"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "id": 1081,
+  "title": {
+    "en": "Certainty & Likelihood",
+    "id": "Kepastian & kemungkinan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about doubt and certainty, such as \"halting\", \"cinch\", \"robust\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang keraguan dan kepastian, seperti \"berhenti\", \"cinch\", \"kuat\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 248106,
+      "translation": {
+        "en": {
+          "short": "certitude",
+          "long": "the feeling of complete certainty",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepastian",
+          "long": "perasaan pasti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248106.jpeg",
+      "simplified": "确定性",
+      "traditional": "確定性",
+      "pinyin": "quèdìng xìng"
+    },
+    {
+      "id": 248114,
+      "translation": {
+        "en": {
+          "short": "conviction",
+          "long": "a belief or opinion that is very strong",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengakuan",
+          "long": "Keyakinan atau pendapat yang sangat kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248114.jpeg",
+      "simplified": "坚定的信念",
+      "traditional": "堅定的信念",
+      "pinyin": "jiāndìng de xìnniàn"
+    },
+    {
+      "id": 248088,
+      "translation": {
+        "en": {
+          "short": "robust",
+          "long": "displaying forcefulness and determination",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kokoh",
+          "long": "Menampilkan kekuatan dan tekad",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248088.jpeg",
+      "simplified": "果断而坚定的人",
+      "traditional": "果斷而堅定的人",
+      "pinyin": "guǒduàn ér jiāndìng de rén"
+    },
+    {
+      "id": 248083,
+      "translation": {
+        "en": {
+          "short": "tentative",
+          "long": "not firmly established or decided, with the possibility of changes in the future",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bisa berubah",
+          "long": "tidak ditetapkan atau diputuskan dengan kuat, dengan kemungkinan perubahan di masa depan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248083.jpeg",
+      "simplified": "暂时且不确定",
+      "traditional": "暫時且不確定",
+      "pinyin": "zànshí qiě bù quèdìng"
+    },
+    {
+      "id": 248101,
+      "translation": {
+        "en": {
+          "short": "decidedly",
+          "long": "in a way that is certain and beyond any doubt",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pasti",
+          "long": "dengan cara yang pasti dan tanpa keraguan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248101.jpeg",
+      "simplified": "坚决地",
+      "traditional": "堅決地",
+      "pinyin": "jiānjué de"
+    },
+    {
+      "id": 248086,
+      "translation": {
+        "en": {
+          "short": "supposedly",
+          "long": "used to suggest that something is assumed to be true, often with a hint of doubt",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "seharusnya",
+          "long": "Dulu menyarankan bahwa sesuatu dianggap benar, seringkali dengan sedikit keraguan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248086.jpeg",
+      "simplified": "想必",
+      "traditional": "想必",
+      "pinyin": "xiǎngbì"
+    },
+    {
+      "id": 248092,
+      "translation": {
+        "en": {
+          "short": "presumably",
+          "long": "used to say that the something is believed to be true based on available information or evidence",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "agaknya",
+          "long": "Dulu mengatakan bahwa sesuatu diyakini benar berdasarkan informasi atau bukti yang tersedia",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248092.jpeg",
+      "simplified": "想必",
+      "traditional": "想必",
+      "pinyin": "xiǎngbì"
+    },
+    {
+      "id": 248096,
+      "translation": {
+        "en": {
+          "short": "inconclusive",
+          "long": "not producing a clear result or decision",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak meyakinkan",
+          "long": "tidak menghasilkan hasil atau keputusan yang jelas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248096.jpeg",
+      "simplified": "不确定的",
+      "traditional": "不確定的",
+      "pinyin": "bù quèdìng de"
+    },
+    {
+      "id": 248093,
+      "translation": {
+        "en": {
+          "short": "notional",
+          "long": "being solely based on imagination or theory rather that reality",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nosional",
+          "long": "menjadi semata -mata didasarkan pada imajinasi atau teori sebagai realitas itu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248093.jpeg",
+      "simplified": "名义上的",
+      "traditional": "名義上的",
+      "pinyin": "míngyì shàng de"
+    },
+    {
+      "id": 248084,
+      "translation": {
+        "en": {
+          "short": "surmise",
+          "long": "an estimation that points out the validity of something without sufficient evidence to confirm it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menduga",
+          "long": "estimasi yang menunjukkan validitas sesuatu tanpa bukti yang cukup untuk mengkonfirmasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248084.jpeg",
+      "simplified": "推测",
+      "traditional": "推測",
+      "pinyin": "tuīcè"
+    },
+    {
+      "id": 248110,
+      "translation": {
+        "en": {
+          "short": "educated guess",
+          "long": "a guess that is made according to one's experience or knowledge thus is more likely to be true",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tebakan yang dididik",
+          "long": "Dugaan yang dibuat sesuai dengan pengalaman atau pengetahuan seseorang dengan demikian lebih cenderung benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248110.jpeg",
+      "simplified": "有根据的猜测",
+      "traditional": "有根據的猜測",
+      "pinyin": "yǒu gēnjù de cāicè"
+    },
+    {
+      "id": 248103,
+      "translation": {
+        "en": {
+          "short": "conjecture",
+          "long": "an idea that is based on guesswork and not facts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dugaan",
+          "long": "ide yang didasarkan pada dugaan dan bukan fakta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248103.jpeg",
+      "simplified": "臆测",
+      "traditional": "臆測",
+      "pinyin": "yìcè"
+    },
+    {
+      "id": 248100,
+      "translation": {
+        "en": {
+          "short": "to guesstimate",
+          "long": "to estimate something by calculating and guessing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menebak -nebak",
+          "long": "untuk memperkirakan sesuatu dengan menghitung dan menebak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248100.jpeg",
+      "simplified": "遵",
+      "traditional": "遵",
+      "pinyin": "zūn"
+    },
+    {
+      "id": 248105,
+      "translation": {
+        "en": {
+          "short": "to check over",
+          "long": "to inspect something closely to ensure accuracy, quality, or its overall condition",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memeriksa",
+          "long": "untuk memeriksa sesuatu dengan cermat untuk memastikan akurasi, kualitas, atau kondisi keseluruhannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248105.jpeg",
+      "simplified": "检查",
+      "traditional": "檢查",
+      "pinyin": "jiǎnchá"
+    },
+    {
+      "id": 248085,
+      "translation": {
+        "en": {
+          "short": "to swear by",
+          "long": "to be certain that something is good or useful",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersumpah",
+          "long": "untuk memastikan bahwa ada sesuatu yang baik atau bermanfaat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248085.jpeg",
+      "simplified": "发誓",
+      "traditional": "發誓",
+      "pinyin": "fāshì"
+    },
+    {
+      "id": 248087,
+      "translation": {
+        "en": {
+          "short": "speculative",
+          "long": "according to opinions or guesses instead of facts or evidence",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "spekulatif",
+          "long": "Menurut pendapat atau tebakan alih -alih fakta atau bukti",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248087.jpeg",
+      "simplified": "投机性",
+      "traditional": "投機性",
+      "pinyin": "tóujī xìng"
+    },
+    {
+      "id": 248089,
+      "translation": {
+        "en": {
+          "short": "to second-guess",
+          "long": "to predict or anticipate an event or someone's reaction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menebak kedua",
+          "long": "untuk memprediksi atau mengantisipasi suatu peristiwa atau reaksi seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248089.jpeg",
+      "simplified": "预卜",
+      "traditional": "預卜",
+      "pinyin": "yùbǔ"
+    },
+    {
+      "id": 248090,
+      "translation": {
+        "en": {
+          "short": "reputedly",
+          "long": "used to say that something is true according to what people say, although it is uncertain",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "konon",
+          "long": "Dulu mengatakan bahwa sesuatu itu benar menurut apa yang orang katakan, meskipun itu tidak pasti",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248090.jpeg",
+      "simplified": "据说",
+      "traditional": "據說",
+      "pinyin": "jùshuō"
+    },
+    {
+      "id": 248098,
+      "translation": {
+        "en": {
+          "short": "halting",
+          "long": "acting or talking with hesitation due to uncertainty or lack of confidence",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berhenti",
+          "long": "bertindak atau berbicara dengan ragu -ragu karena ketidakpastian atau kurang percaya diri",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248098.jpeg",
+      "simplified": "停顿",
+      "traditional": "停頓",
+      "pinyin": "tíngdùn"
+    },
+    {
+      "id": 248091,
+      "translation": {
+        "en": {
+          "short": "probabilistic",
+          "long": "based on the likelihood of an event or outcome occurring",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Probabilistik",
+          "long": "berdasarkan kemungkinan suatu peristiwa atau hasil yang terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248091.jpeg",
+      "simplified": "概率性的",
+      "traditional": "概率性的",
+      "pinyin": "gàilǜ xìng de"
+    },
+    {
+      "id": 248104,
+      "translation": {
+        "en": {
+          "short": "concrete",
+          "long": "according to facts instead of opinions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "konkret",
+          "long": "Menurut fakta, bukan pendapat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248104.jpeg",
+      "simplified": "具体的",
+      "traditional": "具體的",
+      "pinyin": "jùtǐ de"
+    },
+    {
+      "id": 248097,
+      "translation": {
+        "en": {
+          "short": "the dust [settle]",
+          "long": "to allow or wait for a situation to become calmer or more stable after a significant change or serious dispute",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Debu [tenang]",
+          "long": "untuk memungkinkan atau menunggu situasi menjadi lebih tenang atau lebih stabil setelah perubahan yang signifikan atau perselisihan serius",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248097.jpeg",
+      "simplified": "等待局势平静下来",
+      "traditional": "等待局勢平靜下來",
+      "pinyin": "děngdài júshì píngjìng xiàlai"
+    },
+    {
+      "id": 248095,
+      "translation": {
+        "en": {
+          "short": "paradoxical",
+          "long": "seemingly contradictory or absurd at first glance but may reveal deeper truth or validity upon further examination",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "paradoksal",
+          "long": "Tampaknya kontradiktif atau tidak masuk akal pada pandangan pertama tetapi dapat mengungkapkan kebenaran atau validitas yang lebih dalam setelah pemeriksaan lebih lanjut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248095.jpeg",
+      "simplified": "自相矛盾的",
+      "traditional": "自相矛盾的",
+      "pinyin": "zìxiāng máo dùn de"
+    },
+    {
+      "id": 248111,
+      "translation": {
+        "en": {
+          "short": "foregone conclusion",
+          "long": "something that is assumed to be true or already decided upon before any evidence or arguments are presented",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesimpulan terdahulu",
+          "long": "sesuatu yang dianggap benar atau sudah diputuskan sebelum bukti atau argumen disajikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248111.jpeg",
+      "simplified": "显而易见的结论",
+      "traditional": "顯而易見的結論",
+      "pinyin": "xiǎnér yì jiàn de jiélùn"
+    },
+    {
+      "id": 248102,
+      "translation": {
+        "en": {
+          "short": "to cross-check",
+          "long": "to check the accuracy or validity of something by using alternative sources or methods",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memeriksa silang",
+          "long": "untuk memeriksa keakuratan atau validitas sesuatu dengan menggunakan sumber atau metode alternatif",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248102.jpeg",
+      "simplified": "交叉检查",
+      "traditional": "交叉檢查",
+      "pinyin": "jiāochā jiǎnchá"
+    },
+    {
+      "id": 248107,
+      "translation": {
+        "en": {
+          "short": "categorical",
+          "long": "without a doubt",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kategorikal",
+          "long": "tanpa keraguan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248107.jpeg",
+      "simplified": "绝对的",
+      "traditional": "絕對的",
+      "pinyin": "juéduì de"
+    },
+    {
+      "id": 248115,
+      "translation": {
+        "en": {
+          "short": "cinch",
+          "long": "something that will surely happen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menang",
+          "long": "sesuatu yang pasti akan terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248115.jpeg",
+      "simplified": "肚带",
+      "traditional": "肚帶",
+      "pinyin": "dǔ dài"
+    },
+    {
+      "id": 248117,
+      "translation": {
+        "en": {
+          "short": "beyond doubt",
+          "long": "in a way that is absolutely certain and cannot be questioned",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tanpa keraguan",
+          "long": "dengan cara yang benar -benar pasti dan tidak dapat dipertanyakan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248117.jpeg",
+      "simplified": "无疑",
+      "traditional": "無疑",
+      "pinyin": "wúyí"
+    },
+    {
+      "id": 248118,
+      "translation": {
+        "en": {
+          "short": "if in doubt",
+          "long": "‌used to offer advice or instructions to someone who is incapable of making decisions",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Jika ragu",
+          "long": "‌) untuk menawarkan saran atau instruksi kepada seseorang yang tidak mampu membuat keputusan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248118.jpeg",
+      "simplified": "如有疑问",
+      "traditional": "如有疑問",
+      "pinyin": "rú yǒu yíwèn"
+    },
+    {
+      "id": 264419,
+      "translation": {
+        "en": {
+          "short": "long shot",
+          "long": "an attempt made without having any high hopes of achieving success",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan panjang",
+          "long": "upaya yang dilakukan tanpa memiliki harapan tinggi untuk mencapai kesuksesan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264419.jpeg",
+      "simplified": "成功与否不确定的尝试",
+      "traditional": "成功與否不確定的嘗試",
+      "pinyin": "Chénggōng yǔfǒu bù quèdìng de chángshì"
+    }
+  ]
+}

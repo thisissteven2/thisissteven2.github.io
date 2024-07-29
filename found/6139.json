@@ -1,0 +1,754 @@
+{
+  "id": 6139,
+  "title": {
+    "en": "Urban Roads and Spaces",
+    "id": "Jalan dan Ruang Perkotaan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to urban roads and spaces such as \"street\", \"boulevard\", and \"crosswalk.\"",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan jalan dan ruang perkotaan seperti \"jalanan\", \"Boulevard\", dan \"Crosswalk.\""
+  },
+  "cards": [
+    {
+      "id": 407594,
+      "translation": {
+        "en": {
+          "short": "street",
+          "long": "a public path for vehicles in a village, town, or city, usually with buildings, houses, etc. on its sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan",
+          "long": "jalur umum untuk kendaraan di desa, kota, atau kota, biasanya dengan bangunan, rumah, dll. Di sisinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407594.jpeg",
+      "simplified": "街",
+      "traditional": "街",
+      "pinyin": "jiē"
+    },
+    {
+      "id": 407595,
+      "translation": {
+        "en": {
+          "short": "boulevard",
+          "long": "a wide street in a town or city, typically with trees on each side or in the middle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan raya",
+          "long": "jalan lebar di kota atau kota, biasanya dengan pohon di setiap sisi atau di tengah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407595.jpeg",
+      "simplified": "一条宽阔、绿树成荫的城市街道",
+      "traditional": "一條寬闊、綠樹成蔭的城市街道",
+      "pinyin": "yī tiáo kuānkuò lǜshù chéng yīn de chéngshì jiēdào"
+    },
+    {
+      "id": 407597,
+      "translation": {
+        "en": {
+          "short": "bicycle boulevard",
+          "long": "a road designed primarily for bicycles, with features that prioritize cycling over motor vehicle traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bicycle Boulevard",
+          "long": "Jalan yang dirancang terutama untuk sepeda, dengan fitur yang memprioritaskan bersepeda di atas lalu lintas kendaraan bermotor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407597.jpeg",
+      "simplified": "自行车林荫大道",
+      "traditional": "自行車林蔭大道",
+      "pinyin": "zìxíng chē línyìn dà dào"
+    },
+    {
+      "id": 407599,
+      "translation": {
+        "en": {
+          "short": "stravenue",
+          "long": "a street or road that is designated for pedestrians rather than vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stravenue",
+          "long": "jalan atau jalan yang ditunjuk untuk pejalan kaki daripada kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407599.jpeg",
+      "simplified": "Stravenue",
+      "traditional": "Stravenue",
+      "pinyin": ""
+    },
+    {
+      "id": 407600,
+      "translation": {
+        "en": {
+          "short": "main drag",
+          "long": "the main street or avenue in a town or city, often bustling with activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hambatan utama",
+          "long": "jalan utama atau jalan di kota atau kota, seringkali ramai dengan aktivitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407600.jpeg",
+      "simplified": "主要阻力",
+      "traditional": "主要阻力",
+      "pinyin": "zhǔyào zǔlì"
+    },
+    {
+      "id": 407601,
+      "translation": {
+        "en": {
+          "short": "main street",
+          "long": "the most important street with many shops and stores in a town",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan utama",
+          "long": "jalan terpenting dengan banyak toko dan toko di kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407601.jpeg",
+      "simplified": "主要街道",
+      "traditional": "主要街道",
+      "pinyin": "zhǔyào jiēdào"
+    },
+    {
+      "id": 407602,
+      "translation": {
+        "en": {
+          "short": "side street",
+          "long": "a smaller road or street that intersects with a main road, often providing access to residential or commercial areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sisi jalan",
+          "long": "Jalan atau jalan yang lebih kecil yang berpotongan dengan jalan utama, sering kali menyediakan akses ke daerah perumahan atau komersial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407602.jpeg",
+      "simplified": "小街",
+      "traditional": "小街",
+      "pinyin": "xiǎo jiē"
+    },
+    {
+      "id": 407604,
+      "translation": {
+        "en": {
+          "short": "Fore Street",
+          "long": "a main thoroughfare or primary road in a town or city",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalan depan",
+          "long": "jalan raya utama atau jalan utama di kota atau kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407604.jpeg",
+      "simplified": "前街",
+      "traditional": "前街",
+      "pinyin": "qián jiē"
+    },
+    {
+      "id": 407606,
+      "translation": {
+        "en": {
+          "short": "superstreet",
+          "long": "an advanced roadway design that aims to improve traffic flow and safety by reducing conflict points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "SuperStreet",
+          "long": "Desain jalan raya canggih yang bertujuan untuk meningkatkan arus lalu lintas dan keselamatan dengan mengurangi titik konflik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407606.jpeg",
+      "simplified": "superstreet",
+      "traditional": "superstreet",
+      "pinyin": ""
+    },
+    {
+      "id": 407607,
+      "translation": {
+        "en": {
+          "short": "thoroughfare",
+          "long": "a road, street, or passage that provides a direct route or passage for vehicles, pedestrians, or both",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan raya",
+          "long": "Jalan, jalan, atau bagian yang menyediakan rute atau bagian langsung untuk kendaraan, pejalan kaki, atau keduanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407607.jpeg",
+      "simplified": "通道",
+      "traditional": "通道",
+      "pinyin": "Tōngdào"
+    },
+    {
+      "id": 407608,
+      "translation": {
+        "en": {
+          "short": "one-way street",
+          "long": "a street or road where traffic is allowed to flow in only one direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan satu arah",
+          "long": "jalan atau jalan di mana lalu lintas dibiarkan mengalir hanya dalam satu arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407608.jpeg",
+      "simplified": "单行道",
+      "traditional": "單行道",
+      "pinyin": "dānxíng dào"
+    },
+    {
+      "id": 407609,
+      "translation": {
+        "en": {
+          "short": "high street",
+          "long": "the most important street with a lot of shops and businesses in a town",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan raya",
+          "long": "jalan terpenting dengan banyak toko dan bisnis di kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407609.jpeg",
+      "simplified": "高街",
+      "traditional": "高街",
+      "pinyin": "gāojiē"
+    },
+    {
+      "id": 407610,
+      "translation": {
+        "en": {
+          "short": "off-street",
+          "long": "not on a public street; typically refers to parking or facilities located away from the main road",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Off-street",
+          "long": "tidak di jalan umum; biasanya mengacu pada parkir atau fasilitas yang terletak jauh dari jalan utama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407610.jpeg",
+      "simplified": "街外",
+      "traditional": "街外",
+      "pinyin": "jiē wài"
+    },
+    {
+      "id": 407612,
+      "translation": {
+        "en": {
+          "short": "living street",
+          "long": "a road designed primarily for pedestrians, where vehicles are allowed but must move slowly and yield to people on foot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan hidup",
+          "long": "Jalan yang dirancang terutama untuk pejalan kaki, di mana kendaraan diperbolehkan tetapi harus bergerak perlahan dan menyerah pada orang -orang dengan berjalan kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407612.jpeg",
+      "simplified": "生活街",
+      "traditional": "生活街",
+      "pinyin": "shēnghuó jiē"
+    },
+    {
+      "id": 407613,
+      "translation": {
+        "en": {
+          "short": "expressway",
+          "long": "a divided highway designed for high-speed traffic, typically with multiple lanes and limited access points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalan Tol",
+          "long": "Jalan raya terbagi yang dirancang untuk lalu lintas berkecepatan tinggi, biasanya dengan beberapa jalur dan titik akses terbatas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407613.jpeg",
+      "simplified": "高速公路",
+      "traditional": "高速公路",
+      "pinyin": "gāosù gōng lù"
+    },
+    {
+      "id": 407614,
+      "translation": {
+        "en": {
+          "short": "cross street",
+          "long": "a street that intersects with another street, usually at right angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lintas jalan",
+          "long": "jalan yang bersinggungan dengan jalan lain, biasanya di sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407614.jpeg",
+      "simplified": "十字路口",
+      "traditional": "十字路口",
+      "pinyin": "shízì lù kǒu"
+    },
+    {
+      "id": 407615,
+      "translation": {
+        "en": {
+          "short": "crosswalk",
+          "long": "a marked place where people walk across a street",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crosswalk",
+          "long": "tempat yang ditandai di mana orang berjalan melintasi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407615.jpeg",
+      "simplified": "人行横道",
+      "traditional": "行人穿越道",
+      "pinyin": "rénxíng héng dào"
+    },
+    {
+      "id": 407616,
+      "translation": {
+        "en": {
+          "short": "pedestrian crossing",
+          "long": "a designated area on a road where pedestrians have the right of way to cross the street safely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyeberangan pejalan kaki",
+          "long": "Area yang ditunjuk di jalan di mana pejalan kaki memiliki hak untuk menyeberang jalan dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407616.jpeg",
+      "simplified": "行人过街",
+      "traditional": "行人過街",
+      "pinyin": "xíngrén Guō jiē"
+    },
+    {
+      "id": 407617,
+      "translation": {
+        "en": {
+          "short": "crossing",
+          "long": "a place where one is able to safely cross something, particularly a street",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan",
+          "long": "tempat di mana seseorang dapat dengan aman melintasi sesuatu, terutama jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407617.jpeg",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu"
+    },
+    {
+      "id": 408190,
+      "translation": {
+        "en": {
+          "short": "xing",
+          "long": "a crossing or intersection of paths or roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "xing",
+          "long": "persimpangan atau persimpangan jalan atau jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408190.jpeg",
+      "simplified": "XING",
+      "traditional": "xing",
+      "pinyin": ""
+    },
+    {
+      "id": 407618,
+      "translation": {
+        "en": {
+          "short": "sidewalk",
+          "long": "a pathway typically made of concrete or asphalt at the side of a street for people to walk on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trotoar",
+          "long": "Jalur yang biasanya terbuat dari beton atau aspal di sisi jalan bagi orang untuk berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407618.jpeg",
+      "simplified": "人行道",
+      "traditional": "人行道",
+      "pinyin": "rénxíng dào"
+    },
+    {
+      "id": 407619,
+      "translation": {
+        "en": {
+          "short": "traffic island",
+          "long": "a raised or painted area in the middle of a road that separates lanes or controls traffic flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pulau Lalu Lintas",
+          "long": "Area yang terangkat atau dicat di tengah jalan yang memisahkan jalur atau mengontrol arus lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407619.jpeg",
+      "simplified": "交通岛",
+      "traditional": "交通島",
+      "pinyin": "jiāotōng dǎo"
+    },
+    {
+      "id": 407621,
+      "translation": {
+        "en": {
+          "short": "access road",
+          "long": "a road providing access to another road or to a specific place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akses jalan",
+          "long": "jalan yang menyediakan akses ke jalan lain atau ke tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407621.jpeg",
+      "simplified": "通路",
+      "traditional": "通路",
+      "pinyin": "tōnglù"
+    },
+    {
+      "id": 407622,
+      "translation": {
+        "en": {
+          "short": "strip mall",
+          "long": "a shopping center where stores and businesses are arranged in a row along a main thoroughfare",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "strip mal",
+          "long": "Pusat perbelanjaan tempat toko dan bisnis diatur berturut -turut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407622.jpeg",
+      "simplified": "地带购物中心",
+      "traditional": "地帶購物中心",
+      "pinyin": "dìdài gòuwù zhōng xīn"
+    },
+    {
+      "id": 407624,
+      "translation": {
+        "en": {
+          "short": "beltway",
+          "long": "a highway that encircles a city or metropolitan area, providing a route for traffic bypassing the city center",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Beltway",
+          "long": "Jalan raya yang mengelilingi daerah kota atau metropolitan, menyediakan rute untuk lalu lintas yang melewati pusat kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407624.jpeg",
+      "simplified": "环城公路",
+      "traditional": "環城公路",
+      "pinyin": "huánchéng gōnglù"
+    },
+    {
+      "id": 407626,
+      "translation": {
+        "en": {
+          "short": "outer belt",
+          "long": "a region at the edge of a city or town, typically beyond the more densely populated areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabuk luar",
+          "long": "sebuah wilayah di tepi kota atau kota, biasanya di luar daerah yang lebih padat penduduknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407626.jpeg",
+      "simplified": "外带",
+      "traditional": "外帶",
+      "pinyin": "wàidài"
+    },
+    {
+      "id": 407627,
+      "translation": {
+        "en": {
+          "short": "bypass",
+          "long": "a road that goes round a city or town rather than going through the city center",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan pintas",
+          "long": "jalan yang melintasi kota atau kota daripada melewati pusat kota",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407627.jpeg",
+      "simplified": "旁路",
+      "traditional": "旁路",
+      "pinyin": "pánglù"
+    },
+    {
+      "id": 407628,
+      "translation": {
+        "en": {
+          "short": "arterial road",
+          "long": "a major road or highway that carries a large volume of traffic between areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan arteri",
+          "long": "jalan utama atau jalan raya yang membawa sejumlah besar lalu lintas antar daerah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407628.jpeg",
+      "simplified": "主干道",
+      "traditional": "主幹道",
+      "pinyin": "zhǔgàn dào"
+    },
+    {
+      "id": 408187,
+      "translation": {
+        "en": {
+          "short": "frontage road",
+          "long": "a road running parallel to a main road, providing access to properties along the main road and serving as a service road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan depan",
+          "long": "Jalan yang berjalan sejajar dengan jalan utama, menyediakan akses ke properti di sepanjang jalan utama dan melayani sebagai jalan layanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408187.jpeg",
+      "simplified": "临街路",
+      "traditional": "臨街路",
+      "pinyin": "línjiē Lù"
+    },
+    {
+      "id": 407631,
+      "translation": {
+        "en": {
+          "short": "couplet",
+          "long": "a pair of parallel, one-way streets that run in opposite directions to help manage traffic flow in urban areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bait",
+          "long": "Sepasang jalan paralel satu arah yang berjalan ke arah yang berlawanan untuk membantu mengelola arus lalu lintas di daerah perkotaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407631.jpeg",
+      "simplified": "对联",
+      "traditional": "對聯",
+      "pinyin": "duìlián"
+    },
+    {
+      "id": 407633,
+      "translation": {
+        "en": {
+          "short": "business route",
+          "long": "a section of a highway that passes through the center of a town or city, providing access to local businesses and services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rute bisnis",
+          "long": "Bagian dari jalan raya yang melewati pusat kota atau kota, menyediakan akses ke bisnis dan layanan lokal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407633.jpeg",
+      "simplified": "商业路线",
+      "traditional": "商業路線",
+      "pinyin": "shāngyè lùxiàn"
+    },
+    {
+      "id": 407634,
+      "translation": {
+        "en": {
+          "short": "service road",
+          "long": "a road close to a highway or major road that provides access to properties and allows local traffic to bypass the main road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalan Layanan",
+          "long": "Jalan dekat dengan jalan raya atau jalan utama yang menyediakan akses ke properti dan memungkinkan lalu lintas lokal untuk memotong jalan utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407634.jpeg",
+      "simplified": "服务路",
+      "traditional": "服務路",
+      "pinyin": "fúwù Lù"
+    },
+    {
+      "id": 407636,
+      "translation": {
+        "en": {
+          "short": "through road",
+          "long": "a main road that goes through an area and connects with other main roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melalui jalan",
+          "long": "jalan utama yang melewati suatu daerah dan terhubung dengan jalan utama lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407636.jpeg",
+      "simplified": "穿过道路",
+      "traditional": "穿過道路",
+      "pinyin": "chuānguò dàolù"
+    },
+    {
+      "id": 407651,
+      "translation": {
+        "en": {
+          "short": "complete street",
+          "long": "a road designed to accommodate safe and convenient use by all travelers, including pedestrians, cyclists, and motorists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan lengkap",
+          "long": "Jalan yang dirancang untuk mengakomodasi penggunaan yang aman dan nyaman oleh semua pelancong, termasuk pejalan kaki, pengendara sepeda, dan pengendara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407651.jpeg",
+      "simplified": "完整的街道",
+      "traditional": "完整的街道",
+      "pinyin": "wánzhěng de jiēdào"
+    },
+    {
+      "id": 407638,
+      "translation": {
+        "en": {
+          "short": "grid plan",
+          "long": "a type of city design where streets run at right angles to each other, forming a pattern of squares or rectangles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rencana kisi",
+          "long": "Jenis desain kota di mana jalan -jalan berjalan di sudut kanan satu sama lain, membentuk pola kotak atau persegi panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407638.jpeg",
+      "simplified": "网格计划",
+      "traditional": "網格計劃",
+      "pinyin": "wǎnggé jìhuà"
+    },
+    {
+      "id": 407639,
+      "translation": {
+        "en": {
+          "short": "parking lot",
+          "long": "an area in which people leave their vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat parkir",
+          "long": "Area di mana orang meninggalkan kendaraan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407639.jpeg",
+      "simplified": "停车场",
+      "traditional": "停車場",
+      "pinyin": "tíngchē chǎng"
+    },
+    {
+      "id": 407659,
+      "translation": {
+        "en": {
+          "short": "pedestrian mall",
+          "long": "a city or town where vehicles are not allowed, and people can walk freely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mal pejalan kaki",
+          "long": "sebuah kota atau kota tempat kendaraan tidak diizinkan, dan orang -orang dapat berjalan dengan bebas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407659.jpeg",
+      "simplified": "步行街",
+      "traditional": "行人徒步區",
+      "pinyin": "bùxíng jiē"
+    },
+    {
+      "id": 407642,
+      "translation": {
+        "en": {
+          "short": "to pedestrianize",
+          "long": "to convert an area into one where only pedestrians are allowed, typically by closing it to vehicles",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pejalan kaki",
+          "long": "Untuk mengubah area menjadi satu di mana hanya pejalan kaki yang diizinkan, biasanya dengan menutupnya ke kendaraan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407642.jpeg",
+      "simplified": "行人",
+      "traditional": "行人",
+      "pinyin": "xíngrén"
+    },
+    {
+      "id": 407662,
+      "translation": {
+        "en": {
+          "short": "on-street",
+          "long": "located or occurring on a public street",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di jalan",
+          "long": "terletak atau terjadi di jalan umum",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407662.jpeg",
+      "simplified": "在街上",
+      "traditional": "在街上",
+      "pinyin": "zài jiēshang"
+    }
+  ]
+}

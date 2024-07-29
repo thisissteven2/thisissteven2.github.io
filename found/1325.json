@@ -1,0 +1,526 @@
+{
+  "id": 1325,
+  "title": {
+    "en": "Home Appliances",
+    "id": "Peralatan rumah tangga"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to home appliances such as \"dryer\", \"iron\", and \"vacuum cleaner\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan peralatan rumah tangga seperti \"pengering\", \"besi\", dan \"penyedot debu\"."
+  },
+  "cards": [
+    {
+      "id": 345558,
+      "translation": {
+        "en": {
+          "short": "vacuum cleaner",
+          "long": "an electrical device that pulls up dirt and dust from a floor to clean it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyedot debu",
+          "long": "Perangkat listrik yang menarik kotoran dan debu dari lantai untuk membersihkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345558.jpeg",
+      "simplified": "吸尘器",
+      "traditional": "吸塵器",
+      "pinyin": "xīchén qì"
+    },
+    {
+      "id": 345559,
+      "translation": {
+        "en": {
+          "short": "space heater",
+          "long": "a portable device that generates heat and is used to warm up a small area or room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemanas ruangan",
+          "long": "Perangkat portabel yang menghasilkan panas dan digunakan untuk menghangatkan area atau kamar kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345559.jpeg",
+      "simplified": "小型供暖器",
+      "traditional": "小型供暖器",
+      "pinyin": "xiǎoxíng gōngnuǎn qì"
+    },
+    {
+      "id": 345560,
+      "translation": {
+        "en": {
+          "short": "pressure washer",
+          "long": "a machine that uses high-pressure water spray to remove dirt, grime, and other types of stubborn stains from surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tekanan mesin cuci",
+          "long": "Mesin yang menggunakan semprotan air bertekanan tinggi untuk menghilangkan kotoran, kotoran, dan jenis noda keras kepala lainnya dari permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345560.jpeg",
+      "simplified": "高压清洗机",
+      "traditional": "高壓清洗機",
+      "pinyin": "gāoyā qīng xǐ jī"
+    },
+    {
+      "id": 345561,
+      "translation": {
+        "en": {
+          "short": "air conditioner",
+          "long": "a machine that is designed to cool and dry the air in a room, building, or vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendingin ruangan",
+          "long": "mesin yang dirancang untuk mendinginkan dan mengeringkan udara di ruangan, bangunan, atau kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345561.jpeg",
+      "simplified": "冷气机",
+      "traditional": "冷氣機",
+      "pinyin": "lěngqì jī"
+    },
+    {
+      "id": 345562,
+      "translation": {
+        "en": {
+          "short": "humidifier",
+          "long": "an appliance that increases the moisture level in a room or an entire building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelembab",
+          "long": "alat yang meningkatkan tingkat kelembaban di ruangan atau seluruh bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345562.jpeg",
+      "simplified": "加湿器",
+      "traditional": "加濕器",
+      "pinyin": "jiāshī qì"
+    },
+    {
+      "id": 345563,
+      "translation": {
+        "en": {
+          "short": "dehumidifier",
+          "long": "a device that reduces the amount of moisture in the air, typically used to maintain a comfortable and healthy humidity level in a room or building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dehumidifier",
+          "long": "Perangkat yang mengurangi jumlah kelembaban di udara, biasanya digunakan untuk mempertahankan tingkat kelembaban yang nyaman dan sehat di ruangan atau bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345563.jpeg",
+      "simplified": "除湿机",
+      "traditional": "除濕機",
+      "pinyin": "chúshī jī"
+    },
+    {
+      "id": 345564,
+      "translation": {
+        "en": {
+          "short": "fan",
+          "long": "an electric device with blades that rotate quickly and keep an area cool",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggemar",
+          "long": "Perangkat listrik dengan bilah yang berputar dengan cepat dan menjaga area tetap dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345564.jpeg",
+      "simplified": "冷风扇",
+      "traditional": "冷風扇",
+      "pinyin": "Lěng fēngshàn"
+    },
+    {
+      "id": 345565,
+      "translation": {
+        "en": {
+          "short": "air purifier",
+          "long": "a device designed to remove pollutants and particles such as dust, smoke, and allergens from the air in a room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembersih udara",
+          "long": "Perangkat yang dirancang untuk menghilangkan polutan dan partikel seperti debu, asap, dan alergen dari udara di sebuah ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345565.jpeg",
+      "simplified": "空气净化器",
+      "traditional": "空氣淨化器",
+      "pinyin": "kōngqì jìng huà qì"
+    },
+    {
+      "id": 345567,
+      "translation": {
+        "en": {
+          "short": "steam cleaner",
+          "long": "a device that uses steam to clean and sanitize surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembersih uap",
+          "long": "Perangkat yang menggunakan uap untuk membersihkan dan membersihkan permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345567.jpeg",
+      "simplified": "蒸汽清洁机",
+      "traditional": "蒸汽清潔機",
+      "pinyin": "zhēngqì qīngjié Jī"
+    },
+    {
+      "id": 345569,
+      "translation": {
+        "en": {
+          "short": "sewing machine",
+          "long": "a machine used to sew fabric and other materials together with thread",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin jahit",
+          "long": "mesin yang digunakan untuk menjahit kain dan bahan lainnya bersama -sama dengan benang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345569.jpeg",
+      "simplified": "缝纫机",
+      "traditional": "縫紉機",
+      "pinyin": "féngrèn jī"
+    },
+    {
+      "id": 345570,
+      "translation": {
+        "en": {
+          "short": "portable air conditioner",
+          "long": "a compact, mobile unit that can be easily moved from room to room and used to cool a specific area or space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "AC portabel",
+          "long": "Unit seluler yang ringkas yang dapat dengan mudah dipindahkan dari kamar ke kamar dan digunakan untuk mendinginkan area atau ruang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345570.jpeg",
+      "simplified": "便携式空调",
+      "traditional": "便攜式空調",
+      "pinyin": "biànxié shì kōngtiáo"
+    },
+    {
+      "id": 345571,
+      "translation": {
+        "en": {
+          "short": "window air conditioner",
+          "long": "a type of air conditioning unit that is installed in a window or through a wall and is designed to cool a single room or area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "AC window",
+          "long": "Jenis unit pendingin udara yang dipasang di jendela atau melalui dinding dan dirancang untuk mendinginkan satu kamar atau area",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345571.jpeg",
+      "simplified": "窗式空调",
+      "traditional": "窗式空調",
+      "pinyin": "chuāng shì kōngtiáo"
+    },
+    {
+      "id": 345572,
+      "translation": {
+        "en": {
+          "short": "tower fan",
+          "long": "a type of electric fan that oscillates and is designed to be tall and narrow, often with a sleek and modern appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penggemar Menara",
+          "long": "Jenis kipas listrik yang berosilasi dan dirancang untuk menjadi tinggi dan sempit, seringkali dengan penampilan yang ramping dan modern",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345572.jpeg",
+      "simplified": "塔扇",
+      "traditional": "塔扇",
+      "pinyin": "tǎ shān"
+    },
+    {
+      "id": 345574,
+      "translation": {
+        "en": {
+          "short": "air cooler",
+          "long": "a device that cools the air by passing it over water-soaked pads or through a water mist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendingin udara",
+          "long": "Perangkat yang mendinginkan udara dengan melewatinya di atas bantalan yang direndam air atau melalui kabut air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345574.jpeg",
+      "simplified": "冷气机",
+      "traditional": "冷氣機",
+      "pinyin": "lěngqì jī"
+    },
+    {
+      "id": 345575,
+      "translation": {
+        "en": {
+          "short": "electric heater",
+          "long": "a device that converts electrical energy into heat to provide warmth in a room or space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemanas listrik",
+          "long": "Perangkat yang mengubah energi listrik menjadi panas untuk memberikan kehangatan di ruangan atau ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345575.jpeg",
+      "simplified": "电子加热器",
+      "traditional": "電子加熱器",
+      "pinyin": "diànzǐ jiārè qì"
+    },
+    {
+      "id": 345576,
+      "translation": {
+        "en": {
+          "short": "central vacuum system",
+          "long": "a built-in vacuum cleaning system that is installed inside a building and connected to a network of inlets throughout the building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sistem Vakum Pusat",
+          "long": "Sistem pembersihan vakum bawaan yang dipasang di dalam gedung dan terhubung ke jaringan inlet di seluruh gedung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345576.jpeg",
+      "simplified": "中央真空系统",
+      "traditional": "中央真空系統",
+      "pinyin": "zhōngyāng zhēnkōng xìtǒng"
+    },
+    {
+      "id": 345577,
+      "translation": {
+        "en": {
+          "short": "water softener",
+          "long": "a device that removes minerals, such as calcium and magnesium, from hard water to make it soft and more suitable for household use",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelembut air",
+          "long": "Perangkat yang menghilangkan mineral, seperti kalsium dan magnesium, dari air keras untuk membuatnya lunak dan lebih cocok untuk penggunaan rumah tangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345577.jpeg",
+      "simplified": "软水器",
+      "traditional": "軟水器",
+      "pinyin": "ruǎn Shuǐ qì"
+    },
+    {
+      "id": 345579,
+      "translation": {
+        "en": {
+          "short": "electric blanket",
+          "long": "a blanket with integrated electrical heating wires, which can be adjusted to different levels of warmth using a controller",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selimut listrik",
+          "long": "Selimut dengan kabel pemanas listrik terintegrasi, yang dapat disesuaikan dengan berbagai tingkat kehangatan menggunakan pengontrol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345579.jpeg",
+      "simplified": "电热毯",
+      "traditional": "電熱毯",
+      "pinyin": "diànrè tǎn"
+    },
+    {
+      "id": 345580,
+      "translation": {
+        "en": {
+          "short": "handheld vacuum cleaner",
+          "long": "a small, portable vacuum cleaner designed for quick and easy cleaning of small messes and hard-to-reach areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pembersih Vakum Genggam",
+          "long": "Pembersih vakum kecil dan portabel yang dirancang untuk pembersihan yang cepat dan mudah dari kekacauan kecil dan area yang sulit dijangkau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345580.jpeg",
+      "simplified": "手持式吸尘器",
+      "traditional": "手持式吸塵器",
+      "pinyin": "shǒu chí shì xīchén qì"
+    },
+    {
+      "id": 345582,
+      "translation": {
+        "en": {
+          "short": "water purifier",
+          "long": "a device that removes impurities and contaminants from water to make it safe for drinking and other purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemurni air",
+          "long": "perangkat yang menghilangkan kotoran dan kontaminan dari air untuk membuatnya aman untuk minum dan tujuan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345582.jpeg",
+      "simplified": "净水器",
+      "traditional": "淨水器",
+      "pinyin": "jìngshuǐ qì"
+    },
+    {
+      "id": 345583,
+      "translation": {
+        "en": {
+          "short": "washing machine",
+          "long": "an electric machine used for washing clothes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cuci",
+          "long": "mesin listrik yang digunakan untuk mencuci pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345583.jpeg",
+      "simplified": "洗衣机",
+      "traditional": "洗衣機",
+      "pinyin": "xǐyī jī"
+    },
+    {
+      "id": 345584,
+      "translation": {
+        "en": {
+          "short": "dryer",
+          "long": "a machine used for drying clothes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengering",
+          "long": "mesin yang digunakan untuk pengeringan pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345584.jpeg",
+      "simplified": "烘干机",
+      "traditional": "烘乾機",
+      "pinyin": "hōnggān jī"
+    },
+    {
+      "id": 345585,
+      "translation": {
+        "en": {
+          "short": "iron",
+          "long": "a piece of equipment with a heated flat metal base, used to smooth clothes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "besi",
+          "long": "sepotong peralatan dengan dasar logam datar yang dipanaskan, digunakan untuk menghaluskan pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345585.jpeg",
+      "simplified": "熨斗",
+      "traditional": "熨斗",
+      "pinyin": "yùndǒu"
+    },
+    {
+      "id": 345610,
+      "translation": {
+        "en": {
+          "short": "garment steamer",
+          "long": "a device that uses hot steam to remove wrinkles and creases from clothing and other fabrics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penguap kain",
+          "long": "Perangkat yang menggunakan uap panas untuk menghilangkan kerutan dan lipatan dari pakaian dan kain lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345610.jpeg",
+      "simplified": "蒸汽挂烫机",
+      "traditional": "蒸汽掛燙機",
+      "pinyin": "zhēngqì guà tàng jī"
+    },
+    {
+      "id": 345613,
+      "translation": {
+        "en": {
+          "short": "drying cabinet",
+          "long": "an appliance that is used to dry clothes, towels, and other fabrics using forced air and sometimes heat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kabinet pengeringan",
+          "long": "alat yang digunakan untuk mengeringkan pakaian, handuk, dan kain lainnya menggunakan udara paksa dan terkadang panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345613.jpeg",
+      "simplified": "干燥柜",
+      "traditional": "乾燥櫃",
+      "pinyin": "gānzào guì"
+    },
+    {
+      "id": 345625,
+      "translation": {
+        "en": {
+          "short": "snow blower",
+          "long": "a machine used to clear snow from surfaces such as driveways, sidewalks, and roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyapu salju",
+          "long": "Mesin yang digunakan untuk membersihkan salju dari permukaan seperti jalan masuk, trotoar, dan jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345625.jpeg",
+      "simplified": "清雪机",
+      "traditional": "清雪機",
+      "pinyin": "Qīng Xuě Jī"
+    },
+    {
+      "id": 346065,
+      "translation": {
+        "en": {
+          "short": "steam mop",
+          "long": "a mop that utilizes steam to sanitize and clean hard flooring surfaces, such as tile, laminate, or hardwood, by loosening dirt and grime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Steam Mop",
+          "long": "pelayaran yang memanfaatkan uap untuk membersihkan dan membersihkan permukaan lantai keras, seperti ubin, laminasi, atau kayu keras, dengan melonggarkan kotoran dan kotoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346065.jpeg",
+      "simplified": "蒸汽拖把",
+      "traditional": "蒸汽拖把",
+      "pinyin": "zhēngqì tuōbǎ"
+    }
+  ]
+}

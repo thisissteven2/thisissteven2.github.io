@@ -1,0 +1,659 @@
+{
+  "id": 516,
+  "title": {
+    "en": "Travelling",
+    "id": "Bepergian"
+  },
+  "description": {
+    "en": "Here you will learn some English words about travelling, such as \"vacation\", \"reserve\", and \"journey\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang bepergian, seperti \"liburan\", \"cadangan\", dan \"perjalanan\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 221459,
+      "translation": {
+        "en": {
+          "short": "vacation",
+          "long": "a span of time which we do not work or go to school, and spend traveling or resting instead, particularly in a different city, country, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liburan",
+          "long": "Rentang waktu yang tidak kita kerjakan atau bersekolah, dan menghabiskan perjalanan atau beristirahat, terutama di kota, negara, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221459.jpeg",
+      "simplified": "假期",
+      "traditional": "假期",
+      "pinyin": "jiàqī"
+    },
+    {
+      "id": 221445,
+      "translation": {
+        "en": {
+          "short": "adventure",
+          "long": "an exciting or unusual experience, often involving risk or physical activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petualangan",
+          "long": "pengalaman yang menarik atau tidak biasa, seringkali melibatkan risiko atau aktivitas fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221445.jpeg",
+      "simplified": "一次令人兴奋和难忘的经历",
+      "traditional": "一次令人興奮和難忘的經歷",
+      "pinyin": "yīcì lìngrén xīngfèn hé nánwàng de jīnglì"
+    },
+    {
+      "id": 221472,
+      "translation": {
+        "en": {
+          "short": "journey",
+          "long": "the act of travelling between two or more places, especially when there is a long distance between them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "tindakan bepergian antara dua atau lebih tempat, terutama ketika ada jarak jauh di antara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221472.jpeg",
+      "simplified": "旅程",
+      "traditional": "旅程",
+      "pinyin": "lǚchéng"
+    },
+    {
+      "id": 221490,
+      "translation": {
+        "en": {
+          "short": "cruise",
+          "long": "a journey taken by a ship for pleasure, especially one involving several destinations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayaran",
+          "long": "Perjalanan yang dilakukan oleh kapal untuk kesenangan, terutama yang melibatkan beberapa tujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221490.jpeg",
+      "simplified": "巡航",
+      "traditional": "巡航",
+      "pinyin": "xúnháng"
+    },
+    {
+      "id": 221471,
+      "translation": {
+        "en": {
+          "short": "trip",
+          "long": "a journey that you take for fun or a particular reason, generally for a short amount of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "Perjalanan yang Anda ambil untuk bersenang -senang atau alasan tertentu, umumnya untuk waktu yang singkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221471.jpeg",
+      "simplified": "旅",
+      "traditional": "旅",
+      "pinyin": "lǚ"
+    },
+    {
+      "id": 221447,
+      "translation": {
+        "en": {
+          "short": "foreign",
+          "long": "related or belonging to a country or region other than your own",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luar negeri",
+          "long": "terkait atau milik negara atau wilayah selain milik Anda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221447.jpeg",
+      "simplified": "外国的",
+      "traditional": "外國的",
+      "pinyin": "wàiguó de"
+    },
+    {
+      "id": 221446,
+      "translation": {
+        "en": {
+          "short": "foreigner",
+          "long": "a person who lives in a country where they are not a citizen or permanent resident",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang asing",
+          "long": "seseorang yang tinggal di negara di mana mereka bukan warga negara atau penduduk tetap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221446.jpeg",
+      "simplified": "外国人",
+      "traditional": "外國人",
+      "pinyin": "wàiguó rén"
+    },
+    {
+      "id": 221488,
+      "translation": {
+        "en": {
+          "short": "motel",
+          "long": "a hotel near the road suitable for people who are on a road trip, usually with rooms arranged in a row and parking places outside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "motel",
+          "long": "Sebuah hotel di dekat jalan yang cocok untuk orang -orang yang sedang dalam perjalanan, biasanya dengan kamar yang diatur berturut -turut dan tempat parkir di luar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221488.jpeg",
+      "simplified": "汽车旅馆",
+      "traditional": "汽車旅館",
+      "pinyin": "qìchē lǚ guǎn"
+    },
+    {
+      "id": 221455,
+      "translation": {
+        "en": {
+          "short": "cancelation",
+          "long": "the act of stopping a planned event from happening or an order for something from being completed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembatalan",
+          "long": "tindakan menghentikan peristiwa yang direncanakan terjadi atau pesanan untuk sesuatu yang tidak diselesaikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221455.jpeg",
+      "simplified": "取消",
+      "traditional": "取消",
+      "pinyin": "qǔxiāo"
+    },
+    {
+      "id": 221456,
+      "translation": {
+        "en": {
+          "short": "reservation",
+          "long": "the act of arranging something, such as a seat or a hotel room to be kept for you to use later at a particular time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reservasi",
+          "long": "Tindakan mengatur sesuatu, seperti kursi atau kamar hotel yang harus Anda gunakan nanti pada waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221456.jpeg",
+      "simplified": "预订",
+      "traditional": "預訂",
+      "pinyin": "yùdìng"
+    },
+    {
+      "id": 221457,
+      "translation": {
+        "en": {
+          "short": "to reserve",
+          "long": "to arrange something to be kept for later use",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memesan",
+          "long": "untuk mengatur sesuatu yang akan disimpan di kemudian hari",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221457.jpeg",
+      "simplified": "保留",
+      "traditional": "保留",
+      "pinyin": "bǎoliú"
+    },
+    {
+      "id": 221462,
+      "translation": {
+        "en": {
+          "short": "visa",
+          "long": "an official mark on someone's passport that allows them to enter or stay in a country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Visa",
+          "long": "Tanda resmi pada paspor seseorang yang memungkinkan mereka masuk atau tinggal di suatu negara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221462.jpeg",
+      "simplified": "签证",
+      "traditional": "簽證",
+      "pinyin": "qiānzhèng"
+    },
+    {
+      "id": 221463,
+      "translation": {
+        "en": {
+          "short": "to stay",
+          "long": "to live somewhere for a short time, especially as a guest or visitor",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tinggal",
+          "long": "untuk tinggal di suatu tempat untuk waktu yang singkat, terutama sebagai tamu atau pengunjung",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221463.jpeg",
+      "simplified": "短暂停留",
+      "traditional": "短暫停留",
+      "pinyin": "duǎnzàn tíngliú"
+    },
+    {
+      "id": 221466,
+      "translation": {
+        "en": {
+          "short": "postcard",
+          "long": "‌a card that usually has a picture on one side, used for sending messages by post without an envelope",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu pos",
+          "long": "Kartu Kartu yang biasanya memiliki gambar di satu sisi, digunakan untuk mengirim pesan melalui pos tanpa amplop",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221466.jpeg",
+      "simplified": "明信片",
+      "traditional": "明信片",
+      "pinyin": "míngxìn piàn"
+    },
+    {
+      "id": 221467,
+      "translation": {
+        "en": {
+          "short": "souvenir",
+          "long": "something that we usually buy and bring back for other people from a place that we have visited on vacation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suvenir",
+          "long": "sesuatu yang biasanya kami beli dan bawa kembali untuk orang lain dari tempat yang telah kami kunjungi saat liburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221467.jpeg",
+      "simplified": "纪念品",
+      "traditional": "紀念品",
+      "pinyin": "jìniàn pǐn"
+    },
+    {
+      "id": 221469,
+      "translation": {
+        "en": {
+          "short": "to visit",
+          "long": "to go somewhere for a short time, especially to see something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengunjungi",
+          "long": "pergi ke suatu tempat untuk waktu yang singkat, terutama untuk melihat sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221469.jpeg",
+      "simplified": "访",
+      "traditional": "訪",
+      "pinyin": "fǎng"
+    },
+    {
+      "id": 221470,
+      "translation": {
+        "en": {
+          "short": "to sightsee",
+          "long": "to visit interesting and well-known places",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melihat -lihat",
+          "long": "untuk mengunjungi tempat yang menarik dan terkenal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221470.jpeg",
+      "simplified": "观光",
+      "traditional": "觀光",
+      "pinyin": "guānguāng"
+    },
+    {
+      "id": 221473,
+      "translation": {
+        "en": {
+          "short": "to check in",
+          "long": "to confirm your presence or reservation in a hotel or airport after arriving",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk check-in",
+          "long": "Untuk mengkonfirmasi keberadaan atau reservasi Anda di hotel atau bandara setelah tiba",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221473.jpeg",
+      "simplified": "记录到达",
+      "traditional": "記錄到達",
+      "pinyin": "jìlù dàodá"
+    },
+    {
+      "id": 221474,
+      "translation": {
+        "en": {
+          "short": "to check out",
+          "long": "to leave a hotel after returning your room key and paying the bill",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk check out",
+          "long": "meninggalkan hotel setelah mengembalikan kunci kamar Anda dan membayar tagihan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221474.jpeg",
+      "simplified": "离开酒店",
+      "traditional": "離開酒店",
+      "pinyin": "líkāi jiǔdiàn"
+    },
+    {
+      "id": 221476,
+      "translation": {
+        "en": {
+          "short": "abroad",
+          "long": "in or to a foreign country",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "luar negeri",
+          "long": "di atau ke negara asing",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221476.jpeg",
+      "simplified": "国外",
+      "traditional": "國外",
+      "pinyin": "guówài"
+    },
+    {
+      "id": 221477,
+      "translation": {
+        "en": {
+          "short": "to change",
+          "long": "to move from a vehicle, airplane, etc. to another in order to continue a journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk mengganti",
+          "long": "untuk pindah dari kendaraan, pesawat terbang, dll. Ke yang lain untuk melanjutkan perjalanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221477.jpeg",
+      "simplified": "改变",
+      "traditional": "改變",
+      "pinyin": "gǎibiàn"
+    },
+    {
+      "id": 221492,
+      "translation": {
+        "en": {
+          "short": "to fly",
+          "long": "to travel or cross something in an aircraft",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "terbang",
+          "long": "untuk bepergian atau melintasi sesuatu di pesawat terbang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221492.jpeg",
+      "simplified": "飞",
+      "traditional": "飛",
+      "pinyin": "fēi"
+    },
+    {
+      "id": 221478,
+      "translation": {
+        "en": {
+          "short": "to land",
+          "long": "to arrive and rest on the ground or another surface after being in the air",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendarat",
+          "long": "untuk tiba dan beristirahat di tanah atau permukaan lain setelah berada di udara",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221478.jpeg",
+      "simplified": "成功着陆",
+      "traditional": "成功著陸",
+      "pinyin": "Chénggōng zhuólù"
+    },
+    {
+      "id": 221479,
+      "translation": {
+        "en": {
+          "short": "to take off",
+          "long": "to leave a surface and begin flying",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "lepas landas",
+          "long": "meninggalkan permukaan dan mulai terbang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221479.jpeg",
+      "simplified": "起飞",
+      "traditional": "起飛",
+      "pinyin": "qǐfēi"
+    },
+    {
+      "id": 221480,
+      "translation": {
+        "en": {
+          "short": "schedule",
+          "long": "a list or chart that shows the times at which trains, buses, planes, etc. leave and arrive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jadwal",
+          "long": "daftar atau bagan yang menunjukkan waktu di mana kereta, bus, pesawat, dll. Tinggalkan dan tiba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221480.jpeg",
+      "simplified": "时间表",
+      "traditional": "時間表",
+      "pinyin": "shíjiān biǎo"
+    },
+    {
+      "id": 221482,
+      "translation": {
+        "en": {
+          "short": "to wander",
+          "long": "to walk around with no specific purpose or direction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengembara",
+          "long": "berjalan -jalan tanpa tujuan atau arah tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221482.jpeg",
+      "simplified": "漫步",
+      "traditional": "漫步",
+      "pinyin": "mànbù"
+    },
+    {
+      "id": 221484,
+      "translation": {
+        "en": {
+          "short": "arrival",
+          "long": "the act of arriving at a place from somewhere else",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kedatangan",
+          "long": "tindakan tiba di suatu tempat dari tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221484.jpeg",
+      "simplified": "到达",
+      "traditional": "到達",
+      "pinyin": "dàodá"
+    },
+    {
+      "id": 221485,
+      "translation": {
+        "en": {
+          "short": "departure",
+          "long": "the act of leaving, usually to begin a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keberangkatan",
+          "long": "tindakan pergi, biasanya untuk memulai perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221485.jpeg",
+      "simplified": "离开",
+      "traditional": "離開",
+      "pinyin": "líkāi"
+    },
+    {
+      "id": 221486,
+      "translation": {
+        "en": {
+          "short": "customs",
+          "long": "the place at an airport or port where passengers' bags are checked for illegal goods as they enter a country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bea cukai",
+          "long": "Tempat di bandara atau pelabuhan tempat tas penumpang diperiksa barang -barang ilegal saat mereka memasuki suatu negara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221486.jpeg",
+      "simplified": "海关",
+      "traditional": "海關",
+      "pinyin": "hǎiguān"
+    },
+    {
+      "id": 221499,
+      "translation": {
+        "en": {
+          "short": "ride",
+          "long": "a journey on a horse, bicycle, or automobile",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengendarai",
+          "long": "Perjalanan dengan kuda, sepeda, atau mobil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221499.jpeg",
+      "simplified": "骑",
+      "traditional": "騎",
+      "pinyin": "jì"
+    },
+    {
+      "id": 221626,
+      "translation": {
+        "en": {
+          "short": "to leave",
+          "long": "to go away from somewhere",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pergi",
+          "long": "untuk pergi dari suatu tempat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221626.jpeg",
+      "simplified": "离开一个地方",
+      "traditional": "離開一個地方",
+      "pinyin": "líkāi yī gě dìfāng"
+    },
+    {
+      "id": 221627,
+      "translation": {
+        "en": {
+          "short": "to arrive",
+          "long": "to reach a location, particularly as an end to a journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tiba",
+          "long": "untuk mencapai lokasi, terutama sebagai akhir dari perjalanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221627.jpeg",
+      "simplified": "到达",
+      "traditional": "到達",
+      "pinyin": "dàodá"
+    },
+    {
+      "id": 221892,
+      "translation": {
+        "en": {
+          "short": "to cancel",
+          "long": "to decide or tell that something arranged before will now not happen",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membatalkan",
+          "long": "untuk memutuskan atau mengatakan bahwa sesuatu yang diatur sebelumnya tidak akan terjadi sekarang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221892.jpeg",
+      "simplified": "取消",
+      "traditional": "取消",
+      "pinyin": "qǔxiāo"
+    },
+    {
+      "id": 391203,
+      "translation": {
+        "en": {
+          "short": "to reach",
+          "long": "to get to your planned destination",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencapai",
+          "long": "Untuk sampai ke tujuan yang direncanakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391203.jpeg",
+      "simplified": "到达",
+      "traditional": "到達",
+      "pinyin": "dàodá"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "id": 5866,
+  "title": {
+    "en": "Boxing",
+    "id": "Tinju"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 395300,
+      "translation": {
+        "en": {
+          "short": "Muay Thai",
+          "long": "a Thai martial art that combines boxing with stand-up striking and clinching techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Muay Thai",
+          "long": "Seni bela diri Thailand yang menggabungkan tinju dengan teknik mencolok dan meraih stand-up",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395300.jpeg",
+      "simplified": "泰拳",
+      "traditional": "泰拳",
+      "pinyin": "Tàiquán"
+    },
+    {
+      "id": 395296,
+      "translation": {
+        "en": {
+          "short": "kickboxing",
+          "long": "a combat sport that combines elements of boxing and kicking techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kickboxing",
+          "long": "Olahraga tempur yang menggabungkan elemen tinju dan teknik menendang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395296.jpeg",
+      "simplified": "跆拳道",
+      "traditional": "跆拳道",
+      "pinyin": "táiquán dào"
+    },
+    {
+      "id": 396649,
+      "translation": {
+        "en": {
+          "short": "savate",
+          "long": "a French form of kickboxing that incorporates both punches and kicks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Savate",
+          "long": "Bentuk kickboxing Prancis yang menggabungkan kedua pukulan dan tendangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396649.jpeg",
+      "simplified": "萨瓦特",
+      "traditional": "薩瓦特",
+      "pinyin": "Sà wǎtè"
+    },
+    {
+      "id": 395298,
+      "translation": {
+        "en": {
+          "short": "K-1",
+          "long": "a dynamic style of kickboxing emphasizing diverse striking techniques, originating in Japan and known for high-level competitions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "K-1",
+          "long": "Gaya dinamis kickboxing yang menekankan beragam teknik mencolok, yang berasal dari Jepang dan dikenal dengan kompetisi tingkat tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395298.jpeg",
+      "simplified": "K-1",
+      "traditional": "K-1",
+      "pinyin": ""
+    },
+    {
+      "id": 395301,
+      "translation": {
+        "en": {
+          "short": "jab",
+          "long": "a quick, straight punch thrown with the lead hand to create distance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tusukan",
+          "long": "pukulan cepat dan lurus dilemparkan dengan tangan timah untuk membuat jarak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395301.jpeg",
+      "simplified": "推撞",
+      "traditional": "推撞",
+      "pinyin": "tuī zhuàng"
+    },
+    {
+      "id": 395303,
+      "translation": {
+        "en": {
+          "short": "cross",
+          "long": "(boxing) straight punch thrown with the rear hand, usually aimed straight at the opponent's head or body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyeberang",
+          "long": "(tinju) pukulan lurus dilemparkan dengan tangan belakang, biasanya ditujukan lurus ke kepala atau tubuh lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395303.jpeg",
+      "simplified": "十字架",
+      "traditional": "十字架",
+      "pinyin": "shízì jià"
+    },
+    {
+      "id": 395304,
+      "translation": {
+        "en": {
+          "short": "hook",
+          "long": "(boxing) a powerful punch thrown with a bent arm aimed at connecting with the side or front of an opponent's head or body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kait",
+          "long": "(tinju) Pukulan kuat dilemparkan dengan lengan bengkok yang bertujuan menghubungkan dengan sisi atau depan kepala atau tubuh lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395304.jpeg",
+      "simplified": "钩",
+      "traditional": "鉤",
+      "pinyin": "gōu"
+    },
+    {
+      "id": 395305,
+      "translation": {
+        "en": {
+          "short": "uppercut",
+          "long": "(boxing) a powerful punch thrown from below, aimed upward toward the opponent's chin or body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Uppercut",
+          "long": "(tinju) Pukulan kuat yang dilemparkan dari bawah, ditujukan ke atas ke arah dagu atau tubuh lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395305.jpeg",
+      "simplified": "上勾拳",
+      "traditional": "上勾拳",
+      "pinyin": "shǎng gōuquán"
+    },
+    {
+      "id": 395307,
+      "translation": {
+        "en": {
+          "short": "body punch",
+          "long": "(boxing) a strike aimed at the opponent's torso area, typically the ribs or abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pukulan Tubuh",
+          "long": "(tinju) Pemogokan yang ditujukan pada area batang lawan, biasanya tulang rusuk atau perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395307.jpeg",
+      "simplified": "身体拳",
+      "traditional": "身體拳",
+      "pinyin": "shēntǐ quán"
+    },
+    {
+      "id": 395309,
+      "translation": {
+        "en": {
+          "short": "roundhouse kick",
+          "long": "(Muay Thai) a powerful strike where the fighter pivots on one foot while swinging the other leg horizontally to hit the opponent with the shin or foot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tendangan Roundhouse",
+          "long": "(Muay Thai) Sebuah pemogokan yang kuat di mana pejuang itu berputar pada satu kaki sambil mengayunkan kaki yang lain secara horizontal untuk menabrak lawan dengan tulang kering atau kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395309.jpeg",
+      "simplified": "回旋踢",
+      "traditional": "迴旋踢",
+      "pinyin": "huíxuán tī"
+    },
+    {
+      "id": 395311,
+      "translation": {
+        "en": {
+          "short": "bob and weave",
+          "long": "a defensive technique in boxing to dodge punches and set up counterattacks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bob dan menenun",
+          "long": "Teknik defensif dalam tinju untuk menghindari pukulan dan mengatur serangan balik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395311.jpeg",
+      "simplified": "鲍勃和编织",
+      "traditional": "鮑勃和編織",
+      "pinyin": "Bào bó hé biānzhī"
+    },
+    {
+      "id": 395314,
+      "translation": {
+        "en": {
+          "short": "to block",
+          "long": "to obstruct or hinder the progress or action of an opponent, typically in sports or competitive activities",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memblokir",
+          "long": "untuk menghalangi atau menghalangi kemajuan atau tindakan lawan, biasanya dalam olahraga atau kegiatan kompetitif",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395314.jpeg",
+      "simplified": "阻止",
+      "traditional": "阻止",
+      "pinyin": "zǔzhǐ"
+    },
+    {
+      "id": 395316,
+      "translation": {
+        "en": {
+          "short": "head movement",
+          "long": "the strategic shifting or dodging of the head in boxing to avoid incoming strikes from an opponent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gerakan Kepala",
+          "long": "Pergeseran strategis atau menghindari kepala dalam tinju untuk menghindari serangan yang masuk dari lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395316.jpeg",
+      "simplified": "头部运动",
+      "traditional": "頭部運動",
+      "pinyin": "tóubù yùndòng"
+    },
+    {
+      "id": 395318,
+      "translation": {
+        "en": {
+          "short": "check hook",
+          "long": "a punching technique where a boxer throws a hook while moving backward or sideways to counter an opponent's attack",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Periksa Hook",
+          "long": "Teknik meninju di mana seorang petinju melempar kait sambil bergerak ke belakang atau menyamping untuk melawan serangan lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395318.jpeg",
+      "simplified": "检查钩子",
+      "traditional": "檢查鉤子",
+      "pinyin": "jiǎnchá gōuzi"
+    },
+    {
+      "id": 395327,
+      "translation": {
+        "en": {
+          "short": "low kick",
+          "long": "a striking technique in kickboxing targeting an opponent's thigh or lower leg",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan rendah",
+          "long": "Teknik yang mencolok dalam kickboxing yang menargetkan paha lawan atau kaki bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395327.jpeg",
+      "simplified": "低踢",
+      "traditional": "低踢",
+      "pinyin": "dī tī"
+    },
+    {
+      "id": 395329,
+      "translation": {
+        "en": {
+          "short": "stoppage",
+          "long": "the situation where the referee ends the fight early due to one boxer's inability to continue safely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghentian",
+          "long": "Situasi di mana wasit mengakhiri pertarungan lebih awal karena ketidakmampuan seorang petinju untuk melanjutkan dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395329.jpeg",
+      "simplified": "堵塞",
+      "traditional": "堵塞",
+      "pinyin": "dǔsè"
+    },
+    {
+      "id": 395330,
+      "translation": {
+        "en": {
+          "short": "knockout",
+          "long": "a situation where one fighter delivers a punch or series of punches that disable their opponent of fighting in that match, leading to an immediate victory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pukulan knockout",
+          "long": "Situasi di mana seorang pejuang memberikan pukulan atau serangkaian pukulan yang menonaktifkan lawan pertempuran mereka dalam pertandingan itu, yang mengarah ke kemenangan langsung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395330.jpeg",
+      "simplified": "杰出",
+      "traditional": "傑出",
+      "pinyin": "jiéchū"
+    },
+    {
+      "id": 395331,
+      "translation": {
+        "en": {
+          "short": "knockout punch",
+          "long": "a powerful strike that makes an opponent unconscious or unable to continue the fight, resulting in an immediate victory for the delivering boxer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Knockout Punch",
+          "long": "pemogokan yang kuat yang membuat lawan tidak sadar atau tidak dapat melanjutkan pertarungan, menghasilkan kemenangan langsung untuk petinju pengiriman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395331.jpeg",
+      "simplified": "击倒拳",
+      "traditional": "擊倒拳",
+      "pinyin": "jīdǎo quán"
+    },
+    {
+      "id": 395332,
+      "translation": {
+        "en": {
+          "short": "technical knockout",
+          "long": "a situation that occurs when a referee stops a fight because one fighter is unable to continue due to injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "KO teknis",
+          "long": "Situasi yang terjadi ketika seorang wasit menghentikan pertarungan karena seorang pejuang tidak dapat melanjutkan karena cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395332.jpeg",
+      "simplified": "技术淘汰赛",
+      "traditional": "技術淘汰賽",
+      "pinyin": "jìshù táotài sài"
+    },
+    {
+      "id": 395333,
+      "translation": {
+        "en": {
+          "short": "split decision",
+          "long": "a situation where two of the three judges score the bout in favor of one boxer, while the third judge scores it in favor of the other boxer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Keputusan terpisah",
+          "long": "Situasi di mana dua dari tiga hakim mencetak pertarungan mendukung satu petinju, sedangkan hakim ketiga mencetaknya demi petinju lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395333.jpeg",
+      "simplified": "分裂决策",
+      "traditional": "分裂決策",
+      "pinyin": "fēnliè juécè"
+    },
+    {
+      "id": 395334,
+      "translation": {
+        "en": {
+          "short": "shadowboxing",
+          "long": "a training exercise where a boxer practices their technique, footwork, and movement without an opponent, often visualizing an imaginary opponent or scenarios",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shadowboxing",
+          "long": "Latihan pelatihan di mana seorang petinju mempraktikkan teknik, gerak kaki, dan gerakan mereka tanpa lawan, sering memvisualisasikan lawan atau skenario imajiner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395334.jpeg",
+      "simplified": "打拳",
+      "traditional": "打拳",
+      "pinyin": "dǎquán"
+    },
+    {
+      "id": 395335,
+      "translation": {
+        "en": {
+          "short": "sparring",
+          "long": "a controlled practice session where boxers simulate a real fight, focusing on technique, timing, and strategy without aiming to knock out their opponent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perdebatan",
+          "long": "sesi latihan yang terkontrol di mana petinju mensimulasikan pertarungan nyata, fokus pada teknik, waktu, dan strategi tanpa bertujuan untuk merobohkan lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395335.jpeg",
+      "simplified": "陪练",
+      "traditional": "陪練",
+      "pinyin": "péiliàn"
+    },
+    {
+      "id": 395337,
+      "translation": {
+        "en": {
+          "short": "roadwork",
+          "long": "the long-distance running or jogging done by boxers to build stamina and endurance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perbaikan jalan",
+          "long": "berjalan jarak jauh atau jogging yang dilakukan oleh petinju untuk membangun stamina dan ketahanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395337.jpeg",
+      "simplified": "道路施工",
+      "traditional": "道路施工",
+      "pinyin": "dàolù shīgōng"
+    },
+    {
+      "id": 395341,
+      "translation": {
+        "en": {
+          "short": "peekaboo",
+          "long": "a defensive style where the boxer holds their gloves close to their cheeks to protect their face while maintaining mobility",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ciluk ba",
+          "long": "Gaya defensif di mana petinju memegang sarung tangan mereka dekat dengan pipi mereka untuk melindungi wajah mereka sambil mempertahankan mobilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395341.jpeg",
+      "simplified": "躲猫猫",
+      "traditional": "躲貓貓",
+      "pinyin": "duǒmāo māo"
+    },
+    {
+      "id": 395343,
+      "translation": {
+        "en": {
+          "short": "southpaw stance",
+          "long": "a left-handed fighting position where the boxer's right hand and right foot are forward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sikap kidal",
+          "long": "Posisi pertempuran kidal di mana tangan kanan petinju dan kaki kanan ke depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395343.jpeg",
+      "simplified": "左撇子姿势",
+      "traditional": "左撇子姿勢",
+      "pinyin": "zuǒpiě zi zīshì"
+    },
+    {
+      "id": 405334,
+      "translation": {
+        "en": {
+          "short": "orthodox stance",
+          "long": "a stance where a boxer's left hand and left foot are forward, with the right hand and right foot positioned behind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sikap ortodoks",
+          "long": "Sikap di mana tangan kiri dan kaki kiri petinju maju, dengan tangan kanan dan kaki kanan di belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405334.jpeg",
+      "simplified": "东正教立场",
+      "traditional": "東正教立場",
+      "pinyin": "Dōngzhèng jiào lìchǎng"
+    },
+    {
+      "id": 395347,
+      "translation": {
+        "en": {
+          "short": "undercard",
+          "long": "the preliminary boxing matches that precede the main event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Undercard",
+          "long": "Pencocokan tinju pendahuluan yang mendahului acara utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395347.jpeg",
+      "simplified": "底牌",
+      "traditional": "底牌",
+      "pinyin": "dǐpái"
+    },
+    {
+      "id": 395350,
+      "translation": {
+        "en": {
+          "short": "Queensberry rules",
+          "long": "the standard regulations for modern boxing matches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aturan Queensberry",
+          "long": "Peraturan standar untuk pertandingan tinju modern",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395350.jpeg",
+      "simplified": "昆斯伯里规则",
+      "traditional": "昆斯伯里規則",
+      "pinyin": "kūn Sī bà lǐ guīzé"
+    },
+    {
+      "id": 395351,
+      "translation": {
+        "en": {
+          "short": "prizefight",
+          "long": "a professional boxing match where boxers compete for a cash prize",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "PRIZFIGHT",
+          "long": "Pertandingan tinju profesional di mana petinju bersaing untuk mendapatkan hadiah uang tunai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395351.jpeg",
+      "simplified": "奖杯",
+      "traditional": "獎杯",
+      "pinyin": "jiǎngbēi"
+    },
+    {
+      "id": 396673,
+      "translation": {
+        "en": {
+          "short": "teep kick",
+          "long": "a push kick used in Muay Thai and other martial arts to create distance or disrupt an opponent's balance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan teep",
+          "long": "tendangan dorong yang digunakan di Muay Thai dan seni bela diri lainnya untuk menciptakan jarak atau mengganggu keseimbangan lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396673.jpeg",
+      "simplified": "急踢",
+      "traditional": "急踢",
+      "pinyin": "jí tī"
+    },
+    {
+      "id": 403128,
+      "translation": {
+        "en": {
+          "short": "breakaway",
+          "long": "(boxing)  quick maneuver to separate from an opponent, typically from a clinch, aimed at gaining advantage or creating space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berpisah",
+          "long": "(tinju) Manuver cepat untuk terpisah dari lawan, biasanya dari klinik, yang ditujukan untuk mendapatkan keuntungan atau menciptakan ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403128.jpeg",
+      "simplified": "摆脱",
+      "traditional": "擺脫",
+      "pinyin": "bǎituō"
+    },
+    {
+      "id": 404636,
+      "translation": {
+        "en": {
+          "short": "counterpunch",
+          "long": "defensive tactic where a boxer responds to an opponent's attack by immediately delivering a punch of their own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "counterpunch",
+          "long": "Taktik defensif di mana seorang petinju menanggapi serangan lawan dengan segera memberikan pukulan mereka sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404636.jpeg",
+      "simplified": "反击",
+      "traditional": "反擊",
+      "pinyin": "fǎnjī"
+    },
+    {
+      "id": 404818,
+      "translation": {
+        "en": {
+          "short": "bout",
+          "long": "an event where individuals compete in the sport of boxing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertandingan",
+          "long": "acara di mana individu bersaing dalam olahraga tinju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404818.jpeg",
+      "simplified": "回合",
+      "traditional": "回合",
+      "pinyin": "huíhé"
+    }
+  ]
+}

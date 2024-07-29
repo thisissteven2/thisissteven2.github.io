@@ -1,0 +1,716 @@
+{
+  "id": 520,
+  "title": {
+    "en": "The Mind",
+    "id": "Pikiran"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the mind, such as \"knowledge\", \"mental\", and \"talent\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pikiran, seperti \"pengetahuan\", \"mental\", dan \"bakat\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 221696,
+      "translation": {
+        "en": {
+          "short": "mind",
+          "long": "the ability in a person that makes them think, feel, or imagine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pikiran",
+          "long": "kemampuan pada seseorang yang membuat mereka berpikir, merasakan, atau membayangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221696.jpeg",
+      "simplified": "头脑",
+      "traditional": "頭腦",
+      "pinyin": "tóunǎo"
+    },
+    {
+      "id": 221697,
+      "translation": {
+        "en": {
+          "short": "mental",
+          "long": "happening or related to someone's mind",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mental",
+          "long": "terjadi atau terkait dengan pikiran seseorang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221697.jpeg",
+      "simplified": "精神的",
+      "traditional": "精神的",
+      "pinyin": "jīngshén de"
+    },
+    {
+      "id": 221698,
+      "translation": {
+        "en": {
+          "short": "talent",
+          "long": "an ability that a person naturally has in doing something well",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bakat",
+          "long": "kemampuan yang secara alami dimiliki seseorang dalam melakukan sesuatu dengan baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221698.jpeg",
+      "simplified": "天赋",
+      "traditional": "天賦",
+      "pinyin": "tiānfù"
+    },
+    {
+      "id": 221699,
+      "translation": {
+        "en": {
+          "short": "skill",
+          "long": "an ability to do something well, especially after training",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keahlian",
+          "long": "kemampuan untuk melakukan sesuatu dengan baik, terutama setelah pelatihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221699.jpeg",
+      "simplified": "技能",
+      "traditional": "技能",
+      "pinyin": "jìnéng"
+    },
+    {
+      "id": 221700,
+      "translation": {
+        "en": {
+          "short": "knowledge",
+          "long": "an understanding of or information about a subject after studying and experiencing it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengetahuan",
+          "long": "pemahaman atau informasi tentang subjek setelah mempelajari dan mengalaminya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221700.jpeg",
+      "simplified": "知识",
+      "traditional": "知識",
+      "pinyin": "zhīshi"
+    },
+    {
+      "id": 221702,
+      "translation": {
+        "en": {
+          "short": "guess",
+          "long": "an attempt to give an answer without having enough facts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tebakan",
+          "long": "upaya untuk memberikan jawaban tanpa memiliki fakta yang cukup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221702.jpeg",
+      "simplified": "猜测",
+      "traditional": "猜測",
+      "pinyin": "cāicè"
+    },
+    {
+      "id": 221716,
+      "translation": {
+        "en": {
+          "short": "to guess",
+          "long": "to consider something as true without being sure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menebak",
+          "long": "untuk mempertimbangkan sesuatu yang benar tanpa yakin",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221716.jpeg",
+      "simplified": "假设",
+      "traditional": "假設",
+      "pinyin": "jiǎshè"
+    },
+    {
+      "id": 221703,
+      "translation": {
+        "en": {
+          "short": "to believe",
+          "long": "to accept something to be true even without proof",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "percaya",
+          "long": "menerima sesuatu untuk menjadi kenyataan bahkan tanpa bukti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221703.jpeg",
+      "simplified": "接受某事",
+      "traditional": "接受某事",
+      "pinyin": "jiēshòu mǒushì"
+    },
+    {
+      "id": 221704,
+      "translation": {
+        "en": {
+          "short": "belief",
+          "long": "something that we think is true or real",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepercayaan",
+          "long": "sesuatu yang kami anggap benar atau nyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221704.jpeg",
+      "simplified": "信仰",
+      "traditional": "信仰",
+      "pinyin": "xìnyǎng"
+    },
+    {
+      "id": 221705,
+      "translation": {
+        "en": {
+          "short": "memory",
+          "long": "the ability of mind to keep and remember past events, people, experiences, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyimpanan",
+          "long": "Kemampuan pikiran untuk menjaga dan mengingat peristiwa masa lalu, orang, pengalaman, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221705.jpeg",
+      "simplified": "记忆",
+      "traditional": "記憶",
+      "pinyin": "jìyì"
+    },
+    {
+      "id": 221706,
+      "translation": {
+        "en": {
+          "short": "to remember",
+          "long": "to bring a type of information from the past to our mind again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengingat",
+          "long": "untuk membawa jenis informasi dari masa lalu ke pikiran kita lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221706.jpeg",
+      "simplified": "记得",
+      "traditional": "記得",
+      "pinyin": "jìde"
+    },
+    {
+      "id": 221707,
+      "translation": {
+        "en": {
+          "short": "to forget",
+          "long": "to not be able to remember something or someone from the past",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk dilupakan",
+          "long": "untuk tidak dapat mengingat sesuatu atau seseorang dari masa lalu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221707.jpeg",
+      "simplified": "忘记",
+      "traditional": "忘記",
+      "pinyin": "wàngjì"
+    },
+    {
+      "id": 221708,
+      "translation": {
+        "en": {
+          "short": "idea",
+          "long": "a suggestion or thought about something that we could do",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ide",
+          "long": "saran atau pemikiran tentang sesuatu yang bisa kita lakukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221708.jpeg",
+      "simplified": "理念",
+      "traditional": "理念",
+      "pinyin": "lǐniàn"
+    },
+    {
+      "id": 221709,
+      "translation": {
+        "en": {
+          "short": "favorite",
+          "long": "liked or preferred the most among the rest that are from the same category",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "favorit",
+          "long": "disukai atau lebih disukai di antara yang lain yang berasal dari kategori yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221709.jpeg",
+      "simplified": "最喜欢的",
+      "traditional": "最喜歡的",
+      "pinyin": "zuì xǐhuan de"
+    },
+    {
+      "id": 221710,
+      "translation": {
+        "en": {
+          "short": "suggestion",
+          "long": "the act of putting an idea or plan forward for someone to think about",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saran",
+          "long": "tindakan menempatkan ide atau merencanakan untuk dipikirkan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221710.jpeg",
+      "simplified": "背书",
+      "traditional": "背書",
+      "pinyin": "bèishū"
+    },
+    {
+      "id": 221711,
+      "translation": {
+        "en": {
+          "short": "to suggest",
+          "long": "to mention an idea, proposition, plan, etc. for further consideration or possible action",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyarankan",
+          "long": "untuk menyebutkan ide, proposisi, rencana, dll. Untuk pertimbangan lebih lanjut atau tindakan yang mungkin",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221711.jpeg",
+      "simplified": "建议",
+      "traditional": "建議",
+      "pinyin": "jiànyì"
+    },
+    {
+      "id": 221712,
+      "translation": {
+        "en": {
+          "short": "goal",
+          "long": "our purpose or desired result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sasaran",
+          "long": "tujuan kami atau hasil yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221712.jpeg",
+      "simplified": "目标",
+      "traditional": "目標",
+      "pinyin": "mùbiāo"
+    },
+    {
+      "id": 221713,
+      "translation": {
+        "en": {
+          "short": "plan",
+          "long": "a chain of actions that will help us reach our goals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rencana",
+          "long": "rantai tindakan yang akan membantu kita mencapai tujuan kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221713.jpeg",
+      "simplified": "时间表",
+      "traditional": "時間表",
+      "pinyin": "shíjiān biǎo"
+    },
+    {
+      "id": 221717,
+      "translation": {
+        "en": {
+          "short": "to hope",
+          "long": "to want something to happen or be true",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berharap",
+          "long": "ingin sesuatu terjadi atau benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221717.jpeg",
+      "simplified": "希望某事",
+      "traditional": "希望某事",
+      "pinyin": "xīwàng mǒushì"
+    },
+    {
+      "id": 221718,
+      "translation": {
+        "en": {
+          "short": "hope",
+          "long": "a feeling of expectation and desire for a particular thing to happen or to be true",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "harapan",
+          "long": "perasaan harapan dan keinginan untuk hal tertentu terjadi atau menjadi kenyataan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221718.jpeg",
+      "simplified": "愿",
+      "traditional": "願",
+      "pinyin": "yuàn"
+    },
+    {
+      "id": 221719,
+      "translation": {
+        "en": {
+          "short": "to imagine",
+          "long": "to make or have an image of something in our mind",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membayangkan",
+          "long": "untuk membuat atau memiliki citra sesuatu dalam pikiran kita",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221719.jpeg",
+      "simplified": "想象某人或某事",
+      "traditional": "想像某人或某事",
+      "pinyin": "xiǎngxiàng mǒurén huò mǒushì"
+    },
+    {
+      "id": 221720,
+      "translation": {
+        "en": {
+          "short": "to dream",
+          "long": "to experience something in our mind while we are asleep",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mimpi",
+          "long": "untuk mengalami sesuatu dalam pikiran kita saat kita tidur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221720.jpeg",
+      "simplified": "当某人在做梦时",
+      "traditional": "當某人在做夢時",
+      "pinyin": "dāng mǒurén zài zuòmèng shí"
+    },
+    {
+      "id": 221721,
+      "translation": {
+        "en": {
+          "short": "to enjoy",
+          "long": "to take pleasure or find happiness in something or someone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menikmati",
+          "long": "untuk menikmati atau menemukan kebahagiaan dalam sesuatu atau seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221721.jpeg",
+      "simplified": "享受某事",
+      "traditional": "享受某事",
+      "pinyin": "xiǎngshòu mǒushì"
+    },
+    {
+      "id": 221722,
+      "translation": {
+        "en": {
+          "short": "worried",
+          "long": "feeling unhappy and afraid because of something that has happened or might happen",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "khawatir",
+          "long": "merasa tidak bahagia dan takut karena sesuatu yang telah terjadi atau mungkin terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221722.jpeg",
+      "simplified": "担心",
+      "traditional": "擔心",
+      "pinyin": "dānxīn"
+    },
+    {
+      "id": 221723,
+      "translation": {
+        "en": {
+          "short": "nervous",
+          "long": "tending to easily get worried or frightened about things",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "grogi",
+          "long": "cenderung dengan mudah khawatir atau takut tentang hal -hal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221723.jpeg",
+      "simplified": "紧张的",
+      "traditional": "緊張的",
+      "pinyin": "jǐnzhāng de"
+    },
+    {
+      "id": 221724,
+      "translation": {
+        "en": {
+          "short": "calm",
+          "long": "not showing worry, anger, or other strong emotions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tenang",
+          "long": "tidak menunjukkan kekhawatiran, kemarahan, atau emosi yang kuat lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221724.jpeg",
+      "simplified": "冷静的",
+      "traditional": "冷靜的",
+      "pinyin": "lěngjìng de"
+    },
+    {
+      "id": 221725,
+      "translation": {
+        "en": {
+          "short": "afraid",
+          "long": "getting a bad and anxious feeling from a person or thing because we think something bad or dangerous will happen",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "takut",
+          "long": "Mendapatkan perasaan buruk dan cemas dari seseorang atau sesuatu karena kami berpikir sesuatu yang buruk atau berbahaya akan terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221725.jpeg",
+      "simplified": "害怕的",
+      "traditional": "害怕的",
+      "pinyin": "hàipà de"
+    },
+    {
+      "id": 221726,
+      "translation": {
+        "en": {
+          "short": "experience",
+          "long": "the skill and knowledge we gain from doing, feeling, or seeing things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengalaman",
+          "long": "keterampilan dan pengetahuan yang kita peroleh dari melakukan, merasakan, atau melihat sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221726.jpeg",
+      "simplified": "经验",
+      "traditional": "經驗",
+      "pinyin": "jīngyàn"
+    },
+    {
+      "id": 244205,
+      "translation": {
+        "en": {
+          "short": "matter",
+          "long": "a situation or subject that needs to be dealt with or considered",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urusan",
+          "long": "situasi atau subjek yang perlu ditangani atau dipertimbangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244205.jpeg",
+      "simplified": "问题",
+      "traditional": "問題",
+      "pinyin": "wèntí"
+    },
+    {
+      "id": 221728,
+      "translation": {
+        "en": {
+          "short": "to decide",
+          "long": "to think carefully about different things and choose one of them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memutuskan",
+          "long": "untuk memikirkan dengan cermat tentang hal yang berbeda dan memilih salah satunya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221728.jpeg",
+      "simplified": "决定某事",
+      "traditional": "決定某事",
+      "pinyin": "juédìng mǒushì"
+    },
+    {
+      "id": 231235,
+      "translation": {
+        "en": {
+          "short": "decision",
+          "long": "the act of reaching a choice or judgement after careful consideration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keputusan",
+          "long": "tindakan mencapai pilihan atau penilaian setelah pertimbangan yang cermat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/231235.jpeg",
+      "simplified": "决断",
+      "traditional": "決斷",
+      "pinyin": "juéduàn"
+    },
+    {
+      "id": 244150,
+      "translation": {
+        "en": {
+          "short": "power",
+          "long": "the ability to do or achieve something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekuatan",
+          "long": "kemampuan untuk melakukan atau mencapai sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244150.jpeg",
+      "simplified": "力量",
+      "traditional": "力量",
+      "pinyin": "lìliang"
+    },
+    {
+      "id": 246500,
+      "translation": {
+        "en": {
+          "short": "clear",
+          "long": "easy to understand",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jernih",
+          "long": "mudah dimengerti",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246500.jpeg",
+      "simplified": "明显的",
+      "traditional": "明顯的",
+      "pinyin": "míngxiǎn de"
+    },
+    {
+      "id": 250128,
+      "translation": {
+        "en": {
+          "short": "choice",
+          "long": "an act of deciding to choose between two things or more",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pilihan",
+          "long": "tindakan memutuskan untuk memilih antara dua hal atau lebih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/250128.jpeg",
+      "simplified": "精选",
+      "traditional": "精選",
+      "pinyin": "jīngxuǎn"
+    },
+    {
+      "id": 391205,
+      "translation": {
+        "en": {
+          "short": "to smell",
+          "long": "to recognize or become aware of a particular scent",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencium",
+          "long": "untuk mengenali atau menjadi sadar akan aroma tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391205.jpeg",
+      "simplified": "闻",
+      "traditional": "聞",
+      "pinyin": "Wén"
+    },
+    {
+      "id": 264822,
+      "translation": {
+        "en": {
+          "short": "to remind",
+          "long": "to bring a memory back to a person's mind",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengingatkan",
+          "long": "untuk membawa ingatan kembali ke pikiran seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264822.jpeg",
+      "simplified": "提醒",
+      "traditional": "提醒",
+      "pinyin": "tíxǐng"
+    },
+    {
+      "id": 391168,
+      "translation": {
+        "en": {
+          "short": "danger",
+          "long": "the likelihood of experiencing harm, damage, or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahaya",
+          "long": "kemungkinan mengalami bahaya, kerusakan, atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391168.jpeg",
+      "simplified": "危险",
+      "traditional": "危險",
+      "pinyin": "wēixiǎn"
+    }
+  ]
+}

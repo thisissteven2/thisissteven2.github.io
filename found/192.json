@@ -1,0 +1,697 @@
+{
+  "id": 192,
+  "title": {
+    "en": "Grammar",
+    "id": "Tata bahasa"
+  },
+  "description": {
+    "en": "Here you will learn some English words about grammar, such as \"plural\", \"preposition\", \"prefix\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang tata bahasa, seperti \"jamak\", \"preposisi\", \"awalan\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 214306,
+      "translation": {
+        "en": {
+          "short": "abbreviation",
+          "long": "the shortened form of a word, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "singkatan",
+          "long": "Bentuk kata yang dipersingkat, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214306.jpeg",
+      "simplified": "单词或短语的缩写形式",
+      "traditional": "單詞或短語的縮寫形式",
+      "pinyin": "dāncí huò duǎnyǔ de suōxiě xíngshì"
+    },
+    {
+      "id": 214310,
+      "translation": {
+        "en": {
+          "short": "article",
+          "long": "(grammar) any type of determiner that shows whether we are referring to a particular thing or a general example of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "artikel",
+          "long": "(tata bahasa) segala jenis penentu yang menunjukkan apakah kita mengacu pada hal tertentu atau contoh umum dari sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214310.jpeg",
+      "simplified": "用于确定名词是已知还是未知",
+      "traditional": "用於確定名詞是已知還是未知",
+      "pinyin": "yòngyú quèdìng míngcí shì yǐzhī háishi wèizhī"
+    },
+    {
+      "id": 214311,
+      "translation": {
+        "en": {
+          "short": "auxiliary verb",
+          "long": "a verb that is used with other verbs to indicate tense, voice, etc., such as do, have, and be",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata kerja bantu",
+          "long": "kata kerja yang digunakan dengan kata kerja lain untuk menunjukkan tegang, suara, dll., Seperti halnya, miliki, dan jadilah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214311.jpeg",
+      "simplified": "辅助动词",
+      "traditional": "輔助動詞",
+      "pinyin": "fǔzhù dòngcí"
+    },
+    {
+      "id": 214313,
+      "translation": {
+        "en": {
+          "short": "conjunction",
+          "long": "(grammar) a word such as and, because, but, and or that connects phrases, sentences, or words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konjungsi",
+          "long": "(tata bahasa) Sebuah kata seperti dan, karena, tetapi, dan atau itu menghubungkan frasa, kalimat, atau kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214313.jpeg",
+      "simplified": "用于连接句子中的单词、短语或从句",
+      "traditional": "用於連接句子中的單詞、短語或從句",
+      "pinyin": "yòngyú liánjiē jùzi zhòngdì dāncí duǎnyǔ huò cóngjù"
+    },
+    {
+      "id": 238413,
+      "translation": {
+        "en": {
+          "short": "preposition",
+          "long": "(grammar) a word that comes before a noun or pronoun to indicate location, direction, time, manner, or the relationship between two objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "preposisi",
+          "long": "(tata bahasa) Kata yang datang sebelum kata benda atau kata ganti untuk menunjukkan lokasi, arah, waktu, cara, atau hubungan antara dua objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238413.jpeg",
+      "simplified": "用于显示名词、代词与其他元素的关系",
+      "traditional": "用於顯示名詞、代詞與其他元素的關係",
+      "pinyin": "yòngyú xiǎnshì míngcí dàicí yǔqí tā yuánsù de guānxi"
+    },
+    {
+      "id": 214303,
+      "translation": {
+        "en": {
+          "short": "proper noun",
+          "long": "(grammar) the name of a place, person, country, etc. with its first letter capitalized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda yang tepat",
+          "long": "(tata bahasa) Nama tempat, orang, negara, dll. Dengan surat pertamanya dikapitalisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214303.jpeg",
+      "simplified": "专名",
+      "traditional": "專名",
+      "pinyin": "zhuānmíng"
+    },
+    {
+      "id": 238417,
+      "translation": {
+        "en": {
+          "short": "pronoun",
+          "long": "(grammar) a word that can replace a noun or noun phrase, such as she, it, they, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti",
+          "long": "(Tata Bahasa) Kata yang dapat menggantikan frasa kata benda atau kata benda, seperti dia, itu, mereka, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238417.jpeg",
+      "simplified": "代词",
+      "traditional": "代詞",
+      "pinyin": "dàicí"
+    },
+    {
+      "id": 214322,
+      "translation": {
+        "en": {
+          "short": "prefix",
+          "long": "(grammar) a letter or a set of letters that are added to the beginning of a word to alter its meaning and make a new word",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "awalan",
+          "long": "(tata bahasa) Surat atau satu set huruf yang ditambahkan ke awal kata untuk mengubah maknanya dan membuat kata baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214322.jpeg",
+      "simplified": "字首",
+      "traditional": "字首",
+      "pinyin": "zìshǒu"
+    },
+    {
+      "id": 214323,
+      "translation": {
+        "en": {
+          "short": "suffix",
+          "long": "(grammar) a letter or a set of letters that are added to the end of a word to alter its meaning and make a new word",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akhiran",
+          "long": "(tata bahasa) Surat atau satu set huruf yang ditambahkan ke akhir kata untuk mengubah maknanya dan membuat kata baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214323.jpeg",
+      "simplified": "后缀",
+      "traditional": "後綴",
+      "pinyin": "hòuzhuì"
+    },
+    {
+      "id": 214307,
+      "translation": {
+        "en": {
+          "short": "active",
+          "long": "(grammar) describing a verb whose subject is the one that does the action",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "aktif",
+          "long": "(tata bahasa) menggambarkan kata kerja yang subjeknya yang melakukan tindakan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214307.jpeg",
+      "simplified": "包含直接主语的句子",
+      "traditional": "包含直接主語的句子",
+      "pinyin": "bāohán zhíjiē zhǔyǔ de jùzi"
+    },
+    {
+      "id": 214308,
+      "translation": {
+        "en": {
+          "short": "passive",
+          "long": "(grammar) describing a verb whose subject is affected by the action of the verb",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pasif",
+          "long": "(tata bahasa) menggambarkan kata kerja yang subjeknya dipengaruhi oleh tindakan kata kerja",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214308.jpeg",
+      "simplified": "没有直接主语的句子",
+      "traditional": "沒有直接主語的句子",
+      "pinyin": "méiyǒu zhíjiē zhǔyǔ de jùzi"
+    },
+    {
+      "id": 238402,
+      "translation": {
+        "en": {
+          "short": "comparative",
+          "long": "(grammar) describing adverbs or adjectives that indicate a difference in degree, quality, size, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "komparatif",
+          "long": "(tata bahasa) Menjelaskan kata keterangan atau kata sifat yang menunjukkan perbedaan derajat, kualitas, ukuran, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238402.jpeg",
+      "simplified": "形容词的比较级",
+      "traditional": "形容詞的比較級",
+      "pinyin": "xíngróng cí de bǐjiào jí"
+    },
+    {
+      "id": 238403,
+      "translation": {
+        "en": {
+          "short": "superlative",
+          "long": "(grammar) describing the highest amount or degree of an adjective or adverb",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "superlatif",
+          "long": "(Tata Bahasa) Menjelaskan jumlah atau tingkat kata sifat atau kata keterangan tertinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238403.jpeg",
+      "simplified": "最高级的",
+      "traditional": "最高級的",
+      "pinyin": "zuìgāo jí de"
+    },
+    {
+      "id": 238422,
+      "translation": {
+        "en": {
+          "short": "plural",
+          "long": "(grammar) describing words that are indicating the presence of more than one person or thing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jamak",
+          "long": "(tata bahasa) menggambarkan kata -kata yang menunjukkan keberadaan lebih dari satu orang atau benda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238422.jpeg",
+      "simplified": "多个人、事物或实体",
+      "traditional": "多個人、事物或實體",
+      "pinyin": "duōge rén shìwù huò shítǐ"
+    },
+    {
+      "id": 238421,
+      "translation": {
+        "en": {
+          "short": "singular",
+          "long": "(grammar) describing words that are indicating the presence of only one person or thing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tunggal",
+          "long": "(tata bahasa) menggambarkan kata -kata yang menunjukkan keberadaan hanya satu orang atau benda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238421.jpeg",
+      "simplified": "用于指代一个人、一件事或实体",
+      "traditional": "用於指代一個人、一件事或實體",
+      "pinyin": "yòngyú zhǐdài yīgè rén yī jiàn shì huò shítǐ"
+    },
+    {
+      "id": 214318,
+      "translation": {
+        "en": {
+          "short": "grammatical",
+          "long": "following the standard rules of the grammar properly",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gramatikal",
+          "long": "mengikuti aturan standar tata bahasa dengan benar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214318.jpeg",
+      "simplified": "用于指代语言的规则和结构",
+      "traditional": "用於指代語言的規則和結構",
+      "pinyin": "yòngyú zhǐdài yǔyán de guīzé hé jiégòu"
+    },
+    {
+      "id": 238407,
+      "translation": {
+        "en": {
+          "short": "irregular",
+          "long": "(grammar) describing a word that is not formed in the usual way",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak teratur",
+          "long": "(tata bahasa) menggambarkan kata yang tidak terbentuk dengan cara biasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238407.jpeg",
+      "simplified": "不遵循常规或预期的语法模式",
+      "traditional": "不遵循常規或預期的語法模式",
+      "pinyin": "bù zūnxún chángguī huò yùqī de yǔfǎ móshì"
+    },
+    {
+      "id": 238408,
+      "translation": {
+        "en": {
+          "short": "modal",
+          "long": "(grammar) a verb that is used with the main verb of a sentence to indicate possibility, intention, etc., such as can, might, should, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modal",
+          "long": "(Tata Bahasa) Kata kerja yang digunakan dengan kata kerja utama kalimat untuk menunjukkan kemungkinan, niat, dll., Seperti kaleng, mungkin, harus, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238408.jpeg",
+      "simplified": "表示必要性、可能性、许可或能力的动词",
+      "traditional": "表示必要性、可能性、許可或能力的動詞",
+      "pinyin": "biǎoshì bìyào xìng kěnéng xìng xǔkě huò nénglì de dòngcí"
+    },
+    {
+      "id": 238404,
+      "translation": {
+        "en": {
+          "short": "conditional",
+          "long": "(grammar) describing a sentence, clause, etc. that will only be true or happen if something else is true or happens",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bersyarat",
+          "long": "(tata bahasa) Menggambarkan kalimat, klausa, dll. Itu hanya akan benar atau terjadi jika hal lain benar atau terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238404.jpeg",
+      "simplified": "用于表达条件或假设情况",
+      "traditional": "用於表達條件或假設情況",
+      "pinyin": "yòngyú biǎodá tiáojiàn huò jiǎshè qíngkuàng"
+    },
+    {
+      "id": 238411,
+      "translation": {
+        "en": {
+          "short": "perfect",
+          "long": "(grammar) describing a completed action or state",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sempurna",
+          "long": "(tata bahasa) Menjelaskan tindakan atau keadaan yang lengkap",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238411.jpeg",
+      "simplified": "用于描述已完成的动作或状态",
+      "traditional": "用於描述已完成的動作或狀態",
+      "pinyin": "yòngyú miáoshù yǐ wánchéng de dòngzuò huò zhuàngtài"
+    },
+    {
+      "id": 238409,
+      "translation": {
+        "en": {
+          "short": "past participle",
+          "long": "a form of a verb that ed, etc. is added to the end of it which is used to form passive or present tenses or adjectives",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Past participle",
+          "long": "Suatu bentuk kata kerja yang ED, dll. Ditambahkan ke ujungnya yang digunakan untuk membentuk bentuk atau kata sifat pasif atau saat ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238409.jpeg",
+      "simplified": "表示已完成动作的动词形式",
+      "traditional": "表示已完成動作的動詞形式",
+      "pinyin": "biǎoshì yǐ wánchéng dòngzuò de dòngcí xíngshì"
+    },
+    {
+      "id": 238418,
+      "translation": {
+        "en": {
+          "short": "continuous",
+          "long": "(grammar) describing a verb that indicates an action in progress",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kontinu",
+          "long": "(tata bahasa) menggambarkan kata kerja yang menunjukkan tindakan yang sedang berlangsung",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238418.jpeg",
+      "simplified": "连续的",
+      "traditional": "連續的",
+      "pinyin": "liánxù de"
+    },
+    {
+      "id": 238410,
+      "translation": {
+        "en": {
+          "short": "progressive",
+          "long": "(grammar) describing a form of a verb that indicates an action is continuing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "progresif",
+          "long": "(tata bahasa) Menjelaskan bentuk kata kerja yang menunjukkan tindakan terus berlanjut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238410.jpeg",
+      "simplified": "用于描述正在进行的动作或状态",
+      "traditional": "用於描述正在進行的動作或狀態",
+      "pinyin": "yòngyú miáoshù zhèngzài jìnxíng de dòngzuò huò zhuàngtài"
+    },
+    {
+      "id": 238400,
+      "translation": {
+        "en": {
+          "short": "collocation",
+          "long": "a particular combination of words that are used together very often",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sanding kata",
+          "long": "kombinasi kata -kata tertentu yang sangat sering digunakan bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238400.jpeg",
+      "simplified": "经常一起出现的单词",
+      "traditional": "經常一起出現的單詞",
+      "pinyin": "jīngcháng yīqǐ chūxiàn de dāncí"
+    },
+    {
+      "id": 238412,
+      "translation": {
+        "en": {
+          "short": "possessive",
+          "long": "(grammar) describing nouns and pronouns that indicate ownership",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "posesif",
+          "long": "(tata bahasa) Menjelaskan kata benda dan kata ganti yang menunjukkan kepemilikan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238412.jpeg",
+      "simplified": "所有格",
+      "traditional": "所有格",
+      "pinyin": "suǒyǒu gé"
+    },
+    {
+      "id": 238495,
+      "translation": {
+        "en": {
+          "short": "pronunciation",
+          "long": "the way a word is pronounced",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengucapan",
+          "long": "cara kata diucapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238495.jpeg",
+      "simplified": "发音",
+      "traditional": "發音",
+      "pinyin": "fāyīn"
+    },
+    {
+      "id": 238405,
+      "translation": {
+        "en": {
+          "short": "consonant",
+          "long": "‌(phonetics) a speech sound produced by interfering with or stopping the flow of air through the mouth or nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konsonan",
+          "long": "‌ (fonetik) Suara suara yang dihasilkan dengan mengganggu atau menghentikan aliran udara melalui mulut atau hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238405.jpeg",
+      "simplified": "非元音语音",
+      "traditional": "非元音語音",
+      "pinyin": "Fēi yuányīn yǔyīn"
+    },
+    {
+      "id": 238406,
+      "translation": {
+        "en": {
+          "short": "vowel",
+          "long": "‌(phonetics) a speech sound produced without interfering with the flow of air coming through the mouth or nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vokal",
+          "long": "‌ (fonetik) Suara suara yang diproduksi tanpa mengganggu aliran udara yang masuk melalui mulut atau hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238406.jpeg",
+      "simplified": "字母表中的一个浊音字母",
+      "traditional": "字母表中的一個濁音字母",
+      "pinyin": "zìmǔ biǎo zhòngdì yī gě zhuóyīn zìmǔ"
+    },
+    {
+      "id": 238416,
+      "translation": {
+        "en": {
+          "short": "stress",
+          "long": "(phonetics) an added force when pronouncing a syllable or word",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menekankan",
+          "long": "(fonetik) Kekuatan tambahan saat mengucapkan kata suku kata atau kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238416.jpeg",
+      "simplified": "强调言语中的音节或单词",
+      "traditional": "強調言語中的音節或單詞",
+      "pinyin": "qiángdiào yányǔ zhòngdì yīnjié huò dāncí"
+    },
+    {
+      "id": 238420,
+      "translation": {
+        "en": {
+          "short": "tag question",
+          "long": "(grammar) a short question added to the end of a statement that is formed form the same statement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pertanyaan tag",
+          "long": "(tata bahasa) Sebuah pertanyaan singkat yang ditambahkan ke akhir dari pernyataan yang dibentuk dari pernyataan yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238420.jpeg",
+      "simplified": "短问题类型",
+      "traditional": "短問題類型",
+      "pinyin": "duǎn wèntí lèixíng"
+    },
+    {
+      "id": 238414,
+      "translation": {
+        "en": {
+          "short": "punctuation",
+          "long": "the use of marks such as a period, comma, etc. in writing to divide sentences and phrases to better convey meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda baca",
+          "long": "Penggunaan tanda seperti periode, koma, dll. Secara tertulis untuk membagi kalimat dan frasa untuk menyampaikan makna dengan lebih baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238414.jpeg",
+      "simplified": "书面中用于澄清含义、表示停顿等的标记。",
+      "traditional": "書面中用於澄清含義、表示停頓等的標記。",
+      "pinyin": "shūmiàn zhōngyòng Yú chéngqīng hányì biǎoshì tíngdùn děng de biāojì"
+    },
+    {
+      "id": 238419,
+      "translation": {
+        "en": {
+          "short": "exclamation point",
+          "long": "the mark ! used after a sentence to indicate excitement, surprise, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda seru",
+          "long": "Tanda ! Digunakan setelah kalimat untuk menunjukkan kegembiraan, kejutan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238419.jpeg",
+      "simplified": "感叹号",
+      "traditional": "驚嘆號",
+      "pinyin": "gǎntàn hào"
+    },
+    {
+      "id": 238415,
+      "translation": {
+        "en": {
+          "short": "question mark",
+          "long": "the mark ? used at the end of a sentence to show that it is a question",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda tanya",
+          "long": "Tanda ? digunakan di akhir kalimat untuk menunjukkan bahwa itu adalah pertanyaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238415.jpeg",
+      "simplified": "问号",
+      "traditional": "問號",
+      "pinyin": "wènhào"
+    },
+    {
+      "id": 238401,
+      "translation": {
+        "en": {
+          "short": "comma",
+          "long": "the mark , used to separate items in a list or indicate a pause in a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koma",
+          "long": "tanda, yang digunakan untuk memisahkan item dalam daftar atau menunjukkan jeda dalam kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238401.jpeg",
+      "simplified": "逗号",
+      "traditional": "逗號",
+      "pinyin": "dòuhào"
+    },
+    {
+      "id": 265357,
+      "translation": {
+        "en": {
+          "short": "to spell",
+          "long": "to be the letters being put together in the correct order form a particular word",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengeja",
+          "long": "menjadi huruf yang disatukan dalam urutan yang benar dari kata tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265357.jpeg",
+      "simplified": "拼写",
+      "traditional": "拼寫",
+      "pinyin": "pīnxiě"
+    },
+    {
+      "id": 354470,
+      "translation": {
+        "en": {
+          "short": "double negative",
+          "long": "a grammatical construction in which two negative elements are used within the same sentence, often resulting in a positive meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "negatif ganda",
+          "long": "Konstruksi tata bahasa di mana dua elemen negatif digunakan dalam kalimat yang sama, sering menghasilkan makna positif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354470.jpeg",
+      "simplified": "在句子中使用两个否定词的行为，可以产生积极的含义",
+      "traditional": "在句子中使用兩個否定詞的行為，可以產生積極的含義",
+      "pinyin": "zài jùzi Zhōng shǐyòng liǎng gě fǒudìng cí de xíngwéi kěyǐ chǎnshēng jījí de hányì"
+    }
+  ]
+}

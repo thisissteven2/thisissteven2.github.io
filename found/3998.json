@@ -1,0 +1,906 @@
+{
+  "id": 3998,
+  "title": {
+    "en": "Painting Materials",
+    "id": "Bahan lukisan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to painting materials such as \"crayon\", \"pigment\", and \"graphite\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan bahan lukisan seperti \"krayon\", \"pigmen\", dan \"grafit\"."
+  },
+  "cards": [
+    {
+      "id": 346723,
+      "translation": {
+        "en": {
+          "short": "acrylic paint",
+          "long": "a fast-drying water-based paint that uses pigments suspended in a polymer emulsion to create a versatile and durable medium for painting on a variety of surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat akrilik",
+          "long": "Cat berbasis air cepat yang menggunakan pigmen yang tersuspensi dalam emulsi polimer untuk membuat media yang serbaguna dan tahan lama untuk melukis di berbagai permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346723.jpeg",
+      "simplified": "丙烯颜料",
+      "traditional": "丙烯顏料",
+      "pinyin": "bǐngxī yánliào"
+    },
+    {
+      "id": 346724,
+      "translation": {
+        "en": {
+          "short": "adhesive",
+          "long": "a substance, such as glue, paste, or tape, that is used to bind two or more surfaces together by creating a bond that resists separation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perekat",
+          "long": "Suatu zat, seperti lem, pasta, atau pita, yang digunakan untuk mengikat dua atau lebih permukaan bersama -sama dengan menciptakan ikatan yang menolak pemisahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346724.jpeg",
+      "simplified": "胶粘剂",
+      "traditional": "膠粘劑",
+      "pinyin": "jiāo nián jì"
+    },
+    {
+      "id": 346726,
+      "translation": {
+        "en": {
+          "short": "aerosol paint",
+          "long": "a type of spray paint that is packaged in a pressurized can and dispensed through a nozzle, allowing for a controlled and even application of paint on a variety of surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat aerosol",
+          "long": "Jenis cat semprot yang dikemas dalam kaleng bertekanan dan dikeluarkan melalui nozzle, memungkinkan untuk aplikasi cat terkontrol dan bahkan pada berbagai permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346726.jpeg",
+      "simplified": "气溶胶涂料",
+      "traditional": "氣溶膠塗料",
+      "pinyin": "qìróng jiāo túliào"
+    },
+    {
+      "id": 346730,
+      "translation": {
+        "en": {
+          "short": "blacklight paint",
+          "long": "a type of paint that glows under ultraviolet light, creating a vibrant and luminous effect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cat Blacklight",
+          "long": "Jenis cat yang bersinar di bawah cahaya ultraviolet, menciptakan efek yang bersemangat dan bercahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346730.jpeg",
+      "simplified": "黑光漆",
+      "traditional": "黑光漆",
+      "pinyin": "Hēi guāngqī"
+    },
+    {
+      "id": 346731,
+      "translation": {
+        "en": {
+          "short": "chalk",
+          "long": "a white or colored stick similar to chalk that is used for drawing or writing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapur",
+          "long": "tongkat putih atau berwarna mirip dengan kapur yang digunakan untuk menggambar atau menulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346731.jpeg",
+      "simplified": "粉笔",
+      "traditional": "粉筆",
+      "pinyin": "fěnbǐ"
+    },
+    {
+      "id": 346732,
+      "translation": {
+        "en": {
+          "short": "charcoal",
+          "long": "a piece or pencil made of a black substance mostly consisting carbon, used by artists for drawing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "arang",
+          "long": "sepotong atau pensil yang terbuat dari zat hitam yang sebagian besar terdiri dari karbon, digunakan oleh seniman untuk menggambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346732.jpeg",
+      "simplified": "木炭",
+      "traditional": "木炭",
+      "pinyin": "mùtàn"
+    },
+    {
+      "id": 346734,
+      "translation": {
+        "en": {
+          "short": "colored pencil",
+          "long": "a drawing medium that uses wax or oil-based pigments to create vibrant and detailed images on paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pensil warna",
+          "long": "media gambar yang menggunakan pigmen berbasis lilin atau minyak untuk membuat gambar yang bersemangat dan terperinci di atas kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346734.jpeg",
+      "simplified": "彩色铅笔",
+      "traditional": "彩色鉛筆",
+      "pinyin": "cǎisè qiānbǐ"
+    },
+    {
+      "id": 346736,
+      "translation": {
+        "en": {
+          "short": "conte",
+          "long": "a drawing medium that uses compressed powdered graphite or charcoal mixed with clay and wax to create a firm and versatile drawing tool",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "conte",
+          "long": "media gambar yang menggunakan grafit bubuk terkompresi atau arang dicampur dengan tanah liat dan lilin untuk membuat alat gambar yang kokoh dan serbaguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346736.jpeg",
+      "simplified": "短篇小说",
+      "traditional": "短篇小說",
+      "pinyin": "duǎnpiān xiǎo shuō"
+    },
+    {
+      "id": 346737,
+      "translation": {
+        "en": {
+          "short": "crayon",
+          "long": "a small stick of white or colored wax or chalk, used for writing or drawing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "krayon",
+          "long": "tongkat kecil lilin atau kapur berwarna putih atau berwarna, digunakan untuk menulis atau menggambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346737.jpeg",
+      "simplified": "蜡笔",
+      "traditional": "蠟筆",
+      "pinyin": "làbǐ"
+    },
+    {
+      "id": 346738,
+      "translation": {
+        "en": {
+          "short": "drying oil",
+          "long": "an oil that hardens when it is exposed to air, commonly used in paints and other coatings to make them dry and form a solid layer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak pengeringan",
+          "long": "Minyak yang mengeras saat terkena udara, biasanya digunakan dalam cat dan pelapis lainnya untuk membuatnya kering dan membentuk lapisan padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346738.jpeg",
+      "simplified": "干性油",
+      "traditional": "乾性油",
+      "pinyin": "gān xìng yóu"
+    },
+    {
+      "id": 346739,
+      "translation": {
+        "en": {
+          "short": "tempera",
+          "long": "a kind of pigment that is mixed with water or egg yolk in order to be painted on a canvas, paper, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempera",
+          "long": "Semacam pigmen yang dicampur dengan air atau kuning telur agar dapat dicat di atas kanvas, kertas, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346739.jpeg",
+      "simplified": "蛋",
+      "traditional": "蛋",
+      "pinyin": "Dàn"
+    },
+    {
+      "id": 346740,
+      "translation": {
+        "en": {
+          "short": "encaustic",
+          "long": "a paint consisting of pigments with melted beeswax and applying the mixture to a surface, often a wooden panel or canvas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "encaustic",
+          "long": "Cat yang terdiri dari pigmen dengan lilin lebah meleleh dan mengoleskan campuran ke permukaan, seringkali panel kayu atau kanvas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346740.jpeg",
+      "simplified": "蜡画的",
+      "traditional": "蠟畫的",
+      "pinyin": "là huà de"
+    },
+    {
+      "id": 346742,
+      "translation": {
+        "en": {
+          "short": "gesso",
+          "long": "a primer used to prepare surfaces, particularly canvas, for painting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gesso",
+          "long": "Primer yang digunakan untuk menyiapkan permukaan, terutama kanvas, untuk melukis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346742.jpeg",
+      "simplified": "石膏",
+      "traditional": "石膏",
+      "pinyin": "shígāo"
+    },
+    {
+      "id": 346745,
+      "translation": {
+        "en": {
+          "short": "glair",
+          "long": "a clear, viscous substance made from egg whites that is often used in the preparation of art and in bookbinding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "zat putih telur",
+          "long": "Zat yang jelas dan kental terbuat dari putih telur yang sering digunakan dalam persiapan seni dan dalam penjilid buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346745.jpeg",
+      "simplified": "釉",
+      "traditional": "釉",
+      "pinyin": "yòu"
+    },
+    {
+      "id": 346747,
+      "translation": {
+        "en": {
+          "short": "glass paint",
+          "long": "a type of paint that is specially formulated to adhere to glass surfaces and create a translucent or opaque finish that can be used for decorative or functional purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat kaca",
+          "long": "Jenis cat yang secara khusus diformulasikan untuk melekat pada permukaan kaca dan membuat lapisan yang tembus cahaya atau buram yang dapat digunakan untuk tujuan dekoratif atau fungsional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346747.jpeg",
+      "simplified": "玻璃漆",
+      "traditional": "玻璃漆",
+      "pinyin": "bōli qī"
+    },
+    {
+      "id": 346748,
+      "translation": {
+        "en": {
+          "short": "glaze",
+          "long": "a clear liquid used to give a shine to the surface of cups, plates or other objects made of clay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lapisan",
+          "long": "Cairan bening yang digunakan untuk memberikan kilau pada permukaan cangkir, piring atau benda lain yang terbuat dari tanah liat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346748.jpeg",
+      "simplified": "釉",
+      "traditional": "釉",
+      "pinyin": "yòu"
+    },
+    {
+      "id": 346750,
+      "translation": {
+        "en": {
+          "short": "glitter",
+          "long": "a decorative material made up of small, shiny particles, typically made of plastic, metal, or glass, that reflect light and create a sparkling effect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berkilau",
+          "long": "Bahan dekoratif yang terbuat dari partikel kecil yang mengkilap, biasanya terbuat dari plastik, logam, atau kaca, yang memantulkan cahaya dan menciptakan efek berkilau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346750.jpeg",
+      "simplified": "闪光",
+      "traditional": "閃光",
+      "pinyin": "shǎnguāng"
+    },
+    {
+      "id": 346752,
+      "translation": {
+        "en": {
+          "short": "gouache",
+          "long": "a type of watercolor paint that is opaque and has a matte finish when dry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guas",
+          "long": "Jenis cat cat air yang buram dan memiliki lapisan matte saat kering",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346752.jpeg",
+      "simplified": "水粉",
+      "traditional": "水粉",
+      "pinyin": "Shuǐ fěn"
+    },
+    {
+      "id": 346754,
+      "translation": {
+        "en": {
+          "short": "graphite",
+          "long": "a soft, black, and highly conductive material made up of carbon atoms that is commonly used in pencils and as a lubricant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grafit",
+          "long": "Bahan lunak, hitam, dan sangat konduktif yang terdiri dari atom karbon yang biasa digunakan dalam pensil dan sebagai pelumas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346754.jpeg",
+      "simplified": "石墨",
+      "traditional": "石墨",
+      "pinyin": "shímò"
+    },
+    {
+      "id": 346756,
+      "translation": {
+        "en": {
+          "short": "ink",
+          "long": "a black or colored liquid used for drawing, writing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinta",
+          "long": "Cairan hitam atau berwarna yang digunakan untuk menggambar, menulis, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346756.jpeg",
+      "simplified": "墨水",
+      "traditional": "墨水",
+      "pinyin": "mòshuǐ"
+    },
+    {
+      "id": 346763,
+      "translation": {
+        "en": {
+          "short": "latex paint",
+          "long": "a water-based paint that uses synthetic polymers to bind pigment particles together, creating a durable and flexible coating when it dries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat lateks",
+          "long": "Cat berbasis air yang menggunakan polimer sintetis untuk mengikat partikel pigmen bersama-sama, menciptakan lapisan yang tahan lama dan fleksibel saat mengering",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346763.jpeg",
+      "simplified": "乳胶漆",
+      "traditional": "乳膠漆",
+      "pinyin": "rǔjiāo qī"
+    },
+    {
+      "id": 346772,
+      "translation": {
+        "en": {
+          "short": "mineral spirit",
+          "long": "a type of solvent made from petroleum that is used to thin and clean up oil-based paints, varnishes, and stains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semangat mineral",
+          "long": "Jenis pelarut yang terbuat dari minyak bumi yang digunakan untuk menipis dan membersihkan cat berbasis minyak, pernis, dan noda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346772.jpeg",
+      "simplified": "矿物油精",
+      "traditional": "礦物油精",
+      "pinyin": "kuàngwù yóu jīng"
+    },
+    {
+      "id": 346776,
+      "translation": {
+        "en": {
+          "short": "oil paint",
+          "long": "a thick paint that has oil in it, allowing artists to mix colors and work in layers to achieve the desired effects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat minyak",
+          "long": "cat tebal yang memiliki minyak di dalamnya, memungkinkan seniman untuk mencampur warna dan bekerja berlapis untuk mencapai efek yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346776.jpeg",
+      "simplified": "油漆",
+      "traditional": "油漆",
+      "pinyin": "yóuqī"
+    },
+    {
+      "id": 346777,
+      "translation": {
+        "en": {
+          "short": "paint",
+          "long": "a colored liquid that you put on a surface to decorate or protect it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat",
+          "long": "cairan berwarna yang Anda letakkan di permukaan untuk menghias atau melindunginya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346777.jpeg",
+      "simplified": "涂料",
+      "traditional": "塗料",
+      "pinyin": "túliào"
+    },
+    {
+      "id": 346779,
+      "translation": {
+        "en": {
+          "short": "pastel",
+          "long": "a crayon that is made of powdered pigment that is made like a paste using gum or resin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pastel",
+          "long": "krayon yang terbuat dari pigmen bubuk yang dibuat seperti pasta menggunakan permen karet atau resin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346779.jpeg",
+      "simplified": "柔和的",
+      "traditional": "柔和的",
+      "pinyin": "róuhé de"
+    },
+    {
+      "id": 346786,
+      "translation": {
+        "en": {
+          "short": "pigment",
+          "long": "a dry substance that has to be mixed with a liquid to produce paint",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pigmen",
+          "long": "zat kering yang harus dicampur dengan cairan untuk menghasilkan cat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346786.jpeg",
+      "simplified": "颜料",
+      "traditional": "顏料",
+      "pinyin": "yánliào"
+    },
+    {
+      "id": 346788,
+      "translation": {
+        "en": {
+          "short": "turpentine",
+          "long": "a solvent made from the resin of pine trees that is used in various applications, including as a paint thinner, cleaner, and in the production of varnishes and perfumes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak tusam",
+          "long": "Pelarut yang terbuat dari resin pohon pinus yang digunakan dalam berbagai aplikasi, termasuk sebagai pengencer cat, lebih bersih, dan dalam produksi pernis dan parfum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346788.jpeg",
+      "simplified": "松节油",
+      "traditional": "松節油",
+      "pinyin": "sōngjié yóu"
+    },
+    {
+      "id": 346790,
+      "translation": {
+        "en": {
+          "short": "varnish",
+          "long": "a clear or tinted coating made from resins, oils, and solvents that is applied to wood, metal, or other surfaces to provide a protective and decorative finish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernis",
+          "long": "Lapisan yang jernih atau berwarna terbuat dari resin, minyak, dan pelarut yang diterapkan pada kayu, logam, atau permukaan lainnya untuk memberikan lapisan pelindung dan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346790.jpeg",
+      "simplified": "漆",
+      "traditional": "漆",
+      "pinyin": "qī"
+    },
+    {
+      "id": 346795,
+      "translation": {
+        "en": {
+          "short": "vinyl paint",
+          "long": "a type of water-based paint that contains vinyl resin as a binder, providing a durable and flexible finish that is often used for exterior surfaces such as siding, fences, and doors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat vinil",
+          "long": "Jenis cat berbasis air yang berisi resin vinil sebagai pengikat, memberikan hasil akhir yang tahan lama dan fleksibel yang sering digunakan untuk permukaan eksterior seperti berpihak, pagar, dan pintu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346795.jpeg",
+      "simplified": "乙烯基涂料",
+      "traditional": "乙烯基塗料",
+      "pinyin": "yǐxī jī túliào"
+    },
+    {
+      "id": 346803,
+      "translation": {
+        "en": {
+          "short": "wash",
+          "long": "a thin and transparent layer of water-based paint that is applied to a surface in a way that allows the underlying color or texture to show through, creating a subtle shading or coloring effect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencuci",
+          "long": "Lapisan cat berbasis air yang tipis dan transparan yang diterapkan pada permukaan dengan cara yang memungkinkan warna atau tekstur yang mendasari ditampilkan, menciptakan efek naungan atau pewarnaan yang halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346803.jpeg",
+      "simplified": "洗",
+      "traditional": "洗",
+      "pinyin": "xǐ"
+    },
+    {
+      "id": 346804,
+      "translation": {
+        "en": {
+          "short": "watercolor",
+          "long": "a paint that is dissolved and made thin in water, before being used by an artist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat air",
+          "long": "cat yang dibubarkan dan dibuat tipis dalam air, sebelum digunakan oleh seorang seniman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346804.jpeg",
+      "simplified": "水彩",
+      "traditional": "水彩",
+      "pinyin": "shuǐcǎi"
+    },
+    {
+      "id": 346805,
+      "translation": {
+        "en": {
+          "short": "fixative",
+          "long": "a chemical substance that is used on drawings to fix colors or prevent stains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "yg digambarkan",
+          "long": "zat kimia yang digunakan pada gambar untuk memperbaiki warna atau mencegah noda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346805.jpeg",
+      "simplified": "固定剂",
+      "traditional": "固定劑",
+      "pinyin": "gùdìng jì"
+    },
+    {
+      "id": 346810,
+      "translation": {
+        "en": {
+          "short": "linseed oil",
+          "long": "a yellowish oil extracted from flaxseeds that is used in drying paint, ink, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak biji rami",
+          "long": "Minyak kekuningan yang diekstraksi dari biji rami yang digunakan dalam pengeringan cat, tinta, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346810.jpeg",
+      "simplified": "亚麻籽油",
+      "traditional": "亞麻籽油",
+      "pinyin": "yàmá zǐ yóu"
+    },
+    {
+      "id": 346821,
+      "translation": {
+        "en": {
+          "short": "acrylic retarder",
+          "long": "a type of additive used in acrylic painting to slow down the drying time of the paint, making it easier to blend and work with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "retarder akrilik",
+          "long": "Jenis aditif yang digunakan dalam lukisan akrilik untuk memperlambat waktu pengeringan cat, membuatnya lebih mudah untuk berbaur dan bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346821.jpeg",
+      "simplified": "丙烯酸缓凝剂",
+      "traditional": "丙烯酸緩凝劑",
+      "pinyin": "bǐngxī suān huǎn níng jì"
+    },
+    {
+      "id": 346824,
+      "translation": {
+        "en": {
+          "short": "coating",
+          "long": "a layer of material, such as paint, varnish, or powder, that is applied to a surface to provide protection, decoration, or other functional properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lapisan",
+          "long": "Lapisan material, seperti cat, pernis, atau bubuk, yang diterapkan pada permukaan untuk memberikan perlindungan, dekorasi, atau sifat fungsional lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346824.jpeg",
+      "simplified": "涂层",
+      "traditional": "塗層",
+      "pinyin": "túcéng"
+    },
+    {
+      "id": 346826,
+      "translation": {
+        "en": {
+          "short": "finish",
+          "long": "the last layer that is put on the surface of something as a way of protection or decoration or the substance that does this",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyelesaikan",
+          "long": "lapisan terakhir yang diletakkan di permukaan sesuatu sebagai cara perlindungan atau dekorasi atau zat yang melakukan ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346826.jpeg",
+      "simplified": "闪亮涂层",
+      "traditional": "閃亮塗層",
+      "pinyin": "shǎnliàng túcéng"
+    },
+    {
+      "id": 346834,
+      "translation": {
+        "en": {
+          "short": "cedar oil",
+          "long": "an essential oil that is derived from the wood, needles, or berries of cedar trees and is commonly used for its aromatic properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak cedar",
+          "long": "Minyak esensial yang berasal dari kayu, jarum, atau beri pohon cedar dan umumnya digunakan untuk sifat aromatiknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346834.jpeg",
+      "simplified": "雪松油",
+      "traditional": "雪松油",
+      "pinyin": "xuěsōng yóu"
+    },
+    {
+      "id": 346840,
+      "translation": {
+        "en": {
+          "short": "Japan black",
+          "long": "a type of lacquer that is used to create a glossy and durable black finish on various surfaces, such as wood, metal, or ceramics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jepang Hitam",
+          "long": "Jenis pernis yang digunakan untuk membuat lapisan hitam mengkilap dan tahan lama pada berbagai permukaan, seperti kayu, logam, atau keramik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346840.jpeg",
+      "simplified": "日本黑",
+      "traditional": "日本黑",
+      "pinyin": "Rìběn Hēi"
+    },
+    {
+      "id": 346843,
+      "translation": {
+        "en": {
+          "short": "liquin",
+          "long": "a synthetic resin medium used by artists to accelerate drying time and improve the flow and transparency of oil paints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Liquin",
+          "long": "media resin sintetis yang digunakan oleh seniman untuk mempercepat waktu pengeringan dan meningkatkan aliran dan transparansi cat minyak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346843.jpeg",
+      "simplified": "利昆",
+      "traditional": "利昆",
+      "pinyin": "Lì kūn"
+    },
+    {
+      "id": 346844,
+      "translation": {
+        "en": {
+          "short": "whitewash",
+          "long": "a type of water-based paint or coating made from a mixture of lime, water, and other additives that is used to brighten, disinfect, or decorate surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melabur",
+          "long": "Jenis cat atau lapisan berbasis air yang terbuat dari campuran kapur, air, dan aditif lainnya yang digunakan untuk mencerahkan, mendisinfeksi, atau menghias permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346844.jpeg",
+      "simplified": "圬",
+      "traditional": "圬",
+      "pinyin": "wū"
+    },
+    {
+      "id": 346847,
+      "translation": {
+        "en": {
+          "short": "vanishing spray",
+          "long": "a type of aerosol spray used by soccer referees to mark the position of a free kick and the distance that the defending team's players must stand during the kick",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Semprotan menghilang",
+          "long": "Jenis semprotan aerosol yang digunakan oleh wasit sepak bola untuk menandai posisi tendangan bebas dan jarak yang harus berdiri oleh para pemain tim bertahan selama tendangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346847.jpeg",
+      "simplified": "消失喷雾",
+      "traditional": "消失噴霧",
+      "pinyin": "xiāoshī pēnwù"
+    },
+    {
+      "id": 346849,
+      "translation": {
+        "en": {
+          "short": "tung oil",
+          "long": "a drying oil derived from the seeds of the Chinese tung tree that is commonly used as a wood finish and to protect other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minyak tung",
+          "long": "Minyak pengeringan yang berasal dari biji pohon tung Cina yang biasa digunakan sebagai lapisan kayu dan untuk melindungi bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346849.jpeg",
+      "simplified": "桐油",
+      "traditional": "桐油",
+      "pinyin": "tóngyóu"
+    },
+    {
+      "id": 346851,
+      "translation": {
+        "en": {
+          "short": "powder coating",
+          "long": "a coating created by applying dry paint in the form of a fine powder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lapisan bubuk",
+          "long": "lapisan yang dibuat dengan mengoleskan cat kering dalam bentuk bubuk halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346851.jpeg",
+      "simplified": "粉末涂料",
+      "traditional": "粉末塗料",
+      "pinyin": "fěnmò túliào"
+    },
+    {
+      "id": 346853,
+      "translation": {
+        "en": {
+          "short": "sheen",
+          "long": "the degree of gloss or luster",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemilau",
+          "long": "tingkat gloss atau kilau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346853.jpeg",
+      "simplified": "皪",
+      "traditional": "皪",
+      "pinyin": "lì"
+    },
+    {
+      "id": 346856,
+      "translation": {
+        "en": {
+          "short": "paint stripper",
+          "long": "a chemical used to remove paint or other coatings from an object by loosening the bond between the coating and the object's surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penari telanjang cat",
+          "long": "bahan kimia yang digunakan untuk menghilangkan cat atau pelapis lain dari suatu objek dengan melonggarkan ikatan antara lapisan dan permukaan objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346856.jpeg",
+      "simplified": "脱漆剂",
+      "traditional": "脫漆劑",
+      "pinyin": "tuō qī jì"
+    },
+    {
+      "id": 346874,
+      "translation": {
+        "en": {
+          "short": "primer",
+          "long": "an undercoat applied before painting that prepares and protects the surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "primer",
+          "long": "Lapisan bawah diterapkan sebelum melukis yang mempersiapkan dan melindungi permukaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346874.jpeg",
+      "simplified": "雷管",
+      "traditional": "雷管",
+      "pinyin": "léiguǎn"
+    },
+    {
+      "id": 346875,
+      "translation": {
+        "en": {
+          "short": "enamel",
+          "long": "a durable paint that features a hardened or baked enamel finish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "email",
+          "long": "Cat tahan lama yang menampilkan lapisan enamel yang keras atau dipanggang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346875.jpeg",
+      "simplified": "搪瓷",
+      "traditional": "搪瓷",
+      "pinyin": "tángcí"
+    }
+  ]
+}

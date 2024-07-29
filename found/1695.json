@@ -1,0 +1,545 @@
+{
+  "id": 1695,
+  "title": {
+    "en": "Pome Fruits",
+    "id": "Buah -buahan pome"
+  },
+  "description": {
+    "en": "Here you will learn the names of pome fruits in English such as \"pear\", \"fuji\", and \"crab apple\".",
+    "id": "Di sini Anda akan mempelajari nama buah -buahan Pome dalam bahasa Inggris seperti \"pir\", \"fuji\", dan \"apel kepiting\"."
+  },
+  "cards": [
+    {
+      "id": 276046,
+      "translation": {
+        "en": {
+          "short": "apple",
+          "long": "a fruit that is round and has thin yellow, red, or green skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "apel",
+          "long": "buah yang bundar dan memiliki kulit kuning, merah, atau hijau tipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276046.jpeg",
+      "simplified": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píngguǒ"
+    },
+    {
+      "id": 276047,
+      "translation": {
+        "en": {
+          "short": "eating apple",
+          "long": "a variety of apple that is specifically cultivated for its crisp and juicy texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makan apel",
+          "long": "Berbagai macam apel yang secara khusus dibudidayakan untuk teksturnya yang renyah dan berair",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276047.jpeg",
+      "simplified": "吃苹果",
+      "traditional": "吃蘋果",
+      "pinyin": "chī píngguǒ"
+    },
+    {
+      "id": 276048,
+      "translation": {
+        "en": {
+          "short": "crab apple",
+          "long": "a small bitter apple fruit that could be wild or cultivated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pohon apel liar",
+          "long": "buah apel pahit kecil yang bisa menjadi liar atau dibudidayakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276048.jpeg",
+      "simplified": "柰",
+      "traditional": "柰",
+      "pinyin": "nài"
+    },
+    {
+      "id": 276049,
+      "translation": {
+        "en": {
+          "short": "cooking apple",
+          "long": "a variety of apple that is commonly used for baking, cooking, or making sauces due to its tart flavor and firm texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak apel",
+          "long": "Berbagai macam apel yang biasa digunakan untuk memanggang, memasak, atau membuat saus karena rasa asam dan teksturnya yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276049.jpeg",
+      "simplified": "烹饪苹果",
+      "traditional": "烹飪蘋果",
+      "pinyin": "pēngrèn píngguǒ"
+    },
+    {
+      "id": 276062,
+      "translation": {
+        "en": {
+          "short": "Red Delicious",
+          "long": "a type of apple known for its vibrant red color and sweet flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Red Delicious",
+          "long": "Jenis apel yang dikenal karena warna merahnya yang cerah dan rasa manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276062.jpeg",
+      "simplified": "红美味",
+      "traditional": "紅美味",
+      "pinyin": "Hóng měiwèi"
+    },
+    {
+      "id": 276067,
+      "translation": {
+        "en": {
+          "short": "Golden Delicious",
+          "long": "a variety of apple known for its golden-yellow skin, crisp texture, and sweet flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Golden Delicious",
+          "long": "Berbagai macam apel yang dikenal karena kulitnya yang berwarna kuning keemasan, tekstur renyah, dan rasa manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276067.jpeg",
+      "simplified": "金冠",
+      "traditional": "金冠",
+      "pinyin": "Jīn Guàn"
+    },
+    {
+      "id": 276065,
+      "translation": {
+        "en": {
+          "short": "Honeycrisp",
+          "long": "a type of apple known for its sweet and crisp texture, popular for eating fresh and used in various culinary applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Honeycrisp",
+          "long": "Jenis apel yang dikenal dengan teksturnya yang manis dan renyah, populer untuk makan segar dan digunakan dalam berbagai aplikasi kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276065.jpeg",
+      "simplified": "Honeycrisp",
+      "traditional": "Honeycrisp",
+      "pinyin": ""
+    },
+    {
+      "id": 276063,
+      "translation": {
+        "en": {
+          "short": "McIntosh",
+          "long": "a popular apple variety, characterized by its bright red skin, firm white flesh, and a perfect balance of sweetness and tartness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "McIntosh",
+          "long": "Varietas apel yang populer, ditandai dengan kulit merahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276063.jpeg",
+      "simplified": "麦金托什",
+      "traditional": "麥金托什",
+      "pinyin": "Mài Jīn tuō shén"
+    },
+    {
+      "id": 276066,
+      "translation": {
+        "en": {
+          "short": "Granny Smith",
+          "long": "a tart and crisp green apple variety originating from Australia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nenek Smith",
+          "long": "Varietas apel hijau tart dan renyah yang berasal dari Australia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276066.jpeg",
+      "simplified": "史密斯婆婆",
+      "traditional": "史密斯婆婆",
+      "pinyin": "Shǐmì sī pópo"
+    },
+    {
+      "id": 276070,
+      "translation": {
+        "en": {
+          "short": "Fuji",
+          "long": "a type of apple known for its firm texture, sweet flavor, and distinctive pinkish-red skin, originally developed in Japan",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fuji",
+          "long": "Jenis apel yang dikenal dengan teksturnya yang kuat, rasa manis, dan kulit merah merah muda yang khas, awalnya dikembangkan di Jepang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276070.jpeg",
+      "simplified": "富士",
+      "traditional": "富士",
+      "pinyin": "Fùshì"
+    },
+    {
+      "id": 276071,
+      "translation": {
+        "en": {
+          "short": "Empire",
+          "long": "an apple variety known for its crisp texture and balanced sweet-tart flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kerajaan",
+          "long": "Varietas apel yang dikenal dengan teksturnya yang renyah dan rasa manis yang seimbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276071.jpeg",
+      "simplified": "帝国",
+      "traditional": "帝國",
+      "pinyin": "dìguó"
+    },
+    {
+      "id": 276074,
+      "translation": {
+        "en": {
+          "short": "Cripps Pink",
+          "long": "a sweet-tart apple with a pinkish-red blush and crisp texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cripps pink",
+          "long": "Apel yang manis dengan blush on merah muda dan tekstur renyah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276074.jpeg",
+      "simplified": "粉红色",
+      "traditional": "粉紅色",
+      "pinyin": "fěnhóng sè"
+    },
+    {
+      "id": 276051,
+      "translation": {
+        "en": {
+          "short": "pear",
+          "long": "a sweet yellow or green bell-shaped fruit with a lot of juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pir",
+          "long": "buah berbentuk lonceng kuning atau hijau manis dengan banyak jus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276051.jpeg",
+      "simplified": "梨",
+      "traditional": "梨",
+      "pinyin": "lí"
+    },
+    {
+      "id": 276052,
+      "translation": {
+        "en": {
+          "short": "prickly pear",
+          "long": "the edible fruit of cactus plant that is yellow and pink and is covered with prickles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pir berduri",
+          "long": "Buah tanaman kaktus yang dapat dimakan yang berwarna kuning dan merah muda dan ditutupi dengan tusukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276052.jpeg",
+      "simplified": "仙人掌梨",
+      "traditional": "仙人掌梨",
+      "pinyin": "xiānrén zhǎng lí"
+    },
+    {
+      "id": 276055,
+      "translation": {
+        "en": {
+          "short": "Asian pear",
+          "long": "a round, crisp, and juicy fruit with a sweet, floral flavor, similar to an apple",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pir Asia",
+          "long": "Buah bundar, renyah, dan berair dengan rasa bunga yang manis, mirip dengan apel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276055.jpeg",
+      "simplified": "沙梨，苹果梨",
+      "traditional": "沙梨，蘋果梨",
+      "pinyin": "Shā lí píngguǒ lí"
+    },
+    {
+      "id": 276057,
+      "translation": {
+        "en": {
+          "short": "almond-leaved pear",
+          "long": "a pear tree with leaves resembling almonds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pir berdaun almond",
+          "long": "Pohon pir dengan daun menyerupai almond",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276057.jpeg",
+      "simplified": "杏仁叶梨",
+      "traditional": "杏仁葉梨",
+      "pinyin": "xìngrén xié lí"
+    },
+    {
+      "id": 276059,
+      "translation": {
+        "en": {
+          "short": "cerrado pear",
+          "long": "a pear variety found in the cerrado biome of Brazil, known for its unique characteristics, but further details are unavailable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pir Cerrado",
+          "long": "Varietas pir yang ditemukan di Cerrado Biome of Brasil, yang dikenal karena karakteristiknya yang unik, tetapi rincian lebih lanjut tidak tersedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276059.jpeg",
+      "simplified": "塞拉多梨",
+      "traditional": "塞拉多梨",
+      "pinyin": "Sāi lā duō lí"
+    },
+    {
+      "id": 276060,
+      "translation": {
+        "en": {
+          "short": "seckel pear",
+          "long": "a small, sweet variety of pear with a distinctively petite size and rich flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seckel Pear",
+          "long": "Berbagai pir kecil dan manis dengan ukuran mungil yang khas dan rasa yang kaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276060.jpeg",
+      "simplified": "塞克尔梨",
+      "traditional": "塞克爾梨",
+      "pinyin": "Sāi Kè ěr lí"
+    },
+    {
+      "id": 276061,
+      "translation": {
+        "en": {
+          "short": "Bartlett pear",
+          "long": "a versatile and flavorful variety of pear known for its sweet and juicy characteristic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bartlett Pear",
+          "long": "Variasi pir serbaguna dan beraroma yang dikenal karena karakteristiknya yang manis dan berair",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276061.jpeg",
+      "simplified": "巴特利特梨",
+      "traditional": "巴特利特梨",
+      "pinyin": "Bātè Lì tè lí"
+    },
+    {
+      "id": 276076,
+      "translation": {
+        "en": {
+          "short": "d'Anjou",
+          "long": "a type of pear known for its greenish-yellow skin, juicy texture, and sweet, slightly tangy flavor, often used for eating fresh or in culinary preparations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "D'Anjou",
+          "long": "Jenis pir yang dikenal karena kulitnya yang kehijauan, tekstur berair, dan rasa manis, sedikit tajam, sering digunakan untuk makan segar atau dalam persiapan kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276076.jpeg",
+      "simplified": "当茹",
+      "traditional": "當茹",
+      "pinyin": "dāng Rú"
+    },
+    {
+      "id": 276078,
+      "translation": {
+        "en": {
+          "short": "Concorde pear",
+          "long": "a sweet, smooth-textured pear with a long neck and greenish-yellow skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pear Concorde",
+          "long": "Pir yang manis dan bertekstur halus dengan leher panjang dan kulit kuning kehijauan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276078.jpeg",
+      "simplified": "协和梨",
+      "traditional": "協和梨",
+      "pinyin": "xiéhé lí"
+    },
+    {
+      "id": 276080,
+      "translation": {
+        "en": {
+          "short": "Comice",
+          "long": "a sweet, juicy pear with a round shape, greenish-yellow skin, and buttery texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Comice",
+          "long": "Pir yang manis dan berair dengan bentuk bundar, kulit kuning kehijauan, dan tekstur mentega",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276080.jpeg",
+      "simplified": "科梅塞",
+      "traditional": "科梅塞",
+      "pinyin": "kē Méi Sāi"
+    },
+    {
+      "id": 276081,
+      "translation": {
+        "en": {
+          "short": "Bosc",
+          "long": "a variety of pear known for its distinct elongated shape, russeted skin, and sweet, aromatic flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bosc",
+          "long": "Berbagai pir yang dikenal karena bentuk memanjangnya yang berbeda, kulit russet, dan rasa aromatik yang manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276081.jpeg",
+      "simplified": "博斯克",
+      "traditional": "博斯克",
+      "pinyin": "bó Sī Kè"
+    },
+    {
+      "id": 276053,
+      "translation": {
+        "en": {
+          "short": "quince",
+          "long": "a yellow and hard fruit that looks like a pear and has a sweet smell, particularly used for making jam or jelly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "quince",
+          "long": "buah kuning dan keras yang terlihat seperti pir dan memiliki aroma manis, terutama digunakan untuk membuat selai atau jeli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/276053.jpeg",
+      "simplified": "木瓜果",
+      "traditional": "木瓜果",
+      "pinyin": "mùguā guǒ"
+    },
+    {
+      "id": 331958,
+      "translation": {
+        "en": {
+          "short": "anchovy pear",
+          "long": "a tropical fruit resembling a mango, native to Jamaica, Central America, and Colombia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pir teri",
+          "long": "Buah tropis menyerupai mangga, asli Jamaika, Amerika Tengah, dan Kolombia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331958.jpeg",
+      "simplified": "凤尾鱼梨",
+      "traditional": "鳳尾魚梨",
+      "pinyin": "fèngwěi yú lí"
+    },
+    {
+      "id": 338103,
+      "translation": {
+        "en": {
+          "short": "Williams pear",
+          "long": "a type of sweet and juicy pear that is typically large, with a green skin that turns yellow as it ripens",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Williams Pear",
+          "long": "Jenis pir manis dan berair yang biasanya besar, dengan kulit hijau yang berubah menjadi kuning saat matang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/338103.jpeg",
+      "simplified": "威廉斯梨",
+      "traditional": "威廉斯梨",
+      "pinyin": "Wēilián Sī lí"
+    },
+    {
+      "id": 338121,
+      "translation": {
+        "en": {
+          "short": "medlar",
+          "long": "a fruit resembling a small apple or rosehip, known for its unique taste and grainy texture when fully ripened",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Medlar",
+          "long": "Buah yang menyerupai apel kecil atau rosehip, dikenal karena rasanya yang unik dan tekstur kasar saat sepenuhnya matang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/338121.jpeg",
+      "simplified": "枸杞子",
+      "traditional": "枸杞子",
+      "pinyin": "gǒuqǐ zǐ"
+    },
+    {
+      "id": 338122,
+      "translation": {
+        "en": {
+          "short": "may apple",
+          "long": "a yellowish, fleshy berry with a sweet and tart taste, typically found in North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Semoga Apple",
+          "long": "Berry yang kekuningan dan berdaging dengan rasa manis dan asam, biasanya ditemukan di Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/338122.jpeg",
+      "simplified": "可能是苹果",
+      "traditional": "可能是蘋果",
+      "pinyin": "kěnéng shì píngguǒ"
+    }
+  ]
+}

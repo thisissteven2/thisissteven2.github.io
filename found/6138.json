@@ -1,0 +1,792 @@
+{
+  "id": 6138,
+  "title": {
+    "en": "Road Design and Features",
+    "id": "Desain dan fitur jalan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to road design and features such as \"lane\", \"curb\", and \"shoulder.\"",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan desain jalan dan fitur seperti \"jalur\", \"trotoar\", dan \"bahu.\""
+  },
+  "cards": [
+    {
+      "id": 407525,
+      "translation": {
+        "en": {
+          "short": "lane",
+          "long": "a part of a road that is separated by white lines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur",
+          "long": "bagian dari jalan yang dipisahkan oleh garis putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407525.jpeg",
+      "simplified": "公路车道",
+      "traditional": "公路車道",
+      "pinyin": "gōnglù chē dào"
+    },
+    {
+      "id": 407526,
+      "translation": {
+        "en": {
+          "short": "slow lane",
+          "long": "the lane on a multi-lane road designated for vehicles traveling at slower speeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur lambat",
+          "long": "Jalur di jalan multi-jalur yang ditunjuk untuk kendaraan yang bepergian dengan kecepatan yang lebih lambat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407526.jpeg",
+      "simplified": "慢速車靠右",
+      "traditional": "慢速車靠右",
+      "pinyin": "mànsù Chē kào yòu"
+    },
+    {
+      "id": 407527,
+      "translation": {
+        "en": {
+          "short": "fast lane",
+          "long": "the lane on a multi-lane road designated for vehicles traveling at higher speeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur cepat",
+          "long": "Jalur di jalan multi-jalur yang ditunjuk untuk kendaraan yang bepergian dengan kecepatan yang lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407527.jpeg",
+      "simplified": "快车道",
+      "traditional": "快車道",
+      "pinyin": "kuàichē dào"
+    },
+    {
+      "id": 407529,
+      "translation": {
+        "en": {
+          "short": "passing lane",
+          "long": "the lane on a road or highway that vehicles use to overtake slower-moving traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lewat jalur",
+          "long": "jalur di jalan atau jalan raya yang digunakan kendaraan untuk menyalip lalu lintas yang bergerak lebih lambat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407529.jpeg",
+      "simplified": "通过车道",
+      "traditional": "通過車道",
+      "pinyin": "tōngguò chēdào"
+    },
+    {
+      "id": 407531,
+      "translation": {
+        "en": {
+          "short": "HOV lane",
+          "long": "a designated highway lane reserved for vehicles carrying multiple occupants, typically with a minimum requirement of two or more people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hov Lane",
+          "long": "Jalur jalan raya yang ditunjuk disediakan untuk kendaraan yang membawa banyak penghuni, biasanya dengan persyaratan minimum dua orang atau lebih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407531.jpeg",
+      "simplified": "霍夫车道",
+      "traditional": "霍夫車道",
+      "pinyin": "Huò fū chēdào"
+    },
+    {
+      "id": 407533,
+      "translation": {
+        "en": {
+          "short": "HOT lane",
+          "long": "a designated highway lane where drivers can choose to pay a toll for faster travel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalur panas",
+          "long": "jalur jalan raya yang ditunjuk di mana pengemudi dapat memilih untuk membayar korban untuk perjalanan yang lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407533.jpeg",
+      "simplified": "热车道",
+      "traditional": "熱車道",
+      "pinyin": "rè chēdào"
+    },
+    {
+      "id": 407536,
+      "translation": {
+        "en": {
+          "short": "reversible lane",
+          "long": "a traffic lane that changes direction based on the time of day or traffic flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur reversibel",
+          "long": "jalur lalu lintas yang mengubah arah berdasarkan waktu atau arus lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407536.jpeg",
+      "simplified": "可逆的车道",
+      "traditional": "可逆的車道",
+      "pinyin": "kěnì de chēdào"
+    },
+    {
+      "id": 407539,
+      "translation": {
+        "en": {
+          "short": "climbing lane",
+          "long": "an additional lane on a road designed to help slower vehicles move uphill without impeding faster traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur pendakian",
+          "long": "Jalur tambahan di jalan yang dirancang untuk membantu kendaraan yang lebih lambat bergerak menanjak tanpa menghambat lalu lintas yang lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407539.jpeg",
+      "simplified": "攀登车道",
+      "traditional": "攀登車道",
+      "pinyin": "pāndēng chēdào"
+    },
+    {
+      "id": 407542,
+      "translation": {
+        "en": {
+          "short": "bicycle lane",
+          "long": "a designated part of the road marked specifically for cyclists to ride safely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur sepeda",
+          "long": "Bagian yang ditunjuk dari jalan yang ditandai secara khusus untuk pengendara sepeda untuk naik dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407542.jpeg",
+      "simplified": "自行车道",
+      "traditional": "自行車道",
+      "pinyin": "zìxíng chē dào"
+    },
+    {
+      "id": 407552,
+      "translation": {
+        "en": {
+          "short": "dogleg",
+          "long": "a sharp bend or turn in a road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dogleg",
+          "long": "tikungan tajam atau belokan di jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407552.jpeg",
+      "simplified": "狗腿",
+      "traditional": "狗腿",
+      "pinyin": "gǒutuǐ"
+    },
+    {
+      "id": 407544,
+      "translation": {
+        "en": {
+          "short": "bike lane",
+          "long": "a designated area on a road for cyclists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalur Khusus Sepeda",
+          "long": "area yang ditunjuk di jalan untuk pengendara sepeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407544.jpeg",
+      "simplified": "自行车车道",
+      "traditional": "自行車車道",
+      "pinyin": "zìxíng chē chēdào"
+    },
+    {
+      "id": 407545,
+      "translation": {
+        "en": {
+          "short": "breakdown lane",
+          "long": "a lane on the side of a highway where vehicles can stop in case of emergency or mechanical failure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalur Kerusakan",
+          "long": "jalur di sisi jalan raya di mana kendaraan dapat berhenti jika terjadi kegagalan darurat atau mekanik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407545.jpeg",
+      "simplified": "故障车道",
+      "traditional": "故障車道",
+      "pinyin": "gùzhàng chēdào"
+    },
+    {
+      "id": 407546,
+      "translation": {
+        "en": {
+          "short": "express lane",
+          "long": "the part of a road where vehicles can go faster due to light traffic there",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalur Ekspres",
+          "long": "Bagian dari jalan di mana kendaraan bisa berjalan lebih cepat karena lalu lintas ringan di sana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407546.jpeg",
+      "simplified": "快速车道",
+      "traditional": "快速車道",
+      "pinyin": "kuàisù chēdào"
+    },
+    {
+      "id": 407547,
+      "translation": {
+        "en": {
+          "short": "carpool lane",
+          "long": "a traffic lane reserved for vehicles with a minimum number of passengers, typically to encourage carpooling and reduce congestion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur carpool",
+          "long": "Jalur lalu lintas yang disediakan untuk kendaraan dengan jumlah penumpang minimum, biasanya untuk mendorong carpooling dan mengurangi kemacetan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407547.jpeg",
+      "simplified": "共乘车道",
+      "traditional": "共乘車道",
+      "pinyin": "gòngchéng chēdào"
+    },
+    {
+      "id": 407548,
+      "translation": {
+        "en": {
+          "short": "curb",
+          "long": "the raised edge at the side of a street, usually made of stone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengendalikan",
+          "long": "tepi terangkat di sisi jalan, biasanya terbuat dari batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407548.jpeg",
+      "simplified": "路边",
+      "traditional": "路邊",
+      "pinyin": "lùbiān"
+    },
+    {
+      "id": 407549,
+      "translation": {
+        "en": {
+          "short": "curbside",
+          "long": "the area adjacent to the edge of a street or road where vehicles can park or where services, such as deliveries or pickups, often take place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tepi jalan",
+          "long": "Area yang berdekatan dengan tepi jalan atau jalan di mana kendaraan dapat parkir atau di mana layanan, seperti pengiriman atau pickup, sering terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407549.jpeg",
+      "simplified": "路边",
+      "traditional": "路邊",
+      "pinyin": "lùbiān"
+    },
+    {
+      "id": 407550,
+      "translation": {
+        "en": {
+          "short": "camber",
+          "long": "the slight curve or tilt of a road surface to help with drainage and stability",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bentuk melengkung",
+          "long": "Kurva atau kemiringan sedikit permukaan jalan untuk membantu drainase dan stabilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407550.jpeg",
+      "simplified": "弧形",
+      "traditional": "弧形",
+      "pinyin": "húxíng"
+    },
+    {
+      "id": 407551,
+      "translation": {
+        "en": {
+          "short": "bend",
+          "long": "a curve in a road, river, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membengkokkan",
+          "long": "Kurva di jalan, sungai, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407551.jpeg",
+      "simplified": "路弯",
+      "traditional": "路彎",
+      "pinyin": "Lù wān"
+    },
+    {
+      "id": 407554,
+      "translation": {
+        "en": {
+          "short": "switchback",
+          "long": "a sharp turn or bend in a road or trail that zigzags in order to manage a steep incline or decline",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "switchback",
+          "long": "belokan tajam atau menekuk di jalan atau jejak yang zig -zag untuk mengelola lereng atau penurunan yang curam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407554.jpeg",
+      "simplified": "折返",
+      "traditional": "折返",
+      "pinyin": "zhéfǎn"
+    },
+    {
+      "id": 407555,
+      "translation": {
+        "en": {
+          "short": "gradient",
+          "long": "the degree of the angle between the ground and the sloping line, road, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gradien",
+          "long": "Tingkat sudut antara tanah dan garis miring, jalan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407555.jpeg",
+      "simplified": "梯度",
+      "traditional": "梯度",
+      "pinyin": "tīdù"
+    },
+    {
+      "id": 407557,
+      "translation": {
+        "en": {
+          "short": "hairpin turn",
+          "long": "a sharp bend in a road that sharply changes its direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belokan jepit rambut",
+          "long": "tikungan tajam di jalan yang dengan tajam mengubah arahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407557.jpeg",
+      "simplified": "发夹转弯",
+      "traditional": "髮夾轉彎",
+      "pinyin": "fàjiā zhuǎnwān"
+    },
+    {
+      "id": 407558,
+      "translation": {
+        "en": {
+          "short": "winding",
+          "long": "having multiple twists and turns",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lekok",
+          "long": "memiliki beberapa tikungan dan belokan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407558.jpeg",
+      "simplified": "绕线",
+      "traditional": "繞線",
+      "pinyin": "rào xiàn"
+    },
+    {
+      "id": 407559,
+      "translation": {
+        "en": {
+          "short": "circle",
+          "long": "a circular intersection where multiple roads meet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkaran",
+          "long": "persimpangan melingkar di mana banyak jalan bertemu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407559.jpeg",
+      "simplified": "圈",
+      "traditional": "圈",
+      "pinyin": "juān"
+    },
+    {
+      "id": 407586,
+      "translation": {
+        "en": {
+          "short": "loop around",
+          "long": "a circuitous path or route that returns to the starting point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lingkarkan di sekitar",
+          "long": "jalur atau rute berputar yang kembali ke titik awal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407586.jpeg",
+      "simplified": "循环",
+      "traditional": "循環",
+      "pinyin": "xúnhuán"
+    },
+    {
+      "id": 407572,
+      "translation": {
+        "en": {
+          "short": "merge",
+          "long": "the point where two or more roads or lanes come together and traffic must combine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggabungkan",
+          "long": "titik di mana dua atau lebih jalan atau jalur berkumpul dan lalu lintas harus menggabungkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407572.jpeg",
+      "simplified": "合并",
+      "traditional": "合併",
+      "pinyin": "hébìng"
+    },
+    {
+      "id": 407588,
+      "translation": {
+        "en": {
+          "short": "jughandle",
+          "long": "a road feature designed to redirect traffic from a side road to make a safer left turn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jughandle",
+          "long": "fitur jalan yang dirancang untuk mengarahkan lalu lintas dari jalan samping untuk membuat belokan kiri yang lebih aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407588.jpeg",
+      "simplified": "Jughandle",
+      "traditional": "Jughandle",
+      "pinyin": ""
+    },
+    {
+      "id": 407560,
+      "translation": {
+        "en": {
+          "short": "roadside",
+          "long": "the area along the edge of a road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinggir jalan",
+          "long": "area di sepanjang tepi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407560.jpeg",
+      "simplified": "路边",
+      "traditional": "路邊",
+      "pinyin": "lùbiān"
+    },
+    {
+      "id": 407562,
+      "translation": {
+        "en": {
+          "short": "median strip",
+          "long": "a narrow area of land or barrier that separates lanes of traffic on a highway or road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "strip median",
+          "long": "Area tanah atau penghalang yang sempit yang memisahkan jalur lalu lintas di jalan raya atau jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407562.jpeg",
+      "simplified": "中间条",
+      "traditional": "中間條",
+      "pinyin": "zhōngjiān tiáo"
+    },
+    {
+      "id": 407563,
+      "translation": {
+        "en": {
+          "short": "verge",
+          "long": "the strip of land bordering a road, often covered with grass or vegetation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ambang",
+          "long": "Jalur tanah yang berbatasan dengan jalan, sering ditutupi dengan rumput atau vegetasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407563.jpeg",
+      "simplified": "边缘",
+      "traditional": "邊緣",
+      "pinyin": "biānyuán"
+    },
+    {
+      "id": 407564,
+      "translation": {
+        "en": {
+          "short": "shoulder",
+          "long": "the strip of land on the side of a road where vehicles can stop in an emergency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahu",
+          "long": "Jalur tanah di sisi jalan di mana kendaraan dapat berhenti dalam keadaan darurat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407564.jpeg",
+      "simplified": "肩",
+      "traditional": "肩",
+      "pinyin": "jiān"
+    },
+    {
+      "id": 407566,
+      "translation": {
+        "en": {
+          "short": "soft shoulder",
+          "long": "the unpaved or less stable portion alongside a road, typically made of gravel, dirt, or grass, designated for emergency stopping or vehicle breakdowns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahu lembut",
+          "long": "Bagian yang belum beraspal atau kurang stabil di samping jalan, biasanya terbuat dari kerikil, kotoran, atau rumput, yang ditunjuk untuk berhenti darurat atau kerusakan kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407566.jpeg",
+      "simplified": "软基路段",
+      "traditional": "軟基路段",
+      "pinyin": "ruǎn jī lùduàn"
+    },
+    {
+      "id": 407568,
+      "translation": {
+        "en": {
+          "short": "pylon",
+          "long": "a tall metal structure used for carrying high-voltage power lines above the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tiang",
+          "long": "Struktur logam tinggi yang digunakan untuk membawa saluran listrik tegangan tinggi di atas tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407568.jpeg",
+      "simplified": "塔塔",
+      "traditional": "塔塔",
+      "pinyin": "tǎ tǎ"
+    },
+    {
+      "id": 407569,
+      "translation": {
+        "en": {
+          "short": "gantry",
+          "long": "a structure spanning over a road that supports signs, signals, or cameras",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gantry",
+          "long": "Struktur yang membentang di jalan yang mendukung tanda -tanda, sinyal, atau kamera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407569.jpeg",
+      "simplified": "龙门架",
+      "traditional": "龍門架",
+      "pinyin": "Lóngmén jià"
+    },
+    {
+      "id": 407570,
+      "translation": {
+        "en": {
+          "short": "billboard",
+          "long": "a big sign used for advertising, usually found near roads or highways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan iklan",
+          "long": "Tanda besar yang digunakan untuk iklan, biasanya ditemukan di dekat jalan atau jalan raya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407570.jpeg",
+      "simplified": "广告牌",
+      "traditional": "廣告牌",
+      "pinyin": "guǎnggào pái"
+    },
+    {
+      "id": 407574,
+      "translation": {
+        "en": {
+          "short": "pinch point",
+          "long": "a place where something becomes narrow, often causing a restriction or bottleneck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik jepit",
+          "long": "tempat di mana sesuatu menjadi sempit, sering menyebabkan pembatasan atau kemacetan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407574.jpeg",
+      "simplified": "捏点",
+      "traditional": "捏點",
+      "pinyin": "niē diǎn"
+    },
+    {
+      "id": 407575,
+      "translation": {
+        "en": {
+          "short": "turnaround",
+          "long": "a designated area where vehicles can reverse direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berputar",
+          "long": "area yang ditunjuk di mana kendaraan dapat membalikkan arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407575.jpeg",
+      "simplified": "往返所需时间",
+      "traditional": "往返所需時間",
+      "pinyin": "wǎngfǎn suǒxū shíjiān"
+    },
+    {
+      "id": 407589,
+      "translation": {
+        "en": {
+          "short": "to branch off",
+          "long": "(of a path or road) to split into another direction, creating a separate route",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bercabang",
+          "long": "(dari jalur atau jalan) untuk dibagi ke arah lain, menciptakan rute yang terpisah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407589.jpeg",
+      "simplified": "岔",
+      "traditional": "岔",
+      "pinyin": "chà"
+    },
+    {
+      "id": 407590,
+      "translation": {
+        "en": {
+          "short": "to fork",
+          "long": "to split into two or more separate paths or divisions",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk garpu",
+          "long": "untuk dibagi menjadi dua atau lebih jalur atau divisi terpisah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407590.jpeg",
+      "simplified": "岔",
+      "traditional": "岔",
+      "pinyin": "chà"
+    },
+    {
+      "id": 407592,
+      "translation": {
+        "en": {
+          "short": "passable",
+          "long": "of a road or path that is clear and safe to travel on",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mendingan",
+          "long": "dari jalan atau jalan yang jelas dan aman untuk dilalui",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407592.jpeg",
+      "simplified": "还过得去",
+      "traditional": "還過得去",
+      "pinyin": "Huán guòdé qù"
+    },
+    {
+      "id": 407593,
+      "translation": {
+        "en": {
+          "short": "impassable",
+          "long": "(of a path) not possible to travel across or through",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak bisa dilewati",
+          "long": "(dari jalan) tidak mungkin untuk melakukan perjalanan melintasi atau melalui",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407593.jpeg",
+      "simplified": "不可逾越",
+      "traditional": "不可逾越",
+      "pinyin": "bùkě yú yuè"
+    },
+    {
+      "id": 408188,
+      "translation": {
+        "en": {
+          "short": "intersection",
+          "long": "the place where two or more streets, roads, etc. cross each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan",
+          "long": "Tempat di mana dua atau lebih jalan, jalan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408188.jpeg",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu"
+    }
+  ]
+}

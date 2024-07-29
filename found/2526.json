@@ -1,0 +1,906 @@
+{
+  "id": 2526,
+  "title": {
+    "en": "Pregnancy",
+    "id": "Kehamilan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to pregnancy, such as \"miscarriage\", \"contraction\", and \"labor\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan kehamilan, seperti \"keguguran\", \"kontraksi\", dan \"persalinan\"."
+  },
+  "cards": [
+    {
+      "id": 299977,
+      "translation": {
+        "en": {
+          "short": "abortion",
+          "long": "(medicine) a medical procedure to remove the fetus from the uterus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "abortus",
+          "long": "(Kedokteran) Prosedur medis untuk menghilangkan janin dari rahim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299977.jpeg",
+      "simplified": "流产",
+      "traditional": "流產",
+      "pinyin": "liúchǎn"
+    },
+    {
+      "id": 299980,
+      "translation": {
+        "en": {
+          "short": "to abort",
+          "long": "to terminate an undesired pregnancy before the fetus reaches a viable age",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk dibatalkan",
+          "long": "untuk mengakhiri kehamilan yang tidak diinginkan sebelum janin mencapai usia yang layak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299980.jpeg",
+      "simplified": "退出",
+      "traditional": "退出",
+      "pinyin": "tuìchū"
+    },
+    {
+      "id": 299990,
+      "translation": {
+        "en": {
+          "short": "afterbirth",
+          "long": "the placenta and associated tissues expelled from the uterus after the baby is born",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembuni",
+          "long": "Plasenta dan jaringan terkait dikeluarkan dari rahim setelah bayi lahir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299990.jpeg",
+      "simplified": "胞衣",
+      "traditional": "胞衣",
+      "pinyin": "bāoyī"
+    },
+    {
+      "id": 299991,
+      "translation": {
+        "en": {
+          "short": "amniotic fluid",
+          "long": "the clear, watery fluid surrounding and protecting the fetus within the amniotic sac during pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air ketuban",
+          "long": "Cairan yang jernih dan berair mengelilingi dan melindungi janin di dalam kantung ketuban selama kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299991.jpeg",
+      "simplified": "羊水",
+      "traditional": "羊水",
+      "pinyin": "yángshuǐ"
+    },
+    {
+      "id": 299992,
+      "translation": {
+        "en": {
+          "short": "baby blues",
+          "long": "a severe depressive disorder that is primarily experienced by women after giving birth to a child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Baby Blues",
+          "long": "Gangguan depresi parah yang terutama dialami oleh wanita setelah melahirkan seorang anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299992.jpeg",
+      "simplified": "产后抑郁",
+      "traditional": "產後抑鬱",
+      "pinyin": "chǎnhòu yìyù"
+    },
+    {
+      "id": 299993,
+      "translation": {
+        "en": {
+          "short": "to bear",
+          "long": "to bring forth or give birth to a living being, such as a human or animal offspring",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menanggung",
+          "long": "untuk melahirkan atau melahirkan makhluk hidup, seperti keturunan manusia atau hewan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299993.jpeg",
+      "simplified": "承担",
+      "traditional": "承擔",
+      "pinyin": "chéngdān"
+    },
+    {
+      "id": 299994,
+      "translation": {
+        "en": {
+          "short": "birth",
+          "long": "the event or process of a baby being born",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelahiran",
+          "long": "peristiwa atau proses bayi yang dilahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299994.jpeg",
+      "simplified": "分娩",
+      "traditional": "分娩",
+      "pinyin": "fēnmiǎn"
+    },
+    {
+      "id": 299995,
+      "translation": {
+        "en": {
+          "short": "born",
+          "long": "brought to this world through birth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dilahirkan",
+          "long": "dibawa ke dunia ini melalui kelahiran",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299995.jpeg",
+      "simplified": "出生",
+      "traditional": "出生",
+      "pinyin": "chūshēng"
+    },
+    {
+      "id": 299997,
+      "translation": {
+        "en": {
+          "short": "breech birth",
+          "long": "the delivery of a baby with the buttocks or feet positioned to emerge first, rather than the head, during childbirth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kelahiran sungsang",
+          "long": "pengiriman bayi dengan bokong atau kaki diposisikan untuk muncul terlebih dahulu, bukan kepala, selama melahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299997.jpeg",
+      "simplified": "臀位分娩",
+      "traditional": "臀位分娩",
+      "pinyin": "túnwèi fēn miǎn"
+    },
+    {
+      "id": 300002,
+      "translation": {
+        "en": {
+          "short": "cesarean section",
+          "long": "a surgical operation by which a fetus is delivered through an incision in the mother's abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bagian sesar",
+          "long": "Operasi bedah yang dengannya janin dikirim melalui sayatan di perut ibu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300002.jpeg",
+      "simplified": "剖宫产",
+      "traditional": "剖宮產",
+      "pinyin": "pōugōng chǎn"
+    },
+    {
+      "id": 300003,
+      "translation": {
+        "en": {
+          "short": "childbearing",
+          "long": "the process or activity of giving birth to and raising children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melahirkan anak",
+          "long": "proses atau aktivitas melahirkan dan membesarkan anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300003.jpeg",
+      "simplified": "生育",
+      "traditional": "生育",
+      "pinyin": "shēngyù"
+    },
+    {
+      "id": 300004,
+      "translation": {
+        "en": {
+          "short": "childbirth",
+          "long": "the process in which a baby is born",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persalinan",
+          "long": "proses di mana bayi lahir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300004.jpeg",
+      "simplified": "分娩",
+      "traditional": "分娩",
+      "pinyin": "fēnmiǎn"
+    },
+    {
+      "id": 300005,
+      "translation": {
+        "en": {
+          "short": "contraction",
+          "long": "the periodic tightening and releasing of the uterine muscles during labor, facilitating the gradual opening of the cervix for childbirth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kontraksi",
+          "long": "Pengetatan dan pelepasan otot -otot rahim secara berkala selama persalinan, memfasilitasi pembukaan leher rahim bertahap untuk melahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300005.jpeg",
+      "simplified": "收缩",
+      "traditional": "收縮",
+      "pinyin": "shōusuō"
+    },
+    {
+      "id": 300006,
+      "translation": {
+        "en": {
+          "short": "to deliver",
+          "long": "to give birth to a baby or offspring",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengantarkan",
+          "long": "untuk melahirkan bayi atau keturunan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300006.jpeg",
+      "simplified": "交付",
+      "traditional": "交付",
+      "pinyin": "jiāofù"
+    },
+    {
+      "id": 300007,
+      "translation": {
+        "en": {
+          "short": "delivery",
+          "long": "the act of giving birth to a baby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengiriman",
+          "long": "tindakan melahirkan bayi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300007.jpeg",
+      "simplified": "交货",
+      "traditional": "交貨",
+      "pinyin": "jiāohuò"
+    },
+    {
+      "id": 300008,
+      "translation": {
+        "en": {
+          "short": "eclampsia",
+          "long": "a pregnancy complication characterized by high blood pressure and seizures that can be detrimental to the health of mother and baby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Eklampsia",
+          "long": "Komplikasi kehamilan yang ditandai dengan tekanan darah tinggi dan kejang yang dapat merugikan kesehatan ibu dan bayi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300008.jpeg",
+      "simplified": "子痫",
+      "traditional": "子癇",
+      "pinyin": "zǐ xián"
+    },
+    {
+      "id": 300009,
+      "translation": {
+        "en": {
+          "short": "ectopic pregnancy",
+          "long": "a condition where a fertilized egg implants and begins to develop outside the uterus, most commonly in a fallopian tube, instead of the uterus itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kehamilan ektopik",
+          "long": "Suatu kondisi di mana telur yang dibuahi implan dan mulai berkembang di luar rahim, paling umum dalam tabung falopi, bukan rahim itu sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300009.jpeg",
+      "simplified": "异位妊娠",
+      "traditional": "異位妊娠",
+      "pinyin": "yì wèi rènshēn"
+    },
+    {
+      "id": 300010,
+      "translation": {
+        "en": {
+          "short": "fetus",
+          "long": "an offspring of a human or animal that is not born yet, particularly a human aged more than eight weeks after conception",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "janin",
+          "long": "keturunan manusia atau hewan yang belum dilahirkan, terutama manusia berusia lebih dari delapan minggu setelah konsepsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300010.jpeg",
+      "simplified": "胎儿",
+      "traditional": "胎兒",
+      "pinyin": "tāiér"
+    },
+    {
+      "id": 300011,
+      "translation": {
+        "en": {
+          "short": "fetal",
+          "long": "associated with anything related to the developing fetus during pregnancy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "janin",
+          "long": "terkait dengan apa pun yang terkait dengan janin yang sedang berkembang selama kehamilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300011.jpeg",
+      "simplified": "胎",
+      "traditional": "胎",
+      "pinyin": "tāi"
+    },
+    {
+      "id": 300016,
+      "translation": {
+        "en": {
+          "short": "miscarriage",
+          "long": "the unexpected or spontaneous expulsion of a fetus from the uterus before it is mature enough to survive independently",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keguguran",
+          "long": "pengusiran janin yang tidak terduga atau spontan dari rahim sebelum cukup matang untuk bertahan hidup secara mandiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300016.jpeg",
+      "simplified": "流产",
+      "traditional": "流產",
+      "pinyin": "liúchǎn"
+    },
+    {
+      "id": 300020,
+      "translation": {
+        "en": {
+          "short": "to miscarry",
+          "long": "to spontaneously lose the pregnancy before reaching viability, typically within the first 20 weeks",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keguguran",
+          "long": "untuk kehilangan kehamilan secara spontan sebelum mencapai kelayakan, biasanya dalam 20 minggu pertama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300020.jpeg",
+      "simplified": "流产",
+      "traditional": "流產",
+      "pinyin": "liúchǎn"
+    },
+    {
+      "id": 300021,
+      "translation": {
+        "en": {
+          "short": "morning sickness",
+          "long": "a common pregnancy symptom characterized by nausea and vomiting, typically occurring during the first trimester",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mual di pagi hari",
+          "long": "Gejala kehamilan umum yang ditandai dengan mual dan muntah, biasanya terjadi selama trimester pertama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300021.jpeg",
+      "simplified": "孕吐",
+      "traditional": "孕吐",
+      "pinyin": "yùntù"
+    },
+    {
+      "id": 300194,
+      "translation": {
+        "en": {
+          "short": "natural childbirth",
+          "long": "the process of delivering a baby without medical interventions, emphasizing the body's natural processes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persalinan alami",
+          "long": "Proses melahirkan bayi tanpa intervensi medis, menekankan proses alami tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300194.jpeg",
+      "simplified": "自然分娩",
+      "traditional": "自然分娩",
+      "pinyin": "zìrán fēnmiǎn"
+    },
+    {
+      "id": 300197,
+      "translation": {
+        "en": {
+          "short": "prenatal",
+          "long": "related to the period occurring or existing before birth, specifically in relation to the development and care of the fetus during pregnancy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sebelum melahirkan",
+          "long": "terkait dengan periode yang terjadi atau ada sebelum lahir, khususnya dalam kaitannya dengan perkembangan dan perawatan janin selama kehamilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300197.jpeg",
+      "simplified": "产前",
+      "traditional": "產前",
+      "pinyin": "chǎnqián"
+    },
+    {
+      "id": 300198,
+      "translation": {
+        "en": {
+          "short": "preeclampsia",
+          "long": "a pregnancy condition involving high blood pressure and organ damage, presenting risks to both mother and baby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Preeklampsia",
+          "long": "Kondisi kehamilan yang melibatkan tekanan darah tinggi dan kerusakan organ, menunjukkan risiko bagi ibu dan bayi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300198.jpeg",
+      "simplified": "子痫前期",
+      "traditional": "子癇前期",
+      "pinyin": "zǐ xián qiánqī"
+    },
+    {
+      "id": 300201,
+      "translation": {
+        "en": {
+          "short": "stillbirth",
+          "long": "the loss of a baby after 20 weeks of gestation, occurring before or during delivery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelahiran mati",
+          "long": "Kehilangan bayi setelah 20 minggu kehamilan, terjadi sebelum atau selama melahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300201.jpeg",
+      "simplified": "死胎",
+      "traditional": "死胎",
+      "pinyin": "sǐ tāi"
+    },
+    {
+      "id": 300205,
+      "translation": {
+        "en": {
+          "short": "surrogacy",
+          "long": "a process in which a woman carries and gives birth to a baby for another person or couple who may not be able to have children on their own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Surrogacy",
+          "long": "suatu proses di mana seorang wanita membawa dan melahirkan bayi untuk orang lain atau pasangan yang mungkin tidak dapat memiliki anak sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300205.jpeg",
+      "simplified": "代孕",
+      "traditional": "代孕",
+      "pinyin": "dàiyùn"
+    },
+    {
+      "id": 300206,
+      "translation": {
+        "en": {
+          "short": "surrogate mother",
+          "long": "a woman who agrees to carry and give birth to another couple's child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ibu pengganti",
+          "long": "seorang wanita yang setuju untuk membawa dan melahirkan anak pasangan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300206.jpeg",
+      "simplified": "代孕妈妈",
+      "traditional": "代孕媽媽",
+      "pinyin": "dàiyùn māma"
+    },
+    {
+      "id": 300207,
+      "translation": {
+        "en": {
+          "short": "term infant",
+          "long": "a newborn who is born at or near the expected due date, typically between 37 and 42 weeks of gestation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "istilah bayi",
+          "long": "Seorang bayi yang baru lahir yang lahir pada atau mendekati tanggal jatuh tempo yang diharapkan, biasanya antara 37 dan 42 minggu kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300207.jpeg",
+      "simplified": "足月婴儿",
+      "traditional": "足月嬰兒",
+      "pinyin": "zúyuè yīngér"
+    },
+    {
+      "id": 300208,
+      "translation": {
+        "en": {
+          "short": "trimester",
+          "long": "one of the three roughly three-month periods, each marking different stages of fetal development and maternal changes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trimester",
+          "long": "Salah satu dari tiga periode sekitar tiga bulan, masing-masing menandai berbagai tahap perkembangan janin dan perubahan ibu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300208.jpeg",
+      "simplified": "三个月",
+      "traditional": "三個月",
+      "pinyin": "Sān gě yuè"
+    },
+    {
+      "id": 300209,
+      "translation": {
+        "en": {
+          "short": "umbilical cord",
+          "long": "a flexible tube connecting the fetus to the placenta, facilitating the exchange of nutrients and oxygen during pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tali pusar",
+          "long": "Tabung fleksibel yang menghubungkan janin ke plasenta, memfasilitasi pertukaran nutrisi dan oksigen selama kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300209.jpeg",
+      "simplified": "脐带",
+      "traditional": "臍帶",
+      "pinyin": "qídài"
+    },
+    {
+      "id": 300210,
+      "translation": {
+        "en": {
+          "short": "unborn",
+          "long": "not yet having been born or brought to life, typically referring to a developing fetus during pregnancy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "belum lahir",
+          "long": "Belum dilahirkan atau dihidupkan, biasanya merujuk pada janin yang sedang berkembang selama kehamilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300210.jpeg",
+      "simplified": "未出生的",
+      "traditional": "未出生的",
+      "pinyin": "wèi chūshēng de"
+    },
+    {
+      "id": 300214,
+      "translation": {
+        "en": {
+          "short": "barrier method",
+          "long": "a form of contraception that involves physically blocking sperm from reaching the egg to prevent pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metode penghalang",
+          "long": "Suatu bentuk kontrasepsi yang melibatkan pemblokiran sperma secara fisik mencapai telur untuk mencegah kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300214.jpeg",
+      "simplified": "障碍法",
+      "traditional": "障礙法",
+      "pinyin": "zhàngài fǎ"
+    },
+    {
+      "id": 300215,
+      "translation": {
+        "en": {
+          "short": "birth control device",
+          "long": "a tool or method, like condoms or contraceptive pills, used to prevent pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat kontrol kelahiran",
+          "long": "alat atau metode, seperti kondom atau pil kontrasepsi, digunakan untuk mencegah kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300215.jpeg",
+      "simplified": "节育装置",
+      "traditional": "節育裝置",
+      "pinyin": "jiéyù zhuāngzhì"
+    },
+    {
+      "id": 300216,
+      "translation": {
+        "en": {
+          "short": "contraceptive",
+          "long": "any device, drug, or method that is used to prevent pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kontrasepsi",
+          "long": "Perangkat, obat, atau metode apa pun yang digunakan untuk mencegah kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300216.jpeg",
+      "simplified": "避孕用品",
+      "traditional": "避孕用品",
+      "pinyin": "bìyùn yòngpǐn"
+    },
+    {
+      "id": 300217,
+      "translation": {
+        "en": {
+          "short": "contraceptive",
+          "long": "(of methods, devices, or medications) capable of preventing conception or pregnancy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kontrasepsi",
+          "long": "(metode, perangkat, atau obat) yang mampu mencegah konsepsi atau kehamilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300217.jpeg",
+      "simplified": "避孕药具",
+      "traditional": "避孕藥具",
+      "pinyin": "bìyùn yào jù"
+    },
+    {
+      "id": 300218,
+      "translation": {
+        "en": {
+          "short": "contraception",
+          "long": "the intentional prevention of pregnancy using various methods or devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kontrasepsi",
+          "long": "Pencegahan kehamilan yang disengaja menggunakan berbagai metode atau perangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300218.jpeg",
+      "simplified": "避孕",
+      "traditional": "避孕",
+      "pinyin": "bìyùn"
+    },
+    {
+      "id": 300221,
+      "translation": {
+        "en": {
+          "short": "diaphragm",
+          "long": "a dome-shaped contraceptive device that blocks sperm from reaching the uterus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diafragma",
+          "long": "Perangkat kontrasepsi berbentuk kubah yang menghalangi sperma dari mencapai rahim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300221.jpeg",
+      "simplified": "光圈",
+      "traditional": "光圈",
+      "pinyin": "guāngquān"
+    },
+    {
+      "id": 300222,
+      "translation": {
+        "en": {
+          "short": "termination",
+          "long": "a medical operation that is performed to to end an undesired pregnancy before the fetus reaches a viable age",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghentian",
+          "long": "Operasi medis yang dilakukan untuk mengakhiri kehamilan yang tidak diinginkan sebelum janin mencapai usia yang layak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300222.jpeg",
+      "simplified": "终止",
+      "traditional": "終止",
+      "pinyin": "zhōngzhǐ"
+    },
+    {
+      "id": 300223,
+      "translation": {
+        "en": {
+          "short": "cesarean",
+          "long": "of or effected by cesarean section",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sesar",
+          "long": "dari atau dipengaruhi oleh operasi caesar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300223.jpeg",
+      "simplified": "剖腹产",
+      "traditional": "剖腹產",
+      "pinyin": "pōufù chǎn"
+    },
+    {
+      "id": 300224,
+      "translation": {
+        "en": {
+          "short": "episiotomy",
+          "long": "a surgical cut to widen the vaginal opening during childbirth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "episiotomi",
+          "long": "Pemotongan bedah untuk memperluas lubang vagina saat melahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300224.jpeg",
+      "simplified": "会阴切开术",
+      "traditional": "會陰切開術",
+      "pinyin": "huìyīn qiē kāi shù"
+    },
+    {
+      "id": 300844,
+      "translation": {
+        "en": {
+          "short": "labor",
+          "long": "the process of contractions and cervical dilation that leads to childbirth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenaga kerja",
+          "long": "proses kontraksi dan pelebaran serviks yang mengarah pada persalinan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300844.jpeg",
+      "simplified": "劳动",
+      "traditional": "勞動",
+      "pinyin": "láodòng"
+    },
+    {
+      "id": 300878,
+      "translation": {
+        "en": {
+          "short": "condom",
+          "long": "a thin barrier used during sex to prevent the exchange of bodily fluids and reduce the risk of STIs and unintended pregnancies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kondom",
+          "long": "penghalang tipis yang digunakan selama berhubungan seks untuk mencegah pertukaran cairan tubuh dan mengurangi risiko IMS dan kehamilan yang tidak diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300878.jpeg",
+      "simplified": "避孕套",
+      "traditional": "避孕套",
+      "pinyin": "bìyùn tào"
+    },
+    {
+      "id": 300889,
+      "translation": {
+        "en": {
+          "short": "intrauterine device",
+          "long": "a T-shaped contraceptive device placed in the uterus to prevent pregnancy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat intrauterin",
+          "long": "Perangkat kontrasepsi berbentuk T yang ditempatkan di dalam rahim untuk mencegah kehamilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300889.jpeg",
+      "simplified": "宫内节育器",
+      "traditional": "宮內節育器",
+      "pinyin": "gōngnèi jié yù qì"
+    },
+    {
+      "id": 300894,
+      "translation": {
+        "en": {
+          "short": "contraceptive implant",
+          "long": "a small device that a healthcare provider inserts under the skin of the upper arm to prevent pregnancy by releasing hormones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Implan kontrasepsi",
+          "long": "Perangkat kecil yang disisipkan penyedia layanan kesehatan di bawah kulit lengan atas untuk mencegah kehamilan dengan melepaskan hormon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300894.jpeg",
+      "simplified": "避孕植入物",
+      "traditional": "避孕植入物",
+      "pinyin": "bìyùn zhírù wù"
+    },
+    {
+      "id": 300897,
+      "translation": {
+        "en": {
+          "short": "vaginal ring",
+          "long": "a flexible ring that is inserted into the vagina and releases hormones to prevent pregnancy for a month at a time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin vagina",
+          "long": "Cincin fleksibel yang dimasukkan ke dalam vagina dan melepaskan hormon untuk mencegah kehamilan selama sebulan sekaligus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300897.jpeg",
+      "simplified": "阴道环",
+      "traditional": "陰道環",
+      "pinyin": "yīndào Huán"
+    },
+    {
+      "id": 300903,
+      "translation": {
+        "en": {
+          "short": "contraceptive injection",
+          "long": "a method of birth control that involves the injection of hormones into the body to prevent pregnancy for a certain period of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Injeksi kontrasepsi",
+          "long": "Metode kontrol kelahiran yang melibatkan injeksi hormon ke dalam tubuh untuk mencegah kehamilan untuk jangka waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300903.jpeg",
+      "simplified": "避孕注射",
+      "traditional": "避孕注射",
+      "pinyin": "bìyùn zhùshè"
+    }
+  ]
+}

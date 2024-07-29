@@ -1,0 +1,298 @@
+{
+  "id": 1360,
+  "title": {
+    "en": "Hello & Goodbye",
+    "id": "Halo selamat tinggal"
+  },
+  "description": {
+    "en": "Here you will learn some English words about saying hello and goodbye, such as \"thanks\", \"hi\", and \"good afternoon\", prepared for starter level students.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang menyapa dan selamat tinggal, seperti \"terima kasih\", \"hai\", dan \"selamat siang\", siap untuk siswa tingkat starter."
+  },
+  "cards": [
+    {
+      "id": 265747,
+      "translation": {
+        "en": {
+          "short": "hello",
+          "long": "a word we say when we see someone and want to greet them, or when we begin to talk on the phone",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Halo",
+          "long": "sepatah kata pun yang kita ucapkan ketika kita melihat seseorang dan ingin menyapa mereka, atau ketika kita mulai berbicara di telepon",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265747.jpeg",
+      "simplified": "你好!",
+      "traditional": "你好!",
+      "pinyin": "nǐhǎo"
+    },
+    {
+      "id": 265748,
+      "translation": {
+        "en": {
+          "short": "goodbye",
+          "long": "a word we say when we are leaving or someone is leaving, or at the end of a phone call",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "selamat tinggal",
+          "long": "sepatah kata pun yang kami katakan saat kami pergi atau seseorang pergi, atau di akhir panggilan telepon",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265748.jpeg",
+      "simplified": "再见",
+      "traditional": "再見",
+      "pinyin": "zàijiàn"
+    },
+    {
+      "id": 265750,
+      "translation": {
+        "en": {
+          "short": "hi",
+          "long": "a word we say when we see someone and want to greet them",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Hai",
+          "long": "sepatah kata pun yang kita katakan saat kita melihat seseorang dan ingin menyapa mereka",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265750.jpeg",
+      "simplified": "嗨!",
+      "traditional": "嗨!",
+      "pinyin": "hāi"
+    },
+    {
+      "id": 265751,
+      "translation": {
+        "en": {
+          "short": "bye",
+          "long": "a word we say when we are leaving someone or when they are leaving, or at the end of a phone call",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "selamat tinggal",
+          "long": "sepatah kata pun yang kami katakan saat kami meninggalkan seseorang atau ketika mereka pergi, atau di akhir panggilan telepon",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265751.jpeg",
+      "simplified": "再见",
+      "traditional": "再見",
+      "pinyin": "zàijiàn"
+    },
+    {
+      "id": 265752,
+      "translation": {
+        "en": {
+          "short": "good morning",
+          "long": "something we say when we want to greet or say hello to someone in the morning",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Selamat pagi",
+          "long": "sesuatu yang kami katakan saat kami ingin menyapa atau menyapa seseorang di pagi hari",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265752.jpeg",
+      "simplified": "早安!",
+      "traditional": "早安!",
+      "pinyin": "zǎoān"
+    },
+    {
+      "id": 265753,
+      "translation": {
+        "en": {
+          "short": "good afternoon",
+          "long": "something we say when we want to say hello or goodbye to a person in the afternoon",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Selamat siang",
+          "long": "sesuatu yang kami katakan saat kami ingin menyapa atau selamat tinggal pada seseorang di sore hari",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265753.jpeg",
+      "simplified": "下午好!",
+      "traditional": "午安!",
+      "pinyin": "xiàwǔ hǎo"
+    },
+    {
+      "id": 265754,
+      "translation": {
+        "en": {
+          "short": "good evening",
+          "long": "something we say when we want to say hello or goodbye to a person in the evening",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Selamat malam",
+          "long": "sesuatu yang kami katakan saat kami ingin menyapa atau selamat tinggal pada seseorang di malam hari",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265754.jpeg",
+      "simplified": "晚上好!",
+      "traditional": "晚安!",
+      "pinyin": "wǎnshàng hǎo"
+    },
+    {
+      "id": 265755,
+      "translation": {
+        "en": {
+          "short": "good night",
+          "long": "something we say when we want to say goodbye to a person at night or before we go to bed",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Selamat malam",
+          "long": "sesuatu yang kami katakan saat kami ingin mengucapkan selamat tinggal kepada seseorang di malam hari atau sebelum kami pergi tidur",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265755.jpeg",
+      "simplified": "晚安!",
+      "traditional": "晚安!",
+      "pinyin": "wǎnān"
+    },
+    {
+      "id": 265756,
+      "translation": {
+        "en": {
+          "short": "thanks",
+          "long": "said when someone helps us or does something nice for us",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "terima kasih",
+          "long": "mengatakan ketika seseorang membantu kita atau melakukan sesuatu yang baik untuk kita",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265756.jpeg",
+      "simplified": "谢谢!",
+      "traditional": "謝謝!",
+      "pinyin": "xièxie"
+    },
+    {
+      "id": 265757,
+      "translation": {
+        "en": {
+          "short": "please",
+          "long": "used when we want to politely ask for something or tell a person to do something",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Tolong",
+          "long": "digunakan saat kita ingin dengan sopan meminta sesuatu atau menyuruh seseorang melakukan sesuatu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265757.jpeg",
+      "simplified": "请",
+      "traditional": "請",
+      "pinyin": "qǐng"
+    },
+    {
+      "id": 265758,
+      "translation": {
+        "en": {
+          "short": "OK",
+          "long": "said to show that we are agreeing to do something or we agree with something",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "OKE",
+          "long": "Dikatakan untuk menunjukkan bahwa kami setuju untuk melakukan sesuatu atau kami setuju dengan sesuatu",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265758.jpeg",
+      "simplified": "同意",
+      "traditional": "同意",
+      "pinyin": "tóngyì"
+    },
+    {
+      "id": 265759,
+      "translation": {
+        "en": {
+          "short": "yes",
+          "long": "a word that shows we agree with something or think that something is true when answering a question",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Ya",
+          "long": "kata yang menunjukkan bahwa kami setuju dengan sesuatu atau berpikir bahwa sesuatu itu benar saat menjawab pertanyaan",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265759.jpeg",
+      "simplified": "是的",
+      "traditional": "是的",
+      "pinyin": "shìde"
+    },
+    {
+      "id": 265760,
+      "translation": {
+        "en": {
+          "short": "no",
+          "long": "used to give an answer to a question showing that we do not agree or it is not true",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "TIDAK",
+          "long": "digunakan untuk memberikan jawaban atas pertanyaan yang menunjukkan bahwa kami tidak setuju atau itu tidak benar",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265760.jpeg",
+      "simplified": "不",
+      "traditional": "不",
+      "pinyin": "bù"
+    },
+    {
+      "id": 265761,
+      "translation": {
+        "en": {
+          "short": "sorry",
+          "long": "a word we say to apologize for something or to say we are embarrassed",
+          "partOfSpeech": "interjection"
+        },
+        "id": {
+          "short": "Maaf",
+          "long": "Sepatah kata yang kami katakan untuk meminta maaf atas sesuatu atau untuk mengatakan bahwa kami malu",
+          "partOfSpeech": "kata seru"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265761.jpeg",
+      "simplified": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duìbu qǐ"
+    },
+    {
+      "id": 275610,
+      "translation": {
+        "en": {
+          "short": "you are welcome",
+          "long": "used to politely answer someone who thanks us",
+          "partOfSpeech": "sentence"
+        },
+        "id": {
+          "short": "Terima kasih kembali",
+          "long": "Dulu menjawab dengan sopan seseorang yang berterima kasih kepada kami",
+          "partOfSpeech": "kalimat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275610.jpeg",
+      "simplified": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bùkè qi"
+    }
+  ]
+}

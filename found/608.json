@@ -1,0 +1,982 @@
+{
+  "id": 608,
+  "title": {
+    "en": "Nouns, Pronouns, and Adjectives",
+    "id": "Kata benda, kata ganti, dan kata sifat"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to nouns, pronouns, and adjectives such as \"proper noun\", \"dummy pronoun\", and \"nominal adjective\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan kata benda, kata ganti, dan kata sifat seperti \"kata benda yang tepat\", \"kata ganti dummy\", dan \"kata sifat nominal\"."
+  },
+  "cards": [
+    {
+      "id": 351986,
+      "translation": {
+        "en": {
+          "short": "compound noun",
+          "long": "(grammar) a noun that is formed by two or more words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda majemuk",
+          "long": "(tata bahasa) Kata benda yang dibentuk oleh dua kata atau lebih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351986.jpeg",
+      "simplified": "复合名词",
+      "traditional": "複合名詞",
+      "pinyin": "fùhé míngcí"
+    },
+    {
+      "id": 351990,
+      "translation": {
+        "en": {
+          "short": "count noun",
+          "long": "(grammar) a noun that forms a plural and a singular",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghitung kata benda",
+          "long": "(tata bahasa) Kata benda yang membentuk jamak dan tunggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351990.jpeg",
+      "simplified": "计数名词",
+      "traditional": "計數名詞",
+      "pinyin": "jìshù míngcí"
+    },
+    {
+      "id": 351992,
+      "translation": {
+        "en": {
+          "short": "non-count noun",
+          "long": "(grammar) a noun with no plural form, which cannot be used with indefinite articles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda non-hitungan",
+          "long": "(Tata Bahasa) Kata benda tanpa bentuk jamak, yang tidak dapat digunakan dengan artikel yang tidak terbatas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351992.jpeg",
+      "simplified": "不可数名词",
+      "traditional": "不可數名詞",
+      "pinyin": "bùkě shǔ míng cí"
+    },
+    {
+      "id": 351995,
+      "translation": {
+        "en": {
+          "short": "reflexive pronoun",
+          "long": "a type of pronoun that refers back to the subject of the sentence and indicates that the subject performs an action on itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti yang mencerminkan",
+          "long": "Jenis kata ganti yang merujuk kembali ke subjek kalimat dan menunjukkan bahwa subjek melakukan tindakan pada dirinya sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351995.jpeg",
+      "simplified": "反身代词",
+      "traditional": "反身代詞",
+      "pinyin": "fǎnshēn dài cí"
+    },
+    {
+      "id": 352001,
+      "translation": {
+        "en": {
+          "short": "concrete noun",
+          "long": "a type of noun that represents a physical, tangible entity or object, typically something that can be seen, touched, smelled, heard, or tasted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda beton",
+          "long": "Jenis kata benda yang mewakili entitas atau objek fisik, berwujud, biasanya sesuatu yang dapat dilihat, disentuh, berbau, didengar, atau rasanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352001.jpeg",
+      "simplified": "具体名词",
+      "traditional": "具體名詞",
+      "pinyin": "jùtǐ míngcí"
+    },
+    {
+      "id": 352003,
+      "translation": {
+        "en": {
+          "short": "abstract noun",
+          "long": "(grammar) a noun that denotes a general quality or an idea, rather than a physical object or real world event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda abstrak",
+          "long": "(tata bahasa) Kata benda yang menunjukkan kualitas atau ide umum, bukan objek fisik atau acara dunia nyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352003.jpeg",
+      "simplified": "抽象名词",
+      "traditional": "抽象名詞",
+      "pinyin": "chōuxiàng míngcí"
+    },
+    {
+      "id": 351998,
+      "translation": {
+        "en": {
+          "short": "proper noun",
+          "long": "(grammar) the name of a place, person, country, etc. with its first letter capitalized",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda yang tepat",
+          "long": "(tata bahasa) Nama tempat, orang, negara, dll. Dengan surat pertamanya dikapitalisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351998.jpeg",
+      "simplified": "专有名词",
+      "traditional": "專有名詞",
+      "pinyin": "zhuānyǒu míng cí"
+    },
+    {
+      "id": 351999,
+      "translation": {
+        "en": {
+          "short": "common noun",
+          "long": "(grammar) a noun that refers to an object or a concept of a class but not to a particular one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda umum",
+          "long": "(tata bahasa) Kata benda yang mengacu pada suatu objek atau konsep kelas tetapi tidak untuk yang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351999.jpeg",
+      "simplified": "普通名词",
+      "traditional": "普通名詞",
+      "pinyin": "pǔtōng míng cí"
+    },
+    {
+      "id": 351997,
+      "translation": {
+        "en": {
+          "short": "dummy pronoun",
+          "long": "a pronoun that serves as a grammatical placeholder or filler in a sentence, having no specific referential meaning but fulfilling syntactic requirements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti boneka",
+          "long": "kata ganti yang berfungsi sebagai penampung tata bahasa atau pengisi dalam kalimat, tidak memiliki makna referensial khusus tetapi memenuhi persyaratan sintaksis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/351997.jpeg",
+      "simplified": "虚拟代词",
+      "traditional": "虛擬代詞",
+      "pinyin": "xūnǐ dàicí"
+    },
+    {
+      "id": 352004,
+      "translation": {
+        "en": {
+          "short": "collective noun",
+          "long": "(grammar) a singular noun that refers to a group of things or individuals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda kolektif",
+          "long": "(tata bahasa) Kata benda tunggal yang mengacu pada sekelompok hal atau individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352004.jpeg",
+      "simplified": "集体名词",
+      "traditional": "集體名詞",
+      "pinyin": "jítǐ míngcí"
+    },
+    {
+      "id": 352095,
+      "translation": {
+        "en": {
+          "short": "appositive noun",
+          "long": "a noun that appears next to another noun or pronoun and provides additional information or clarification about it, serving to identify, describe, or specify the noun it is referring to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda appositive",
+          "long": "kata benda yang muncul di sebelah kata benda atau kata ganti lain dan memberikan informasi atau klarifikasi tambahan tentang hal itu, melayani untuk mengidentifikasi, menggambarkan, atau menentukan kata benda yang dimaksudkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352095.jpeg",
+      "simplified": "同位语名词",
+      "traditional": "同位語名詞",
+      "pinyin": "tóngwèi yǔ míngcí"
+    },
+    {
+      "id": 352072,
+      "translation": {
+        "en": {
+          "short": "verbal noun",
+          "long": "a noun derived from a verb that retains some characteristics of the verb while functioning as a noun, often expressing the action or the result of the verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda verbal",
+          "long": "kata benda yang berasal dari kata kerja yang mempertahankan beberapa karakteristik kata kerja saat berfungsi sebagai kata benda, sering mengekspresikan tindakan atau hasil kata kerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352072.jpeg",
+      "simplified": "动词名词",
+      "traditional": "動詞名詞",
+      "pinyin": "dòngcí míngcí"
+    },
+    {
+      "id": 352014,
+      "translation": {
+        "en": {
+          "short": "possessive noun",
+          "long": "a noun that shows ownership or possession of something, typically formed by adding an apostrophe and \"s\" ('s) to the noun, or just an apostrophe ('), depending on the grammatical context",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata benda posesif",
+          "long": "Kata benda yang menunjukkan kepemilikan atau kepemilikan atas sesuatu, biasanya dibentuk dengan menambahkan apostrof dan \"s\" (') ke kata benda, atau hanya apostrof ('), tergantung pada konteks tata bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352014.jpeg",
+      "simplified": "所有格名词",
+      "traditional": "所有格名詞",
+      "pinyin": "suǒyǒu gé míngcí"
+    },
+    {
+      "id": 352027,
+      "translation": {
+        "en": {
+          "short": "personal pronoun",
+          "long": "(grammar) a pronoun that refers to a person or group mentioned before or realized from the context such as 'I', 'You', 'they', etc. in English",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti pribadi",
+          "long": "(tata bahasa) Sebuah kata ganti yang mengacu pada seseorang atau kelompok yang disebutkan sebelumnya atau direalisasikan dari konteks seperti 'i', 'Anda', 'mereka', dll. Dalam bahasa Inggris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352027.jpeg",
+      "simplified": "人称代词",
+      "traditional": "人稱代詞",
+      "pinyin": "rénchēng dài cí"
+    },
+    {
+      "id": 352068,
+      "translation": {
+        "en": {
+          "short": "adverbial noun",
+          "long": "a noun that functions as an adverb, providing information about the manner, time, place, frequency, or degree of an action or event, modifying a verb, adjective, or another adverb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kata benda kata keterangan",
+          "long": "kata benda yang berfungsi sebagai kata keterangan, memberikan informasi tentang cara, waktu, tempat, frekuensi, atau tingkat suatu tindakan atau peristiwa, memodifikasi kata kerja, kata sifat, atau kata keterangan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352068.jpeg",
+      "simplified": "状语名词",
+      "traditional": "狀語名詞",
+      "pinyin": "zhuàngyǔ míngcí"
+    },
+    {
+      "id": 352109,
+      "translation": {
+        "en": {
+          "short": "adverbial genitive",
+          "long": "a noun in the genitive case that functions as an adverbial modifier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Genitif Adverbial",
+          "long": "kata benda dalam kasus genitif yang berfungsi sebagai pengubah kata keterangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352109.jpeg",
+      "simplified": "状语所有格",
+      "traditional": "狀語所有格",
+      "pinyin": "zhuàngyǔ suǒyǒu gé"
+    },
+    {
+      "id": 352293,
+      "translation": {
+        "en": {
+          "short": "predicate noun",
+          "long": "a noun that follows a linking verb and renames or identifies the subject of a sentence, providing more information about it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "predikat kata benda",
+          "long": "kata benda yang mengikuti kata kerja yang menghubungkan dan mengganti nama atau mengidentifikasi subjek kalimat, memberikan informasi lebih lanjut tentang hal itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352293.jpeg",
+      "simplified": "谓语名词",
+      "traditional": "謂語名詞",
+      "pinyin": "wèiyǔ míngcí"
+    },
+    {
+      "id": 352125,
+      "translation": {
+        "en": {
+          "short": "agent noun",
+          "long": "a noun that is derived from a verb and typically refers to a person or entity that performs or carries out the action expressed by the verb. It identifies the doer or agent of the action",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kata benda agen",
+          "long": "Kata benda yang berasal dari kata kerja dan biasanya mengacu pada seseorang atau entitas yang melakukan atau melakukan tindakan yang diungkapkan oleh kata kerja. Itu mengidentifikasi pelaku atau agen tindakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352125.jpeg",
+      "simplified": "代理名词",
+      "traditional": "代理名詞",
+      "pinyin": "dàilǐ míngcí"
+    },
+    {
+      "id": 352037,
+      "translation": {
+        "en": {
+          "short": "interrogative pronoun",
+          "long": "a type of pronoun that is used to ask questions, representing the unknown or the thing being inquired about, such as \"who,\" \"whom,\" \"whose,\" \"what,\" and \"which\"",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti interogatif",
+          "long": "Jenis kata ganti yang digunakan untuk mengajukan pertanyaan, mewakili hal yang tidak diketahui atau yang sedang ditanyakan, seperti \"siapa,\" \"siapa,\" \"yang,\" \"apa,\" dan \"yang\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352037.jpeg",
+      "simplified": "疑问代词",
+      "traditional": "疑問代詞",
+      "pinyin": "yíwèn dài cí"
+    },
+    {
+      "id": 352042,
+      "translation": {
+        "en": {
+          "short": "demonstrative pronoun",
+          "long": "a type of pronoun that points to or identifies a specific person, object, or location, indicating proximity or distance in relation to the speaker or the context",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti demonstratif",
+          "long": "Jenis kata ganti yang menunjuk ke atau mengidentifikasi orang tertentu, objek, atau lokasi, menunjukkan kedekatan atau jarak dalam kaitannya dengan pembicara atau konteks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352042.jpeg",
+      "simplified": "指示代词",
+      "traditional": "指示代詞",
+      "pinyin": "zhǐshì dài cí"
+    },
+    {
+      "id": 352046,
+      "translation": {
+        "en": {
+          "short": "reciprocal pronoun",
+          "long": "a type of pronoun that expresses a mutual or reciprocal relationship between two or more entities, indicating that the action or relationship is shared or reciprocated, such as \"each other\" or \"one another\"",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti timbal balik",
+          "long": "Jenis kata ganti yang mengekspresikan hubungan timbal balik atau timbal balik antara dua atau lebih entitas, menunjukkan bahwa tindakan atau hubungan dibagikan atau dibalas, seperti \"satu sama lain\" atau \"satu sama lain\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352046.jpeg",
+      "simplified": "相互代词",
+      "traditional": "相互代詞",
+      "pinyin": "xiānghù dàicí"
+    },
+    {
+      "id": 352048,
+      "translation": {
+        "en": {
+          "short": "relative pronoun",
+          "long": "a type of pronoun that introduces a subordinate clause and relates it to a noun or pronoun in the main clause, serving as a connector between the two clauses, such as \"who,\" \"whom,\" \"whose,\" \"which,\" or \"that\"",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti relatif",
+          "long": "Jenis kata ganti yang memperkenalkan klausa bawahan dan menghubungkannya dengan kata benda atau kata ganti dalam klausa utama, berfungsi sebagai konektor antara kedua klausa, seperti \"siapa,\" yang, \"\" yang, \"yang,\" atau atau \"itu\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352048.jpeg",
+      "simplified": "关系代词",
+      "traditional": "關係代詞",
+      "pinyin": "guānxi dàicí"
+    },
+    {
+      "id": 352058,
+      "translation": {
+        "en": {
+          "short": "intensive pronoun",
+          "long": "a pronoun that emphasizes or intensifies the noun or pronoun it refers to, typically reflecting back on the subject of the sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti intensif",
+          "long": "kata ganti yang menekankan atau mengintensifkan kata benda atau kata ganti yang dimaksud, biasanya mencerminkan kembali pada subjek kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352058.jpeg",
+      "simplified": "密集代词",
+      "traditional": "密集代詞",
+      "pinyin": "mìjí dàicí"
+    },
+    {
+      "id": 352059,
+      "translation": {
+        "en": {
+          "short": "subject pronoun",
+          "long": "a type of pronoun that replaces a noun as the subject of a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti subjek",
+          "long": "Jenis kata ganti yang menggantikan kata benda sebagai subjek kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352059.jpeg",
+      "simplified": "主语代词",
+      "traditional": "主語代詞",
+      "pinyin": "zhǔyǔ dàicí"
+    },
+    {
+      "id": 352061,
+      "translation": {
+        "en": {
+          "short": "object pronoun",
+          "long": "a type of pronoun that functions as the object of a verb or preposition in a sentence, representing the recipient or the entity being acted upon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kata ganti objek",
+          "long": "Jenis kata ganti yang berfungsi sebagai objek kata kerja atau preposisi dalam kalimat, mewakili penerima atau entitas yang ditindaklanjuti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352061.jpeg",
+      "simplified": "宾语代词",
+      "traditional": "賓語代詞",
+      "pinyin": "bīnyǔ dàicí"
+    },
+    {
+      "id": 352235,
+      "translation": {
+        "en": {
+          "short": "indefinite pronoun",
+          "long": "a pronoun that refers to a non-specific or unidentified person, thing, or amount, conveying a sense of ambiguity or lack of specificity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti yang tidak terbatas",
+          "long": "kata ganti yang mengacu pada orang yang tidak spesifik atau tidak dikenal, benda, atau jumlah, menyampaikan rasa ambiguitas atau kurangnya spesifisitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352235.jpeg",
+      "simplified": "不定代词",
+      "traditional": "不定代詞",
+      "pinyin": "bùdìng dàicí"
+    },
+    {
+      "id": 352246,
+      "translation": {
+        "en": {
+          "short": "impersonal pronoun",
+          "long": "a pronoun that is used in place of a specific person or group, often in situations where the subject of the sentence is unknown or irrelevant, or when the focus is on a general concept rather than an individual",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti impersonal",
+          "long": "kata ganti yang digunakan sebagai pengganti orang atau kelompok tertentu, seringkali dalam situasi di mana subjek kalimat tidak diketahui atau tidak relevan, atau ketika fokusnya pada konsep umum daripada seorang individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352246.jpeg",
+      "simplified": "非人称代词",
+      "traditional": "非人稱代詞",
+      "pinyin": "fēirén chèn dàicí"
+    },
+    {
+      "id": 352248,
+      "translation": {
+        "en": {
+          "short": "archaic pronoun",
+          "long": "a pronoun that was commonly used in older forms of the language but has fallen out of common usage in modern times, typically due to changes in language and cultural shifts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti kuno",
+          "long": "kata ganti yang umumnya digunakan dalam bentuk bahasa yang lebih tua tetapi telah jatuh dari penggunaan umum di zaman modern, biasanya karena perubahan dalam perubahan bahasa dan budaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352248.jpeg",
+      "simplified": "古代词",
+      "traditional": "古代詞",
+      "pinyin": "gǔdài cí"
+    },
+    {
+      "id": 352250,
+      "translation": {
+        "en": {
+          "short": "distributive pronoun",
+          "long": "a pronoun that refers to members of a group or individuals separately rather than collectively, indicating that the action or attribute applies to each individual separately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti distributif",
+          "long": "kata ganti yang mengacu pada anggota kelompok atau individu secara terpisah daripada secara kolektif, menunjukkan bahwa tindakan atau atribut berlaku untuk masing -masing individu secara terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352250.jpeg",
+      "simplified": "分配代词",
+      "traditional": "分配代詞",
+      "pinyin": "fēnpèi dàicí"
+    },
+    {
+      "id": 352252,
+      "translation": {
+        "en": {
+          "short": "possessive pronoun",
+          "long": "a pronoun that shows ownership or possession, indicating that something belongs to someone or something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata ganti posesif",
+          "long": "kata ganti yang menunjukkan kepemilikan atau kepemilikan, menunjukkan bahwa sesuatu adalah milik seseorang atau sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352252.jpeg",
+      "simplified": "物主代词",
+      "traditional": "物主代詞",
+      "pinyin": "wùzhǔ dài cí"
+    },
+    {
+      "id": 352270,
+      "translation": {
+        "en": {
+          "short": "nominal adjective",
+          "long": "an adjective that functions as a noun, representing a person, thing, or concept, taking on the role of a noun in a sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat nominal",
+          "long": "kata sifat yang berfungsi sebagai kata benda, mewakili seseorang, benda, atau konsep, mengambil peran sebagai kata benda dalam sebuah kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352270.jpeg",
+      "simplified": "名词形容词",
+      "traditional": "名詞形容詞",
+      "pinyin": "míngcí xíngróng cí"
+    },
+    {
+      "id": 352286,
+      "translation": {
+        "en": {
+          "short": "predicate adjective",
+          "long": "an adjective that follows a linking verb and modifies the subject of a sentence, providing additional information or describing a quality or state of the subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat predikat",
+          "long": "kata sifat yang mengikuti kata kerja yang menghubungkan dan memodifikasi subjek kalimat, memberikan informasi tambahan atau menggambarkan kualitas atau keadaan subjek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352286.jpeg",
+      "simplified": "谓语形容词",
+      "traditional": "謂語形容詞",
+      "pinyin": "wèiyǔ xíngróng cí"
+    },
+    {
+      "id": 352300,
+      "translation": {
+        "en": {
+          "short": "coordinate adjective",
+          "long": "an adjective that independently modifies a noun when multiple adjectives are used together to describe the same noun, and each adjective contributes equally to the description without modifying the others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Koordinat kata sifat",
+          "long": "kata sifat yang secara mandiri memodifikasi kata benda ketika beberapa kata sifat digunakan bersama untuk menggambarkan kata benda yang sama, dan setiap kata sifat berkontribusi sama terhadap deskripsi tanpa memodifikasi yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352300.jpeg",
+      "simplified": "坐标形容词",
+      "traditional": "坐標形容詞",
+      "pinyin": "zuòbiāo xíngróng cí"
+    },
+    {
+      "id": 352303,
+      "translation": {
+        "en": {
+          "short": "descriptive adjective",
+          "long": "an adjective that provides information about the quality, characteristic, or attribute of a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat deskriptif",
+          "long": "kata sifat yang memberikan informasi tentang kualitas, karakteristik, atau atribut kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352303.jpeg",
+      "simplified": "描述性形容词",
+      "traditional": "描述性形容詞",
+      "pinyin": "miáoshù xìng xíngróng cí"
+    },
+    {
+      "id": 352275,
+      "translation": {
+        "en": {
+          "short": "evaluative adjective",
+          "long": "an adjective that expresses a judgment or evaluation about the noun it modifies, indicating a subjective opinion or value judgment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat evaluatif",
+          "long": "kata sifat yang menyatakan penilaian atau evaluasi tentang kata benda yang dimodifikasi, menunjukkan pendapat subyektif atau penilaian nilai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352275.jpeg",
+      "simplified": "评价形容词",
+      "traditional": "評價形容詞",
+      "pinyin": "píngjià xíngróng cí"
+    },
+    {
+      "id": 352304,
+      "translation": {
+        "en": {
+          "short": "proper adjective",
+          "long": "an adjective that is derived from a proper noun and is used to describe or modify a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat yang tepat",
+          "long": "kata sifat yang berasal dari kata benda yang tepat dan digunakan untuk menggambarkan atau memodifikasi kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352304.jpeg",
+      "simplified": "适当的形容词",
+      "traditional": "適當的形容詞",
+      "pinyin": "shìdàng de xíngróng cí"
+    },
+    {
+      "id": 352306,
+      "translation": {
+        "en": {
+          "short": "quantitative adjective",
+          "long": "an adjective that provides information about the quantity or amount of a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat kuantitatif",
+          "long": "kata sifat yang memberikan informasi tentang jumlah atau jumlah kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352306.jpeg",
+      "simplified": "数量形容词",
+      "traditional": "數量形容詞",
+      "pinyin": "shùliàng xíngróng cí"
+    },
+    {
+      "id": 352308,
+      "translation": {
+        "en": {
+          "short": "demonstrative adjective",
+          "long": "an adjective that points to or identifies a specific noun or group of nouns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat demonstratif",
+          "long": "kata sifat yang menunjuk atau mengidentifikasi kata benda atau kelompok kata benda tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352308.jpeg",
+      "simplified": "指示形容词",
+      "traditional": "指示形容詞",
+      "pinyin": "zhǐshì xíngróng cí"
+    },
+    {
+      "id": 352309,
+      "translation": {
+        "en": {
+          "short": "possessive adjective",
+          "long": "an adjective that shows ownership or possession of a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat posesif",
+          "long": "kata sifat yang menunjukkan kepemilikan atau kepemilikan kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352309.jpeg",
+      "simplified": "所有格形容词",
+      "traditional": "所有格形容詞",
+      "pinyin": "suǒyǒu gé xíngróng cí"
+    },
+    {
+      "id": 352312,
+      "translation": {
+        "en": {
+          "short": "interrogative adjective",
+          "long": "an adjective that is used to ask a question about a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat interogatif",
+          "long": "kata sifat yang digunakan untuk mengajukan pertanyaan tentang kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352312.jpeg",
+      "simplified": "疑问形容词",
+      "traditional": "疑問形容詞",
+      "pinyin": "yíwèn xíngróng cí"
+    },
+    {
+      "id": 352314,
+      "translation": {
+        "en": {
+          "short": "comparative adjective",
+          "long": "an adjective that is used to compare two entities, indicating that one entity has a greater or lesser degree of a certain quality than the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat komparatif",
+          "long": "kata sifat yang digunakan untuk membandingkan dua entitas, menunjukkan bahwa satu entitas memiliki tingkat yang lebih besar atau lebih kecil dari kualitas tertentu dari yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352314.jpeg",
+      "simplified": "形容词的比较级",
+      "traditional": "形容詞的比較級",
+      "pinyin": "xíngróng cí de bǐjiào jí"
+    },
+    {
+      "id": 352315,
+      "translation": {
+        "en": {
+          "short": "superlative adjective",
+          "long": "an adjective that is used to compare three or more entities, indicating that one entity has the highest or lowest degree of a certain quality among all others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat superlatif",
+          "long": "kata sifat yang digunakan untuk membandingkan tiga atau lebih entitas, menunjukkan bahwa satu entitas memiliki tingkat tertinggi atau terendah dari kualitas tertentu di antara semua yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352315.jpeg",
+      "simplified": "最高级形容词",
+      "traditional": "最高級形容詞",
+      "pinyin": "zuìgāo jí xíngróng cí"
+    },
+    {
+      "id": 352316,
+      "translation": {
+        "en": {
+          "short": "participial adjective",
+          "long": "an adjective that is derived from a verb's participle form and functions as an adjective to modify a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat partisipasi",
+          "long": "kata sifat yang berasal dari bentuk participle kata kerja dan berfungsi sebagai kata sifat untuk memodifikasi kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352316.jpeg",
+      "simplified": "分词形容词",
+      "traditional": "分詞形容詞",
+      "pinyin": "fēncí xíngróng cí"
+    },
+    {
+      "id": 352317,
+      "translation": {
+        "en": {
+          "short": "compound adjective",
+          "long": "an adjective that is formed by combining two or more words together to modify a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat majemuk",
+          "long": "kata sifat yang dibentuk dengan menggabungkan dua atau lebih kata bersama untuk memodifikasi kata benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352317.jpeg",
+      "simplified": "复合形容词",
+      "traditional": "複合形容詞",
+      "pinyin": "fùhé xíngróng cí"
+    },
+    {
+      "id": 352318,
+      "translation": {
+        "en": {
+          "short": "indefinite adjective",
+          "long": "an adjective that refers to a non-specific or unspecified quantity or quality of a noun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat tidak terbatas",
+          "long": "kata sifat yang mengacu pada jumlah atau kualitas kata benda yang tidak spesifik atau tidak ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352318.jpeg",
+      "simplified": "不定形容词",
+      "traditional": "不定形容詞",
+      "pinyin": "bùdìng xíng Róng cí"
+    },
+    {
+      "id": 352320,
+      "translation": {
+        "en": {
+          "short": "numeral adjective",
+          "long": "an adjective that indicates a specific number or quantity of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat angka",
+          "long": "kata sifat yang menunjukkan jumlah atau jumlah tertentu dari sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352320.jpeg",
+      "simplified": "数词形容词",
+      "traditional": "數詞形容詞",
+      "pinyin": "shùcí xíngróng cí"
+    },
+    {
+      "id": 352505,
+      "translation": {
+        "en": {
+          "short": "postpositive adjective",
+          "long": "an adjective that follows the noun it modifies in a sentence rather than preceding it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat postpositive",
+          "long": "kata sifat yang mengikuti kata benda yang dimodifikasi dalam kalimat daripada mendahuluinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352505.jpeg",
+      "simplified": "后置形容词",
+      "traditional": "後置形容詞",
+      "pinyin": "hòuzhì xíngróng cí"
+    },
+    {
+      "id": 352517,
+      "translation": {
+        "en": {
+          "short": "gradable adjective",
+          "long": "an adjective that can be modified by words like \"very,\" \"quite,\" or \"extremely\" to indicate different degrees or levels of the described quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat yang dapat ditelaah",
+          "long": "Kata sifat yang dapat dimodifikasi dengan kata -kata seperti \"sangat,\" \"cukup,\" atau \"sangat\" untuk menunjukkan berbagai tingkat atau tingkat kualitas yang dijelaskan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352517.jpeg",
+      "simplified": "可分级形容词",
+      "traditional": "可分級形容詞",
+      "pinyin": "kěfēn jí xíngróng cí"
+    },
+    {
+      "id": 352532,
+      "translation": {
+        "en": {
+          "short": "ungradable adjective",
+          "long": "an adjective that does not have degrees or levels of intensity and cannot be modified by words like \"very\" or \"extremely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat yang tidak dapat diseret",
+          "long": "kata sifat yang tidak memiliki derajat atau tingkat intensitas dan tidak dapat dimodifikasi dengan kata -kata seperti \"sangat\" atau \"sangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352532.jpeg",
+      "simplified": "无法分级的形容词",
+      "traditional": "無法分級的形容詞",
+      "pinyin": "wúfǎ fēnjí de xíngróng cí"
+    },
+    {
+      "id": 352507,
+      "translation": {
+        "en": {
+          "short": "participle adjective",
+          "long": "an adjective formed from a verb's participle form that describes a noun or pronoun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sifat participle",
+          "long": "kata sifat yang dibentuk dari bentuk participle kata kerja yang menggambarkan kata benda atau kata ganti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/352507.jpeg",
+      "simplified": "分词形容词",
+      "traditional": "分詞形容詞",
+      "pinyin": "fēncí xíngróng cí"
+    },
+    {
+      "id": 353414,
+      "translation": {
+        "en": {
+          "short": "gerund",
+          "long": "(grammar) a form of a verb that functions as a noun and is formed by adding the suffix -ing to the base form of the verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerund",
+          "long": "(tata bahasa) Bentuk kata kerja yang berfungsi sebagai kata benda dan dibentuk dengan menambahkan akhiran -ing ke bentuk dasar kata kerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/353414.jpeg",
+      "simplified": "动名词",
+      "traditional": "動名詞",
+      "pinyin": "dòngmíng cí"
+    }
+  ]
+}

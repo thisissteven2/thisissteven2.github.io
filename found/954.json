@@ -1,0 +1,621 @@
+{
+  "id": 954,
+  "title": {
+    "en": "Engineering and Electronics",
+    "id": "Teknik dan Elektronik"
+  },
+  "description": {
+    "en": "Here you will learn some English words about engineering and electronics, such as \"transistor\", \"electrode\", \"voltage\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang teknik dan elektronik, seperti \"transistor\", \"elektroda\", \"tegangan\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 242028,
+      "translation": {
+        "en": {
+          "short": "engineering",
+          "long": "a field of study that deals with the building, designing, developing, etc. of structures, bridges, or machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rekayasa",
+          "long": "bidang studi yang berkaitan dengan bangunan, merancang, mengembangkan, dll. Struktur, jembatan, atau mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242028.jpeg",
+      "simplified": "工程",
+      "traditional": "工程",
+      "pinyin": "gōngchéng"
+    },
+    {
+      "id": 242210,
+      "translation": {
+        "en": {
+          "short": "electronics",
+          "long": "the branch of physics and electrical engineering that focuses on designing circuits that use transistors and microchips",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektronik",
+          "long": "Cabang Fisika dan Rekayasa Listrik yang berfokus pada merancang sirkuit yang menggunakan transistor dan microchip",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242210.jpeg",
+      "simplified": "电子产品",
+      "traditional": "電子產品",
+      "pinyin": "diànzǐ chǎnpǐn"
+    },
+    {
+      "id": 242029,
+      "translation": {
+        "en": {
+          "short": "transistor",
+          "long": "a small semiconductor device, used in television and radio sets, able to amplify or rectify an electric current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transistor",
+          "long": "Perangkat semikonduktor kecil, yang digunakan dalam set televisi dan radio, dapat memperkuat atau memperbaiki arus listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242029.jpeg",
+      "simplified": "晶体管",
+      "traditional": "電晶體",
+      "pinyin": "jīngtǐ guǎn"
+    },
+    {
+      "id": 242054,
+      "translation": {
+        "en": {
+          "short": "semiconductor",
+          "long": "a solid substance that conducts electricity or heat better than insulators, but not as well as most metals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semikonduktor",
+          "long": "zat padat yang menghantarkan listrik atau panas lebih baik daripada isolator, tetapi tidak serta kebanyakan logam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242054.jpeg",
+      "simplified": "半导体",
+      "traditional": "半導體",
+      "pinyin": "bàndǎo tǐ"
+    },
+    {
+      "id": 242031,
+      "translation": {
+        "en": {
+          "short": "dc",
+          "long": "an electric current that flows only in one direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dc",
+          "long": "arus listrik yang hanya mengalir dalam satu arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242031.jpeg",
+      "simplified": "直流电",
+      "traditional": "直流電",
+      "pinyin": "zhíliú diàn"
+    },
+    {
+      "id": 242032,
+      "translation": {
+        "en": {
+          "short": "circuit board",
+          "long": "a thin board on which the circuits are printed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan sirkuit",
+          "long": "papan tipis tempat sirkuit dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242032.jpeg",
+      "simplified": "电路板",
+      "traditional": "電路板",
+      "pinyin": "diànlù bǎn"
+    },
+    {
+      "id": 242053,
+      "translation": {
+        "en": {
+          "short": "short circuit",
+          "long": "a failure in a circuit caused when the electricity flows in the wrong route due to wire damage or fault in the connections of wires",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sirkuit pendek",
+          "long": "Kegagalan dalam sirkuit yang disebabkan ketika listrik mengalir di rute yang salah karena kerusakan kawat atau kesalahan dalam koneksi kabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242053.jpeg",
+      "simplified": "短路",
+      "traditional": "短路",
+      "pinyin": "duǎnlù"
+    },
+    {
+      "id": 242033,
+      "translation": {
+        "en": {
+          "short": "electrode",
+          "long": "a conductor through which electricity travels to or from an object, such as batteries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektroda",
+          "long": "konduktor yang melaluinya listrik bergerak ke atau dari suatu objek, seperti baterai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242033.jpeg",
+      "simplified": "电极",
+      "traditional": "電極",
+      "pinyin": "diànjí"
+    },
+    {
+      "id": 242035,
+      "translation": {
+        "en": {
+          "short": "voltage",
+          "long": "the electronic potential and force whose measurement unit is volts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tegangan",
+          "long": "Potensi dan gaya elektronik yang unit pengukurannya adalah volt",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242035.jpeg",
+      "simplified": "电压",
+      "traditional": "電壓",
+      "pinyin": "diànyā"
+    },
+    {
+      "id": 242036,
+      "translation": {
+        "en": {
+          "short": "transformer",
+          "long": "an electric device that is used to increase or decrease the voltage of an alternating current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transformator",
+          "long": "Perangkat listrik yang digunakan untuk meningkatkan atau mengurangi tegangan arus bergantian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242036.jpeg",
+      "simplified": "变压器",
+      "traditional": "變壓器",
+      "pinyin": "biànyā qì"
+    },
+    {
+      "id": 242037,
+      "translation": {
+        "en": {
+          "short": "transmitter",
+          "long": "a piece of electronic equipment used for sending electromagnetic waves carrying radio or television signals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemancar",
+          "long": "Sepotong peralatan elektronik yang digunakan untuk mengirimkan gelombang elektromagnetik yang membawa sinyal radio atau televisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242037.jpeg",
+      "simplified": "发射机",
+      "traditional": "發射機",
+      "pinyin": "fāshè jī"
+    },
+    {
+      "id": 242038,
+      "translation": {
+        "en": {
+          "short": "capacitor",
+          "long": "an electric device that is used to accumulate electric charge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapasitor",
+          "long": "Perangkat listrik yang digunakan untuk mengumpulkan muatan listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242038.jpeg",
+      "simplified": "电容器",
+      "traditional": "電容器",
+      "pinyin": "diànróng qì"
+    },
+    {
+      "id": 242039,
+      "translation": {
+        "en": {
+          "short": "to conduct",
+          "long": "to allow heat or electricity be transmitted",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melakukan",
+          "long": "untuk memungkinkan panas atau listrik ditransmisikan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242039.jpeg",
+      "simplified": "进行",
+      "traditional": "進行",
+      "pinyin": "jìnxíng"
+    },
+    {
+      "id": 242056,
+      "translation": {
+        "en": {
+          "short": "to screw",
+          "long": "to firmly attach or tighten something using a turning metal fastener",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk sekrup",
+          "long": "untuk menempelkan atau mengencangkan sesuatu dengan kuat menggunakan pengikat logam yang berputar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242056.jpeg",
+      "simplified": "用螺丝固定某物",
+      "traditional": "用螺絲固定某物",
+      "pinyin": "yòng luósī gùdìng mǒuwù"
+    },
+    {
+      "id": 242040,
+      "translation": {
+        "en": {
+          "short": "bolt",
+          "long": "a piece of metal like a thick nail without a point that used to secure assembled parts by passing through holes and tightening with a nut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "Sepotong logam seperti kuku tebal tanpa titik yang digunakan untuk mengamankan bagian yang dirakit dengan melewati lubang dan mengencang dengan kacang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242040.jpeg",
+      "simplified": "螺栓",
+      "traditional": "螺栓",
+      "pinyin": "luóshuān"
+    },
+    {
+      "id": 242066,
+      "translation": {
+        "en": {
+          "short": "nut",
+          "long": "a flat piece of metal with a hole in the middle through which a bolt is put to secure or fasten objects together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "sepotong logam datar dengan lubang di tengah di mana baut diletakkan untuk mengamankan atau mengikat benda bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242066.jpeg",
+      "simplified": "坚果",
+      "traditional": "堅果",
+      "pinyin": "jiānguǒ"
+    },
+    {
+      "id": 242041,
+      "translation": {
+        "en": {
+          "short": "cog",
+          "long": "a wheel with a set of square or triangular teeth sticking out around the edge that fits into the edge of a similar wheel, causing both wheels to turn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gigi",
+          "long": "roda dengan satu set gigi persegi atau segitiga mencuat di sekitar tepi yang pas ke tepi roda yang sama, menyebabkan kedua roda berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242041.jpeg",
+      "simplified": "雉堞",
+      "traditional": "雉堞",
+      "pinyin": "zhì dié"
+    },
+    {
+      "id": 242043,
+      "translation": {
+        "en": {
+          "short": "diode",
+          "long": "an electronic device with two terminals, typically allowing the flow of current in one direction only",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dioda",
+          "long": "perangkat elektronik dengan dua terminal, biasanya memungkinkan aliran arus hanya dalam satu arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242043.jpeg",
+      "simplified": "二极管",
+      "traditional": "二極體",
+      "pinyin": "èrjí guǎn"
+    },
+    {
+      "id": 242044,
+      "translation": {
+        "en": {
+          "short": "fuse",
+          "long": "an electrical device that is used to stop or control the flow of current in a circuit in case it is too strong",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekering",
+          "long": "Perangkat listrik yang digunakan untuk menghentikan atau mengontrol aliran arus di sirkuit jika terlalu kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242044.jpeg",
+      "simplified": "保险丝",
+      "traditional": "保險絲",
+      "pinyin": "bǎoxiǎn sī"
+    },
+    {
+      "id": 242046,
+      "translation": {
+        "en": {
+          "short": "generator",
+          "long": "a machine that produces electricity by converting mechanical energy into electrical energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "generator",
+          "long": "mesin yang menghasilkan listrik dengan mengubah energi mekanik menjadi energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242046.jpeg",
+      "simplified": "发电机",
+      "traditional": "發電機",
+      "pinyin": "fādiàn jī"
+    },
+    {
+      "id": 242048,
+      "translation": {
+        "en": {
+          "short": "crank",
+          "long": "a device that allows movement between mechanical parts of a machine or converts backward and forward motion into circular movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "engkol",
+          "long": "Perangkat yang memungkinkan pergerakan antara bagian mekanis mesin atau mengubah gerakan ke belakang dan maju menjadi gerakan melingkar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242048.jpeg",
+      "simplified": "曲柄",
+      "traditional": "曲柄",
+      "pinyin": "qūbǐng"
+    },
+    {
+      "id": 242049,
+      "translation": {
+        "en": {
+          "short": "shaft",
+          "long": "a metal bar in an engine that enables movement and power to be transmitted from one part to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batang",
+          "long": "bilah logam di mesin yang memungkinkan pergerakan dan daya ditransmisikan dari satu bagian ke bagian lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242049.jpeg",
+      "simplified": "矿井",
+      "traditional": "礦井",
+      "pinyin": "kuàngjǐng"
+    },
+    {
+      "id": 242051,
+      "translation": {
+        "en": {
+          "short": "thermostat",
+          "long": "an instrument that automatically controls the temperature of a room, machine, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "termostat",
+          "long": "Instrumen yang secara otomatis mengontrol suhu ruangan, mesin, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242051.jpeg",
+      "simplified": "恒温器",
+      "traditional": "恆溫器",
+      "pinyin": "héngwēn qì"
+    },
+    {
+      "id": 242058,
+      "translation": {
+        "en": {
+          "short": "safety valve",
+          "long": "a device that allows steam, liquid, etc. to escape a machine, if the pressure inside the machine becomes too high",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "katup pengaman",
+          "long": "Perangkat yang memungkinkan uap, cair, dll. Untuk melarikan diri dari mesin, jika tekanan di dalam mesin menjadi terlalu tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242058.jpeg",
+      "simplified": "安全阀门",
+      "traditional": "安全閥門",
+      "pinyin": "ānquán fá Mén"
+    },
+    {
+      "id": 242059,
+      "translation": {
+        "en": {
+          "short": "robotics",
+          "long": "an area of technology that is concerned with the study or use of robots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "robotika",
+          "long": "bidang teknologi yang berkaitan dengan studi atau penggunaan robot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242059.jpeg",
+      "simplified": "机器人技术",
+      "traditional": "機器人技術",
+      "pinyin": "jīqì rén jìshù"
+    },
+    {
+      "id": 242060,
+      "translation": {
+        "en": {
+          "short": "relay",
+          "long": "an electronic device that uses a small electrical current to control a larger current, acting like an automatic switch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyampaikan",
+          "long": "Perangkat elektronik yang menggunakan arus listrik kecil untuk mengontrol arus yang lebih besar, bertindak seperti sakelar otomatis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242060.jpeg",
+      "simplified": "继电器（电子设备）",
+      "traditional": "繼電器（電子設備）",
+      "pinyin": "jìdiàn qì diànzǐ shèbèi"
+    },
+    {
+      "id": 242061,
+      "translation": {
+        "en": {
+          "short": "oscillator",
+          "long": "a piece of equipment for generating oscillating electric currents or voltages by non-mechanical means",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "osilator",
+          "long": "Sepotong peralatan untuk menghasilkan arus listrik berosilasi atau tegangan dengan cara non-mekanis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242061.jpeg",
+      "simplified": "振荡器",
+      "traditional": "振盪器",
+      "pinyin": "zhèndàng qì"
+    },
+    {
+      "id": 242062,
+      "translation": {
+        "en": {
+          "short": "insulator",
+          "long": "a substance that doesn't conduct heat, sound, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isolator",
+          "long": "Suatu zat yang tidak melakukan panas, suara, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242062.jpeg",
+      "simplified": "绝缘子",
+      "traditional": "絕緣子",
+      "pinyin": "juéyuán zǐ"
+    },
+    {
+      "id": 242063,
+      "translation": {
+        "en": {
+          "short": "solar cell",
+          "long": "a device that converts the energy of the sun into electricity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel surya",
+          "long": "perangkat yang mengubah energi matahari menjadi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242063.jpeg",
+      "simplified": "太阳能电池",
+      "traditional": "太陽能電池",
+      "pinyin": "tàiyáng néng diàn chí"
+    },
+    {
+      "id": 242064,
+      "translation": {
+        "en": {
+          "short": "rotor",
+          "long": "the rotating part of a machine that revolves around a stationary part",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rotor",
+          "long": "bagian yang berputar dari mesin yang berputar di sekitar bagian diam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242064.jpeg",
+      "simplified": "转子",
+      "traditional": "轉子",
+      "pinyin": "zhuànzǐ"
+    },
+    {
+      "id": 242065,
+      "translation": {
+        "en": {
+          "short": "to rewire",
+          "long": "to provide new electrical wiring for a building or machine",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Rewire",
+          "long": "untuk menyediakan kabel listrik baru untuk bangunan atau mesin",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242065.jpeg",
+      "simplified": "重新布线",
+      "traditional": "重新佈線",
+      "pinyin": "chóngxīn bùxiàn"
+    },
+    {
+      "id": 384953,
+      "translation": {
+        "en": {
+          "short": "alternating current",
+          "long": "an electric current that reverses direction periodically, typically used in power distribution systems due to its efficiency in long-distance transmission",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "arus bergantian",
+          "long": "Arus listrik yang membalikkan arah secara berkala, biasanya digunakan dalam sistem distribusi daya karena efisiensinya dalam transmisi jarak jauh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384953.jpeg",
+      "simplified": "交流电",
+      "traditional": "交流電",
+      "pinyin": "jiāoliú diàn"
+    }
+  ]
+}

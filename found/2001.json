@@ -1,0 +1,735 @@
+{
+  "id": 2001,
+  "title": {
+    "en": "Lines, Angles, and Curves",
+    "id": "Garis, sudut, dan kurva"
+  },
+  "description": {
+    "en": "Read this lesson to learn the names of some lines, angles, and curves in English, such as \"ray\", \"acute angle\" and \"arc\".",
+    "id": "Baca pelajaran ini untuk mempelajari nama -nama beberapa baris, sudut, dan kurva dalam bahasa Inggris, seperti \"Ray\", \"Acute Angle\" dan \"Arc\"."
+  },
+  "cards": [
+    {
+      "id": 286211,
+      "translation": {
+        "en": {
+          "short": "axis",
+          "long": "an imaginary line in the middle of an object around which the object revolves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumbu",
+          "long": "Garis imajiner di tengah objek di mana objek berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286211.jpeg",
+      "simplified": "旋转轴",
+      "traditional": "旋轉軸",
+      "pinyin": "xuánzhuǎn zhóu"
+    },
+    {
+      "id": 286213,
+      "translation": {
+        "en": {
+          "short": "axis",
+          "long": "(geometry) an arbitrary straight line that passes through the center of a symmetrical object or around which an object spins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumbu",
+          "long": "(Geometri) Garis lurus sewenang -wenang yang melewati pusat objek simetris atau di sekitarnya suatu objek berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286213.jpeg",
+      "simplified": "轴",
+      "traditional": "軸",
+      "pinyin": "zhóu"
+    },
+    {
+      "id": 285996,
+      "translation": {
+        "en": {
+          "short": "cross",
+          "long": "a mark or an object formed by two short lines or pieces crossing each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyeberang",
+          "long": "tanda atau objek yang dibentuk oleh dua garis pendek atau potongan saling melintasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285996.jpeg",
+      "simplified": "乘号",
+      "traditional": "乘號",
+      "pinyin": "chénghào"
+    },
+    {
+      "id": 285997,
+      "translation": {
+        "en": {
+          "short": "diagonal",
+          "long": "(geometry) a straight line that joins the opposite corners of a flat shape at an angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diagonal",
+          "long": "(Geometri) Garis lurus yang bergabung dengan sudut berlawanan dari bentuk datar pada sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285997.jpeg",
+      "simplified": "对角线",
+      "traditional": "對角線",
+      "pinyin": "duìjiǎo xiàn"
+    },
+    {
+      "id": 286010,
+      "translation": {
+        "en": {
+          "short": "zigzag",
+          "long": "(geometry) a shape that consists of a line alternating its direction to left and right",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zigzag",
+          "long": "(Geometri) Bentuk yang terdiri dari garis bergantian arah ke kiri dan kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286010.jpeg",
+      "simplified": "蜿蜒",
+      "traditional": "蜿蜒",
+      "pinyin": "wānyán"
+    },
+    {
+      "id": 286232,
+      "translation": {
+        "en": {
+          "short": "balbis",
+          "long": "a straight line that is terminated by a secondary line at each end, resembling the letter H",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Balbis",
+          "long": "garis lurus yang diakhiri oleh garis sekunder di setiap ujungnya, menyerupai huruf h",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286232.jpeg",
+      "simplified": "巴尔比斯",
+      "traditional": "巴爾比斯",
+      "pinyin": "Bā ěr Bǐ Sī"
+    },
+    {
+      "id": 286021,
+      "translation": {
+        "en": {
+          "short": "ray",
+          "long": "a straight line with one endpoint that extends infinitely in the other direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinar",
+          "long": "garis lurus dengan satu titik akhir yang meluas ke arah yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286021.jpeg",
+      "simplified": "射线",
+      "traditional": "射線",
+      "pinyin": "shèxiàn"
+    },
+    {
+      "id": 286030,
+      "translation": {
+        "en": {
+          "short": "line segment",
+          "long": "a portion of a straight line that is defined by two distinct endpoints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segmen garis",
+          "long": "sebagian dari garis lurus yang ditentukan oleh dua titik akhir yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286030.jpeg",
+      "simplified": "线段",
+      "traditional": "線段",
+      "pinyin": "xiànduàn"
+    },
+    {
+      "id": 286054,
+      "translation": {
+        "en": {
+          "short": "parallel",
+          "long": "(mathematics) any of the pair of geometric figures such as lines or planes which do not meet or intersect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paralel",
+          "long": "(Matematika) Pasangan salah satu angka geometrik seperti baris atau pesawat yang tidak memenuhi atau berpotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286054.jpeg",
+      "simplified": "纬线",
+      "traditional": "緯線",
+      "pinyin": "wěixiàn"
+    },
+    {
+      "id": 286069,
+      "translation": {
+        "en": {
+          "short": "perpendicular",
+          "long": "a line, segment, or structure that meets another at a right angle, creating a 90-degree intersection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tegak lurus",
+          "long": "garis, segmen, atau struktur yang bertemu dengan yang lain pada sudut kanan, menciptakan persimpangan 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286069.jpeg",
+      "simplified": "垂直",
+      "traditional": "垂直",
+      "pinyin": "chuízhí"
+    },
+    {
+      "id": 286091,
+      "translation": {
+        "en": {
+          "short": "tangent",
+          "long": "a straight line that touches a curve or surface at exactly one point, known as the point of tangency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis singgung",
+          "long": "Garis lurus yang menyentuh kurva atau permukaan tepat pada satu titik, yang dikenal sebagai titik singgung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286091.jpeg",
+      "simplified": "切线",
+      "traditional": "切線",
+      "pinyin": "qiēxiàn"
+    },
+    {
+      "id": 286101,
+      "translation": {
+        "en": {
+          "short": "secant",
+          "long": "a line that intersects a circle at two distinct points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis potong",
+          "long": "garis yang memotong lingkaran pada dua titik berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286101.jpeg",
+      "simplified": "割线",
+      "traditional": "割線",
+      "pinyin": "gēxiàn"
+    },
+    {
+      "id": 286172,
+      "translation": {
+        "en": {
+          "short": "linear pair",
+          "long": "a pair of adjacent angles formed by two intersecting lines, which add up to 180 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasangan linier",
+          "long": "Sepasang sudut yang berdekatan dibentuk oleh dua garis berpotongan, yang menambah hingga 180 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286172.jpeg",
+      "simplified": "线性对",
+      "traditional": "線性對",
+      "pinyin": "xiànxìng duì"
+    },
+    {
+      "id": 286131,
+      "translation": {
+        "en": {
+          "short": "acute angle",
+          "long": "an angle that measures between 0 and 90 degrees, which is less than a right angle (90 degrees)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut lancip",
+          "long": "Sudut yang berukuran antara 0 dan 90 derajat, yang kurang dari sudut kanan (90 derajat)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286131.jpeg",
+      "simplified": "锐角",
+      "traditional": "銳角",
+      "pinyin": "ruìjiǎo"
+    },
+    {
+      "id": 286132,
+      "translation": {
+        "en": {
+          "short": "obtuse angle",
+          "long": "an angle that measures more than 90 degrees but less than 180 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut tumpul",
+          "long": "Sudut yang berukuran lebih dari 90 derajat tetapi kurang dari 180 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286132.jpeg",
+      "simplified": "钝角",
+      "traditional": "鈍角",
+      "pinyin": "dùnjiǎo"
+    },
+    {
+      "id": 286134,
+      "translation": {
+        "en": {
+          "short": "right angle",
+          "long": "an angle measuring exactly 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut kanan",
+          "long": "Sudut yang mengukur tepat 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286134.jpeg",
+      "simplified": "直角",
+      "traditional": "直角",
+      "pinyin": "zhíjiǎo"
+    },
+    {
+      "id": 286136,
+      "translation": {
+        "en": {
+          "short": "straight angle",
+          "long": "an angle that measures exactly 180 degrees, which is the same as a straight line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut lurus",
+          "long": "Sudut yang berukuran tepat 180 derajat, yang sama dengan garis lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286136.jpeg",
+      "simplified": "直角",
+      "traditional": "直角",
+      "pinyin": "zhíjiǎo"
+    },
+    {
+      "id": 286228,
+      "translation": {
+        "en": {
+          "short": "oblique angle",
+          "long": "an angle that measures either less or more that 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut miring",
+          "long": "Suatu sudut yang mengukur lebih sedikit atau lebih dari 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286228.jpeg",
+      "simplified": "斜角",
+      "traditional": "斜角",
+      "pinyin": "xiéjiǎo"
+    },
+    {
+      "id": 286137,
+      "translation": {
+        "en": {
+          "short": "reflex angle",
+          "long": "an angle that measures greater than 180 degrees but less than 360 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut refleks",
+          "long": "sudut yang berukuran lebih besar dari 180 derajat tetapi kurang dari 360 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286137.jpeg",
+      "simplified": "优角",
+      "traditional": "優角",
+      "pinyin": "yōujiǎo"
+    },
+    {
+      "id": 286145,
+      "translation": {
+        "en": {
+          "short": "full rotation",
+          "long": "a complete revolution or turn around a fixed point or axis, covering a 360-degree angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rotasi penuh",
+          "long": "revolusi lengkap atau berbalik di sekitar titik atau sumbu tetap, menutupi sudut 360 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286145.jpeg",
+      "simplified": "完全旋转",
+      "traditional": "完全旋轉",
+      "pinyin": "wánquán xuánzhuǎn"
+    },
+    {
+      "id": 286155,
+      "translation": {
+        "en": {
+          "short": "positive angle",
+          "long": "an angle measured counterclockwise from the initial side of a reference angle in standard position, usually expressed in degrees or radians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut positif",
+          "long": "Suatu sudut diukur berlawanan arah jarum jam dari sisi awal sudut referensi pada posisi standar, biasanya diekspresikan dalam derajat atau radian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286155.jpeg",
+      "simplified": "正角",
+      "traditional": "正角",
+      "pinyin": "zhèngjiǎo"
+    },
+    {
+      "id": 286162,
+      "translation": {
+        "en": {
+          "short": "negative angle",
+          "long": "an angle measured clockwise from the initial side of a reference angle in standard position, usually expressed in degrees or radians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut negatif",
+          "long": "Sudut yang diukur searah jarum jam dari sisi awal sudut referensi pada posisi standar, biasanya diekspresikan dalam derajat atau radian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286162.jpeg",
+      "simplified": "负角",
+      "traditional": "負角",
+      "pinyin": "fù Jué"
+    },
+    {
+      "id": 286399,
+      "translation": {
+        "en": {
+          "short": "adjacent angles",
+          "long": "two angles that share a common vertex and a common side, but do not overlap, and are not in a straight line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut yang berdekatan",
+          "long": "Dua sudut yang memiliki simpul umum dan sisi yang sama, tetapi tidak tumpang tindih, dan tidak berada dalam garis lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286399.jpeg",
+      "simplified": "邻角",
+      "traditional": "鄰角",
+      "pinyin": "lín Jué"
+    },
+    {
+      "id": 286277,
+      "translation": {
+        "en": {
+          "short": "plane angle",
+          "long": "the measure of the tilt between two lines or surfaces in two-dimensional space, typically given in degrees or radians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut pesawat",
+          "long": "Ukuran kemiringan antara dua garis atau permukaan dalam ruang dua dimensi, biasanya diberikan dalam derajat atau radian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286277.jpeg",
+      "simplified": "平面角",
+      "traditional": "平面角",
+      "pinyin": "píngmiàn jiǎo"
+    },
+    {
+      "id": 286337,
+      "translation": {
+        "en": {
+          "short": "arc",
+          "long": "(geometry) a part of a circle, which is curved",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busur",
+          "long": "(Geometri) Bagian dari lingkaran, yang melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286337.jpeg",
+      "simplified": "弧（几何）",
+      "traditional": "弧（幾何）",
+      "pinyin": "hú jǐhé"
+    },
+    {
+      "id": 286339,
+      "translation": {
+        "en": {
+          "short": "arc",
+          "long": "a curved shape, or something shaped this way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busur",
+          "long": "bentuk melengkung, atau sesuatu yang dibentuk dengan cara ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286339.jpeg",
+      "simplified": "弧",
+      "traditional": "弧",
+      "pinyin": "hú"
+    },
+    {
+      "id": 286341,
+      "translation": {
+        "en": {
+          "short": "concavity",
+          "long": "a shape, line or surface that is hollow and is rounded inward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecekungan",
+          "long": "bentuk, garis atau permukaan yang berlubang dan dibulatkan ke dalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286341.jpeg",
+      "simplified": "凹",
+      "traditional": "凹",
+      "pinyin": "āo"
+    },
+    {
+      "id": 286343,
+      "translation": {
+        "en": {
+          "short": "conic section",
+          "long": "(geometry) a shape formed when a circular cone is intersected by a plane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bagian kerucut",
+          "long": "(Geometri) Bentuk yang terbentuk saat kerucut melingkar berpotongan dengan pesawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286343.jpeg",
+      "simplified": "圆锥截面",
+      "traditional": "圓錐截面",
+      "pinyin": "yuánzhuī jiémiàn"
+    },
+    {
+      "id": 286344,
+      "translation": {
+        "en": {
+          "short": "crescent",
+          "long": "a curved shape with narrow points at the ends that appears wider in the middle, like the shape of the moon in its first and last quarters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabit",
+          "long": "Bentuk melengkung dengan titik -titik sempit di ujung yang muncul lebih lebar di tengah, seperti bentuk bulan di tempat pertama dan terakhir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286344.jpeg",
+      "simplified": "新月形",
+      "traditional": "新月形",
+      "pinyin": "xīnyuè xíng"
+    },
+    {
+      "id": 286346,
+      "translation": {
+        "en": {
+          "short": "curl",
+          "long": "something that resembles a spiral or coil",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keriting",
+          "long": "sesuatu yang menyerupai spiral atau koil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286346.jpeg",
+      "simplified": "螺旋",
+      "traditional": "螺旋",
+      "pinyin": "luóxuán"
+    },
+    {
+      "id": 286348,
+      "translation": {
+        "en": {
+          "short": "spiral",
+          "long": "(geometry) a curved shape or design that gradually winds around a center or axis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spiral",
+          "long": "(Geometri) Bentuk atau desain melengkung yang secara bertahap berputar di sekitar pusat atau sumbu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286348.jpeg",
+      "simplified": "螺旋",
+      "traditional": "螺旋",
+      "pinyin": "luóxuán"
+    },
+    {
+      "id": 286349,
+      "translation": {
+        "en": {
+          "short": "ellipse",
+          "long": "(geometry) a closed plane curve that has two focal points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elips",
+          "long": "(Geometri) Kurva bidang tertutup yang memiliki dua titik fokus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286349.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    },
+    {
+      "id": 286350,
+      "translation": {
+        "en": {
+          "short": "parabola",
+          "long": "(geometry) a symmetrical open curve that is similar to the path of an object thrown into the air passes till it falls back to earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parabola",
+          "long": "(Geometri) Kurva terbuka simetris yang mirip dengan jalur objek yang dilemparkan ke udara melewati sampai jatuh kembali ke bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286350.jpeg",
+      "simplified": "抛物线",
+      "traditional": "拋物線",
+      "pinyin": "pāowù xiàn"
+    },
+    {
+      "id": 286353,
+      "translation": {
+        "en": {
+          "short": "hyperbola",
+          "long": "a geometric curve formed by the intersection of a plane with two cones, resulting in two symmetrical branches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiperbola",
+          "long": "Kurva geometris yang dibentuk oleh persimpangan bidang dengan dua kerucut, menghasilkan dua cabang simetris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286353.jpeg",
+      "simplified": "双曲线",
+      "traditional": "雙曲線",
+      "pinyin": "shuāngqū xiàn"
+    },
+    {
+      "id": 286354,
+      "translation": {
+        "en": {
+          "short": "simple curve",
+          "long": "a continuous curve that does not intersect itself, and can be traced without lifting the pen or pencil from the paper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kurva sederhana",
+          "long": "Kurva kontinu yang tidak memotong dirinya sendiri, dan dapat dilacak tanpa mengangkat pena atau pensil dari kertas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286354.jpeg",
+      "simplified": "简单曲线",
+      "traditional": "簡單曲線",
+      "pinyin": "jiǎndān qūxiàn"
+    },
+    {
+      "id": 286355,
+      "translation": {
+        "en": {
+          "short": "non-simple curve",
+          "long": "a curve that intersects itself, or has overlapping segments, requiring the pen or pencil to be lifted from the paper while tracing it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kurva non-sederhana",
+          "long": "Kurva yang memotong dirinya sendiri, atau memiliki segmen yang tumpang tindih, membutuhkan pena atau pensil untuk diangkat dari kertas saat melacaknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286355.jpeg",
+      "simplified": "非简单曲线",
+      "traditional": "非簡單曲線",
+      "pinyin": "Fēi jiǎndān qūxiàn"
+    },
+    {
+      "id": 286356,
+      "translation": {
+        "en": {
+          "short": "open curve",
+          "long": "a curve that does not intersect itself and has distinct endpoints, meaning it does not form a closed shape or loop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kurva terbuka",
+          "long": "Kurva yang tidak memotong dirinya sendiri dan memiliki titik akhir yang berbeda, artinya tidak membentuk bentuk atau loop tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286356.jpeg",
+      "simplified": "开放曲线",
+      "traditional": "開放曲線",
+      "pinyin": "kāifàng qūxiàn"
+    },
+    {
+      "id": 286357,
+      "translation": {
+        "en": {
+          "short": "closed curve",
+          "long": "a curve that begins and ends at the same point, forming a closed loop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kurva tertutup",
+          "long": "Kurva yang dimulai dan berakhir pada titik yang sama, membentuk loop tertutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286357.jpeg",
+      "simplified": "闭合曲线",
+      "traditional": "閉合曲線",
+      "pinyin": "bìhé qūxiàn"
+    }
+  ]
+}

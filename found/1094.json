@@ -1,0 +1,773 @@
+{
+  "id": 1094,
+  "title": {
+    "en": "Don't Do the Crime, If You Can't Do the Time!",
+    "id": "Jangan lakukan kejahatan, jika Anda tidak bisa melakukan waktu!"
+  },
+  "description": {
+    "en": "Here you will learn some English words about crime, such as \"warden\", \"bootleg\", \"stalk\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kejahatan, seperti \"sipir\", \"bootleg\", \"tangkai\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 248875,
+      "translation": {
+        "en": {
+          "short": "warden",
+          "long": "the official in charge of a prison or correctional facility, responsible for overseeing the administration, security, and well-being of inmates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sipir",
+          "long": "Pejabat yang bertanggung jawab atas penjara atau fasilitas pemasyarakatan, bertanggung jawab untuk mengawasi administrasi, keamanan, dan kesejahteraan para narapidana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248875.jpeg",
+      "simplified": "监狱长",
+      "traditional": "監獄長",
+      "pinyin": "jiānyù cháng"
+    },
+    {
+      "id": 248876,
+      "translation": {
+        "en": {
+          "short": "vigilante",
+          "long": "an individual or group of individuals who take the law into their own hands, acting outside the legal system to enforce their version of justice or address perceived wrongs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vigilante",
+          "long": "sekelompok individu atau kelompok individu yang mengambil hukum ke tangan mereka sendiri, bertindak di luar sistem hukum untuk menegakkan versi keadilan atau mengatasi kesalahan yang dirasakan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248876.jpeg",
+      "simplified": "警惕",
+      "traditional": "警惕",
+      "pinyin": "jǐngtì"
+    },
+    {
+      "id": 248877,
+      "translation": {
+        "en": {
+          "short": "to trespass",
+          "long": "to enter someone's land or building without permission",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pelanggaran",
+          "long": "untuk memasuki tanah atau bangunan seseorang tanpa izin",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248877.jpeg",
+      "simplified": "非法进入某人的财产",
+      "traditional": "非法進入某人的財產",
+      "pinyin": "fēifǎ jìnrù mǒurén de cáichǎn"
+    },
+    {
+      "id": 248878,
+      "translation": {
+        "en": {
+          "short": "treason",
+          "long": "the act of betraying one's country by rebelling against its government",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengkhianatan",
+          "long": "tindakan mengkhianati negara seseorang dengan memberontak terhadap pemerintahannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248878.jpeg",
+      "simplified": "渝",
+      "traditional": "渝",
+      "pinyin": "Yú"
+    },
+    {
+      "id": 248881,
+      "translation": {
+        "en": {
+          "short": "alibi",
+          "long": "proof that indicates a person was somewhere other than the place where a crime took place and therefore could not have committed it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alibi",
+          "long": "Bukti yang menunjukkan seseorang ada di suatu tempat selain tempat di mana kejahatan terjadi dan karenanya tidak mungkin melakukan hal itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248881.jpeg",
+      "simplified": "alibi",
+      "traditional": "alibi",
+      "pinyin": ""
+    },
+    {
+      "id": 248882,
+      "translation": {
+        "en": {
+          "short": "appropriation",
+          "long": "the use of elements from one culture by another, often without permission",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemberian",
+          "long": "Penggunaan elemen dari satu budaya oleh yang lain, seringkali tanpa izin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248882.jpeg",
+      "simplified": "拨款",
+      "traditional": "撥款",
+      "pinyin": "bōkuǎn"
+    },
+    {
+      "id": 248883,
+      "translation": {
+        "en": {
+          "short": "battery",
+          "long": "the intentional and unlawful physical contact or harm inflicted on another person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baterai",
+          "long": "kontak fisik yang disengaja dan melanggar hukum atau kerugian yang ditimbulkan pada orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248883.jpeg",
+      "simplified": "殴打（犯罪）",
+      "traditional": "毆打（犯罪）",
+      "pinyin": "ōudǎ fànzuì"
+    },
+    {
+      "id": 248884,
+      "translation": {
+        "en": {
+          "short": "to blackmail",
+          "long": "to demand funds or another benefit from someone in exchange for not damaging their reputation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memeras",
+          "long": "untuk menuntut dana atau manfaat lain dari seseorang dengan imbalan tidak merusak reputasi mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248884.jpeg",
+      "simplified": "勒索",
+      "traditional": "勒索",
+      "pinyin": "lèsuǒ"
+    },
+    {
+      "id": 248885,
+      "translation": {
+        "en": {
+          "short": "to bootleg",
+          "long": "to produce, distribute, or sell illicit or unauthorized goods",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bootleg",
+          "long": "untuk memproduksi, mendistribusikan, atau menjual barang -barang terlarang atau tidak sah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248885.jpeg",
+      "simplified": "赃物",
+      "traditional": "贓物",
+      "pinyin": "zāngwù"
+    },
+    {
+      "id": 248886,
+      "translation": {
+        "en": {
+          "short": "capital punishment",
+          "long": "the killing of a criminal as punishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hukuman badan",
+          "long": "pembunuhan seorang penjahat sebagai hukuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248886.jpeg",
+      "simplified": "极刑",
+      "traditional": "極刑",
+      "pinyin": "jíxíng"
+    },
+    {
+      "id": 248887,
+      "translation": {
+        "en": {
+          "short": "thievery",
+          "long": "the act of stealing something from someone or somewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencurian",
+          "long": "tindakan mencuri sesuatu dari seseorang atau di suatu tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248887.jpeg",
+      "simplified": "偷窃",
+      "traditional": "偷竊",
+      "pinyin": "tōuqiè"
+    },
+    {
+      "id": 248888,
+      "translation": {
+        "en": {
+          "short": "to swindle",
+          "long": "to use deceit in order to deprive someone of their money or other possessions",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menipu",
+          "long": "menggunakan penipuan untuk menghilangkan uang kepada seseorang atau harta benda lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248888.jpeg",
+      "simplified": "欺骗某人",
+      "traditional": "欺騙某人",
+      "pinyin": "qīpiàn mǒurén"
+    },
+    {
+      "id": 248890,
+      "translation": {
+        "en": {
+          "short": "statutory rape",
+          "long": "a nonforced sexual intercourse with a person under the age of consent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemerkosaan hukum",
+          "long": "hubungan seksual yang tidak dipaksakan dengan seseorang di bawah usia persetujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248890.jpeg",
+      "simplified": "法定强奸",
+      "traditional": "法定強姦",
+      "pinyin": "fǎdìng qiángjiān"
+    },
+    {
+      "id": 248891,
+      "translation": {
+        "en": {
+          "short": "to stalk",
+          "long": "to follow, watch, or pursue someone  persistently and often secretly, causing them fear or discomfort",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menguntit",
+          "long": "untuk mengikuti, menonton, atau mengejar seseorang secara terus -menerus dan seringkali secara diam -diam, menyebabkan mereka takut atau tidak nyaman",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248891.jpeg",
+      "simplified": "悄悄走近",
+      "traditional": "悄悄走近",
+      "pinyin": "qiāoqiāo zǒujìn"
+    },
+    {
+      "id": 248892,
+      "translation": {
+        "en": {
+          "short": "solitary confinement",
+          "long": "the practice of isolating a prisoner in a small, often windowless cell, with minimal human contact or environmental stimulation, as a form of punishment or for security reasons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang isolasi",
+          "long": "Praktek mengisolasi tahanan dalam sel kecil, seringkali tanpa jendela, dengan kontak manusia minimal atau stimulasi lingkungan, sebagai bentuk hukuman atau untuk alasan keamanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248892.jpeg",
+      "simplified": "单独监禁",
+      "traditional": "單獨監禁",
+      "pinyin": "dāndú jiānjìn"
+    },
+    {
+      "id": 248894,
+      "translation": {
+        "en": {
+          "short": "carjacking",
+          "long": "the act of violently stealing a car while someone is inside it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembajakan mobil",
+          "long": "tindakan mencuri mobil dengan keras saat seseorang ada di dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248894.jpeg",
+      "simplified": "劫车",
+      "traditional": "劫車",
+      "pinyin": "jiéchē"
+    },
+    {
+      "id": 248895,
+      "translation": {
+        "en": {
+          "short": "to collude",
+          "long": "‌to cooperate secretly or illegally for deceiving other people",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berkolusi",
+          "long": "‌ untuk bekerja sama secara diam -diam atau ilegal karena menipu orang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248895.jpeg",
+      "simplified": "串通",
+      "traditional": "串通",
+      "pinyin": "chuàntōng"
+    },
+    {
+      "id": 248897,
+      "translation": {
+        "en": {
+          "short": "complicity",
+          "long": "the act of participating in a crime or wrongdoing along with another person or group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keterlibatan",
+          "long": "tindakan berpartisipasi dalam kejahatan atau kesalahan bersama dengan orang atau kelompok lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248897.jpeg",
+      "simplified": "同谋",
+      "traditional": "同謀",
+      "pinyin": "tóngmóu"
+    },
+    {
+      "id": 248898,
+      "translation": {
+        "en": {
+          "short": "to confiscate",
+          "long": "to officially take away something from someone, usually as punishment",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyita",
+          "long": "untuk secara resmi mengambil sesuatu dari seseorang, biasanya sebagai hukuman",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248898.jpeg",
+      "simplified": "没收",
+      "traditional": "沒收",
+      "pinyin": "mòshōu"
+    },
+    {
+      "id": 248901,
+      "translation": {
+        "en": {
+          "short": "contraband",
+          "long": "goods or items whose importation, exportation, or possession is prohibited by law",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "barang selundupan",
+          "long": "barang atau barang yang impor, ekspor, atau kepemilikannya dilarang oleh hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248901.jpeg",
+      "simplified": "禁品",
+      "traditional": "禁品",
+      "pinyin": "jìnpǐn"
+    },
+    {
+      "id": 248902,
+      "translation": {
+        "en": {
+          "short": "defamation",
+          "long": "a false statement damaging a person's reputation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fitnah",
+          "long": "pernyataan palsu yang merusak reputasi seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248902.jpeg",
+      "simplified": "诽谤",
+      "traditional": "誹謗",
+      "pinyin": "fěibàng"
+    },
+    {
+      "id": 248905,
+      "translation": {
+        "en": {
+          "short": "to embezzle",
+          "long": "to secretly steal money entrusted to one's care, typically by manipulating financial records, for personal use or gain",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk penggelapan",
+          "long": "untuk diam -diam mencuri uang yang dipercayakan kepada perawatan seseorang, biasanya dengan memanipulasi catatan keuangan, untuk penggunaan atau keuntungan pribadi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248905.jpeg",
+      "simplified": "挪用",
+      "traditional": "挪用",
+      "pinyin": "nuóyòng"
+    },
+    {
+      "id": 248906,
+      "translation": {
+        "en": {
+          "short": "entrapment",
+          "long": "(law) a practice in which government officials persuade someone to commit a crime that one would not have done by choice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jebakan",
+          "long": "(hukum) Praktik di mana pejabat pemerintah membujuk seseorang untuk melakukan kejahatan yang tidak akan dilakukan oleh seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248906.jpeg",
+      "simplified": "诱捕",
+      "traditional": "誘捕",
+      "pinyin": "yòubǔ"
+    },
+    {
+      "id": 248907,
+      "translation": {
+        "en": {
+          "short": "to exile",
+          "long": "to force someone to live away from their native country, usually due to political reasons or as a punishment",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke pengasingan",
+          "long": "untuk memaksa seseorang untuk tinggal jauh dari negara asalnya, biasanya karena alasan politik atau sebagai hukuman",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248907.jpeg",
+      "simplified": "流亡",
+      "traditional": "流亡",
+      "pinyin": "liúwáng"
+    },
+    {
+      "id": 248908,
+      "translation": {
+        "en": {
+          "short": "to extradite",
+          "long": "to send someone accused of a crime to the place where the crime happened or where they are wanted for legal matters",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengekstradisi",
+          "long": "untuk mengirim seseorang yang dituduh melakukan kejahatan ke tempat di mana kejahatan itu terjadi atau di mana mereka dicari untuk masalah hukum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248908.jpeg",
+      "simplified": "引渡",
+      "traditional": "引渡",
+      "pinyin": "yǐndù"
+    },
+    {
+      "id": 248910,
+      "translation": {
+        "en": {
+          "short": "forgery",
+          "long": "the criminal act of making a copy of a document, money, etc. to do something illegal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemalsuan",
+          "long": "tindakan kriminal membuat salinan dokumen, uang, dll. Untuk melakukan sesuatu yang ilegal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248910.jpeg",
+      "simplified": "伪造罪（犯罪）",
+      "traditional": "偽造罪（犯罪）",
+      "pinyin": "wěizào zuì fànzuì"
+    },
+    {
+      "id": 248913,
+      "translation": {
+        "en": {
+          "short": "furlough",
+          "long": "a temporary release of a convict from prison",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cuti",
+          "long": "pelepasan sementara seorang terpidana dari penjara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248913.jpeg",
+      "simplified": "放假",
+      "traditional": "放假",
+      "pinyin": "fàngjià"
+    },
+    {
+      "id": 248915,
+      "translation": {
+        "en": {
+          "short": "to gaslight",
+          "long": "to manipulate someone into questioning their own perceptions, memories, or sanity, often by denying or distorting the truth",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Gaslight",
+          "long": "untuk memanipulasi seseorang agar mempertanyakan persepsi, ingatan, atau kewarasan mereka sendiri, seringkali dengan menyangkal atau mendistorsi kebenaran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248915.jpeg",
+      "simplified": "煤气灯",
+      "traditional": "煤氣燈",
+      "pinyin": "méiqì dēng"
+    },
+    {
+      "id": 248916,
+      "translation": {
+        "en": {
+          "short": "genocide",
+          "long": "a mass murder committed in order to destroy a particular nation, religious or ethnic group, or race",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genosida",
+          "long": "Pembunuhan massal yang dilakukan untuk menghancurkan negara tertentu, kelompok agama atau etnis, atau ras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248916.jpeg",
+      "simplified": "种族灭绝",
+      "traditional": "種族滅絕",
+      "pinyin": "zhǒngzú miè jué"
+    },
+    {
+      "id": 248917,
+      "translation": {
+        "en": {
+          "short": "grand larceny",
+          "long": "the act of stealing a property that exceeds a certain value lawfully which is considered a serious crime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencurian besar",
+          "long": "tindakan mencuri properti yang melebihi nilai tertentu secara sah yang dianggap sebagai kejahatan serius",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248917.jpeg",
+      "simplified": "重大盗窃罪",
+      "traditional": "重大盜竊罪",
+      "pinyin": "zhòngdà dàoqiè zuì"
+    },
+    {
+      "id": 248918,
+      "translation": {
+        "en": {
+          "short": "guillotine",
+          "long": "a device for beheading, featuring a tall frame with a suspended blade released to swiftly sever the condemned person's head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guillotine",
+          "long": "Perangkat untuk memenggal kepala, menampilkan bingkai tinggi dengan bilah yang ditangguhkan dilepaskan untuk dengan cepat memutuskan kepala orang yang dikutuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248918.jpeg",
+      "simplified": "断头台",
+      "traditional": "斷頭台",
+      "pinyin": "duàntóu tái"
+    },
+    {
+      "id": 248921,
+      "translation": {
+        "en": {
+          "short": "to hustle",
+          "long": "to convince or make someone to do something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bergegas",
+          "long": "untuk meyakinkan atau membuat seseorang melakukan sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248921.jpeg",
+      "simplified": "强迫某人做某事",
+      "traditional": "強迫某人做某事",
+      "pinyin": "qiǎngpò mǒurén zuò mǒushì"
+    },
+    {
+      "id": 248922,
+      "translation": {
+        "en": {
+          "short": "to incarcerate",
+          "long": "to confine someone in prison or a similar facility due to legal reasons or as a form of punishment",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk jatuh",
+          "long": "untuk membatasi seseorang di penjara atau fasilitas serupa karena alasan hukum atau sebagai bentuk hukuman",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248922.jpeg",
+      "simplified": "监禁",
+      "traditional": "監禁",
+      "pinyin": "jiānjìn"
+    },
+    {
+      "id": 248923,
+      "translation": {
+        "en": {
+          "short": "to incriminate",
+          "long": "to provide evidence or information that suggests a person's involvement in a crime or wrongdoing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memberatkan",
+          "long": "untuk memberikan bukti atau informasi yang menunjukkan keterlibatan seseorang dalam suatu kejahatan atau kesalahan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248923.jpeg",
+      "simplified": "归罪于",
+      "traditional": "歸罪於",
+      "pinyin": "guīzuì Yú"
+    },
+    {
+      "id": 248924,
+      "translation": {
+        "en": {
+          "short": "informant",
+          "long": "one that secretly provides information about something or someone for the police or investigators",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "informan",
+          "long": "salah satu yang secara diam -diam memberikan informasi tentang sesuatu atau seseorang untuk polisi atau penyelidik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248924.jpeg",
+      "simplified": "线人",
+      "traditional": "線人",
+      "pinyin": "xiànrén"
+    },
+    {
+      "id": 248926,
+      "translation": {
+        "en": {
+          "short": "intruder",
+          "long": "a person who breaks into someone else's property; often with a criminal intention",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengacau",
+          "long": "seseorang yang masuk ke properti orang lain; sering dengan niat kriminal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248926.jpeg",
+      "simplified": "入侵者",
+      "traditional": "入侵者",
+      "pinyin": "rùqīn zhě"
+    },
+    {
+      "id": 248927,
+      "translation": {
+        "en": {
+          "short": "to launder",
+          "long": "to make some alterations in order to make something that has been obtained illegally, especially money and currency appear legal or acceptable",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pencucian",
+          "long": "untuk membuat beberapa perubahan untuk membuat sesuatu yang telah diperoleh secara ilegal, terutama uang dan mata uang tampak legal atau dapat diterima",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248927.jpeg",
+      "simplified": "濯",
+      "traditional": "濯",
+      "pinyin": "zhào"
+    },
+    {
+      "id": 248929,
+      "translation": {
+        "en": {
+          "short": "to kidnap",
+          "long": "to take someone away and hold them in captivity, typically to demand something for their release",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menculik",
+          "long": "untuk membawa seseorang pergi dan menahan mereka di penangkaran, biasanya untuk menuntut sesuatu untuk pembebasan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248929.jpeg",
+      "simplified": "绑架",
+      "traditional": "綁架",
+      "pinyin": "bǎngjià"
+    },
+    {
+      "id": 248932,
+      "translation": {
+        "en": {
+          "short": "misdemeanor",
+          "long": "an action that is considered wrong or unacceptable yet not very serious",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perbuatan kurang baik",
+          "long": "tindakan yang dianggap salah atau tidak dapat diterima namun tidak terlalu serius",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248932.jpeg",
+      "simplified": "轻罪",
+      "traditional": "輕罪",
+      "pinyin": "qīngzuì"
+    },
+    {
+      "id": 248933,
+      "translation": {
+        "en": {
+          "short": "mugshot",
+          "long": "a photographic portrait taken by law enforcement agencies of a person who has been arrested, typically taken at the time of booking and used for identification purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mugshot",
+          "long": "Potret fotografi yang diambil oleh lembaga penegak hukum dari seseorang yang telah ditangkap, biasanya diambil pada saat pemesanan dan digunakan untuk tujuan identifikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248933.jpeg",
+      "simplified": "露骨",
+      "traditional": "露骨",
+      "pinyin": "lùgǔ"
+    }
+  ]
+}

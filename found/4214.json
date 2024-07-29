@@ -1,0 +1,602 @@
+{
+  "id": 4214,
+  "title": {
+    "en": "The Internet",
+    "id": "Internet"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the Internet such as \"network\", \"chat room\", and \"broadband\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan internet seperti \"jaringan\", \"ruang obrolan\", dan \"broadband\"."
+  },
+  "cards": [
+    {
+      "id": 355974,
+      "translation": {
+        "en": {
+          "short": "connectivity",
+          "long": "the state or extent of being connected or able to communicate with other devices, networks, or systems, facilitating data transmission and exchange",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konektivitas",
+          "long": "Keadaan atau tingkat terhubung atau mampu berkomunikasi dengan perangkat, jaringan, atau sistem lain, memfasilitasi transmisi dan pertukaran data",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355974.jpeg",
+      "simplified": "连接性",
+      "traditional": "連接性",
+      "pinyin": "liánjiē xìng"
+    },
+    {
+      "id": 355975,
+      "translation": {
+        "en": {
+          "short": "Internet service provider",
+          "long": "a company that provides its customers with Internet access and related services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyedia layanan internet",
+          "long": "Perusahaan yang menyediakan pelanggan dengan akses internet dan layanan terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355975.jpeg",
+      "simplified": "服务提供商",
+      "traditional": "服務提供商",
+      "pinyin": "fúwù tí gōng shāng"
+    },
+    {
+      "id": 355976,
+      "translation": {
+        "en": {
+          "short": "IP address",
+          "long": "(computing) a set of numbers separated by dots that a computer with an active internet connection is identified with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alamat IP",
+          "long": "(Komputasi) Satu set angka yang dipisahkan oleh titik -titik yang diidentifikasi oleh komputer dengan koneksi internet aktif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355976.jpeg",
+      "simplified": "IP地址",
+      "traditional": "IP地址",
+      "pinyin": "IP dìzhǐ"
+    },
+    {
+      "id": 355977,
+      "translation": {
+        "en": {
+          "short": "bandwidth",
+          "long": "the maximum rate of data transfer of an electronic communication system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bandwidth",
+          "long": "Tingkat maksimum transfer data sistem komunikasi elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355977.jpeg",
+      "simplified": "带宽",
+      "traditional": "帶寬",
+      "pinyin": "dàikuān"
+    },
+    {
+      "id": 355979,
+      "translation": {
+        "en": {
+          "short": "Domain Name System",
+          "long": "a decentralized naming system used on the internet to translate human-readable domain names into numerical IP addresses that computers can understand, enabling the proper routing of data between devices and servers",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Sistem Nama Domain",
+          "long": "Sistem penamaan terdesentralisasi yang digunakan di Internet untuk menerjemahkan nama domain yang dapat dibaca manusia ke dalam alamat IP numerik yang dapat dipahami komputer, memungkinkan perutean data yang tepat antara perangkat dan server",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355979.jpeg",
+      "simplified": "域名系统",
+      "traditional": "域名系統",
+      "pinyin": "yùmíng xìtǒng"
+    },
+    {
+      "id": 355980,
+      "translation": {
+        "en": {
+          "short": "TCP",
+          "long": "a widely used communication protocol that ensures reliable, ordered, and error-checked delivery of data packets over networks, forming the basis of most internet communication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "TCP",
+          "long": "Protokol komunikasi yang banyak digunakan yang memastikan pengiriman paket data yang andal, dipesan, dan diperiksa kesalahan melalui jaringan, membentuk dasar dari sebagian besar komunikasi internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355980.jpeg",
+      "simplified": "传输控制协议",
+      "traditional": "傳輸控制協議",
+      "pinyin": "chuánshū kòng zhì xiéyì"
+    },
+    {
+      "id": 355981,
+      "translation": {
+        "en": {
+          "short": "ADSL",
+          "long": "a method of connecting to the internet using a phone line that allows you to use that phone line at the same time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ADSL",
+          "long": "Metode menghubungkan ke internet menggunakan saluran telepon yang memungkinkan Anda menggunakan saluran telepon itu secara bersamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355981.jpeg",
+      "simplified": "宽带数字用户线路",
+      "traditional": "寬帶數字用戶線路",
+      "pinyin": "kuāndài shùzì yòng hù xiàn lù"
+    },
+    {
+      "id": 355983,
+      "translation": {
+        "en": {
+          "short": "virtual private network",
+          "long": "a secure and encrypted network connection that allows users to access the internet or private networks from a remote location while maintaining privacy and data protection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jaringan pribadi virtual",
+          "long": "Koneksi jaringan yang aman dan terenkripsi yang memungkinkan pengguna untuk mengakses internet atau jaringan pribadi dari lokasi jarak jauh sambil mempertahankan privasi dan perlindungan data",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355983.jpeg",
+      "simplified": "虚拟专用网络",
+      "traditional": "虛擬專用網絡",
+      "pinyin": "xūnǐ zhuān yòng wǎng luò"
+    },
+    {
+      "id": 355984,
+      "translation": {
+        "en": {
+          "short": "broadband",
+          "long": "a system of Internet connection that allows users to share information simultaneously",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "broadband",
+          "long": "Sistem koneksi internet yang memungkinkan pengguna untuk berbagi informasi secara bersamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355984.jpeg",
+      "simplified": "宽带互联网",
+      "traditional": "寬帶互聯網",
+      "pinyin": "kuāndài Hùlián wǎng"
+    },
+    {
+      "id": 355985,
+      "translation": {
+        "en": {
+          "short": "connection",
+          "long": "the act of establishing or the state of being linked to something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koneksi",
+          "long": "tindakan mendirikan atau keadaan terkait dengan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355985.jpeg",
+      "simplified": "连接",
+      "traditional": "連接",
+      "pinyin": "liánjiē"
+    },
+    {
+      "id": 355986,
+      "translation": {
+        "en": {
+          "short": "digital communication",
+          "long": "the process of exchanging information, data, or messages between individuals, devices, or systems using electronic or digital technologies, such as computers, smartphones, the internet, or other digital platforms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komunikasi digital",
+          "long": "Proses pertukaran informasi, data, atau pesan antara individu, perangkat, atau sistem menggunakan teknologi elektronik atau digital, seperti komputer, smartphone, internet, atau platform digital lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355986.jpeg",
+      "simplified": "数字通信",
+      "traditional": "數字通信",
+      "pinyin": "shùzì tōng xìn"
+    },
+    {
+      "id": 355988,
+      "translation": {
+        "en": {
+          "short": "VoIP",
+          "long": "a technology that allows voice communication to be transmitted over the internet, enabling phone calls and multimedia communication using internet networks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Voip",
+          "long": "Teknologi yang memungkinkan komunikasi suara ditransmisikan melalui internet, memungkinkan panggilan telepon dan komunikasi multimedia menggunakan jaringan internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355988.jpeg",
+      "simplified": "网络电话",
+      "traditional": "網絡電話",
+      "pinyin": "Wǎngluò diànhuà"
+    },
+    {
+      "id": 355990,
+      "translation": {
+        "en": {
+          "short": "internet access",
+          "long": "the ability of individuals or devices to connect to the internet and access online resources, services, and information, enabling communication, browsing, and various online activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Akses internet",
+          "long": "Kemampuan individu atau perangkat untuk terhubung ke internet dan mengakses sumber daya online, layanan, dan informasi, memungkinkan komunikasi, penelusuran, dan berbagai aktivitas online",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355990.jpeg",
+      "simplified": "上互联网",
+      "traditional": "上互聯網",
+      "pinyin": "shǎng Hùlián wǎng"
+    },
+    {
+      "id": 355991,
+      "translation": {
+        "en": {
+          "short": "hotspot",
+          "long": "a public place where a wireless Internet connection is made available",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hotspot",
+          "long": "tempat umum di mana koneksi internet nirkabel tersedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355991.jpeg",
+      "simplified": "热点",
+      "traditional": "熱點",
+      "pinyin": "rèdiǎn"
+    },
+    {
+      "id": 355992,
+      "translation": {
+        "en": {
+          "short": "phishing",
+          "long": "a cybercrime in which someone tricks another into revealing their personal or financial information such as their passwords or bank account numbers and then using this information to steal money from them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengelabuan",
+          "long": "kejahatan dunia maya di mana seseorang menipu orang lain untuk mengungkapkan informasi pribadi atau keuangan mereka seperti kata sandi atau nomor rekening bank dan kemudian menggunakan informasi ini untuk mencuri uang dari mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355992.jpeg",
+      "simplified": "网络钓鱼",
+      "traditional": "網絡釣魚",
+      "pinyin": "Wǎngluò diàoyú"
+    },
+    {
+      "id": 355993,
+      "translation": {
+        "en": {
+          "short": "access provider",
+          "long": "a company that provides customers with internet access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyedia akses",
+          "long": "perusahaan yang menyediakan pelanggan dengan akses internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355993.jpeg",
+      "simplified": "接入提供商",
+      "traditional": "接入提供商",
+      "pinyin": "jiērù tígōng shāng"
+    },
+    {
+      "id": 355994,
+      "translation": {
+        "en": {
+          "short": "address",
+          "long": "a series of letters and other characters that identifies a destination for email messages or the location of a website",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alamat",
+          "long": "serangkaian huruf dan karakter lain yang mengidentifikasi tujuan untuk pesan email atau lokasi situs web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355994.jpeg",
+      "simplified": "地址",
+      "traditional": "地址",
+      "pinyin": "dìzhǐ"
+    },
+    {
+      "id": 355995,
+      "translation": {
+        "en": {
+          "short": "carrier",
+          "long": "a telecommunications firm that provides a cellular or internet service",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembawa",
+          "long": "perusahaan telekomunikasi yang menyediakan layanan seluler atau internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355995.jpeg",
+      "simplified": "支架",
+      "traditional": "支架",
+      "pinyin": "zhījià"
+    },
+    {
+      "id": 355996,
+      "translation": {
+        "en": {
+          "short": "netiquette",
+          "long": "the proper or ethical way of communicating over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "netiquette",
+          "long": "Cara berkomunikasi yang tepat atau etis melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355996.jpeg",
+      "simplified": "网络礼仪",
+      "traditional": "網絡禮儀",
+      "pinyin": "Wǎngluò lǐyí"
+    },
+    {
+      "id": 355997,
+      "translation": {
+        "en": {
+          "short": "netizen",
+          "long": "a person who is actively engaged in online communities and uses the internet a lot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Warganet",
+          "long": "seseorang yang secara aktif terlibat dalam komunitas online dan banyak menggunakan internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355997.jpeg",
+      "simplified": "网友",
+      "traditional": "網友",
+      "pinyin": "wǎngyǒu"
+    },
+    {
+      "id": 355998,
+      "translation": {
+        "en": {
+          "short": "net surfer",
+          "long": "a person who spends a lot of time on the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Surfer Net",
+          "long": "Seseorang yang menghabiskan banyak waktu di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355998.jpeg",
+      "simplified": "经常上网的人",
+      "traditional": "經常上網的人",
+      "pinyin": "jīngcháng shàngwǎng de rén"
+    },
+    {
+      "id": 355999,
+      "translation": {
+        "en": {
+          "short": "newsgroup",
+          "long": "‌an online forum where people can post messages and discuss a particular topic of interest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "newsgroup",
+          "long": "Forum Forum online di mana orang dapat memposting pesan dan mendiskusikan topik yang menarik tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355999.jpeg",
+      "simplified": "新闻组",
+      "traditional": "新聞組",
+      "pinyin": "xīnwén zǔ"
+    },
+    {
+      "id": 356000,
+      "translation": {
+        "en": {
+          "short": "newswire",
+          "long": "a type of service that gives subscribers the latest news through the internet or satellite",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Newswire",
+          "long": "Jenis layanan yang memberi pelanggan berita terbaru melalui internet atau satelit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356000.jpeg",
+      "simplified": "新闻专线",
+      "traditional": "新聞專線",
+      "pinyin": "xīnwén zhuānxiàn"
+    },
+    {
+      "id": 356001,
+      "translation": {
+        "en": {
+          "short": "HTTP",
+          "long": "the system in HTML in which data is being sent and received on World Wide Web",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Http",
+          "long": "Sistem di HTML di mana data dikirim dan diterima di World Wide Web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356001.jpeg",
+      "simplified": "HTTP协议",
+      "traditional": "HTTP協議",
+      "pinyin": "T T P xiéyì"
+    },
+    {
+      "id": 356003,
+      "translation": {
+        "en": {
+          "short": "CDN",
+          "long": "a distributed network of servers strategically placed in different locations to deliver web content, such as images, videos, and other static or dynamic resources",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "CDN",
+          "long": "Jaringan server terdistribusi yang ditempatkan secara strategis di berbagai lokasi untuk mengirimkan konten web, seperti gambar, video, dan sumber daya statis atau dinamis lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356003.jpeg",
+      "simplified": "CDN",
+      "traditional": "CDN",
+      "pinyin": ""
+    },
+    {
+      "id": 356004,
+      "translation": {
+        "en": {
+          "short": "network",
+          "long": "a number of interconnected electronic devices such as computers that form a system so that data can be shared",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaringan",
+          "long": "Sejumlah perangkat elektronik yang saling berhubungan seperti komputer yang membentuk sistem sehingga data dapat dibagikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356004.jpeg",
+      "simplified": "电脑网",
+      "traditional": "電腦網",
+      "pinyin": "diànnǎo wǎng"
+    },
+    {
+      "id": 356005,
+      "translation": {
+        "en": {
+          "short": "the Internet",
+          "long": "‌a global computer network that allows users around the world to communicate with each other and exchange information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Internet",
+          "long": "Jaringan Komputer Global yang memungkinkan pengguna di seluruh dunia untuk berkomunikasi satu sama lain dan bertukar informasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356005.jpeg",
+      "simplified": "因特网",
+      "traditional": "因特網",
+      "pinyin": "Yīntè wǎng"
+    },
+    {
+      "id": 356006,
+      "translation": {
+        "en": {
+          "short": "chat",
+          "long": "the online exchange of messages between people on the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengobrol",
+          "long": "Pertukaran pesan online antara orang -orang di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356006.jpeg",
+      "simplified": "谈话",
+      "traditional": "談話",
+      "pinyin": "tánhuà"
+    },
+    {
+      "id": 356007,
+      "translation": {
+        "en": {
+          "short": "web chat",
+          "long": "a real-time communication method on the internet through text-based messages exchanged between users, typically on websites or through dedicated chat platforms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "percakapan web",
+          "long": "Metode komunikasi real-time di internet melalui pesan berbasis teks yang dipertukarkan antara pengguna, biasanya di situs web atau melalui platform obrolan khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356007.jpeg",
+      "simplified": "网络聊天",
+      "traditional": "網絡聊天",
+      "pinyin": "Wǎngluò liáotiān"
+    },
+    {
+      "id": 356008,
+      "translation": {
+        "en": {
+          "short": "chat room",
+          "long": "a place on the Internet where people can communicate with one another and talk about a specific topic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang obrolan",
+          "long": "tempat di internet di mana orang dapat berkomunikasi satu sama lain dan berbicara tentang topik tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356008.jpeg",
+      "simplified": "在线聊天室",
+      "traditional": "在線聊天室",
+      "pinyin": "zàixiàn liáotiān shì"
+    },
+    {
+      "id": 356009,
+      "translation": {
+        "en": {
+          "short": "teleconference",
+          "long": "a meeting held among several people who are in different locations, linked via the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telekonferensi",
+          "long": "Pertemuan diadakan di antara beberapa orang yang berada di lokasi yang berbeda, ditautkan melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356009.jpeg",
+      "simplified": "电话会议",
+      "traditional": "電話會議",
+      "pinyin": "diànhuà huì yì"
+    }
+  ]
+}

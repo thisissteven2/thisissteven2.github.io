@@ -1,0 +1,488 @@
+{
+  "id": 23,
+  "title": {
+    "en": "The Weather and Nature",
+    "id": "Cuaca dan alam"
+  },
+  "description": {
+    "en": "Here you will learn some basic English words about the weather and nature, such as \"rainy\", \"hot\", and \"tree\", prepared for A1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris dasar tentang cuaca dan alam, seperti \"hujan\", \"panas\", dan \"pohon\", disiapkan untuk pelajar A1."
+  },
+  "cards": [
+    {
+      "id": 208868,
+      "translation": {
+        "en": {
+          "short": "weather",
+          "long": "things that are related to air and sky such as temperature, rain, wind, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cuaca",
+          "long": "Hal -hal yang terkait dengan udara dan langit seperti suhu, hujan, angin, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208868.jpeg",
+      "simplified": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiānqì"
+    },
+    {
+      "id": 244166,
+      "translation": {
+        "en": {
+          "short": "fire",
+          "long": "the result of something burning that often produces heat, flame, light, and smoke",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "api",
+          "long": "hasil dari sesuatu yang membakar yang sering menghasilkan panas, nyala, cahaya, dan asap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244166.jpeg",
+      "simplified": "自然火",
+      "traditional": "自然火",
+      "pinyin": "zìrán Huǒ"
+    },
+    {
+      "id": 208869,
+      "translation": {
+        "en": {
+          "short": "hot",
+          "long": "having a higher than normal temperature",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas",
+          "long": "memiliki suhu yang lebih tinggi dari normal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208869.jpeg",
+      "simplified": "热的",
+      "traditional": "熱的",
+      "pinyin": "rè de"
+    },
+    {
+      "id": 208870,
+      "translation": {
+        "en": {
+          "short": "cold",
+          "long": "having a temperature lower than the human body's average temperature",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dingin",
+          "long": "memiliki suhu lebih rendah dari suhu rata -rata tubuh manusia",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208870.jpeg",
+      "simplified": "寒冷的",
+      "traditional": "寒冷的",
+      "pinyin": "hánlěng de"
+    },
+    {
+      "id": 208871,
+      "translation": {
+        "en": {
+          "short": "sunny",
+          "long": "very bright because there is a lot of light coming from the sun",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "cerah",
+          "long": "sangat cerah karena ada banyak cahaya yang datang dari matahari",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208871.jpeg",
+      "simplified": "阳光明媚",
+      "traditional": "陽光明媚",
+      "pinyin": "yángguāng míng mèi"
+    },
+    {
+      "id": 208879,
+      "translation": {
+        "en": {
+          "short": "cloud",
+          "long": "a white or gray visible mass of water vapor floating in the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "awan",
+          "long": "Massa uap air putih atau abu -abu yang terlihat mengambang di udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208879.jpeg",
+      "simplified": "云",
+      "traditional": "雲",
+      "pinyin": "yún"
+    },
+    {
+      "id": 208873,
+      "translation": {
+        "en": {
+          "short": "cloudy",
+          "long": "having many clouds up in the sky",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berawan",
+          "long": "memiliki banyak awan di langit",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208873.jpeg",
+      "simplified": "多云的",
+      "traditional": "多雲的",
+      "pinyin": "duōyún de"
+    },
+    {
+      "id": 208874,
+      "translation": {
+        "en": {
+          "short": "rain",
+          "long": "water that falls in small drops from the sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hujan",
+          "long": "air yang jatuh dalam tetesan kecil dari langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208874.jpeg",
+      "simplified": "雨",
+      "traditional": "雨",
+      "pinyin": "yǔ"
+    },
+    {
+      "id": 208872,
+      "translation": {
+        "en": {
+          "short": "rainy",
+          "long": "having or bringing a lot of rain",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hujan",
+          "long": "Memiliki atau membawa banyak hujan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208872.jpeg",
+      "simplified": "下雨的",
+      "traditional": "下雨的",
+      "pinyin": "xiàyǔ de"
+    },
+    {
+      "id": 221067,
+      "translation": {
+        "en": {
+          "short": "snowy",
+          "long": "‌(of a period of time or weather) having or bringing snow",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "salju",
+          "long": "‌ (periode waktu atau cuaca) memiliki atau membawa salju",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221067.jpeg",
+      "simplified": "下雪的",
+      "traditional": "下雪的",
+      "pinyin": "xiàxuě de"
+    },
+    {
+      "id": 208876,
+      "translation": {
+        "en": {
+          "short": "ice",
+          "long": "frozen water, which has a solid state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Es",
+          "long": "air beku, yang memiliki keadaan padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208876.jpeg",
+      "simplified": "冰",
+      "traditional": "冰",
+      "pinyin": "bīng"
+    },
+    {
+      "id": 208877,
+      "translation": {
+        "en": {
+          "short": "nature",
+          "long": "everything that exists or happens on the earth, excluding things that humans make or control",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alam",
+          "long": "Segala sesuatu yang ada atau terjadi di bumi, tidak termasuk hal -hal yang manusia buat atau kendalikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208877.jpeg",
+      "simplified": "自然",
+      "traditional": "自然",
+      "pinyin": "zìrán"
+    },
+    {
+      "id": 208878,
+      "translation": {
+        "en": {
+          "short": "sun",
+          "long": "the large, bright star in the sky that shines during the day and gives us light and heat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matahari",
+          "long": "Bintang besar dan cerah di langit yang bersinar di siang hari dan memberi kita cahaya dan panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208878.jpeg",
+      "simplified": "太阳",
+      "traditional": "太陽",
+      "pinyin": "tàiyang"
+    },
+    {
+      "id": 246581,
+      "translation": {
+        "en": {
+          "short": "moon",
+          "long": "the circular object going round the earth, visible mostly at night",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulan",
+          "long": "Objek melingkar melintasi bumi, sebagian besar terlihat di malam hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246581.jpeg",
+      "simplified": "月亮",
+      "traditional": "月亮",
+      "pinyin": "yuèliang"
+    },
+    {
+      "id": 208880,
+      "translation": {
+        "en": {
+          "short": "Earth",
+          "long": "a big round mass covered in land and water, on which we all live",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bumi",
+          "long": "massa bundar besar yang tertutup darat dan air, tempat kita semua tinggal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208880.jpeg",
+      "simplified": "地",
+      "traditional": "地",
+      "pinyin": "de"
+    },
+    {
+      "id": 208881,
+      "translation": {
+        "en": {
+          "short": "sky",
+          "long": "the space above the earth where the sun, clouds, stars, and the moon are and we can see them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "langit",
+          "long": "ruang di atas bumi tempat matahari, awan, bintang, dan bulan berada dan kita bisa melihatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208881.jpeg",
+      "simplified": "天空",
+      "traditional": "天空",
+      "pinyin": "tiānkōng"
+    },
+    {
+      "id": 208882,
+      "translation": {
+        "en": {
+          "short": "river",
+          "long": "a natural and continuous stream of water flowing on the land to the sea, a lake, or another river",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sungai",
+          "long": "Aliran air yang alami dan terus menerus mengalir di tanah ke laut, danau, atau sungai lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208882.jpeg",
+      "simplified": "河",
+      "traditional": "河",
+      "pinyin": "hé"
+    },
+    {
+      "id": 208883,
+      "translation": {
+        "en": {
+          "short": "sea",
+          "long": "the salt water that covers most of the earth’s surface and surrounds its continents and islands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laut",
+          "long": "air asin yang menutupi sebagian besar permukaan bumi dan mengelilingi benua dan pulau -pulau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208883.jpeg",
+      "simplified": "海",
+      "traditional": "海",
+      "pinyin": "Hǎi"
+    },
+    {
+      "id": 208884,
+      "translation": {
+        "en": {
+          "short": "mountain",
+          "long": "a very tall and large natural structure that looks like a huge hill with a pointed top that is often covered in snow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gunung",
+          "long": "Struktur alami yang sangat tinggi dan besar yang terlihat seperti bukit besar dengan atasan runcing yang sering tertutup salju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208884.jpeg",
+      "simplified": "山",
+      "traditional": "山",
+      "pinyin": "Shān"
+    },
+    {
+      "id": 208885,
+      "translation": {
+        "en": {
+          "short": "beach",
+          "long": "an area of sand or small stones next to a sea or a lake",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pantai",
+          "long": "area pasir atau batu kecil di sebelah laut atau danau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208885.jpeg",
+      "simplified": "海滩",
+      "traditional": "海灘",
+      "pinyin": "hǎitān"
+    },
+    {
+      "id": 208886,
+      "translation": {
+        "en": {
+          "short": "forest",
+          "long": "a vast area of land that is covered with trees and shrubs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hutan",
+          "long": "Area tanah yang luas ditutupi dengan pohon dan semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208886.jpeg",
+      "simplified": "森林",
+      "traditional": "森林",
+      "pinyin": "sēnlín"
+    },
+    {
+      "id": 208887,
+      "translation": {
+        "en": {
+          "short": "island",
+          "long": "a piece of land surrounded by water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pulau",
+          "long": "sebidang tanah yang dikelilingi oleh air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208887.jpeg",
+      "simplified": "岛",
+      "traditional": "島",
+      "pinyin": "dǎo"
+    },
+    {
+      "id": 291043,
+      "translation": {
+        "en": {
+          "short": "star",
+          "long": "(astronomy) a shining point found in large numbers in the night sky",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bintang",
+          "long": "(Astronomi) Titik bersinar yang ditemukan dalam jumlah besar di langit malam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291043.jpeg",
+      "simplified": "星",
+      "traditional": "星",
+      "pinyin": "xīng"
+    },
+    {
+      "id": 208890,
+      "translation": {
+        "en": {
+          "short": "tree",
+          "long": "a very tall plant with branches and leaves, that can live a long time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pohon",
+          "long": "Tanaman yang sangat tinggi dengan ranting dan daun, yang bisa hidup lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208890.jpeg",
+      "simplified": "树",
+      "traditional": "樹",
+      "pinyin": "shù"
+    },
+    {
+      "id": 208891,
+      "translation": {
+        "en": {
+          "short": "flower",
+          "long": "a part of a plant from which the seed or fruit develops",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bunga",
+          "long": "bagian dari tanaman tempat benih atau buah berkembang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208891.jpeg",
+      "simplified": "花",
+      "traditional": "花",
+      "pinyin": "Huā"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "id": 4226,
+  "title": {
+    "en": "Puzzles",
+    "id": "Teka -teki"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to puzzles such as \"sudoku\", \"crossword\", and \"jigsaw puzzle\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan teka -teki seperti \"Sudoku\", \"Crossword\", dan \"Jigsaw Puzzle\"."
+  },
+  "cards": [
+    {
+      "id": 356708,
+      "translation": {
+        "en": {
+          "short": "situation puzzle",
+          "long": "a type of brain teaser or logic puzzle that presents a scenario or problem, challenging individuals to think creatively and critically to find a solution or answer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki situasi",
+          "long": "Jenis penggoda otak atau teka -teki logika yang menghadirkan skenario atau masalah, menantang orang untuk berpikir secara kreatif dan kritis untuk menemukan solusi atau jawaban",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356708.jpeg",
+      "simplified": "情境谜题",
+      "traditional": "情境謎題",
+      "pinyin": "qíngjìng mítí"
+    },
+    {
+      "id": 356710,
+      "translation": {
+        "en": {
+          "short": "mathematical puzzle",
+          "long": "a type of problem or game that involves mathematical concepts and requires solving equations, patterns, or logical reasoning to find a solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teka -teki matematika",
+          "long": "Jenis masalah atau permainan yang melibatkan konsep matematika dan membutuhkan pemecahan persamaan, pola, atau penalaran logis untuk menemukan solusi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356710.jpeg",
+      "simplified": "数学难题",
+      "traditional": "數學難題",
+      "pinyin": "shùxué nántí"
+    },
+    {
+      "id": 356712,
+      "translation": {
+        "en": {
+          "short": "sangaku",
+          "long": "a traditional Japanese geometric puzzle or problem that was historically displayed on wooden tablets called \"sangaku\" at Shinto shrines and Buddhist temples",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sangaku",
+          "long": "Teka -teki geometris tradisional Jepang atau masalah yang secara historis ditampilkan pada tablet kayu yang disebut \"Sangaku\" di Shinto Shrines dan Kuil Buddha",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356712.jpeg",
+      "simplified": "三学",
+      "traditional": "三學",
+      "pinyin": "Sān xué"
+    },
+    {
+      "id": 356714,
+      "translation": {
+        "en": {
+          "short": "logic puzzle",
+          "long": "a type of puzzle that challenges individuals to use deductive reasoning and logical thinking to solve a problem or reach a conclusion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki logika",
+          "long": "Jenis teka -teki yang menantang individu untuk menggunakan penalaran deduktif dan pemikiran logis untuk menyelesaikan masalah atau mencapai kesimpulan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356714.jpeg",
+      "simplified": "逻辑谜题",
+      "traditional": "邏輯謎題",
+      "pinyin": "luóji mítí"
+    },
+    {
+      "id": 356715,
+      "translation": {
+        "en": {
+          "short": "jigsaw puzzle",
+          "long": "a picture on a cardboard that is cut into different pieces and one should fit them together in order for the picture to become whole again",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki jigsaw",
+          "long": "gambar di kardus yang dipotong menjadi potongan -potongan yang berbeda dan seseorang harus memasukkannya bersama -sama agar gambar menjadi utuh lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356715.jpeg",
+      "simplified": "拼图游戏",
+      "traditional": "拼圖遊戲",
+      "pinyin": "pīntú yóuxì"
+    },
+    {
+      "id": 356717,
+      "translation": {
+        "en": {
+          "short": "mechanical puzzle",
+          "long": "a type of puzzle that requires physical manipulation and problem-solving to disassemble, reassemble, or rearrange its components to achieve a specific goal or solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki mekanis",
+          "long": "Jenis teka-teki yang membutuhkan manipulasi fisik dan pemecahan masalah untuk membongkar, memasang kembali, atau mengatur ulang komponennya untuk mencapai tujuan atau solusi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356717.jpeg",
+      "simplified": "机械拼图",
+      "traditional": "機械拼圖",
+      "pinyin": "jīxiè pīntú"
+    },
+    {
+      "id": 356719,
+      "translation": {
+        "en": {
+          "short": "construction puzzle",
+          "long": "a type of puzzle that involves assembling various pieces to create a specific object or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki konstruksi",
+          "long": "Jenis teka -teki yang melibatkan merakit berbagai bagian untuk membuat objek atau struktur tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356719.jpeg",
+      "simplified": "建筑拼图",
+      "traditional": "建築拼圖",
+      "pinyin": "jiànzhù pīntú"
+    },
+    {
+      "id": 356721,
+      "translation": {
+        "en": {
+          "short": "Rubik's cube",
+          "long": "a 3D combination puzzle with a 3x3x3 grid of smaller cubes, challenging players to solve by aligning each face to have a single color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kubus Rubik",
+          "long": "Teka -teki kombinasi 3D dengan kisi 3x3x3 kubus yang lebih kecil, pemain yang menantang untuk dipecahkan dengan menyelaraskan setiap wajah untuk memiliki satu warna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356721.jpeg",
+      "simplified": "魔方",
+      "traditional": "魔術方塊",
+      "pinyin": "mófāng"
+    },
+    {
+      "id": 356723,
+      "translation": {
+        "en": {
+          "short": "disentanglement puzzle",
+          "long": "a type of mechanical puzzle where the objective is to separate or untangle interconnected pieces without using force or cutting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teka -teki Disentanglement",
+          "long": "Jenis teka -teki mekanis di mana tujuannya adalah untuk memisahkan atau mengurai potongan yang saling berhubungan tanpa menggunakan gaya atau pemotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356723.jpeg",
+      "simplified": "解开谜题",
+      "traditional": "解開謎題",
+      "pinyin": "jiěkāi mítí"
+    },
+    {
+      "id": 356725,
+      "translation": {
+        "en": {
+          "short": "puzzle box",
+          "long": "a type of mechanical puzzle that resembles a small box or container with hidden mechanisms, requiring specific manipulations or movements to open and reveal its contents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak teka -teki",
+          "long": "Jenis teka -teki mekanis yang menyerupai kotak atau wadah kecil dengan mekanisme tersembunyi, membutuhkan manipulasi atau gerakan spesifik untuk membuka dan mengungkapkan isinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356725.jpeg",
+      "simplified": "拼图盒",
+      "traditional": "拼圖盒",
+      "pinyin": "pīntú hé"
+    },
+    {
+      "id": 356727,
+      "translation": {
+        "en": {
+          "short": "sliding puzzle",
+          "long": "a type of puzzle that consists of a rectangular board with movable tiles, and the objective is to rearrange the tiles by sliding them into an empty space to form a specific pattern or image",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki geser",
+          "long": "Jenis teka -teki yang terdiri dari papan persegi panjang dengan ubin bergerak, dan tujuannya adalah untuk mengatur ulang ubin dengan menggesernya ke ruang kosong untuk membentuk pola atau gambar tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356727.jpeg",
+      "simplified": "滑动拼图",
+      "traditional": "滑動拼圖",
+      "pinyin": "huádòng pīntú"
+    },
+    {
+      "id": 356728,
+      "translation": {
+        "en": {
+          "short": "tangram",
+          "long": "a traditional Chinese dissection puzzle consisting of seven flat pieces called tans, which are put together to form various shapes and figures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangram",
+          "long": "Teka -teki diseksi Cina tradisional yang terdiri dari tujuh potong datar yang disebut cokelat, yang disatukan untuk membentuk berbagai bentuk dan gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356728.jpeg",
+      "simplified": "七巧板",
+      "traditional": "七巧板",
+      "pinyin": "qīqiǎo bǎn"
+    },
+    {
+      "id": 356729,
+      "translation": {
+        "en": {
+          "short": "crossword",
+          "long": "a puzzle game in which one writes the answers to the clues in numbered boxes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teka teki silang",
+          "long": "permainan puzzle di mana seseorang menulis jawaban atas petunjuk di kotak bernomor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356729.jpeg",
+      "simplified": "填字游戏",
+      "traditional": "填字遊戲",
+      "pinyin": "tiánzì yóu xì"
+    },
+    {
+      "id": 356731,
+      "translation": {
+        "en": {
+          "short": "word ladder",
+          "long": "a word puzzle where players transform one word into another by changing one letter at a time, creating a series of valid English words with each step differing from the previous word by just one letter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tangga kata",
+          "long": "Teka -teki kata di mana pemain mengubah satu kata menjadi kata lain dengan mengubah satu huruf pada satu waktu, membuat serangkaian kata bahasa Inggris yang valid dengan setiap langkah berbeda dari kata sebelumnya hanya dengan satu huruf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356731.jpeg",
+      "simplified": "词梯",
+      "traditional": "詞梯",
+      "pinyin": "cí tī"
+    },
+    {
+      "id": 356732,
+      "translation": {
+        "en": {
+          "short": "hangman",
+          "long": "a word game in which one player picks a word and the others attempt to guess it one letter at a time, each time a player fails to guess the word right, the first player draws one part of a hanging man, if the other players fail to guess the word before the drawing is compeleted they lose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "algojo",
+          "long": "Permainan kata di mana satu pemain memilih satu kata dan yang lain berusaha menebaknya satu huruf pada satu waktu, setiap kali seorang pemain gagal menebak kata yang benar, pemain pertama menggambar satu bagian dari pria gantung, jika pemain lain gagal Menebak kata sebelum gambar dikonsumsi mereka kalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356732.jpeg",
+      "simplified": "刽子手",
+      "traditional": "劊子手",
+      "pinyin": "guìzi shǒu"
+    },
+    {
+      "id": 356734,
+      "translation": {
+        "en": {
+          "short": "pub quiz",
+          "long": "a social event held in a bar or pub where teams compete in answering a series of trivia questions on various topics to test their knowledge and win prizes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuis pub",
+          "long": "Acara sosial yang diadakan di bar atau pub di mana tim bersaing dalam menjawab serangkaian pertanyaan trivia tentang berbagai topik untuk menguji pengetahuan mereka dan memenangkan hadiah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356734.jpeg",
+      "simplified": "酒吧测验",
+      "traditional": "酒吧測驗",
+      "pinyin": "jiǔbā cèyàn"
+    },
+    {
+      "id": 356735,
+      "translation": {
+        "en": {
+          "short": "maze",
+          "long": "a confusing network of paths separated by bushes or walls, designed in a way that confuses the people who pass through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "labirin",
+          "long": "Jaringan jalur yang membingungkan yang dipisahkan oleh semak -semak atau dinding, dirancang dengan cara yang membingungkan orang -orang yang melewati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356735.jpeg",
+      "simplified": "迷宫",
+      "traditional": "迷宮",
+      "pinyin": "mígōng"
+    },
+    {
+      "id": 356736,
+      "translation": {
+        "en": {
+          "short": "sudoku",
+          "long": "a number puzzle consisting of nine large squares each divided into nine smaller squares that must be filled with the numbers one to nine, without repeating any of them in the same square, column, or row",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sudoku",
+          "long": "Teka -teki angka yang terdiri dari sembilan kotak besar masing -masing dibagi menjadi sembilan kotak kecil yang harus diisi dengan angka satu hingga sembilan, tanpa mengulanginya di persegi, kolom, atau baris yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356736.jpeg",
+      "simplified": "数独",
+      "traditional": "數獨",
+      "pinyin": "shùdú"
+    },
+    {
+      "id": 356737,
+      "translation": {
+        "en": {
+          "short": "riddle",
+          "long": "a guessing game that involves at least two players in which participants ask a question that has a surprising or clever answer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Riddle",
+          "long": "Permainan tebakan yang melibatkan setidaknya dua pemain di mana peserta mengajukan pertanyaan yang memiliki jawaban yang mengejutkan atau cerdas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356737.jpeg",
+      "simplified": "谜语",
+      "traditional": "謎語",
+      "pinyin": "míyǔ"
+    },
+    {
+      "id": 356739,
+      "translation": {
+        "en": {
+          "short": "tiling puzzle",
+          "long": "a type of puzzle where the objective is to fill a given area, typically a rectangular grid or a board, with a set of specific shapes without overlapping or leaving any gaps",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka -teki ubin",
+          "long": "Jenis teka -teki di mana tujuannya adalah untuk mengisi area tertentu, biasanya kisi persegi panjang atau papan, dengan satu set bentuk tertentu tanpa tumpang tindih atau meninggalkan celah apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356739.jpeg",
+      "simplified": "平铺拼图",
+      "traditional": "平鋪拼圖",
+      "pinyin": "Píng pù pīntú"
+    },
+    {
+      "id": 356741,
+      "translation": {
+        "en": {
+          "short": "Soma cube",
+          "long": "a 3D spatial puzzle made up of seven different pieces that can be assembled to form a 3x3x3 cube in various ways, presenting a challenging and creative exercise in spatial reasoning and problem-solving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Soma Cube",
+          "long": "Teka-teki spasial 3D yang terdiri dari tujuh bagian berbeda yang dapat dirakit untuk membentuk kubus 3x3x3 dengan berbagai cara, menghadirkan latihan yang menantang dan kreatif dalam penalaran spasial dan pemecahan masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356741.jpeg",
+      "simplified": "索玛立方体",
+      "traditional": "索瑪立方體",
+      "pinyin": "Suǒ mǎ lìfāng tǐ"
+    },
+    {
+      "id": 356743,
+      "translation": {
+        "en": {
+          "short": "edge-matching puzzle",
+          "long": "a type of jigsaw puzzle where pieces have flat edges with specific patterns or shapes that must be matched correctly with adjacent pieces to complete the overall picture or design",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teka-teki pencocokan tepi",
+          "long": "Jenis teka -teki jigsaw di mana potongan memiliki tepi datar dengan pola atau bentuk spesifik yang harus dicocokkan dengan benar dengan potongan -potongan yang berdekatan untuk melengkapi keseluruhan gambar atau desain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356743.jpeg",
+      "simplified": "边缘匹配拼图",
+      "traditional": "邊緣匹配拼圖",
+      "pinyin": "biānyuán pǐpèi pīntú"
+    },
+    {
+      "id": 356744,
+      "translation": {
+        "en": {
+          "short": "rebus",
+          "long": "a word puzzle or riddle that uses pictures, symbols, or letters to represent words or parts of words, challenging the solver to decipher the hidden meaning or phrase",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rebus",
+          "long": "teka -teki kata atau teka -teki yang menggunakan gambar, simbol, atau huruf untuk mewakili kata atau bagian kata, menantang pemecah untuk menguraikan makna atau frasa tersembunyi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356744.jpeg",
+      "simplified": "画谜",
+      "traditional": "畫謎",
+      "pinyin": "huà mèi"
+    },
+    {
+      "id": 356745,
+      "translation": {
+        "en": {
+          "short": "tic-tac-toe",
+          "long": "a game for two players who take a turn to put an X or O in nine provided squares, and the first player who manages to make a row, column, or diagonal of three Xs or Os in those squares wins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tic-tac-toe",
+          "long": "Sebuah permainan untuk dua pemain yang mengambil giliran untuk menempatkan x atau o dalam sembilan kotak yang disediakan, dan pemain pertama yang berhasil membuat baris, kolom, atau diagonal dari tiga X atau OS dalam kuadrat tersebut menang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356745.jpeg",
+      "simplified": "棋盘游戏类型",
+      "traditional": "棋盤遊戲類型",
+      "pinyin": "qípán yóuxì lèixíng"
+    },
+    {
+      "id": 356747,
+      "translation": {
+        "en": {
+          "short": "ball maze",
+          "long": "a physical puzzle that involves navigating a small ball or marble through a maze-like structure by tilting or rotating the game board, avoiding holes and obstacles, to reach a specific target or endpoint",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "labirin bola",
+          "long": "Teka-teki fisik yang melibatkan menavigasi bola kecil atau marmer melalui struktur seperti labirin dengan memiringkan atau memutar papan permainan, menghindari lubang dan rintangan, untuk mencapai target atau titik akhir tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356747.jpeg",
+      "simplified": "球迷宫",
+      "traditional": "球迷宮",
+      "pinyin": "qiúmí Gōng"
+    },
+    {
+      "id": 356748,
+      "translation": {
+        "en": {
+          "short": "Lego",
+          "long": "a type of toy that consists of colored plastic blocks that fit together and using which children can build different things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lego",
+          "long": "Jenis mainan yang terdiri dari blok plastik berwarna yang cocok bersama dan menggunakan yang anak -anak dapat membangun hal yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356748.jpeg",
+      "simplified": "乐高玩具",
+      "traditional": "樂高玩具",
+      "pinyin": "Lègāo wánjù"
+    },
+    {
+      "id": 356750,
+      "translation": {
+        "en": {
+          "short": "boggle",
+          "long": "a word game where players use a grid of letters to form as many words as possible within a limited time, with words being formed by connecting adjacent letters horizontally, vertically, or diagonally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "merusakkan",
+          "long": "Permainan kata di mana pemain menggunakan kisi -kisi huruf untuk membentuk sebanyak mungkin kata dalam waktu terbatas, dengan kata -kata yang dibentuk dengan menghubungkan huruf yang berdekatan secara horizontal, vertikal, atau diagonal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356750.jpeg",
+      "simplified": "惊骇",
+      "traditional": "驚駭",
+      "pinyin": "jīnghài"
+    },
+    {
+      "id": 356751,
+      "translation": {
+        "en": {
+          "short": "brain-teaser",
+          "long": "a puzzle or problem designed to test one's thinking or problem-solving skills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggoda otak",
+          "long": "teka-teki atau masalah yang dirancang untuk menguji pemikiran atau keterampilan pemecahan masalah seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356751.jpeg",
+      "simplified": "谜",
+      "traditional": "謎",
+      "pinyin": "mèi"
+    },
+    {
+      "id": 357101,
+      "translation": {
+        "en": {
+          "short": "construction toy",
+          "long": "a type of toy that allows users to build and assemble structures, objects, or models using individual pieces or parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mainan konstruksi",
+          "long": "Jenis mainan yang memungkinkan pengguna untuk membangun dan merakit struktur, objek, atau model menggunakan masing -masing bagian atau bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/357101.jpeg",
+      "simplified": "建筑玩具",
+      "traditional": "建築玩具",
+      "pinyin": "jiànzhù wánjù"
+    },
+    {
+      "id": 357103,
+      "translation": {
+        "en": {
+          "short": "toy block",
+          "long": "a small, usually rectangular or cubic, building element made from materials like wood, plastic, or foam, used for constructing various structures and fostering creative play and imagination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blok mainan",
+          "long": "Elemen kecil, biasanya persegi panjang atau kubik, yang terbuat dari bahan seperti kayu, plastik, atau busa, digunakan untuk membangun berbagai struktur dan membina permainan kreatif dan imajinasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/357103.jpeg",
+      "simplified": "玩具块",
+      "traditional": "玩具塊",
+      "pinyin": "wánjù kuài"
+    },
+    {
+      "id": 357144,
+      "translation": {
+        "en": {
+          "short": "dots and boxes",
+          "long": "a pencil-and-paper game played on a grid of dots, where players take turns connecting two dots with a line to create boxes, aiming to complete the most boxes and claim them with their initials to score points",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Titik dan kotak",
+          "long": "Permainan pensil-dan-kertas yang dimainkan di kisi titik, di mana para pemain bergiliran menghubungkan dua titik dengan garis untuk membuat kotak, yang bertujuan untuk melengkapi kotak terbanyak dan mengklaimnya dengan inisial mereka untuk mencetak poin",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/357144.jpeg",
+      "simplified": "点和框",
+      "traditional": "點和框",
+      "pinyin": "diǎn hé kuàng"
+    }
+  ]
+}

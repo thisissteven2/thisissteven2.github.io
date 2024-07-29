@@ -1,0 +1,811 @@
+{
+  "id": 6086,
+  "title": {
+    "en": "Welfare",
+    "id": "Kesejahteraan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to welfare, such as \"itinerary\", \"nomadic\", \"facility\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan kesejahteraan, seperti \"rencana perjalanan\", \"nomaden\", \"fasilitas\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 405260,
+      "translation": {
+        "en": {
+          "short": "amenity",
+          "long": "any quality that makes a place more pleasant, comfortable, or joyful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kenyamanan",
+          "long": "Kualitas apa pun yang membuat tempat lebih menyenangkan, nyaman, atau menyenangkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405260.jpeg",
+      "simplified": "礼仪",
+      "traditional": "禮儀",
+      "pinyin": "lǐyí"
+    },
+    {
+      "id": 405261,
+      "translation": {
+        "en": {
+          "short": "accommodation",
+          "long": "a place where people live, stay, or work in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akomodasi",
+          "long": "tempat di mana orang tinggal, tinggal, atau bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405261.jpeg",
+      "simplified": "住宿",
+      "traditional": "住宿",
+      "pinyin": "zhùsù"
+    },
+    {
+      "id": 405262,
+      "translation": {
+        "en": {
+          "short": "manor",
+          "long": "a large house in the countryside encircled with an area of land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Manor",
+          "long": "sebuah rumah besar di pedesaan yang dikelilingi oleh area tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405262.jpeg",
+      "simplified": "庄园",
+      "traditional": "莊園",
+      "pinyin": "zhuāngyuán"
+    },
+    {
+      "id": 405264,
+      "translation": {
+        "en": {
+          "short": "refuge",
+          "long": "protection or shelter from something dangerous or troublesome",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat berlindung",
+          "long": "perlindungan atau tempat berlindung dari sesuatu yang berbahaya atau menyusahkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405264.jpeg",
+      "simplified": "避难所（安全的地方）",
+      "traditional": "避難所（安全的地方）",
+      "pinyin": "bìnàn suǒ ānquán de dìfāng"
+    },
+    {
+      "id": 405265,
+      "translation": {
+        "en": {
+          "short": "oasis",
+          "long": "a place or experience that provides a refreshing escape or relief from a challenging or stressful situation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oasis",
+          "long": "tempat atau pengalaman yang memberikan pelarian atau kelegaan yang menyegarkan dari situasi yang menantang atau membuat stres",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405265.jpeg",
+      "simplified": "绿洲",
+      "traditional": "綠洲",
+      "pinyin": "lǜzhōu"
+    },
+    {
+      "id": 405266,
+      "translation": {
+        "en": {
+          "short": "residency",
+          "long": "the state or period of living in a particular location",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat tinggal",
+          "long": "negara atau periode hidup di lokasi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405266.jpeg",
+      "simplified": "居住权",
+      "traditional": "居住權",
+      "pinyin": "jūzhù Quán"
+    },
+    {
+      "id": 405267,
+      "translation": {
+        "en": {
+          "short": "quarters",
+          "long": "living accommodations, often within a larger building, used by individuals or groups, such as military personnel or employees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perempat",
+          "long": "Akomodasi hidup, seringkali di dalam gedung yang lebih besar, digunakan oleh individu atau kelompok, seperti personel militer atau karyawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405267.jpeg",
+      "simplified": "船位",
+      "traditional": "船位",
+      "pinyin": "chuánwèi"
+    },
+    {
+      "id": 405269,
+      "translation": {
+        "en": {
+          "short": "abbey",
+          "long": "a monastery with a male superior, called abbot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biara",
+          "long": "sebuah biara dengan atasan pria, yang disebut Abbas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405269.jpeg",
+      "simplified": "僧院",
+      "traditional": "僧院",
+      "pinyin": "sēngyuàn"
+    },
+    {
+      "id": 405270,
+      "translation": {
+        "en": {
+          "short": "facility",
+          "long": "a place or a building is designed and equipped for a specific function, such as healthcare, education, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fasilitas",
+          "long": "Tempat atau bangunan dirancang dan dilengkapi untuk fungsi tertentu, seperti perawatan kesehatan, pendidikan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405270.jpeg",
+      "simplified": "建筑",
+      "traditional": "建築",
+      "pinyin": "jiànzhù"
+    },
+    {
+      "id": 405271,
+      "translation": {
+        "en": {
+          "short": "settlement",
+          "long": "the process of making a new place as permanent residence by people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hunian",
+          "long": "Proses membuat tempat baru sebagai tempat tinggal permanen oleh orang -orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405271.jpeg",
+      "simplified": "沉降",
+      "traditional": "沉降",
+      "pinyin": "chénjiàng"
+    },
+    {
+      "id": 405272,
+      "translation": {
+        "en": {
+          "short": "rotunda",
+          "long": "a round hall or building that often has a rounded roof as well",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bangunan bulat",
+          "long": "Aula bundar atau bangunan yang sering memiliki atap bundar juga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405272.jpeg",
+      "simplified": "圆形大厅",
+      "traditional": "圓形大廳",
+      "pinyin": "yuánxíng dàtīng"
+    },
+    {
+      "id": 405273,
+      "translation": {
+        "en": {
+          "short": "dweller",
+          "long": "a person or animal that resides in a particular place or habitat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghuni",
+          "long": "seseorang atau hewan yang tinggal di tempat atau habitat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405273.jpeg",
+      "simplified": "居住者",
+      "traditional": "居住者",
+      "pinyin": "jūzhù zhě"
+    },
+    {
+      "id": 405274,
+      "translation": {
+        "en": {
+          "short": "inhabitant",
+          "long": "a person or animal that resides in a particular place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penduduk",
+          "long": "seseorang atau hewan yang tinggal di tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405274.jpeg",
+      "simplified": "居民",
+      "traditional": "居民",
+      "pinyin": "jūmín"
+    },
+    {
+      "id": 405275,
+      "translation": {
+        "en": {
+          "short": "hideaway",
+          "long": "a secluded place where one can retreat for privacy and solitude",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persembunyian",
+          "long": "tempat terpencil di mana seseorang dapat mundur untuk privasi dan kesunyian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405275.jpeg",
+      "simplified": "避难",
+      "traditional": "避難",
+      "pinyin": "bìnàn"
+    },
+    {
+      "id": 405276,
+      "translation": {
+        "en": {
+          "short": "bungalow",
+          "long": "a one-story construction without stairs, usually with a low roof",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bungalo",
+          "long": "Konstruksi satu lantai tanpa tangga, biasanya dengan atap rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405276.jpeg",
+      "simplified": "平房",
+      "traditional": "平房",
+      "pinyin": "Píngfáng"
+    },
+    {
+      "id": 405277,
+      "translation": {
+        "en": {
+          "short": "renovation",
+          "long": "the process or action of making a building or a piece of furniture look good again by repairing or painting it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "renovasi",
+          "long": "proses atau tindakan membuat bangunan atau perabot terlihat bagus lagi dengan memperbaiki atau mengecatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405277.jpeg",
+      "simplified": "翻新",
+      "traditional": "翻新",
+      "pinyin": "fānxīn"
+    },
+    {
+      "id": 405278,
+      "translation": {
+        "en": {
+          "short": "mansion",
+          "long": "a very large and impressive house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah besar",
+          "long": "rumah yang sangat besar dan mengesankan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405278.jpeg",
+      "simplified": "大厦",
+      "traditional": "大廈",
+      "pinyin": "dàshà"
+    },
+    {
+      "id": 405279,
+      "translation": {
+        "en": {
+          "short": "mess hall",
+          "long": "a large dining area where meals are served, typically in a military or institutional setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aula Mess",
+          "long": "Ruang makan besar di mana makanan disajikan, biasanya dalam lingkungan militer atau kelembagaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405279.jpeg",
+      "simplified": "食堂",
+      "traditional": "食堂",
+      "pinyin": "shítáng"
+    },
+    {
+      "id": 405280,
+      "translation": {
+        "en": {
+          "short": "sanctum",
+          "long": "a private place where one can retreat for peace and solitude",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat suci",
+          "long": "tempat pribadi di mana seseorang dapat mundur untuk kedamaian dan kesunyian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405280.jpeg",
+      "simplified": "圣所",
+      "traditional": "聖所",
+      "pinyin": "kū suǒ"
+    },
+    {
+      "id": 405281,
+      "translation": {
+        "en": {
+          "short": "latrine",
+          "long": "a shared toilet, typically in a camp, military, or outdoor setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jamban",
+          "long": "toilet bersama, biasanya di kemah, militer, atau pengaturan luar ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405281.jpeg",
+      "simplified": "圂",
+      "traditional": "圂",
+      "pinyin": "hùn"
+    },
+    {
+      "id": 405282,
+      "translation": {
+        "en": {
+          "short": "longhouse",
+          "long": "a long, narrow, single-room building traditionally used as a communal living space by various indigenous peoples",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Longhouse",
+          "long": "Bangunan ruang tunggal yang panjang, sempit, secara tradisional digunakan sebagai ruang tamu komunal oleh berbagai masyarakat adat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405282.jpeg",
+      "simplified": "长屋",
+      "traditional": "長屋",
+      "pinyin": "cháng wū"
+    },
+    {
+      "id": 405284,
+      "translation": {
+        "en": {
+          "short": "dispossession",
+          "long": "the act of taking a property of high value such as a piece of land or a building away from a person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perampasan",
+          "long": "tindakan mengambil properti bernilai tinggi seperti sebidang tanah atau bangunan yang jauh dari seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405284.jpeg",
+      "simplified": "夺取",
+      "traditional": "奪取",
+      "pinyin": "duóqǔ"
+    },
+    {
+      "id": 405285,
+      "translation": {
+        "en": {
+          "short": "reservation",
+          "long": "an area of land set aside by the government for the use of a particular group, often Native American tribes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reservasi",
+          "long": "Area tanah yang disisihkan oleh pemerintah untuk penggunaan kelompok tertentu, seringkali suku asli Amerika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405285.jpeg",
+      "simplified": "保留",
+      "traditional": "保留",
+      "pinyin": "bǎoliú"
+    },
+    {
+      "id": 405286,
+      "translation": {
+        "en": {
+          "short": "to refurbish",
+          "long": "to make a room or building look more attractive by repairing, redecorating, or cleaning it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperbarui",
+          "long": "untuk membuat kamar atau bangunan terlihat lebih menarik dengan memperbaiki, mendekorasi ulang, atau membersihkannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405286.jpeg",
+      "simplified": "续借",
+      "traditional": "續借",
+      "pinyin": "xùjiè"
+    },
+    {
+      "id": 405287,
+      "translation": {
+        "en": {
+          "short": "to evacuate",
+          "long": "to leave a place to be safe from a dangerous situation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengevakuasi",
+          "long": "meninggalkan tempat untuk aman dari situasi berbahaya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405287.jpeg",
+      "simplified": "撤离",
+      "traditional": "撤離",
+      "pinyin": "chèlí"
+    },
+    {
+      "id": 405288,
+      "translation": {
+        "en": {
+          "short": "to vacate",
+          "long": "to move out of or exit a place that one previously occupied",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengosongkan",
+          "long": "untuk keluar atau keluar dari tempat yang ditempati sebelumnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405288.jpeg",
+      "simplified": "放弃",
+      "traditional": "放棄",
+      "pinyin": "fàngqì"
+    },
+    {
+      "id": 405289,
+      "translation": {
+        "en": {
+          "short": "to homestead",
+          "long": "to settle on a piece of land with the intent of establishing a permanent residence, often under a government-granted right",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Homestead",
+          "long": "untuk menetap di sebidang tanah dengan maksud mendirikan tempat tinggal permanen, seringkali di bawah hak yang diberikan pemerintah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405289.jpeg",
+      "simplified": "家园",
+      "traditional": "家園",
+      "pinyin": "jiāyuán"
+    },
+    {
+      "id": 405290,
+      "translation": {
+        "en": {
+          "short": "impoverished",
+          "long": "(of people and areas) experiencing extreme poverty",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "miskin",
+          "long": "(orang dan daerah) mengalami kemiskinan yang ekstrem",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405290.jpeg",
+      "simplified": "贫困",
+      "traditional": "貧困",
+      "pinyin": "pínkùn"
+    },
+    {
+      "id": 405291,
+      "translation": {
+        "en": {
+          "short": "nomadic",
+          "long": "referring to the lifestyle of constantly traveling from place to place, with individuals or groups never staying in one location for an extended period of time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pengembara",
+          "long": "mengacu pada gaya hidup terus -menerus bepergian dari satu tempat ke tempat lain, dengan individu atau kelompok tidak pernah tinggal di satu lokasi untuk waktu yang lama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405291.jpeg",
+      "simplified": "游牧的",
+      "traditional": "游牧的",
+      "pinyin": "yóumù de"
+    },
+    {
+      "id": 405292,
+      "translation": {
+        "en": {
+          "short": "inaccessible",
+          "long": "not able to be reached or entered, usually due to obstacles or restrictions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak dapat diakses",
+          "long": "tidak dapat dicapai atau dimasukkan, biasanya karena hambatan atau pembatasan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405292.jpeg",
+      "simplified": "难以接近的",
+      "traditional": "難以接近的",
+      "pinyin": "nányǐ jiējìn de"
+    },
+    {
+      "id": 405293,
+      "translation": {
+        "en": {
+          "short": "voluptuous",
+          "long": "richly luxurious and sensually appealing, often in terms of furnishings and decor",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bahenol",
+          "long": "sangat mewah dan menarik secara sensual, seringkali dalam hal perabotan dan dekorasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405293.jpeg",
+      "simplified": "妖艳的",
+      "traditional": "妖豔的",
+      "pinyin": "yāoyàn de"
+    },
+    {
+      "id": 405294,
+      "translation": {
+        "en": {
+          "short": "attraction",
+          "long": "a place, activity, etc. that is interesting and enjoyable to the public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daya tarik",
+          "long": "tempat, aktivitas, dll. Itu menarik dan menyenangkan bagi publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405294.jpeg",
+      "simplified": "引力",
+      "traditional": "引力",
+      "pinyin": "yǐnlì"
+    },
+    {
+      "id": 405296,
+      "translation": {
+        "en": {
+          "short": "pastime",
+          "long": "an enjoyable activity that a person does regularly in their free time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiburan",
+          "long": "aktivitas menyenangkan yang dilakukan seseorang secara teratur di waktu luang mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405296.jpeg",
+      "simplified": "消遣",
+      "traditional": "消遣",
+      "pinyin": "xiāoqiǎn"
+    },
+    {
+      "id": 405297,
+      "translation": {
+        "en": {
+          "short": "excursion",
+          "long": "a short trip taken for pleasure, particularly one arranged for a group of people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tamasya",
+          "long": "Perjalanan singkat yang dilakukan untuk kesenangan, terutama yang diatur untuk sekelompok orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405297.jpeg",
+      "simplified": "短暂的悠闲旅行",
+      "traditional": "短暫的悠閒旅行",
+      "pinyin": "duǎnzàn de yōuxián lǚxíng"
+    },
+    {
+      "id": 405298,
+      "translation": {
+        "en": {
+          "short": "voyage",
+          "long": "a long journey taken on a ship or spacecraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "Perjalanan panjang yang dilakukan di atas kapal atau pesawat ruang angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405298.jpeg",
+      "simplified": "航程",
+      "traditional": "航程",
+      "pinyin": "hángchéng"
+    },
+    {
+      "id": 405299,
+      "translation": {
+        "en": {
+          "short": "recreation",
+          "long": "things done in one's free time for pleasure or enjoyment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rekreasi",
+          "long": "Hal -hal yang dilakukan dalam waktu luang seseorang untuk kesenangan atau kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405299.jpeg",
+      "simplified": "娱乐",
+      "traditional": "娛樂",
+      "pinyin": "yúlè"
+    },
+    {
+      "id": 405301,
+      "translation": {
+        "en": {
+          "short": "sightseeing",
+          "long": "the activity of visiting interesting places in a particular location as a tourist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melihat-lihat",
+          "long": "aktivitas mengunjungi tempat -tempat menarik di lokasi tertentu sebagai turis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405301.jpeg",
+      "simplified": "观光",
+      "traditional": "觀光",
+      "pinyin": "guānguāng"
+    },
+    {
+      "id": 405302,
+      "translation": {
+        "en": {
+          "short": "itinerary",
+          "long": "a plan of the route and the places that one will visit on a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rencana perjalanan",
+          "long": "rencana rute dan tempat -tempat yang akan dikunjungi seseorang dalam perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405302.jpeg",
+      "simplified": "行程",
+      "traditional": "行程",
+      "pinyin": "xíngchéng"
+    },
+    {
+      "id": 405303,
+      "translation": {
+        "en": {
+          "short": "layover",
+          "long": "a short break or stay in a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "singgah",
+          "long": "istirahat sejenak atau tetap dalam perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405303.jpeg",
+      "simplified": "短暂停留（旅途中）",
+      "traditional": "短暫停留（旅途中）",
+      "pinyin": "duǎnzàn tíngliú lǚtú Zhōng"
+    },
+    {
+      "id": 405304,
+      "translation": {
+        "en": {
+          "short": "expedition",
+          "long": "a trip that has been organized for a particular purpose such as a scientific or military one or for exploration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekspedisi",
+          "long": "Perjalanan yang telah diselenggarakan untuk tujuan tertentu seperti yang ilmiah atau militer atau untuk eksplorasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405304.jpeg",
+      "simplified": "有组织的旅行",
+      "traditional": "有組織的旅行",
+      "pinyin": "yǒu zǔzhī de lǚxíng"
+    },
+    {
+      "id": 405300,
+      "translation": {
+        "en": {
+          "short": "to globe-trot",
+          "long": "to travel extensively and visit various places around the world",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Globe-Trot",
+          "long": "bepergian secara luas dan mengunjungi berbagai tempat di seluruh dunia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405300.jpeg",
+      "simplified": "环游世界",
+      "traditional": "環遊世界",
+      "pinyin": "huányóu shìjiè"
+    },
+    {
+      "id": 405305,
+      "translation": {
+        "en": {
+          "short": "to disembark",
+          "long": "to take off the cargo or passengers of a plane, train, or ship once it has reached its destination",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk turun",
+          "long": "untuk melepas kargo atau penumpang pesawat, melatih, atau mengirim setelah mencapai tujuannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/405305.jpeg",
+      "simplified": "登陆",
+      "traditional": "登陸",
+      "pinyin": "dēnglù"
+    }
+  ]
+}

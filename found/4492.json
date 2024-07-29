@@ -1,0 +1,393 @@
+{
+  "id": 4492,
+  "title": {
+    "en": "Engineering",
+    "id": "Rekayasa"
+  },
+  "description": {
+    "en": "Here, you will learn some English words related to Engineering that are necessary for the Academic IELTS exam.",
+    "id": "Di sini, Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan teknik yang diperlukan untuk ujian IELTS akademik."
+  },
+  "cards": [
+    {
+      "id": 363697,
+      "translation": {
+        "en": {
+          "short": "robotics",
+          "long": "an area of technology that is concerned with the study or use of robots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "robotika",
+          "long": "bidang teknologi yang berkaitan dengan studi atau penggunaan robot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363697.jpeg",
+      "simplified": "机器人技术",
+      "traditional": "機器人技術",
+      "pinyin": "jīqì rén jìshù"
+    },
+    {
+      "id": 363698,
+      "translation": {
+        "en": {
+          "short": "robot",
+          "long": "a machine that can perform tasks automatically",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "robot",
+          "long": "mesin yang dapat melakukan tugas secara otomatis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363698.jpeg",
+      "simplified": "机器人",
+      "traditional": "機器人",
+      "pinyin": "jīqì rén"
+    },
+    {
+      "id": 363699,
+      "translation": {
+        "en": {
+          "short": "sensor",
+          "long": "a machine or device that detects any changes in the environment and sends the information to other electronic devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sensor",
+          "long": "mesin atau perangkat yang mendeteksi perubahan di lingkungan dan mengirimkan informasi ke perangkat elektronik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363699.jpeg",
+      "simplified": "传感器装置",
+      "traditional": "傳感器裝置",
+      "pinyin": "chuángǎn qì zhuāngzhì"
+    },
+    {
+      "id": 363700,
+      "translation": {
+        "en": {
+          "short": "electronics",
+          "long": "the branch of physics and electrical engineering that focuses on designing circuits that use transistors and microchips",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektronik",
+          "long": "Cabang Fisika dan Rekayasa Listrik yang berfokus pada merancang sirkuit yang menggunakan transistor dan microchip",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363700.jpeg",
+      "simplified": "电子产品",
+      "traditional": "電子產品",
+      "pinyin": "diànzǐ chǎnpǐn"
+    },
+    {
+      "id": 363701,
+      "translation": {
+        "en": {
+          "short": "high technology",
+          "long": "advanced and sophisticated use of cutting-edge scientific and engineering principles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknologi tinggi",
+          "long": "Penggunaan prinsip ilmiah dan teknik yang canggih dan canggih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363701.jpeg",
+      "simplified": "高科技",
+      "traditional": "高科技",
+      "pinyin": "gāokē jì"
+    },
+    {
+      "id": 363702,
+      "translation": {
+        "en": {
+          "short": "chemical engineering",
+          "long": "a branch of engineering that applies principles of chemistry, physics, mathematics, biology, and economics to efficiently use, produce, design, transport, and transform energy and materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknik Kimia",
+          "long": "cabang teknik yang menerapkan prinsip -prinsip kimia, fisika, matematika, biologi, dan ekonomi untuk menggunakan, memproduksi, merancang, mengangkut, dan mengubah energi dan bahan secara efisien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363702.jpeg",
+      "simplified": "化工",
+      "traditional": "化工",
+      "pinyin": "huàgōng"
+    },
+    {
+      "id": 363703,
+      "translation": {
+        "en": {
+          "short": "civil engineering",
+          "long": "a field of engineering that deals with the design, construction, and repair of buildings, bridges, roads, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknik Sipil",
+          "long": "Bidang teknik yang berkaitan dengan desain, konstruksi, dan perbaikan bangunan, jembatan, jalan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363703.jpeg",
+      "simplified": "土木工程",
+      "traditional": "土木工程",
+      "pinyin": "tǔmù gōng chéng"
+    },
+    {
+      "id": 363704,
+      "translation": {
+        "en": {
+          "short": "electrical engineering",
+          "long": "a branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teknik Listrik",
+          "long": "Cabang Teknik yang Berurusan dengan Studi dan Penerapan Listrik, Elektronik, dan Elektromagnetisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363704.jpeg",
+      "simplified": "电气工程",
+      "traditional": "電氣工程",
+      "pinyin": "diànqì gōng chéng"
+    },
+    {
+      "id": 363705,
+      "translation": {
+        "en": {
+          "short": "mechanical engineering",
+          "long": "a branch of engineering that involves the design, analysis, and manufacturing of mechanical systems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknik Mesin",
+          "long": "cabang teknik yang melibatkan desain, analisis, dan pembuatan sistem mekanik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363705.jpeg",
+      "simplified": "机械工业",
+      "traditional": "機械工業",
+      "pinyin": "jīxiè gōng Yè"
+    },
+    {
+      "id": 363706,
+      "translation": {
+        "en": {
+          "short": "adapter",
+          "long": "a device used for connecting two pieces of equipment that are not compatible with each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "adaptor",
+          "long": "perangkat yang digunakan untuk menghubungkan dua bagian peralatan yang tidak kompatibel satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363706.jpeg",
+      "simplified": "适配器",
+      "traditional": "適配器",
+      "pinyin": "shìpèi qì"
+    },
+    {
+      "id": 363707,
+      "translation": {
+        "en": {
+          "short": "prototype",
+          "long": "the primitive design and version of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prototipe",
+          "long": "desain primitif dan versi sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363707.jpeg",
+      "simplified": "原型",
+      "traditional": "原型",
+      "pinyin": "yuánxíng"
+    },
+    {
+      "id": 363709,
+      "translation": {
+        "en": {
+          "short": "photocell",
+          "long": "a device that detects or measures light, commonly used to automatically control lighting or to trigger other electronic devices based on changes in ambient light levels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Photocell",
+          "long": "Perangkat yang mendeteksi atau mengukur cahaya, biasanya digunakan untuk secara otomatis mengontrol pencahayaan atau untuk memicu perangkat elektronik lainnya berdasarkan perubahan level cahaya sekitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363709.jpeg",
+      "simplified": "光电管",
+      "traditional": "光電管",
+      "pinyin": "guāngdiàn guǎn"
+    },
+    {
+      "id": 363710,
+      "translation": {
+        "en": {
+          "short": "hydraulics",
+          "long": "a branch of science and engineering that deals with the mechanical properties of liquids, particularly their behavior in confined spaces and under pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hidrolika",
+          "long": "cabang sains dan teknik yang berhubungan dengan sifat mekanik cairan, terutama perilaku mereka di ruang terbatas dan di bawah tekanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363710.jpeg",
+      "simplified": "水力学",
+      "traditional": "水力學",
+      "pinyin": "shuǐlì xué"
+    },
+    {
+      "id": 363711,
+      "translation": {
+        "en": {
+          "short": "machinery",
+          "long": "machines, especially large ones, considered collectively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin",
+          "long": "mesin, terutama yang besar, dipertimbangkan secara kolektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363711.jpeg",
+      "simplified": "机械",
+      "traditional": "機械",
+      "pinyin": "jīxiè"
+    },
+    {
+      "id": 363712,
+      "translation": {
+        "en": {
+          "short": "nanotechnology",
+          "long": "the study of working with incredibly tiny materials and devices to create new technologies and applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nanoteknologi",
+          "long": "Studi bekerja dengan bahan dan perangkat yang sangat kecil untuk membuat teknologi dan aplikasi baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363712.jpeg",
+      "simplified": "纳米技术",
+      "traditional": "奈米科技",
+      "pinyin": "nàmǐ jì shù"
+    },
+    {
+      "id": 363713,
+      "translation": {
+        "en": {
+          "short": "automation",
+          "long": "the use of machines and computers in a production process that was formerly operated by people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "otomatisasi",
+          "long": "Penggunaan mesin dan komputer dalam proses produksi yang sebelumnya dioperasikan oleh orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363713.jpeg",
+      "simplified": "自动化",
+      "traditional": "自動化",
+      "pinyin": "zìdòng huà"
+    },
+    {
+      "id": 363714,
+      "translation": {
+        "en": {
+          "short": "mechanism",
+          "long": "a system of separate parts acting together in order to perform a task",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mekanisme",
+          "long": "Sistem bagian terpisah yang bertindak bersama untuk melakukan tugas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/363714.jpeg",
+      "simplified": "机制",
+      "traditional": "機制",
+      "pinyin": "jīzhì"
+    },
+    {
+      "id": 385030,
+      "translation": {
+        "en": {
+          "short": "pump",
+          "long": "a mechanical device or machine that is used to move fluids or gases from one place to another by creating a flow or pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pompa",
+          "long": "Perangkat atau mesin mekanis yang digunakan untuk memindahkan cairan atau gas dari satu tempat ke tempat lain dengan membuat aliran atau tekanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385030.jpeg",
+      "simplified": "抽水机",
+      "traditional": "抽水機",
+      "pinyin": "chōushuǐ jī"
+    },
+    {
+      "id": 388412,
+      "translation": {
+        "en": {
+          "short": "washer",
+          "long": "a flat rubber, plastic, or metal ring which is small and acts as a seal or is put between a nut and a bolt to tighten their connection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cuci",
+          "long": "karet datar, plastik, atau cincin logam yang kecil dan bertindak sebagai segel atau diletakkan di antara mur dan baut untuk mengencangkan koneksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388412.jpeg",
+      "simplified": "垫圈",
+      "traditional": "墊圈",
+      "pinyin": "diànjuàn"
+    },
+    {
+      "id": 388413,
+      "translation": {
+        "en": {
+          "short": "welding",
+          "long": "a process of joining two materials, usually metals or thermoplastics, by melting them with high heat and allowing them to cool and fuse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengelasan",
+          "long": "Proses bergabung dengan dua bahan, biasanya logam atau termoplastik, dengan melelehkannya dengan panas tinggi dan memungkinkannya dingin dan menyatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388413.jpeg",
+      "simplified": "焊接",
+      "traditional": "焊接",
+      "pinyin": "hànjiē"
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "id": 6018,
+  "title": {
+    "en": "Math",
+    "id": "Matematika"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to math, such as \"histogram\", \"theorem\", \"matrix\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan matematika, seperti \"histogram\", \"teorema\", \"matriks\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 401994,
+      "translation": {
+        "en": {
+          "short": "function",
+          "long": "(mathematics) a quantity whose value changes according to another quantity's varying value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fungsi",
+          "long": "(Matematika) Suatu kuantitas yang nilainya berubah sesuai dengan nilai kuantitas lain yang bervariasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401994.jpeg",
+      "simplified": "函数（数学）",
+      "traditional": "函數（數學）",
+      "pinyin": "hánshù shùxué"
+    },
+    {
+      "id": 401995,
+      "translation": {
+        "en": {
+          "short": "to model",
+          "long": "to make a representation of something, especially one based on mathematics",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memodelkan",
+          "long": "untuk membuat representasi sesuatu, terutama yang didasarkan pada matematika",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401995.jpeg",
+      "simplified": "模",
+      "traditional": "模",
+      "pinyin": "mó"
+    },
+    {
+      "id": 401996,
+      "translation": {
+        "en": {
+          "short": "constant",
+          "long": "a quantity or value that remains the same and does not change",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konstan",
+          "long": "kuantitas atau nilai yang tetap sama dan tidak berubah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401996.jpeg",
+      "simplified": "常数",
+      "traditional": "常數",
+      "pinyin": "chángshù"
+    },
+    {
+      "id": 401997,
+      "translation": {
+        "en": {
+          "short": "expression",
+          "long": "a combination of numbers, variables, operations, and grouping symbols that collectively represent a numerical value or relationship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekspresi",
+          "long": "Kombinasi angka, variabel, operasi, dan simbol pengelompokan yang secara kolektif mewakili nilai atau hubungan numerik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401997.jpeg",
+      "simplified": "表达",
+      "traditional": "表達",
+      "pinyin": "biǎodá"
+    },
+    {
+      "id": 401998,
+      "translation": {
+        "en": {
+          "short": "equivalent",
+          "long": "(of mathematical expressions or quantities) having the same value or function, even if they appear in different forms",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "setara",
+          "long": "(dari ekspresi atau kuantitas matematika) yang memiliki nilai atau fungsi yang sama, bahkan jika mereka muncul dalam bentuk yang berbeda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401998.jpeg",
+      "simplified": "相等的",
+      "traditional": "相等的",
+      "pinyin": "xiāngděng de"
+    },
+    {
+      "id": 401999,
+      "translation": {
+        "en": {
+          "short": "variable",
+          "long": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "variabel",
+          "long": "(Matematika) Kuantitas yang mampu mengasumsikan nilai yang berbeda dalam suatu perhitungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401999.jpeg",
+      "simplified": "变量（数学）",
+      "traditional": "變量（數學）",
+      "pinyin": "biànliàng shùxué"
+    },
+    {
+      "id": 402000,
+      "translation": {
+        "en": {
+          "short": "scale",
+          "long": "a system of numerical values used to quantify and compare levels, degrees, or values",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skala",
+          "long": "Sistem nilai numerik yang digunakan untuk mengukur dan membandingkan level, derajat, atau nilai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402000.jpeg",
+      "simplified": "规模",
+      "traditional": "規模",
+      "pinyin": "guīmó"
+    },
+    {
+      "id": 402001,
+      "translation": {
+        "en": {
+          "short": "figure",
+          "long": "a symbol that represents any number between 0 and 9",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angka",
+          "long": "simbol yang mewakili angka apa pun antara 0 dan 9",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402001.jpeg",
+      "simplified": "数字",
+      "traditional": "數字",
+      "pinyin": "shùzì"
+    },
+    {
+      "id": 402002,
+      "translation": {
+        "en": {
+          "short": "domain",
+          "long": "the set of all possible input values for which a given function is defined",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "domain",
+          "long": "set semua nilai input yang mungkin di mana fungsi yang diberikan didefinisikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402002.jpeg",
+      "simplified": "域",
+      "traditional": "域",
+      "pinyin": "yù"
+    },
+    {
+      "id": 402003,
+      "translation": {
+        "en": {
+          "short": "graph",
+          "long": "(mathematics) a set of points whose coordinates are in agreement with one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grafik",
+          "long": "(Matematika) Satu set poin yang koordinatnya setuju satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402003.jpeg",
+      "simplified": "图形",
+      "traditional": "圖形",
+      "pinyin": "túxíng"
+    },
+    {
+      "id": 402035,
+      "translation": {
+        "en": {
+          "short": "diagram",
+          "long": "a graphic design intended to explain something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diagram",
+          "long": "desain grafis yang dimaksudkan untuk menjelaskan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402035.jpeg",
+      "simplified": "图表",
+      "traditional": "圖表",
+      "pinyin": "túbiǎo"
+    },
+    {
+      "id": 402004,
+      "translation": {
+        "en": {
+          "short": "histogram",
+          "long": "a diagram consisting of bars with different heights that represent the amount of a variable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "histogram",
+          "long": "Diagram yang terdiri dari batang dengan ketinggian berbeda yang mewakili jumlah variabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402004.jpeg",
+      "simplified": "直方图",
+      "traditional": "直方圖",
+      "pinyin": "zhífāng tú"
+    },
+    {
+      "id": 402009,
+      "translation": {
+        "en": {
+          "short": "scatter plot",
+          "long": "a type of graph used in statistics and data analysis to display and compare two sets of numerical data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sebaran plot",
+          "long": "Jenis grafik yang digunakan dalam statistik dan analisis data untuk menampilkan dan membandingkan dua set data numerik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402009.jpeg",
+      "simplified": "散点图",
+      "traditional": "散點圖",
+      "pinyin": "sǎndiǎn tú"
+    },
+    {
+      "id": 402005,
+      "translation": {
+        "en": {
+          "short": "intercept",
+          "long": "the point where a line, curve, or surface crosses an axis on a graph",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencegat",
+          "long": "Titik di mana garis, kurva, atau permukaan melintasi sumbu pada grafik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402005.jpeg",
+      "simplified": "截距",
+      "traditional": "截距",
+      "pinyin": "jiéjù"
+    },
+    {
+      "id": 402006,
+      "translation": {
+        "en": {
+          "short": "plane",
+          "long": "a flat, two-dimensional surface that extends infinitely in all directions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesawat",
+          "long": "Permukaan datar, dua dimensi yang meluas ke semua arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402006.jpeg",
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēijī"
+    },
+    {
+      "id": 402007,
+      "translation": {
+        "en": {
+          "short": "coordinate",
+          "long": "any set of numbers that represent an exact position on a map or graph",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koordinat",
+          "long": "Setiap set angka yang mewakili posisi yang tepat pada peta atau grafik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402007.jpeg",
+      "simplified": "坐标",
+      "traditional": "坐標",
+      "pinyin": "zuòbiāo"
+    },
+    {
+      "id": 402010,
+      "translation": {
+        "en": {
+          "short": "line of best fit",
+          "long": "a straight line drawn through the center of a group of data points on a scatter plot representing the best approximation of the relationship between the variables being studied",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baris paling cocok",
+          "long": "Garis lurus yang ditarik melalui pusat sekelompok titik data pada plot pencar yang mewakili perkiraan terbaik dari hubungan antara variabel yang sedang dipelajari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402010.jpeg",
+      "simplified": "最佳拟合线",
+      "traditional": "最佳擬合線",
+      "pinyin": "zuìjiā nǐhé xiàn"
+    },
+    {
+      "id": 402008,
+      "translation": {
+        "en": {
+          "short": "to intersect",
+          "long": "to meet or cross another path, line, etc. at a particular point",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berpotongan",
+          "long": "untuk bertemu atau melintasi jalan, garis, dll. Pada titik tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402008.jpeg",
+      "simplified": "相交",
+      "traditional": "相交",
+      "pinyin": "xiāngjiāo"
+    },
+    {
+      "id": 402011,
+      "translation": {
+        "en": {
+          "short": "interval",
+          "long": "a set of real numbers that includes all the numbers between any two specified numbers within the set",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selang",
+          "long": "satu set bilangan real yang mencakup semua angka antara dua angka yang ditentukan dalam set",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402011.jpeg",
+      "simplified": "间隔",
+      "traditional": "間隔",
+      "pinyin": "jiàngé"
+    },
+    {
+      "id": 402012,
+      "translation": {
+        "en": {
+          "short": "linear function",
+          "long": "a mathematical function that creates a straight line when graphed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fungsi linear",
+          "long": "fungsi matematika yang menciptakan garis lurus saat digambarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402012.jpeg",
+      "simplified": "线性函数",
+      "traditional": "線性函數",
+      "pinyin": "xiànxìng hánshù"
+    },
+    {
+      "id": 402013,
+      "translation": {
+        "en": {
+          "short": "rational function",
+          "long": "a function that can be expressed as the ratio of two polynomials, where the denominator is not zero",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fungsi rasional",
+          "long": "fungsi yang dapat dinyatakan sebagai rasio dua polinomial, di mana penyebutnya tidak nol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402013.jpeg",
+      "simplified": "有理函数",
+      "traditional": "有理函數",
+      "pinyin": "yǒulǐ hánshù"
+    },
+    {
+      "id": 402014,
+      "translation": {
+        "en": {
+          "short": "integer constant",
+          "long": "a fixed numerical value that is a whole number, either positive, negative, or zero",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Integer Constant",
+          "long": "nilai numerik tetap yang merupakan bilangan bulat, baik positif, negatif, atau nol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402014.jpeg",
+      "simplified": "整数常量",
+      "traditional": "整數常量",
+      "pinyin": "zhěngshù chángliàng"
+    },
+    {
+      "id": 402015,
+      "translation": {
+        "en": {
+          "short": "nonlinear",
+          "long": "not following a straight or predictable line, sequence, or pattern",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nonlinier",
+          "long": "tidak mengikuti garis, urutan, atau pola yang lurus atau dapat diprediksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402015.jpeg",
+      "simplified": "非线性",
+      "traditional": "非線性",
+      "pinyin": "fēixiàn xìng"
+    },
+    {
+      "id": 402016,
+      "translation": {
+        "en": {
+          "short": "to correspond",
+          "long": "to have a direct relationship or alignment with something else, such as paired values or elements",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk sesuai",
+          "long": "untuk memiliki hubungan langsung atau keselarasan dengan sesuatu yang lain, seperti nilai atau elemen berpasangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402016.jpeg",
+      "simplified": "对应",
+      "traditional": "對應",
+      "pinyin": "duìyìng"
+    },
+    {
+      "id": 402017,
+      "translation": {
+        "en": {
+          "short": "term",
+          "long": "a single number, variable, or the product of numbers and variables in an expression or equation, separated by addition or subtraction operators",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketentuan",
+          "long": "Bilangan tunggal, variabel, atau produk angka dan variabel dalam ekspresi atau persamaan, dipisahkan oleh operator penambahan atau pengurangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402017.jpeg",
+      "simplified": "术语",
+      "traditional": "術語",
+      "pinyin": "shùyǔ"
+    },
+    {
+      "id": 402018,
+      "translation": {
+        "en": {
+          "short": "axis",
+          "long": "a reference line used in coordinate systems to provide a framework for locating points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumbu",
+          "long": "Jalur referensi yang digunakan dalam sistem koordinat untuk memberikan kerangka kerja untuk menemukan titik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402018.jpeg",
+      "simplified": "轴",
+      "traditional": "軸",
+      "pinyin": "zhóu"
+    },
+    {
+      "id": 402019,
+      "translation": {
+        "en": {
+          "short": "polynominal function",
+          "long": "a mathematical function that can be expressed as a sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fungsi polinomial",
+          "long": "Fungsi matematika yang dapat dinyatakan sebagai jumlah istilah, di mana setiap istilah adalah konstanta yang dikalikan dengan variabel yang diangkat ke kekuatan integer non-negatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402019.jpeg",
+      "simplified": "多项式函数",
+      "traditional": "多項式函數",
+      "pinyin": "duōxiàng shì hánshù"
+    },
+    {
+      "id": 402020,
+      "translation": {
+        "en": {
+          "short": "to satisfy",
+          "long": "to fulfill the conditions or requirements of a mathematical statement, equation, or inequality",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memuaskan",
+          "long": "untuk memenuhi persyaratan atau persyaratan pernyataan matematika, persamaan, atau ketidaksetaraan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402020.jpeg",
+      "simplified": "满足",
+      "traditional": "滿足",
+      "pinyin": "mǎnzú"
+    },
+    {
+      "id": 402021,
+      "translation": {
+        "en": {
+          "short": "coefficient",
+          "long": "a numerical or constant factor that multiplies a variable in an algebraic term",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koefisien",
+          "long": "faktor numerik atau konstan yang melipatgandakan variabel dalam istilah aljabar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402021.jpeg",
+      "simplified": "系数",
+      "traditional": "係數",
+      "pinyin": "xìshù"
+    },
+    {
+      "id": 402023,
+      "translation": {
+        "en": {
+          "short": "quadratic",
+          "long": "an equation where the highest power of the variable is squared",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuadrat",
+          "long": "persamaan di mana kekuatan tertinggi dari variabel adalah kuadrat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402023.jpeg",
+      "simplified": "二次的",
+      "traditional": "二次的",
+      "pinyin": "èrcì de"
+    },
+    {
+      "id": 402024,
+      "translation": {
+        "en": {
+          "short": "regression",
+          "long": "a statistical method used to model and analyze the relationship between a dependent variable and one or more independent variables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "regresi",
+          "long": "Metode statistik yang digunakan untuk memodelkan dan menganalisis hubungan antara variabel dependen dan satu atau lebih variabel independen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402024.jpeg",
+      "simplified": "复原",
+      "traditional": "復原",
+      "pinyin": "fùyuán"
+    },
+    {
+      "id": 402025,
+      "translation": {
+        "en": {
+          "short": "equidistant",
+          "long": "having equal distances from two or more points",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sama jauh",
+          "long": "memiliki jarak yang sama dari dua atau lebih titik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402025.jpeg",
+      "simplified": "等距离",
+      "traditional": "等距離",
+      "pinyin": "děngjù chī"
+    },
+    {
+      "id": 402026,
+      "translation": {
+        "en": {
+          "short": "collinear",
+          "long": "having points that lie on the same straight line",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Collinear",
+          "long": "memiliki poin yang terletak di garis lurus yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402026.jpeg",
+      "simplified": "共线",
+      "traditional": "共線",
+      "pinyin": "gòngxiàn"
+    },
+    {
+      "id": 402027,
+      "translation": {
+        "en": {
+          "short": "theorem",
+          "long": "a statement or proposition that has been proven to be true based on previously established axioms, definitions, and other theorems within a particular mathematical or logical system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dalil",
+          "long": "Pernyataan atau proposisi yang telah terbukti benar berdasarkan aksioma, definisi, dan teorema lain yang ditetapkan sebelumnya dalam sistem matematika atau logis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402027.jpeg",
+      "simplified": "定理",
+      "traditional": "定理",
+      "pinyin": "dìnglǐ"
+    },
+    {
+      "id": 402028,
+      "translation": {
+        "en": {
+          "short": "period",
+          "long": "a recurring interval or length associated with a mathematical function or pattern",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "periode",
+          "long": "interval atau panjang berulang yang terkait dengan fungsi atau pola matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402028.jpeg",
+      "simplified": "期",
+      "traditional": "期",
+      "pinyin": "qī"
+    },
+    {
+      "id": 402032,
+      "translation": {
+        "en": {
+          "short": "to evaluate",
+          "long": "to find the numerical value of an expression, equation, or function by substituting specific values for the variables",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengevaluasi",
+          "long": "Untuk menemukan nilai numerik dari suatu ekspresi, persamaan, atau fungsi dengan mengganti nilai spesifik untuk variabel",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402032.jpeg",
+      "simplified": "评估",
+      "traditional": "評估",
+      "pinyin": "pínggū"
+    },
+    {
+      "id": 402033,
+      "translation": {
+        "en": {
+          "short": "expanded notation",
+          "long": "a way of representing numbers as the sum of each digit multiplied by its place value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "notasi yang diperluas",
+          "long": "cara mewakili angka sebagai jumlah dari setiap digit dikalikan dengan nilai tempatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402033.jpeg",
+      "simplified": "扩展符号",
+      "traditional": "擴展符號",
+      "pinyin": "kuòzhǎn fúhào"
+    },
+    {
+      "id": 402034,
+      "translation": {
+        "en": {
+          "short": "scientific notation",
+          "long": "a method of writing numbers as the product of a coefficient and a power of 10",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "notasi ilmiah",
+          "long": "Metode menulis angka sebagai produk dari koefisien dan kekuatan 10",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402034.jpeg",
+      "simplified": "科学计数法",
+      "traditional": "科學計數法",
+      "pinyin": "kēxué jìshù fǎ"
+    },
+    {
+      "id": 402036,
+      "translation": {
+        "en": {
+          "short": "matrix",
+          "long": "a rectangular array of numbers or symbols organized in rows and columns, commonly used in linear algebra for representing equations, transformations, and vector operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matriks",
+          "long": "serangkaian angka atau simbol persegi panjang yang disusun dalam baris dan kolom, yang biasa digunakan dalam aljabar linier untuk mewakili persamaan, transformasi, dan operasi vektor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402036.jpeg",
+      "simplified": "矩阵",
+      "traditional": "矩陣",
+      "pinyin": "jǔzhèn"
+    },
+    {
+      "id": 402043,
+      "translation": {
+        "en": {
+          "short": "determinant",
+          "long": "a single number calculated from the elements of a square matrix that indicates important properties, like whether the matrix can be inverted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penentu",
+          "long": "Single bilangan yang dihitung dari elemen matriks kuadrat yang menunjukkan sifat penting, seperti apakah matriks dapat dibalik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402043.jpeg",
+      "simplified": "定子",
+      "traditional": "定子",
+      "pinyin": "dìngzǐ"
+    },
+    {
+      "id": 402037,
+      "translation": {
+        "en": {
+          "short": "factorial",
+          "long": "the product of all positive whole numbers from 1 to a given number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "faktorial",
+          "long": "produk dari semua bilangan bulat positif dari 1 ke angka tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402037.jpeg",
+      "simplified": "阶乘",
+      "traditional": "階乘",
+      "pinyin": "jiēchéng"
+    },
+    {
+      "id": 402038,
+      "translation": {
+        "en": {
+          "short": "vector",
+          "long": "an ordered set of numbers that describes both magnitude and direction, commonly used to represent quantities like displacement, velocity, or force in physics and engineering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vektor",
+          "long": "Sejumlah angka yang dipesan yang menggambarkan besarnya dan arah, biasanya digunakan untuk mewakili jumlah seperti perpindahan, kecepatan, atau gaya dalam fisika dan teknik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402038.jpeg",
+      "simplified": "向量",
+      "traditional": "向量",
+      "pinyin": "xiàngliàng"
+    },
+    {
+      "id": 402039,
+      "translation": {
+        "en": {
+          "short": "standard coordinate plane",
+          "long": "a two-dimensional system used to represent points in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pesawat Koordinat Standar",
+          "long": "Sistem dua dimensi yang digunakan untuk mewakili titik di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402039.jpeg",
+      "simplified": "标准坐标平面",
+      "traditional": "標準坐標平面",
+      "pinyin": "biāozhǔn zuòbiāo píngmiàn"
+    },
+    {
+      "id": 402040,
+      "translation": {
+        "en": {
+          "short": "trigonometric function",
+          "long": "a mathematical function that relates the angles of a triangle to the lengths of its sides, commonly including sine, cosine, and tangent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fungsi trigonometri",
+          "long": "Fungsi matematika yang menghubungkan sudut segitiga dengan panjang sisi -sisinya, biasanya termasuk sinus, cosinus, dan garis singgung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402040.jpeg",
+      "simplified": "三角函数",
+      "traditional": "三角函數",
+      "pinyin": "sānjiǎo hán shù"
+    },
+    {
+      "id": 402041,
+      "translation": {
+        "en": {
+          "short": "augmented matrix",
+          "long": "a way of representing a system of linear equations in matrix form",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matriks augmented",
+          "long": "cara mewakili sistem persamaan linier dalam bentuk matriks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402041.jpeg",
+      "simplified": "增广矩阵",
+      "traditional": "增廣矩陣",
+      "pinyin": "zēngguǎng jǔzhèn"
+    },
+    {
+      "id": 402042,
+      "translation": {
+        "en": {
+          "short": "unit vector",
+          "long": "a vector that has a magnitude of 1 and represents direction without regard to scale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vektor unit",
+          "long": "vektor yang memiliki besarnya 1 dan mewakili arah tanpa memperhatikan skala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402042.jpeg",
+      "simplified": "单位向量",
+      "traditional": "單位向量",
+      "pinyin": "dānwèi xiàng liàng"
+    }
+  ]
+}

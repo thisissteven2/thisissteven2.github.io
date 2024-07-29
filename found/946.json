@@ -1,0 +1,925 @@
+{
+  "id": 946,
+  "title": {
+    "en": "Law and Order",
+    "id": "Hukum dan ketertiban"
+  },
+  "description": {
+    "en": "Here you will learn some English words about law and order, such as \"sue\", \"detain\", \"advocate\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang hukum dan ketertiban, seperti \"Sue\", \"Duduk\", \"Advokat\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 245321,
+      "translation": {
+        "en": {
+          "short": "to sue",
+          "long": "to bring a charge against an individual or organization in a law court",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menuntut",
+          "long": "untuk mengajukan tuntutan terhadap individu atau organisasi di pengadilan hukum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245321.jpeg",
+      "simplified": "起诉某人",
+      "traditional": "起訴某人",
+      "pinyin": "qǐsù mǒurén"
+    },
+    {
+      "id": 241745,
+      "translation": {
+        "en": {
+          "short": "to acquit",
+          "long": "to officially decide and declare in a law court that someone is not guilty of a crime",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membebaskan",
+          "long": "untuk secara resmi memutuskan dan menyatakan di pengadilan hukum bahwa seseorang tidak bersalah atas kejahatan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241745.jpeg",
+      "simplified": "无罪释放某人",
+      "traditional": "無罪釋放某人",
+      "pinyin": "wúzuì shìfàng mǒurén"
+    },
+    {
+      "id": 241747,
+      "translation": {
+        "en": {
+          "short": "to bail",
+          "long": "to release someone until their trial after they gave an amount of money to the court",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk jaminan",
+          "long": "untuk membebaskan seseorang sampai persidangan mereka setelah mereka memberikan sejumlah uang ke pengadilan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241747.jpeg",
+      "simplified": "保释某人",
+      "traditional": "保釋某人",
+      "pinyin": "bǎoshì mǒurén"
+    },
+    {
+      "id": 244769,
+      "translation": {
+        "en": {
+          "short": "to condemn",
+          "long": "to give a severe punishment to someone who has committed a major crime",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengutuk",
+          "long": "untuk memberikan hukuman berat kepada seseorang yang telah melakukan kejahatan besar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244769.jpeg",
+      "simplified": "谴责",
+      "traditional": "譴責",
+      "pinyin": "qiǎnzé"
+    },
+    {
+      "id": 241750,
+      "translation": {
+        "en": {
+          "short": "to convict",
+          "long": "to announce officially that someone is guilty of a crime in a court of law",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghukum",
+          "long": "mengumumkan secara resmi bahwa seseorang bersalah atas kejahatan di pengadilan hukum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241750.jpeg",
+      "simplified": "给某人定罪",
+      "traditional": "給某人定罪",
+      "pinyin": "gěi mǒurén dìngzuì"
+    },
+    {
+      "id": 241756,
+      "translation": {
+        "en": {
+          "short": "to detain",
+          "long": "to officially hold someone in a place, such as a jail, and not let them go",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menahan",
+          "long": "untuk secara resmi menahan seseorang di suatu tempat, seperti penjara, dan tidak membiarkan mereka pergi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241756.jpeg",
+      "simplified": "拘留某人",
+      "traditional": "拘留某人",
+      "pinyin": "jūliú mǒurén"
+    },
+    {
+      "id": 241757,
+      "translation": {
+        "en": {
+          "short": "to enforce",
+          "long": "to ensure that a law or rule is followed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memaksa",
+          "long": "untuk memastikan bahwa hukum atau aturan diikuti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241757.jpeg",
+      "simplified": "执行规则",
+      "traditional": "執行規則",
+      "pinyin": "zhíxíng guīzé"
+    },
+    {
+      "id": 241769,
+      "translation": {
+        "en": {
+          "short": "to legislate",
+          "long": "to create or bring laws into effect through a formal process",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membuat undang -undang",
+          "long": "untuk membuat atau memberlakukan undang -undang melalui proses formal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241769.jpeg",
+      "simplified": "立法",
+      "traditional": "立法",
+      "pinyin": "lìfǎ"
+    },
+    {
+      "id": 241775,
+      "translation": {
+        "en": {
+          "short": "to prosecute",
+          "long": "to try to charge someone officially with a crime in a court as the lawyer of the accuser",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menuntut",
+          "long": "untuk mencoba menuntut seseorang secara resmi dengan kejahatan di pengadilan sebagai pengacara penuduh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241775.jpeg",
+      "simplified": "采取法律行动",
+      "traditional": "採取法律行動",
+      "pinyin": "cǎiqǔ fǎlǜ xíngdòng"
+    },
+    {
+      "id": 241777,
+      "translation": {
+        "en": {
+          "short": "to testify",
+          "long": "to make a statement as a witness in court saying something is true",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersaksi",
+          "long": "untuk membuat pernyataan sebagai saksi di pengadilan yang mengatakan sesuatu itu benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241777.jpeg",
+      "simplified": "作证",
+      "traditional": "作證",
+      "pinyin": "zuòzhèng"
+    },
+    {
+      "id": 241746,
+      "translation": {
+        "en": {
+          "short": "advocate",
+          "long": "an authorized practitioner of law who defends a person's case in a courtroom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menganjurkan",
+          "long": "seorang praktisi hukum resmi yang membela kasus seseorang di ruang sidang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241746.jpeg",
+      "simplified": "中保",
+      "traditional": "中保",
+      "pinyin": "zhōngbǎo"
+    },
+    {
+      "id": 241758,
+      "translation": {
+        "en": {
+          "short": "Federal Bureau of Investigation",
+          "long": "a law enforcement agency controlled by the central government that deals with crimes that involve more than one state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Biro Investigasi Federal",
+          "long": "lembaga penegak hukum yang dikendalikan oleh pemerintah pusat yang berurusan dengan kejahatan yang melibatkan lebih dari satu negara bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241758.jpeg",
+      "simplified": "联邦调查局",
+      "traditional": "聯邦調查局",
+      "pinyin": "Liánbāng Diào chá jú"
+    },
+    {
+      "id": 241751,
+      "translation": {
+        "en": {
+          "short": "cop",
+          "long": "someone who works as one of the members of a police force",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polisi",
+          "long": "seseorang yang bekerja sebagai salah satu anggota kepolisian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241751.jpeg",
+      "simplified": "警察",
+      "traditional": "警察",
+      "pinyin": "jǐngchá"
+    },
+    {
+      "id": 343260,
+      "translation": {
+        "en": {
+          "short": "plain-clothes",
+          "long": "(of a police officer) dressed in civilian clothes while on duty",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Baju biasa",
+          "long": "(dari seorang polisi) mengenakan pakaian sipil saat bertugas",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343260.jpeg",
+      "simplified": "不穿组织制服的人",
+      "traditional": "不穿組織製服的人",
+      "pinyin": "bù chuān zǔzhī zhìfú de rén"
+    },
+    {
+      "id": 241760,
+      "translation": {
+        "en": {
+          "short": "handcuff",
+          "long": "a pair of rings made of metal with a chain attached to them, used for putting on the wrists of prisoners",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memborgol",
+          "long": "Sepasang cincin yang terbuat dari logam dengan rantai yang melekat padanya, digunakan untuk meletakkan pergelangan tangan para tahanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241760.jpeg",
+      "simplified": "手铐",
+      "traditional": "手銬",
+      "pinyin": "shǒukào"
+    },
+    {
+      "id": 241773,
+      "translation": {
+        "en": {
+          "short": "patrol",
+          "long": "the act of going around a place at regular intervals to prevent a crime or wrongdoing from being committed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patroli",
+          "long": "tindakan berkeliling suatu tempat secara berkala untuk mencegah kejahatan atau kesalahan dilakukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241773.jpeg",
+      "simplified": "巡逻",
+      "traditional": "巡邏",
+      "pinyin": "xúnluó"
+    },
+    {
+      "id": 241754,
+      "translation": {
+        "en": {
+          "short": "defendant",
+          "long": "a person in a law court who is sued by someone else or is accused of committing a crime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terdakwa",
+          "long": "seseorang di pengadilan hukum yang digugat oleh orang lain atau dituduh melakukan kejahatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241754.jpeg",
+      "simplified": "被告",
+      "traditional": "被告",
+      "pinyin": "bèigào"
+    },
+    {
+      "id": 241761,
+      "translation": {
+        "en": {
+          "short": "hangman",
+          "long": "a person whose job is hanging criminals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "algojo",
+          "long": "seseorang yang pekerjaannya menggantung penjahat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241761.jpeg",
+      "simplified": "刽子手",
+      "traditional": "劊子手",
+      "pinyin": "guìzi shǒu"
+    },
+    {
+      "id": 241766,
+      "translation": {
+        "en": {
+          "short": "juvenile",
+          "long": "a young person who has not reached adulthood yet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "remaja",
+          "long": "seorang anak muda yang belum mencapai usia dewasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241766.jpeg",
+      "simplified": "少年",
+      "traditional": "少年",
+      "pinyin": "shàonián"
+    },
+    {
+      "id": 241771,
+      "translation": {
+        "en": {
+          "short": "magistrate",
+          "long": "a person who acts as a judge in a law court and deals with minor offenses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hakim",
+          "long": "seseorang yang bertindak sebagai hakim di pengadilan hukum dan berurusan dengan pelanggaran ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241771.jpeg",
+      "simplified": "法官",
+      "traditional": "法官",
+      "pinyin": "fǎguān"
+    },
+    {
+      "id": 241772,
+      "translation": {
+        "en": {
+          "short": "outlaw",
+          "long": "a person who operates outside the boundaries of established rules and may engage in illegal activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjahat",
+          "long": "seseorang yang beroperasi di luar batas aturan yang ditetapkan dan dapat terlibat dalam kegiatan ilegal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241772.jpeg",
+      "simplified": "取缔",
+      "traditional": "取締",
+      "pinyin": "qǔdì"
+    },
+    {
+      "id": 241749,
+      "translation": {
+        "en": {
+          "short": "bond",
+          "long": "(law) an amount of money paid to temporarily release a person from prison until their trial",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjalin kedekatan",
+          "long": "(hukum) Sejumlah uang yang dibayarkan untuk sementara melepaskan seseorang dari penjara sampai persidangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241749.jpeg",
+      "simplified": "法律保证",
+      "traditional": "法律保證",
+      "pinyin": "fǎlǜ bǎozhèng"
+    },
+    {
+      "id": 241752,
+      "translation": {
+        "en": {
+          "short": "court order",
+          "long": "an order given by a judge or court regarding a case",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perintah pengadilan",
+          "long": "Perintah yang diberikan oleh hakim atau pengadilan mengenai suatu kasus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241752.jpeg",
+      "simplified": "法庭命令",
+      "traditional": "法庭命令",
+      "pinyin": "fǎtíng mìnglìng"
+    },
+    {
+      "id": 241767,
+      "translation": {
+        "en": {
+          "short": "lawsuit",
+          "long": "a complaint or claim that someone brings to a law court for settlement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gugatan",
+          "long": "keluhan atau klaim bahwa seseorang membawa ke pengadilan hukum untuk penyelesaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241767.jpeg",
+      "simplified": "诉讼",
+      "traditional": "訴訟",
+      "pinyin": "sùsòng"
+    },
+    {
+      "id": 241762,
+      "translation": {
+        "en": {
+          "short": "hearing",
+          "long": "(law) an official gathering in a court of law, especially without the presence of the jury, to find out information about a case and listen to evidence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendengaran",
+          "long": "(hukum) Sebuah pertemuan resmi di pengadilan, terutama tanpa kehadiran juri, untuk mengetahui informasi tentang suatu kasus dan mendengarkan bukti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241762.jpeg",
+      "simplified": "法院审理",
+      "traditional": "法院審理",
+      "pinyin": "fǎyuàn shěnlǐ"
+    },
+    {
+      "id": 241753,
+      "translation": {
+        "en": {
+          "short": "custody",
+          "long": "a state in which a person is kept in jail or prison, particularly while waiting to be tried",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hak asuh",
+          "long": "keadaan di mana seseorang ditahan di penjara atau penjara, terutama sambil menunggu untuk diadili",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241753.jpeg",
+      "simplified": "被拘留",
+      "traditional": "被拘留",
+      "pinyin": "bèi jūliú"
+    },
+    {
+      "id": 241755,
+      "translation": {
+        "en": {
+          "short": "declaration",
+          "long": "(law) an official written document that people sign to agree on something or accept something as true",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernyataan",
+          "long": "(hukum) Dokumen tertulis resmi yang ditandatangani orang untuk menyetujui sesuatu atau menerima sesuatu yang benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241755.jpeg",
+      "simplified": "法律声明",
+      "traditional": "法律聲明",
+      "pinyin": "fǎlǜ shēngmíng"
+    },
+    {
+      "id": 241759,
+      "translation": {
+        "en": {
+          "short": "guilt",
+          "long": "the state of having committed an offense or crime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan",
+          "long": "keadaan melakukan pelanggaran atau kejahatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241759.jpeg",
+      "simplified": "有罪",
+      "traditional": "有罪",
+      "pinyin": "yǒuzuì"
+    },
+    {
+      "id": 241763,
+      "translation": {
+        "en": {
+          "short": "innocence",
+          "long": "the state of not being guilty of a crime or offense",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tidak bersalah",
+          "long": "keadaan tidak bersalah atas kejahatan atau pelanggaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241763.jpeg",
+      "simplified": "无辜",
+      "traditional": "無辜",
+      "pinyin": "wúgū"
+    },
+    {
+      "id": 241768,
+      "translation": {
+        "en": {
+          "short": "legalization",
+          "long": "the action or process of making something legal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "legalisasi",
+          "long": "tindakan atau proses membuat sesuatu yang legal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241768.jpeg",
+      "simplified": "合法化（过程）",
+      "traditional": "合法化（過程）",
+      "pinyin": "héfǎ huà guòchéng"
+    },
+    {
+      "id": 265420,
+      "translation": {
+        "en": {
+          "short": "pro bono",
+          "long": "referring to a legal work that is done free of charge, often by a lawyer",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pro bono",
+          "long": "mengacu pada pekerjaan hukum yang dilakukan secara gratis, seringkali oleh pengacara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265420.jpeg",
+      "simplified": "Pro Bono",
+      "traditional": "Pro Bono",
+      "pinyin": "P bī"
+    },
+    {
+      "id": 241774,
+      "translation": {
+        "en": {
+          "short": "plea",
+          "long": "(law) a formal statement made by someone confirming or denying their accusation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permohonan",
+          "long": "(hukum) Pernyataan formal yang dibuat oleh seseorang yang mengkonfirmasi atau menolak tuduhan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241774.jpeg",
+      "simplified": "法律抗辩",
+      "traditional": "法律抗辯",
+      "pinyin": "fǎlǜ kàngbiàn"
+    },
+    {
+      "id": 241776,
+      "translation": {
+        "en": {
+          "short": "testimony",
+          "long": "a formal statement saying something is true, particularly made by a witness in court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesaksian",
+          "long": "Pernyataan formal yang mengatakan sesuatu itu benar, terutama dibuat oleh saksi di pengadilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241776.jpeg",
+      "simplified": "见证",
+      "traditional": "見證",
+      "pinyin": "jiànzhèng"
+    },
+    {
+      "id": 241779,
+      "translation": {
+        "en": {
+          "short": "verdict",
+          "long": "an official decision made by the jury in a court after the legal proceedings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dakwaan",
+          "long": "keputusan resmi yang dibuat oleh juri di pengadilan setelah proses hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241779.jpeg",
+      "simplified": "最终判决",
+      "traditional": "最終判決",
+      "pinyin": "zuìzhōng pànjué"
+    },
+    {
+      "id": 241780,
+      "translation": {
+        "en": {
+          "short": "warrant",
+          "long": "an order issued by a judge that authorizes the police to take specific actions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjamin",
+          "long": "Perintah yang dikeluarkan oleh hakim yang memberi wewenang kepada polisi untuk mengambil tindakan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241780.jpeg",
+      "simplified": "法律依据",
+      "traditional": "法律依據",
+      "pinyin": "fǎlǜ yījù"
+    },
+    {
+      "id": 245134,
+      "translation": {
+        "en": {
+          "short": "applicable",
+          "long": "relevant to someone or something in a particular context or situation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berlaku",
+          "long": "relevan bagi seseorang atau sesuatu dalam konteks atau situasi tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245134.jpeg",
+      "simplified": "无效（合法）",
+      "traditional": "無效（合法）",
+      "pinyin": "wúxiào héfǎ"
+    },
+    {
+      "id": 241764,
+      "translation": {
+        "en": {
+          "short": "invalid",
+          "long": "officially or legally unacceptable",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak sah",
+          "long": "secara resmi atau tidak dapat diterima secara hukum",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241764.jpeg",
+      "simplified": "无效的",
+      "traditional": "無效的",
+      "pinyin": "wúxiào de"
+    },
+    {
+      "id": 241765,
+      "translation": {
+        "en": {
+          "short": "judicial",
+          "long": "belonging or appropriate for a court, a judge, or the administration of justice",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "peradilan",
+          "long": "milik atau sesuai untuk pengadilan, hakim, atau administrasi peradilan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241765.jpeg",
+      "simplified": "司法",
+      "traditional": "司法",
+      "pinyin": "sīfǎ"
+    },
+    {
+      "id": 241770,
+      "translation": {
+        "en": {
+          "short": "liable",
+          "long": "legally held accountable for the cost of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bertanggung jawab",
+          "long": "secara hukum dimintai pertanggungjawaban atas biaya sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241770.jpeg",
+      "simplified": "承担（法律上）责任",
+      "traditional": "承擔（法律上）責任",
+      "pinyin": "chéngdān fǎlǜ shǎng zérèn"
+    },
+    {
+      "id": 245234,
+      "translation": {
+        "en": {
+          "short": "regulatory",
+          "long": "creating and enforcing rules or regulations to control or govern a particular activity or industry",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "peraturan",
+          "long": "Membuat dan menegakkan aturan atau peraturan untuk mengendalikan atau mengatur kegiatan atau industri tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245234.jpeg",
+      "simplified": "监管",
+      "traditional": "監管",
+      "pinyin": "jiānguǎn"
+    },
+    {
+      "id": 241778,
+      "translation": {
+        "en": {
+          "short": "undercover",
+          "long": "working or conducted secretly under the supervision of a law enforcement agency to gather information or catch criminals",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rahasia",
+          "long": "bekerja atau dilakukan secara diam -diam di bawah pengawasan agen penegak hukum untuk mengumpulkan informasi atau menangkap penjahat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241778.jpeg",
+      "simplified": "秘密的",
+      "traditional": "秘密的",
+      "pinyin": "mìmì de"
+    },
+    {
+      "id": 245200,
+      "translation": {
+        "en": {
+          "short": "lethal",
+          "long": "capable of causing death",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "letal",
+          "long": "mampu menyebabkan kematian",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245200.jpeg",
+      "simplified": "致命",
+      "traditional": "致命",
+      "pinyin": "zhìmìng"
+    },
+    {
+      "id": 262632,
+      "translation": {
+        "en": {
+          "short": "to declare",
+          "long": "to officially tell people something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendeklarasikan",
+          "long": "untuk secara resmi memberi tahu orang sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262632.jpeg",
+      "simplified": "正式宣布某事",
+      "traditional": "正式宣布某事",
+      "pinyin": "zhèngshì xuānbù mǒushì"
+    },
+    {
+      "id": 264027,
+      "translation": {
+        "en": {
+          "short": "hearsay",
+          "long": "(law) restatement of other people's words by a witness in a law court, which is not counted as evidence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabar angin",
+          "long": "(Hukum) Kembalasi ulang kata -kata orang lain oleh saksi di pengadilan hukum, yang tidak dihitung sebagai bukti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264027.jpeg",
+      "simplified": "传闻",
+      "traditional": "傳聞",
+      "pinyin": "chuánwén"
+    },
+    {
+      "id": 264208,
+      "translation": {
+        "en": {
+          "short": "public prosecutor",
+          "long": "a lawyer employed by a government, whose job is to prove that a person is guilty of a crime in a law court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jaksa Penuntut Umum",
+          "long": "Seorang pengacara yang dipekerjakan oleh pemerintah, yang tugasnya adalah membuktikan bahwa seseorang bersalah atas kejahatan di pengadilan hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264208.jpeg",
+      "simplified": "检察官",
+      "traditional": "檢察官",
+      "pinyin": "jiǎnchá guān"
+    },
+    {
+      "id": 315154,
+      "translation": {
+        "en": {
+          "short": "to rat out",
+          "long": "to inform an authority about the wrongdoings or crimes of others",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keluar",
+          "long": "untuk menginformasikan otoritas tentang kesalahan atau kejahatan orang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315154.jpeg",
+      "simplified": "向当局举报某人",
+      "traditional": "向當局舉報某人",
+      "pinyin": "Xiàng dāngjú jǔbào mǒurén"
+    },
+    {
+      "id": 324607,
+      "translation": {
+        "en": {
+          "short": "to pinch",
+          "long": "to take someone into custody",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mencubit",
+          "long": "untuk menahan seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324607.jpeg",
+      "simplified": "逮捕某人",
+      "traditional": "逮捕某人",
+      "pinyin": "dàibǔ mǒurén"
+    },
+    {
+      "id": 350905,
+      "translation": {
+        "en": {
+          "short": "class action",
+          "long": "a lawsuit concerning a problem that is shared by a group of people, which is brought to a law court on behalf of all",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aksi kelas",
+          "long": "gugatan tentang masalah yang dibagikan oleh sekelompok orang, yang dibawa ke pengadilan hukum atas nama semua",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350905.jpeg",
+      "simplified": "集体诉讼",
+      "traditional": "集體訴訟",
+      "pinyin": "jítǐ sù sòng"
+    }
+  ]
+}

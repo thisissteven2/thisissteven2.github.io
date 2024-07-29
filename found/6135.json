@@ -1,0 +1,659 @@
+{
+  "id": 6135,
+  "title": {
+    "en": "Vehicle Maintenance and Restoration",
+    "id": "Pemeliharaan dan Pemulihan Kendaraan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to vehicle maintenance and restoration such as \"breakdown\", \"paintwork\", and \"car wash.\"",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan pemeliharaan dan pemulihan kendaraan seperti \"kerusakan\", \"cat\", dan \"cuci mobil.\""
+  },
+  "cards": [
+    {
+      "id": 407393,
+      "translation": {
+        "en": {
+          "short": "breakdown",
+          "long": "a situation in which something fails to work properly, especially because of a mechanical failure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perincian",
+          "long": "Situasi di mana sesuatu gagal bekerja dengan baik, terutama karena kegagalan mekanis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407393.jpeg",
+      "simplified": "击穿",
+      "traditional": "擊穿",
+      "pinyin": "jī chuān"
+    },
+    {
+      "id": 407394,
+      "translation": {
+        "en": {
+          "short": "to break down",
+          "long": "(of a machine or vehicle) to stop working as a result of a malfunction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memecah",
+          "long": "(mesin atau kendaraan) untuk berhenti bekerja sebagai akibat dari kerusakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407394.jpeg",
+      "simplified": "遭到破坏",
+      "traditional": "遭到破壞",
+      "pinyin": "zāodào pòhuài"
+    },
+    {
+      "id": 407395,
+      "translation": {
+        "en": {
+          "short": "backfire",
+          "long": "a loud, sudden explosion of unburned fuel in the engine or exhaust system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bumerang",
+          "long": "Ledakan yang keras dan tiba -tiba dari bahan bakar yang tidak terbakar di mesin atau sistem pembuangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407395.jpeg",
+      "simplified": "放火",
+      "traditional": "放火",
+      "pinyin": "fànghuǒ"
+    },
+    {
+      "id": 407413,
+      "translation": {
+        "en": {
+          "short": "to misfire",
+          "long": "(of a vehicle or engine) to fail to ignite properly or skip a beat during operation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk gagal",
+          "long": "(kendaraan atau mesin) gagal menyala dengan benar atau melewatkan ketukan selama operasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407413.jpeg",
+      "simplified": "失火",
+      "traditional": "失火",
+      "pinyin": "shīhuǒ"
+    },
+    {
+      "id": 407398,
+      "translation": {
+        "en": {
+          "short": "to stall",
+          "long": "(of a vehicle or engine) to stop suddenly and unexpectedly, especially because of a lack of fuel or mechanical issues",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk macet",
+          "long": "(kendaraan atau mesin) untuk berhenti tiba -tiba dan tidak terduga, terutama karena kurangnya bahan bakar atau masalah mekanis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407398.jpeg",
+      "simplified": "停车",
+      "traditional": "停車",
+      "pinyin": "tíngchē"
+    },
+    {
+      "id": 407399,
+      "translation": {
+        "en": {
+          "short": "blowout",
+          "long": "a sudden and serious failure of a part or device, leading to immediate malfunction or stoppage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meledak",
+          "long": "Kegagalan bagian atau perangkat yang tiba -tiba dan serius, yang menyebabkan kerusakan atau penghentian langsung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407399.jpeg",
+      "simplified": "喷出",
+      "traditional": "噴出",
+      "pinyin": "pēnchū"
+    },
+    {
+      "id": 407400,
+      "translation": {
+        "en": {
+          "short": "puncture",
+          "long": "a small hole or tear in a tire caused by a sharp object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tusukan",
+          "long": "lubang kecil atau robekan dalam ban yang disebabkan oleh benda yang tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407400.jpeg",
+      "simplified": "穿刺",
+      "traditional": "穿刺",
+      "pinyin": "chuāncì"
+    },
+    {
+      "id": 407406,
+      "translation": {
+        "en": {
+          "short": "spare tire",
+          "long": "an extra wheel typically stored in the trunk or underneath the vehicle, designed to replace a flat or damaged tire temporarily until the main tire can be repaired or replaced",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ban serap",
+          "long": "Roda tambahan yang biasanya disimpan di bagasi atau di bawah kendaraan, dirancang untuk menggantikan ban kempes atau rusak sementara sampai ban utama dapat diperbaiki atau diganti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407406.jpeg",
+      "simplified": "备胎",
+      "traditional": "備胎",
+      "pinyin": "bèitāi"
+    },
+    {
+      "id": 407407,
+      "translation": {
+        "en": {
+          "short": "grease monkey",
+          "long": "a mechanic or someone who works on cars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gemuk monyet",
+          "long": "seorang mekanik atau seseorang yang bekerja di mobil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407407.jpeg",
+      "simplified": "油猴",
+      "traditional": "油猴",
+      "pinyin": "yóu hóu"
+    },
+    {
+      "id": 407414,
+      "translation": {
+        "en": {
+          "short": "to repair",
+          "long": "to fix something that is damaged, broken, or not working properly",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperbaiki",
+          "long": "untuk memperbaiki sesuatu yang rusak, rusak, atau tidak berfungsi dengan baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407414.jpeg",
+      "simplified": "修复",
+      "traditional": "修復",
+      "pinyin": "xiūfù"
+    },
+    {
+      "id": 408217,
+      "translation": {
+        "en": {
+          "short": "service",
+          "long": "the routine act of inspection and maintenance of a machine or vehicle in order to keep it working",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melayani",
+          "long": "tindakan inspeksi dan pemeliharaan mesin atau kendaraan yang rutin agar tetap berfungsi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408217.jpeg",
+      "simplified": "服务",
+      "traditional": "服務",
+      "pinyin": "fúwù"
+    },
+    {
+      "id": 407435,
+      "translation": {
+        "en": {
+          "short": "runaway truck ramp",
+          "long": "a special road feature designed to stop trucks that have lost control due to brake failure or other reasons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalan truk yang melarikan diri",
+          "long": "Fitur jalan khusus yang dirancang untuk menghentikan truk yang kehilangan kendali karena kegagalan rem atau alasan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407435.jpeg",
+      "simplified": "失控的卡车坡道",
+      "traditional": "失控的卡車坡道",
+      "pinyin": "shīkòng de kǎchē pōdào"
+    },
+    {
+      "id": 407402,
+      "translation": {
+        "en": {
+          "short": "hot rod",
+          "long": "a car that has been modified for high speed and performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hot Rod",
+          "long": "mobil yang telah dimodifikasi untuk kecepatan dan kinerja tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407402.jpeg",
+      "simplified": "热棒",
+      "traditional": "熱棒",
+      "pinyin": "rè bàng"
+    },
+    {
+      "id": 407404,
+      "translation": {
+        "en": {
+          "short": "jack",
+          "long": "a mechanical device for lifting heavy objects or vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mendongkrak",
+          "long": "Perangkat mekanis untuk mengangkat benda atau kendaraan berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407404.jpeg",
+      "simplified": "插口",
+      "traditional": "插口",
+      "pinyin": "chākǒu"
+    },
+    {
+      "id": 407408,
+      "translation": {
+        "en": {
+          "short": "to jack up",
+          "long": "to raise a vehicle off the ground using a jack",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mendongkrak",
+          "long": "untuk mengangkat kendaraan dari tanah menggunakan jack",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407408.jpeg",
+      "simplified": "抬高",
+      "traditional": "抬高",
+      "pinyin": "táigāo"
+    },
+    {
+      "id": 407405,
+      "translation": {
+        "en": {
+          "short": "lug wrench",
+          "long": "a tool for loosening or tightening the nuts that hold a wheel in place on a car",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lug wrench",
+          "long": "Alat untuk melonggarkan atau mengencangkan mur yang menahan roda di tempatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407405.jpeg",
+      "simplified": "单向扳手",
+      "traditional": "單向扳手",
+      "pinyin": "dānxiàng bānshǒu"
+    },
+    {
+      "id": 407411,
+      "translation": {
+        "en": {
+          "short": "paintwork",
+          "long": "the outer layer of paint applied to a surface, such as a vehicle or a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paintwork",
+          "long": "Lapisan luar cat diaplikasikan pada permukaan, seperti kendaraan atau bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407411.jpeg",
+      "simplified": "油漆",
+      "traditional": "油漆",
+      "pinyin": "yóuqī"
+    },
+    {
+      "id": 407421,
+      "translation": {
+        "en": {
+          "short": "bodywork",
+          "long": "the process of constructing, repairing, or restoring the exterior panels and structural components of a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerja tubuh",
+          "long": "Proses membangun, memperbaiki, atau memulihkan panel eksterior dan komponen struktural kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407421.jpeg",
+      "simplified": "车身",
+      "traditional": "車身",
+      "pinyin": "chēshēn"
+    },
+    {
+      "id": 407416,
+      "translation": {
+        "en": {
+          "short": "to respray",
+          "long": "to apply a new layer of paint to something that already has paint on it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk respray",
+          "long": "untuk menerapkan lapisan cat baru pada sesuatu yang sudah memiliki cat di atasnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407416.jpeg",
+      "simplified": "重新喷涂",
+      "traditional": "重新噴塗",
+      "pinyin": "chóngxīn pēn tú"
+    },
+    {
+      "id": 407418,
+      "translation": {
+        "en": {
+          "short": "tire rotation",
+          "long": "the practice of changing the position of a vehicle's tires to ensure even wear and prolong their lifespan",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rotasi ban",
+          "long": "praktik mengubah posisi ban kendaraan untuk memastikan bahkan keausan dan memperpanjang umur mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407418.jpeg",
+      "simplified": "轮胎旋转",
+      "traditional": "輪胎旋轉",
+      "pinyin": "lúntāi xuánzhuǎn"
+    },
+    {
+      "id": 407420,
+      "translation": {
+        "en": {
+          "short": "wheel alignment",
+          "long": "the adjustment of the angles of the wheels to ensure they are perpendicular to the ground and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyelarasan roda",
+          "long": "Penyesuaian sudut roda untuk memastikan mereka tegak lurus terhadap tanah dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407420.jpeg",
+      "simplified": "车轮对准",
+      "traditional": "車輪對準",
+      "pinyin": "chēlún duìzhǔn"
+    },
+    {
+      "id": 407423,
+      "translation": {
+        "en": {
+          "short": "car wash",
+          "long": "a place where vehicles are cleaned using water and cleaning products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencuci mobil",
+          "long": "tempat di mana kendaraan dibersihkan menggunakan air dan produk pembersih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407423.jpeg",
+      "simplified": "洗车",
+      "traditional": "洗車",
+      "pinyin": "xǐ Chē"
+    },
+    {
+      "id": 407426,
+      "translation": {
+        "en": {
+          "short": "to detail",
+          "long": "to thoroughly clean or decorate something, paying attention to small or specific aspects",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk detail",
+          "long": "Untuk membersihkan atau mendekorasi sesuatu secara menyeluruh, memperhatikan aspek kecil atau spesifik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407426.jpeg",
+      "simplified": "详情",
+      "traditional": "詳情",
+      "pinyin": "xiángqíng"
+    },
+    {
+      "id": 407428,
+      "translation": {
+        "en": {
+          "short": "to valet",
+          "long": "to clean and polish a car meticulously",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Valet",
+          "long": "untuk membersihkan dan memoles mobil dengan cermat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407428.jpeg",
+      "simplified": "代客泊车",
+      "traditional": "代客泊車",
+      "pinyin": "dàikè bó chē"
+    },
+    {
+      "id": 407385,
+      "translation": {
+        "en": {
+          "short": "beater",
+          "long": "a vehicle that is in poor condition, typically used for rough or off-road driving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemukul",
+          "long": "kendaraan yang dalam kondisi buruk, biasanya digunakan untuk mengemudi kasar atau off-road",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407385.jpeg",
+      "simplified": "赶出猎物的人",
+      "traditional": "趕出獵物的人",
+      "pinyin": "gǎnchū lièwù de rén"
+    },
+    {
+      "id": 407387,
+      "translation": {
+        "en": {
+          "short": "clunker",
+          "long": "an old car that is in poor condition and often unreliable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "clunker",
+          "long": "mobil tua yang dalam kondisi buruk dan seringkali tidak dapat diandalkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407387.jpeg",
+      "simplified": "笨拙",
+      "traditional": "笨拙",
+      "pinyin": "bènzhuō"
+    },
+    {
+      "id": 407388,
+      "translation": {
+        "en": {
+          "short": "jalopy",
+          "long": "an old, dilapidated car in poor condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mobil tua",
+          "long": "mobil tua yang bobrok dalam kondisi buruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407388.jpeg",
+      "simplified": "老爷车",
+      "traditional": "老爺車",
+      "pinyin": "lǎoye chē"
+    },
+    {
+      "id": 407391,
+      "translation": {
+        "en": {
+          "short": "junker",
+          "long": "an old, beat-up car that is not in good shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Junker",
+          "long": "mobil tua yang dipukuli yang tidak dalam kondisi baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407391.jpeg",
+      "simplified": "容克",
+      "traditional": "容克",
+      "pinyin": "Róngkè"
+    },
+    {
+      "id": 407431,
+      "translation": {
+        "en": {
+          "short": "wreck",
+          "long": "a badly damaged building, ship, car, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecelakaan",
+          "long": "Bangunan yang rusak parah, kapal, mobil, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407431.jpeg",
+      "simplified": "失事",
+      "traditional": "失事",
+      "pinyin": "shīshì"
+    },
+    {
+      "id": 407429,
+      "translation": {
+        "en": {
+          "short": "exhaust",
+          "long": "the waste gases or air expelled from an engine, furnace, or other machinery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "knalpot",
+          "long": "Gas limbah atau udara yang dikeluarkan dari mesin, tungku, atau mesin lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407429.jpeg",
+      "simplified": "排气",
+      "traditional": "排氣",
+      "pinyin": "páiqì"
+    },
+    {
+      "id": 407432,
+      "translation": {
+        "en": {
+          "short": "wreckage",
+          "long": "the remains of something that has been severely damaged or destroyed, especially after a disaster or accident",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reruntuhan",
+          "long": "Sisa -sisa sesuatu yang telah rusak parah atau hancur, terutama setelah bencana atau kecelakaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407432.jpeg",
+      "simplified": "残骸",
+      "traditional": "殘骸",
+      "pinyin": "cánhái"
+    },
+    {
+      "id": 407436,
+      "translation": {
+        "en": {
+          "short": "junkyard",
+          "long": "a location where various old, damaged items such as vehicles, machinery, and other items are collected, stored, and often sold for parts or recycled",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat barang rongsokan",
+          "long": "Lokasi di mana berbagai barang lama yang rusak seperti kendaraan, mesin, dan barang -barang lainnya dikumpulkan, disimpan, dan sering dijual untuk suku cadang atau didaur ulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407436.jpeg",
+      "simplified": "垃圾场",
+      "traditional": "垃圾場",
+      "pinyin": "lājī cháng"
+    },
+    {
+      "id": 407437,
+      "translation": {
+        "en": {
+          "short": "salvage yard",
+          "long": "a place where old or broken vehicles and machinery are kept and taken apart to sell the usable parts or recycle the materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salvage Yard",
+          "long": "Tempat di mana kendaraan tua atau rusak dan mesin disimpan dan dibongkar untuk menjual bagian yang dapat digunakan atau mendaur ulang material",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407437.jpeg",
+      "simplified": "打捞场",
+      "traditional": "打撈場",
+      "pinyin": "dǎlāo cháng"
+    },
+    {
+      "id": 408299,
+      "translation": {
+        "en": {
+          "short": "flat tire",
+          "long": "a tire of a car, bike, etc. that has been deflated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ban kempes",
+          "long": "ban mobil, sepeda, dll. yang telah dikempiskan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408299.jpeg",
+      "simplified": "爆胎",
+      "traditional": "爆胎",
+      "pinyin": "bàotāi"
+    }
+  ]
+}

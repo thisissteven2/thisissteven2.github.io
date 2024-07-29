@@ -1,0 +1,792 @@
+{
+  "id": 3313,
+  "title": {
+    "en": "Describing Music",
+    "id": "Menggambarkan musik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to describing music such as \"acoustic\", \"a capella\", and \"funky\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan menggambarkan musik seperti \"akustik\", \"capella\", dan \"funky\"."
+  },
+  "cards": [
+    {
+      "id": 324192,
+      "translation": {
+        "en": {
+          "short": "acoustic",
+          "long": "(of a musical instrument) making a sound that is natural, not amplified",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "akustik",
+          "long": "(dari alat musik) Membuat suara yang alami, tidak diperkuat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324192.jpeg",
+      "simplified": "声学的",
+      "traditional": "聲學的",
+      "pinyin": "shēngxué de"
+    },
+    {
+      "id": 324195,
+      "translation": {
+        "en": {
+          "short": "staccato",
+          "long": "a style of playing or singing musical notes with short, distinct intervals between them",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "staccato",
+          "long": "Gaya bermain atau menyanyikan catatan musik dengan interval pendek dan berbeda di antara mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324195.jpeg",
+      "simplified": "断奏",
+      "traditional": "斷奏",
+      "pinyin": "duàn zòu"
+    },
+    {
+      "id": 324216,
+      "translation": {
+        "en": {
+          "short": "tuneless",
+          "long": "lacking a pleasant tune",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tdk merdu",
+          "long": "kurang nada yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324216.jpeg",
+      "simplified": "无调",
+      "traditional": "無調",
+      "pinyin": "wú diào"
+    },
+    {
+      "id": 324398,
+      "translation": {
+        "en": {
+          "short": "tuneful",
+          "long": "producing or having a musical tune, especially one that is pleasant",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "merdu",
+          "long": "memproduksi atau memiliki nada musik, terutama yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324398.jpeg",
+      "simplified": "调味",
+      "traditional": "調味",
+      "pinyin": "tiáowèi"
+    },
+    {
+      "id": 324406,
+      "translation": {
+        "en": {
+          "short": "tenor",
+          "long": "relating to the adult male voice of the highest natural pitch range",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "penyanyi tenor",
+          "long": "Berkaitan dengan suara pria dewasa dari rentang pitch alami tertinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324406.jpeg",
+      "simplified": "男高音",
+      "traditional": "男高音",
+      "pinyin": "nángāo yīn"
+    },
+    {
+      "id": 324407,
+      "translation": {
+        "en": {
+          "short": "vivace",
+          "long": "(music) in a lively and animated manner",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Vivace",
+          "long": "(musik) dengan cara yang hidup dan bersemangat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324407.jpeg",
+      "simplified": "活力",
+      "traditional": "活力",
+      "pinyin": "huólì"
+    },
+    {
+      "id": 324408,
+      "translation": {
+        "en": {
+          "short": "symphonic",
+          "long": "connected with or in form of a symphony",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "simfonik",
+          "long": "terhubung dengan atau dalam bentuk simfoni",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324408.jpeg",
+      "simplified": "交响乐的",
+      "traditional": "交響樂的",
+      "pinyin": "jiāoxiǎng yuè de"
+    },
+    {
+      "id": 324409,
+      "translation": {
+        "en": {
+          "short": "melodious",
+          "long": "producing or having a musical tune, especially one that is pleasant",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "merdu",
+          "long": "memproduksi atau memiliki nada musik, terutama yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324409.jpeg",
+      "simplified": "悠扬的",
+      "traditional": "悠揚的",
+      "pinyin": "yōuyáng de"
+    },
+    {
+      "id": 324410,
+      "translation": {
+        "en": {
+          "short": "melodic",
+          "long": "producing or containing a pleasant melody",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "merdu",
+          "long": "memproduksi atau mengandung melodi yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324410.jpeg",
+      "simplified": "旋律性的",
+      "traditional": "旋律性的",
+      "pinyin": "xuánlǜ xìng de"
+    },
+    {
+      "id": 324411,
+      "translation": {
+        "en": {
+          "short": "major",
+          "long": "based on a scale in which the interval between the third and the fourth notes and the seventh and the eighth notes is a half step",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "besar",
+          "long": "Berdasarkan skala di mana interval antara catatan ketiga dan keempat dan nada ketujuh dan kedelapan adalah setengah langkah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324411.jpeg",
+      "simplified": "主要的",
+      "traditional": "主要的",
+      "pinyin": "zhǔyào de"
+    },
+    {
+      "id": 324412,
+      "translation": {
+        "en": {
+          "short": "live",
+          "long": "used when an event or performance is happening at the present moment or being broadcast in real-time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "hidup",
+          "long": "digunakan saat suatu peristiwa atau kinerja terjadi pada saat ini atau disiarkan secara real-time",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324412.jpeg",
+      "simplified": "以一种生动的方式",
+      "traditional": "以一種生動的方式",
+      "pinyin": "yǐ yīzhǒng shēngdòng de fāngshì"
+    },
+    {
+      "id": 324413,
+      "translation": {
+        "en": {
+          "short": "instrumental",
+          "long": "(of music) made only by instruments and without vocals",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "instrumental",
+          "long": "(musik) dibuat hanya dengan instrumen dan tanpa vokal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324413.jpeg",
+      "simplified": "器乐",
+      "traditional": "器樂",
+      "pinyin": "qìyuè"
+    },
+    {
+      "id": 324414,
+      "translation": {
+        "en": {
+          "short": "harmonic",
+          "long": "connected with or denoting a harmony or harmonics",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "harmonis",
+          "long": "terhubung dengan atau menunjukkan harmoni atau harmonik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324414.jpeg",
+      "simplified": "谐波",
+      "traditional": "諧波",
+      "pinyin": "xiébō"
+    },
+    {
+      "id": 324415,
+      "translation": {
+        "en": {
+          "short": "grungy",
+          "long": "connected with grunge rock music that has a loud guitar sound",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kumuh",
+          "long": "terhubung dengan musik rock grunge yang memiliki suara gitar yang keras",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324415.jpeg",
+      "simplified": "蹩脚的",
+      "traditional": "蹩腳的",
+      "pinyin": "biéjiǎo de"
+    },
+    {
+      "id": 324401,
+      "translation": {
+        "en": {
+          "short": "sharp",
+          "long": "slightly higher in pitch than the corresponding natural note",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tajam",
+          "long": "sedikit lebih tinggi dalam nada dari nada alami yang sesuai",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324401.jpeg",
+      "simplified": "锋利的",
+      "traditional": "鋒利的",
+      "pinyin": "fēnglì de"
+    },
+    {
+      "id": 324402,
+      "translation": {
+        "en": {
+          "short": "punky",
+          "long": "denoting or resembling punk rock in style",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Punky",
+          "long": "menunjukkan atau menyerupai punk rock dengan gaya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324402.jpeg",
+      "simplified": "朋克",
+      "traditional": "龐克",
+      "pinyin": "péngkè"
+    },
+    {
+      "id": 324403,
+      "translation": {
+        "en": {
+          "short": "natural",
+          "long": "(of a musical note) indicating that the note is neither sharp nor flat",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "alami",
+          "long": "(dari catatan musik) yang menunjukkan bahwa nada tidak tajam atau datar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324403.jpeg",
+      "simplified": "自然的",
+      "traditional": "自然的",
+      "pinyin": "zìrán de"
+    },
+    {
+      "id": 324404,
+      "translation": {
+        "en": {
+          "short": "minor",
+          "long": "based on a scale in which the interval between the second and the third notes, the fifth and the sixth notes and the seventh and eighth notes is a half step",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "minor",
+          "long": "Berdasarkan skala di mana interval antara catatan kedua dan ketiga, nada kelima dan keenam dan nada ketujuh dan kedelapan adalah setengah langkah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324404.jpeg",
+      "simplified": "次要的",
+      "traditional": "次要的",
+      "pinyin": "cìyào de"
+    },
+    {
+      "id": 324416,
+      "translation": {
+        "en": {
+          "short": "atonal",
+          "long": "(of a piece of music) marked by a lack of tonality",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tanpa nada",
+          "long": "(dari sebuah musik) ditandai oleh kurangnya nada suara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324416.jpeg",
+      "simplified": "无调性的",
+      "traditional": "無調性的",
+      "pinyin": "wú diàoxìng de"
+    },
+    {
+      "id": 324417,
+      "translation": {
+        "en": {
+          "short": "ambient",
+          "long": "relating to the type of music that emphasizes on tone and atmosphere rather than traditional structure",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Sekelilingnya",
+          "long": "berkaitan dengan jenis musik yang menekankan pada nada dan suasana daripada struktur tradisional",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324417.jpeg",
+      "simplified": "周围的",
+      "traditional": "周圍的",
+      "pinyin": "zhōuwéi de"
+    },
+    {
+      "id": 324418,
+      "translation": {
+        "en": {
+          "short": "aleatory",
+          "long": "connected with or denoting musical compositions or other art forms that involve random choice using computer techniques",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tdk sengaja",
+          "long": "terhubung dengan atau menunjukkan komposisi musik atau bentuk seni lainnya yang melibatkan pilihan acak menggunakan teknik komputer",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324418.jpeg",
+      "simplified": "偶然",
+      "traditional": "偶然",
+      "pinyin": "ǒurán"
+    },
+    {
+      "id": 324419,
+      "translation": {
+        "en": {
+          "short": "low",
+          "long": "situated toward the lower end of the audible range",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rendah",
+          "long": "terletak di ujung bawah kisaran yang terdengar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324419.jpeg",
+      "simplified": "低的",
+      "traditional": "低的",
+      "pinyin": "dī de"
+    },
+    {
+      "id": 324420,
+      "translation": {
+        "en": {
+          "short": "brassy",
+          "long": "having a harsh, loud, or bold tone, reminiscent of brass instruments",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nakal",
+          "long": "memiliki nada yang keras, keras, atau berani, mengingatkan pada instrumen kuningan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324420.jpeg",
+      "simplified": "黄铜色的",
+      "traditional": "黃銅色的",
+      "pinyin": "huángtóng sè de"
+    },
+    {
+      "id": 324422,
+      "translation": {
+        "en": {
+          "short": "biphonic",
+          "long": "describing a quality of music that involves the simultaneous production of two distinct pitches or tones, often with one serving as a drone or sustained pitch while the other carries the melody or rhythm",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Biphonic",
+          "long": "menggambarkan kualitas musik yang melibatkan produksi simultan dari dua nada atau nada yang berbeda, seringkali dengan satu disajikan sebagai drone atau pitch berkelanjutan sementara yang lain membawa melodi atau ritme",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324422.jpeg",
+      "simplified": "双音的",
+      "traditional": "雙音的",
+      "pinyin": "Shuāng yīn de"
+    },
+    {
+      "id": 324423,
+      "translation": {
+        "en": {
+          "short": "vocal",
+          "long": "connected with or performed by singing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "vokal",
+          "long": "terhubung dengan atau dilakukan dengan bernyanyi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324423.jpeg",
+      "simplified": "声乐",
+      "traditional": "聲樂",
+      "pinyin": "shēngyuè"
+    },
+    {
+      "id": 324424,
+      "translation": {
+        "en": {
+          "short": "rhythmic",
+          "long": "(of sound) following a steady and regular beat or pattern",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berirama",
+          "long": "(suara) mengikuti ketukan atau pola yang stabil dan teratur",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324424.jpeg",
+      "simplified": "节奏",
+      "traditional": "節奏",
+      "pinyin": "jiézòu"
+    },
+    {
+      "id": 324425,
+      "translation": {
+        "en": {
+          "short": "musical",
+          "long": "relating to or containing music",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "musikal",
+          "long": "berkaitan dengan atau berisi musik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324425.jpeg",
+      "simplified": "音乐",
+      "traditional": "音樂",
+      "pinyin": "yīnyuè"
+    },
+    {
+      "id": 324426,
+      "translation": {
+        "en": {
+          "short": "orchestral",
+          "long": "relating to or made for an orchestra, typically involving a wide range of instruments playing together",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "orkestra",
+          "long": "berkaitan dengan atau dibuat untuk orkestra, biasanya melibatkan berbagai instrumen bermain bersama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324426.jpeg",
+      "simplified": "管弦乐",
+      "traditional": "管弦樂",
+      "pinyin": "guǎnxián yuè"
+    },
+    {
+      "id": 324427,
+      "translation": {
+        "en": {
+          "short": "classical",
+          "long": "related to classical music",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "klasik",
+          "long": "terkait dengan musik klasik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324427.jpeg",
+      "simplified": "古典",
+      "traditional": "古典",
+      "pinyin": "gǔdiǎn"
+    },
+    {
+      "id": 324428,
+      "translation": {
+        "en": {
+          "short": "lyric",
+          "long": "(of a singing voice) having a light register and a melodic style",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "liris",
+          "long": "(dari suara bernyanyi) memiliki register cahaya dan gaya melodi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324428.jpeg",
+      "simplified": "歌词",
+      "traditional": "歌詞",
+      "pinyin": "gēcí"
+    },
+    {
+      "id": 324429,
+      "translation": {
+        "en": {
+          "short": "loud",
+          "long": "making a noise that is noticeable and disruptive to those nearby",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "keras",
+          "long": "membuat suara yang terlihat dan mengganggu bagi mereka yang terdekat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324429.jpeg",
+      "simplified": "大声",
+      "traditional": "大聲",
+      "pinyin": "dàshēng"
+    },
+    {
+      "id": 324430,
+      "translation": {
+        "en": {
+          "short": "funky",
+          "long": "(of sound or music) lively, rhythmic, and characterized by unconventional harmonies and offbeat accents",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "funky",
+          "long": "(suara atau musik) hidup, berirama, dan ditandai dengan harmoni yang tidak konvensional dan aksen offbeat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324430.jpeg",
+      "simplified": "时髦的",
+      "traditional": "時髦的",
+      "pinyin": "shímáo de"
+    },
+    {
+      "id": 324433,
+      "translation": {
+        "en": {
+          "short": "all-star",
+          "long": "(of a performance) exceptional in quality or features highly skilled performers",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "All-Star",
+          "long": "(dari suatu kinerja) Luar biasa dalam kualitas atau fitur yang berkinerja sangat terampil",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324433.jpeg",
+      "simplified": "全明星",
+      "traditional": "全明星",
+      "pinyin": "Quán míngxīng"
+    },
+    {
+      "id": 324435,
+      "translation": {
+        "en": {
+          "short": "solo",
+          "long": "done or created by just one person",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "solo",
+          "long": "selesai atau dibuat hanya oleh satu orang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324435.jpeg",
+      "simplified": "独奏",
+      "traditional": "獨奏",
+      "pinyin": "dúzòu"
+    },
+    {
+      "id": 324529,
+      "translation": {
+        "en": {
+          "short": "solid-body",
+          "long": "describing any musical instrument that has a body made entirely from a solid block of wood or other solid material",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tubuh solid",
+          "long": "menggambarkan alat musik apa pun yang memiliki tubuh yang seluruhnya terbuat dari balok kayu yang kokoh atau bahan padat lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324529.jpeg",
+      "simplified": "实体",
+      "traditional": "實體",
+      "pinyin": "shítǐ"
+    },
+    {
+      "id": 324583,
+      "translation": {
+        "en": {
+          "short": "pop",
+          "long": "related to popular culture, with many appealing elements such as music, fashion, art, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pop",
+          "long": "Terkait dengan budaya populer, dengan banyak elemen menarik seperti musik, mode, seni, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324583.jpeg",
+      "simplified": "流行音乐",
+      "traditional": "流行音樂",
+      "pinyin": "liúxíng yīn yuè"
+    },
+    {
+      "id": 324584,
+      "translation": {
+        "en": {
+          "short": "avant-garde",
+          "long": "innovative, experimental, or unconventional in style or approach, especially in the arts",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "avant-garde",
+          "long": "Inovatif, eksperimental, atau tidak konvensional dalam gaya atau pendekatan, terutama di bidang seni",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324584.jpeg",
+      "simplified": "前卫",
+      "traditional": "前衛",
+      "pinyin": "qiánwèi"
+    },
+    {
+      "id": 324586,
+      "translation": {
+        "en": {
+          "short": "treble",
+          "long": "relating to the highest range of musical notes or frequencies",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tiga kali lipat",
+          "long": "berkaitan dengan jajaran catatan atau frekuensi musik tertinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324586.jpeg",
+      "simplified": "高频的声音",
+      "traditional": "高頻的聲音",
+      "pinyin": "gāopín de shēngyīn"
+    },
+    {
+      "id": 386561,
+      "translation": {
+        "en": {
+          "short": "monophonic",
+          "long": "describing sound transmission, recording or reproduction that is transferred through a single channel",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "monofonik",
+          "long": "menggambarkan transmisi suara, perekaman atau reproduksi yang ditransfer melalui satu saluran",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/386561.jpeg",
+      "simplified": "单声道的",
+      "traditional": "單聲道的",
+      "pinyin": "Shàn shēngdào de"
+    },
+    {
+      "id": 324593,
+      "translation": {
+        "en": {
+          "short": "on shuffle",
+          "long": "(of tracks on a music player or an app) played randomly",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Di Shuffle",
+          "long": "(trek pada pemutar musik atau aplikasi) diputar secara acak",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324593.jpeg",
+      "simplified": "随机播放",
+      "traditional": "隨機播放",
+      "pinyin": "suíjī bōfàng"
+    },
+    {
+      "id": 340918,
+      "translation": {
+        "en": {
+          "short": "a capella",
+          "long": "solely with vocal harmony and melody",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Capella",
+          "long": "semata -mata dengan harmoni dan melodi vokal",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340918.jpeg",
+      "simplified": "无伴奏合唱",
+      "traditional": "無伴奏合唱",
+      "pinyin": "wúbàn zòu hé chàng"
+    }
+  ]
+}

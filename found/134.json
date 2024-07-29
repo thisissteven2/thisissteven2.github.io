@@ -1,0 +1,659 @@
+{
+  "id": 134,
+  "title": {
+    "en": "Jobs and Work",
+    "id": "Pekerjaan dan pekerjaan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about jobs and work, such as \"pilot\", \"boss\", and \"retire\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pekerjaan dan pekerjaan, seperti \"pilot\", \"bos\", dan \"pensiun\", siap untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 212311,
+      "translation": {
+        "en": {
+          "short": "pilot",
+          "long": "someone whose job is to operate an aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pilot",
+          "long": "seseorang yang tugasnya adalah mengoperasikan pesawat terbang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212311.jpeg",
+      "simplified": "飞行员",
+      "traditional": "飛行員",
+      "pinyin": "fēixíng yuán"
+    },
+    {
+      "id": 212286,
+      "translation": {
+        "en": {
+          "short": "boss",
+          "long": "a person who is in charge of a large organization or has an important position there",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bos",
+          "long": "seseorang yang bertanggung jawab atas organisasi besar atau memiliki posisi penting di sana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212286.jpeg",
+      "simplified": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎobǎn"
+    },
+    {
+      "id": 221384,
+      "translation": {
+        "en": {
+          "short": "business",
+          "long": "the activity a person normally does to make money",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bisnis",
+          "long": "aktivitas yang biasanya dilakukan orang untuk menghasilkan uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221384.jpeg",
+      "simplified": "商业",
+      "traditional": "商業",
+      "pinyin": "shāngyè"
+    },
+    {
+      "id": 212287,
+      "translation": {
+        "en": {
+          "short": "businessman",
+          "long": "a man who does business activities like running a company",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengusaha",
+          "long": "Seorang pria yang melakukan kegiatan bisnis seperti menjalankan perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212287.jpeg",
+      "simplified": "商人",
+      "traditional": "商人",
+      "pinyin": "shāngrén"
+    },
+    {
+      "id": 212288,
+      "translation": {
+        "en": {
+          "short": "businesswoman",
+          "long": "a woman who does business activities like running a company or participating in trade",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengusaha",
+          "long": "Seorang wanita yang melakukan kegiatan bisnis seperti menjalankan perusahaan atau berpartisipasi dalam perdagangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212288.jpeg",
+      "simplified": "女实业家",
+      "traditional": "女實業家",
+      "pinyin": "nǚ shíyè jiā"
+    },
+    {
+      "id": 245546,
+      "translation": {
+        "en": {
+          "short": "expert",
+          "long": "an individual with a great amount of knowledge, skill, or training in a particular field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pakar",
+          "long": "seorang individu dengan sejumlah besar pengetahuan, keterampilan, atau pelatihan di bidang tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245546.jpeg",
+      "simplified": "专家",
+      "traditional": "專家",
+      "pinyin": "zhuānjiā"
+    },
+    {
+      "id": 212306,
+      "translation": {
+        "en": {
+          "short": "manager",
+          "long": "someone who is in charge of running a business or managing part or all of a company or organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pengelola",
+          "long": "seseorang yang bertugas menjalankan bisnis atau mengelola bagian atau semua perusahaan atau organisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212306.jpeg",
+      "simplified": "经理",
+      "traditional": "主管",
+      "pinyin": "jīnglǐ"
+    },
+    {
+      "id": 212285,
+      "translation": {
+        "en": {
+          "short": "assistant",
+          "long": "a person who helps someone in their work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asisten",
+          "long": "seseorang yang membantu seseorang dalam pekerjaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212285.jpeg",
+      "simplified": "助理",
+      "traditional": "助理",
+      "pinyin": "zhùlǐ"
+    },
+    {
+      "id": 212314,
+      "translation": {
+        "en": {
+          "short": "receptionist",
+          "long": "a person who greets and deals with people arriving at or calling a hotel, office building, doctor's office, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resepsionis",
+          "long": "Seseorang yang menyapa dan berurusan dengan orang -orang yang tiba atau menelepon hotel, gedung kantor, kantor dokter, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212314.jpeg",
+      "simplified": "招待员",
+      "traditional": "招待員",
+      "pinyin": "zhāodài yuán"
+    },
+    {
+      "id": 212296,
+      "translation": {
+        "en": {
+          "short": "detective",
+          "long": "a person, especially a police officer, whose job is to investigate and solve crimes and catch criminals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "detektif",
+          "long": "seseorang, terutama seorang perwira polisi, yang tugasnya adalah menyelidiki dan menyelesaikan kejahatan dan menangkap penjahat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212296.jpeg",
+      "simplified": "侦探",
+      "traditional": "偵探",
+      "pinyin": "zhēntàn"
+    },
+    {
+      "id": 212307,
+      "translation": {
+        "en": {
+          "short": "model",
+          "long": "a person whose job is to display clothes by wearing them and being photographed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "model",
+          "long": "seseorang yang tugasnya adalah menampilkan pakaian dengan memakainya dan difoto",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212307.jpeg",
+      "simplified": "模型",
+      "traditional": "模型",
+      "pinyin": "móxíng"
+    },
+    {
+      "id": 212293,
+      "translation": {
+        "en": {
+          "short": "cook",
+          "long": "a person who prepares and cooks food, especially as their job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak",
+          "long": "seseorang yang menyiapkan dan memasak makanan, terutama sebagai pekerjaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212293.jpeg",
+      "simplified": "厨师",
+      "traditional": "廚師",
+      "pinyin": "chúshī"
+    },
+    {
+      "id": 220753,
+      "translation": {
+        "en": {
+          "short": "pharmacist",
+          "long": "a healthcare professional whose job is to prepare and sell medications, and works in various places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "apoteker",
+          "long": "seorang profesional perawatan kesehatan yang tugasnya adalah mempersiapkan dan menjual obat -obatan, dan bekerja di berbagai tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220753.jpeg",
+      "simplified": "药剂师",
+      "traditional": "藥劑師",
+      "pinyin": "yàojì shī"
+    },
+    {
+      "id": 212304,
+      "translation": {
+        "en": {
+          "short": "journalist",
+          "long": "someone who prepares news to be broadcast or writes for newspapers, magazines, or news websites",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wartawan",
+          "long": "seseorang yang menyiapkan berita untuk disiarkan atau menulis untuk surat kabar, majalah, atau situs web berita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212304.jpeg",
+      "simplified": "记者",
+      "traditional": "記者",
+      "pinyin": "jìzhě"
+    },
+    {
+      "id": 212322,
+      "translation": {
+        "en": {
+          "short": "writer",
+          "long": "someone whose job involves writing articles, books, stories, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis",
+          "long": "Seseorang yang pekerjaannya melibatkan menulis artikel, buku, cerita, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212322.jpeg",
+      "simplified": "作家",
+      "traditional": "作家",
+      "pinyin": "zuòjiā"
+    },
+    {
+      "id": 212323,
+      "translation": {
+        "en": {
+          "short": "singer",
+          "long": "someone whose job is to use their voice for creating music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyanyi",
+          "long": "seseorang yang tugasnya adalah menggunakan suara mereka untuk menciptakan musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212323.jpeg",
+      "simplified": "歌手",
+      "traditional": "歌手",
+      "pinyin": "gēshǒu"
+    },
+    {
+      "id": 212313,
+      "translation": {
+        "en": {
+          "short": "professor",
+          "long": "a faculty member at a college or university who has not yet attained job security or is at the rank below full professor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "profesor",
+          "long": "Seorang anggota fakultas di sebuah perguruan tinggi atau universitas yang belum mencapai keamanan kerja atau berada di peringkat di bawah profesor penuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212313.jpeg",
+      "simplified": "教授",
+      "traditional": "教授",
+      "pinyin": "jiàoshòu"
+    },
+    {
+      "id": 212315,
+      "translation": {
+        "en": {
+          "short": "researcher",
+          "long": "someone who studies a subject carefully and carries out academic or scientific research",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peneliti",
+          "long": "seseorang yang mempelajari subjek dengan hati -hati dan melakukan penelitian akademis atau ilmiah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212315.jpeg",
+      "simplified": "研究员",
+      "traditional": "研究員",
+      "pinyin": "yánjiū yuán"
+    },
+    {
+      "id": 212300,
+      "translation": {
+        "en": {
+          "short": "hairdresser",
+          "long": "someone ‌whose job is to cut, wash and style hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penata rambut",
+          "long": "Seseorang ‌Hose Job adalah untuk memotong, mencuci dan bergaya rambut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212300.jpeg",
+      "simplified": "理发师的人",
+      "traditional": "理髮師的人",
+      "pinyin": "lǐfà shī de rén"
+    },
+    {
+      "id": 212295,
+      "translation": {
+        "en": {
+          "short": "designer",
+          "long": "someone whose job is to plan and draw how something will look or work before it is made, such as furniture, tools, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perancang",
+          "long": "Seseorang yang tugasnya merencanakan dan menggambar bagaimana sesuatu akan terlihat atau bekerja sebelum dibuat, seperti furnitur, alat, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212295.jpeg",
+      "simplified": "设计师",
+      "traditional": "設計師",
+      "pinyin": "shèjì shī"
+    },
+    {
+      "id": 212292,
+      "translation": {
+        "en": {
+          "short": "cleaner",
+          "long": "someone whose job is to clean other people’s houses, offices, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembersih",
+          "long": "Seseorang yang tugasnya adalah membersihkan rumah, kantor, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212292.jpeg",
+      "simplified": "工作是打扫某个地方的人",
+      "traditional": "工作是打掃某個地方的人",
+      "pinyin": "gōngzuò shì dǎsǎo mǒu gě dìfāng de rén"
+    },
+    {
+      "id": 226023,
+      "translation": {
+        "en": {
+          "short": "painter",
+          "long": "someone whose job is to paint buildings, walls, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelukis",
+          "long": "Seseorang yang tugasnya adalah melukis bangunan, dinding, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/226023.jpeg",
+      "simplified": "建筑油漆工",
+      "traditional": "建築油漆工",
+      "pinyin": "jiànzhù yóuqī gōng"
+    },
+    {
+      "id": 212303,
+      "translation": {
+        "en": {
+          "short": "instructor",
+          "long": "a person who teaches a practical skill or sport to someone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengajar",
+          "long": "seseorang yang mengajarkan keterampilan praktis atau olahraga kepada seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212303.jpeg",
+      "simplified": "讲师",
+      "traditional": "講師",
+      "pinyin": "jiǎngshī"
+    },
+    {
+      "id": 221356,
+      "translation": {
+        "en": {
+          "short": "employment",
+          "long": "a paid job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerjaan",
+          "long": "pekerjaan yang dibayar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221356.jpeg",
+      "simplified": "雇用",
+      "traditional": "僱用",
+      "pinyin": "gùyòng"
+    },
+    {
+      "id": 221382,
+      "translation": {
+        "en": {
+          "short": "department",
+          "long": "a part of an organization such as a university, government, etc. that deals with a particular task",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "departemen",
+          "long": "Bagian dari organisasi seperti universitas, pemerintah, dll. Yang berkaitan dengan tugas tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221382.jpeg",
+      "simplified": "部门",
+      "traditional": "部門",
+      "pinyin": "bùmén"
+    },
+    {
+      "id": 221383,
+      "translation": {
+        "en": {
+          "short": "payment",
+          "long": "an amount of money that is paid for something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembayaran",
+          "long": "sejumlah uang yang dibayarkan untuk sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221383.jpeg",
+      "simplified": "付款",
+      "traditional": "付款",
+      "pinyin": "fùkuǎn"
+    },
+    {
+      "id": 221386,
+      "translation": {
+        "en": {
+          "short": "shift",
+          "long": "the period of time when a group of people work during the day or night",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggeser",
+          "long": "periode waktu ketika sekelompok orang bekerja di siang atau malam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221386.jpeg",
+      "simplified": "工作班次",
+      "traditional": "工作班次",
+      "pinyin": "gōngzuò bāncì"
+    },
+    {
+      "id": 221390,
+      "translation": {
+        "en": {
+          "short": "bonus",
+          "long": "the extra money that we get, besides our salary, as a reward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bonus",
+          "long": "uang tambahan yang kita dapatkan, selain gaji kita, sebagai hadiah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221390.jpeg",
+      "simplified": "奖金",
+      "traditional": "獎金",
+      "pinyin": "jiǎngjīn"
+    },
+    {
+      "id": 221355,
+      "translation": {
+        "en": {
+          "short": "to employ",
+          "long": "to give work to someone and pay them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mempekerjakan",
+          "long": "untuk memberikan pekerjaan kepada seseorang dan membayarnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221355.jpeg",
+      "simplified": "采用",
+      "traditional": "採用",
+      "pinyin": "cǎiyòng"
+    },
+    {
+      "id": 221389,
+      "translation": {
+        "en": {
+          "short": "to retire",
+          "long": "to leave your job and stop working, usually on reaching a certain age",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pensiun",
+          "long": "untuk meninggalkan pekerjaan Anda dan berhenti bekerja, biasanya mencapai usia tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221389.jpeg",
+      "simplified": "退休",
+      "traditional": "退休",
+      "pinyin": "tuìxiū"
+    },
+    {
+      "id": 221829,
+      "translation": {
+        "en": {
+          "short": "successful",
+          "long": "getting the results you hoped for or wanted",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sukses",
+          "long": "Mendapatkan hasil yang Anda harapkan atau inginkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221829.jpeg",
+      "simplified": "成功的",
+      "traditional": "成功的",
+      "pinyin": "Chénggōng de"
+    },
+    {
+      "id": 386713,
+      "translation": {
+        "en": {
+          "short": "employer",
+          "long": "a person or organization that hires and pays individuals for a variety of jobs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemberi pekerjaan",
+          "long": "seseorang atau organisasi yang mempekerjakan dan membayar individu untuk berbagai pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/386713.jpeg",
+      "simplified": "雇主",
+      "traditional": "雇主",
+      "pinyin": "gùzhǔ"
+    },
+    {
+      "id": 246508,
+      "translation": {
+        "en": {
+          "short": "company",
+          "long": "an organization that does business and earns money from it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perusahaan",
+          "long": "sebuah organisasi yang melakukan bisnis dan mendapatkan uang darinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246508.jpeg",
+      "simplified": "公司",
+      "traditional": "公司",
+      "pinyin": "gōngsī"
+    },
+    {
+      "id": 391158,
+      "translation": {
+        "en": {
+          "short": "factory",
+          "long": "a building or set of buildings in which products are made, particularly using machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pabrik",
+          "long": "Bangunan atau set bangunan di mana produk dibuat, terutama menggunakan mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391158.jpeg",
+      "simplified": "厂",
+      "traditional": "廠",
+      "pinyin": "hǎn"
+    }
+  ]
+}

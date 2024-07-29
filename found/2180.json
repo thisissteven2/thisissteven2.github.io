@@ -1,0 +1,906 @@
+{
+  "id": 2180,
+  "title": {
+    "en": "Cocktails",
+    "id": "Koktail"
+  },
+  "description": {
+    "en": "Here you will learn the names of different cocktails in English such as \"margarita\", \"sangria\", and \"cosmopolitan\".",
+    "id": "Di sini Anda akan mempelajari nama -nama koktail yang berbeda dalam bahasa Inggris seperti \"Margarita\", \"Sangria\", dan \"Cosmopolitan\"."
+  },
+  "cards": [
+    {
+      "id": 290560,
+      "translation": {
+        "en": {
+          "short": "margarita",
+          "long": "a popular alcoholic drink made of tequila and citrus fruits like lime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Margarita",
+          "long": "Minuman beralkohol populer yang terbuat dari buah tequila dan jeruk seperti jeruk nipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290560.jpeg",
+      "simplified": "玛格丽塔",
+      "traditional": "瑪格麗塔",
+      "pinyin": "mǎ gé Lí tǎ"
+    },
+    {
+      "id": 290561,
+      "translation": {
+        "en": {
+          "short": "martini",
+          "long": "an alcoholic cocktail made with vermouth and gin or vodka, often garnished with an olive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Martini",
+          "long": "Koktail beralkohol yang dibuat dengan vermouth dan gin atau vodka, sering dihiasi dengan zaitun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290561.jpeg",
+      "simplified": "马蒂尼鸡尾酒",
+      "traditional": "馬蒂尼雞尾酒",
+      "pinyin": "Mǎ dì ní jīwěi jiǔ"
+    },
+    {
+      "id": 290562,
+      "translation": {
+        "en": {
+          "short": "mimosa",
+          "long": "an alcoholic cocktail made with champagne and orange juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mimosa",
+          "long": "Koktail beralkohol yang dibuat dengan sampanye dan jus jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290562.jpeg",
+      "simplified": "含羞草",
+      "traditional": "含羞草",
+      "pinyin": "hánxiū cǎo"
+    },
+    {
+      "id": 290563,
+      "translation": {
+        "en": {
+          "short": "mint julep",
+          "long": "an alcoholic cocktail made with bourbon, sugar, crushed ice, and mint",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mint Julep",
+          "long": "Koktail beralkohol yang dibuat dengan bourbon, gula, es yang dihancurkan, dan mint",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290563.jpeg",
+      "simplified": "冰镇薄荷酒",
+      "traditional": "冰鎮薄荷酒",
+      "pinyin": "bīngzhèn bòhe jiǔ"
+    },
+    {
+      "id": 290564,
+      "translation": {
+        "en": {
+          "short": "mojito",
+          "long": "drink made with rum, lime, mint, and ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mojito",
+          "long": "minuman dibuat dengan rum, jeruk nipis, mint, dan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290564.jpeg",
+      "simplified": "莫吉托",
+      "traditional": "莫吉托",
+      "pinyin": "Mòjí tuō"
+    },
+    {
+      "id": 290565,
+      "translation": {
+        "en": {
+          "short": "pina colada",
+          "long": "a drink made with pineapple, coconut, and rum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pina Colada",
+          "long": "Minuman yang dibuat dengan nanas, kelapa, dan rum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290565.jpeg",
+      "simplified": "冰镇果汁朗姆酒",
+      "traditional": "冰鎮果汁朗姆酒",
+      "pinyin": "bīngzhèn guǒzhī lǎngmǔ jiǔ"
+    },
+    {
+      "id": 290566,
+      "translation": {
+        "en": {
+          "short": "sangria",
+          "long": "a drink made with red wine, fruit, and sometimes lemonade, originated in Spain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sangria",
+          "long": "Minuman yang dibuat dengan anggur merah, buah, dan terkadang limun, berasal dari Spanyol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290566.jpeg",
+      "simplified": "西班牙果酒",
+      "traditional": "西班牙果酒",
+      "pinyin": "Xībān yá guǒjiǔ"
+    },
+    {
+      "id": 290567,
+      "translation": {
+        "en": {
+          "short": "screwdriver",
+          "long": "a classic cocktail made by mixing vodka with orange juice, served over ice, and garnished with a slice of orange or a twist of lime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng",
+          "long": "Koktail klasik yang dibuat dengan mencampur vodka dengan jus jeruk, disajikan di atas es, dan dihiasi dengan sepotong jeruk atau sentuhan jeruk nipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290567.jpeg",
+      "simplified": "螺丝刀",
+      "traditional": "螺絲刀",
+      "pinyin": "luósī dāo"
+    },
+    {
+      "id": 290554,
+      "translation": {
+        "en": {
+          "short": "Bloody Mary",
+          "long": "a kind of alcoholic drink made with vodka and tomato juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bloody Mary",
+          "long": "semacam minuman beralkohol yang dibuat dengan vodka dan jus tomat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290554.jpeg",
+      "simplified": "由伏特加和番茄制成的酒精饮料",
+      "traditional": "由伏特加和番茄製成的酒精飲料",
+      "pinyin": "yóu fútè jiā Hé fānqié zhìchéng de jiǔjīng yǐn liào"
+    },
+    {
+      "id": 290555,
+      "translation": {
+        "en": {
+          "short": "daiquiri",
+          "long": "a classic cocktail made with white rum, lime juice, and simple syrup, shaken with ice and strained into a chilled cocktail glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daiquiri",
+          "long": "Koktail klasik yang dibuat dengan rum putih, jus jeruk nipis, dan sirup sederhana, terguncang dengan es dan disaring ke dalam gelas koktail dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290555.jpeg",
+      "simplified": "代基里酒",
+      "traditional": "代基里酒",
+      "pinyin": "dài jī lǐ jiǔ"
+    },
+    {
+      "id": 290556,
+      "translation": {
+        "en": {
+          "short": "gin and tonic",
+          "long": "an alcoholic drink made with gin and a bitter-flavor fizzy water and pieces of lime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gin dan tonik",
+          "long": "Minuman beralkohol yang dibuat dengan gin dan sedikit air bersoda dan potongan jeruk nipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290556.jpeg",
+      "simplified": "杜松子酒和补品",
+      "traditional": "杜松子酒和補品",
+      "pinyin": "dùsōng zǐ jiǔ Hé bǔpǐn"
+    },
+    {
+      "id": 290559,
+      "translation": {
+        "en": {
+          "short": "Manhattan",
+          "long": "an alcoholic cocktail made with whiskey and vermouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Manhattan",
+          "long": "Koktail beralkohol yang dibuat dengan wiski dan vermouth",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290559.jpeg",
+      "simplified": "曼哈顿",
+      "traditional": "曼哈頓",
+      "pinyin": "Mànhā dùn"
+    },
+    {
+      "id": 290568,
+      "translation": {
+        "en": {
+          "short": "tequila sunrise",
+          "long": "an alcoholic cocktail made with tequila, grenadine, and orange juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tequila Sunrise",
+          "long": "Koktail beralkohol yang dibuat dengan tequila, grenadine, dan jus jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290568.jpeg",
+      "simplified": "龙舌兰日出",
+      "traditional": "龍舌蘭日出",
+      "pinyin": "lóngshé lán rìchū"
+    },
+    {
+      "id": 290569,
+      "translation": {
+        "en": {
+          "short": "whiskey sour",
+          "long": "an alcoholic drink made with a mixture of whiskey, sugar, and lime or lemon juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Whiskey Sour",
+          "long": "Minuman beralkohol yang dibuat dengan campuran wiski, gula, dan jus jeruk nipis atau lemon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290569.jpeg",
+      "simplified": "威士忌酸",
+      "traditional": "威士忌酸",
+      "pinyin": "wēishì jì suān"
+    },
+    {
+      "id": 290570,
+      "translation": {
+        "en": {
+          "short": "White Russian",
+          "long": "a classic cocktail made with vodka, coffee liqueur, and heavy cream, served over ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang Rusia berkulit putih",
+          "long": "Koktail klasik yang dibuat dengan vodka, minuman keras kopi, dan krim kental, disajikan di atas es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290570.jpeg",
+      "simplified": "白俄罗斯",
+      "traditional": "白俄羅斯",
+      "pinyin": "Báié luó sī"
+    },
+    {
+      "id": 290571,
+      "translation": {
+        "en": {
+          "short": "old fashioned",
+          "long": "a classic cocktail made with whiskey, sugar, bitters, and a citrus peel, muddled together with ice and strained into a rocks glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuno",
+          "long": "Koktail klasik yang dibuat dengan wiski, gula, pahit, dan kulit jeruk, kacau bersama dengan es dan disaring ke dalam gelas batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290571.jpeg",
+      "simplified": "老式的",
+      "traditional": "老式的",
+      "pinyin": "lǎoshì de"
+    },
+    {
+      "id": 290573,
+      "translation": {
+        "en": {
+          "short": "Moscow mule",
+          "long": "a cocktail made with vodka, ginger beer, and lime juice, often served in a copper mug, typically garnished with a lime wedge or mint sprig",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Moskow Mule",
+          "long": "Koktail yang dibuat dengan vodka, bir jahe, dan jus jeruk nipis, sering disajikan dalam cangkir tembaga, biasanya dihiasi dengan irisan jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290573.jpeg",
+      "simplified": "莫斯科骡子",
+      "traditional": "莫斯科騾子",
+      "pinyin": "Mòsī kē luózi"
+    },
+    {
+      "id": 290575,
+      "translation": {
+        "en": {
+          "short": "Mai Tai",
+          "long": "a tropical cocktail made with rum, orange curaçao, lime juice, and orgeat syrup, often garnished with a cherry and pineapple wedge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mai Tai",
+          "long": "Koktail tropis yang dibuat dengan rum, curaçao oranye, jus jeruk nipis, dan sirup orgeat, sering dihiasi dengan ceri dan nanas irisan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290575.jpeg",
+      "simplified": "麦泰",
+      "traditional": "麥泰",
+      "pinyin": "Mài Tài"
+    },
+    {
+      "id": 290578,
+      "translation": {
+        "en": {
+          "short": "Long Island iced tea",
+          "long": "a potent cocktail made with equal parts of vodka, gin, tequila, rum, and triple sec, along with sour mix and cola",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teh Iced Long Island",
+          "long": "Koktail kuat yang dibuat dengan bagian yang sama dari vodka, gin, tequila, rum, dan triple sec, bersama dengan campuran asam dan cola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290578.jpeg",
+      "simplified": "长岛冰茶",
+      "traditional": "長島冰茶",
+      "pinyin": "Chángdǎo bīng chá"
+    },
+    {
+      "id": 290580,
+      "translation": {
+        "en": {
+          "short": "cosmopolitan",
+          "long": "a popular cocktail made with vodka, triple sec, cranberry juice, and freshly squeezed lime juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kosmopolitan",
+          "long": "Koktail populer yang dibuat dengan vodka, triple sec, jus cranberry, dan jus jeruk nipis yang baru diperas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290580.jpeg",
+      "simplified": "大都会",
+      "traditional": "大都會",
+      "pinyin": "dàdū huì"
+    },
+    {
+      "id": 290582,
+      "translation": {
+        "en": {
+          "short": "Brandy Alexander",
+          "long": "a classic cocktail made with brandy, crème de cacao, and cream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brandy Alexander",
+          "long": "Koktail klasik yang dibuat dengan brendi, crème de cacao, dan krim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290582.jpeg",
+      "simplified": "布兰迪·亚历山大",
+      "traditional": "布蘭迪·亞歷山大",
+      "pinyin": "bù Lán dí Yàlì shān dà"
+    },
+    {
+      "id": 290584,
+      "translation": {
+        "en": {
+          "short": "French Connection",
+          "long": "a cocktail made with equal parts Cognac and amaretto liqueur, typically stirred with ice and strained into a rocks glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Koneksi Prancis",
+          "long": "Koktail yang dibuat dengan bagian yang sama cognac dan amaretto liqueur, biasanya diaduk dengan es dan disaring ke dalam gelas batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290584.jpeg",
+      "simplified": "法国连线",
+      "traditional": "法國連線",
+      "pinyin": "Fǎguó liánxiàn"
+    },
+    {
+      "id": 290585,
+      "translation": {
+        "en": {
+          "short": "grasshopper",
+          "long": "a classic cocktail made with equal parts of crème de menthe, white crème de cacao, and cream, shaken with ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belalang",
+          "long": "Koktail klasik yang dibuat dengan bagian yang sama dari crème de menthe, crème de cacao putih, dan krim, diguncang dengan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290585.jpeg",
+      "simplified": "蚱蜢",
+      "traditional": "蚱蜢",
+      "pinyin": "zhàměng"
+    },
+    {
+      "id": 290589,
+      "translation": {
+        "en": {
+          "short": "vodka tonic",
+          "long": "a cocktail made with vodka and tonic water, typically served over ice with a wedge of lime for garnish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vodka Tonic",
+          "long": "Koktail yang dibuat dengan vodka dan air tonik, biasanya disajikan di atas es dengan irisan jeruk nipis untuk hiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290589.jpeg",
+      "simplified": "伏特加补品",
+      "traditional": "伏特加補品",
+      "pinyin": "fútè jiā bǔpǐn"
+    },
+    {
+      "id": 290630,
+      "translation": {
+        "en": {
+          "short": "negroni",
+          "long": "a classic Italian cocktail made with equal parts gin, Campari, and sweet vermouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Negroni",
+          "long": "Koktail Italia klasik yang dibuat dengan gin yang sama, Campari, dan Vermouth yang manis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290630.jpeg",
+      "simplified": "内格罗尼",
+      "traditional": "內格羅尼",
+      "pinyin": "nèi gé Luó ní"
+    },
+    {
+      "id": 290631,
+      "translation": {
+        "en": {
+          "short": "gimlet",
+          "long": "a classic cocktail made with gin and lime juice, sometimes sweetened with simple syrup",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membor",
+          "long": "Koktail klasik yang dibuat dengan jus gin dan jeruk nipis, terkadang dimaniskan dengan sirup sederhana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290631.jpeg",
+      "simplified": "螺丝锥",
+      "traditional": "螺絲錐",
+      "pinyin": "luósī zhuī"
+    },
+    {
+      "id": 290632,
+      "translation": {
+        "en": {
+          "short": "Tom Collins",
+          "long": "a classic cocktail made with gin, lemon juice, simple syrup, and soda water, served in a tall glass filled with ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tom Collins",
+          "long": "Koktail klasik yang dibuat dengan gin, jus lemon, sirup sederhana, dan air soda, disajikan dalam gelas tinggi yang diisi dengan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290632.jpeg",
+      "simplified": "汤姆·柯林斯",
+      "traditional": "湯姆·柯林斯",
+      "pinyin": "Tāngmǔ Kēlín sī"
+    },
+    {
+      "id": 290633,
+      "translation": {
+        "en": {
+          "short": "sidecar",
+          "long": "a classic cocktail made with cognac, orange liqueur, and lemon juice, shaken with ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sespan",
+          "long": "Koktail klasik yang dibuat dengan cognac, minuman keras oranye, dan jus lemon, terguncang dengan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290633.jpeg",
+      "simplified": "边车",
+      "traditional": "邊車",
+      "pinyin": "biān Chē"
+    },
+    {
+      "id": 290654,
+      "translation": {
+        "en": {
+          "short": "snakebite",
+          "long": "a cocktail made by mixing equal parts of lager or beer and cider, typically served over ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gigitan ular",
+          "long": "Koktail yang dibuat dengan mencampur bagian bir atau bir dan sari buah yang sama, biasanya disajikan di atas es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290654.jpeg",
+      "simplified": "蛇咬伤",
+      "traditional": "蛇咬傷",
+      "pinyin": "shé yǎoshāng"
+    },
+    {
+      "id": 290655,
+      "translation": {
+        "en": {
+          "short": "grog",
+          "long": "a type of alcoholic drink that is made by diluting rum with water and sometimes adding other ingredients such as sugar, spices, or citrus fruits.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minuman keras",
+          "long": "Jenis minuman beralkohol yang dibuat dengan mengencerkan rum dengan air dan kadang -kadang menambahkan bahan -bahan lain seperti gula, rempah -rempah, atau buah jeruk.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290655.jpeg",
+      "simplified": "熟食",
+      "traditional": "熟食",
+      "pinyin": "shúshí"
+    },
+    {
+      "id": 290656,
+      "translation": {
+        "en": {
+          "short": "eggnog",
+          "long": "a drink made with milk, sugar, eggs, and alcoholic beverages such as brandy or rum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minuman telur kopyok",
+          "long": "Minuman yang dibuat dengan susu, gula, telur, dan minuman beralkohol seperti brendi atau rum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290656.jpeg",
+      "simplified": "蛋酒",
+      "traditional": "蛋酒",
+      "pinyin": "dànjiǔ"
+    },
+    {
+      "id": 290657,
+      "translation": {
+        "en": {
+          "short": "buck's fizz",
+          "long": "an alcoholic cocktail made with champagne and orange juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Buck's Fizz",
+          "long": "Koktail beralkohol yang dibuat dengan sampanye dan jus jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290657.jpeg",
+      "simplified": "巴克的嘶嘶声",
+      "traditional": "巴克的嘶嘶聲",
+      "pinyin": "Bā Kè de sīsī shēng"
+    },
+    {
+      "id": 290658,
+      "translation": {
+        "en": {
+          "short": "highball",
+          "long": "a type of cocktail that consists of a base spirit and a carbonated mixer, served over ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda keberangkatan",
+          "long": "Jenis koktail yang terdiri dari semangat dasar dan mixer berkarbonasi, disajikan di atas es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290658.jpeg",
+      "simplified": "高球",
+      "traditional": "高球",
+      "pinyin": "gāoqiú"
+    },
+    {
+      "id": 290661,
+      "translation": {
+        "en": {
+          "short": "appletini",
+          "long": "a cocktail made with vodka, apple liqueur, and sometimes sour mix or lemon juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Appletini",
+          "long": "Koktail yang dibuat dengan vodka, minuman keras apel, dan terkadang campuran asam atau jus lemon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290661.jpeg",
+      "simplified": "阿普蒂尼",
+      "traditional": "阿普蒂尼",
+      "pinyin": "A1 pǔ dì ní"
+    },
+    {
+      "id": 290687,
+      "translation": {
+        "en": {
+          "short": "shandy",
+          "long": "a drink made with beer and lemonade",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shandy",
+          "long": "Minuman yang dibuat dengan bir dan limun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290687.jpeg",
+      "simplified": "桑迪",
+      "traditional": "桑迪",
+      "pinyin": "Sāng dí"
+    },
+    {
+      "id": 330823,
+      "translation": {
+        "en": {
+          "short": "negus",
+          "long": "a warm alcoholic beverage made by mixing red wine with hot water, sugar, lemon, and spices, and sometimes a shot of brandy or rum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Negus",
+          "long": "Minuman beralkohol hangat yang dibuat dengan mencampur anggur merah dengan air panas, gula, lemon, dan rempah -rempah, dan kadang -kadang suntikan brendi atau rum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/330823.jpeg",
+      "simplified": "内格斯",
+      "traditional": "內格斯",
+      "pinyin": "nèi gé Sī"
+    },
+    {
+      "id": 330824,
+      "translation": {
+        "en": {
+          "short": "posset",
+          "long": "a historic English cocktail made by mixing hot milk with ale or wine, and sweetening the mixture with sugar or honey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "posset",
+          "long": "Koktail Inggris yang bersejarah yang dibuat dengan mencampur susu panas dengan bir atau anggur, dan mempermanis campuran dengan gula atau madu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/330824.jpeg",
+      "simplified": "Posset",
+      "traditional": "Posset",
+      "pinyin": "P"
+    },
+    {
+      "id": 290717,
+      "translation": {
+        "en": {
+          "short": "Cuba libre",
+          "long": "a cocktail made with rum, cola, and lime juice, typically served over ice in a highball glass and garnished with a lime wedge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Libre Kuba",
+          "long": "Koktail yang dibuat dengan rum, cola, dan jus jeruk nipis, biasanya disajikan di atas es dalam gelas bola tinggi dan dihiasi dengan irisan jeruk nipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290717.jpeg",
+      "simplified": "自由古巴",
+      "traditional": "自由古巴",
+      "pinyin": "Zìyóu Gǔ bā"
+    },
+    {
+      "id": 334750,
+      "translation": {
+        "en": {
+          "short": "whisky mac",
+          "long": "a cocktail made with Scotch whisky and ginger wine, typically served over ice in a glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wiski mac",
+          "long": "Koktail yang dibuat dengan wiski scotch dan anggur jahe, biasanya disajikan di atas es dalam gelas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334750.jpeg",
+      "simplified": "威士忌麦克",
+      "traditional": "威士忌麥克",
+      "pinyin": "wēishì jì Màikè"
+    },
+    {
+      "id": 334757,
+      "translation": {
+        "en": {
+          "short": "zombie",
+          "long": "a cocktail typically made with rum and fruit juices, often including grenadine and various liqueurs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "zombie",
+          "long": "Koktail biasanya dibuat dengan jus rum dan buah, sering kali termasuk grenadine dan berbagai minuman keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334757.jpeg",
+      "simplified": "僵尸",
+      "traditional": "殭屍",
+      "pinyin": "jiāngshī"
+    },
+    {
+      "id": 334767,
+      "translation": {
+        "en": {
+          "short": "white lady",
+          "long": "a classic cocktail made with gin, triple sec, and lemon juice, often shaken with ice and strained into a cocktail glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wanita kulit putih",
+          "long": "Koktail klasik yang dibuat dengan gin, triple sec, dan jus lemon, sering dikocok dengan es dan disaring ke dalam gelas koktail",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334767.jpeg",
+      "simplified": "白女士",
+      "traditional": "白女士",
+      "pinyin": "Bái nǚshì"
+    },
+    {
+      "id": 334773,
+      "translation": {
+        "en": {
+          "short": "swizzle",
+          "long": "a type of cocktail made with rum, lime juice, sugar, and bitters, traditionally served over crushed ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecoh",
+          "long": "Jenis koktail yang dibuat dengan rum, jus jeruk nipis, gula, dan pahit, secara tradisional disajikan di atas es yang dihancurkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334773.jpeg",
+      "simplified": "调配",
+      "traditional": "調配",
+      "pinyin": "diàopèi"
+    },
+    {
+      "id": 334777,
+      "translation": {
+        "en": {
+          "short": "stinger",
+          "long": "a classic cocktail made with equal parts of brandy and white crème de menthe, stirred with ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat penyengat",
+          "long": "Koktail klasik yang dibuat dengan bagian yang sama dari brendi dan crème de menthe, diaduk dengan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334777.jpeg",
+      "simplified": "刺",
+      "traditional": "刺",
+      "pinyin": "cī"
+    },
+    {
+      "id": 334791,
+      "translation": {
+        "en": {
+          "short": "sling",
+          "long": "a type of cocktail made with a base spirit, such as gin or whiskey, mixed with citrus juice, sweetener, and carbonated water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengumban",
+          "long": "Jenis koktail yang dibuat dengan semangat dasar, seperti gin atau wiski, dicampur dengan jus jeruk, pemanis, dan air berkarbonasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334791.jpeg",
+      "simplified": "吊绳",
+      "traditional": "吊繩",
+      "pinyin": "diàoshéng"
+    },
+    {
+      "id": 334795,
+      "translation": {
+        "en": {
+          "short": "sazerac",
+          "long": "a classic cocktail that originated in New Orleans, made with rye whiskey, sugar, Peychaud's bitters, and a dash of absinthe, stirred with ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sazerac",
+          "long": "Koktail klasik yang berasal dari New Orleans, dibuat dengan wiski gandum hitam, gula, pahit Peychaud, dan sedikit absinth, diaduk dengan es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334795.jpeg",
+      "simplified": "萨兹拉克酒",
+      "traditional": "薩茲拉克酒",
+      "pinyin": "Sà zī lā Kè jiǔ"
+    },
+    {
+      "id": 334799,
+      "translation": {
+        "en": {
+          "short": "rickey",
+          "long": "a type of cocktail made with a base spirit, such as gin or whiskey, mixed with lime juice and carbonated water,",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rickey",
+          "long": "Jenis koktail yang dibuat dengan semangat dasar, seperti gin atau wiski, dicampur dengan jus jeruk nipis dan air berkarbonasi,",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334799.jpeg",
+      "simplified": "瑞奇",
+      "traditional": "瑞奇",
+      "pinyin": "ruì jī"
+    },
+    {
+      "id": 334824,
+      "translation": {
+        "en": {
+          "short": "cold duck",
+          "long": "a sparkling wine cocktail made by mixing equal parts of red wine and sparkling wine with a dash of sugar or orange juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bebek dingin",
+          "long": "Koktail anggur bersoda yang dibuat dengan mencampur bagian anggur merah yang sama dan anggur bersoda dengan sedikit gula atau jus jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334824.jpeg",
+      "simplified": "冷鸭",
+      "traditional": "冷鴨",
+      "pinyin": "Lěng yā"
+    }
+  ]
+}

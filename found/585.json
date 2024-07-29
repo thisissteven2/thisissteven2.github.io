@@ -1,0 +1,944 @@
+{
+  "id": 585,
+  "title": {
+    "en": "Three-Dimensional Shapes",
+    "id": "Bentuk tiga dimensi"
+  },
+  "description": {
+    "en": "Read this lesson to learn the names of some three-dimensional shapes in English, such as \"cuboid\", \"sphere\" and \"cylinder\".",
+    "id": "Baca pelajaran ini untuk mempelajari nama-nama beberapa bentuk tiga dimensi dalam bahasa Inggris, seperti \"Cuboid\", \"Sphere\" dan \"Cylinder\"."
+  },
+  "cards": [
+    {
+      "id": 224367,
+      "translation": {
+        "en": {
+          "short": "solid",
+          "long": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padat",
+          "long": "(Geometri) Bentuk yang bukan dua dimensi karena memiliki tinggi, lebar, dan panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224367.jpeg",
+      "simplified": "3d 形状",
+      "traditional": "3d 形狀",
+      "pinyin": "xíngzhuàng"
+    },
+    {
+      "id": 285359,
+      "translation": {
+        "en": {
+          "short": "cube",
+          "long": "a figure, either hollow or solid, with six equal square sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubus",
+          "long": "Sosok, baik berongga atau padat, dengan enam sisi persegi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285359.jpeg",
+      "simplified": "立方体",
+      "traditional": "立方體",
+      "pinyin": "lìfāng tǐ"
+    },
+    {
+      "id": 285360,
+      "translation": {
+        "en": {
+          "short": "cuboid",
+          "long": "a three-dimensional geometric shape with six rectangular faces, resembling a box or a rectangular prism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbentuk kubus",
+          "long": "Bentuk geometris tiga dimensi dengan enam wajah persegi panjang, menyerupai kotak atau prisma persegi panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285360.jpeg",
+      "simplified": "长方体",
+      "traditional": "長方體",
+      "pinyin": "chángfāng tǐ"
+    },
+    {
+      "id": 285397,
+      "translation": {
+        "en": {
+          "short": "spheroid",
+          "long": "(geometry) a round 3D shape like a ball that is slightly flattened at the top and bottom points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulat",
+          "long": "(Geometri) Bentuk 3D bundar seperti bola yang sedikit rata di bagian atas dan bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285397.jpeg",
+      "simplified": "球体",
+      "traditional": "球體",
+      "pinyin": "qiútǐ"
+    },
+    {
+      "id": 224368,
+      "translation": {
+        "en": {
+          "short": "sphere",
+          "long": "(geometry) a round object that every point on its surface has the same distance from its center",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "(Geometri) Objek bundar yang setiap titik di permukaannya memiliki jarak yang sama dari pusatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224368.jpeg",
+      "simplified": "球形",
+      "traditional": "球形",
+      "pinyin": "qiúxíng"
+    },
+    {
+      "id": 285633,
+      "translation": {
+        "en": {
+          "short": "cone",
+          "long": "(geometry) a three dimensional shape with a circular base that rises to a single point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerucut",
+          "long": "(Geometri) Bentuk tiga dimensi dengan dasar melingkar yang naik ke satu titik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285633.jpeg",
+      "simplified": "锥体",
+      "traditional": "錐體",
+      "pinyin": "zhuī tǐ"
+    },
+    {
+      "id": 285634,
+      "translation": {
+        "en": {
+          "short": "cylinder",
+          "long": "(geometry) a solid or hollow shape with two circular bases at each end and straight parallel sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "silinder",
+          "long": "(Geometri) Bentuk padat atau berongga dengan dua basa melingkar di setiap ujung dan sisi paralel lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285634.jpeg",
+      "simplified": "圆柱体形状",
+      "traditional": "圓柱體形狀",
+      "pinyin": "yuánzhù tǐ xíngzhuàng"
+    },
+    {
+      "id": 285374,
+      "translation": {
+        "en": {
+          "short": "ellipsoid",
+          "long": "a three-dimensional shape similar to a stretched or compressed sphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ellipsoid",
+          "long": "Bentuk tiga dimensi yang mirip dengan bola yang diregangkan atau terkompresi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285374.jpeg",
+      "simplified": "椭球体",
+      "traditional": "橢球體",
+      "pinyin": "tuǒqiú tǐ"
+    },
+    {
+      "id": 285390,
+      "translation": {
+        "en": {
+          "short": "hemisphere",
+          "long": "either half of a sphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belahan bumi",
+          "long": "Salah satu setengah dari bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285390.jpeg",
+      "simplified": "半球",
+      "traditional": "半球",
+      "pinyin": "bànqiú"
+    },
+    {
+      "id": 224355,
+      "translation": {
+        "en": {
+          "short": "polyhedron",
+          "long": "a solid shape made of flat sides that fit together along their edges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polyhedron",
+          "long": "Bentuk padat yang terbuat dari sisi datar yang cocok bersama di sepanjang tepi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224355.jpeg",
+      "simplified": "多面体",
+      "traditional": "多面體",
+      "pinyin": "duōmiàn tǐ"
+    },
+    {
+      "id": 224377,
+      "translation": {
+        "en": {
+          "short": "trihedron",
+          "long": "(geometry) a solid figure formed by three flat faces that intersect in a point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tiga",
+          "long": "(Geometri) Sosok padat yang dibentuk oleh tiga wajah datar yang berpotongan dalam suatu titik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224377.jpeg",
+      "simplified": "三面体",
+      "traditional": "三面體",
+      "pinyin": "Sān miàntǐ"
+    },
+    {
+      "id": 224373,
+      "translation": {
+        "en": {
+          "short": "tetrahedron",
+          "long": "(geometry) a polyhedron with four flat sides, a triangular pyramid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi empat",
+          "long": "(Geometri) Polyhedron dengan empat sisi datar, piramida segitiga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224373.jpeg",
+      "simplified": "四面体",
+      "traditional": "四面體",
+      "pinyin": "sìmiàn tǐ"
+    },
+    {
+      "id": 224353,
+      "translation": {
+        "en": {
+          "short": "pentahedron",
+          "long": "(geometry) a solid figure with five flat faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sisilima",
+          "long": "(Geometri) Sosok yang solid dengan lima wajah datar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224353.jpeg",
+      "simplified": "五面体",
+      "traditional": "五面體",
+      "pinyin": "wǔ miàntǐ"
+    },
+    {
+      "id": 285391,
+      "translation": {
+        "en": {
+          "short": "hexahedron",
+          "long": "(geometry) a solid figure with six flat faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pigur berenam segi",
+          "long": "(Geometri) Sosok yang solid dengan enam wajah datar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285391.jpeg",
+      "simplified": "六面体",
+      "traditional": "六面體",
+      "pinyin": "liùmiàn tǐ"
+    },
+    {
+      "id": 285670,
+      "translation": {
+        "en": {
+          "short": "heptahedron",
+          "long": "a polyhedron with seven faces or sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Heptahedron",
+          "long": "polyhedron dengan tujuh wajah atau sisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285670.jpeg",
+      "simplified": "七面体",
+      "traditional": "七面體",
+      "pinyin": "qī miàntǐ"
+    },
+    {
+      "id": 285660,
+      "translation": {
+        "en": {
+          "short": "octahedron",
+          "long": "a geometric figure with eight triangular faces, twelve edges, and six vertices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi delapan",
+          "long": "Sosok geometris dengan delapan wajah segitiga, dua belas tepi, dan enam simpul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285660.jpeg",
+      "simplified": "八面体",
+      "traditional": "八面體",
+      "pinyin": "bāmiàn tǐ"
+    },
+    {
+      "id": 285653,
+      "translation": {
+        "en": {
+          "short": "nonahedron",
+          "long": "a shape with nine flat sides that connect along their edges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nonahedron",
+          "long": "bentuk dengan sembilan sisi datar yang terhubung di sepanjang tepi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285653.jpeg",
+      "simplified": "九面体",
+      "traditional": "九面體",
+      "pinyin": "jiǔmiàn tǐ"
+    },
+    {
+      "id": 285638,
+      "translation": {
+        "en": {
+          "short": "decahedron",
+          "long": "(geometry) a solid shape with ten flat faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Decahedron",
+          "long": "(Geometri) Bentuk padat dengan sepuluh wajah datar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285638.jpeg",
+      "simplified": "十面体",
+      "traditional": "十面體",
+      "pinyin": "shí miàntǐ"
+    },
+    {
+      "id": 285641,
+      "translation": {
+        "en": {
+          "short": "dodecahedron",
+          "long": "a three-dimensional figure with twelve regular pentagonal faces, thirty edges, and twenty vertices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pigura berduabelas segi",
+          "long": "Sosok tiga dimensi dengan dua belas wajah pentagonal biasa, tiga puluh tepi, dan dua puluh simpul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285641.jpeg",
+      "simplified": "十二面体",
+      "traditional": "十二面體",
+      "pinyin": "shíèr miàn tǐ"
+    },
+    {
+      "id": 285642,
+      "translation": {
+        "en": {
+          "short": "icosahedron",
+          "long": "a three-dimensional figure with twenty equilateral triangle faces, thirty edges, and twelve vertices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Icosahedron",
+          "long": "Sosok tiga dimensi dengan dua puluh wajah segitiga sama sisi, tiga puluh tepi, dan dua belas simpul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285642.jpeg",
+      "simplified": "二十面体",
+      "traditional": "二十面體",
+      "pinyin": "èrshí miàn tǐ"
+    },
+    {
+      "id": 285449,
+      "translation": {
+        "en": {
+          "short": "toroidal polyhedron",
+          "long": "a three-dimensional shape that wraps around a torus or doughnut-like surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Polyhedron toroidal",
+          "long": "Bentuk tiga dimensi yang membungkus di sekitar permukaan torus atau seperti adonan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285449.jpeg",
+      "simplified": "环形多面体",
+      "traditional": "環形多面體",
+      "pinyin": "huánxíng duōmiàn tǐ"
+    },
+    {
+      "id": 224356,
+      "translation": {
+        "en": {
+          "short": "prism",
+          "long": "(geometry) a solid figure with flat sides and two parallel ends of the same size and shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prisma",
+          "long": "(Geometri) Sosok padat dengan sisi datar dan dua ujung paralel dengan ukuran dan bentuk yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224356.jpeg",
+      "simplified": "角柱",
+      "traditional": "角柱",
+      "pinyin": "Jué zhù"
+    },
+    {
+      "id": 285588,
+      "translation": {
+        "en": {
+          "short": "oblique prism",
+          "long": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases not being perpendicular to the sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prisma miring",
+          "long": "Bentuk tiga dimensi yang memiliki sepasang pangkalan paralel yang dihubungkan oleh wajah persegi panjang, dengan basis tidak tegak lurus terhadap samping",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285588.jpeg",
+      "simplified": "斜棱镜",
+      "traditional": "斜棱鏡",
+      "pinyin": "xié léngjìng"
+    },
+    {
+      "id": 285599,
+      "translation": {
+        "en": {
+          "short": "right prism",
+          "long": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases being perpendicular to the sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prisma yang benar",
+          "long": "Bentuk tiga dimensi yang memiliki sepasang pangkalan paralel yang dihubungkan oleh wajah persegi panjang, dengan basis yang tegak lurus ke samping",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285599.jpeg",
+      "simplified": "直棱镜",
+      "traditional": "直棱鏡",
+      "pinyin": "Zhí léngjìng"
+    },
+    {
+      "id": 285615,
+      "translation": {
+        "en": {
+          "short": "uniform prism",
+          "long": "a three-dimensional shape that has two identical bases, and all sides are the same shape and size",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prisma seragam",
+          "long": "Bentuk tiga dimensi yang memiliki dua basis yang identik, dan semua sisi adalah bentuk dan ukuran yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285615.jpeg",
+      "simplified": "均匀棱镜",
+      "traditional": "均勻棱鏡",
+      "pinyin": "jūnyún léngjìng"
+    },
+    {
+      "id": 285376,
+      "translation": {
+        "en": {
+          "short": "triangular prism",
+          "long": "a three-dimensional shape with two triangular bases connected by three rectangular faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prisma segitiga",
+          "long": "Bentuk tiga dimensi dengan dua basa segitiga yang dihubungkan oleh tiga wajah persegi panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285376.jpeg",
+      "simplified": "三棱镜",
+      "traditional": "三棱鏡",
+      "pinyin": "sānléng jìng"
+    },
+    {
+      "id": 285555,
+      "translation": {
+        "en": {
+          "short": "square prism",
+          "long": "a type of uniform prism that has square bases and rectangular faces that connect the bases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prisma persegi",
+          "long": "Jenis prisma seragam yang memiliki basa persegi dan wajah persegi panjang yang menghubungkan basis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285555.jpeg",
+      "simplified": "方棱柱",
+      "traditional": "方棱柱",
+      "pinyin": "Fāng léngzhù"
+    },
+    {
+      "id": 285566,
+      "translation": {
+        "en": {
+          "short": "pentagonal prism",
+          "long": "a type of uniform prism that has pentagonal bases and rectangular faces that connect the bases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prisma pentagonal",
+          "long": "Jenis prisma seragam yang memiliki basa pentagonal dan wajah persegi panjang yang menghubungkan basis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285566.jpeg",
+      "simplified": "五棱柱",
+      "traditional": "五棱柱",
+      "pinyin": "wǔ léngzhù"
+    },
+    {
+      "id": 285404,
+      "translation": {
+        "en": {
+          "short": "hexagonal prism",
+          "long": "a type of uniform prism that has hexagonal bases and rectangular faces that connect the bases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prisma heksagonal",
+          "long": "Jenis prisma seragam yang memiliki basa heksagonal dan wajah persegi panjang yang menghubungkan basis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285404.jpeg",
+      "simplified": "六棱柱",
+      "traditional": "六棱柱",
+      "pinyin": "liù léngzhù"
+    },
+    {
+      "id": 285387,
+      "translation": {
+        "en": {
+          "short": "rhombohedron",
+          "long": "a three-dimensional geometric figure with six identical rhombus-shaped faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rhombohedron",
+          "long": "Sosok geometris tiga dimensi dengan enam wajah berbentuk belah ketupat identik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285387.jpeg",
+      "simplified": "菱面体",
+      "traditional": "菱面體",
+      "pinyin": "líng miàntǐ"
+    },
+    {
+      "id": 285388,
+      "translation": {
+        "en": {
+          "short": "parallelepiped",
+          "long": "a three-dimensional figure with six parallelogram faces, where each face is parallel to the opposite face",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paralelipiped",
+          "long": "Sosok tiga dimensi dengan enam wajah jajaran genjang, di mana setiap wajah sejajar dengan wajah yang berlawanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285388.jpeg",
+      "simplified": "平行六面体",
+      "traditional": "平行六面體",
+      "pinyin": "píngxíng liù miàn tǐ"
+    },
+    {
+      "id": 285389,
+      "translation": {
+        "en": {
+          "short": "hyperboloid",
+          "long": "a three-dimensional shape often seen in cooling towers, sculptures, or lampshades, known for its curved design",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiperboloid",
+          "long": "Bentuk tiga dimensi yang sering terlihat di menara pendingin, patung, atau kap lampu, yang dikenal karena desainnya yang melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285389.jpeg",
+      "simplified": "双曲面",
+      "traditional": "雙曲面",
+      "pinyin": "shuāngqū miàn"
+    },
+    {
+      "id": 285491,
+      "translation": {
+        "en": {
+          "short": "platonic solid",
+          "long": "a 3D shape with identical, regular polygon faces and the same number of faces meeting at each corner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Solid Platonis",
+          "long": "Bentuk 3D dengan wajah poligon biasa yang identik dan jumlah wajah yang sama di setiap sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285491.jpeg",
+      "simplified": "柏拉图式固体",
+      "traditional": "柏拉圖式固體",
+      "pinyin": "Bólā tú shì gùtǐ"
+    },
+    {
+      "id": 285459,
+      "translation": {
+        "en": {
+          "short": "star polyhedron",
+          "long": "a three-dimensional geometric shape composed of multiple intersecting polygons that form a star-like structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bintang Polyhedron",
+          "long": "Bentuk geometris tiga dimensi yang terdiri dari banyak poligon berpotongan yang membentuk struktur seperti bintang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285459.jpeg",
+      "simplified": "星形多面体",
+      "traditional": "星形多面體",
+      "pinyin": "xīng xíng duōmiàn tǐ"
+    },
+    {
+      "id": 285468,
+      "translation": {
+        "en": {
+          "short": "Kepler-Poinsot polyhedron",
+          "long": "a type of regular polyhedron in geometry, which is formed by extending the faces of a regular convex polyhedron to create new faces or facets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kepler-poinsot polyhedron",
+          "long": "Jenis polyhedron biasa dalam geometri, yang dibentuk dengan memperluas wajah polyhedron cembung biasa untuk membuat wajah atau aspek baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285468.jpeg",
+      "simplified": "开普勒-普安索多面体",
+      "traditional": "開普勒-普安索多面體",
+      "pinyin": "Kāipǔ lè Pǔān Suǒ duōmiàn tǐ"
+    },
+    {
+      "id": 285494,
+      "translation": {
+        "en": {
+          "short": "Szilassi polyhedron",
+          "long": "a non-convex polyhedron in geometry that has an unusual property of having no faces that are triangles, despite being composed of triangular faces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Szilassi Polyhedron",
+          "long": "Polyhedron non-cembung dalam geometri yang memiliki sifat tidak biasa yang tidak memiliki wajah yang merupakan segitiga, meskipun terdiri dari wajah segitiga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285494.jpeg",
+      "simplified": "西拉西多面体",
+      "traditional": "西拉西多面體",
+      "pinyin": "Xīlā Xī duōmiàn tǐ"
+    },
+    {
+      "id": 285496,
+      "translation": {
+        "en": {
+          "short": "Csaszar polyhedron",
+          "long": "a three-dimensional shape made up of 14 faces, 21 vertices, and 36 edges, with a symmetrical arrangement of polygons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Csaszar polyhedron",
+          "long": "Bentuk tiga dimensi yang terdiri dari 14 wajah, 21 simpul, dan 36 tepi, dengan pengaturan simetris poligon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285496.jpeg",
+      "simplified": "萨萨尔多面体",
+      "traditional": "薩薩爾多面體",
+      "pinyin": "Sà Sàěr duōmiàn tǐ"
+    },
+    {
+      "id": 285425,
+      "translation": {
+        "en": {
+          "short": "uniform polyhedron",
+          "long": "a convex polyhedron in geometry that has regular polygons as its faces and is vertex-transitive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Polyhedron seragam",
+          "long": "Cembung polyhedron dalam geometri yang memiliki poligon biasa sebagai wajahnya dan verteks-transitif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285425.jpeg",
+      "simplified": "均匀多面体",
+      "traditional": "均勻多面體",
+      "pinyin": "jūnyún duōmiàn tǐ"
+    },
+    {
+      "id": 285429,
+      "translation": {
+        "en": {
+          "short": "Archimedean solid",
+          "long": "a semi-regular convex polyhedron in geometry that has a combination of regular polygons as its faces, with identical vertices and edges, and is vertex-transitive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Archimedean solid",
+          "long": "polyhedron cembung semi-reguler dalam geometri yang memiliki kombinasi poligon biasa sebagai wajahnya, dengan simpul dan tepi yang identik, dan merupakan verteks-transitif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285429.jpeg",
+      "simplified": "阿基米德固体",
+      "traditional": "阿基米德固體",
+      "pinyin": "A1jī mǐ dé gùtǐ"
+    },
+    {
+      "id": 285431,
+      "translation": {
+        "en": {
+          "short": "snub dodecahedron",
+          "long": "a non-convex Archimedean solid with icosahedral symmetry, consisting of 80 equilateral triangles and 12 regular pentagons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Snub Dodecahedron",
+          "long": "Solid Archimedean non-Cembung dengan simetri icosahedral, terdiri dari 80 segitiga sama sisi dan 12 pentagon biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285431.jpeg",
+      "simplified": "短十二面体",
+      "traditional": "短十二面體",
+      "pinyin": "duǎn shíèr miàn tǐ"
+    },
+    {
+      "id": 224357,
+      "translation": {
+        "en": {
+          "short": "pyramid",
+          "long": "a solid object with a square base and four triangular sides joined to a point on the top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida",
+          "long": "objek padat dengan alas persegi dan empat sisi segitiga bergabung ke titik di atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224357.jpeg",
+      "simplified": "金字塔",
+      "traditional": "金字塔",
+      "pinyin": "jīnzì tǎ"
+    },
+    {
+      "id": 285406,
+      "translation": {
+        "en": {
+          "short": "triangular-based pyramid",
+          "long": "a three-dimensional geometric shape with a triangular base and triangular faces that meet at a common vertex or apex point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piramida berbasis segitiga",
+          "long": "Bentuk geometris tiga dimensi dengan dasar segitiga dan wajah segitiga yang bertemu pada titik umum atau titik puncak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285406.jpeg",
+      "simplified": "基于三角形的金字塔",
+      "traditional": "基於三角形的金字塔",
+      "pinyin": "jīyú sānjiǎo xíng de jīnzì tǎ"
+    },
+    {
+      "id": 285416,
+      "translation": {
+        "en": {
+          "short": "square pyramid",
+          "long": "a three-dimensional geometric shape with a square base and four triangular faces that meet at a common vertex or apex point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida persegi",
+          "long": "Bentuk geometris tiga dimensi dengan dasar persegi dan empat wajah segitiga yang bertemu pada titik umum atau titik puncak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285416.jpeg",
+      "simplified": "四角锥体",
+      "traditional": "四角錐體",
+      "pinyin": "sìjiǎo zhuī tǐ"
+    },
+    {
+      "id": 285507,
+      "translation": {
+        "en": {
+          "short": "pentagonal pyramid",
+          "long": "a three-dimensional geometric shape with a pentagonal base and five triangular faces that meet at a common vertex or apex point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida pentagonal",
+          "long": "Bentuk geometris tiga dimensi dengan basis pentagonal dan lima wajah segitiga yang bertemu pada titik umum atau titik puncak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285507.jpeg",
+      "simplified": "五角锥体",
+      "traditional": "五角錐體",
+      "pinyin": "wǔjiǎo zhuī tǐ"
+    },
+    {
+      "id": 300158,
+      "translation": {
+        "en": {
+          "short": "stellated dodecahedron",
+          "long": "a three-dimensional geometric shape formed by extending the faces of a regular dodecahedron to create additional triangular faces or spikes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dodecahedron yang disimpan",
+          "long": "Bentuk geometris tiga dimensi yang dibentuk dengan memperluas wajah dodecahedron biasa untuk membuat wajah atau paku segitiga tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300158.jpeg",
+      "simplified": "恒星的十二面体",
+      "traditional": "恆星的十二面體",
+      "pinyin": "héngxīng de shíèr miàn tǐ"
+    },
+    {
+      "id": 394903,
+      "translation": {
+        "en": {
+          "short": "torus",
+          "long": "a solid shape resembling a donut or ring, made by spinning a circle around a line that does not cut through the circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Torus",
+          "long": "Bentuk padat menyerupai donat atau cincin, dibuat dengan memutar lingkaran di sekitar garis yang tidak memotong lingkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394903.jpeg",
+      "simplified": "花托",
+      "traditional": "花托",
+      "pinyin": "huātuō"
+    },
+    {
+      "id": 285505,
+      "translation": {
+        "en": {
+          "short": "hexagonal pyramid",
+          "long": "a three-dimensional geometric shape with a hexagonal base and triangular faces that meet at a common vertex",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida heksagonal",
+          "long": "Bentuk geometris tiga dimensi dengan basis heksagonal dan wajah segitiga yang bertemu di titik umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285505.jpeg",
+      "simplified": "六棱锥",
+      "traditional": "六棱錐",
+      "pinyin": "liù léngzhuī"
+    },
+    {
+      "id": 285509,
+      "translation": {
+        "en": {
+          "short": "heptagonal pyramid",
+          "long": "a three-dimensional geometric shape with a heptagonal base and triangular faces that meet at a common vertex",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida heptagonal",
+          "long": "Bentuk geometris tiga dimensi dengan basis heptagonal dan wajah segitiga yang bertemu di titik umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285509.jpeg",
+      "simplified": "七角锥体",
+      "traditional": "七角錐體",
+      "pinyin": "qī jiǎozhuī tǐ"
+    },
+    {
+      "id": 285514,
+      "translation": {
+        "en": {
+          "short": "octagonal pyramid",
+          "long": "a geometric shape consisting of an octagonal base and triangular faces that converge to a single point or vertex at the top",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida segi delapan",
+          "long": "Bentuk geometris yang terdiri dari basis segi delapan dan wajah segitiga yang menyatu ke satu titik atau titik di atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285514.jpeg",
+      "simplified": "八角锥体",
+      "traditional": "八角錐體",
+      "pinyin": "bājiǎo zhuī tǐ"
+    }
+  ]
+}

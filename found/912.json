@@ -1,0 +1,811 @@
+{
+  "id": 912,
+  "title": {
+    "en": "Computer Science",
+    "id": "Ilmu Komputer"
+  },
+  "description": {
+    "en": "Here you will learn some English words about computer science, such as \"analog\", \"megabyte\", \"storage\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang ilmu komputer, seperti \"analog\", \"megabyte\", \"penyimpanan\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 245125,
+      "translation": {
+        "en": {
+          "short": "accessible",
+          "long": "able to be reached, entered, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diakses",
+          "long": "dapat dicapai, dimasukkan, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245125.jpeg",
+      "simplified": "无障碍",
+      "traditional": "無障礙",
+      "pinyin": "wúzhàng ài"
+    },
+    {
+      "id": 240484,
+      "translation": {
+        "en": {
+          "short": "analog",
+          "long": "relating to or using signals in which information is represented through constant changing of physical quantities",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "analog",
+          "long": "berkaitan dengan atau menggunakan sinyal di mana informasi diwakili melalui perubahan jumlah fisik secara konstan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240484.jpeg",
+      "simplified": "模拟",
+      "traditional": "模擬",
+      "pinyin": "mónǐ"
+    },
+    {
+      "id": 240485,
+      "translation": {
+        "en": {
+          "short": "antivirus",
+          "long": "having the ability to protect a system from viruses by finding and destroying them",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "anti Virus",
+          "long": "memiliki kemampuan untuk melindungi sistem dari virus dengan menemukan dan menghancurkannya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240485.jpeg",
+      "simplified": "防病毒软件",
+      "traditional": "防病毒軟件",
+      "pinyin": "fáng bìngdú ruǎnjiàn"
+    },
+    {
+      "id": 240490,
+      "translation": {
+        "en": {
+          "short": "compatible",
+          "long": "having the ability to work with different devices, machines, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kompatibel",
+          "long": "Memiliki kemampuan untuk bekerja dengan perangkat yang berbeda, mesin, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240490.jpeg",
+      "simplified": "兼容的",
+      "traditional": "相容的",
+      "pinyin": "jiānróng de"
+    },
+    {
+      "id": 240497,
+      "translation": {
+        "en": {
+          "short": "down",
+          "long": "(of a computer system) not working temporarily or properly",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "turun",
+          "long": "(dari sistem komputer) tidak berfungsi sementara atau benar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240497.jpeg",
+      "simplified": "中止服务",
+      "traditional": "中止服務",
+      "pinyin": "zhōngzhǐ fúwù"
+    },
+    {
+      "id": 240506,
+      "translation": {
+        "en": {
+          "short": "interactive",
+          "long": "describing the constant passage of data between a computer or other device and a user",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "interaktif",
+          "long": "menggambarkan bagian data yang konstan antara komputer atau perangkat lain dan pengguna",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240506.jpeg",
+      "simplified": "（计算）互动",
+      "traditional": "（計算）互動",
+      "pinyin": "jìsuàn hùdòng"
+    },
+    {
+      "id": 240487,
+      "translation": {
+        "en": {
+          "short": "Bluetooth",
+          "long": "the system through which different devices can be connected to each other over short distances wirelessly using radio waves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bluetooth",
+          "long": "Sistem yang melaluinya perangkat yang berbeda dapat dihubungkan satu sama lain dalam jarak pendek secara nirkabel menggunakan gelombang radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240487.jpeg",
+      "simplified": "蓝牙",
+      "traditional": "藍牙",
+      "pinyin": "Lányá"
+    },
+    {
+      "id": 240488,
+      "translation": {
+        "en": {
+          "short": "Blu-ray",
+          "long": "a type of blue disk on which large data such as high-definition videos can be stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blu-ray",
+          "long": "Jenis disk biru di mana data besar seperti video definisi tinggi dapat disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240488.jpeg",
+      "simplified": "蓝光",
+      "traditional": "藍光",
+      "pinyin": "Lánguāng"
+    },
+    {
+      "id": 240519,
+      "translation": {
+        "en": {
+          "short": "USB",
+          "long": "the technology or system for connecting other devices to a computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "USB",
+          "long": "teknologi atau sistem untuk menghubungkan perangkat lain ke komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240519.jpeg",
+      "simplified": "USB",
+      "traditional": "USB",
+      "pinyin": "bī"
+    },
+    {
+      "id": 240489,
+      "translation": {
+        "en": {
+          "short": "byte",
+          "long": "a unit for measuring the size of computer data that equals 8 bits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "byte",
+          "long": "unit untuk mengukur ukuran data komputer yang sama dengan 8 bit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240489.jpeg",
+      "simplified": "字节（数据大小）",
+      "traditional": "字節（數據大小）",
+      "pinyin": "zìjié shùjù dàxiǎo"
+    },
+    {
+      "id": 260122,
+      "translation": {
+        "en": {
+          "short": "kilobyte",
+          "long": "a unit for measuring computer data that equals 1024 bytes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kilobyte",
+          "long": "Unit untuk mengukur data komputer yang sama dengan 1024 byte",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/260122.jpeg",
+      "simplified": "千字节",
+      "traditional": "千字節",
+      "pinyin": "qiānzì jié"
+    },
+    {
+      "id": 240509,
+      "translation": {
+        "en": {
+          "short": "megabyte",
+          "long": "a unit for measuring computer data that equals 1024 kilobytes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Megabyte",
+          "long": "Unit untuk mengukur data komputer yang sama dengan 1024 kilobytes",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240509.jpeg",
+      "simplified": "Megabyte",
+      "traditional": "Megabyte",
+      "pinyin": ""
+    },
+    {
+      "id": 240502,
+      "translation": {
+        "en": {
+          "short": "gigabyte",
+          "long": "a unit for measuring computer data that equals 1024 megabytes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gigabyte",
+          "long": "Unit untuk mengukur data komputer yang sama dengan 1024 megabyte",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240502.jpeg",
+      "simplified": "千兆字节",
+      "traditional": "千兆字節",
+      "pinyin": "qiānzhào zìjié"
+    },
+    {
+      "id": 260123,
+      "translation": {
+        "en": {
+          "short": "terabyte",
+          "long": "a unit for measuring computer data that equals 1024 gigabytes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terabyte",
+          "long": "Unit untuk mengukur data komputer yang sama dengan 1024 gigabytes",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/260123.jpeg",
+      "simplified": "trabyte",
+      "traditional": "terabyte",
+      "pinyin": ""
+    },
+    {
+      "id": 240486,
+      "translation": {
+        "en": {
+          "short": "backup",
+          "long": "(computing) a copy of computer data that can be used to restore lost or damaged data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cadangan",
+          "long": "(Komputasi) Salinan data komputer yang dapat digunakan untuk mengembalikan data yang hilang atau rusak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240486.jpeg",
+      "simplified": "数据备份",
+      "traditional": "數據備份",
+      "pinyin": "shùjù bèifèn"
+    },
+    {
+      "id": 240517,
+      "translation": {
+        "en": {
+          "short": "storage",
+          "long": "the keeping of data on a computer, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyimpanan",
+          "long": "Menyimpan data di komputer, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240517.jpeg",
+      "simplified": "存储",
+      "traditional": "存儲",
+      "pinyin": "cúnchǔ"
+    },
+    {
+      "id": 240500,
+      "translation": {
+        "en": {
+          "short": "flash drive",
+          "long": "a small device used for storing data or transferring data between electronic devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Flash Drive",
+          "long": "Perangkat kecil yang digunakan untuk menyimpan data atau mentransfer data antar perangkat elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240500.jpeg",
+      "simplified": "闪存盘",
+      "traditional": "隨身碟",
+      "pinyin": "shǎncún pán"
+    },
+    {
+      "id": 240504,
+      "translation": {
+        "en": {
+          "short": "hard disk drive",
+          "long": "a disk on which data is stored, either inside or outside a computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hard disk drive",
+          "long": "Disk di mana data disimpan, baik di dalam atau di luar komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240504.jpeg",
+      "simplified": "硬盘驱动器",
+      "traditional": "硬盤驅動器",
+      "pinyin": "yìngpán qūdòng qì"
+    },
+    {
+      "id": 240493,
+      "translation": {
+        "en": {
+          "short": "cyberspace",
+          "long": "the non-physical space in which communication over computer networks takes place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cyberspace",
+          "long": "Ruang non-fisik di mana komunikasi melalui jaringan komputer terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240493.jpeg",
+      "simplified": "网络空间",
+      "traditional": "網絡空間",
+      "pinyin": "wǎngluò kōng jiān"
+    },
+    {
+      "id": 240494,
+      "translation": {
+        "en": {
+          "short": "data processing",
+          "long": "a set of actions done on data by a computer to have a certain result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengolahan data",
+          "long": "serangkaian tindakan yang dilakukan pada data oleh komputer untuk memiliki hasil tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240494.jpeg",
+      "simplified": "数据处理",
+      "traditional": "數據處理",
+      "pinyin": "shùjù chǔ lǐ"
+    },
+    {
+      "id": 240495,
+      "translation": {
+        "en": {
+          "short": "default",
+          "long": "a predefined option based on which a computer or other device performs a particular task unless it is changed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bawaan",
+          "long": "opsi yang telah ditentukan berdasarkan komputer atau perangkat lain yang melakukan tugas tertentu kecuali diubah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240495.jpeg",
+      "simplified": "默认",
+      "traditional": "預設",
+      "pinyin": "mòrèn"
+    },
+    {
+      "id": 240492,
+      "translation": {
+        "en": {
+          "short": "cursor",
+          "long": "a movable mark on a computer screen that indicates where the user is working",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kursor",
+          "long": "tanda yang dapat dipindahkan pada layar komputer yang menunjukkan di mana pengguna bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240492.jpeg",
+      "simplified": "鼠标光标",
+      "traditional": "鼠標光標",
+      "pinyin": "shǔbiāo guāngbiāo"
+    },
+    {
+      "id": 240496,
+      "translation": {
+        "en": {
+          "short": "display",
+          "long": "an electronic device that visually presents data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menampilkan",
+          "long": "Perangkat elektronik yang secara visual menyajikan data",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240496.jpeg",
+      "simplified": "显示屏",
+      "traditional": "顯示屏",
+      "pinyin": "xiǎnshì píng"
+    },
+    {
+      "id": 240498,
+      "translation": {
+        "en": {
+          "short": "drop-down menu",
+          "long": "a list that presents different options on a computer screen and remains there until one option is chosen by the user",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menu drop down",
+          "long": "Daftar yang menyajikan opsi berbeda pada layar komputer dan tetap di sana sampai satu opsi dipilih oleh pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240498.jpeg",
+      "simplified": "下拉式菜单",
+      "traditional": "下拉式選單",
+      "pinyin": "xià lā shì càidān"
+    },
+    {
+      "id": 240503,
+      "translation": {
+        "en": {
+          "short": "hacker",
+          "long": "someone who uses computers to illegally access someone else's computer or phone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peretas",
+          "long": "seseorang yang menggunakan komputer untuk mengakses komputer atau telepon orang lain secara ilegal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240503.jpeg",
+      "simplified": "黑客",
+      "traditional": "駭客",
+      "pinyin": "hēikè"
+    },
+    {
+      "id": 240505,
+      "translation": {
+        "en": {
+          "short": "help desk",
+          "long": "a service that gives information and support to the computer users, particularly those who work in the same place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Meja Bantuan",
+          "long": "Layanan yang memberikan informasi dan dukungan kepada pengguna komputer, terutama mereka yang bekerja di tempat yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240505.jpeg",
+      "simplified": "帮助台",
+      "traditional": "幫助台",
+      "pinyin": "bāngzhù Tái"
+    },
+    {
+      "id": 240507,
+      "translation": {
+        "en": {
+          "short": "interface",
+          "long": "(computing) the program through which a user can interact with a computer, especially its design and appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antarmuka",
+          "long": "(komputasi) Program yang melaluinya pengguna dapat berinteraksi dengan komputer, terutama desain dan penampilannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240507.jpeg",
+      "simplified": "用户界面",
+      "traditional": "使用者介面",
+      "pinyin": "yònghù jiè miàn"
+    },
+    {
+      "id": 240510,
+      "translation": {
+        "en": {
+          "short": "microprocessor",
+          "long": "a very small piece of electronic equipment in a computer programed to control all the functions of the CPU",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mikroprosesor",
+          "long": "Sepotong peralatan elektronik yang sangat kecil di komputer yang diprogram untuk mengontrol semua fungsi CPU",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240510.jpeg",
+      "simplified": "微处理器",
+      "traditional": "微處理器",
+      "pinyin": "wēichǔ lǐ qì"
+    },
+    {
+      "id": 240512,
+      "translation": {
+        "en": {
+          "short": "multimedia",
+          "long": "the application of images, text, audio, and video files collectively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "multimedia",
+          "long": "aplikasi gambar, teks, audio, dan file video secara kolektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240512.jpeg",
+      "simplified": "多媒体",
+      "traditional": "多媒體",
+      "pinyin": "duōméi tǐ"
+    },
+    {
+      "id": 240513,
+      "translation": {
+        "en": {
+          "short": "personal computer",
+          "long": "a compact electronic device designed for individual use, capable of performing various tasks such as word processing, internet browsing, and multimedia applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komputer pribadi",
+          "long": "Perangkat elektronik kompak yang dirancang untuk penggunaan individu, mampu melakukan berbagai tugas seperti pengolah kata, penelusuran internet, dan aplikasi multimedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240513.jpeg",
+      "simplified": "个人电脑",
+      "traditional": "個人電腦",
+      "pinyin": "gèrén diàn nǎo"
+    },
+    {
+      "id": 240520,
+      "translation": {
+        "en": {
+          "short": "workstation",
+          "long": "a desktop computer that is connected to a network, which is more upgraded than a personal computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Workstation",
+          "long": "komputer desktop yang terhubung ke jaringan, yang lebih ditingkatkan daripada komputer pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240520.jpeg",
+      "simplified": "工作站计算机",
+      "traditional": "工作站計算機",
+      "pinyin": "gōngzuò zhàn jìsuàn jī"
+    },
+    {
+      "id": 240516,
+      "translation": {
+        "en": {
+          "short": "spreadsheet",
+          "long": "a computer program used for calculating data, especially financial data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spreadsheet",
+          "long": "Program komputer yang digunakan untuk menghitung data, terutama data keuangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240516.jpeg",
+      "simplified": "电子表格",
+      "traditional": "試算表",
+      "pinyin": "diànzǐ biǎogé"
+    },
+    {
+      "id": 240491,
+      "translation": {
+        "en": {
+          "short": "to computerize",
+          "long": "to use computers to perform a task or do a particular job",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengkomputerisasi",
+          "long": "untuk menggunakan komputer untuk melakukan tugas atau melakukan pekerjaan tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240491.jpeg",
+      "simplified": "计算机化",
+      "traditional": "計算機化",
+      "pinyin": "jìsuàn jī huā"
+    },
+    {
+      "id": 240499,
+      "translation": {
+        "en": {
+          "short": "to encode",
+          "long": "to transform data into a coded form",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyandikan",
+          "long": "untuk mengubah data menjadi formulir kode",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240499.jpeg",
+      "simplified": "编码",
+      "traditional": "編碼",
+      "pinyin": "biānmǎ"
+    },
+    {
+      "id": 240501,
+      "translation": {
+        "en": {
+          "short": "to format",
+          "long": "(computing) to prepare a storage device, such as a hard drive or USB, for use by deleting all the data on it and setting it up for a specific file system",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk format",
+          "long": "(Komputasi) Untuk menyiapkan perangkat penyimpanan, seperti hard drive atau USB, untuk digunakan dengan menghapus semua data di atasnya dan mengaturnya untuk sistem file tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240501.jpeg",
+      "simplified": "格式化",
+      "traditional": "格式化",
+      "pinyin": "géshì huà"
+    },
+    {
+      "id": 240508,
+      "translation": {
+        "en": {
+          "short": "to load",
+          "long": "to move data or a program from a local storage device into the memory of a computer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memuat",
+          "long": "untuk memindahkan data atau program dari perangkat penyimpanan lokal ke dalam memori komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240508.jpeg",
+      "simplified": "加载",
+      "traditional": "載入",
+      "pinyin": "jiāzài"
+    },
+    {
+      "id": 240515,
+      "translation": {
+        "en": {
+          "short": "to retrieve",
+          "long": "to find and collect data stored on a computer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendapatkan kembali",
+          "long": "Untuk menemukan dan mengumpulkan data yang disimpan di komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240515.jpeg",
+      "simplified": "检索（数据）",
+      "traditional": "檢索（數據）",
+      "pinyin": "jiǎnsuǒ shùjù"
+    },
+    {
+      "id": 240518,
+      "translation": {
+        "en": {
+          "short": "to upgrade",
+          "long": "to improve a machine, computer system, etc. in terms of efficiency, standards, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meningkatkan",
+          "long": "Untuk meningkatkan mesin, sistem komputer, dll. Dalam hal efisiensi, standar, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240518.jpeg",
+      "simplified": "升级一些东西",
+      "traditional": "升級一些東西",
+      "pinyin": "shēngjí yīxiē dōngxī"
+    },
+    {
+      "id": 260143,
+      "translation": {
+        "en": {
+          "short": "to game",
+          "long": "to play computer or video games",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke game",
+          "long": "bermain komputer atau video game",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/260143.jpeg",
+      "simplified": "赌钱",
+      "traditional": "賭錢",
+      "pinyin": "dǔqián"
+    },
+    {
+      "id": 385037,
+      "translation": {
+        "en": {
+          "short": "random-access memory",
+          "long": "a type of computer memory tasked with temporarily storing data for a quicker access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memori akses acak",
+          "long": "Jenis memori komputer yang ditugaskan untuk menyimpan data sementara untuk akses yang lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385037.jpeg",
+      "simplified": "随机存取存储器",
+      "traditional": "隨機存取存儲器",
+      "pinyin": "suíjī cún qǔ cún chǔ qì"
+    },
+    {
+      "id": 263918,
+      "translation": {
+        "en": {
+          "short": "solid-state drive",
+          "long": "a device fixed in a computer to store information, which retains data if power goes off and is much faster compared to a hard drive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drive solid-state",
+          "long": "Perangkat yang diperbaiki di komputer untuk menyimpan informasi, yang menyimpan data jika daya padam dan jauh lebih cepat dibandingkan dengan hard drive",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263918.jpeg",
+      "simplified": "固态硬盘",
+      "traditional": "固態硬盤",
+      "pinyin": "gùtài yìng pán"
+    },
+    {
+      "id": 394083,
+      "translation": {
+        "en": {
+          "short": "Domain Name System",
+          "long": "a decentralized naming system used on the internet to translate human-readable domain names into numerical IP addresses that computers can understand, enabling the proper routing of data between devices and servers",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Sistem Nama Domain",
+          "long": "Sistem penamaan terdesentralisasi yang digunakan di Internet untuk menerjemahkan nama domain yang dapat dibaca manusia ke dalam alamat IP numerik yang dapat dipahami komputer, memungkinkan perutean data yang tepat antara perangkat dan server",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394083.jpeg",
+      "simplified": "域名系统",
+      "traditional": "域名系統",
+      "pinyin": "yùmíng xìtǒng"
+    }
+  ]
+}

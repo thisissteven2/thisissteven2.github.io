@@ -1,0 +1,469 @@
+{
+  "id": 4853,
+  "title": {
+    "en": "Adverbs of Place",
+    "id": "Kata keterangan tempat"
+  },
+  "description": {
+    "en": "Adverbs of place are a class of adverbs that provide information about the location and position of an action or event such as \"here\", \"around\", \"behind\", etc.",
+    "id": "Adverbia tempat adalah kelas kata keterangan yang memberikan informasi tentang lokasi dan posisi tindakan atau peristiwa seperti \"di sini\", \"sekitar\", \"di belakang\", dll."
+  },
+  "cards": [
+    {
+      "id": 372037,
+      "translation": {
+        "en": {
+          "short": "here",
+          "long": "at the position or place mentioned",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Di Sini",
+          "long": "di posisi atau tempat yang disebutkan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372037.jpeg",
+      "simplified": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhèlǐ"
+    },
+    {
+      "id": 372038,
+      "translation": {
+        "en": {
+          "short": "there",
+          "long": "at a place that is not where the speaker is",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di sana",
+          "long": "di tempat yang bukan tempat pembicara berada",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372038.jpeg",
+      "simplified": "那里",
+      "traditional": "那裡",
+      "pinyin": "nàli"
+    },
+    {
+      "id": 372039,
+      "translation": {
+        "en": {
+          "short": "high",
+          "long": "to, at, or far above the ground",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "tinggi",
+          "long": "untuk, di, atau jauh di atas tanah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372039.jpeg",
+      "simplified": "多于",
+      "traditional": "多於",
+      "pinyin": "duōyú"
+    },
+    {
+      "id": 372040,
+      "translation": {
+        "en": {
+          "short": "low",
+          "long": "to, at, or close to the ground",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "rendah",
+          "long": "untuk, di, atau dekat dengan tanah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372040.jpeg",
+      "simplified": "在低海拔",
+      "traditional": "在低海拔",
+      "pinyin": "zài dī hǎibá"
+    },
+    {
+      "id": 372041,
+      "translation": {
+        "en": {
+          "short": "around",
+          "long": "on all sides of something or someone",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "sekitar",
+          "long": "di semua sisi sesuatu atau seseorang",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372041.jpeg",
+      "simplified": "大约",
+      "traditional": "大約",
+      "pinyin": "dàyuē"
+    },
+    {
+      "id": 372042,
+      "translation": {
+        "en": {
+          "short": "all over",
+          "long": "throughout an entire area or surface",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "seluruh",
+          "long": "Di seluruh area atau permukaan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372042.jpeg",
+      "simplified": "遍",
+      "traditional": "遍",
+      "pinyin": "biàn"
+    },
+    {
+      "id": 373849,
+      "translation": {
+        "en": {
+          "short": "throughout",
+          "long": "in every part of a particular area or location",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "selama",
+          "long": "di setiap bagian area atau lokasi tertentu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373849.jpeg",
+      "simplified": "自始至终",
+      "traditional": "自始至終",
+      "pinyin": "zìshǐ zhì zhōng"
+    },
+    {
+      "id": 372043,
+      "translation": {
+        "en": {
+          "short": "deep",
+          "long": "at or to a significant depth",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "dalam",
+          "long": "pada atau ke kedalaman yang signifikan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372043.jpeg",
+      "simplified": "深的",
+      "traditional": "深的",
+      "pinyin": "shēn de"
+    },
+    {
+      "id": 372044,
+      "translation": {
+        "en": {
+          "short": "halfway",
+          "long": "at or to the middle of two extremes",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "setengah jalan",
+          "long": "di atau ke tengah dua ekstrem",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372044.jpeg",
+      "simplified": "在中间",
+      "traditional": "在中間",
+      "pinyin": "zài zhōngjiān"
+    },
+    {
+      "id": 372045,
+      "translation": {
+        "en": {
+          "short": "midway",
+          "long": "at or near the middle point",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di pertengahan",
+          "long": "di atau dekat titik tengah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372045.jpeg",
+      "simplified": "中途",
+      "traditional": "中途",
+      "pinyin": "zhōngtú"
+    },
+    {
+      "id": 372046,
+      "translation": {
+        "en": {
+          "short": "over here",
+          "long": "at or toward a specified place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "disini",
+          "long": "di atau menuju tempat tertentu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372046.jpeg",
+      "simplified": "在这里",
+      "traditional": "在這裡",
+      "pinyin": "zài zhèlǐ"
+    },
+    {
+      "id": 372048,
+      "translation": {
+        "en": {
+          "short": "centrally",
+          "long": "in or toward a position or location that is at or near the center",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di pusat",
+          "long": "di atau menuju posisi atau lokasi yang berada di atau dekat pusat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372048.jpeg",
+      "simplified": "集中地",
+      "traditional": "集中地",
+      "pinyin": "jízhōng de"
+    },
+    {
+      "id": 372049,
+      "translation": {
+        "en": {
+          "short": "upright",
+          "long": "in an upward or vertical position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "jujur",
+          "long": "dalam posisi ke atas atau vertikal",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372049.jpeg",
+      "simplified": "直立",
+      "traditional": "直立",
+      "pinyin": "zhílì"
+    },
+    {
+      "id": 372052,
+      "translation": {
+        "en": {
+          "short": "in situ",
+          "long": "in the natural or original location",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "in situ",
+          "long": "di lokasi alami atau asli",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372052.jpeg",
+      "simplified": "就地",
+      "traditional": "就地",
+      "pinyin": "jiùdì"
+    },
+    {
+      "id": 372055,
+      "translation": {
+        "en": {
+          "short": "inland",
+          "long": "into or toward the interior of a country or region",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pedalaman",
+          "long": "ke atau menuju bagian dalam suatu negara atau wilayah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372055.jpeg",
+      "simplified": "内陆",
+      "traditional": "內陸",
+      "pinyin": "nèilù"
+    },
+    {
+      "id": 372057,
+      "translation": {
+        "en": {
+          "short": "offshore",
+          "long": "in the sea, but not too far from the coast",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di lepas pantai",
+          "long": "di laut, tetapi tidak terlalu jauh dari pantai",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372057.jpeg",
+      "simplified": "离岸",
+      "traditional": "離岸",
+      "pinyin": "líàn"
+    },
+    {
+      "id": 372058,
+      "translation": {
+        "en": {
+          "short": "aloft",
+          "long": "up in the air or at a great height",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "tinggi",
+          "long": "di udara atau di ketinggian",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372058.jpeg",
+      "simplified": "高处",
+      "traditional": "高處",
+      "pinyin": "gāochù"
+    },
+    {
+      "id": 372060,
+      "translation": {
+        "en": {
+          "short": "underground",
+          "long": "under the surface of the earth",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "bawah tanah",
+          "long": "di bawah permukaan bumi",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372060.jpeg",
+      "simplified": "地下",
+      "traditional": "地下",
+      "pinyin": "dìxià"
+    },
+    {
+      "id": 373790,
+      "translation": {
+        "en": {
+          "short": "anywhere",
+          "long": "to, in, or at any place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di mana saja",
+          "long": "untuk, di, atau di mana pun",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373790.jpeg",
+      "simplified": "任何地方",
+      "traditional": "任何地方",
+      "pinyin": "rènhé dìfāng"
+    },
+    {
+      "id": 373791,
+      "translation": {
+        "en": {
+          "short": "somewhere",
+          "long": "in, at, or to some unspecified place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di suatu tempat",
+          "long": "di, di, atau ke tempat yang tidak ditentukan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373791.jpeg",
+      "simplified": "某处",
+      "traditional": "某處",
+      "pinyin": "mǒuchù"
+    },
+    {
+      "id": 373792,
+      "translation": {
+        "en": {
+          "short": "someplace",
+          "long": "in, to, or at some unspecified place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Someplace",
+          "long": "di, ke, atau di suatu tempat yang tidak ditentukan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373792.jpeg",
+      "simplified": "某个地方",
+      "traditional": "某個地方",
+      "pinyin": "mǒu gě dìfāng"
+    },
+    {
+      "id": 373794,
+      "translation": {
+        "en": {
+          "short": "everywhere",
+          "long": "to or in all places",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di mana pun",
+          "long": "ke atau di semua tempat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373794.jpeg",
+      "simplified": "到处",
+      "traditional": "到處",
+      "pinyin": "dàochù"
+    },
+    {
+      "id": 373795,
+      "translation": {
+        "en": {
+          "short": "nowhere",
+          "long": "not in or to any place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "tidak ada tempat",
+          "long": "tidak di atau ke tempat mana pun",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373795.jpeg",
+      "simplified": "无处",
+      "traditional": "無處",
+      "pinyin": "wúchù"
+    },
+    {
+      "id": 373797,
+      "translation": {
+        "en": {
+          "short": "elsewhere",
+          "long": "at, in, or to another place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di tempat lain",
+          "long": "di, di, atau ke tempat lain",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373797.jpeg",
+      "simplified": "别处",
+      "traditional": "別處",
+      "pinyin": "biéchù"
+    }
+  ]
+}

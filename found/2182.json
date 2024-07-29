@@ -1,0 +1,735 @@
+{
+  "id": 2182,
+  "title": {
+    "en": "Wine",
+    "id": "Anggur"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to wine such as \"champagne\", \"sherry\", and \"distil\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan anggur seperti \"Champagne\", \"Sherry\", dan \"Distil\"."
+  },
+  "cards": [
+    {
+      "id": 290704,
+      "translation": {
+        "en": {
+          "short": "Champagne",
+          "long": "a type of fizzy wine made originally in France, often drunk to celebrate an event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampanye",
+          "long": "Jenis anggur bersoda yang dibuat awalnya di Prancis, sering mabuk untuk merayakan acara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290704.jpeg",
+      "simplified": "香槟酒",
+      "traditional": "香檳酒",
+      "pinyin": "xiāngbīn jiǔ"
+    },
+    {
+      "id": 290708,
+      "translation": {
+        "en": {
+          "short": "Bordeaux",
+          "long": "a type of red wine produced in the Bordeaux region of France, made from a blend of grape varieties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bordeaux",
+          "long": "Jenis anggur merah yang diproduksi di wilayah Bordeaux di Perancis, terbuat dari campuran varietas anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290708.jpeg",
+      "simplified": "波尔多",
+      "traditional": "波爾多",
+      "pinyin": "Bōěr duō"
+    },
+    {
+      "id": 290709,
+      "translation": {
+        "en": {
+          "short": "Burgundy",
+          "long": "a white or red wine from Burgundy, France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Burgundy",
+          "long": "Anggur putih atau merah dari Burgundy, Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290709.jpeg",
+      "simplified": "勃艮第",
+      "traditional": "勃艮第",
+      "pinyin": "Bógěn dì"
+    },
+    {
+      "id": 290710,
+      "translation": {
+        "en": {
+          "short": "Riesling",
+          "long": "a type of white wine made from the Riesling grape, characterized by its high acidity, crisp and refreshing taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Riesling",
+          "long": "Jenis anggur putih yang terbuat dari anggur Riesling, ditandai dengan keasamannya yang tinggi, rasanya yang renyah dan menyegarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290710.jpeg",
+      "simplified": "雷司令",
+      "traditional": "雷司令",
+      "pinyin": "Léisī lìng"
+    },
+    {
+      "id": 290712,
+      "translation": {
+        "en": {
+          "short": "vermouth",
+          "long": "an aromatized fortified wine that is flavored with various botanicals, including herbs, spices, and roots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vermouth",
+          "long": "Anggur berbenteng aromatized yang dibumbui dengan berbagai botani, termasuk rempah -rempah, rempah -rempah, dan akar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290712.jpeg",
+      "simplified": "苦艾酒",
+      "traditional": "苦艾酒",
+      "pinyin": "kǔài jiǔ"
+    },
+    {
+      "id": 290713,
+      "translation": {
+        "en": {
+          "short": "Beaujolais",
+          "long": "a type of red wine made from the Gamay grape, produced in the Beaujolais region of France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Beaujolais",
+          "long": "Jenis anggur merah yang terbuat dari anggur Gamay, diproduksi di wilayah Beaujolais di Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290713.jpeg",
+      "simplified": "博若莱",
+      "traditional": "博若萊",
+      "pinyin": "bó rě lái"
+    },
+    {
+      "id": 290714,
+      "translation": {
+        "en": {
+          "short": "port",
+          "long": "a type of dark-red wine with a sweet taste, originated in Portugal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelabuhan",
+          "long": "Jenis anggur merah gelap dengan rasa manis, berasal dari Portugal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290714.jpeg",
+      "simplified": "波特酒",
+      "traditional": "波特酒",
+      "pinyin": "Bōtè jiǔ"
+    },
+    {
+      "id": 290718,
+      "translation": {
+        "en": {
+          "short": "Prosecco",
+          "long": "‌a fizzy white wine, originated in Italy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Prosecco",
+          "long": "Anggur putih bersoda, berasal dari Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290718.jpeg",
+      "simplified": "普罗塞克",
+      "traditional": "普羅塞克",
+      "pinyin": "pǔluó Sāi Kè"
+    },
+    {
+      "id": 290719,
+      "translation": {
+        "en": {
+          "short": "sherry",
+          "long": "a strong wine that is often taken before a meal as an appetizer, originated in Spain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sherry",
+          "long": "Anggur kuat yang sering diambil sebelum makan sebagai hidangan pembuka, berasal dari Spanyol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290719.jpeg",
+      "simplified": "雪利酒",
+      "traditional": "雪利酒",
+      "pinyin": "xuělì jiǔ"
+    },
+    {
+      "id": 290720,
+      "translation": {
+        "en": {
+          "short": "bubbly",
+          "long": "a carbonated wine made from several grape varieties, resulting in a fizzy and effervescent drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bergelembung",
+          "long": "Anggur berkarbonasi yang terbuat dari beberapa varietas anggur, menghasilkan minuman bersoda dan berbuih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290720.jpeg",
+      "simplified": "起泡的",
+      "traditional": "起泡的",
+      "pinyin": "qǐpào de"
+    },
+    {
+      "id": 290721,
+      "translation": {
+        "en": {
+          "short": "Chablis",
+          "long": "a type of white wine made from Chardonnay grapes grown in the Chablis region of Burgundy, France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chablis",
+          "long": "Jenis anggur putih yang terbuat dari anggur chardonnay yang ditanam di wilayah Chablis Burgundy, Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290721.jpeg",
+      "simplified": "夏布利",
+      "traditional": "夏布利",
+      "pinyin": "Xià bù Lì"
+    },
+    {
+      "id": 290722,
+      "translation": {
+        "en": {
+          "short": "Chardonnay",
+          "long": "a white wine made from the Chardonnay grape, resulting in a range of flavors that often include notes of apple, pear, citrus, and tropical fruit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chardonnay",
+          "long": "Anggur putih yang terbuat dari anggur Chardonnay, menghasilkan berbagai rasa yang sering mencakup nada apel, pir, jeruk, dan buah tropis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290722.jpeg",
+      "simplified": "霞多丽",
+      "traditional": "霞多麗",
+      "pinyin": "Xiáduō lì"
+    },
+    {
+      "id": 290723,
+      "translation": {
+        "en": {
+          "short": "Chianti",
+          "long": "a type of red wine made from Sangiovese grapes grown in the Chianti region of Tuscany, Italy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chianti",
+          "long": "Jenis anggur merah yang terbuat dari anggur Sangiovese yang ditanam di wilayah Chianti di Tuscany, Italia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290723.jpeg",
+      "simplified": "基安蒂",
+      "traditional": "基安蒂",
+      "pinyin": "jī An1 dì"
+    },
+    {
+      "id": 290724,
+      "translation": {
+        "en": {
+          "short": "claret",
+          "long": "a red wine which is dry and produced in Bordeaux or elsewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "darah",
+          "long": "anggur merah yang kering dan diproduksi di Bordeaux atau di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290724.jpeg",
+      "simplified": "红葡萄酒",
+      "traditional": "紅葡萄酒",
+      "pinyin": "Hóng pútao jiǔ"
+    },
+    {
+      "id": 290725,
+      "translation": {
+        "en": {
+          "short": "dessert wine",
+          "long": "a sweet wine typically served with dessert or as a dessert on its own",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur makanan penutup",
+          "long": "Anggur manis biasanya disajikan dengan hidangan penutup atau sebagai hidangan penutup sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290725.jpeg",
+      "simplified": "甜酒",
+      "traditional": "甜酒",
+      "pinyin": "tiánjiǔ"
+    },
+    {
+      "id": 290726,
+      "translation": {
+        "en": {
+          "short": "fortified wine",
+          "long": "a type of wine that has been strengthened by the addition of a distilled spirit, usually brandy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur dibentengi",
+          "long": "Jenis anggur yang telah diperkuat dengan penambahan semangat suling, biasanya brendi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290726.jpeg",
+      "simplified": "加强酒",
+      "traditional": "加強酒",
+      "pinyin": "jiāqiáng jiǔ"
+    },
+    {
+      "id": 290727,
+      "translation": {
+        "en": {
+          "short": "hock",
+          "long": "white wines from the Rhine region of Germany, known for their light and crisp taste with a refreshing acidity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gadaian",
+          "long": "Anggur putih dari wilayah Rhine Jerman, dikenal karena rasanya yang ringan dan renyah dengan keasaman yang menyegarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290727.jpeg",
+      "simplified": "服刑所",
+      "traditional": "服刑所",
+      "pinyin": "fúxíng suǒ"
+    },
+    {
+      "id": 290729,
+      "translation": {
+        "en": {
+          "short": "house wine",
+          "long": "the wine offered by a restaurant or bar as a standard, affordable option",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah anggur",
+          "long": "Anggur yang ditawarkan oleh restoran atau bar sebagai pilihan standar dan terjangkau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290729.jpeg",
+      "simplified": "自制酒",
+      "traditional": "自製酒",
+      "pinyin": "zìzhì jiǔ"
+    },
+    {
+      "id": 290730,
+      "translation": {
+        "en": {
+          "short": "Madeira",
+          "long": "a fortified wine that comes from the Portuguese island of Madeira and is known for its distinctive nutty, caramelized flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Madeira",
+          "long": "Anggur yang dibentengi yang berasal dari pulau Portugis Madeira dan dikenal dengan rasa yang khas dan karamelnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290730.jpeg",
+      "simplified": "马德拉",
+      "traditional": "馬德拉",
+      "pinyin": "Mǎ Dé lā"
+    },
+    {
+      "id": 290731,
+      "translation": {
+        "en": {
+          "short": "merlot",
+          "long": "a red wine grape variety that is widely planted throughout the world and is known for producing wines that are soft, fruity, and easy to drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Merlot",
+          "long": "Varietas anggur anggur merah yang ditanam secara luas di seluruh dunia dan dikenal karena memproduksi anggur yang lembut, buah, dan mudah diminum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290731.jpeg",
+      "simplified": "梅洛",
+      "traditional": "梅洛",
+      "pinyin": "Méiluò"
+    },
+    {
+      "id": 290732,
+      "translation": {
+        "en": {
+          "short": "mulled wine",
+          "long": "a warm, spiced wine typically made with red wine, cinnamon, cloves, nutmeg, and orange peel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Anggur yang Diperoleh",
+          "long": "Anggur hangat dan berbumbu biasanya dibuat dengan anggur merah, kayu manis, cengkeh, pala, dan kulit jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290732.jpeg",
+      "simplified": "热红酒",
+      "traditional": "熱紅酒",
+      "pinyin": "rèhóng jiǔ"
+    },
+    {
+      "id": 290733,
+      "translation": {
+        "en": {
+          "short": "plonk",
+          "long": "a slang term used to describe cheap, low-quality wine that is considered to be of inferior taste and quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Plonk",
+          "long": "Istilah gaul yang digunakan untuk menggambarkan anggur murah dan berkualitas rendah yang dianggap memiliki rasa dan kualitas yang lebih rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290733.jpeg",
+      "simplified": "砰砰",
+      "traditional": "砰砰",
+      "pinyin": "pēngpēng"
+    },
+    {
+      "id": 290734,
+      "translation": {
+        "en": {
+          "short": "red wine",
+          "long": "a type of wine made from dark-colored grapes that are fermented with their skins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur merah",
+          "long": "Jenis anggur yang terbuat dari anggur berwarna gelap yang difermentasi dengan kulitnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290734.jpeg",
+      "simplified": "红葡萄酒",
+      "traditional": "紅葡萄酒",
+      "pinyin": "Hóng pútao jiǔ"
+    },
+    {
+      "id": 290735,
+      "translation": {
+        "en": {
+          "short": "white wine",
+          "long": "a type of wine made from white grapes or from red grapes that have had their skins removed, resulting in a light-colored wine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur putih",
+          "long": "Jenis anggur yang terbuat dari anggur putih atau dari anggur merah yang telah dilepas kulitnya, menghasilkan anggur berwarna terang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290735.jpeg",
+      "simplified": "白葡萄酒",
+      "traditional": "白葡萄酒",
+      "pinyin": "Bái pútao jiǔ"
+    },
+    {
+      "id": 290762,
+      "translation": {
+        "en": {
+          "short": "rose",
+          "long": "a type of wine with a light pink color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mawar",
+          "long": "Jenis anggur dengan warna merah muda muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290762.jpeg",
+      "simplified": "玫瑰",
+      "traditional": "玫瑰",
+      "pinyin": "méiguī"
+    },
+    {
+      "id": 290737,
+      "translation": {
+        "en": {
+          "short": "retsina",
+          "long": "a Greek wine that is flavored with pine resin during the winemaking process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Retsina",
+          "long": "Anggur Yunani yang dibumbui dengan resin pinus selama proses pembuatan anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290737.jpeg",
+      "simplified": "雷齐纳",
+      "traditional": "雷齊納",
+      "pinyin": "Léi Qí Nà"
+    },
+    {
+      "id": 290738,
+      "translation": {
+        "en": {
+          "short": "vino",
+          "long": "an alcoholic beverage made from fermented grapes or other fruits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vino",
+          "long": "minuman beralkohol yang terbuat dari anggur fermentasi atau buah -buahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290738.jpeg",
+      "simplified": "维诺",
+      "traditional": "維諾",
+      "pinyin": "Wéi nuò"
+    },
+    {
+      "id": 290739,
+      "translation": {
+        "en": {
+          "short": "vintage",
+          "long": "the wine that is made in a particular time and place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antik",
+          "long": "anggur yang dibuat dalam waktu dan tempat tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290739.jpeg",
+      "simplified": "葡萄收获期",
+      "traditional": "葡萄收穫期",
+      "pinyin": "pútao shōuhuò qī"
+    },
+    {
+      "id": 290780,
+      "translation": {
+        "en": {
+          "short": "sparkling wine",
+          "long": "a type of wine that is carbonated, producing bubbles and a fizzy texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur soda",
+          "long": "Jenis anggur yang berkarbonasi, menghasilkan gelembung dan tekstur bersoda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290780.jpeg",
+      "simplified": "起泡葡萄酒",
+      "traditional": "起泡葡萄酒",
+      "pinyin": "qǐpào pútao jiǔ"
+    },
+    {
+      "id": 290781,
+      "translation": {
+        "en": {
+          "short": "May wine",
+          "long": "a German wine that is flavored with sweet woodruff herb and is traditionally consumed in May",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Semoga anggur",
+          "long": "Anggur Jerman yang dibumbui dengan ramuan kayu manis dan secara tradisional dikonsumsi pada bulan Mei",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290781.jpeg",
+      "simplified": "五月酒",
+      "traditional": "五月酒",
+      "pinyin": "Wǔyuè jiǔ"
+    },
+    {
+      "id": 290782,
+      "translation": {
+        "en": {
+          "short": "jug wine",
+          "long": "a low-priced wine that is typically sold in large bottles or jugs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggur kendi",
+          "long": "Anggur dengan harga murah yang biasanya dijual dalam botol atau kendi besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290782.jpeg",
+      "simplified": "壶酒",
+      "traditional": "壺酒",
+      "pinyin": "hú jiǔ"
+    },
+    {
+      "id": 322141,
+      "translation": {
+        "en": {
+          "short": "to age",
+          "long": "to allow something to mature or develop over time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk usia",
+          "long": "untuk membiarkan sesuatu menjadi dewasa atau berkembang seiring waktu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322141.jpeg",
+      "simplified": "变老",
+      "traditional": "變老",
+      "pinyin": "biànlǎo"
+    },
+    {
+      "id": 322146,
+      "translation": {
+        "en": {
+          "short": "to breathe",
+          "long": "(of wine) to interact with oxygen after it has been opened, usually by decanting or swirling in the glass",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bernapas",
+          "long": "(anggur) untuk berinteraksi dengan oksigen setelah dibuka, biasanya dengan decanting atau berputar -putar di gelas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322146.jpeg",
+      "simplified": "呼吸",
+      "traditional": "呼吸",
+      "pinyin": "hūxī"
+    },
+    {
+      "id": 322148,
+      "translation": {
+        "en": {
+          "short": "to decant",
+          "long": "to carefully pour a liquid from one container to another, often to separate any solid particles or to allow the liquid to breathe and develop its flavor and aroma",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk decant",
+          "long": "untuk dengan hati -hati menuangkan cairan dari satu wadah ke wadah lainnya, seringkali untuk memisahkan partikel padat atau untuk memungkinkan cairan bernafas dan mengembangkan rasa dan aromanya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322148.jpeg",
+      "simplified": "醒酒",
+      "traditional": "醒酒",
+      "pinyin": "xǐngjiǔ"
+    },
+    {
+      "id": 322152,
+      "translation": {
+        "en": {
+          "short": "lees",
+          "long": "deposits of dead yeast or other particles that settle at the bottom of a wine barrel or bottle during the fermentation and ageing process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ampas",
+          "long": "endapan ragi mati atau partikel lain yang menetap di bagian bawah tong anggur atau botol selama proses fermentasi dan penuaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322152.jpeg",
+      "simplified": "渣",
+      "traditional": "渣",
+      "pinyin": "zhā"
+    },
+    {
+      "id": 384585,
+      "translation": {
+        "en": {
+          "short": "to distill",
+          "long": "to purify and concentrate alcoholic beverages by heating and cooling to separate alcohol from other substances, enhancing its purity and potency",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyaring",
+          "long": "Untuk memurnikan dan memusatkan minuman beralkohol dengan memanaskan dan mendinginkan untuk memisahkan alkohol dari zat lain, meningkatkan kemurnian dan potensinya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384585.jpeg",
+      "simplified": "蒸馏",
+      "traditional": "蒸餾",
+      "pinyin": "zhēngliú"
+    },
+    {
+      "id": 322154,
+      "translation": {
+        "en": {
+          "short": "viticulture",
+          "long": "the science and practice of cultivating grapes for the purpose of making wine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemeliharaan anggur",
+          "long": "Ilmu dan praktik menumbuhkan anggur untuk tujuan membuat anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322154.jpeg",
+      "simplified": "葡萄栽培",
+      "traditional": "葡萄栽培",
+      "pinyin": "pútao zāipéi"
+    },
+    {
+      "id": 322155,
+      "translation": {
+        "en": {
+          "short": "winery",
+          "long": "a place where wine is made and usually stored",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kilang anggur",
+          "long": "tempat di mana anggur dibuat dan biasanya disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322155.jpeg",
+      "simplified": "酒厂",
+      "traditional": "酒廠",
+      "pinyin": "jiǔchǎng"
+    }
+  ]
+}

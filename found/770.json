@@ -1,0 +1,545 @@
+{
+  "id": 770,
+  "title": {
+    "en": "Genetic Disorders",
+    "id": "Gangguan genetik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to genetic disorders such as \"albinism\", \"hemophilia\", and \"dystrophy\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan gangguan genetik seperti \"albinisme\", \"hemofilia\", dan \"distrofi\"."
+  },
+  "cards": [
+    {
+      "id": 302343,
+      "translation": {
+        "en": {
+          "short": "Marfan syndrome",
+          "long": "a genetic disorder characterized by connective tissue abnormalities, leading to various physical manifestations including tall stature, long limbs, joint hypermobility, and cardiovascular issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Marfan",
+          "long": "Gangguan genetik yang ditandai dengan kelainan jaringan ikat, yang mengarah ke berbagai manifestasi fisik termasuk perawakan tinggi, tungkai panjang, hipermobilitas sendi, dan masalah kardiovaskular",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302343.jpeg",
+      "simplified": "马凡综合症",
+      "traditional": "馬凡綜合症",
+      "pinyin": "Mǎ fán zōnghé zhèng"
+    },
+    {
+      "id": 302345,
+      "translation": {
+        "en": {
+          "short": "neurofibromatosis",
+          "long": "a genetic disorder causing the growth of tumors on nerves throughout the body, with varying symptoms and severity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "neurofibromatosis",
+          "long": "Gangguan genetik yang menyebabkan pertumbuhan tumor pada saraf di seluruh tubuh, dengan berbagai gejala dan keparahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302345.jpeg",
+      "simplified": "神经纤维瘤病",
+      "traditional": "神經纖維瘤病",
+      "pinyin": "shénjīng xiān wéi liú bìng"
+    },
+    {
+      "id": 302348,
+      "translation": {
+        "en": {
+          "short": "Noonan syndrome",
+          "long": "genetic disorder with characteristic facial features, short stature, developmental delays, and heart defects caused by mutations affecting cell signaling proteins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Noonan",
+          "long": "Gangguan genetik dengan fitur wajah karakteristik, perawakan pendek, keterlambatan perkembangan, dan cacat jantung yang disebabkan oleh mutasi yang mempengaruhi protein pensinyalan sel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302348.jpeg",
+      "simplified": "Noonan综合征",
+      "traditional": "Noonan綜合徵",
+      "pinyin": "zōnghé zhēng"
+    },
+    {
+      "id": 302372,
+      "translation": {
+        "en": {
+          "short": "Prader–Willi syndrome",
+          "long": "a genetic disorder with symptoms like insatiable appetite, obesity, intellectual disability, and developmental delays caused by gene deletion or loss of function on chromosome 15",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Prader -Willi",
+          "long": "Gangguan genetik dengan gejala seperti nafsu makan yang tak pernah puas, obesitas, kecacatan intelektual, dan keterlambatan perkembangan yang disebabkan oleh penghapusan gen atau hilangnya fungsi pada kromosom 15",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302372.jpeg",
+      "simplified": "Prader – Willi综合征",
+      "traditional": "Prader – Willi綜合徵",
+      "pinyin": "P zōnghé zhēng"
+    },
+    {
+      "id": 302385,
+      "translation": {
+        "en": {
+          "short": "Rett syndrome",
+          "long": "a genetic disorder in girls causing developmental regression, communication impairments, and neurological issues due to MECP2 gene mutations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Rett",
+          "long": "Gangguan genetik pada anak perempuan yang menyebabkan regresi perkembangan, gangguan komunikasi, dan masalah neurologis karena mutasi gen MECP2",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302385.jpeg",
+      "simplified": "雷特综合征",
+      "traditional": "雷特綜合徵",
+      "pinyin": "Léi tè zōnghé zhēng"
+    },
+    {
+      "id": 302388,
+      "translation": {
+        "en": {
+          "short": "tay-sachs disease",
+          "long": "a rare genetic disorder characterized by the progressive deterioration of the nervous system, typically leading to early childhood death",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit Tay Sachs",
+          "long": "Gangguan genetik langka yang ditandai dengan kerusakan progresif sistem saraf, biasanya menyebabkan kematian anak usia dini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302388.jpeg",
+      "simplified": "泰萨克斯病",
+      "traditional": "泰薩克斯病",
+      "pinyin": "Tài sàkè sī bìng"
+    },
+    {
+      "id": 302390,
+      "translation": {
+        "en": {
+          "short": "thalassemia",
+          "long": "a genetic blood disorder characterized by reduced production of hemoglobin, leading to anemia, and it can range from mild to severe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Thalassemia",
+          "long": "Gangguan darah genetik yang ditandai dengan berkurangnya produksi hemoglobin, yang menyebabkan anemia, dan dapat berkisar dari ringan hingga parah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302390.jpeg",
+      "simplified": "地中海贫血",
+      "traditional": "地中海貧血",
+      "pinyin": "Dìzhōng Hǎi pín xuè"
+    },
+    {
+      "id": 302396,
+      "translation": {
+        "en": {
+          "short": "Tourette syndrome",
+          "long": "a neurological disorder characterized by repetitive, involuntary movements and vocalizations called tics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Tourette",
+          "long": "Gangguan neurologis yang ditandai dengan gerakan dan vokalisasi yang berulang -ulang dan tidak disengaja yang disebut tics",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302396.jpeg",
+      "simplified": "抽动秽语综合征",
+      "traditional": "抽動穢語綜合徵",
+      "pinyin": "chōudòng huìyǔ zōnghé zhēng"
+    },
+    {
+      "id": 302162,
+      "translation": {
+        "en": {
+          "short": "albinism",
+          "long": "a genetic condition characterized by a lack of pigmentation in the skin, hair, and eyes, resulting in a significant reduction or absence of melanin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "albinisme",
+          "long": "Kondisi genetik yang ditandai dengan kurangnya pigmentasi pada kulit, rambut, dan mata, menghasilkan reduksi yang signifikan atau tidak adanya melanin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302162.jpeg",
+      "simplified": "白化病",
+      "traditional": "白化病",
+      "pinyin": "báihuà bìng"
+    },
+    {
+      "id": 302164,
+      "translation": {
+        "en": {
+          "short": "Angelman syndrome",
+          "long": "a rare genetic disorder with developmental delays, intellectual disability, speech issues, and seizures, caused by gene mutations on chromosome 15",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Angelman",
+          "long": "Gangguan genetik langka dengan penundaan perkembangan, kecacatan intelektual, masalah bicara, dan kejang, yang disebabkan oleh mutasi gen pada kromosom 15",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302164.jpeg",
+      "simplified": "安吉尔曼综合症",
+      "traditional": "安吉爾曼綜合症",
+      "pinyin": "ānjí ěr màn zōnghé zhèng"
+    },
+    {
+      "id": 302181,
+      "translation": {
+        "en": {
+          "short": "ankylosing spondylitis",
+          "long": "a chronic inflammatory arthritis primarily affecting the spine, causing pain, stiffness, and potential fusion of the vertebrae",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spondilitis ankilosa",
+          "long": "Artritis inflamasi kronis terutama mempengaruhi tulang belakang, menyebabkan nyeri, kekakuan, dan fusi potensial vertebra",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302181.jpeg",
+      "simplified": "强直性脊柱炎",
+      "traditional": "強直性脊柱炎",
+      "pinyin": "qiángzhí xìng jǐ zhù yán"
+    },
+    {
+      "id": 302189,
+      "translation": {
+        "en": {
+          "short": "Apert syndrome",
+          "long": "a genetic disorder with craniofacial abnormalities, fused fingers or toes, and skeletal issues due to FGFR2 gene mutations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Apert",
+          "long": "Gangguan genetik dengan kelainan kraniofasial, jari atau kaki yang menyatu, dan masalah kerangka karena mutasi gen FGFR2",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302189.jpeg",
+      "simplified": "APERT综合征",
+      "traditional": "APERT綜合徵",
+      "pinyin": "A P T zōnghé zhēng"
+    },
+    {
+      "id": 302195,
+      "translation": {
+        "en": {
+          "short": "charcot-marie-tooth disease",
+          "long": "a group of inherited neurological disorders affecting the peripheral nerves, leading to muscle weakness and atrophy, particularly in the feet and hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyakit Charcot-Marie-Tooth",
+          "long": "Sekelompok gangguan neurologis yang diwariskan yang mempengaruhi saraf perifer, yang menyebabkan kelemahan otot dan atrofi, terutama di kaki dan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302195.jpeg",
+      "simplified": "腓骨肌萎缩症",
+      "traditional": "腓骨肌萎縮症",
+      "pinyin": "féigǔ jī wěisuō zhèng"
+    },
+    {
+      "id": 302214,
+      "translation": {
+        "en": {
+          "short": "congenital adrenal hyperplasia",
+          "long": "a genetic disorder causing hormonal imbalances and abnormal development of secondary sexual characteristics due to impaired cortisol production by the adrenal glands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hiperplasia adrenal kongenital",
+          "long": "Gangguan genetik yang menyebabkan ketidakseimbangan hormonal dan perkembangan karakteristik seksual sekunder yang tidak normal akibat gangguan produksi kortisol oleh kelenjar adrenal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302214.jpeg",
+      "simplified": "先天性肾上腺增生",
+      "traditional": "先天性腎上腺增生",
+      "pinyin": "xiāntiān xìng shènshàng xiàn zēngshēng"
+    },
+    {
+      "id": 302217,
+      "translation": {
+        "en": {
+          "short": "cystic fibrosis",
+          "long": "a genetic disorder causing the production of thick and sticky mucus, affecting the respiratory and digestive systems and leading to various complications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fibrosis kistik",
+          "long": "Gangguan genetik yang menyebabkan produksi lendir yang tebal dan lengket, mempengaruhi sistem pernapasan dan pencernaan dan menyebabkan berbagai komplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302217.jpeg",
+      "simplified": "囊性纤维化",
+      "traditional": "囊性纖維化",
+      "pinyin": "náng xìng xiānwéi huā"
+    },
+    {
+      "id": 302219,
+      "translation": {
+        "en": {
+          "short": "Down syndrome",
+          "long": "a genetic condition caused by the presence of an extra copy of chromosome 21, leading to intellectual disabilities, distinct facial features, and potential health issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Down",
+          "long": "Kondisi genetik yang disebabkan oleh adanya salinan tambahan kromosom 21, yang mengarah pada kecacatan intelektual, fitur wajah yang berbeda, dan potensi masalah kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302219.jpeg",
+      "simplified": "唐氏综合症",
+      "traditional": "唐氏綜合症",
+      "pinyin": "Tángshì zōng hé zhèng"
+    },
+    {
+      "id": 302252,
+      "translation": {
+        "en": {
+          "short": "Ehlers Danlos syndrome",
+          "long": "a group of connective tissue disorders causing joint hypermobility, skin that bruises easily, and other symptoms due to abnormal collagen production",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Ehlers Danlos",
+          "long": "Sekelompok gangguan jaringan ikat menyebabkan hipermobilitas sendi, kulit yang mudah memar, dan gejala lainnya karena produksi kolagen abnormal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302252.jpeg",
+      "simplified": "Ehlers Danlos综合征",
+      "traditional": "Ehlers Danlos綜合徵",
+      "pinyin": "zōnghé zhēng"
+    },
+    {
+      "id": 302280,
+      "translation": {
+        "en": {
+          "short": "Fabry disease",
+          "long": "a rare genetic disorder causing the build-up of a fatty substance in organs, leading to symptoms like pain, skin lesions, and organ damage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyakit Fabry",
+          "long": "Gangguan genetik langka yang menyebabkan penumpukan zat lemak pada organ, yang menyebabkan gejala seperti rasa sakit, lesi kulit, dan kerusakan organ",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302280.jpeg",
+      "simplified": "法布里病",
+      "traditional": "法布里病",
+      "pinyin": "fǎ bù lǐ bìng"
+    },
+    {
+      "id": 302295,
+      "translation": {
+        "en": {
+          "short": "fragile X syndrome",
+          "long": "a genetic disorder causing intellectual disability, developmental delays, and other symptoms due to a gene mutation that affects normal brain function",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom X yang rapuh",
+          "long": "Gangguan genetik yang menyebabkan kecacatan intelektual, keterlambatan perkembangan, dan gejala lainnya karena mutasi gen yang mempengaruhi fungsi otak normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302295.jpeg",
+      "simplified": "脆弱的X综合征",
+      "traditional": "脆弱的X綜合徵",
+      "pinyin": "cuìruò de zōnghé zhēng"
+    },
+    {
+      "id": 302296,
+      "translation": {
+        "en": {
+          "short": "hemophilia",
+          "long": "a mostly inherited genetic disorder in which the blood does not clot properly, leading to excessive or spontaneous bleeding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hemofilia",
+          "long": "Gangguan genetik yang sebagian besar diwariskan di mana darah tidak menggumpal dengan benar, yang menyebabkan pendarahan yang berlebihan atau spontan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302296.jpeg",
+      "simplified": "血友病",
+      "traditional": "血友病",
+      "pinyin": "xuèyǒu bìng"
+    },
+    {
+      "id": 302297,
+      "translation": {
+        "en": {
+          "short": "hemochromatosis",
+          "long": "a genetic disorder characterized by excessive absorption and accumulation of iron in the body, leading to potential organ damage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hemochromatosis",
+          "long": "Gangguan genetik yang ditandai dengan penyerapan berlebihan dan akumulasi zat besi dalam tubuh, yang menyebabkan kerusakan organ potensial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302297.jpeg",
+      "simplified": "血色素沉着症",
+      "traditional": "血色素沉著症",
+      "pinyin": "xuèsè sù chénzhuó zhèng"
+    },
+    {
+      "id": 302333,
+      "translation": {
+        "en": {
+          "short": "Klinefelter syndrome",
+          "long": "a genetic condition in males where there is an extra X chromosome, leading to developmental and hormonal differences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Klinefelter",
+          "long": "Kondisi genetik pada pria di mana ada kromosom X tambahan, yang mengarah pada perbedaan perkembangan dan hormonal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302333.jpeg",
+      "simplified": "克兰费尔特综合征",
+      "traditional": "克蘭費爾特綜合徵",
+      "pinyin": "Kè Lán Fèi ěr tè zōnghé zhēng"
+    },
+    {
+      "id": 302439,
+      "translation": {
+        "en": {
+          "short": "turner syndrome",
+          "long": "a genetic condition affecting females, where one of the X chromosomes is partially or completely missing, leading to various developmental and medical challenges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Turner",
+          "long": "Kondisi genetik yang mempengaruhi wanita, di mana salah satu kromosom X sebagian hilang atau sepenuhnya hilang, yang mengarah ke berbagai tantangan perkembangan dan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302439.jpeg",
+      "simplified": "特纳综合症",
+      "traditional": "特納綜合症",
+      "pinyin": "tè Nà zōnghé zhèng"
+    },
+    {
+      "id": 302442,
+      "translation": {
+        "en": {
+          "short": "Von Willebrand disease",
+          "long": "a bleeding disorder due to a deficiency or dysfunction of a blood clotting protein, leading to increased bleeding tendency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyakit von Willebrand",
+          "long": "Gangguan perdarahan karena kekurangan atau disfungsi protein pembekuan darah, yang menyebabkan peningkatan kecenderungan pendarahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302442.jpeg",
+      "simplified": "血管性血友病",
+      "traditional": "血管性血友病",
+      "pinyin": "xuèguǎn xìng xuèyǒu bìng"
+    },
+    {
+      "id": 302443,
+      "translation": {
+        "en": {
+          "short": "Williams syndrome",
+          "long": "a rare genetic disorder characterized by distinctive facial features, developmental delays, and a unique cognitive profile, including strong verbal abilities and sociable personality traits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom Williams",
+          "long": "Gangguan genetik langka yang ditandai dengan fitur wajah yang khas, keterlambatan perkembangan, dan profil kognitif yang unik, termasuk kemampuan verbal yang kuat dan sifat kepribadian yang ramah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302443.jpeg",
+      "simplified": "威廉姆斯综合症",
+      "traditional": "威廉姆斯綜合症",
+      "pinyin": "Wēilián mǔ Sī zōnghé zhèng"
+    },
+    {
+      "id": 302444,
+      "translation": {
+        "en": {
+          "short": "Huntington's disease",
+          "long": "a hereditary neurodegenerative disorder characterized by progressive motor dysfunction, cognitive decline, and psychiatric symptoms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyakit Huntington",
+          "long": "Gangguan neurodegeneratif herediter ditandai dengan disfungsi motorik progresif, penurunan kognitif, dan gejala kejiwaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302444.jpeg",
+      "simplified": "亨廷顿氏病",
+      "traditional": "亨廷頓氏病",
+      "pinyin": "hēng tíng dùn shì bìng"
+    },
+    {
+      "id": 307705,
+      "translation": {
+        "en": {
+          "short": "sickle-cell disease",
+          "long": "a genetic blood disorder where red blood cells assume an abnormal, crescent shape, leading to various complications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit sel sabit",
+          "long": "Gangguan darah genetik di mana sel darah merah mengasumsikan bentuk abnormal, bulan sabit, yang mengarah ke berbagai komplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307705.jpeg",
+      "simplified": "镰状细胞性贫血症",
+      "traditional": "鐮狀細胞性貧血症",
+      "pinyin": "lián zhuàng xìbāo xìng pínxuè zhèng"
+    },
+    {
+      "id": 307707,
+      "translation": {
+        "en": {
+          "short": "dystrophy",
+          "long": "a category of disorders characterized by the progressive degeneration or weakening of tissues, particularly muscles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "distrofi",
+          "long": "Kategori gangguan yang ditandai dengan degenerasi progresif atau melemahnya jaringan, terutama otot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307707.jpeg",
+      "simplified": "发育不全",
+      "traditional": "發育不全",
+      "pinyin": "fāyù bù Quán"
+    }
+  ]
+}

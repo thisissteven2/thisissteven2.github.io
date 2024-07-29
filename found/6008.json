@@ -1,0 +1,811 @@
+{
+  "id": 6008,
+  "title": {
+    "en": "Land and Water",
+    "id": "Tanah dan air"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to land and water, such as \"playa\", \"erode\", \"tributary\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan tanah dan air, seperti \"playa\", \"erode\", \"anak sungai\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 401476,
+      "translation": {
+        "en": {
+          "short": "meadow",
+          "long": "a piece of land covered in grass and sometimes wild flowers, often used for hay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padang rumput",
+          "long": "sebidang tanah yang ditutupi rumput dan terkadang bunga liar, sering digunakan untuk jerami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401476.jpeg",
+      "simplified": "草地",
+      "traditional": "草地",
+      "pinyin": "cǎodì"
+    },
+    {
+      "id": 401477,
+      "translation": {
+        "en": {
+          "short": "rainforest",
+          "long": "‌a thick, tropical forest with tall trees and consistently heavy rainfall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hutan hujan",
+          "long": "Hutan tropis yang tebal dan tebal dengan pohon -pohon tinggi dan curah hujan lebat secara konsisten",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401477.jpeg",
+      "simplified": "雨林",
+      "traditional": "雨林",
+      "pinyin": "yǔlín"
+    },
+    {
+      "id": 401478,
+      "translation": {
+        "en": {
+          "short": "playa",
+          "long": "a flat-bottomed desert basin that periodically fills with water to form a temporary lake, but remains dry for most of the year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "playa",
+          "long": "Cekungan padang pasir yang datar yang secara berkala diisi dengan air untuk membentuk danau sementara, tetapi tetap kering hampir sepanjang tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401478.jpeg",
+      "simplified": "普拉亚",
+      "traditional": "普拉亞",
+      "pinyin": "Pǔlā yà"
+    },
+    {
+      "id": 401479,
+      "translation": {
+        "en": {
+          "short": "ridge",
+          "long": "an elevated area of land that forms a crest along a hill or mountain range",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "punggung bukit",
+          "long": "Area tanah yang ditinggikan yang membentuk puncak di sepanjang bukit atau pegunungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401479.jpeg",
+      "simplified": "岭",
+      "traditional": "嶺",
+      "pinyin": "líng"
+    },
+    {
+      "id": 401480,
+      "translation": {
+        "en": {
+          "short": "pasture",
+          "long": "a field covered with grass or similar herbs suitable for animals to graze on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "padang rumput",
+          "long": "ladang yang ditutupi dengan rumput atau bumbu serupa yang cocok untuk hewan untuk digembalakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401480.jpeg",
+      "simplified": "牧场",
+      "traditional": "牧場",
+      "pinyin": "mùchǎng"
+    },
+    {
+      "id": 401481,
+      "translation": {
+        "en": {
+          "short": "foothill",
+          "long": "a low hill at the base of a mountain or mountain range",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Foothill",
+          "long": "bukit rendah di dasar gunung atau pegunungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401481.jpeg",
+      "simplified": "山麓",
+      "traditional": "山麓",
+      "pinyin": "shānlù"
+    },
+    {
+      "id": 401482,
+      "translation": {
+        "en": {
+          "short": "terrain",
+          "long": "an area of land, particularly in reference to its physical or natural features",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "medan",
+          "long": "Area tanah, terutama mengacu pada fitur fisik atau alaminya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401482.jpeg",
+      "simplified": "地形",
+      "traditional": "地形",
+      "pinyin": "dìxíng"
+    },
+    {
+      "id": 401484,
+      "translation": {
+        "en": {
+          "short": "landmark",
+          "long": "a structure or a place that is historically important",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tengara",
+          "long": "struktur atau tempat yang secara historis penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401484.jpeg",
+      "simplified": "重要历史建筑",
+      "traditional": "重要歷史建築",
+      "pinyin": "zhòngyào lìshǐ jiànzhù"
+    },
+    {
+      "id": 401488,
+      "translation": {
+        "en": {
+          "short": "crest",
+          "long": "the highest point or summit, especially of a mountain or hill, where the incline culminates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "titik atau puncak tertinggi, terutama gunung atau bukit, di mana kemiringan memuncak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401488.jpeg",
+      "simplified": "波峰",
+      "traditional": "波峰",
+      "pinyin": "bōfēng"
+    },
+    {
+      "id": 401489,
+      "translation": {
+        "en": {
+          "short": "boulder",
+          "long": "a large rock, usually one that has been shaped by natural forces such as water or ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu besar",
+          "long": "batu besar, biasanya yang telah dibentuk oleh kekuatan alami seperti air atau es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401489.jpeg",
+      "simplified": "漂砾",
+      "traditional": "漂礫",
+      "pinyin": "piāolì"
+    },
+    {
+      "id": 401490,
+      "translation": {
+        "en": {
+          "short": "landslide",
+          "long": "a sudden fall of a large mass of dirt or rock down a mountainside or cliff",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanah longsor",
+          "long": "Tiba -tiba jatuhnya sekumpulan besar tanah atau batu di lereng gunung atau tebing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401490.jpeg",
+      "simplified": "滑坡",
+      "traditional": "滑坡",
+      "pinyin": "huápō"
+    },
+    {
+      "id": 401491,
+      "translation": {
+        "en": {
+          "short": "mound",
+          "long": "a small, natural hill or raised area of earth, typically formed by natural processes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gundukan",
+          "long": "Sebuah bukit kecil, alami atau area bumi yang terangkat, biasanya dibentuk oleh proses alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401491.jpeg",
+      "simplified": "冢",
+      "traditional": "塚",
+      "pinyin": "zhǒng"
+    },
+    {
+      "id": 401492,
+      "translation": {
+        "en": {
+          "short": "overland",
+          "long": "related to travel or transport over land, especially across long distances or difficult terrain",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "melalui darat",
+          "long": "terkait dengan perjalanan atau transportasi di atas tanah, terutama di jarak jauh atau medan yang sulit",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401492.jpeg",
+      "simplified": "陆路",
+      "traditional": "陸路",
+      "pinyin": "lùlù"
+    },
+    {
+      "id": 401493,
+      "translation": {
+        "en": {
+          "short": "to erode",
+          "long": "to undergo gradual wearing away or reduction in size, typically as a result of natural forces or environmental factors",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk terkikis",
+          "long": "untuk menjalani ukuran yang dikeluarkan atau pengurangan secara bertahap, biasanya sebagai akibat dari kekuatan alami atau faktor lingkungan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401493.jpeg",
+      "simplified": "侵蚀",
+      "traditional": "侵蝕",
+      "pinyin": "qīnshí"
+    },
+    {
+      "id": 401494,
+      "translation": {
+        "en": {
+          "short": "mudflat",
+          "long": "a coastal wetland area that is covered by mud or silt at low tide and exposed at high tide",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mudflat",
+          "long": "Area lahan basah pantai yang ditutupi oleh lumpur atau lumpur saat air surut dan terpapar saat air surut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401494.jpeg",
+      "simplified": "泥滩",
+      "traditional": "泥灘",
+      "pinyin": "ní tān"
+    },
+    {
+      "id": 401495,
+      "translation": {
+        "en": {
+          "short": "berm",
+          "long": "a flat strip or ledge of land, located along the side of a road, typically used for drainage or as a barrier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanggul",
+          "long": "strip datar atau langkan tanah, terletak di sepanjang sisi jalan, biasanya digunakan untuk drainase atau sebagai penghalang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401495.jpeg",
+      "simplified": "护堤",
+      "traditional": "護堤",
+      "pinyin": "hù dī"
+    },
+    {
+      "id": 401496,
+      "translation": {
+        "en": {
+          "short": "bluff",
+          "long": "a high, steep cliff or bank overlooking a body of water, often formed by erosion or geological processes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggertak",
+          "long": "Tebing atau bank yang tinggi dan curam yang menghadap ke badan air, sering dibentuk oleh erosi atau proses geologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401496.jpeg",
+      "simplified": "虚张声势",
+      "traditional": "虛張聲勢",
+      "pinyin": "xūzhāng shēng shì"
+    },
+    {
+      "id": 401497,
+      "translation": {
+        "en": {
+          "short": "gorge",
+          "long": "a deep narrow valley, typically with a stream running through it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jurang",
+          "long": "lembah sempit yang dalam, biasanya dengan aliran mengalir melaluinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401497.jpeg",
+      "simplified": "峡谷",
+      "traditional": "峽谷",
+      "pinyin": "xiágǔ"
+    },
+    {
+      "id": 401498,
+      "translation": {
+        "en": {
+          "short": "tundra",
+          "long": "the expansive flat Arctic regions, of North America, Asia, and Europe, in which no trees grow and the soil is always frozen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tundra",
+          "long": "Daerah Arktik Datar yang luas, dari Amerika Utara, Asia, dan Eropa, di mana tidak ada pohon yang tumbuh dan tanah selalu beku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401498.jpeg",
+      "simplified": "苔原",
+      "traditional": "苔原",
+      "pinyin": "táiyuán"
+    },
+    {
+      "id": 401499,
+      "translation": {
+        "en": {
+          "short": "tract",
+          "long": "a large area of land, often defined by boundaries, used for specific purposes such as development, agriculture, or conservation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem",
+          "long": "Area tanah yang luas, sering ditentukan oleh batas, digunakan untuk tujuan tertentu seperti pembangunan, pertanian, atau konservasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401499.jpeg",
+      "simplified": "管道",
+      "traditional": "管道",
+      "pinyin": "guǎndào"
+    },
+    {
+      "id": 401500,
+      "translation": {
+        "en": {
+          "short": "rapid",
+          "long": "a fast and turbulent part of a river with swift currents and obstacles like rocks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cepat",
+          "long": "Bagian sungai yang cepat dan bergejolak dengan arus cepat dan rintangan seperti batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401500.jpeg",
+      "simplified": "激流",
+      "traditional": "激流",
+      "pinyin": "jīliú"
+    },
+    {
+      "id": 401501,
+      "translation": {
+        "en": {
+          "short": "creek",
+          "long": "a narrow, shallow watercourse, often flowing through a confined natural channel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sungai kecil",
+          "long": "Air aliran air yang sempit dan dangkal, sering mengalir melalui saluran alami yang terbatas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401501.jpeg",
+      "simplified": "溪",
+      "traditional": "溪",
+      "pinyin": "xī"
+    },
+    {
+      "id": 401502,
+      "translation": {
+        "en": {
+          "short": "tributary",
+          "long": "a watercourse that flows into a larger river or body of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak sungai",
+          "long": "aliran air yang mengalir ke sungai atau badan air yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401502.jpeg",
+      "simplified": "支流河",
+      "traditional": "支流河",
+      "pinyin": "zhīliú hé"
+    },
+    {
+      "id": 401503,
+      "translation": {
+        "en": {
+          "short": "puddle",
+          "long": "a small pool of water or other liquid, particularly rainwater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genangan air",
+          "long": "sekumpulan air kecil atau cairan lainnya, terutama air hujan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401503.jpeg",
+      "simplified": "水坑",
+      "traditional": "水坑",
+      "pinyin": "shuǐkēng"
+    },
+    {
+      "id": 401504,
+      "translation": {
+        "en": {
+          "short": "eddy",
+          "long": "a circular current of water or air that moves against the main flow, creating a small whirlpool or whirl",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Eddy",
+          "long": "Arus melingkar air atau udara yang bergerak melawan aliran utama, menciptakan pusaran air kecil atau pusaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401504.jpeg",
+      "simplified": "涡流",
+      "traditional": "渦流",
+      "pinyin": "guō liú"
+    },
+    {
+      "id": 401505,
+      "translation": {
+        "en": {
+          "short": "current",
+          "long": "flow or movement of water or air in a specific direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saat ini",
+          "long": "aliran atau pergerakan air atau udara ke arah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401505.jpeg",
+      "simplified": "潮流",
+      "traditional": "潮流",
+      "pinyin": "cháoliú"
+    },
+    {
+      "id": 401506,
+      "translation": {
+        "en": {
+          "short": "brook",
+          "long": "a small, natural watercourse or stream; typically characterized by a gentle and continuous flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak sungai",
+          "long": "aliran air atau aliran kecil alami; biasanya ditandai dengan aliran yang lembut dan kontinu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401506.jpeg",
+      "simplified": "溪",
+      "traditional": "溪",
+      "pinyin": "xī"
+    },
+    {
+      "id": 401507,
+      "translation": {
+        "en": {
+          "short": "ripple",
+          "long": "a slight wave or series of waves on the water's surface caused by a breeze or a disturbance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "riak",
+          "long": "gelombang atau serangkaian gelombang di permukaan air yang disebabkan oleh angin atau gangguan yang disebabkan oleh angin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401507.jpeg",
+      "simplified": "波纹",
+      "traditional": "波紋",
+      "pinyin": "bōwén"
+    },
+    {
+      "id": 401508,
+      "translation": {
+        "en": {
+          "short": "trickle",
+          "long": "a small, slow flow of liquid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berhamburan",
+          "long": "Aliran cairan yang kecil dan lambat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401508.jpeg",
+      "simplified": "潺",
+      "traditional": "潺",
+      "pinyin": "chán"
+    },
+    {
+      "id": 401509,
+      "translation": {
+        "en": {
+          "short": "inlet",
+          "long": "a narrow body of water between islands or leading inland from a larger body of water, often serving as a passageway or channel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masuk",
+          "long": "badan air yang sempit di antara pulau -pulau atau memimpin pedalaman dari badan air yang lebih besar, sering berfungsi sebagai lorong atau saluran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401509.jpeg",
+      "simplified": "进口",
+      "traditional": "進口",
+      "pinyin": "jìnkǒu"
+    },
+    {
+      "id": 401511,
+      "translation": {
+        "en": {
+          "short": "bank",
+          "long": "land along the sides of a river, canal, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bank",
+          "long": "Mendarat di sepanjang sisi sungai, kanal, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401511.jpeg",
+      "simplified": "岸",
+      "traditional": "岸",
+      "pinyin": "àn"
+    },
+    {
+      "id": 401513,
+      "translation": {
+        "en": {
+          "short": "swash",
+          "long": "the gentle, rhythmic movement and sound of water as it washes up onto the shore or against objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berdebur",
+          "long": "Gerakan yang lembut dan berirama dan suara air saat menyapu ke pantai atau melawan benda -benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401513.jpeg",
+      "simplified": "吓唬",
+      "traditional": "嚇唬",
+      "pinyin": "xiàhu"
+    },
+    {
+      "id": 401514,
+      "translation": {
+        "en": {
+          "short": "runoff",
+          "long": "the excess liquid, typically water, that exceeds the capacity of an area to contain or absorb it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limpasan",
+          "long": "cairan berlebih, biasanya air, yang melebihi kapasitas suatu daerah untuk menampung atau menyerapnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401514.jpeg",
+      "simplified": "径流",
+      "traditional": "徑流",
+      "pinyin": "jìngliú"
+    },
+    {
+      "id": 401515,
+      "translation": {
+        "en": {
+          "short": "lagoon",
+          "long": "a shallow body of water separated from a larger body of water, often by a barrier island, coral reef, or sandbar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Laguna",
+          "long": "Air air dangkal yang dipisahkan dari badan air yang lebih besar, sering kali oleh pulau penghalang, terumbu karang, atau sandbar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401515.jpeg",
+      "simplified": "泻湖",
+      "traditional": "潟湖",
+      "pinyin": "xièhú"
+    },
+    {
+      "id": 401516,
+      "translation": {
+        "en": {
+          "short": "swamp",
+          "long": "an area of land that is covered with water or is always very wet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawa",
+          "long": "Area lahan yang ditutupi dengan air atau selalu sangat basah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401516.jpeg",
+      "simplified": "沼泽",
+      "traditional": "沼澤",
+      "pinyin": "zhǎozé"
+    },
+    {
+      "id": 401518,
+      "translation": {
+        "en": {
+          "short": "estuary",
+          "long": "the part of a river that is wide and where it meets the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "muara",
+          "long": "bagian dari sungai yang luas dan di mana ia bertemu laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401518.jpeg",
+      "simplified": "河口",
+      "traditional": "河口",
+      "pinyin": "hékǒu"
+    },
+    {
+      "id": 401519,
+      "translation": {
+        "en": {
+          "short": "gully",
+          "long": "a narrow channel or ravine formed by the erosion of soil, especially by running water during rainfall or storms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selokan",
+          "long": "Saluran atau jurang sempit yang dibentuk oleh erosi tanah, terutama dengan air mengalir selama curah hujan atau badai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401519.jpeg",
+      "simplified": "壑",
+      "traditional": "壑",
+      "pinyin": "hè"
+    },
+    {
+      "id": 401520,
+      "translation": {
+        "en": {
+          "short": "slough",
+          "long": "a stagnant or slow-moving channel or inlet, often connected to a larger body of water, such as a marsh, swamp, or backwater",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawa",
+          "long": "Saluran atau saluran masuk yang stagnan atau bergerak lambat, sering dihubungkan ke badan air yang lebih besar, seperti rawa, rawa, atau daerah belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401520.jpeg",
+      "simplified": "泥沼",
+      "traditional": "泥沼",
+      "pinyin": "nízhǎo"
+    },
+    {
+      "id": 401521,
+      "translation": {
+        "en": {
+          "short": "splatter",
+          "long": "the scattered droplets or particles of water or liquid that result from something being struck or dispersed forcefully",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memerciki",
+          "long": "tetesan atau partikel air yang tersebar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401521.jpeg",
+      "simplified": "飞溅",
+      "traditional": "飛濺",
+      "pinyin": "fēijiàn"
+    },
+    {
+      "id": 401522,
+      "translation": {
+        "en": {
+          "short": "fjord",
+          "long": "a steep, deep, and narrow sea inlet surrounded by tall cliffs, created by a glacier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fjord",
+          "long": "Tepung yang curam, dalam, dan sempit dikelilingi oleh tebing tinggi, diciptakan oleh gletser",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401522.jpeg",
+      "simplified": "峡湾",
+      "traditional": "峽灣",
+      "pinyin": "xiáwān"
+    },
+    {
+      "id": 401523,
+      "translation": {
+        "en": {
+          "short": "tsunami",
+          "long": "a very high wave or series of waves caused by an undersea earthquake or volcanic eruption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tsunami",
+          "long": "Gelombang yang sangat tinggi atau serangkaian gelombang yang disebabkan oleh gempa bumi bawah laut atau letusan gunung berapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401523.jpeg",
+      "simplified": "海啸",
+      "traditional": "海嘯",
+      "pinyin": "hǎixiào"
+    },
+    {
+      "id": 401524,
+      "translation": {
+        "en": {
+          "short": "cascade",
+          "long": "a small steep waterfall, usually one of several others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "riam",
+          "long": "Air terjun kecil yang curam, biasanya satu dari beberapa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401524.jpeg",
+      "simplified": "级联",
+      "traditional": "級聯",
+      "pinyin": "jílián"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "id": 3970,
+  "title": {
+    "en": "Lighting Techniques and Special Effects",
+    "id": "Teknik pencahayaan dan efek khusus"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to lighting techniques and special effects such as \"mood lighting\", \"matte painting\", and \"CGI\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan teknik pencahayaan dan efek khusus seperti \"pencahayaan suasana hati\", \"lukisan matte\", dan \"cgi\"."
+  },
+  "cards": [
+    {
+      "id": 343431,
+      "translation": {
+        "en": {
+          "short": "background lighting",
+          "long": "the lighting setup used to illuminate the background of a scene or shot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan latar belakang",
+          "long": "Pengaturan pencahayaan digunakan untuk menerangi latar belakang pemandangan atau bidikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343431.jpeg",
+      "simplified": "背景照明",
+      "traditional": "背景照明",
+      "pinyin": "bèijǐng zhàomíng"
+    },
+    {
+      "id": 343432,
+      "translation": {
+        "en": {
+          "short": "cameo lighting",
+          "long": "a type of lighting used in filmmaking, where the light is directed towards a specific subject or object to create a spotlight effect, while the surrounding area is kept in darkness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan cameo",
+          "long": "Jenis pencahayaan yang digunakan dalam pembuatan film, di mana cahaya diarahkan ke subjek atau objek tertentu untuk menciptakan efek sorotan, sedangkan area sekitarnya disimpan dalam kegelapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343432.jpeg",
+      "simplified": "客串照明",
+      "traditional": "客串照明",
+      "pinyin": "kèchuàn zhàomíng"
+    },
+    {
+      "id": 343433,
+      "translation": {
+        "en": {
+          "short": "fill light",
+          "long": "a supplementary light used in photography, videography, and filmmaking to reduce shadows or fill in areas that are poorly lit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Isi lampu",
+          "long": "Lampu tambahan yang digunakan dalam fotografi, videografi, dan pembuatan film untuk mengurangi bayangan atau mengisi area yang menyala buruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343433.jpeg",
+      "simplified": "补光灯",
+      "traditional": "補光燈",
+      "pinyin": "bǔ guāng dēng"
+    },
+    {
+      "id": 343434,
+      "translation": {
+        "en": {
+          "short": "flood lighting",
+          "long": "a lighting technique that involves using a broad, flat light source to illuminate a large area evenly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan banjir",
+          "long": "Teknik pencahayaan yang melibatkan penggunaan sumber cahaya datar yang luas untuk menerangi area yang luas secara merata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343434.jpeg",
+      "simplified": "洪水照明",
+      "traditional": "洪水照明",
+      "pinyin": "hóngshuǐ zhàomíng"
+    },
+    {
+      "id": 343435,
+      "translation": {
+        "en": {
+          "short": "high-key lighting",
+          "long": "a lighting style that uses a lot of light to create a bright, low-contrast image, often used in comedies and musicals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencahayaan tinggi",
+          "long": "Gaya pencahayaan yang menggunakan banyak cahaya untuk menciptakan gambar yang cerah dan kontras rendah, sering digunakan dalam komedi dan musikal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343435.jpeg",
+      "simplified": "高调照明",
+      "traditional": "高調照明",
+      "pinyin": "gāodiào zhàomíng"
+    },
+    {
+      "id": 343436,
+      "translation": {
+        "en": {
+          "short": "key lighting",
+          "long": "the main source of light used to illuminate the subject of a shot or scene in film or photography",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan kunci",
+          "long": "Sumber utama cahaya yang digunakan untuk menerangi subjek bidikan atau adegan dalam film atau fotografi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343436.jpeg",
+      "simplified": "钥匙照明",
+      "traditional": "鑰匙照明",
+      "pinyin": "yàoshi zhàomíng"
+    },
+    {
+      "id": 343437,
+      "translation": {
+        "en": {
+          "short": "lens flare",
+          "long": "a visual phenomenon that occurs when light enters the lens and produces scattered reflections within the lens system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lensa suar",
+          "long": "Fenomena visual yang terjadi ketika cahaya memasuki lensa dan menghasilkan pantulan yang tersebar dalam sistem lensa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343437.jpeg",
+      "simplified": "镜头光晕",
+      "traditional": "鏡頭光暈",
+      "pinyin": "jìngtóu guāngyùn"
+    },
+    {
+      "id": 343438,
+      "translation": {
+        "en": {
+          "short": "low-key lighting",
+          "long": "a lighting technique that uses dark shadows and limited lighting to create a dramatic and moody atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan rendah",
+          "long": "Teknik pencahayaan yang menggunakan bayangan gelap dan pencahayaan terbatas untuk menciptakan suasana yang dramatis dan murung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343438.jpeg",
+      "simplified": "低调照明",
+      "traditional": "低調照明",
+      "pinyin": "dīdiào zhàomíng"
+    },
+    {
+      "id": 343439,
+      "translation": {
+        "en": {
+          "short": "mood lighting",
+          "long": "the use of lighting in a scene to create a particular emotional or psychological atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan suasana hati",
+          "long": "Penggunaan pencahayaan dalam adegan untuk menciptakan suasana emosional atau psikologis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343439.jpeg",
+      "simplified": "心情照明",
+      "traditional": "心情照明",
+      "pinyin": "xīnqíng zhàomíng"
+    },
+    {
+      "id": 343440,
+      "translation": {
+        "en": {
+          "short": "Rembrandt lighting",
+          "long": "a lighting technique where one side of the subject's face is in the light, while the other is in shadow, creating a triangular shape under the eye of the lit side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pencahayaan Rembrandt",
+          "long": "Teknik pencahayaan di mana satu sisi wajah subjek berada di cahaya, sementara yang lain dalam bayangan, menciptakan bentuk segitiga di bawah mata sisi yang menyala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343440.jpeg",
+      "simplified": "伦勃朗照明",
+      "traditional": "倫勃朗照明",
+      "pinyin": "lún bó lǎngzhào Míng"
+    },
+    {
+      "id": 343441,
+      "translation": {
+        "en": {
+          "short": "stage lighting",
+          "long": "the illumination of performers and the stage during a live performance, such as a theater, dance, or music production",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencahayaan panggung",
+          "long": "Penerangan para pemain dan panggung selama pertunjukan live, seperti teater, tarian, atau produksi musik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343441.jpeg",
+      "simplified": "舞台照明",
+      "traditional": "舞台照明",
+      "pinyin": "wǔtái zhàomíng"
+    },
+    {
+      "id": 343442,
+      "translation": {
+        "en": {
+          "short": "soft light",
+          "long": "a type of lighting that creates subtle and diffused shadows, making the subject appear softer and more natural",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cahaya lembut",
+          "long": "Jenis pencahayaan yang menciptakan bayangan yang halus dan tersebar, membuat subjek tampak lebih lembut dan lebih alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343442.jpeg",
+      "simplified": "柔光",
+      "traditional": "柔光",
+      "pinyin": "róu guāng"
+    },
+    {
+      "id": 343443,
+      "translation": {
+        "en": {
+          "short": "hard light",
+          "long": "a type of lighting that creates strong, sharp shadows and highlights, and is often used to create a dramatic effect in a scene",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cahaya keras",
+          "long": "Jenis pencahayaan yang menciptakan bayangan dan sorotan yang kuat dan tajam, dan sering digunakan untuk menciptakan efek dramatis dalam sebuah adegan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343443.jpeg",
+      "simplified": "硬灯",
+      "traditional": "硬燈",
+      "pinyin": "yìng dēng"
+    },
+    {
+      "id": 343444,
+      "translation": {
+        "en": {
+          "short": "air bladder effect",
+          "long": "a practical special effect technique used to simulate a character or object swelling up by inflating a concealed bladder with air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Efek kandung kemih udara",
+          "long": "Teknik efek khusus praktis yang digunakan untuk mensimulasikan karakter atau objek yang membengkak dengan menggembungkan kandung kemih yang tersembunyi dengan udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343444.jpeg",
+      "simplified": "气膀胱效应",
+      "traditional": "氣膀胱效應",
+      "pinyin": "qì pángguāng xiàoyìng"
+    },
+    {
+      "id": 343445,
+      "translation": {
+        "en": {
+          "short": "bullet hit squib",
+          "long": "a small explosive device that is attached to an actor's body and used to simulate the impact of a bullet in a scene",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bullet Hit Squib",
+          "long": "Perangkat peledak kecil yang melekat pada tubuh aktor dan digunakan untuk mensimulasikan dampak peluru dalam sebuah adegan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343445.jpeg",
+      "simplified": "子弹击中柱子",
+      "traditional": "子彈擊中柱子",
+      "pinyin": "zǐdàn jīzhòng zhùzi"
+    },
+    {
+      "id": 343446,
+      "translation": {
+        "en": {
+          "short": "matte painting",
+          "long": "a technique used in film and video production to create the illusion of a landscape or setting that would otherwise be too expensive, impractical, or impossible to build or film",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan matte",
+          "long": "Teknik yang digunakan dalam produksi film dan video untuk membuat ilusi lanskap atau pengaturan yang sebaliknya akan terlalu mahal, tidak praktis, atau tidak mungkin untuk dibangun atau film",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343446.jpeg",
+      "simplified": "磨砂画",
+      "traditional": "磨砂畫",
+      "pinyin": "móshā huà"
+    },
+    {
+      "id": 343447,
+      "translation": {
+        "en": {
+          "short": "bipack",
+          "long": "a filmmaking technique that involves exposing two rolls of film simultaneously",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bipack",
+          "long": "Teknik pembuatan film yang melibatkan memperlihatkan dua gulungan film secara bersamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343447.jpeg",
+      "simplified": "双党",
+      "traditional": "雙黨",
+      "pinyin": "Shuāng Dǎng"
+    },
+    {
+      "id": 343448,
+      "translation": {
+        "en": {
+          "short": "bullet time",
+          "long": "a visual effect that uses multiple cameras to create a slowed-down or frozen-in-time effect, often used in action scenes in movies and TV shows",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saat-saat penting, waktu tertentu",
+          "long": "Efek visual yang menggunakan beberapa kamera untuk membuat efek waktu yang melambat atau beku, sering digunakan dalam adegan aksi di film dan acara TV",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343448.jpeg",
+      "simplified": "子弹时间",
+      "traditional": "子彈時間",
+      "pinyin": "zǐdàn shíjiān"
+    },
+    {
+      "id": 343449,
+      "translation": {
+        "en": {
+          "short": "dolly zoom",
+          "long": "a camera technique that involves moving the camera towards or away from a subject while simultaneously adjusting the zoom, resulting in a distorted perspective.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dolly Zoom",
+          "long": "Teknik kamera yang melibatkan menggerakkan kamera ke arah atau menjauh dari subjek sambil secara bersamaan menyesuaikan zoom, menghasilkan perspektif yang terdistorsi.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343449.jpeg",
+      "simplified": "多莉Zoom",
+      "traditional": "多莉Zoom",
+      "pinyin": "duō lì"
+    },
+    {
+      "id": 343450,
+      "translation": {
+        "en": {
+          "short": "forced perspective",
+          "long": "a technique used in filmmaking to create an optical illusion that makes objects appear larger, smaller, closer, or farther away than they actually are",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perspektif paksa",
+          "long": "Teknik yang digunakan dalam pembuatan film untuk membuat ilusi optik yang membuat objek tampak lebih besar, lebih kecil, lebih dekat, atau lebih jauh dari yang sebenarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343450.jpeg",
+      "simplified": "强迫观点",
+      "traditional": "強迫觀點",
+      "pinyin": "qiǎngpò guāndiǎn"
+    },
+    {
+      "id": 343451,
+      "translation": {
+        "en": {
+          "short": "front projection effect",
+          "long": "a visual effect used in film and television to create the illusion of a background or environment behind the actors using a front projection screen and a projector",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Efek proyeksi depan",
+          "long": "Efek visual yang digunakan dalam film dan televisi untuk membuat ilusi latar belakang atau lingkungan di belakang para aktor menggunakan layar proyeksi depan dan proyektor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343451.jpeg",
+      "simplified": "前投影效果",
+      "traditional": "前投影效果",
+      "pinyin": "qián tóuyǐng xiàoguǒ"
+    },
+    {
+      "id": 343452,
+      "translation": {
+        "en": {
+          "short": "multiple exposure",
+          "long": "a photography and filmmaking technique where multiple images are exposed onto a single frame of film or image sensor to create a composite image",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paparan berganda",
+          "long": "Teknik fotografi dan pembuatan film di mana banyak gambar terpapar pada satu bingkai film atau sensor gambar untuk membuat gambar komposit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343452.jpeg",
+      "simplified": "多重曝光",
+      "traditional": "多重曝光",
+      "pinyin": "duōchóng bàoguāng"
+    },
+    {
+      "id": 343453,
+      "translation": {
+        "en": {
+          "short": "rear projection",
+          "long": "a filmmaking technique that involves projecting a pre-recorded background image onto a screen behind actors, allowing them to appear as though they are in a different location",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "proyeksi belakang",
+          "long": "Teknik pembuatan film yang melibatkan memproyeksikan gambar latar belakang yang sudah direkam ke layar di belakang aktor, memungkinkan mereka untuk muncul seolah-olah mereka berada di lokasi yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343453.jpeg",
+      "simplified": "后投影",
+      "traditional": "後投影",
+      "pinyin": "Hòu tóuyǐng"
+    },
+    {
+      "id": 343454,
+      "translation": {
+        "en": {
+          "short": "reverse motion",
+          "long": "a technique in filmmaking where the action is filmed in reverse, and then played back in the normal direction in the final film, creating an illusion of backward movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mosi terbalik",
+          "long": "Teknik dalam pembuatan film di mana aksi difilmkan secara terbalik, dan kemudian diputar kembali ke arah normal dalam film terakhir, menciptakan ilusi gerakan mundur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343454.jpeg",
+      "simplified": "反向运动",
+      "traditional": "反向運動",
+      "pinyin": "fǎnxiàng yùndòng"
+    },
+    {
+      "id": 343455,
+      "translation": {
+        "en": {
+          "short": "slit-scan photography",
+          "long": "an optical process that creates visual effects by exposing the camera to a moving subject through a slit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fotografi pemindaian celah",
+          "long": "Proses optik yang menciptakan efek visual dengan mengekspos kamera ke subjek yang bergerak melalui celah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343455.jpeg",
+      "simplified": "裂缝摄影",
+      "traditional": "裂縫攝影",
+      "pinyin": "lièfèng shèyǐng"
+    },
+    {
+      "id": 343456,
+      "translation": {
+        "en": {
+          "short": "slow motion",
+          "long": "a technique used in film and video production to capture and display movement at a slower rate than normal, creating a surreal or dramatic effect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerak lambat",
+          "long": "Teknik yang digunakan dalam produksi film dan video untuk menangkap dan menampilkan pergerakan pada tingkat yang lebih lambat dari biasanya, menciptakan efek nyata atau dramatis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343456.jpeg",
+      "simplified": "慢动作",
+      "traditional": "慢動作",
+      "pinyin": "màndòng zuò"
+    },
+    {
+      "id": 343457,
+      "translation": {
+        "en": {
+          "short": "chroma-key",
+          "long": "a technique in visual effects where a specific color is removed from a shot and replaced with another image or video",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chroma-key",
+          "long": "Teknik dalam efek visual di mana warna tertentu dihapus dari bidikan dan diganti dengan gambar atau video lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343457.jpeg",
+      "simplified": "色度键",
+      "traditional": "色度鍵",
+      "pinyin": "sèdù jiàn"
+    },
+    {
+      "id": 343459,
+      "translation": {
+        "en": {
+          "short": "introvision",
+          "long": "a visual effects process that combines live-action and miniature footage through a specially designed mirror system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "introvision",
+          "long": "Proses efek visual yang menggabungkan rekaman aksi hidup dan miniatur melalui sistem cermin yang dirancang khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343459.jpeg",
+      "simplified": "侵入",
+      "traditional": "侵入",
+      "pinyin": "qīnrù"
+    },
+    {
+      "id": 343460,
+      "translation": {
+        "en": {
+          "short": "match moving",
+          "long": "a visual effects technique used to track and match the movement of real-life camera shots with computer-generated elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cocok dengan bergerak",
+          "long": "Teknik efek visual yang digunakan untuk melacak dan mencocokkan pergerakan bidikan kamera kehidupan nyata dengan elemen yang dihasilkan komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343460.jpeg",
+      "simplified": "匹配移动",
+      "traditional": "匹配移動",
+      "pinyin": "pǐpèi yídòng"
+    },
+    {
+      "id": 343461,
+      "translation": {
+        "en": {
+          "short": "tilt-shift photography",
+          "long": "a technique that simulates a miniature scene by selectively blurring parts of a photo while keeping other parts in sharp focus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fotografi tilt-shift",
+          "long": "Teknik yang mensimulasikan adegan miniatur dengan mengoceh secara selektif bagian foto sambil menjaga bagian lain dalam fokus yang tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343461.jpeg",
+      "simplified": "倾斜射击摄影",
+      "traditional": "傾斜射擊攝影",
+      "pinyin": "qīngxié shèjī shèyǐng"
+    },
+    {
+      "id": 343462,
+      "translation": {
+        "en": {
+          "short": "split screen",
+          "long": "a technique used in filmmaking to show two or more scenes simultaneously on the screen, often in a side-by-side or top-bottom configuration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layar terpisah",
+          "long": "Teknik yang digunakan dalam pembuatan film untuk menampilkan dua atau lebih adegan secara bersamaan di layar, seringkali dalam konfigurasi berdampingan atau top-bottom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343462.jpeg",
+      "simplified": "分屏",
+      "traditional": "分割畫面",
+      "pinyin": "fēn bīng"
+    },
+    {
+      "id": 343463,
+      "translation": {
+        "en": {
+          "short": "visual effects",
+          "long": "the digital effects added to films or videos to enhance or create visual elements that are impossible or too expensive to achieve in real life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek visual",
+          "long": "Efek digital ditambahkan ke film atau video untuk meningkatkan atau membuat elemen visual yang tidak mungkin atau terlalu mahal untuk dicapai dalam kehidupan nyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343463.jpeg",
+      "simplified": "视觉效果",
+      "traditional": "視覺效果",
+      "pinyin": "shìjué xiàoguǒ"
+    },
+    {
+      "id": 343464,
+      "translation": {
+        "en": {
+          "short": "sound effect",
+          "long": "an artificial sound created and used in a motion picture, play, video game, etc. to make it more realistic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek suara",
+          "long": "Suara buatan yang dibuat dan digunakan dalam film, permainan, video game, dll. Untuk membuatnya lebih realistis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343464.jpeg",
+      "simplified": "音效",
+      "traditional": "音效",
+      "pinyin": "yīnxiào"
+    },
+    {
+      "id": 385054,
+      "translation": {
+        "en": {
+          "short": "computer-generated imagery",
+          "long": "the use of computer software to create special visual effects in a movie, commercial, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "citra yang dihasilkan komputer",
+          "long": "Penggunaan perangkat lunak komputer untuk membuat efek visual khusus dalam film, komersial, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385054.jpeg",
+      "simplified": "计算机生成的图像",
+      "traditional": "計算機生成的圖像",
+      "pinyin": "jìsuàn jī shēngchéng de túxiàng"
+    },
+    {
+      "id": 343465,
+      "translation": {
+        "en": {
+          "short": "miniaturization",
+          "long": "a filming technique that makes full-sized objects appear smaller than they actually are by using scale models",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "miniaturisasi",
+          "long": "Teknik pembuatan film yang membuat objek berukuran penuh tampak lebih kecil dari yang sebenarnya dengan menggunakan model skala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343465.jpeg",
+      "simplified": "微型化",
+      "traditional": "微型化",
+      "pinyin": "wēixíng huā"
+    }
+  ]
+}

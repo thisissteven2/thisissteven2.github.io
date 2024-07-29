@@ -1,0 +1,621 @@
+{
+  "id": 126,
+  "title": {
+    "en": "Restaurants and Food",
+    "id": "Restoran dan makanan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about restaurants and food, such as \"menu\", \"order\", and \"fast food\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang restoran dan makanan, seperti \"menu\", \"pesanan\", dan \"makanan cepat saji\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 221958,
+      "translation": {
+        "en": {
+          "short": "menu",
+          "long": "a list of the different food available for a meal in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menu",
+          "long": "daftar makanan berbeda yang tersedia untuk makan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221958.jpeg",
+      "simplified": "菜单",
+      "traditional": "菜單",
+      "pinyin": "càidān"
+    },
+    {
+      "id": 217948,
+      "translation": {
+        "en": {
+          "short": "order",
+          "long": "a request for a specific item or service to be provided",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memesan",
+          "long": "Permintaan barang atau layanan tertentu yang akan disediakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/217948.jpeg",
+      "simplified": "命令",
+      "traditional": "命令",
+      "pinyin": "mìnglìng"
+    },
+    {
+      "id": 211950,
+      "translation": {
+        "en": {
+          "short": "pasta",
+          "long": "a dish that we can make by mixing cooked pasta with other ingredients and sauces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Semacam spageti",
+          "long": "Hidangan yang bisa kita buat dengan mencampur pasta yang dimasak dengan bahan dan saus lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211950.jpeg",
+      "simplified": "意大利面",
+      "traditional": "義大利麵",
+      "pinyin": "Yìdà lì miàn"
+    },
+    {
+      "id": 211967,
+      "translation": {
+        "en": {
+          "short": "fast food",
+          "long": "food that is quickly prepared and served, such as hamburgers, pizzas, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan cepat saji",
+          "long": "Makanan yang dengan cepat disiapkan dan disajikan, seperti hamburger, pizza, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211967.jpeg",
+      "simplified": "快餐",
+      "traditional": "速食",
+      "pinyin": "kuàicān"
+    },
+    {
+      "id": 211942,
+      "translation": {
+        "en": {
+          "short": "hamburger",
+          "long": "a sandwich consisting of a cooked patty made from ground beef, served between two buns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "roti isi daging",
+          "long": "Sandwich yang terdiri dari patty yang dimasak yang terbuat dari daging sapi, disajikan di antara dua roti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211942.jpeg",
+      "simplified": "汉堡包",
+      "traditional": "漢堡",
+      "pinyin": "hànbǎo bāo"
+    },
+    {
+      "id": 211943,
+      "translation": {
+        "en": {
+          "short": "hot dog",
+          "long": "a sausage served hot in a long soft piece of bread",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hot Dog",
+          "long": "Sosis disajikan panas dalam sepotong roti yang lembut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211943.jpeg",
+      "simplified": "热狗",
+      "traditional": "熱狗",
+      "pinyin": "règǒu"
+    },
+    {
+      "id": 211957,
+      "translation": {
+        "en": {
+          "short": "sausage",
+          "long": "‌a mixture of meat, bread, etc. cut into small pieces and put into a long tube of skin, typically sold raw to be cooked before eating",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sosis",
+          "long": "Campuran daging, roti, dll. Potong kecil dan masukkan ke dalam tabung kulit yang panjang, biasanya dijual mentah untuk dimasak sebelum dimakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211957.jpeg",
+      "simplified": "香肠",
+      "traditional": "香腸",
+      "pinyin": "xiāngcháng"
+    },
+    {
+      "id": 211951,
+      "translation": {
+        "en": {
+          "short": "pea",
+          "long": "a green seed, eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "biji hijau, dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211951.jpeg",
+      "simplified": "豌豆",
+      "traditional": "豌豆",
+      "pinyin": "wāndòu"
+    },
+    {
+      "id": 211932,
+      "translation": {
+        "en": {
+          "short": "bean",
+          "long": "a seed growing in long pods on a climbing plant, eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "Benih yang tumbuh di polong panjang di tanaman pendakian, dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211932.jpeg",
+      "simplified": "豆",
+      "traditional": "豆",
+      "pinyin": "dòu"
+    },
+    {
+      "id": 211947,
+      "translation": {
+        "en": {
+          "short": "mushroom",
+          "long": "any fungus with a short stem and a round top that we can eat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jamur",
+          "long": "jamur apa pun dengan batang pendek dan bagian atas yang bisa kita makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211947.jpeg",
+      "simplified": "蘑菇",
+      "traditional": "蘑菇",
+      "pinyin": "mógu"
+    },
+    {
+      "id": 220948,
+      "translation": {
+        "en": {
+          "short": "noodle",
+          "long": "a type of thin, long food made with flour and egg, eaten in a soup or with sauce",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mi",
+          "long": "Jenis makanan tipis dan panjang yang dibuat dengan tepung dan telur, dimakan dalam sup atau saus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220948.jpeg",
+      "simplified": "面条",
+      "traditional": "麵條",
+      "pinyin": "miàntiáo"
+    },
+    {
+      "id": 211939,
+      "translation": {
+        "en": {
+          "short": "dessert",
+          "long": "‌sweet food eaten after the main dish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hidangan penutup",
+          "long": "‌Sweet Food Meed Of The Main Dish",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211939.jpeg",
+      "simplified": "甜点",
+      "traditional": "甜點",
+      "pinyin": "tiándiǎn"
+    },
+    {
+      "id": 220973,
+      "translation": {
+        "en": {
+          "short": "hot chocolate",
+          "long": "a hot drink, made by mixing cocoa powder with water or milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "coklat panas",
+          "long": "minuman panas, dibuat dengan mencampur bubuk kakao dengan air atau susu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220973.jpeg",
+      "simplified": "热巧克力",
+      "traditional": "熱巧克力",
+      "pinyin": "rè qiǎokè lì"
+    },
+    {
+      "id": 220974,
+      "translation": {
+        "en": {
+          "short": "pie",
+          "long": "a food that is made by baking fruits, vegetables, or meat inside one or multiple layers of pastry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pai",
+          "long": "Makanan yang dibuat dengan memanggang buah, sayuran, atau daging di dalam satu atau beberapa lapisan kue",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220974.jpeg",
+      "simplified": "馅饼",
+      "traditional": "餡餅",
+      "pinyin": "xiànbǐng"
+    },
+    {
+      "id": 211956,
+      "translation": {
+        "en": {
+          "short": "sauce",
+          "long": "a flavorful liquid, served with food to give it a particular taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saus",
+          "long": "cairan beraroma, disajikan dengan makanan untuk memberikan rasa tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211956.jpeg",
+      "simplified": "酱",
+      "traditional": "醬",
+      "pinyin": "jiàng"
+    },
+    {
+      "id": 211960,
+      "translation": {
+        "en": {
+          "short": "toast",
+          "long": "a slice of bread that is brown on both sides because it has been heated",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "roti panggang",
+          "long": "sepotong roti yang berwarna coklat di kedua sisi karena telah dipanaskan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211960.jpeg",
+      "simplified": "祝酒",
+      "traditional": "祝酒",
+      "pinyin": "zhùjiǔ"
+    },
+    {
+      "id": 221058,
+      "translation": {
+        "en": {
+          "short": "delicious",
+          "long": "having a good taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lezat",
+          "long": "memiliki selera yang bagus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221058.jpeg",
+      "simplified": "可口的",
+      "traditional": "可口的",
+      "pinyin": "kěkǒu de"
+    },
+    {
+      "id": 221950,
+      "translation": {
+        "en": {
+          "short": "flavor",
+          "long": "the specific taste that a type of food or drink has",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa",
+          "long": "rasa spesifik yang dimiliki jenis makanan atau minuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221950.jpeg",
+      "simplified": "味道",
+      "traditional": "味道",
+      "pinyin": "wèidao"
+    },
+    {
+      "id": 211971,
+      "translation": {
+        "en": {
+          "short": "fresh",
+          "long": "(of food) recently harvested or produced",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "segar",
+          "long": "(makanan) baru -baru ini dipanen atau diproduksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211971.jpeg",
+      "simplified": "新鲜的",
+      "traditional": "新鮮的",
+      "pinyin": "xīnxiān de"
+    },
+    {
+      "id": 211979,
+      "translation": {
+        "en": {
+          "short": "salty",
+          "long": "containing salt or having a taste that is like salt",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "asin",
+          "long": "mengandung garam atau memiliki rasa yang seperti garam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211979.jpeg",
+      "simplified": "咸",
+      "traditional": "咸",
+      "pinyin": "Xián"
+    },
+    {
+      "id": 211959,
+      "translation": {
+        "en": {
+          "short": "sweet",
+          "long": "containing sugar or having a taste that is like sugar",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "manis",
+          "long": "mengandung gula atau memiliki rasa yang seperti gula",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211959.jpeg",
+      "simplified": "甜的",
+      "traditional": "甜的",
+      "pinyin": "tián de"
+    },
+    {
+      "id": 211972,
+      "translation": {
+        "en": {
+          "short": "junk food",
+          "long": "unhealthy food, containing a lot of fat, sugar, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan cepat saji",
+          "long": "Makanan yang tidak sehat, mengandung banyak lemak, gula, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211972.jpeg",
+      "simplified": "垃圾食品",
+      "traditional": "垃圾食品",
+      "pinyin": "lājī shí pǐn"
+    },
+    {
+      "id": 211936,
+      "translation": {
+        "en": {
+          "short": "potato chip",
+          "long": "a thin, round piece of potato, cooked in hot oil and eaten cold as a snack",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keripik kentang",
+          "long": "sepotong kentang yang tipis dan bundar, dimasak dengan minyak panas dan dimakan dingin seperti camilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211936.jpeg",
+      "simplified": "薯片",
+      "traditional": "洋芋片",
+      "pinyin": "shǔpiàn"
+    },
+    {
+      "id": 228706,
+      "translation": {
+        "en": {
+          "short": "French fries",
+          "long": "long thin pieces of potato cooked in hot oil",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kentang goreng",
+          "long": "Potongan kentang tipis panjang yang dimasak dengan minyak panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/228706.jpeg",
+      "simplified": "炸薯条",
+      "traditional": "炸薯條",
+      "pinyin": "zháshǔ tiáo"
+    },
+    {
+      "id": 220967,
+      "translation": {
+        "en": {
+          "short": "snack",
+          "long": "a small meal that is usually eaten between the main meals or when there is not much time for cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "camilan",
+          "long": "Makanan kecil yang biasanya dimakan di antara makanan utama atau ketika tidak ada banyak waktu untuk memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220967.jpeg",
+      "simplified": "小吃",
+      "traditional": "小吃",
+      "pinyin": "xiǎochī"
+    },
+    {
+      "id": 211975,
+      "translation": {
+        "en": {
+          "short": "to order",
+          "long": "to ask for something, especially food, drinks, services, etc. in a restaurant, bar, or shop",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memesan",
+          "long": "untuk meminta sesuatu, terutama makanan, minuman, layanan, dll. Di restoran, bar, atau toko",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211975.jpeg",
+      "simplified": "订购一些东西",
+      "traditional": "訂購一些東西",
+      "pinyin": "dìnggòu yīxiē dōngxī"
+    },
+    {
+      "id": 211980,
+      "translation": {
+        "en": {
+          "short": "to serve",
+          "long": "to give someone food or drink",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melayani",
+          "long": "untuk memberi seseorang makanan atau minuman",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211980.jpeg",
+      "simplified": "提供食物",
+      "traditional": "提供食物",
+      "pinyin": "tígōng shíwù"
+    },
+    {
+      "id": 211982,
+      "translation": {
+        "en": {
+          "short": "taste",
+          "long": "the sense that we feel when we put food in our mouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencicipi",
+          "long": "perasaan yang kita rasakan saat kita memasukkan makanan di mulut kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211982.jpeg",
+      "simplified": "品尝",
+      "traditional": "品嚐",
+      "pinyin": "pǐncháng"
+    },
+    {
+      "id": 235981,
+      "translation": {
+        "en": {
+          "short": "sour",
+          "long": "having a sharp acidic taste like lemon",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kecut",
+          "long": "memiliki rasa asam yang tajam seperti lemon",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235981.jpeg",
+      "simplified": "酸的",
+      "traditional": "酸的",
+      "pinyin": "suān de"
+    },
+    {
+      "id": 257265,
+      "translation": {
+        "en": {
+          "short": "to fry",
+          "long": "to cook in hot oil or fat",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggoreng",
+          "long": "memasak dengan minyak panas atau lemak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/257265.jpeg",
+      "simplified": "炒",
+      "traditional": "炒",
+      "pinyin": "chǎo"
+    },
+    {
+      "id": 264181,
+      "translation": {
+        "en": {
+          "short": "dark chocolate",
+          "long": "dark colored chocolate that tastes slightly bitter, often with no milk added to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "coklat hitam",
+          "long": "Cokelat berwarna gelap yang rasanya sedikit pahit, seringkali tanpa susu ditambahkan ke dalamnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264181.jpeg",
+      "simplified": "我想要两块深色巧克力。",
+      "traditional": "我想要兩塊深色巧克力。",
+      "pinyin": "wǒ xiǎngyào liǎng kuài shēnsè qiǎokè lì"
+    },
+    {
+      "id": 264236,
+      "translation": {
+        "en": {
+          "short": "coffee shop",
+          "long": "a type of small restaurant where people can drink coffee, tea, etc. and usually eat light meals too",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kedai kopi",
+          "long": "Jenis restoran kecil tempat orang bisa minum kopi, teh, dll. Dan biasanya makan makanan ringan juga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264236.jpeg",
+      "simplified": "咖啡馆",
+      "traditional": "咖啡廳",
+      "pinyin": "kāfēi guǎn"
+    }
+  ]
+}

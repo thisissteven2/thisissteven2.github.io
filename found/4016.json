@@ -1,0 +1,963 @@
+{
+  "id": 4016,
+  "title": {
+    "en": "Fastening Tools",
+    "id": "Alat pengikat"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to fastening tools such as \"bolt\", \"screwdriver\", and \"rivet\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan alat pengikat seperti \"baut\", \"obeng\", dan \"paku keling\"."
+  },
+  "cards": [
+    {
+      "id": 350206,
+      "translation": {
+        "en": {
+          "short": "screw",
+          "long": "a small pointy piece of metal that can be fasten into wooden or metal objects using a screwdriver to hold things together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "Sepotong kecil logam runcing yang dapat diikat menjadi benda kayu atau logam menggunakan obeng untuk menyatukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350206.jpeg",
+      "simplified": "拧",
+      "traditional": "擰",
+      "pinyin": "níng"
+    },
+    {
+      "id": 349049,
+      "translation": {
+        "en": {
+          "short": "bolt",
+          "long": "a piece of metal like a thick nail without a point that used to secure assembled parts by passing through holes and tightening with a nut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "Sepotong logam seperti kuku tebal tanpa titik yang digunakan untuk mengamankan bagian yang dirakit dengan melewati lubang dan mengencang dengan kacang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349049.jpeg",
+      "simplified": "螺栓",
+      "traditional": "螺栓",
+      "pinyin": "luóshuān"
+    },
+    {
+      "id": 349066,
+      "translation": {
+        "en": {
+          "short": "toggle bolt",
+          "long": "a fastener with a spring-loaded wing or toggle mechanism used for secure anchoring of heavy objects to walls or ceilings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Toggle Bolt",
+          "long": "pengikat dengan sayap pegas atau mekanisme sakelar yang digunakan untuk penahan yang aman dari benda berat ke dinding atau langit-langit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349066.jpeg",
+      "simplified": "肘节螺栓",
+      "traditional": "肘節螺栓",
+      "pinyin": "zhǒu jiē luóshuān"
+    },
+    {
+      "id": 349008,
+      "translation": {
+        "en": {
+          "short": "wood screw",
+          "long": "a threaded fastener with a pointed tip and helical threads along its shank, specifically designed for securely joining pieces of wood together by creating a threaded hole in the wood as it is driven in, offering strong and reliable fastening in woodworking projects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup kayu",
+          "long": "Pengikat berulir dengan ujung runcing dan benang heliks di sepanjang betisnya, yang dirancang khusus untuk menyatukan potongan -potongan kayu bersama dengan membuat lubang berulir di kayu saat didorong, menawarkan pengikat yang kuat dan andal dalam proyek -proyek pengerjaan kayu dalam proyek kayu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349008.jpeg",
+      "simplified": "木螺丝",
+      "traditional": "木螺絲",
+      "pinyin": "Mù luósī"
+    },
+    {
+      "id": 349009,
+      "translation": {
+        "en": {
+          "short": "machine screw",
+          "long": "a threaded fastener designed to be used with a nut or threaded hole in metal or other materials, commonly used for fastening machine components or parts together in various industrial applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup mesin",
+          "long": "Pengikat berulir yang dirancang untuk digunakan dengan kacang atau lubang berulir dalam logam atau bahan lainnya, yang biasa digunakan untuk komponen mesin pengencang atau bagian -bagian bersama dalam berbagai aplikasi industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349009.jpeg",
+      "simplified": "机械螺丝",
+      "traditional": "機械螺絲",
+      "pinyin": "jīxiè luósī"
+    },
+    {
+      "id": 349026,
+      "translation": {
+        "en": {
+          "short": "sheet metal screw",
+          "long": "a special screw used for attaching thin metal sheets together, with sharp threads for a strong grip, commonly used in metalwork, construction, cars, and electrical projects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup logam lembaran",
+          "long": "Sekrup khusus yang digunakan untuk memasang lembaran logam tipis bersama -sama, dengan benang tajam untuk cengkeraman yang kuat, biasanya digunakan dalam logam, konstruksi, mobil, dan proyek listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349026.jpeg",
+      "simplified": "钣金螺钉",
+      "traditional": "鈑金螺釘",
+      "pinyin": "bǎnjīn luódīng"
+    },
+    {
+      "id": 349029,
+      "translation": {
+        "en": {
+          "short": "self-tapping screw",
+          "long": "a threaded fastener with a sharp tip and specially designed threads that allow it to create its own threaded hole in a material, eliminating the need for a pre-drilled hole and enabling efficient and convenient installation in various applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup self-tapping",
+          "long": "Pengikat berulir dengan ujung yang tajam dan benang yang dirancang khusus yang memungkinkannya membuat lubang berulir sendiri dalam suatu bahan, menghilangkan kebutuhan akan lubang yang telah dibor dan memungkinkan instalasi yang efisien dan nyaman dalam berbagai aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349029.jpeg",
+      "simplified": "自攻螺钉",
+      "traditional": "自攻螺釘",
+      "pinyin": "zì gōng luódīng"
+    },
+    {
+      "id": 349032,
+      "translation": {
+        "en": {
+          "short": "drywall screw",
+          "long": "a specialized type of self-tapping screw with a coarse thread and a sharp point, specifically designed for fastening drywall panels to wood or metal studs during construction or renovation projects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup drywall",
+          "long": "Jenis khusus sekrup self-tapping dengan benang kasar dan titik tajam, yang dirancang khusus untuk mengikat panel drywall ke kayu atau stud logam selama proyek konstruksi atau renovasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349032.jpeg",
+      "simplified": "石膏板螺钉",
+      "traditional": "石膏板螺釘",
+      "pinyin": "shígāo bǎn luódīng"
+    },
+    {
+      "id": 349034,
+      "translation": {
+        "en": {
+          "short": "concrete screw",
+          "long": "a type of fastener specifically designed for attaching objects to concrete or masonry surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup beton",
+          "long": "Jenis pengikat yang dirancang khusus untuk melampirkan objek ke permukaan beton atau batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349034.jpeg",
+      "simplified": "混凝土螺钉",
+      "traditional": "混凝土螺釘",
+      "pinyin": "hùnníng tǔ luódīng"
+    },
+    {
+      "id": 349035,
+      "translation": {
+        "en": {
+          "short": "lag screw",
+          "long": "a strong wooden screw with a pointed end and rough threads, used to securely attach things like wood or metal together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup lag",
+          "long": "sekrup kayu yang kuat dengan ujung runcing dan benang kasar, digunakan untuk secara aman menempelkan hal -hal seperti kayu atau logam bersama -sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349035.jpeg",
+      "simplified": "方头螺钉",
+      "traditional": "方頭螺釘",
+      "pinyin": "fāngtóu luódīng"
+    },
+    {
+      "id": 349037,
+      "translation": {
+        "en": {
+          "short": "deck screw",
+          "long": "a type of wood screw specifically designed for outdoor decking applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup dek",
+          "long": "Jenis sekrup kayu yang dirancang khusus untuk aplikasi penghiasan luar ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349037.jpeg",
+      "simplified": "甲板螺丝",
+      "traditional": "甲板螺絲",
+      "pinyin": "jiǎbǎn luósī"
+    },
+    {
+      "id": 349039,
+      "translation": {
+        "en": {
+          "short": "particle board screw",
+          "long": "a type of specialized wood screw designed for use with particle board or other engineered wood products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup papan partikel",
+          "long": "Jenis sekrup kayu khusus yang dirancang untuk digunakan dengan papan partikel atau produk kayu rekayasa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349039.jpeg",
+      "simplified": "颗粒螺钉",
+      "traditional": "顆粒螺釘",
+      "pinyin": "kēlì luódīng"
+    },
+    {
+      "id": 349041,
+      "translation": {
+        "en": {
+          "short": "security screw",
+          "long": "a specialized fastener designed to prevent unauthorized removal or tampering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup keamanan",
+          "long": "pengikat khusus yang dirancang untuk mencegah pemindahan atau perusakan yang tidak sah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349041.jpeg",
+      "simplified": "安全螺钉",
+      "traditional": "安全螺釘",
+      "pinyin": "ānquán luódīng"
+    },
+    {
+      "id": 349043,
+      "translation": {
+        "en": {
+          "short": "eye screw",
+          "long": "a screw with a circular loop or \"eye\" at the end instead of a traditional head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup mata",
+          "long": "sekrup dengan loop melingkar atau \"mata\" di ujungnya bukan kepala tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349043.jpeg",
+      "simplified": "眼螺丝",
+      "traditional": "眼螺絲",
+      "pinyin": "yǎn luósī"
+    },
+    {
+      "id": 349044,
+      "translation": {
+        "en": {
+          "short": "wing screw",
+          "long": "a type of screw that features two large wings or extended knobs on the head, allowing for easy manual tightening and loosening without the need for tools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup sayap",
+          "long": "Jenis sekrup yang menampilkan dua sayap besar atau kenop yang diperpanjang di kepala, memungkinkan pengetatan dan pelonggaran manual yang mudah tanpa perlu alat untuk alat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349044.jpeg",
+      "simplified": "翼形螺钉",
+      "traditional": "翼形螺釘",
+      "pinyin": "Yì xíng luódīng"
+    },
+    {
+      "id": 349046,
+      "translation": {
+        "en": {
+          "short": "hex head screw",
+          "long": "a fastener with a hexagonal-shaped head, commonly tightened or loosened using a wrench or socket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup kepala hex",
+          "long": "pengikat dengan kepala berbentuk heksagonal, biasanya dikencangkan atau dilonggarkan menggunakan kunci pas atau soket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349046.jpeg",
+      "simplified": "十六进制头螺丝",
+      "traditional": "十六進制頭螺絲",
+      "pinyin": "shíliù jìn zhì tóu luósī"
+    },
+    {
+      "id": 349052,
+      "translation": {
+        "en": {
+          "short": "square drive screw",
+          "long": "a type of fastener that features a square-shaped socket or recess on the screw head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup penggerak persegi",
+          "long": "Jenis pengikat yang memiliki soket berbentuk persegi atau reses di kepala sekrup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349052.jpeg",
+      "simplified": "方驱动螺钉",
+      "traditional": "方驅動螺釘",
+      "pinyin": "Fāng qūdòng luódīng"
+    },
+    {
+      "id": 349054,
+      "translation": {
+        "en": {
+          "short": "one-way screw",
+          "long": "a unique fastener that can only be installed in one direction, providing a level of security and preventing easy removal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup satu arah",
+          "long": "pengikat unik yang hanya dapat dipasang dalam satu arah, memberikan tingkat keamanan dan mencegah pelepasan yang mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349054.jpeg",
+      "simplified": "单向螺钉",
+      "traditional": "單向螺釘",
+      "pinyin": "dānxiàng luódīng"
+    },
+    {
+      "id": 349056,
+      "translation": {
+        "en": {
+          "short": "thumb screw",
+          "long": "a type of fastener designed with a large, knurled or textured head that can be easily tightened or loosened by hand without the need for additional tools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup jempol",
+          "long": "Jenis pengikat yang dirancang dengan kepala besar, knurled atau bertekstur yang dapat dengan mudah dikencangkan atau dilonggarkan dengan tangan tanpa perlu alat tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349056.jpeg",
+      "simplified": "拇指螺钉",
+      "traditional": "拇指螺釘",
+      "pinyin": "mǔzhǐ luódīng"
+    },
+    {
+      "id": 349059,
+      "translation": {
+        "en": {
+          "short": "captive panel screw",
+          "long": "a type of fastener that is designed to remain attached to the panel or component it is securing, even when fully loosened",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup panel captive",
+          "long": "Jenis pengikat yang dirancang untuk tetap melekat pada panel atau komponen yang diamankan, bahkan ketika sepenuhnya dilonggarkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349059.jpeg",
+      "simplified": "圈式面板螺钉",
+      "traditional": "圈式面板螺釘",
+      "pinyin": "juān shì miànbǎn luódīng"
+    },
+    {
+      "id": 349073,
+      "translation": {
+        "en": {
+          "short": "Phillips screw",
+          "long": "a type of screw with a cross-shaped indentation on the head that corresponds to a Phillips screwdriver, providing a secure and convenient fastening method in various applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekrup Phillips",
+          "long": "Jenis sekrup dengan indentasi berbentuk silang di kepala yang sesuai dengan obeng Phillips, memberikan metode pengencang yang aman dan nyaman di berbagai aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349073.jpeg",
+      "simplified": "十字螺丝",
+      "traditional": "十字螺絲",
+      "pinyin": "shízì luósī"
+    },
+    {
+      "id": 349078,
+      "translation": {
+        "en": {
+          "short": "Pozidriv screw",
+          "long": "a type of screw that features a Pozidriv head, which has a cross-shaped indentation with additional smaller indents, allowing for improved torque transmission and reduced risk of slippage during tightening or loosening operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekrup Pozidriv",
+          "long": "Jenis sekrup yang memiliki kepala pozidriv, yang memiliki indentasi berbentuk silang dengan indentasi tambahan yang lebih kecil, memungkinkan untuk peningkatan transmisi torsi dan mengurangi risiko selip selama pengetatan atau operasi pelonggaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349078.jpeg",
+      "simplified": "pozidriv螺钉",
+      "traditional": "pozidriv螺釘",
+      "pinyin": "luódīng"
+    },
+    {
+      "id": 349061,
+      "translation": {
+        "en": {
+          "short": "tamper-resistant screw",
+          "long": "a specialized fastener with a unique head design, requiring specific tools for installation and removal, to deter unauthorized tampering or removal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup tahan kerusakan",
+          "long": "Pengikat khusus dengan desain kepala yang unik, membutuhkan alat khusus untuk pemasangan dan penghapusan, untuk mencegah gangguan atau pelepasan yang tidak sah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349061.jpeg",
+      "simplified": "防篡改螺钉",
+      "traditional": "防篡改螺釘",
+      "pinyin": "fáng cuàngǎi luódīng"
+    },
+    {
+      "id": 349063,
+      "translation": {
+        "en": {
+          "short": "dowel screw",
+          "long": "a fastener with threaded ends on both sides, designed to be inserted into pre-drilled holes and used to join two pieces of wood or other materials together securely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup dowel",
+          "long": "pengikat dengan ujung berulir di kedua sisi, yang dirancang untuk dimasukkan ke dalam lubang yang telah dibor dan digunakan untuk bergabung dengan dua potong kayu atau bahan lainnya secara aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349063.jpeg",
+      "simplified": "销钉螺丝",
+      "traditional": "銷釘螺絲",
+      "pinyin": "xiāo dīngluó sī"
+    },
+    {
+      "id": 349093,
+      "translation": {
+        "en": {
+          "short": "tri-wing screw",
+          "long": "a type of screw that features a head with three triangular wings, requiring a Tri-Wing screwdriver or bit for proper installation or removal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup tri-sayap",
+          "long": "Jenis sekrup yang dilengkapi kepala dengan tiga sayap segitiga, membutuhkan obeng tri-sayap atau bit untuk pemasangan atau pelepasan yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349093.jpeg",
+      "simplified": "三翼螺钉",
+      "traditional": "三翼螺釘",
+      "pinyin": "Sān Yì luódīng"
+    },
+    {
+      "id": 349083,
+      "translation": {
+        "en": {
+          "short": "Torx screw",
+          "long": "a screw with a star-shaped head that requires a corresponding Torx screwdriver or bit for proper use",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekrup torx",
+          "long": "sekrup dengan kepala berbentuk bintang yang membutuhkan obeng torx yang sesuai atau bit untuk penggunaan yang benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349083.jpeg",
+      "simplified": "Torx螺钉",
+      "traditional": "Torx螺釘",
+      "pinyin": "T luódīng"
+    },
+    {
+      "id": 349101,
+      "translation": {
+        "en": {
+          "short": "snake eye screw",
+          "long": "a type of screw that features a unique head with two holes or recesses, requiring a spanner screwdriver or bit with a two-pin tip for proper installation or removal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekrup mata ular",
+          "long": "Jenis sekrup yang dilengkapi kepala unik dengan dua lubang atau ceruk, membutuhkan obeng spanner atau bit dengan ujung dua pin untuk pemasangan atau pelepasan yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349101.jpeg",
+      "simplified": "蛇眼螺钉",
+      "traditional": "蛇眼螺釘",
+      "pinyin": "shé yǎn luódīng"
+    },
+    {
+      "id": 349064,
+      "translation": {
+        "en": {
+          "short": "Chicago Screw",
+          "long": "a fastener with a threaded post and a screw head, commonly used for binding or securing materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekrup Chicago",
+          "long": "pengikat dengan tiang berulir dan kepala sekrup, biasanya digunakan untuk mengikat atau mengamankan bahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349064.jpeg",
+      "simplified": "芝加哥螺丝",
+      "traditional": "芝加哥螺絲",
+      "pinyin": "Zhījiā gē luósī"
+    },
+    {
+      "id": 350207,
+      "translation": {
+        "en": {
+          "short": "screwdriver",
+          "long": "a small tool with a metal part by which screws can be turned",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng",
+          "long": "Alat kecil dengan bagian logam dimana sekrup dapat diputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350207.jpeg",
+      "simplified": "螺丝刀",
+      "traditional": "螺絲刀",
+      "pinyin": "luósī dāo"
+    },
+    {
+      "id": 349070,
+      "translation": {
+        "en": {
+          "short": "flathead screwdriver",
+          "long": "a tool with a flat, straight blade used for turning screws with a corresponding slot or \"flathead\" screw head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Flathead",
+          "long": "Alat dengan pisau rata yang rata dan lurus digunakan untuk memutar sekrup dengan slot yang sesuai atau kepala sekrup \"flathead\"",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349070.jpeg",
+      "simplified": "一字螺丝刀",
+      "traditional": "一字螺絲刀",
+      "pinyin": "yīzì luósī dāo"
+    },
+    {
+      "id": 349072,
+      "translation": {
+        "en": {
+          "short": "Phillips screwdriver",
+          "long": "a tool with a cross-shaped tip used for turning screws with a corresponding Phillips head, allowing for efficient tightening or loosening of screws in various applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obeng Phillips",
+          "long": "Alat dengan ujung berbentuk silang yang digunakan untuk memutar sekrup dengan kepala Phillips yang sesuai, memungkinkan pengetatan atau pelonggaran sekrup yang efisien dalam berbagai aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349072.jpeg",
+      "simplified": "十字螺丝刀",
+      "traditional": "十字螺絲刀",
+      "pinyin": "shízì luósī dāo"
+    },
+    {
+      "id": 349075,
+      "translation": {
+        "en": {
+          "short": "Pozidriv Screwdriver",
+          "long": "a tool with a cross-shaped tip used for turning screws with a Pozidriv head, providing enhanced torque transfer and reduced risk of slippage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Pozidriv",
+          "long": "Alat dengan ujung berbentuk silang yang digunakan untuk memutar sekrup dengan kepala pozidriv, memberikan transfer torsi yang ditingkatkan dan mengurangi risiko selip",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349075.jpeg",
+      "simplified": "Pozidriv螺丝刀",
+      "traditional": "Pozidriv螺絲刀",
+      "pinyin": "P luósī dāo"
+    },
+    {
+      "id": 349081,
+      "translation": {
+        "en": {
+          "short": "Torx screwdriver",
+          "long": "a tool with a star-shaped tip used for turning screws with a Torx head, offering secure and efficient fastening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Torx",
+          "long": "Alat dengan ujung berbentuk bintang yang digunakan untuk memutar sekrup dengan kepala torx, menawarkan pengikat yang aman dan efisien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349081.jpeg",
+      "simplified": "Torx螺丝刀",
+      "traditional": "Torx螺絲刀",
+      "pinyin": "T luósī dāo"
+    },
+    {
+      "id": 349085,
+      "translation": {
+        "en": {
+          "short": "Robertson screwdriver",
+          "long": "a tool with a square-shaped tip used for turning screws with a square-drive head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Robertson",
+          "long": "Alat dengan ujung berbentuk persegi yang digunakan untuk memutar sekrup dengan kepala drive persegi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349085.jpeg",
+      "simplified": "罗伯逊螺丝刀",
+      "traditional": "羅伯遜螺絲刀",
+      "pinyin": "Luóbó xùn luósī dāo"
+    },
+    {
+      "id": 349088,
+      "translation": {
+        "en": {
+          "short": "tri-wing screwdriver",
+          "long": "a tool with a tip featuring three triangular wings, used for turning screws with a Tri-Wing head, often found in tamper-resistant applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng tri-sayap",
+          "long": "Alat dengan ujung yang menampilkan tiga sayap segitiga, digunakan untuk memutar sekrup dengan kepala tri-sayap, sering ditemukan dalam aplikasi yang tahan tamper",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349088.jpeg",
+      "simplified": "三翼螺丝刀",
+      "traditional": "三翼螺絲刀",
+      "pinyin": "Sān Yì luósī dāo"
+    },
+    {
+      "id": 349097,
+      "translation": {
+        "en": {
+          "short": "spanner screwdriver",
+          "long": "a tool with a two-pin or two-hole tip used for turning screws with spanner or snake eye heads, commonly used in tamper-resistant applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Spanner",
+          "long": "Alat dengan ujung dua pin atau dua lubang yang digunakan untuk memutar sekrup dengan spanner atau kepala mata ular, biasa digunakan dalam aplikasi yang tahan tamper",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349097.jpeg",
+      "simplified": "扳手螺丝刀",
+      "traditional": "扳手螺絲刀",
+      "pinyin": "bānshǒu luósī dāo"
+    },
+    {
+      "id": 349104,
+      "translation": {
+        "en": {
+          "short": "torque screwdriver",
+          "long": "a tool that applies a predetermined amount of torque to screws, enabling precise and controlled tightening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng torsi",
+          "long": "Alat yang menerapkan jumlah torsi yang telah ditentukan untuk sekrup, memungkinkan pengetatan yang tepat dan terkontrol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349104.jpeg",
+      "simplified": "扭矩螺丝刀",
+      "traditional": "扭矩螺絲刀",
+      "pinyin": "niǔjǔ luósī dāo"
+    },
+    {
+      "id": 349109,
+      "translation": {
+        "en": {
+          "short": "precision screwdriver set",
+          "long": "a collection of small-sized screwdrivers with interchangeable tips, used for delicate and precise tasks in electronics, watches, jewelry, and other fine mechanics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Set Obeng Presisi",
+          "long": "Koleksi obeng berukuran kecil dengan tips yang dapat dipertukarkan, digunakan untuk tugas yang halus dan tepat dalam elektronik, jam tangan, perhiasan, dan mekanika halus lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349109.jpeg",
+      "simplified": "精密螺丝刀集",
+      "traditional": "精密螺絲刀集",
+      "pinyin": "jīngmì luósī dāo jí"
+    },
+    {
+      "id": 349111,
+      "translation": {
+        "en": {
+          "short": "ratchet screwdriver",
+          "long": "a tool with a ratcheting mechanism that enables easy and efficient screwdriving without the need to reposition the tool for each turn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng Ratchet",
+          "long": "alat dengan mekanisme ratcheting yang memungkinkan obeng yang mudah dan efisien tanpa perlu memposisikan ulang alat untuk setiap belokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349111.jpeg",
+      "simplified": "棘轮螺丝刀",
+      "traditional": "棘輪螺絲刀",
+      "pinyin": "jílún luósī dāo"
+    },
+    {
+      "id": 349115,
+      "translation": {
+        "en": {
+          "short": "insulated screwdriver",
+          "long": "a tool specifically designed with an insulated handle to provide electrical safety when working with live electrical components or circuits, reducing the risk of electrical shock or short circuits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obeng terisolasi",
+          "long": "Alat yang dirancang khusus dengan pegangan terisolasi untuk memberikan keamanan listrik saat bekerja dengan komponen atau sirkuit listrik hidup, mengurangi risiko sengatan listrik atau sirkuit pendek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349115.jpeg",
+      "simplified": "绝缘螺丝刀",
+      "traditional": "絕緣螺絲刀",
+      "pinyin": "juéyuán luósī dāo"
+    },
+    {
+      "id": 349122,
+      "translation": {
+        "en": {
+          "short": "magnetic screwdriver",
+          "long": "a tool with a magnetized tip that attracts and holds screws, allowing for easier and more convenient handling and placement of screws during installation or removal, reducing the risk of dropping or losing them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obeng magnetik",
+          "long": "alat dengan ujung magnet yang menarik dan menahan sekrup, memungkinkan penanganan dan penempatan sekrup yang lebih mudah dan lebih nyaman selama pemasangan atau pelepasan, mengurangi risiko jatuh atau kehilangannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349122.jpeg",
+      "simplified": "磁性螺丝刀",
+      "traditional": "磁性螺絲刀",
+      "pinyin": "cíxìng luósī dāo"
+    },
+    {
+      "id": 349654,
+      "translation": {
+        "en": {
+          "short": "nut",
+          "long": "a flat piece of metal with a hole in the middle through which a bolt is put to secure or fasten objects together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "sepotong logam datar dengan lubang di tengah di mana baut diletakkan untuk mengamankan atau mengikat benda bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349654.jpeg",
+      "simplified": "坚果",
+      "traditional": "堅果",
+      "pinyin": "jiānguǒ"
+    },
+    {
+      "id": 349656,
+      "translation": {
+        "en": {
+          "short": "washer",
+          "long": "a flat rubber, plastic, or metal ring which is small and acts as a seal or is put between a nut and a bolt to tighten their connection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cuci",
+          "long": "karet datar, plastik, atau cincin logam yang kecil dan bertindak sebagai segel atau diletakkan di antara mur dan baut untuk mengencangkan koneksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349656.jpeg",
+      "simplified": "垫圈",
+      "traditional": "墊圈",
+      "pinyin": "diànjuàn"
+    },
+    {
+      "id": 349743,
+      "translation": {
+        "en": {
+          "short": "eye bolt",
+          "long": "a threaded fastener with a looped end that provides a secure anchor point for attaching ropes, cables, or other hardware",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut mata",
+          "long": "Pengikat berulir dengan ujung yang berulang yang menyediakan titik jangkar yang aman untuk melampirkan tali, kabel, atau perangkat keras lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349743.jpeg",
+      "simplified": "眼螺栓",
+      "traditional": "眼螺栓",
+      "pinyin": "yǎn luóshuān"
+    },
+    {
+      "id": 350150,
+      "translation": {
+        "en": {
+          "short": "staple gun",
+          "long": "a metal tool that uses staples to fix paper or wood to other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pistol Staples",
+          "long": "alat logam yang menggunakan staples untuk memperbaiki kertas atau kayu ke bahan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350150.jpeg",
+      "simplified": "订书机",
+      "traditional": "訂書機",
+      "pinyin": "dìngshū jī"
+    },
+    {
+      "id": 350152,
+      "translation": {
+        "en": {
+          "short": "cable staple",
+          "long": "a small metal or plastic fastener used to secure electrical cables or wires to a surface, such as walls, floors, or studs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Staple kabel",
+          "long": "pengikat logam atau plastik kecil yang digunakan untuk mengamankan kabel listrik atau kabel ke permukaan, seperti dinding, lantai, atau stud",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350152.jpeg",
+      "simplified": "电缆主食",
+      "traditional": "電纜主食",
+      "pinyin": "diànlǎn zhǔshí"
+    },
+    {
+      "id": 350153,
+      "translation": {
+        "en": {
+          "short": "rivet",
+          "long": "a permanent fastener with a head on one end and a deformable shaft that forms a second head when joining materials together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memusatkan",
+          "long": "pengikat permanen dengan kepala di satu ujung dan poros cacat yang membentuk kepala kedua saat bergabung dengan bahan bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350153.jpeg",
+      "simplified": "铆钉",
+      "traditional": "鉚釘",
+      "pinyin": "mǎodīng"
+    },
+    {
+      "id": 350396,
+      "translation": {
+        "en": {
+          "short": "wall plug",
+          "long": "a small plastic or metal device used to provide support and stability when attaching screws or fasteners to a wall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "steker",
+          "long": "Perangkat plastik atau logam kecil yang digunakan untuk memberikan dukungan dan stabilitas saat memasang sekrup atau pengencang ke dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350396.jpeg",
+      "simplified": "墙上插头",
+      "traditional": "牆上插頭",
+      "pinyin": "qiáng shǎng chātóu"
+    },
+    {
+      "id": 350400,
+      "translation": {
+        "en": {
+          "short": "hog ring",
+          "long": "a small metal fastener or ring typically made of galvanized steel or other durable material, commonly used in upholstery, fencing, and automotive applications to secure materials together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin babi",
+          "long": "Pengikat atau cincin logam kecil yang biasanya terbuat dari baja galvanis atau bahan tahan lama lainnya, biasanya digunakan dalam pelapis, pagar, dan aplikasi otomotif untuk mengamankan bahan bersama -sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350400.jpeg",
+      "simplified": "猪环",
+      "traditional": "豬環",
+      "pinyin": "zhū Huán"
+    },
+    {
+      "id": 350538,
+      "translation": {
+        "en": {
+          "short": "anchor bolt",
+          "long": "a type of fastener consisting of a threaded rod or bolt that is embedded in concrete or masonry structures, used to secure objects or structures to a stable foundation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut jangkar",
+          "long": "Jenis pengikat yang terdiri dari batang atau baut berulir yang tertanam dalam struktur beton atau batu, digunakan untuk mengamankan benda atau struktur ke fondasi yang stabil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350538.jpeg",
+      "simplified": "地脚螺栓",
+      "traditional": "地腳螺栓",
+      "pinyin": "dìjiǎo luóshuān"
+    }
+  ]
+}

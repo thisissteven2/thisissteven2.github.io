@@ -1,0 +1,925 @@
+{
+  "id": 650,
+  "title": {
+    "en": "Electronic Music",
+    "id": "Musik elektronik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to electronic music such as \"techno\", \"disco\", and \"synth-pop\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan musik elektronik seperti \"techno\", \"disko\", dan \"synth-pop\"."
+  },
+  "cards": [
+    {
+      "id": 315790,
+      "translation": {
+        "en": {
+          "short": "ambient music",
+          "long": "a genre of music known for its atmospheric and often electronic soundscapes, designed to create a relaxing and immersive listening experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik ambient",
+          "long": "Genre musik yang dikenal dengan soundscape atmosfer dan sering elektronik, yang dirancang untuk menciptakan pengalaman mendengarkan yang santai dan mendalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315790.jpeg",
+      "simplified": "环境音乐",
+      "traditional": "環境音樂",
+      "pinyin": "huánjìng yīnyuè"
+    },
+    {
+      "id": 315924,
+      "translation": {
+        "en": {
+          "short": "ambient pop",
+          "long": "a subgenre of popular music that incorporates ambient elements, such as atmospheric textures and dreamy soundscapes, into its musical arrangements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pop ambient",
+          "long": "Subgenre musik populer yang menggabungkan elemen ambient, seperti tekstur atmosfer dan soundscape yang melamun, ke dalam pengaturan musiknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315924.jpeg",
+      "simplified": "环境流行音乐",
+      "traditional": "環境流行音樂",
+      "pinyin": "huánjìng liúxíng yīn yuè"
+    },
+    {
+      "id": 316001,
+      "translation": {
+        "en": {
+          "short": "dark ambient",
+          "long": "a subgenre of ambient music that is characterized by eerie, haunting, and often unsettling atmospheric sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ambient gelap",
+          "long": "subgenre musik ambient yang ditandai dengan suara yang menakutkan, menghantui, dan seringkali meresahkan suara atmosfer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316001.jpeg",
+      "simplified": "黑暗的环境",
+      "traditional": "黑暗的環境",
+      "pinyin": "hēiàn de huánjìng"
+    },
+    {
+      "id": 315861,
+      "translation": {
+        "en": {
+          "short": "ambient house",
+          "long": "a subgenre of electronic dance music that blends the beat of house music with relaxing and immersive sounds to create a chill atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah ambien",
+          "long": "Subgenre musik dansa elektronik yang memadukan irama musik rumah dengan suara santai dan mendalam untuk menciptakan suasana dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315861.jpeg",
+      "simplified": "环境房子",
+      "traditional": "環境房子",
+      "pinyin": "huánjìng fángzi"
+    },
+    {
+      "id": 315865,
+      "translation": {
+        "en": {
+          "short": "ambient industrial",
+          "long": "a genre of experimental music that combines elements of ambient and industrial music, often featuring dark, atmospheric, and industrial sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Industri ambient",
+          "long": "Genre musik eksperimental yang menggabungkan unsur -unsur musik ambient dan industri, sering menampilkan suara yang gelap, atmosfer, dan industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315865.jpeg",
+      "simplified": "环境工业",
+      "traditional": "環境工業",
+      "pinyin": "huánjìng gōngyè"
+    },
+    {
+      "id": 315863,
+      "translation": {
+        "en": {
+          "short": "ambient techno",
+          "long": "a genre of electronic music that combines elements of ambient and techno, often featuring repetitive beats, synthetic sounds, and atmospheric textures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Techno ambient",
+          "long": "Genre musik elektronik yang menggabungkan unsur -unsur ambient dan techno, sering menampilkan ketukan berulang, suara sintetis, dan tekstur atmosfer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315863.jpeg",
+      "simplified": "环境技术",
+      "traditional": "環境技術",
+      "pinyin": "huánjìng jìshù"
+    },
+    {
+      "id": 315842,
+      "translation": {
+        "en": {
+          "short": "ambient dub",
+          "long": "a genre of electronic music that blends elements of ambient and dub music, characterized by slow, spacious rhythms, echoing effects, and dub-inspired production techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dub ambient",
+          "long": "Genre musik elektronik yang memadukan unsur-unsur musik ambient dan dub, ditandai dengan ritme yang lambat dan luas, efek bergema, dan teknik produksi yang terinspirasi oleh dub",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315842.jpeg",
+      "simplified": "环境配音",
+      "traditional": "環境配音",
+      "pinyin": "huánjìng pèiyīn"
+    },
+    {
+      "id": 315956,
+      "translation": {
+        "en": {
+          "short": "space music",
+          "long": "a genre of music that often features electronic instruments and creates a sense of floating and weightlessness, evoking the feeling of traveling through space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Luar Angkasa",
+          "long": "genre musik yang sering menampilkan instrumen elektronik dan menciptakan rasa mengambang dan tanpa bobot, membangkitkan perasaan bepergian melalui ruang angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315956.jpeg",
+      "simplified": "太空音乐",
+      "traditional": "太空音樂",
+      "pinyin": "tàikōng yīnyuè"
+    },
+    {
+      "id": 315975,
+      "translation": {
+        "en": {
+          "short": "dub",
+          "long": "a style of West Indian electronic music that has a strong beat, influenced by reggae",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjuluki",
+          "long": "Gaya musik elektronik India Barat yang memiliki ketukan yang kuat, dipengaruhi oleh reggae",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315975.jpeg",
+      "simplified": "鼓声",
+      "traditional": "鼓聲",
+      "pinyin": "gǔshēng"
+    },
+    {
+      "id": 315988,
+      "translation": {
+        "en": {
+          "short": "dungeon synth",
+          "long": "atmospheric fantasy-inspired music often created with synthesizers, evoking medieval and dungeon-like soundscapes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Synth Dungeon",
+          "long": "Musik yang terinspirasi oleh fantasi atmosfer yang sering dibuat dengan synthesizer, membangkitkan soundscapes abad pertengahan dan ruang bawah tanah dan seperti penjara bawah tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315988.jpeg",
+      "simplified": "地牢合成器",
+      "traditional": "地牢合成器",
+      "pinyin": "dìláo héchéng qì"
+    },
+    {
+      "id": 316009,
+      "translation": {
+        "en": {
+          "short": "hardstyle",
+          "long": "fast-paced electronic dance music with energetic beats, heavy basslines, and distinctive screeching synths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hardstyle",
+          "long": "Musik dansa elektronik yang serba cepat dengan ketukan energik, basslines yang berat, dan synth pekik yang khas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316009.jpeg",
+      "simplified": "硬式",
+      "traditional": "硬式",
+      "pinyin": "yìng shì"
+    },
+    {
+      "id": 316013,
+      "translation": {
+        "en": {
+          "short": "illbient",
+          "long": "an experimental electronic genre blending ambient, hip-hop, and dub, known for its dark and futuristic soundscapes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "illbient",
+          "long": "genre elektronik eksperimental memadukan ambient, hip-hop, dan dub, yang dikenal karena soundscapes yang gelap dan futuristik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316013.jpeg",
+      "simplified": "不适",
+      "traditional": "不適",
+      "pinyin": "bùshì"
+    },
+    {
+      "id": 316019,
+      "translation": {
+        "en": {
+          "short": "future bass",
+          "long": "an electronic genre known for its melodic, futuristic, and bass-heavy tracks with energetic beats, lush synths, and soulful vocal samples",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bass masa depan",
+          "long": "Genre elektronik yang dikenal karena trek melodik, futuristik, dan bass-berat dengan ketukan energik, synth yang subur, dan sampel vokal yang penuh semangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316019.jpeg",
+      "simplified": "未来的低音",
+      "traditional": "未來的低音",
+      "pinyin": "wèilái de dīyīn"
+    },
+    {
+      "id": 316030,
+      "translation": {
+        "en": {
+          "short": "new-age music",
+          "long": "a genre of ambient and spiritual music characterized by soothing and introspective soundscapes with influences from world music traditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik zaman baru",
+          "long": "Genre musik ambient dan spiritual yang ditandai dengan soundscape yang menenangkan dan introspektif dengan pengaruh dari tradisi musik dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316030.jpeg",
+      "simplified": "新时代的音乐",
+      "traditional": "新時代的音樂",
+      "pinyin": "xīnshí dài de yīnyuè"
+    },
+    {
+      "id": 316036,
+      "translation": {
+        "en": {
+          "short": "chill-out music",
+          "long": "a type of electronic downtempo music that is supposed to make the audience calm and relaxed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik bersantai",
+          "long": "Jenis musik downtempo elektronik yang seharusnya membuat penonton tenang dan santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316036.jpeg",
+      "simplified": "放松音乐",
+      "traditional": "放鬆音樂",
+      "pinyin": "fàngsōng yīnyuè"
+    },
+    {
+      "id": 316041,
+      "translation": {
+        "en": {
+          "short": "house music",
+          "long": "a style of electronic dance music marked with a fast repetitive beat and a tempo of 110 to 130 bpm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik rumah",
+          "long": "Gaya musik dansa elektronik yang ditandai dengan ketukan berulang yang cepat dan tempo 110 hingga 130 bpm",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316041.jpeg",
+      "simplified": "家庭音乐",
+      "traditional": "家庭音樂",
+      "pinyin": "jiātíng yīnyuè"
+    },
+    {
+      "id": 316043,
+      "translation": {
+        "en": {
+          "short": "acid house",
+          "long": "a subgenre of house music first developed in the US, marked with a fast steady beat and distorted synthesized sound effects, especially popular among those who take psychedelic drugs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah asam",
+          "long": "Subgenre musik rumah pertama kali dikembangkan di AS, ditandai dengan ketukan yang stabil cepat dan efek suara yang disintesis, terutama populer di antara mereka yang menggunakan obat -obatan psychedelic",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316043.jpeg",
+      "simplified": "酸屋",
+      "traditional": "酸屋",
+      "pinyin": "suān wū"
+    },
+    {
+      "id": 315859,
+      "translation": {
+        "en": {
+          "short": "industrial music",
+          "long": "an experimental genre characterized by harsh, abrasive sounds, unconventional elements, and mechanical aesthetics, with roots in post-punk, noise, and electronic music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Industri",
+          "long": "Genre eksperimental yang ditandai dengan suara kasar, abrasif, elemen tidak konvensional, dan estetika mekanik, dengan akar di post-punk, noise, dan musik elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315859.jpeg",
+      "simplified": "工业音乐",
+      "traditional": "工業音樂",
+      "pinyin": "gōngyè yīnyuè"
+    },
+    {
+      "id": 316049,
+      "translation": {
+        "en": {
+          "short": "techno",
+          "long": "a fast-paced style of electronic dance music with a few or no words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "techno",
+          "long": "Gaya musik dansa elektronik yang serba cepat dengan beberapa atau tanpa kata-kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316049.jpeg",
+      "simplified": "技术",
+      "traditional": "技術",
+      "pinyin": "jìshù"
+    },
+    {
+      "id": 316051,
+      "translation": {
+        "en": {
+          "short": "trance music",
+          "long": "a type of electronic dance music with hypnotic rhythms and sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik trance",
+          "long": "Jenis musik dansa elektronik dengan ritme dan suara hipnosis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316051.jpeg",
+      "simplified": "恍惚音乐",
+      "traditional": "恍惚音樂",
+      "pinyin": "huǎnghū yīnyuè"
+    },
+    {
+      "id": 316062,
+      "translation": {
+        "en": {
+          "short": "electronic rock",
+          "long": "a genre that combines rock and electronic music, featuring guitars, synthesizers, and electronic beats, resulting in a fusion of traditional rock instrumentation with electronic sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batu elektronik",
+          "long": "Genre yang menggabungkan musik rock dan elektronik, menampilkan gitar, synthesizer, dan ketukan elektronik, menghasilkan perpaduan instrumentasi rock tradisional dengan suara elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316062.jpeg",
+      "simplified": "电子岩石",
+      "traditional": "電子岩石",
+      "pinyin": "diànzǐ yánshí"
+    },
+    {
+      "id": 316076,
+      "translation": {
+        "en": {
+          "short": "deep house",
+          "long": "genre of electronic dance music that has a slow and relaxed beat, with soulful vocals and a focus on melody and atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah yang dalam",
+          "long": "Genre musik dansa elektronik yang memiliki ketukan yang lambat dan santai, dengan vokal yang penuh semangat dan fokus pada melodi dan suasana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316076.jpeg",
+      "simplified": "深宅",
+      "traditional": "深宅",
+      "pinyin": "shēn zhái"
+    },
+    {
+      "id": 316109,
+      "translation": {
+        "en": {
+          "short": "nu-disco",
+          "long": "a contemporary dance music genre with funky basslines, catchy melodies, and modern reinterpretations of classic disco elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nu-disco",
+          "long": "Genre musik dansa kontemporer dengan basslines yang funky, melodi yang menarik, dan reinterpretasi modern dari elemen disko klasik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316109.jpeg",
+      "simplified": "nu-disco",
+      "traditional": "nu-disco",
+      "pinyin": ""
+    },
+    {
+      "id": 316113,
+      "translation": {
+        "en": {
+          "short": "electro house",
+          "long": "a high-energy genre that combines house and electro music, featuring energetic beats, heavy basslines, and prominent synthesizers and electronic sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah elektro",
+          "long": "Genre berenergi tinggi yang menggabungkan musik rumah dan elektro, menampilkan ketukan energik, basslines yang berat, dan synthesizer dan suara elektronik terkemuka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316113.jpeg",
+      "simplified": "电子房屋",
+      "traditional": "電子房屋",
+      "pinyin": "diànzǐ fángwū"
+    },
+    {
+      "id": 316129,
+      "translation": {
+        "en": {
+          "short": "electroacoustic music",
+          "long": "an experimental genre that blends electronic and acoustic elements to create innovative and immersive soundscapes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik elektroakustik",
+          "long": "genre eksperimental yang memadukan elemen elektronik dan akustik untuk menciptakan soundscapes yang inovatif dan mendalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316129.jpeg",
+      "simplified": "电声音乐",
+      "traditional": "電聲音樂",
+      "pinyin": "diàn shēngyīn Lè"
+    },
+    {
+      "id": 316155,
+      "translation": {
+        "en": {
+          "short": "hardcore",
+          "long": "an aggressive music genre with fast-paced, heavy sound, distorted guitars, shouted or screamed vocals, and raw, confrontational lyrics, originating from the punk rock scene",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hardcore",
+          "long": "Genre musik yang agresif dengan suara yang serba cepat, berat, gitar yang terdistorsi, berteriak atau berteriak vokal, dan lirik yang mentah, konfrontatif, yang berasal dari adegan rock punk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316155.jpeg",
+      "simplified": "铁杆",
+      "traditional": "鐵桿",
+      "pinyin": "tiěgān"
+    },
+    {
+      "id": 316161,
+      "translation": {
+        "en": {
+          "short": "dub techno",
+          "long": "a genre of electronic music that combines dub and techno, characterized by deep, atmospheric, and repetitive sounds with echo-laden effects, spacious reverbs, pulsating rhythms, and minimalist arrangements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dub Techno",
+          "long": "Genre musik elektronik yang menggabungkan dub dan techno, ditandai dengan suara yang dalam, atmosfer, dan berulang dengan efek yang sarat dengan gema, reverb yang luas, ritme berdenyut, dan pengaturan minimalis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316161.jpeg",
+      "simplified": "配音技术",
+      "traditional": "配音技術",
+      "pinyin": "pèiyīn jìshù"
+    },
+    {
+      "id": 316162,
+      "translation": {
+        "en": {
+          "short": "jungle music",
+          "long": "a genre of electronic dance music rooted in the UK in the 1990s that has a fast drum beat and elements of hardcore and reggae",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik hutan",
+          "long": "Genre musik dansa elektronik yang berakar di Inggris pada 1990 -an yang memiliki irama drum cepat dan elemen hardcore dan reggae",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316162.jpeg",
+      "simplified": "丛林音乐",
+      "traditional": "叢林音樂",
+      "pinyin": "cónglín yīnyuè"
+    },
+    {
+      "id": 316164,
+      "translation": {
+        "en": {
+          "short": "electronica",
+          "long": "a diverse genre of electronic music that blends experimental, ambient, and electronic styles to create unique and innovative soundscapes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "electronica",
+          "long": "Genre yang beragam dari musik elektronik yang memadukan gaya eksperimental, ambien, dan elektronik untuk menciptakan soundscapes yang unik dan inovatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316164.jpeg",
+      "simplified": "电子",
+      "traditional": "電子",
+      "pinyin": "diànzǐ"
+    },
+    {
+      "id": 316165,
+      "translation": {
+        "en": {
+          "short": "Uk garage",
+          "long": "an electronic dance music that combines elements of house music with soul, first developed in the UK in early 1990s",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garasi Inggris",
+          "long": "Musik dansa elektronik yang menggabungkan unsur -unsur musik rumah dengan jiwa, pertama kali dikembangkan di Inggris pada awal 1990 -an",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316165.jpeg",
+      "simplified": "英国车库",
+      "traditional": "英國車庫",
+      "pinyin": "Yīngguó chēkù"
+    },
+    {
+      "id": 316167,
+      "translation": {
+        "en": {
+          "short": "dubstep",
+          "long": "a genre of electronic dance music with heavy basslines, syncopated rhythms, sparse arrangements, and a distinct 'wobble' sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dubstep",
+          "long": "Genre musik dansa elektronik dengan basslines yang berat, ritme sinkopasi, pengaturan yang jarang, dan suara 'goyangan' yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316167.jpeg",
+      "simplified": "dubstep",
+      "traditional": "dubstep",
+      "pinyin": ""
+    },
+    {
+      "id": 316169,
+      "translation": {
+        "en": {
+          "short": "intelligent dance music",
+          "long": "an experimental electronic genre with complex beats, unconventional rhythms, and innovative sound design",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik dansa yang cerdas",
+          "long": "Genre elektronik eksperimental dengan ketukan kompleks, ritme yang tidak konvensional, dan desain suara yang inovatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316169.jpeg",
+      "simplified": "聪明的舞蹈音乐",
+      "traditional": "聰明的舞蹈音樂",
+      "pinyin": "cōngming de wǔdǎo yīnyuè"
+    },
+    {
+      "id": 316171,
+      "translation": {
+        "en": {
+          "short": "breakbeat",
+          "long": "an electronic music genre with syncopated rhythms, chopped-up drum samples, and distinctive 'breaks,' originating from hip hop and evolving into various sub-genres",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "breakbeat",
+          "long": "Genre musik elektronik dengan ritme sinkopasi, sampel drum cincang, dan 'istirahat' yang khas, yang berasal dari hip hop dan berevolusi menjadi berbagai sub-genre",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316171.jpeg",
+      "simplified": "断裂",
+      "traditional": "斷裂",
+      "pinyin": "duànliè"
+    },
+    {
+      "id": 316175,
+      "translation": {
+        "en": {
+          "short": "psychedelic trance",
+          "long": "an electronic dance music genre known for its fast tempo, driving basslines, hypnotic melodies, and psychedelic soundscapes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Trance psychedelic",
+          "long": "Genre musik dansa elektronik yang dikenal dengan tempo cepat, basslines mengemudi, melodi hipnosis, dan soundscapes psychedelic",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316175.jpeg",
+      "simplified": "迷幻的tr",
+      "traditional": "迷幻的tr",
+      "pinyin": "míhuàn de"
+    },
+    {
+      "id": 316156,
+      "translation": {
+        "en": {
+          "short": "electronic dance music",
+          "long": "a type of popular music with a strong beat that people dance to in clubs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik dansa elektronik",
+          "long": "Jenis musik populer dengan irama kuat yang orang menari di klub",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316156.jpeg",
+      "simplified": "电子舞曲音乐",
+      "traditional": "電子舞曲音樂",
+      "pinyin": "diànzǐ wǔ qǔ yīnyuè"
+    },
+    {
+      "id": 316157,
+      "translation": {
+        "en": {
+          "short": "drum and bass",
+          "long": "a genre of dance music originally from the UK with a fast drumbeat and heavy bassline",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drum dan bass",
+          "long": "Genre musik dansa yang berasal dari Inggris dengan drumbeat cepat dan bassline yang berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316157.jpeg",
+      "simplified": "鼓和贝司",
+      "traditional": "鼓和貝司",
+      "pinyin": "gǔ hé bèisī"
+    },
+    {
+      "id": 316159,
+      "translation": {
+        "en": {
+          "short": "acid techno",
+          "long": "an electronic dance music genre with squelchy synthesizer sounds, pounding beats, and a futuristic vibe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Techno asam",
+          "long": "Genre musik dansa elektronik dengan suara synthesizer squelchy, ketukan berdebar, dan getaran futuristik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316159.jpeg",
+      "simplified": "酸技术",
+      "traditional": "酸技術",
+      "pinyin": "suān jìshù"
+    },
+    {
+      "id": 316179,
+      "translation": {
+        "en": {
+          "short": "electronic body music",
+          "long": "a raw, aggressive, and danceable genre of electronic music known for its repetitive beats, distorted vocals, and industrial elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik tubuh elektronik",
+          "long": "Genre musik elektronik yang mentah, agresif, dan dapat menari yang dikenal karena ketukannya yang berulang, vokal yang terdistorsi, dan elemen industri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316179.jpeg",
+      "simplified": "电子身体音乐",
+      "traditional": "電子身體音樂",
+      "pinyin": "diànzǐ shēntǐ yīnyuè"
+    },
+    {
+      "id": 316181,
+      "translation": {
+        "en": {
+          "short": "speedcore",
+          "long": "an extreme genre of hardcore techno with blistering fast beats, aggressive sounds, and high-energy tempos",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "speedcore",
+          "long": "Genre ekstrem techno hardcore dengan ketukan cepat terik, suara agresif, dan tempo berenergi tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316181.jpeg",
+      "simplified": "速度核心",
+      "traditional": "速度核心",
+      "pinyin": "sùdù héxīn"
+    },
+    {
+      "id": 316183,
+      "translation": {
+        "en": {
+          "short": "rave music",
+          "long": "a genre of electronic dance music that has fast tempos, heavy basslines, and repetitive beats to create an energetic and exciting atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik rave",
+          "long": "Genre musik dansa elektronik yang memiliki tempo cepat, basslines berat, dan ketukan berulang untuk menciptakan suasana yang energik dan menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316183.jpeg",
+      "simplified": "狂欢音乐",
+      "traditional": "狂歡音樂",
+      "pinyin": "kuánghuān yīnyuè"
+    },
+    {
+      "id": 316185,
+      "translation": {
+        "en": {
+          "short": "drone music",
+          "long": "an ambient genre of electronic music with sustained tones or sounds that create a hypnotic and immersive experience, evoking introspection and timelessness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik drone",
+          "long": "genre ambient musik elektronik dengan nada atau suara berkelanjutan yang menciptakan pengalaman hipnosis dan mendalam, membangkitkan introspeksi dan keabadian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316185.jpeg",
+      "simplified": "无人机音乐",
+      "traditional": "無人機音樂",
+      "pinyin": "wúrén jī yīnyuè"
+    },
+    {
+      "id": 316186,
+      "translation": {
+        "en": {
+          "short": "synth-pop",
+          "long": "a subgenre of wave music developed in 1980s that employs a heavy use of synthesizers and electronic instruments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "synth-pop",
+          "long": "Subgenre musik gelombang yang dikembangkan pada 1980 -an yang menggunakan banyaknya synthesizer dan instrumen elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316186.jpeg",
+      "simplified": "流行合成器",
+      "traditional": "流行合成器",
+      "pinyin": "liúxíng héchéng qì"
+    },
+    {
+      "id": 316657,
+      "translation": {
+        "en": {
+          "short": "glitch music",
+          "long": "a subgenre of electronic music that is formed around the concept of aesthetic of failure during the 1990s, using glitch-based audio",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Glitch",
+          "long": "Subgenre musik elektronik yang terbentuk di sekitar konsep estetika kegagalan selama tahun 1990-an, menggunakan audio berbasis glitch",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316657.jpeg",
+      "simplified": "故障音乐",
+      "traditional": "故障音樂",
+      "pinyin": "gùzhàng yīnyuè"
+    },
+    {
+      "id": 316716,
+      "translation": {
+        "en": {
+          "short": "dance-punk",
+          "long": "a genre that fuses punk rock and dance music, featuring energetic beats, punk-inspired instrumentation, and catchy melodies for a dynamic and vibrant sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tari-punk",
+          "long": "Genre yang memadukan musik punk rock dan dansa, yang menampilkan ketukan energik, instrumentasi yang terinspirasi punk, dan melodi yang menarik untuk suara yang dinamis dan bersemangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316716.jpeg",
+      "simplified": "舞蹈朋克",
+      "traditional": "舞蹈朋克",
+      "pinyin": "wǔdǎo péngkè"
+    },
+    {
+      "id": 318049,
+      "translation": {
+        "en": {
+          "short": "Eurodance",
+          "long": "upbeat electronic dance music with catchy melodies, energetic beats, and synthesized sounds that are dancefloor-friendly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Eurodance",
+          "long": "Musik dansa elektronik optimis dengan melodi yang menarik, ketukan energik, dan suara yang disintesis yang ramah dancefloor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/318049.jpeg",
+      "simplified": "欧洲舞会",
+      "traditional": "歐洲舞會",
+      "pinyin": "Oūzhōu wǔhuì"
+    },
+    {
+      "id": 319184,
+      "translation": {
+        "en": {
+          "short": "dance music",
+          "long": "any music that is intended for dancing to, especially a type of electronic music with strong synthesized beat played in the clubs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik dansa",
+          "long": "Musik apa pun yang dimaksudkan untuk menari, terutama jenis musik elektronik dengan ketukan yang disintesis kuat di klub",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319184.jpeg",
+      "simplified": "舞蹈音乐",
+      "traditional": "舞蹈音樂",
+      "pinyin": "wǔdǎo yīnyuè"
+    },
+    {
+      "id": 324575,
+      "translation": {
+        "en": {
+          "short": "disco",
+          "long": "a type of popular dance music characterized by hypnotic rhythm and repetitive lyrics with influences from soul",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disko",
+          "long": "Jenis musik dansa populer yang ditandai dengan ritme hipnosis dan lirik berulang dengan pengaruh dari jiwa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324575.jpeg",
+      "simplified": "迪斯科",
+      "traditional": "迪斯科",
+      "pinyin": "dísī kē"
+    },
+    {
+      "id": 324576,
+      "translation": {
+        "en": {
+          "short": "disco polo",
+          "long": "a popular dance music genre from Poland with catchy melodies, upbeat rhythms, and danceable beats, often featuring Polish lyrics and a fusion of electronic and traditional instrumentation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "DISCO POLO",
+          "long": "Genre musik dansa yang populer dari Polandia dengan melodi yang menarik, ritme optimis, dan ketukan yang bisa ditari, sering menampilkan lirik Polandia dan perpaduan instrumentasi elektronik dan tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324576.jpeg",
+      "simplified": "迪斯科马球",
+      "traditional": "迪斯科馬球",
+      "pinyin": "dísī kē mǎqiú"
+    }
+  ]
+}

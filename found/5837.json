@@ -1,0 +1,658 @@
+{
+  "id": 5837,
+  "title": {
+    "en": "Sports Competitions",
+    "id": "Kompetisi Olahraga"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394198,
+      "translation": {
+        "en": {
+          "short": "championship",
+          "long": "a competition in which the best player or team is chosen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kejuaraan",
+          "long": "kompetisi di mana pemain atau tim terbaik dipilih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394198.jpeg",
+      "simplified": "锦标赛",
+      "traditional": "錦標賽",
+      "pinyin": "jǐnbiāo sài"
+    },
+    {
+      "id": 394199,
+      "translation": {
+        "en": {
+          "short": "tour",
+          "long": "a series of matches played by a particular sports teams in various locations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wisata",
+          "long": "Serangkaian pertandingan yang dimainkan oleh tim olahraga tertentu di berbagai lokasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394199.jpeg",
+      "simplified": "旅游",
+      "traditional": "旅遊",
+      "pinyin": "lǚyóu"
+    },
+    {
+      "id": 394202,
+      "translation": {
+        "en": {
+          "short": "prelim",
+          "long": "an initial round or stage that comes before the main competition, often used to determine who qualifies or how participants are placed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ujian persiapan",
+          "long": "putaran atau tahap awal yang datang sebelum kompetisi utama, sering digunakan untuk menentukan siapa yang memenuhi syarat atau bagaimana peserta ditempatkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394202.jpeg",
+      "simplified": "预习",
+      "traditional": "預習",
+      "pinyin": "yùxí"
+    },
+    {
+      "id": 394203,
+      "translation": {
+        "en": {
+          "short": "repechage",
+          "long": "a round or series of rounds where competitors who have been previously defeated have another opportunity to continue in the competition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "repechage",
+          "long": "putaran atau serangkaian putaran di mana pesaing yang sebelumnya dikalahkan memiliki kesempatan lain untuk melanjutkan kompetisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394203.jpeg",
+      "simplified": "复活",
+      "traditional": "復活",
+      "pinyin": "fùhuó"
+    },
+    {
+      "id": 394206,
+      "translation": {
+        "en": {
+          "short": "final",
+          "long": "the last match, race, etc. in a competition that determines the champion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terakhir",
+          "long": "pertandingan terakhir, balapan, dll. Dalam kompetisi yang menentukan juara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394206.jpeg",
+      "simplified": "结局",
+      "traditional": "結局",
+      "pinyin": "jiéjú"
+    },
+    {
+      "id": 394207,
+      "translation": {
+        "en": {
+          "short": "semifinal",
+          "long": "one of the two competitions before the final round",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semi final",
+          "long": "salah satu dari dua kompetisi sebelum babak final",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394207.jpeg",
+      "simplified": "半决赛",
+      "traditional": "半決賽",
+      "pinyin": "bànjué sài"
+    },
+    {
+      "id": 394212,
+      "translation": {
+        "en": {
+          "short": "mixed doubles",
+          "long": "a competition where teams are composed of one male and one female player",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ganda campuran",
+          "long": "Kompetisi di mana tim terdiri dari satu pria dan satu pemain wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394212.jpeg",
+      "simplified": "混合双打",
+      "traditional": "混合雙打",
+      "pinyin": "hùnhé shuāngdǎ"
+    },
+    {
+      "id": 394215,
+      "translation": {
+        "en": {
+          "short": "league",
+          "long": "a group of sports clubs or players who compete against each other and are put together based on the points they have gained through the season",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liga",
+          "long": "sekelompok klub olahraga atau pemain yang bersaing satu sama lain dan disatukan berdasarkan poin yang telah mereka peroleh sepanjang musim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394215.jpeg",
+      "simplified": "联盟",
+      "traditional": "聯盟",
+      "pinyin": "liánméng"
+    },
+    {
+      "id": 394217,
+      "translation": {
+        "en": {
+          "short": "match",
+          "long": "a competition in which two players or teams compete against one another such as soccer, boxing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cocok",
+          "long": "Kompetisi di mana dua pemain atau tim bersaing satu sama lain seperti sepak bola, tinju, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394217.jpeg",
+      "simplified": "竞争",
+      "traditional": "競爭",
+      "pinyin": "jìngzhēng"
+    },
+    {
+      "id": 394218,
+      "translation": {
+        "en": {
+          "short": "matchup",
+          "long": "a sports event with two players or teams competing against one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sesuai",
+          "long": "acara olahraga dengan dua pemain atau tim yang saling bersaing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394218.jpeg",
+      "simplified": "配对",
+      "traditional": "配對",
+      "pinyin": "pèiduì"
+    },
+    {
+      "id": 394221,
+      "translation": {
+        "en": {
+          "short": "exhibition game",
+          "long": "a non-competitive match or game played for entertainment, practice, or promotional purposes, rather than as part of a formal competition or league",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Game Pameran",
+          "long": "Pertandingan atau permainan yang tidak kompetitif yang dimainkan untuk hiburan, latihan, atau tujuan promosi, bukan sebagai bagian dari kompetisi formal atau liga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394221.jpeg",
+      "simplified": "展览游戏",
+      "traditional": "展覽遊戲",
+      "pinyin": "zhǎnlǎn yóuxì"
+    },
+    {
+      "id": 394229,
+      "translation": {
+        "en": {
+          "short": "Premier League",
+          "long": "the top professional football league in England, comprising 20 clubs competing for the championship title",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Liga Primer",
+          "long": "Liga Sepak Bola Profesional Teratas di Inggris, terdiri dari 20 klub yang bersaing untuk mendapatkan gelar kejuaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394229.jpeg",
+      "simplified": "超级联赛",
+      "traditional": "超級聯賽",
+      "pinyin": "chāojí liánsài"
+    },
+    {
+      "id": 394307,
+      "translation": {
+        "en": {
+          "short": "test match",
+          "long": "a competitive international match in sports such as cricket or rugby, serving as a formal test of skill between national teams",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertandingan uji",
+          "long": "Pertandingan internasional yang kompetitif dalam olahraga seperti kriket atau rugby, berfungsi sebagai ujian formal keterampilan antara tim nasional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394307.jpeg",
+      "simplified": "决赛",
+      "traditional": "決賽",
+      "pinyin": "juésài"
+    },
+    {
+      "id": 394235,
+      "translation": {
+        "en": {
+          "short": "National Football League",
+          "long": "a professional American football league comprising 32 teams",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Liga sepak bola nasional",
+          "long": "Liga Sepak Bola Amerika Profesional yang terdiri dari 32 tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394235.jpeg",
+      "simplified": "全国足球联赛",
+      "traditional": "全國足球聯賽",
+      "pinyin": "quánguó zúqiú liánsài"
+    },
+    {
+      "id": 394219,
+      "translation": {
+        "en": {
+          "short": "tournament",
+          "long": "a series of sporting games in which teams or players compete against different rivals in different rounds until only one remains and that is the winner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turnamen",
+          "long": "serangkaian permainan olahraga di mana tim atau pemain bersaing melawan rival yang berbeda dalam putaran yang berbeda sampai hanya satu yang tersisa dan itu adalah pemenangnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394219.jpeg",
+      "simplified": "比赛",
+      "traditional": "比賽",
+      "pinyin": "bǐsài"
+    },
+    {
+      "id": 394312,
+      "translation": {
+        "en": {
+          "short": "performance-enhancing drug",
+          "long": "a substance used by athletes to improve athletic performance, often banned by sports organizations due to unfair advantages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obat Peningkatan Kinerja",
+          "long": "Zat yang digunakan oleh atlet untuk meningkatkan kinerja atletik, sering dilarang oleh organisasi olahraga karena keunggulan yang tidak adil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394312.jpeg",
+      "simplified": "提高表现的药物",
+      "traditional": "提高表現的藥物",
+      "pinyin": "tígāo biǎoxiàn de yàowù"
+    },
+    {
+      "id": 394308,
+      "translation": {
+        "en": {
+          "short": "handicap",
+          "long": "a set of rules or conditions that are put in place to balance the game and give a disadvantaged player a better chance of winning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rintangan",
+          "long": "seperangkat aturan atau kondisi yang diberlakukan untuk menyeimbangkan permainan dan memberi pemain yang kurang beruntung kesempatan yang lebih baik untuk menang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394308.jpeg",
+      "simplified": "障碍",
+      "traditional": "障礙",
+      "pinyin": "zhàngài"
+    },
+    {
+      "id": 394309,
+      "translation": {
+        "en": {
+          "short": "tiebreaker",
+          "long": "a special additional round or rule used to determine a winner when the score is equal after regular play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tiebreaker",
+          "long": "Babak tambahan atau aturan khusus yang digunakan untuk menentukan pemenang saat skor sama setelah bermain reguler",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394309.jpeg",
+      "simplified": "决胜局",
+      "traditional": "決勝局",
+      "pinyin": "juéshèng jú"
+    },
+    {
+      "id": 394318,
+      "translation": {
+        "en": {
+          "short": "competition",
+          "long": "an event or contest in which individuals or teams compete against each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kompetisi",
+          "long": "acara atau kontes di mana individu atau tim bersaing satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394318.jpeg",
+      "simplified": "竞争",
+      "traditional": "競爭",
+      "pinyin": "jìngzhēng"
+    },
+    {
+      "id": 394325,
+      "translation": {
+        "en": {
+          "short": "highland games",
+          "long": "the traditional Scottish athletic competitions that feature events like hammer throwing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permainan dataran tinggi",
+          "long": "Kompetisi atletik Skotlandia tradisional yang menampilkan acara seperti hammer lempar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394325.jpeg",
+      "simplified": "高地运动会",
+      "traditional": "高地運動會",
+      "pinyin": "gāodì yùndòng huì"
+    },
+    {
+      "id": 394327,
+      "translation": {
+        "en": {
+          "short": "strongman competitions",
+          "long": "the athletic events where participants showcase strength through various feats of power, such as lifting heavy objects and pulling vehicles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kompetisi kuat",
+          "long": "Acara atletik di mana peserta menunjukkan kekuatan melalui berbagai prestasi kekuatan, seperti mengangkat benda berat dan menarik kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394327.jpeg",
+      "simplified": "大力士比赛",
+      "traditional": "大力士比賽",
+      "pinyin": "dàlì shì bǐsài"
+    },
+    {
+      "id": 394317,
+      "translation": {
+        "en": {
+          "short": "to replay",
+          "long": "to play a match again, due to specific circumstances such as a tie or inconclusive outcome",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memutar ulang",
+          "long": "Untuk memainkan pertandingan lagi, karena keadaan tertentu seperti dasi atau hasil yang tidak meyakinkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394317.jpeg",
+      "simplified": "重播",
+      "traditional": "重播",
+      "pinyin": "chóngbō"
+    },
+    {
+      "id": 394316,
+      "translation": {
+        "en": {
+          "short": "garbage time",
+          "long": "the period in a game when the outcome is virtually decided, and less experienced or non-starting players are often given playing time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waktu sampah",
+          "long": "Periode dalam permainan ketika hasilnya hampir diputuskan, dan pemain yang kurang berpengalaman atau tidak dimulai sering diberi waktu bermain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394316.jpeg",
+      "simplified": "垃圾时间",
+      "traditional": "垃圾時間",
+      "pinyin": "lājī shíjiān"
+    },
+    {
+      "id": 394314,
+      "translation": {
+        "en": {
+          "short": "time trial",
+          "long": "a race format where individuals or teams compete against the clock to achieve the fastest time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waktu ujicoba",
+          "long": "format perlombaan di mana individu atau tim bersaing melawan waktu untuk mencapai waktu tercepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394314.jpeg",
+      "simplified": "计时赛",
+      "traditional": "計時賽",
+      "pinyin": "jìshí sài"
+    },
+    {
+      "id": 394331,
+      "translation": {
+        "en": {
+          "short": "group stage",
+          "long": "the initial round where teams compete within groups to advance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pangsa Bidang",
+          "long": "Babak awal di mana tim bersaing dalam kelompok untuk maju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394331.jpeg",
+      "simplified": "小组赛",
+      "traditional": "小組賽",
+      "pinyin": "xiǎozǔ sài"
+    },
+    {
+      "id": 394236,
+      "translation": {
+        "en": {
+          "short": "Premiership",
+          "long": "the highest level of competition within a particular league or division",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Premiership",
+          "long": "tingkat kompetisi tertinggi dalam liga atau divisi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394236.jpeg",
+      "simplified": "首相职位",
+      "traditional": "首相職位",
+      "pinyin": "shǒuxiàng zhíwèi"
+    },
+    {
+      "id": 394220,
+      "translation": {
+        "en": {
+          "short": "quarterfinal",
+          "long": "a round or stage of a tournament, where the number of participants is reduced to eight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perempat final",
+          "long": "putaran atau tahap turnamen, di mana jumlah peserta dikurangi menjadi delapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394220.jpeg",
+      "simplified": "四分之一决赛",
+      "traditional": "四分之一決賽",
+      "pinyin": "sìfēn zhī yī juésài"
+    },
+    {
+      "id": 394596,
+      "translation": {
+        "en": {
+          "short": "world championship",
+          "long": "the international competitions where athletes or teams from various countries compete to determine the best in their sport",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan dunia",
+          "long": "Kompetisi internasional di mana atlet atau tim dari berbagai negara bersaing untuk menentukan yang terbaik dalam olahraga mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394596.jpeg",
+      "simplified": "世界冠军",
+      "traditional": "世界冠軍",
+      "pinyin": "shìjiè guànjūn"
+    },
+    {
+      "id": 403199,
+      "translation": {
+        "en": {
+          "short": "grand slam",
+          "long": "a set of championships or matches happening in a particular sport including tennis, golf, or rugby that are of great significance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grand Slam",
+          "long": "satu set kejuaraan atau pertandingan yang terjadi dalam olahraga tertentu termasuk tenis, golf, atau rugby yang sangat penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403199.jpeg",
+      "simplified": "大满贯（比赛）",
+      "traditional": "大滿貫（比賽）",
+      "pinyin": "dàmǎn guàn bǐsài"
+    },
+    {
+      "id": 403785,
+      "translation": {
+        "en": {
+          "short": "six pointer",
+          "long": "a sports match or event where both teams are near each other in the league standings, and the result significantly affects their rankings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "enam penunjuk",
+          "long": "Pertandingan olahraga atau acara di mana kedua tim berada di dekat satu sama lain di klasemen liga, dan hasilnya secara signifikan mempengaruhi peringkat mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403785.jpeg",
+      "simplified": "六指针",
+      "traditional": "六指針",
+      "pinyin": "liù zhǐzhēn"
+    },
+    {
+      "id": 407851,
+      "translation": {
+        "en": {
+          "short": "to run",
+          "long": "to participate in a race",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlari",
+          "long": "untuk berpartisipasi dalam perlombaan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407851.jpeg",
+      "simplified": "运行",
+      "traditional": "運行",
+      "pinyin": "yùnxíng"
+    },
+    {
+      "id": 403872,
+      "translation": {
+        "en": {
+          "short": "century",
+          "long": "a race or competition that spans a distance of one hundred units, such as meters, kilometers, or miles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "abad",
+          "long": "Perlombaan atau kompetisi yang menjangkau jarak seratus unit, seperti meter, kilometer, atau mil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403872.jpeg",
+      "simplified": "世纪",
+      "traditional": "世紀",
+      "pinyin": "shìjì"
+    },
+    {
+      "id": 404781,
+      "translation": {
+        "en": {
+          "short": "high-scoring",
+          "long": "of a game or match, where a large number of points or goals are scored",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "skor tinggi",
+          "long": "dari permainan atau pertandingan, di mana sejumlah besar poin atau gol dicetak",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404781.jpeg",
+      "simplified": "高分",
+      "traditional": "高分",
+      "pinyin": "gāofēn"
+    },
+    {
+      "id": 406553,
+      "translation": {
+        "en": {
+          "short": "diving event",
+          "long": "a competitive contest where athletes perform dives from a springboard or platform into water, aiming for skill, technique, and grace",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "acara selam",
+          "long": "Kontes kompetitif di mana atlet melakukan penyelaman dari batu loncatan atau platform ke dalam air, bertujuan untuk keterampilan, teknik, dan rahmat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406553.jpeg",
+      "simplified": "跳水活动",
+      "traditional": "跳水活動",
+      "pinyin": "tiàoshuǐ huódòng"
+    }
+  ]
+}

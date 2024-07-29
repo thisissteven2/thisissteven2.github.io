@@ -1,0 +1,716 @@
+{
+  "id": 981,
+  "title": {
+    "en": "Geography",
+    "id": "Geografi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about geography, such as \"ravine\", \"plateau\", \"fertile\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang geografi, seperti \"jurang\", \"dataran tinggi\", \"subur\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 242945,
+      "translation": {
+        "en": {
+          "short": "altitude",
+          "long": "the distance between an object or point and sea level",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketinggian",
+          "long": "jarak antara objek atau titik dan permukaan laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242945.jpeg",
+      "simplified": "高度",
+      "traditional": "高度",
+      "pinyin": "gāodù"
+    },
+    {
+      "id": 242968,
+      "translation": {
+        "en": {
+          "short": "latitude",
+          "long": "the distance of a point north or south of the equator that is measured in degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garis Lintang",
+          "long": "jarak titik utara atau selatan khatulistiwa yang diukur dalam derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242968.jpeg",
+      "simplified": "纬度",
+      "traditional": "緯度",
+      "pinyin": "wěidù"
+    },
+    {
+      "id": 242969,
+      "translation": {
+        "en": {
+          "short": "longitude",
+          "long": "the distance of a point east or west of the meridian at Greenwich that is measured in degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis bujur",
+          "long": "jarak titik timur atau barat meridian di Greenwich yang diukur dalam derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242969.jpeg",
+      "simplified": "经度",
+      "traditional": "經度",
+      "pinyin": "jīngdù"
+    },
+    {
+      "id": 242949,
+      "translation": {
+        "en": {
+          "short": "bay",
+          "long": "an area of land that is curved and partly encloses a part of the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teluk",
+          "long": "Area tanah yang melengkung dan sebagian melampirkan bagian dari laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242949.jpeg",
+      "simplified": "湾",
+      "traditional": "灣",
+      "pinyin": "wān"
+    },
+    {
+      "id": 242951,
+      "translation": {
+        "en": {
+          "short": "branch",
+          "long": "a smaller part of a river that is separated from the main and larger part",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cabang",
+          "long": "bagian kecil dari sungai yang dipisahkan dari bagian utama dan lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242951.jpeg",
+      "simplified": "河支流",
+      "traditional": "河支流",
+      "pinyin": "hé zhīliú"
+    },
+    {
+      "id": 242952,
+      "translation": {
+        "en": {
+          "short": "clearing",
+          "long": "a treeless area in a forest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Membersihkan",
+          "long": "Area tanpa pohon di hutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242952.jpeg",
+      "simplified": "空地",
+      "traditional": "空地",
+      "pinyin": "kōngdì"
+    },
+    {
+      "id": 242955,
+      "translation": {
+        "en": {
+          "short": "cove",
+          "long": "a small curved area of land that partly encloses a specific part of the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teluk kecil",
+          "long": "Area lahan melengkung kecil yang sebagian membungkus bagian tertentu dari laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242955.jpeg",
+      "simplified": "小海湾",
+      "traditional": "小海灣",
+      "pinyin": "xiǎo Hǎiwān"
+    },
+    {
+      "id": 242956,
+      "translation": {
+        "en": {
+          "short": "crater",
+          "long": "the round top of a volcano",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawah",
+          "long": "bagian atas gunung berapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242956.jpeg",
+      "simplified": "弹坑",
+      "traditional": "彈坑",
+      "pinyin": "dànkēng"
+    },
+    {
+      "id": 242957,
+      "translation": {
+        "en": {
+          "short": "deposit",
+          "long": "a layer of matter that has been accumulated, particularly by a body of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyetorkan",
+          "long": "lapisan materi yang telah diakumulasikan, terutama oleh badan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242957.jpeg",
+      "simplified": "沉积物（地质）",
+      "traditional": "沉積物（地質）",
+      "pinyin": "chénjī wù dìzhì"
+    },
+    {
+      "id": 242958,
+      "translation": {
+        "en": {
+          "short": "dock",
+          "long": "a structure built out into the water so that people can get on and off boats or ships",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dermaga",
+          "long": "Struktur yang dibangun ke dalam air sehingga orang bisa naik dan turun dari kapal atau kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242958.jpeg",
+      "simplified": "码头（靠近水的地方）",
+      "traditional": "碼頭（靠近水的地方）",
+      "pinyin": "mǎtóu kàojìn Shuǐ de dìfāng"
+    },
+    {
+      "id": 242961,
+      "translation": {
+        "en": {
+          "short": "estuary",
+          "long": "the part of a river that is wide and where it meets the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "muara",
+          "long": "bagian dari sungai yang luas dan di mana ia bertemu laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242961.jpeg",
+      "simplified": "河口",
+      "traditional": "河口",
+      "pinyin": "hékǒu"
+    },
+    {
+      "id": 242963,
+      "translation": {
+        "en": {
+          "short": "flow",
+          "long": "the state of moving constantly and steadily",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalir",
+          "long": "keadaan bergerak terus dan mantap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242963.jpeg",
+      "simplified": "流量",
+      "traditional": "流量",
+      "pinyin": "liúliàng"
+    },
+    {
+      "id": 242964,
+      "translation": {
+        "en": {
+          "short": "gulf",
+          "long": "an area of sea that is partly surrounded by land, with a narrow opening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teluk",
+          "long": "Area laut yang sebagian dikelilingi oleh darat, dengan lubang yang sempit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242964.jpeg",
+      "simplified": "海湾",
+      "traditional": "海灣",
+      "pinyin": "Hǎiwān"
+    },
+    {
+      "id": 242965,
+      "translation": {
+        "en": {
+          "short": "horizon",
+          "long": "the line where the sky and earth seem to come in contact with each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cakrawala",
+          "long": "garis di mana langit dan bumi tampaknya bersentuhan satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242965.jpeg",
+      "simplified": "地平线",
+      "traditional": "地平線",
+      "pinyin": "dìpíng xiàn"
+    },
+    {
+      "id": 242966,
+      "translation": {
+        "en": {
+          "short": "iceberg",
+          "long": "a very large floating piece of ice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gunung es",
+          "long": "sepotong es apung yang sangat besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242966.jpeg",
+      "simplified": "冰山",
+      "traditional": "冰山",
+      "pinyin": "bīngshān"
+    },
+    {
+      "id": 242973,
+      "translation": {
+        "en": {
+          "short": "peak",
+          "long": "the pointed top of a mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "bagian atas gunung yang runcing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242973.jpeg",
+      "simplified": "山峰",
+      "traditional": "山峰",
+      "pinyin": "shānfēng"
+    },
+    {
+      "id": 242974,
+      "translation": {
+        "en": {
+          "short": "peninsula",
+          "long": "a large body of land that is partially surrounded by water but is attached to a larger area of land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semenanjung",
+          "long": "sebidang tanah besar yang sebagian dikelilingi oleh air tetapi melekat pada area tanah yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242974.jpeg",
+      "simplified": "半岛",
+      "traditional": "半島",
+      "pinyin": "bàndǎo"
+    },
+    {
+      "id": 242975,
+      "translation": {
+        "en": {
+          "short": "plain",
+          "long": "a vast area of flat land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polos",
+          "long": "area tanah datar yang luas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242975.jpeg",
+      "simplified": "川",
+      "traditional": "川",
+      "pinyin": "Chuān"
+    },
+    {
+      "id": 242976,
+      "translation": {
+        "en": {
+          "short": "plateau",
+          "long": "an area of land that is flat and higher than the land surrounding it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dataran",
+          "long": "area tanah yang datar dan lebih tinggi dari tanah di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242976.jpeg",
+      "simplified": "高原",
+      "traditional": "高原",
+      "pinyin": "gāoyuán"
+    },
+    {
+      "id": 242978,
+      "translation": {
+        "en": {
+          "short": "pole",
+          "long": "the most northern or most southern points of the earth that are joined by its axis of rotation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tiang",
+          "long": "titik paling utara atau paling selatan di bumi yang bergabung dengan poros rotasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242978.jpeg",
+      "simplified": "地理极点",
+      "traditional": "地理極點",
+      "pinyin": "dìlǐ jí diǎn"
+    },
+    {
+      "id": 242979,
+      "translation": {
+        "en": {
+          "short": "pond",
+          "long": "an area containing still water that is comparatively  smaller than a lake, particularly one that is made artificially",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolam",
+          "long": "Area yang mengandung air diam yang relatif lebih kecil dari danau, terutama yang dibuat secara artifisial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242979.jpeg",
+      "simplified": "池塘",
+      "traditional": "池塘",
+      "pinyin": "chítáng"
+    },
+    {
+      "id": 242982,
+      "translation": {
+        "en": {
+          "short": "range",
+          "long": "a line of mountains or hills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jangkauan",
+          "long": "Garis gunung atau bukit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242982.jpeg",
+      "simplified": "岭",
+      "traditional": "嶺",
+      "pinyin": "líng"
+    },
+    {
+      "id": 242983,
+      "translation": {
+        "en": {
+          "short": "ravine",
+          "long": "a deep narrow valley with steep sides, usually worn by a stream",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jurang",
+          "long": "lembah sempit yang dalam dengan sisi curam, biasanya dikenakan oleh sungai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242983.jpeg",
+      "simplified": "巇",
+      "traditional": "巇",
+      "pinyin": "xī"
+    },
+    {
+      "id": 242985,
+      "translation": {
+        "en": {
+          "short": "reservoir",
+          "long": "a lake, either natural or artificial, from which water is supplied to houses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waduk",
+          "long": "Sebuah danau, baik alami maupun buatan, dari mana air dipasok ke rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242985.jpeg",
+      "simplified": "水库（大坝后面）",
+      "traditional": "水庫（大壩後面）",
+      "pinyin": "shuǐkù dàbà hòumian"
+    },
+    {
+      "id": 242989,
+      "translation": {
+        "en": {
+          "short": "summit",
+          "long": "the top of a mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "bagian atas gunung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242989.jpeg",
+      "simplified": "首脑",
+      "traditional": "首腦",
+      "pinyin": "shǒunǎo"
+    },
+    {
+      "id": 242990,
+      "translation": {
+        "en": {
+          "short": "swamp",
+          "long": "an area of land that is covered with water or is always very wet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawa",
+          "long": "Area lahan yang ditutupi dengan air atau selalu sangat basah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242990.jpeg",
+      "simplified": "沼泽",
+      "traditional": "沼澤",
+      "pinyin": "zhǎozé"
+    },
+    {
+      "id": 242991,
+      "translation": {
+        "en": {
+          "short": "tundra",
+          "long": "the expansive flat Arctic regions, of North America, Asia, and Europe, in which no trees grow and the soil is always frozen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tundra",
+          "long": "Daerah Arktik Datar yang luas, dari Amerika Utara, Asia, dan Eropa, di mana tidak ada pohon yang tumbuh dan tanah selalu beku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242991.jpeg",
+      "simplified": "苔原",
+      "traditional": "苔原",
+      "pinyin": "táiyuán"
+    },
+    {
+      "id": 242960,
+      "translation": {
+        "en": {
+          "short": "to erode",
+          "long": "(of natural forces such as wind, water, or other environmental factors) to gradually wear away or diminish the surface of a material",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk terkikis",
+          "long": "(Kekuatan alami seperti angin, air, atau faktor lingkungan lainnya) secara bertahap aus atau mengurangi permukaan suatu bahan material",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242960.jpeg",
+      "simplified": "被侵蚀",
+      "traditional": "被侵蝕",
+      "pinyin": "bèi qīnshí"
+    },
+    {
+      "id": 242946,
+      "translation": {
+        "en": {
+          "short": "arid",
+          "long": "(of land or a climate) very dry because of not having enough or any rain",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kering",
+          "long": "(tanah atau iklim) sangat kering karena tidak memiliki cukup atau hujan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242946.jpeg",
+      "simplified": "干旱",
+      "traditional": "乾旱",
+      "pinyin": "gānhàn"
+    },
+    {
+      "id": 242948,
+      "translation": {
+        "en": {
+          "short": "barren",
+          "long": "(of land or soil) not capable of producing any plants",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tandus",
+          "long": "(tanah atau tanah) tidak mampu menghasilkan tanaman apa pun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242948.jpeg",
+      "simplified": "不毛之地",
+      "traditional": "不毛之地",
+      "pinyin": "bùmáo zhī dì"
+    },
+    {
+      "id": 242953,
+      "translation": {
+        "en": {
+          "short": "coastal",
+          "long": "related to or situated along the coast, the area where land meets the sea",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Pesisir",
+          "long": "terkait atau terletak di sepanjang pantai, daerah tempat tanah bertemu laut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242953.jpeg",
+      "simplified": "沿海",
+      "traditional": "沿海",
+      "pinyin": "yánhǎi"
+    },
+    {
+      "id": 242962,
+      "translation": {
+        "en": {
+          "short": "fertile",
+          "long": "(of land or soil) able to produce crops or plants well",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subur",
+          "long": "(tanah atau tanah) mampu menghasilkan tanaman atau tanaman dengan baik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242962.jpeg",
+      "simplified": "肥沃的土地",
+      "traditional": "肥沃的土地",
+      "pinyin": "féiwò de tǔdì"
+    },
+    {
+      "id": 242967,
+      "translation": {
+        "en": {
+          "short": "inland",
+          "long": "located or occurring away from the coast",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedalaman",
+          "long": "terletak atau terjadi jauh dari pantai",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242967.jpeg",
+      "simplified": "内陆",
+      "traditional": "內陸",
+      "pinyin": "nèilù"
+    },
+    {
+      "id": 242972,
+      "translation": {
+        "en": {
+          "short": "offshore",
+          "long": "situated or occurring in the sea, typically away from the shore or coast",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "di lepas pantai",
+          "long": "terletak atau terjadi di laut, biasanya jauh dari pantai atau pantai",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242972.jpeg",
+      "simplified": "远离海岸",
+      "traditional": "遠離海岸",
+      "pinyin": "yuǎnlí hǎiàn"
+    },
+    {
+      "id": 242970,
+      "translation": {
+        "en": {
+          "short": "marine",
+          "long": "related to the sea and the different life forms that exist there",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "laut",
+          "long": "terkait dengan laut dan bentuk kehidupan yang berbeda yang ada di sana",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242970.jpeg",
+      "simplified": "海洋",
+      "traditional": "海洋",
+      "pinyin": "hǎiyáng"
+    },
+    {
+      "id": 245217,
+      "translation": {
+        "en": {
+          "short": "neighboring",
+          "long": "(of a place) close to another",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berdekatan",
+          "long": "(dari suatu tempat) dekat dengan yang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245217.jpeg",
+      "simplified": "彼此接近",
+      "traditional": "彼此接近",
+      "pinyin": "bǐcǐ jiējìn"
+    },
+    {
+      "id": 242994,
+      "translation": {
+        "en": {
+          "short": "upstream",
+          "long": "against the current of a river or stream",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke hulu",
+          "long": "terhadap arus sungai atau aliran",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242994.jpeg",
+      "simplified": "逆着河流的水流",
+      "traditional": "逆著河流的水流",
+      "pinyin": "nì zhāo héliú de shuǐliú"
+    }
+  ]
+}

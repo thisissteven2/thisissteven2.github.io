@@ -1,0 +1,640 @@
+{
+  "id": 1319,
+  "title": {
+    "en": "Bathroom",
+    "id": "Kamar mandi"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to bathrooms such as \"washstand\", \"basin\", and \"showerhead\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan kamar mandi seperti \"wastafel\", \"baskom\", dan \"pancuran\"."
+  },
+  "cards": [
+    {
+      "id": 345377,
+      "translation": {
+        "en": {
+          "short": "washstand",
+          "long": "a small table or stand with shelves or drawers, often used to hold towels or toiletries in a bathroom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wastafel",
+          "long": "meja kecil atau dudukan dengan rak atau laci, sering digunakan untuk memegang handuk atau perlengkapan mandi di kamar mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345377.jpeg",
+      "simplified": "洗涤台",
+      "traditional": "洗滌台",
+      "pinyin": "xǐdí Tái"
+    },
+    {
+      "id": 345378,
+      "translation": {
+        "en": {
+          "short": "toiletry",
+          "long": "any product or item used for personal hygiene or grooming, such as toothpaste, shampoo, soap, deodorant, and razors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perlengkapan mandi",
+          "long": "Produk atau barang apa pun yang digunakan untuk kebersihan atau perawatan pribadi, seperti pasta gigi, sampo, sabun, deodoran, dan pisau cukur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345378.jpeg",
+      "simplified": "洗漱用品",
+      "traditional": "洗漱用品",
+      "pinyin": "xǐshù yòngpǐn"
+    },
+    {
+      "id": 345379,
+      "translation": {
+        "en": {
+          "short": "toilet",
+          "long": "the seat we use for getting rid of bodily waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toilet",
+          "long": "Kursi yang kami gunakan untuk menyingkirkan limbah tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345379.jpeg",
+      "simplified": "厕所",
+      "traditional": "廁所",
+      "pinyin": "cèsuǒ"
+    },
+    {
+      "id": 345380,
+      "translation": {
+        "en": {
+          "short": "toilet bowl",
+          "long": "the receptacle in a bathroom where one sits or stands to defecate or urinate, typically made of ceramic or porcelain and connected to a plumbing system that carries away waste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangkuk toilet",
+          "long": "wadah di kamar mandi tempat seseorang duduk atau berdiri untuk buang air besar atau buang air kecil, biasanya terbuat dari keramik atau porselen dan terhubung ke sistem pipa ledeng yang membawa limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345380.jpeg",
+      "simplified": "马桶",
+      "traditional": "馬桶",
+      "pinyin": "mǎtǒng"
+    },
+    {
+      "id": 345381,
+      "translation": {
+        "en": {
+          "short": "toilet paper holder",
+          "long": "a device that holds a roll of toilet paper and is typically mounted on a wall within reach of a toilet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemegang kertas toilet",
+          "long": "Perangkat yang memegang gulungan kertas toilet dan biasanya dipasang di dinding dalam jangkauan toilet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345381.jpeg",
+      "simplified": "卫生纸架",
+      "traditional": "衛生紙架",
+      "pinyin": "wèishēng zhǐ jià"
+    },
+    {
+      "id": 345382,
+      "translation": {
+        "en": {
+          "short": "hand towel",
+          "long": "a small-sized towel that is used to dry the hands after washing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "handuk tangan",
+          "long": "handuk berukuran kecil yang digunakan untuk mengeringkan tangan setelah dicuci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345382.jpeg",
+      "simplified": "手巾",
+      "traditional": "手巾",
+      "pinyin": "shǒujīn"
+    },
+    {
+      "id": 345383,
+      "translation": {
+        "en": {
+          "short": "bath towel",
+          "long": "a large towel used for drying the body after bathing or showering",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "handuk",
+          "long": "Handuk besar yang digunakan untuk mengeringkan tubuh setelah mandi atau mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345383.jpeg",
+      "simplified": "浴巾",
+      "traditional": "浴巾",
+      "pinyin": "yùjīn"
+    },
+    {
+      "id": 345384,
+      "translation": {
+        "en": {
+          "short": "soap dish",
+          "long": "a small tray or container, usually made of porcelain, ceramic, or plastic, used to hold bar soap or other types of soap in the bathroom or kitchen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabun cuci piring",
+          "long": "Baki atau wadah kecil, biasanya terbuat dari porselen, keramik, atau plastik, digunakan untuk menahan sabun batang atau sabun jenis lainnya di kamar mandi atau dapur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345384.jpeg",
+      "simplified": "肥皂盒",
+      "traditional": "肥皂盒",
+      "pinyin": "féizào hé"
+    },
+    {
+      "id": 345385,
+      "translation": {
+        "en": {
+          "short": "tissue box",
+          "long": "a container, typically made of cardboard or plastic, designed to hold and dispense facial tissues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat tisu",
+          "long": "wadah, biasanya terbuat dari kardus atau plastik, dirancang untuk menahan dan mengeluarkan jaringan wajah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345385.jpeg",
+      "simplified": "纸巾盒",
+      "traditional": "紙巾盒",
+      "pinyin": "zhǐjīn hé"
+    },
+    {
+      "id": 345386,
+      "translation": {
+        "en": {
+          "short": "grab bar",
+          "long": "a safety device installed in bathrooms and other areas to provide additional support and stability for people with limited mobility or balance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grab Bar",
+          "long": "Perangkat keamanan yang dipasang di kamar mandi dan area lain untuk memberikan dukungan dan stabilitas tambahan bagi orang dengan mobilitas atau keseimbangan terbatas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345386.jpeg",
+      "simplified": "扶手",
+      "traditional": "扶手",
+      "pinyin": "fúshǒu"
+    },
+    {
+      "id": 345387,
+      "translation": {
+        "en": {
+          "short": "first-aid kit",
+          "long": "a set of tools and medical supplies, usually carried in a bag or case, used in case of emergency or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertolongan pertama",
+          "long": "Satu set alat dan persediaan medis, biasanya dibawa dalam tas atau kasing, digunakan dalam kasus darurat atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345387.jpeg",
+      "simplified": "急救箱",
+      "traditional": "急救箱",
+      "pinyin": "jíjiù xiāng"
+    },
+    {
+      "id": 345388,
+      "translation": {
+        "en": {
+          "short": "scale",
+          "long": "a device used to weigh people or objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skala",
+          "long": "perangkat yang digunakan untuk menimbang orang atau benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345388.jpeg",
+      "simplified": "秤",
+      "traditional": "秤",
+      "pinyin": "chēng"
+    },
+    {
+      "id": 345389,
+      "translation": {
+        "en": {
+          "short": "bathrobe",
+          "long": "a long piece of clothing, made from the same material that towels are made of, worn after or before taking a shower or bath",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mantel mandi",
+          "long": "Sepotong pakaian panjang, terbuat dari bahan yang sama dengan handuk yang terbuat dari, dikenakan setelah atau sebelum mandi atau mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345389.jpeg",
+      "simplified": "浴衣",
+      "traditional": "浴衣",
+      "pinyin": "yùyī"
+    },
+    {
+      "id": 345390,
+      "translation": {
+        "en": {
+          "short": "bubble bath",
+          "long": "a bath with a special soap added to the water to make it foamy and scented",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permandian dgn busa sabun",
+          "long": "mandi dengan sabun khusus ditambahkan ke air untuk membuatnya berbusa dan wangi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345390.jpeg",
+      "simplified": "泡泡浴",
+      "traditional": "泡泡浴",
+      "pinyin": "pàopào yù"
+    },
+    {
+      "id": 345391,
+      "translation": {
+        "en": {
+          "short": "toothbrush holder",
+          "long": "a container for storing and organizing toothbrushes, keeping them upright and separate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dudukan sikat gigi",
+          "long": "wadah untuk menyimpan dan mengatur sikat gigi, menjaganya tetap tegak dan terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345391.jpeg",
+      "simplified": "牙刷支架",
+      "traditional": "牙刷支架",
+      "pinyin": "yáshuā zhījià"
+    },
+    {
+      "id": 345392,
+      "translation": {
+        "en": {
+          "short": "stall shower",
+          "long": "a type of shower that is typically enclosed by walls and a door and is separate from the rest of the bathroom space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kamar mandi kios",
+          "long": "Jenis shower yang biasanya tertutup oleh dinding dan pintu dan terpisah dari sisa ruang kamar mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345392.jpeg",
+      "simplified": "淋浴间",
+      "traditional": "淋浴間",
+      "pinyin": "línyù jiān"
+    },
+    {
+      "id": 345393,
+      "translation": {
+        "en": {
+          "short": "basin",
+          "long": "a fixed bathroom sink with running water, used for washing hands and face",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baskom",
+          "long": "wastafel kamar mandi tetap dengan air mengalir, digunakan untuk mencuci tangan dan wajah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345393.jpeg",
+      "simplified": "盆地",
+      "traditional": "盆地",
+      "pinyin": "péndì"
+    },
+    {
+      "id": 345394,
+      "translation": {
+        "en": {
+          "short": "bidet",
+          "long": "a low, basin-like fixture located close to the toilet that is used to clean the anal or genital area by spraying water onto it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "BIDET",
+          "long": "Perlengkapan rendah seperti baskom yang terletak dekat dengan toilet yang digunakan untuk membersihkan area anal atau genital dengan menyemprotkan air ke atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345394.jpeg",
+      "simplified": "坐浴盆",
+      "traditional": "坐浴盆",
+      "pinyin": "zuòyù pén"
+    },
+    {
+      "id": 345395,
+      "translation": {
+        "en": {
+          "short": "washbasin",
+          "long": "a container that a person can use to wash their hands and face, usually found in a bathroom, which has a faucet to turn on the water and a drain to let the water out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wastafel",
+          "long": "sebuah wadah yang dapat digunakan seseorang untuk mencuci tangan dan wajah mereka, biasanya ditemukan di kamar mandi, yang memiliki keran untuk menyalakan air dan saluran air untuk membiarkan air keluar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345395.jpeg",
+      "simplified": "脸盆",
+      "traditional": "臉盆",
+      "pinyin": "liǎnpén"
+    },
+    {
+      "id": 345396,
+      "translation": {
+        "en": {
+          "short": "flush",
+          "long": "the mechanism or act of removing waste and flushing it away with water from the toilet bowl through a pipe system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyiram",
+          "long": "mekanisme atau tindakan menghilangkan limbah dan menyiramnya dengan air dari mangkuk toilet melalui sistem pipa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345396.jpeg",
+      "simplified": "旺盛",
+      "traditional": "旺盛",
+      "pinyin": "wàngshèng"
+    },
+    {
+      "id": 345397,
+      "translation": {
+        "en": {
+          "short": "cistern",
+          "long": "a container that stores water needed for flushing a toilet, often stored in the roof",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tadah",
+          "long": "wadah yang menyimpan air yang dibutuhkan untuk menyiram toilet, sering disimpan di atap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345397.jpeg",
+      "simplified": "水槽",
+      "traditional": "水槽",
+      "pinyin": "shuǐcáo"
+    },
+    {
+      "id": 345398,
+      "translation": {
+        "en": {
+          "short": "roller towel",
+          "long": "a type of towel commonly used in public restrooms that is rolled up on a spindle so that the user can tear off a clean, dry section of towel for hand drying",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anduk gulungan",
+          "long": "Jenis handuk yang biasa digunakan di toilet umum yang digulung pada spindel sehingga pengguna dapat merobek bagian handuk yang bersih dan kering untuk pengeringan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345398.jpeg",
+      "simplified": "滚筒毛巾",
+      "traditional": "滾筒毛巾",
+      "pinyin": "gǔntǒng máojīn"
+    },
+    {
+      "id": 345399,
+      "translation": {
+        "en": {
+          "short": "toilet roll",
+          "long": "a cylindrical roll of paper used for personal hygiene after using the toilet, typically placed on a holder or stand in a bathroom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Toilet Roll",
+          "long": "Gulungan kertas silinder yang digunakan untuk kebersihan pribadi setelah menggunakan toilet, biasanya ditempatkan di tempat atau berdiri di kamar mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345399.jpeg",
+      "simplified": "卫生纸",
+      "traditional": "衛生紙",
+      "pinyin": "wèishēng zhǐ"
+    },
+    {
+      "id": 345400,
+      "translation": {
+        "en": {
+          "short": "ballcock",
+          "long": "a valve that regulates the water level in a toilet tank by using a floating ball to control the flow of water from the supply line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ballcock",
+          "long": "Sebuah katup yang mengatur ketinggian air dalam tangki toilet dengan menggunakan bola mengambang untuk mengontrol aliran air dari saluran pasokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345400.jpeg",
+      "simplified": "球塞",
+      "traditional": "球塞",
+      "pinyin": "qiú Sāi"
+    },
+    {
+      "id": 345401,
+      "translation": {
+        "en": {
+          "short": "loofah",
+          "long": "a scrubbing sponge made from the fibrous skeleton of the dried fruit of a plant in the cucumber family, used for exfoliating and cleansing the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Loofah",
+          "long": "spons yang menggosok yang terbuat dari kerangka berserat buah kering dari tanaman dalam keluarga mentimun, digunakan untuk mengelupas dan membersihkan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345401.jpeg",
+      "simplified": "丝瓜络",
+      "traditional": "絲瓜絡",
+      "pinyin": "sīguā lào"
+    },
+    {
+      "id": 345402,
+      "translation": {
+        "en": {
+          "short": "towel ring",
+          "long": "a bathroom accessory that is typically mounted on the wall and used to hold a hand towel or washcloth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin handuk",
+          "long": "Aksesori kamar mandi yang biasanya dipasang di dinding dan digunakan untuk memegang handuk tangan atau waslap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345402.jpeg",
+      "simplified": "毛巾环",
+      "traditional": "毛巾環",
+      "pinyin": "máojīn Huán"
+    },
+    {
+      "id": 345403,
+      "translation": {
+        "en": {
+          "short": "towel",
+          "long": "a piece of cloth or paper that you use for drying your body or things such as dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "handuk",
+          "long": "selembar kain atau kertas yang Anda gunakan untuk mengeringkan tubuh atau benda seperti hidangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345403.jpeg",
+      "simplified": "毛巾",
+      "traditional": "毛巾",
+      "pinyin": "máojīn"
+    },
+    {
+      "id": 345404,
+      "translation": {
+        "en": {
+          "short": "tub",
+          "long": "a large container filled with water that is used for bathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bak mandi",
+          "long": "wadah besar yang diisi dengan air yang digunakan untuk mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345404.jpeg",
+      "simplified": "桶",
+      "traditional": "桶",
+      "pinyin": "tǒng"
+    },
+    {
+      "id": 345405,
+      "translation": {
+        "en": {
+          "short": "drain",
+          "long": "a pipe in the bottom of a sink, bath, etc. through which dirty water flows out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengeringkan",
+          "long": "Pipa di bagian bawah wastafel, mandi, dll. Melalui air kotor mengalir keluar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345405.jpeg",
+      "simplified": "流走",
+      "traditional": "流走",
+      "pinyin": "liú zǒu"
+    },
+    {
+      "id": 345406,
+      "translation": {
+        "en": {
+          "short": "shower",
+          "long": "a piece of equipment that flows water all over your body from above",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandi",
+          "long": "sepotong peralatan yang mengalir air ke seluruh tubuh Anda dari atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345406.jpeg",
+      "simplified": "淋浴",
+      "traditional": "淋浴",
+      "pinyin": "línyù"
+    },
+    {
+      "id": 345407,
+      "translation": {
+        "en": {
+          "short": "showerhead",
+          "long": "a plumbing fixture that is attached to a shower and delivers water for bathing or washing purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pancuran",
+          "long": "Perlengkapan pipa yang melekat pada pancuran dan mengantarkan air untuk mandi atau mencuci tujuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345407.jpeg",
+      "simplified": "淋浴喷头",
+      "traditional": "淋浴噴頭",
+      "pinyin": "línyù pēntóu"
+    },
+    {
+      "id": 348657,
+      "translation": {
+        "en": {
+          "short": "shower room",
+          "long": "a designated enclosed space or smaller area within a bathroom specifically designed for showering, typically lacking a bathtub or other fixtures found in a full bathroom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar mandi",
+          "long": "Ruang tertutup yang ditunjuk atau area yang lebih kecil di dalam kamar mandi yang dirancang khusus untuk mandi, biasanya kekurangan bathtub atau perlengkapan lain yang ditemukan di kamar mandi lengkap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348657.jpeg",
+      "simplified": "浴室",
+      "traditional": "浴室",
+      "pinyin": "yùshì"
+    },
+    {
+      "id": 348659,
+      "translation": {
+        "en": {
+          "short": "full bathroom",
+          "long": "a complete bathroom facility equipped with essential fixtures such as a toilet, sink or vanity, bathtub, and/or shower, providing comprehensive bathing options",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar mandi lengkap",
+          "long": "Fasilitas kamar mandi lengkap yang dilengkapi dengan perlengkapan penting seperti toilet, wastafel atau kesombongan, bathtub, dan/atau shower, menyediakan pilihan mandi yang komprehensif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348659.jpeg",
+      "simplified": "完整的浴室",
+      "traditional": "完整的浴室",
+      "pinyin": "wánzhěng de yùshì"
+    }
+  ]
+}

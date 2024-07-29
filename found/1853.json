@@ -1,0 +1,697 @@
+{
+  "id": 1853,
+  "title": {
+    "en": "Unit 1",
+    "id": "Unit 1"
+  },
+  "description": {
+    "en": "Here you will find the vocabulary from Unit 1 in the Headway Elementary coursebook, such as \"mother\", \"husband\", \"nice\", etc.",
+    "id": "Di sini Anda akan menemukan kosakata dari Unit 1 di buku kursus dasar, seperti \"ibu\", \"suami\", \"bagus\", dll."
+  },
+  "cards": [
+    {
+      "id": 281375,
+      "translation": {
+        "en": {
+          "short": "family",
+          "long": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keluarga",
+          "long": "Orang yang berhubungan satu sama lain dengan darah atau pernikahan, biasanya terdiri dari ayah, ibu, dan anak -anak mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281375.jpeg",
+      "simplified": "家庭",
+      "traditional": "家庭",
+      "pinyin": "jiātíng"
+    },
+    {
+      "id": 281376,
+      "translation": {
+        "en": {
+          "short": "mother",
+          "long": "a child's female parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ibu",
+          "long": "Orang Tua Wanita Seorang Anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281376.jpeg",
+      "simplified": "母亲",
+      "traditional": "母親",
+      "pinyin": "mǔqīn"
+    },
+    {
+      "id": 281382,
+      "translation": {
+        "en": {
+          "short": "wife",
+          "long": "the lady you are officially married to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "istri",
+          "long": "wanita yang secara resmi Anda nikahi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281382.jpeg",
+      "simplified": "妻子",
+      "traditional": "妻子",
+      "pinyin": "qīzǐ"
+    },
+    {
+      "id": 281387,
+      "translation": {
+        "en": {
+          "short": "husband",
+          "long": "the man you are officially married to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suami",
+          "long": "Pria yang secara resmi Anda nikahi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281387.jpeg",
+      "simplified": "丈夫",
+      "traditional": "丈夫",
+      "pinyin": "zhàngfu"
+    },
+    {
+      "id": 281386,
+      "translation": {
+        "en": {
+          "short": "father",
+          "long": "a child's male parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah",
+          "long": "orang tua laki -laki seorang anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281386.jpeg",
+      "simplified": "父亲",
+      "traditional": "父親",
+      "pinyin": "fùqīn"
+    },
+    {
+      "id": 290935,
+      "translation": {
+        "en": {
+          "short": "child",
+          "long": "a young person who has not reached puberty or adulthood yet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak",
+          "long": "seorang anak muda yang belum mencapai masa pubertas atau dewasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290935.jpeg",
+      "simplified": "儿童",
+      "traditional": "兒童",
+      "pinyin": "értóng"
+    },
+    {
+      "id": 281388,
+      "translation": {
+        "en": {
+          "short": "daughter",
+          "long": "a person's female child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak perempuan",
+          "long": "anak perempuan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281388.jpeg",
+      "simplified": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚér"
+    },
+    {
+      "id": 281384,
+      "translation": {
+        "en": {
+          "short": "son",
+          "long": "a person's male child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putra",
+          "long": "anak laki -laki seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281384.jpeg",
+      "simplified": "儿子",
+      "traditional": "兒子",
+      "pinyin": "érzi"
+    },
+    {
+      "id": 281385,
+      "translation": {
+        "en": {
+          "short": "brother",
+          "long": "a man who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudara laki-laki",
+          "long": "Seorang pria yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281385.jpeg",
+      "simplified": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gēge"
+    },
+    {
+      "id": 281389,
+      "translation": {
+        "en": {
+          "short": "sister",
+          "long": "a lady who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudari",
+          "long": "seorang wanita yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281389.jpeg",
+      "simplified": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèimei"
+    },
+    {
+      "id": 281381,
+      "translation": {
+        "en": {
+          "short": "grandmother",
+          "long": "the woman who is our mom or dad's mother",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nenek",
+          "long": "wanita yang merupakan ibu atau ibu ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281381.jpeg",
+      "simplified": "祖母",
+      "traditional": "祖母",
+      "pinyin": "zǔmǔ"
+    },
+    {
+      "id": 281390,
+      "translation": {
+        "en": {
+          "short": "grandfather",
+          "long": "the man who is our mom or dad's father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kakek",
+          "long": "Pria yang merupakan ayah atau ayah ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281390.jpeg",
+      "simplified": "祖父",
+      "traditional": "祖父",
+      "pinyin": "zǔfù"
+    },
+    {
+      "id": 281391,
+      "translation": {
+        "en": {
+          "short": "uncle",
+          "long": "the brother of our father or mother or their sibling's husband",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paman",
+          "long": "saudara lelaki atau ibu kami atau suami saudara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281391.jpeg",
+      "simplified": "叔叔",
+      "traditional": "叔叔",
+      "pinyin": "shūshu"
+    },
+    {
+      "id": 281383,
+      "translation": {
+        "en": {
+          "short": "aunt",
+          "long": "the sister of our mother or father or their sibling's wife",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tante",
+          "long": "saudara perempuan dari ibu atau ayah kita atau istri saudara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281383.jpeg",
+      "simplified": "姨妈",
+      "traditional": "姨媽",
+      "pinyin": "yímā"
+    },
+    {
+      "id": 281394,
+      "translation": {
+        "en": {
+          "short": "cousin",
+          "long": "our aunt or uncle's child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepupu",
+          "long": "bibi atau anak paman kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281394.jpeg",
+      "simplified": "表哥",
+      "traditional": "表哥",
+      "pinyin": "biǎogē"
+    },
+    {
+      "id": 281377,
+      "translation": {
+        "en": {
+          "short": "niece",
+          "long": "our sister or brother's daughter, or the daughter of our husband or wife's siblings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keponakan perempuan",
+          "long": "saudara perempuan atau putri saudara laki -laki kita, atau putri dari saudara laki -laki suami atau istri kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281377.jpeg",
+      "simplified": "侄女",
+      "traditional": "侄女",
+      "pinyin": "zhínǚ"
+    },
+    {
+      "id": 281392,
+      "translation": {
+        "en": {
+          "short": "nephew",
+          "long": "our sister or brother's son, or the son of our husband or wife's siblings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keponakan laki-laki",
+          "long": "saudara perempuan atau putra saudara laki -laki kita, atau putra dari saudara suami atau istri kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281392.jpeg",
+      "simplified": "外甥",
+      "traditional": "外甥",
+      "pinyin": "wàishēng"
+    },
+    {
+      "id": 281379,
+      "translation": {
+        "en": {
+          "short": "boyfriend",
+          "long": "a man that you love and are in a relationship with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pacar",
+          "long": "seorang pria yang Anda cintai dan menjalin hubungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281379.jpeg",
+      "simplified": "男朋友",
+      "traditional": "男朋友",
+      "pinyin": "nánpéng you"
+    },
+    {
+      "id": 281393,
+      "translation": {
+        "en": {
+          "short": "girlfriend",
+          "long": "‌a lady that you love and are in a relationship with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pacar perempuan",
+          "long": "Wanita yang Anda sukai dan menjalin hubungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/281393.jpeg",
+      "simplified": "女朋友",
+      "traditional": "女朋友",
+      "pinyin": "nǚpéng you"
+    },
+    {
+      "id": 288679,
+      "translation": {
+        "en": {
+          "short": "horrible",
+          "long": "extremely unpleasant or bad",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mengerikan",
+          "long": "sangat tidak menyenangkan atau buruk",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288679.jpeg",
+      "simplified": "非常不愉快",
+      "traditional": "非常不愉快",
+      "pinyin": "fēicháng bùyú kuài"
+    },
+    {
+      "id": 288680,
+      "translation": {
+        "en": {
+          "short": "nice",
+          "long": "providing pleasure and enjoyment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Bagus",
+          "long": "memberikan kesenangan dan kesenangan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288680.jpeg",
+      "simplified": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de"
+    },
+    {
+      "id": 288681,
+      "translation": {
+        "en": {
+          "short": "big",
+          "long": "above average in size or extent",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "besar",
+          "long": "di atas rata -rata dalam ukuran atau luasnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288681.jpeg",
+      "simplified": "尺寸或数量大",
+      "traditional": "尺寸或數量大",
+      "pinyin": "chǐcun huò shùliàng dà"
+    },
+    {
+      "id": 288682,
+      "translation": {
+        "en": {
+          "short": "small",
+          "long": "below average in size, amount, degree, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kecil",
+          "long": "Di bawah rata -rata ukuran, jumlah, derajat, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288682.jpeg",
+      "simplified": "小的",
+      "traditional": "小的",
+      "pinyin": "xiǎode"
+    },
+    {
+      "id": 288683,
+      "translation": {
+        "en": {
+          "short": "hot",
+          "long": "having a higher than normal temperature",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas",
+          "long": "memiliki suhu yang lebih tinggi dari normal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288683.jpeg",
+      "simplified": "热的",
+      "traditional": "熱的",
+      "pinyin": "rè de"
+    },
+    {
+      "id": 288684,
+      "translation": {
+        "en": {
+          "short": "cold",
+          "long": "having a temperature lower than the human body's average temperature",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dingin",
+          "long": "memiliki suhu lebih rendah dari suhu rata -rata tubuh manusia",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288684.jpeg",
+      "simplified": "寒冷的",
+      "traditional": "寒冷的",
+      "pinyin": "hánlěng de"
+    },
+    {
+      "id": 288685,
+      "translation": {
+        "en": {
+          "short": "good",
+          "long": "having a quality that is satisfying",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Bagus",
+          "long": "memiliki kualitas yang memuaskan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288685.jpeg",
+      "simplified": "好的",
+      "traditional": "好的",
+      "pinyin": "hǎo de"
+    },
+    {
+      "id": 288686,
+      "translation": {
+        "en": {
+          "short": "bad",
+          "long": "having a quality that is not satisfying",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "buruk",
+          "long": "memiliki kualitas yang tidak memuaskan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288686.jpeg",
+      "simplified": "坏的",
+      "traditional": "壞的",
+      "pinyin": "huài de"
+    },
+    {
+      "id": 288687,
+      "translation": {
+        "en": {
+          "short": "cheap",
+          "long": "having a low price",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "murah",
+          "long": "memiliki harga murah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288687.jpeg",
+      "simplified": "便宜的",
+      "traditional": "便宜的",
+      "pinyin": "biànyí de"
+    },
+    {
+      "id": 288688,
+      "translation": {
+        "en": {
+          "short": "expensive",
+          "long": "having a high price",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mahal",
+          "long": "memiliki harga tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288688.jpeg",
+      "simplified": "昂贵的",
+      "traditional": "昂貴的",
+      "pinyin": "ángguì de"
+    },
+    {
+      "id": 288689,
+      "translation": {
+        "en": {
+          "short": "old",
+          "long": "living in the later stages of life",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tua",
+          "long": "hidup di tahap kehidupan selanjutnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288689.jpeg",
+      "simplified": "老的",
+      "traditional": "老的",
+      "pinyin": "lǎo de"
+    },
+    {
+      "id": 288690,
+      "translation": {
+        "en": {
+          "short": "young",
+          "long": "still in the earlier stages of life",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "muda",
+          "long": "masih dalam tahap kehidupan sebelumnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288690.jpeg",
+      "simplified": "年轻的",
+      "traditional": "年輕的",
+      "pinyin": "niánqīng de"
+    },
+    {
+      "id": 288691,
+      "translation": {
+        "en": {
+          "short": "slow",
+          "long": "moving, happening, or being done at a speed that is low",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lambat",
+          "long": "bergerak, terjadi, atau dilakukan dengan kecepatan rendah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288691.jpeg",
+      "simplified": "动作缓慢",
+      "traditional": "動作緩慢",
+      "pinyin": "dòngzuò huǎnmàn"
+    },
+    {
+      "id": 288693,
+      "translation": {
+        "en": {
+          "short": "fast",
+          "long": "having a high speed when doing something, especially moving",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "cepat",
+          "long": "memiliki kecepatan tinggi saat melakukan sesuatu, terutama bergerak",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288693.jpeg",
+      "simplified": "快速地",
+      "traditional": "快速地",
+      "pinyin": "kuàisù de"
+    },
+    {
+      "id": 288695,
+      "translation": {
+        "en": {
+          "short": "easy",
+          "long": "needing little skill or effort to do or understand",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mudah",
+          "long": "Membutuhkan sedikit keterampilan atau upaya untuk melakukan atau memahami",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288695.jpeg",
+      "simplified": "简单的",
+      "traditional": "簡單的",
+      "pinyin": "jiǎndān de"
+    },
+    {
+      "id": 298798,
+      "translation": {
+        "en": {
+          "short": "parent",
+          "long": "our mother or our father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "induk",
+          "long": "Ibu atau ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298798.jpeg",
+      "simplified": "亲",
+      "traditional": "親",
+      "pinyin": "qīn"
+    },
+    {
+      "id": 288696,
+      "translation": {
+        "en": {
+          "short": "difficult",
+          "long": "needing a lot of work or skill to do, understand, or deal with",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sulit",
+          "long": "membutuhkan banyak pekerjaan atau keterampilan untuk dilakukan, dipahami, atau dihadapi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/288696.jpeg",
+      "simplified": "难的",
+      "traditional": "難的",
+      "pinyin": "nán de"
+    }
+  ]
+}

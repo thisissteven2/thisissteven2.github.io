@@ -1,0 +1,355 @@
+{
+  "id": 4218,
+  "title": {
+    "en": "Types of Poker",
+    "id": "Jenis poker"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to types of poker such as \"razz\", \"lowball\", and \"badugi\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan jenis poker seperti \"razz\", \"lowball\", dan \"bagugi\"."
+  },
+  "cards": [
+    {
+      "id": 356360,
+      "translation": {
+        "en": {
+          "short": "five-card draw",
+          "long": "a classic poker game that is typically played with a standard deck of 52 cards by two to six players",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "undian lima kartu",
+          "long": "Game poker klasik yang biasanya dimainkan dengan dek standar 52 kartu oleh dua hingga enam pemain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356360.jpeg",
+      "simplified": "五张牌抽牌",
+      "traditional": "五張牌抽牌",
+      "pinyin": "wǔ Zhāng pái chōu pái"
+    },
+    {
+      "id": 356363,
+      "translation": {
+        "en": {
+          "short": "Texas hold 'em",
+          "long": "a popular poker variant where players are dealt two private cards and five community cards, aiming to form the best five-card hand possible",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Texas Hold 'Em",
+          "long": "Varian poker populer di mana pemain dibagikan dua kartu pribadi dan lima kartu komunitas, yang bertujuan untuk membentuk tangan lima kartu terbaik yang mungkin terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356363.jpeg",
+      "simplified": "德州扑克",
+      "traditional": "德州撲克",
+      "pinyin": "Dézhōu pū kè"
+    },
+    {
+      "id": 356365,
+      "translation": {
+        "en": {
+          "short": "Omaha hold 'em",
+          "long": "a poker game similar to Texas Hold'em, but players are dealt four private cards, and they must use exactly two of them in combination with three of the five community cards to make the best five-card hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Omaha Hold 'Em",
+          "long": "Permainan poker yang mirip dengan Texas Hold'em, tetapi pemain dibagikan empat kartu pribadi, dan mereka harus menggunakan tepat dua dari mereka dalam kombinasi dengan tiga dari lima kartu komunitas untuk membuat tangan lima kartu terbaik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356365.jpeg",
+      "simplified": "奥马哈德州扑克",
+      "traditional": "奧馬哈德州撲克",
+      "pinyin": "Aòmǎ hā Dézhōu pū kè"
+    },
+    {
+      "id": 356368,
+      "translation": {
+        "en": {
+          "short": "seven-card stud",
+          "long": "a poker game where players are dealt seven cards, three face down and four face up, and they must use the best five-card hand to win",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seven-card stud",
+          "long": "Permainan poker di mana pemain dibagikan tujuh kartu, tiga menghadap ke bawah dan empat menghadap ke atas, dan mereka harus menggunakan tangan lima kartu terbaik untuk menang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356368.jpeg",
+      "simplified": "七张牌梭哈",
+      "traditional": "七張牌梭哈",
+      "pinyin": "qī Zhāng pái suōhā"
+    },
+    {
+      "id": 356370,
+      "translation": {
+        "en": {
+          "short": "razz",
+          "long": "a variation of seven-card stud poker, where the lowest five-card hand wins the pot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggoda",
+          "long": "Variasi poker stud tujuh kartu, di mana tangan lima kartu terendah memenangkan pot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356370.jpeg",
+      "simplified": "非难",
+      "traditional": "非難",
+      "pinyin": "fēinàn"
+    },
+    {
+      "id": 356372,
+      "translation": {
+        "en": {
+          "short": "Pineapple poker",
+          "long": "a variation of Texas hold 'em poker, where players receive three hole cards and discard one before the flop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nanas Poker",
+          "long": "Variasi Texas Hold 'Em Poker, di mana pemain menerima tiga kartu lubang dan membuang satu sebelum gagal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356372.jpeg",
+      "simplified": "菠萝扑克",
+      "traditional": "菠蘿撲克",
+      "pinyin": "bōluó pūkè"
+    },
+    {
+      "id": 356374,
+      "translation": {
+        "en": {
+          "short": "community card poker",
+          "long": "a type of poker game in which players use shared cards alongside their individual hole cards to form their hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poker kartu komunitas",
+          "long": "Jenis permainan poker di mana pemain menggunakan kartu bersama di samping kartu lubang masing -masing untuk membentuk tangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356374.jpeg",
+      "simplified": "公共牌扑克",
+      "traditional": "公共牌撲克",
+      "pinyin": "gōnggòng pái pūkè"
+    },
+    {
+      "id": 356375,
+      "translation": {
+        "en": {
+          "short": "draw poker",
+          "long": "a poker variant in which players are dealt a complete hand and then have the opportunity to exchange some or all of their cards for new ones in an attempt to improve their hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambar poker",
+          "long": "Varian poker di mana pemain dibawa dengan tangan yang lengkap dan kemudian memiliki kesempatan untuk menukar sebagian atau semua kartu mereka untuk yang baru dalam upaya untuk meningkatkan tangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356375.jpeg",
+      "simplified": "画扑克",
+      "traditional": "畫撲克",
+      "pinyin": "huà pūkè"
+    },
+    {
+      "id": 356377,
+      "translation": {
+        "en": {
+          "short": "badugi",
+          "long": "a poker variant that is played with four cards, and the objective is to create the lowest possible hand with all cards of different suits and ranks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Badugi",
+          "long": "Varian poker yang dimainkan dengan empat kartu, dan tujuannya adalah untuk membuat tangan serendah mungkin dengan semua kartu dengan pakaian dan peringkat yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356377.jpeg",
+      "simplified": "巴杜吉",
+      "traditional": "巴杜吉",
+      "pinyin": "Bā Dù Jí"
+    },
+    {
+      "id": 356379,
+      "translation": {
+        "en": {
+          "short": "Chinese poker",
+          "long": "a card game where players aim to create three distinct hands from a standard deck, competing to form stronger combinations than their opponents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poker Cina",
+          "long": "Permainan kartu di mana pemain bertujuan untuk membuat tiga tangan berbeda dari dek standar, bersaing untuk membentuk kombinasi yang lebih kuat dari lawan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356379.jpeg",
+      "simplified": "中国扑克",
+      "traditional": "中國撲克",
+      "pinyin": "Zhōngguó pūkè"
+    },
+    {
+      "id": 356381,
+      "translation": {
+        "en": {
+          "short": "double-hand poker",
+          "long": "a card game where players receive seven cards and must create two poker hands: one five-card hand and one two-card hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "poker tangan ganda",
+          "long": "Permainan kartu di mana pemain menerima tujuh kartu dan harus membuat dua tangan poker: satu tangan lima kartu dan satu tangan dua kartu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356381.jpeg",
+      "simplified": "双手扑克牌",
+      "traditional": "雙手撲克牌",
+      "pinyin": "shuāngshǒu pūkè pái"
+    },
+    {
+      "id": 356383,
+      "translation": {
+        "en": {
+          "short": "cash game",
+          "long": "a type of poker game where players use real money to buy-in for chips, and they can leave the game and cash out their chips at any time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permainan tunai",
+          "long": "Jenis permainan poker di mana pemain menggunakan uang sungguhan untuk membeli chip, dan mereka dapat meninggalkan permainan dan menguangkan chip mereka kapan saja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356383.jpeg",
+      "simplified": "现金游戏",
+      "traditional": "現金遊戲",
+      "pinyin": "xiànjīn yóuxì"
+    },
+    {
+      "id": 356385,
+      "translation": {
+        "en": {
+          "short": "deuce to seven triple draw",
+          "long": "a variant of poker where the objective is to make the lowest possible hand with no straights or flushes, and players can draw three times to improve their hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deuce menjadi tujuh draw triple",
+          "long": "Varian poker di mana tujuannya adalah untuk membuat tangan serendah mungkin tanpa lurus atau flushes, dan pemain dapat menggambar tiga kali untuk meningkatkan tangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356385.jpeg",
+      "simplified": "平分为七三重平局",
+      "traditional": "平分為七三重平局",
+      "pinyin": "píngfēn wéi qī Sānchóng píngjú"
+    },
+    {
+      "id": 356387,
+      "translation": {
+        "en": {
+          "short": "lowball",
+          "long": "a poker variant where the objective is to make the lowest-ranking hand possible",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lowball",
+          "long": "varian poker di mana tujuannya adalah untuk membuat tangan terendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356387.jpeg",
+      "simplified": "低调",
+      "traditional": "低調",
+      "pinyin": "dīdiào"
+    },
+    {
+      "id": 356389,
+      "translation": {
+        "en": {
+          "short": "six-plus hold 'em",
+          "long": "a variant of Texas hold 'em played with a shortened deck containing only cards from 6 to Ace",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Six-plus Hold 'Em",
+          "long": "Varian Texas Hold 'Em bermain dengan dek singkat yang hanya berisi kartu dari 6 hingga ace",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356389.jpeg",
+      "simplified": "六人以上德州扑克",
+      "traditional": "六人以上德州撲克",
+      "pinyin": "liù rén yǐshàng Dézhōu pū kè"
+    },
+    {
+      "id": 356390,
+      "translation": {
+        "en": {
+          "short": "stud poker",
+          "long": "a classic poker game that is typically played with a standard deck of 52 cards by two to eight players, in which each player is dealt a combination of face-up and face-down cards over several betting rounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stud Poker",
+          "long": "Game poker klasik yang biasanya dimainkan dengan dek standar 52 kartu oleh dua hingga delapan pemain, di mana masing-masing pemain dibagikan kombinasi kartu-kartu menghadap dan menghadap ke bawah pada beberapa putaran taruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356390.jpeg",
+      "simplified": "扑克",
+      "traditional": "撲克",
+      "pinyin": "pūkè"
+    },
+    {
+      "id": 356392,
+      "translation": {
+        "en": {
+          "short": "brag",
+          "long": "a historic British gambling game similar to poker, where players are dealt three cards and bet on the strength of their hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membual",
+          "long": "Game perjudian Inggris yang bersejarah mirip dengan poker, di mana pemain dibagikan tiga kartu dan bertaruh pada kekuatan tangan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356392.jpeg",
+      "simplified": "谝",
+      "traditional": "諞",
+      "pinyin": "piǎn"
+    },
+    {
+      "id": 356394,
+      "translation": {
+        "en": {
+          "short": "Omaha high-low poker",
+          "long": "a variant of poker where the pot is split between the best high hand and the best low hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Omaha tinggi poker rendah",
+          "long": "varian poker di mana pot terbelah antara tangan tinggi terbaik dan tangan rendah terbaik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356394.jpeg",
+      "simplified": "奥马哈高低扑克",
+      "traditional": "奧馬哈高低撲克",
+      "pinyin": "Aòmǎ hā gāodī pūkè"
+    }
+  ]
+}

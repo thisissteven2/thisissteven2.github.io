@@ -1,0 +1,602 @@
+{
+  "id": 5878,
+  "title": {
+    "en": "Electromagnetism and Mechanics",
+    "id": "Elektromagnetisme dan mekanika"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to electromagnetism and mechanics, such as \"torque\", \"anode\", and \"circuit\", that you will need to ace your SATs.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan elektromagnetisme dan mekanik, seperti \"torsi\", \"anoda\", dan \"sirkuit\", yang Anda perlukan untuk mengikis SAT Anda."
+  },
+  "cards": [
+    {
+      "id": 395651,
+      "translation": {
+        "en": {
+          "short": "voltage",
+          "long": "the measure of electric potential difference between two points in a circuit, expressed in volts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tegangan",
+          "long": "Ukuran perbedaan potensial listrik antara dua titik dalam suatu sirkuit, dinyatakan dalam volt",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395651.jpeg",
+      "simplified": "电压",
+      "traditional": "電壓",
+      "pinyin": "diànyā"
+    },
+    {
+      "id": 395652,
+      "translation": {
+        "en": {
+          "short": "resistor",
+          "long": "an electrical component designed to limit or control the flow of electric current in a circuit, typically by providing resistance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghambat",
+          "long": "Komponen listrik yang dirancang untuk membatasi atau mengontrol aliran arus listrik dalam sirkuit, biasanya dengan memberikan resistensi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395652.jpeg",
+      "simplified": "电阻器",
+      "traditional": "電阻器",
+      "pinyin": "diànzǔ qì"
+    },
+    {
+      "id": 395653,
+      "translation": {
+        "en": {
+          "short": "circuit",
+          "long": "the complete circle through which an electric current flows, typically consists of the source of electric energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sirkuit",
+          "long": "Lingkaran lengkap yang melaluinya arus listrik mengalir, biasanya terdiri dari sumber energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395653.jpeg",
+      "simplified": "电子电路",
+      "traditional": "電子電路",
+      "pinyin": "diànzǐ diànlù"
+    },
+    {
+      "id": 395654,
+      "translation": {
+        "en": {
+          "short": "semiconductor",
+          "long": "a solid substance that conducts electricity or heat better than insulators, but not as well as most metals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semikonduktor",
+          "long": "zat padat yang menghantarkan listrik atau panas lebih baik daripada isolator, tetapi tidak serta kebanyakan logam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395654.jpeg",
+      "simplified": "半导体",
+      "traditional": "半導體",
+      "pinyin": "bàndǎo tǐ"
+    },
+    {
+      "id": 395655,
+      "translation": {
+        "en": {
+          "short": "superconductivity",
+          "long": "a phenomenon where certain materials conduct electricity without resistance when cooled to extremely low temperatures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "superkonduktivitas",
+          "long": "fenomena di mana bahan tertentu melakukan listrik tanpa resistensi saat didinginkan hingga suhu yang sangat rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395655.jpeg",
+      "simplified": "超导",
+      "traditional": "超導",
+      "pinyin": "chāodǎo"
+    },
+    {
+      "id": 395656,
+      "translation": {
+        "en": {
+          "short": "to electrify",
+          "long": "to apply an electric charge to a conductor",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggemparkan",
+          "long": "untuk menerapkan muatan listrik ke konduktor",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395656.jpeg",
+      "simplified": "通电",
+      "traditional": "通電",
+      "pinyin": "tōngdiàn"
+    },
+    {
+      "id": 395657,
+      "translation": {
+        "en": {
+          "short": "electrode",
+          "long": "a conductor through which electricity travels to or from an object, such as batteries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektroda",
+          "long": "konduktor yang melaluinya listrik bergerak ke atau dari suatu objek, seperti baterai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395657.jpeg",
+      "simplified": "电极",
+      "traditional": "電極",
+      "pinyin": "diànjí"
+    },
+    {
+      "id": 395658,
+      "translation": {
+        "en": {
+          "short": "static electricity",
+          "long": "a form of electricity generated by friction between two materials, resulting in an imbalance of electric charges on their surfaces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "listrik statis",
+          "long": "Suatu bentuk listrik yang dihasilkan oleh gesekan antara dua bahan, yang mengakibatkan ketidakseimbangan muatan listrik pada permukaannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395658.jpeg",
+      "simplified": "静电",
+      "traditional": "靜電",
+      "pinyin": "jìngdiàn"
+    },
+    {
+      "id": 395659,
+      "translation": {
+        "en": {
+          "short": "rechargeable",
+          "long": "(of a battery or device) capable of being supplied with electrical power again",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "diisi ulang",
+          "long": "(dari baterai atau perangkat) yang mampu dipasok dengan daya listrik lagi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395659.jpeg",
+      "simplified": "可充电的",
+      "traditional": "可充電的",
+      "pinyin": "kě chōngdiàn de"
+    },
+    {
+      "id": 395660,
+      "translation": {
+        "en": {
+          "short": "generator",
+          "long": "a machine that produces electricity by converting mechanical energy into electrical energy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "generator",
+          "long": "mesin yang menghasilkan listrik dengan mengubah energi mekanik menjadi energi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395660.jpeg",
+      "simplified": "发电机",
+      "traditional": "發電機",
+      "pinyin": "fādiàn jī"
+    },
+    {
+      "id": 397179,
+      "translation": {
+        "en": {
+          "short": "anode",
+          "long": "a positively charged electrode in an electrical device where oxidation occurs, resulting in the release of electrons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anoda",
+          "long": "elektroda bermuatan positif dalam perangkat listrik di mana oksidasi terjadi, mengakibatkan pelepasan elektron",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397179.jpeg",
+      "simplified": "阳极",
+      "traditional": "陽極",
+      "pinyin": "yángjí"
+    },
+    {
+      "id": 397180,
+      "translation": {
+        "en": {
+          "short": "cathode",
+          "long": "a negatively charged electrode within an electrical device, from which electrons flow out into the external circuit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "katoda",
+          "long": "elektroda bermuatan negatif dalam perangkat listrik, dari mana elektron mengalir ke sirkuit eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397180.jpeg",
+      "simplified": "阴极",
+      "traditional": "陰極",
+      "pinyin": "yīnjí"
+    },
+    {
+      "id": 395662,
+      "translation": {
+        "en": {
+          "short": "solar cell",
+          "long": "a device that converts the energy of the sun into electricity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel surya",
+          "long": "perangkat yang mengubah energi matahari menjadi listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395662.jpeg",
+      "simplified": "太阳能电池",
+      "traditional": "太陽能電池",
+      "pinyin": "tàiyáng néng diàn chí"
+    },
+    {
+      "id": 395665,
+      "translation": {
+        "en": {
+          "short": "solar irradiance",
+          "long": "the amount of solar energy received per unit area on Earth's surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radiasi matahari",
+          "long": "Jumlah energi matahari yang diterima per satuan area di permukaan bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395665.jpeg",
+      "simplified": "太阳辐照度",
+      "traditional": "太陽輻照度",
+      "pinyin": "tàiyang fúzhào dù"
+    },
+    {
+      "id": 395666,
+      "translation": {
+        "en": {
+          "short": "radiation",
+          "long": "the energy transmitted in the form of particles or waves through the space or a matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radiasi",
+          "long": "energi yang ditransmisikan dalam bentuk partikel atau gelombang melalui ruang atau masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395666.jpeg",
+      "simplified": "能量传输",
+      "traditional": "能量傳輸",
+      "pinyin": "néngliàng chuánshū"
+    },
+    {
+      "id": 395668,
+      "translation": {
+        "en": {
+          "short": "photovoltaic",
+          "long": "related to the technology that turns sunlight directly into electricity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "fotovoltaik",
+          "long": "terkait dengan teknologi yang mengubah sinar matahari langsung menjadi listrik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395668.jpeg",
+      "simplified": "光伏",
+      "traditional": "光伏",
+      "pinyin": "guāngfú"
+    },
+    {
+      "id": 395669,
+      "translation": {
+        "en": {
+          "short": "electromagnetic",
+          "long": "referring to the combined interaction of electric and magnetic fields, often associated with waves or radiation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "elektromagnetik",
+          "long": "Mengacu pada interaksi gabungan medan listrik dan magnet, sering dikaitkan dengan gelombang atau radiasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395669.jpeg",
+      "simplified": "电磁",
+      "traditional": "電磁",
+      "pinyin": "diàncí"
+    },
+    {
+      "id": 395670,
+      "translation": {
+        "en": {
+          "short": "magnetic field",
+          "long": "an invisible area around a magnetic object where magnetic forces can attract or repel other objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Medan gaya",
+          "long": "Area yang tidak terlihat di sekitar objek magnetik di mana gaya magnetik dapat menarik atau mengusir benda lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395670.jpeg",
+      "simplified": "磁场",
+      "traditional": "磁場",
+      "pinyin": "cíchǎng"
+    },
+    {
+      "id": 395671,
+      "translation": {
+        "en": {
+          "short": "lever",
+          "long": "a long rigid bar that is put under a heavy object in order to move it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuas",
+          "long": "bilah kaku panjang yang diletakkan di bawah benda berat untuk memindahkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395671.jpeg",
+      "simplified": "杠杆",
+      "traditional": "槓桿",
+      "pinyin": "gànggǎn"
+    },
+    {
+      "id": 395673,
+      "translation": {
+        "en": {
+          "short": "fulcrum",
+          "long": "a point or support on which a lever pivots or rotates in order to lift or move objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik tumpu",
+          "long": "titik atau dukungan di mana tuas berputar atau berputar untuk mengangkat atau memindahkan objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395673.jpeg",
+      "simplified": "支点",
+      "traditional": "支點",
+      "pinyin": "zhīdiǎn"
+    },
+    {
+      "id": 395672,
+      "translation": {
+        "en": {
+          "short": "vibration",
+          "long": "the rapid back-and-forth movement of an object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "getaran",
+          "long": "gerakan bolak-balik yang cepat dari suatu objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395672.jpeg",
+      "simplified": "振动",
+      "traditional": "振動",
+      "pinyin": "zhèndòng"
+    },
+    {
+      "id": 395674,
+      "translation": {
+        "en": {
+          "short": "torque",
+          "long": "a rotational force measured in newton-meters or foot-pounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "torsi",
+          "long": "Gaya rotasi yang diukur di Newton-Meters atau foot-pounds",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395674.jpeg",
+      "simplified": "项链",
+      "traditional": "項鍊",
+      "pinyin": "xiàngliàn"
+    },
+    {
+      "id": 395676,
+      "translation": {
+        "en": {
+          "short": "spring constant",
+          "long": "a measure of a spring's stiffness, indicating how much force is needed to stretch or compress it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konstanta musim semi",
+          "long": "Ukuran kekakuan pegas, menunjukkan berapa banyak kekuatan yang diperlukan untuk meregangkan atau mengompresnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395676.jpeg",
+      "simplified": "弹簧常数",
+      "traditional": "彈簧常數",
+      "pinyin": "tánhuáng chángshù"
+    },
+    {
+      "id": 395677,
+      "translation": {
+        "en": {
+          "short": "counterweight",
+          "long": "a mass used to provide balance to another mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengimbang",
+          "long": "massa yang digunakan untuk memberikan keseimbangan untuk massa lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395677.jpeg",
+      "simplified": "使平衡",
+      "traditional": "使平衡",
+      "pinyin": "shǐ pínghéng"
+    },
+    {
+      "id": 395680,
+      "translation": {
+        "en": {
+          "short": "supersonic",
+          "long": "having a speed greater than that of sound",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "supersonik",
+          "long": "memiliki kecepatan lebih besar dari suara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395680.jpeg",
+      "simplified": "比音速还快",
+      "traditional": "比音速還快",
+      "pinyin": "Bǐ yīnsù Huán kuài"
+    },
+    {
+      "id": 395684,
+      "translation": {
+        "en": {
+          "short": "acceleration",
+          "long": "(physics) the increase in velocity over time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "percepatan",
+          "long": "(Fisika) Peningkatan kecepatan dari waktu ke waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395684.jpeg",
+      "simplified": "加速度",
+      "traditional": "加速度",
+      "pinyin": "jiāsù dù"
+    },
+    {
+      "id": 395685,
+      "translation": {
+        "en": {
+          "short": "terminal velocity",
+          "long": "the constant speed reached by a falling object when the drag force equals the gravitational force pulling it downward, resulting in no further acceleration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecepatan terminal",
+          "long": "Kecepatan konstan yang dicapai oleh objek yang jatuh ketika gaya seret sama dengan gaya gravitasi yang menariknya ke bawah, menghasilkan tidak ada akselerasi lebih lanjut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395685.jpeg",
+      "simplified": "终端速度",
+      "traditional": "終端速度",
+      "pinyin": "zhōngduān sùdù"
+    },
+    {
+      "id": 395682,
+      "translation": {
+        "en": {
+          "short": "aviation",
+          "long": "the study of the design, development, and operation of aircrafts, focusing on principles of aerodynamics, propulsion, and material science",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penerbangan",
+          "long": "Studi tentang desain, pengembangan, dan pengoperasian pesawat terbang, dengan fokus pada prinsip -prinsip aerodinamika, propulsi, dan ilmu material",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395682.jpeg",
+      "simplified": "航空",
+      "traditional": "航空",
+      "pinyin": "hángkōng"
+    },
+    {
+      "id": 395686,
+      "translation": {
+        "en": {
+          "short": "hydraulics",
+          "long": "a branch of science and engineering that deals with the mechanical properties of liquids, particularly their behavior in confined spaces and under pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hidrolika",
+          "long": "cabang sains dan teknik yang berhubungan dengan sifat mekanik cairan, terutama perilaku mereka di ruang terbatas dan di bawah tekanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395686.jpeg",
+      "simplified": "水力学",
+      "traditional": "水力學",
+      "pinyin": "shuǐlì xué"
+    },
+    {
+      "id": 395683,
+      "translation": {
+        "en": {
+          "short": "robotics",
+          "long": "an area of technology that is concerned with the study or use of robots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "robotika",
+          "long": "bidang teknologi yang berkaitan dengan studi atau penggunaan robot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395683.jpeg",
+      "simplified": "机器人技术",
+      "traditional": "機器人技術",
+      "pinyin": "jīqì rén jìshù"
+    },
+    {
+      "id": 397181,
+      "translation": {
+        "en": {
+          "short": "gravity",
+          "long": "(physics) the universal force of attraction between any pair of objects with mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gravitasi",
+          "long": "(Fisika) Kekuatan universal daya tarik antara setiap pasangan objek dengan massa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/397181.jpeg",
+      "simplified": "地球引力",
+      "traditional": "地球引力",
+      "pinyin": "dìqiú yǐnlì"
+    }
+  ]
+}

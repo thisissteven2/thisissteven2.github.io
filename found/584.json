@@ -1,0 +1,412 @@
+{
+  "id": 584,
+  "title": {
+    "en": "Two-Dimensional Shapes",
+    "id": "Bentuk dua dimensi"
+  },
+  "description": {
+    "en": "Read this lesson to learn the names of some two-dimensional shapes in English, such as \"kite\", \"square\" and \"oval\".",
+    "id": "Baca pelajaran ini untuk mempelajari nama-nama beberapa bentuk dua dimensi dalam bahasa Inggris, seperti \"layang-layang\", \"persegi\" dan \"oval\"."
+  },
+  "cards": [
+    {
+      "id": 224316,
+      "translation": {
+        "en": {
+          "short": "circle",
+          "long": "a completely round, plain shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkaran",
+          "long": "Bentuk yang benar -benar bulat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224316.jpeg",
+      "simplified": "圈",
+      "traditional": "圈",
+      "pinyin": "juān"
+    },
+    {
+      "id": 285224,
+      "translation": {
+        "en": {
+          "short": "triangle",
+          "long": "(geometry) a flat shape consisting of three straight sides and three angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tiga",
+          "long": "(Geometri) Bentuk datar yang terdiri dari tiga sisi lurus dan tiga sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285224.jpeg",
+      "simplified": "三角形",
+      "traditional": "三角形",
+      "pinyin": "sānjiǎo xíng"
+    },
+    {
+      "id": 285226,
+      "translation": {
+        "en": {
+          "short": "rectangle",
+          "long": "(geometry) a flat shape with four right angles, especially one with opposing sides that are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persegi panjang",
+          "long": "(Geometri) Bentuk datar dengan empat sudut kanan, terutama satu dengan sisi lawan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285226.jpeg",
+      "simplified": "矩形",
+      "traditional": "矩形",
+      "pinyin": "jǔxíng"
+    },
+    {
+      "id": 285240,
+      "translation": {
+        "en": {
+          "short": "kite",
+          "long": "a four-sided shape with two pairs of equal-length adjacent sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layang-layang",
+          "long": "Bentuk empat sisi dengan dua pasang sisi yang berdekatan dengan panjang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285240.jpeg",
+      "simplified": "风筝",
+      "traditional": "風箏",
+      "pinyin": "fēngzheng"
+    },
+    {
+      "id": 286284,
+      "translation": {
+        "en": {
+          "short": "square",
+          "long": "a shape with four equal straight sides and four right angles, each measuring 90°",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persegi",
+          "long": "Bentuk dengan empat sisi lurus yang sama dan empat sudut kanan, masing -masing berukuran 90 °",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286284.jpeg",
+      "simplified": "广场",
+      "traditional": "廣場",
+      "pinyin": "guǎngchǎng"
+    },
+    {
+      "id": 285310,
+      "translation": {
+        "en": {
+          "short": "trapezoid",
+          "long": "(geometry) a flat shape with four flat sides, two of which are parallel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trapesium",
+          "long": "(Geometri) Bentuk datar dengan empat sisi datar, dua di antaranya paralel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285310.jpeg",
+      "simplified": "梯形",
+      "traditional": "梯形",
+      "pinyin": "tīxíng"
+    },
+    {
+      "id": 285250,
+      "translation": {
+        "en": {
+          "short": "parallelogram",
+          "long": "(geometry) any flat shape with four straight sides, the opposite sides of which are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genjang",
+          "long": "(Geometri) Bentuk datar apa pun dengan empat sisi lurus, sisi yang berlawanan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285250.jpeg",
+      "simplified": "平行四边形",
+      "traditional": "平行四邊形",
+      "pinyin": "píngxíng sì biān xíng"
+    },
+    {
+      "id": 285252,
+      "translation": {
+        "en": {
+          "short": "rhombus",
+          "long": "(geometry) a flat shape with four equal sides in which opposite angles are equal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belah ketupat",
+          "long": "(Geometri) Bentuk datar dengan empat sisi yang sama di mana sudut yang berlawanan sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285252.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 285254,
+      "translation": {
+        "en": {
+          "short": "polygon",
+          "long": "(geometry) a flat shape consisting of three or more straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "poligon",
+          "long": "(Geometri) Bentuk datar yang terdiri dari tiga atau lebih sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285254.jpeg",
+      "simplified": "多边形",
+      "traditional": "多邊形",
+      "pinyin": "duōbiān xíng"
+    },
+    {
+      "id": 286224,
+      "translation": {
+        "en": {
+          "short": "right triangle",
+          "long": "a flat geometric shape consisting of three straight sides and one right angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga siku-siku",
+          "long": "Bentuk geometris datar yang terdiri dari tiga sisi lurus dan satu sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286224.jpeg",
+      "simplified": "直角三角形",
+      "traditional": "直角三角形",
+      "pinyin": "zhíjiǎo sān jiǎo xíng"
+    },
+    {
+      "id": 286225,
+      "translation": {
+        "en": {
+          "short": "oblique triangle",
+          "long": "a triangle that does not have a right angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga miring",
+          "long": "segitiga yang tidak memiliki sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286225.jpeg",
+      "simplified": "斜三角形",
+      "traditional": "斜三角形",
+      "pinyin": "xié sānjiǎo xíng"
+    },
+    {
+      "id": 285257,
+      "translation": {
+        "en": {
+          "short": "scalene triangle",
+          "long": "a type of triangle that has all three sides of different lengths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Scalene",
+          "long": "Jenis segitiga yang memiliki ketiga sisi dengan panjang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285257.jpeg",
+      "simplified": "不等边三角形",
+      "traditional": "不等邊三角形",
+      "pinyin": "bùděng biān sān jiǎo xíng"
+    },
+    {
+      "id": 285258,
+      "translation": {
+        "en": {
+          "short": "isosceles triangle",
+          "long": "a type of triangle that has two sides of equal length and two angles of equal measure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga sama kaki",
+          "long": "Jenis segitiga yang memiliki dua sisi dengan panjang yang sama dan dua sudut dengan ukuran yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285258.jpeg",
+      "simplified": "等腰三角形",
+      "traditional": "等腰三角形",
+      "pinyin": "děngyāo sān jiǎo xíng"
+    },
+    {
+      "id": 285261,
+      "translation": {
+        "en": {
+          "short": "equilateral triangle",
+          "long": "a type of triangle with all three sides of equal length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga sama sisi",
+          "long": "Jenis segitiga dengan ketiga sisi dengan panjang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285261.jpeg",
+      "simplified": "等边三角形",
+      "traditional": "等邊三角形",
+      "pinyin": "děngbiān sān jiǎo xíng"
+    },
+    {
+      "id": 285279,
+      "translation": {
+        "en": {
+          "short": "acute-angled triangle",
+          "long": "a type of triangle in which all three angles are less than 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Sudut Akut",
+          "long": "Jenis segitiga di mana ketiga sudutnya kurang dari 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285279.jpeg",
+      "simplified": "锐角三角形",
+      "traditional": "銳角三角形",
+      "pinyin": "ruìjiǎo sānjiǎo xíng"
+    },
+    {
+      "id": 285281,
+      "translation": {
+        "en": {
+          "short": "obtuse-angled triangle",
+          "long": "a type of triangle that has one angle greater than 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Sudut Berat",
+          "long": "Jenis segitiga yang memiliki satu sudut lebih besar dari 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285281.jpeg",
+      "simplified": "钝角三角形",
+      "traditional": "鈍角三角形",
+      "pinyin": "dùnjiǎo sānjiǎo xíng"
+    },
+    {
+      "id": 285301,
+      "translation": {
+        "en": {
+          "short": "rhomboid",
+          "long": "(geometry) a parallelogram with four straight sides and no right angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genjang",
+          "long": "(Geometri) A jajaran genjang dengan empat sisi lurus dan tidak ada sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285301.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 285303,
+      "translation": {
+        "en": {
+          "short": "semicircle",
+          "long": "any half of a circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah lingkaran",
+          "long": "Separuh lingkaran apa pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285303.jpeg",
+      "simplified": "半圆",
+      "traditional": "半圓",
+      "pinyin": "bànyuán"
+    },
+    {
+      "id": 224340,
+      "translation": {
+        "en": {
+          "short": "lozenge",
+          "long": "(geometry) a figure with four sides and two opposite angles more than 90° and two of less than 90°",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permen",
+          "long": "(Geometri) Sosok dengan empat sisi dan dua sudut yang berlawanan lebih dari 90 ° dan dua kurang dari 90 °",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224340.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 224342,
+      "translation": {
+        "en": {
+          "short": "oblong",
+          "long": "a rectangular figure that has unequal adjacent sides with arched angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bujur",
+          "long": "Sosok persegi panjang yang memiliki sisi yang tidak sama dengan sudut melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224342.jpeg",
+      "simplified": "带弧角的矩形图形",
+      "traditional": "帶弧角的矩形圖形",
+      "pinyin": "dài hú Jué de jǔxíng túxíng"
+    },
+    {
+      "id": 224344,
+      "translation": {
+        "en": {
+          "short": "oval",
+          "long": "a shape that is wide in the middle and narrow at both ends",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulat telur",
+          "long": "bentuk yang lebar di tengah dan sempit di kedua ujungnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224344.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    }
+  ]
+}

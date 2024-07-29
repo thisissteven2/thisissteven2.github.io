@@ -1,0 +1,621 @@
+{
+  "id": 38,
+  "title": {
+    "en": "Hobbies",
+    "id": "Hobi"
+  },
+  "description": {
+    "en": "Here you will learn some English words about hobbies, such as \"climbing\", \"pottery\", \"poetry\", etc. that are needed for the IELTS exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang hobi, seperti \"panjat\", \"tembikar\", \"puisi\", dll. Yang diperlukan untuk ujian IELTS."
+  },
+  "cards": [
+    {
+      "id": 209226,
+      "translation": {
+        "en": {
+          "short": "climbing",
+          "long": "the activity or sport of going upwards toward the top of a mountain or rock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendakian",
+          "long": "aktivitas atau olahraga naik ke atas menuju puncak gunung atau batu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209226.jpeg",
+      "simplified": "攀岩",
+      "traditional": "攀岩",
+      "pinyin": "pānyán"
+    },
+    {
+      "id": 209228,
+      "translation": {
+        "en": {
+          "short": "fishing",
+          "long": "the activity of catching a fish with special equipment such as a fishing line and a hook or net",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penangkapan ikan",
+          "long": "aktivitas menangkap ikan dengan peralatan khusus seperti pancing dan kait atau jaring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209228.jpeg",
+      "simplified": "钓鱼",
+      "traditional": "釣魚",
+      "pinyin": "diàoyú"
+    },
+    {
+      "id": 209229,
+      "translation": {
+        "en": {
+          "short": "gardening",
+          "long": "the activity of taking care of trees, bushes, and flowers in a garden for pleasure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Berkebun",
+          "long": "aktivitas merawat pohon, semak, dan bunga di taman untuk kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209229.jpeg",
+      "simplified": "园艺",
+      "traditional": "園藝",
+      "pinyin": "yuányì"
+    },
+    {
+      "id": 209230,
+      "translation": {
+        "en": {
+          "short": "hiking",
+          "long": "the activity of taking long walks in the countryside or mountains, often for fun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lintas alam",
+          "long": "aktivitas berjalan -jalan di pedesaan atau pegunungan, seringkali untuk bersenang -senang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209230.jpeg",
+      "simplified": "徒步旅行",
+      "traditional": "徒步旅行",
+      "pinyin": "túbù lǚ xíng"
+    },
+    {
+      "id": 209231,
+      "translation": {
+        "en": {
+          "short": "jogging",
+          "long": "the sport or activity of running at a slow and steady pace",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "joging",
+          "long": "Olahraga atau aktivitas berlari dengan kecepatan yang lambat dan mantap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209231.jpeg",
+      "simplified": "慢跑",
+      "traditional": "慢跑",
+      "pinyin": "mànpǎo"
+    },
+    {
+      "id": 209232,
+      "translation": {
+        "en": {
+          "short": "knitting",
+          "long": "the skill or act of making a piece of clothing from threads of wool, etc. by using a pair of special long thin needles or a knitting machine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rajutan",
+          "long": "Keterampilan atau tindakan membuat sepotong pakaian dari benang wol, dll. Dengan menggunakan sepasang jarum tipis panjang khusus atau mesin rajut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209232.jpeg",
+      "simplified": "针织",
+      "traditional": "針織",
+      "pinyin": "zhēnzhī"
+    },
+    {
+      "id": 209233,
+      "translation": {
+        "en": {
+          "short": "leisure",
+          "long": "a period of time when one is free from duties and can do fun activities or relax",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "santai",
+          "long": "periode waktu ketika seseorang bebas dari tugas dan dapat melakukan kegiatan yang menyenangkan atau bersantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209233.jpeg",
+      "simplified": "闲暇",
+      "traditional": "閒暇",
+      "pinyin": "xiánxiá"
+    },
+    {
+      "id": 209234,
+      "translation": {
+        "en": {
+          "short": "oil painting",
+          "long": "the art or technique of painting with oil paint",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan cat minyak",
+          "long": "seni atau teknik melukis dengan cat minyak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209234.jpeg",
+      "simplified": "油画",
+      "traditional": "油畫",
+      "pinyin": "yóuhuà"
+    },
+    {
+      "id": 209235,
+      "translation": {
+        "en": {
+          "short": "photography",
+          "long": "the process, art, or profession of capturing photographs or recording videos",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fotografi",
+          "long": "Proses, seni, atau profesi menangkap foto atau merekam video",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209235.jpeg",
+      "simplified": "摄影",
+      "traditional": "攝影",
+      "pinyin": "shèyǐng"
+    },
+    {
+      "id": 209236,
+      "translation": {
+        "en": {
+          "short": "pottery",
+          "long": "the skill or activity of making dishes, pots, etc. using clay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembikar",
+          "long": "keterampilan atau aktivitas membuat hidangan, pot, dll. Menggunakan tanah liat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209236.jpeg",
+      "simplified": "陶器",
+      "traditional": "陶器",
+      "pinyin": "táoqì"
+    },
+    {
+      "id": 209237,
+      "translation": {
+        "en": {
+          "short": "sewing",
+          "long": "the skill or practice of using a scissor, needle, thread, etc. to make or repair clothing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jahit",
+          "long": "keterampilan atau praktik menggunakan gunting, jarum, benang, dll. Untuk membuat atau memperbaiki pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209237.jpeg",
+      "simplified": "缝纫",
+      "traditional": "縫紉",
+      "pinyin": "féngrèn"
+    },
+    {
+      "id": 209238,
+      "translation": {
+        "en": {
+          "short": "calligraphy",
+          "long": "the art of producing beautiful handwriting using special writing instruments such as a dip or brush pen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaligrafi",
+          "long": "Seni memproduksi tulisan tangan yang indah menggunakan instrumen penulisan khusus seperti pena saus atau kuas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209238.jpeg",
+      "simplified": "书法",
+      "traditional": "書法",
+      "pinyin": "shūfǎ"
+    },
+    {
+      "id": 209239,
+      "translation": {
+        "en": {
+          "short": "embroidery",
+          "long": "the activity of sewing decorative patterns onto a piece of clothing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sulaman",
+          "long": "aktivitas menjahit pola dekoratif ke sepotong pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209239.jpeg",
+      "simplified": "刺绣",
+      "traditional": "刺繡",
+      "pinyin": "cìxiù"
+    },
+    {
+      "id": 209240,
+      "translation": {
+        "en": {
+          "short": "pastime",
+          "long": "an enjoyable activity that a person does regularly in their free time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiburan",
+          "long": "aktivitas menyenangkan yang dilakukan seseorang secara teratur di waktu luang mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209240.jpeg",
+      "simplified": "消遣",
+      "traditional": "消遣",
+      "pinyin": "xiāoqiǎn"
+    },
+    {
+      "id": 209241,
+      "translation": {
+        "en": {
+          "short": "collector",
+          "long": "someone who gathers things, as a job or hobby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengumpul",
+          "long": "seseorang yang mengumpulkan banyak hal, sebagai pekerjaan atau hobi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209241.jpeg",
+      "simplified": "爱好者收藏家",
+      "traditional": "愛好者收藏家",
+      "pinyin": "àihào zhě shōucáng jiā"
+    },
+    {
+      "id": 209242,
+      "translation": {
+        "en": {
+          "short": "skateboarding",
+          "long": "the sport or activity of riding a skateboard",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Skateboarding",
+          "long": "olahraga atau aktivitas mengendarai skateboard",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209242.jpeg",
+      "simplified": "滑板运动",
+      "traditional": "滑板運動",
+      "pinyin": "huábǎn yùndòng"
+    },
+    {
+      "id": 209243,
+      "translation": {
+        "en": {
+          "short": "poetry",
+          "long": "a type of writing that uses special language, rhythm, and imagery to express emotions and ideas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puisi",
+          "long": "Jenis tulisan yang menggunakan bahasa, ritme, dan citra khusus untuk mengekspresikan emosi dan ide",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209243.jpeg",
+      "simplified": "诗",
+      "traditional": "詩",
+      "pinyin": "Shī"
+    },
+    {
+      "id": 209244,
+      "translation": {
+        "en": {
+          "short": "to explore",
+          "long": "to visit places one has never seen before",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengeksplorasi",
+          "long": "untuk mengunjungi tempat yang belum pernah dilihat sebelumnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209244.jpeg",
+      "simplified": "探索",
+      "traditional": "探索",
+      "pinyin": "tànsuǒ"
+    },
+    {
+      "id": 224120,
+      "translation": {
+        "en": {
+          "short": "clubbing",
+          "long": "the act or activity of frequently hanging out in nightclubs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "clubbing",
+          "long": "tindakan atau aktivitas yang sering nongkrong di klub malam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224120.jpeg",
+      "simplified": "经常去夜店",
+      "traditional": "經常去夜店",
+      "pinyin": "jīngcháng qù yèdiàn"
+    },
+    {
+      "id": 209245,
+      "translation": {
+        "en": {
+          "short": "yoga",
+          "long": "a Hindu philosophy that focuses on mental and physical exercises which allow someone to be more conscious and united with the spirit of the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "yoga",
+          "long": "Filosofi Hindu yang berfokus pada latihan mental dan fisik yang memungkinkan seseorang menjadi lebih sadar dan bersatu dengan semangat alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209245.jpeg",
+      "simplified": "瑜伽",
+      "traditional": "瑜伽",
+      "pinyin": "yújiā"
+    },
+    {
+      "id": 209246,
+      "translation": {
+        "en": {
+          "short": "basketry",
+          "long": "the craft or skill of making baskets by hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Basketri",
+          "long": "kerajinan atau keterampilan membuat keranjang dengan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209246.jpeg",
+      "simplified": "篮",
+      "traditional": "籃",
+      "pinyin": "lán"
+    },
+    {
+      "id": 209247,
+      "translation": {
+        "en": {
+          "short": "to craft",
+          "long": "to skillfully make something, particularly with the hands",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kerajinan",
+          "long": "untuk membuat sesuatu dengan terampil, terutama dengan tangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209247.jpeg",
+      "simplified": "制作一些东西",
+      "traditional": "製作一些東西",
+      "pinyin": "zhìzuò yīxiē dōngxī"
+    },
+    {
+      "id": 209248,
+      "translation": {
+        "en": {
+          "short": "cookery",
+          "long": "the skill or activity of preparing food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasak",
+          "long": "keterampilan atau aktivitas menyiapkan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209248.jpeg",
+      "simplified": "烹饪法",
+      "traditional": "烹飪法",
+      "pinyin": "pēngrèn fǎ"
+    },
+    {
+      "id": 224117,
+      "translation": {
+        "en": {
+          "short": "birdwatching",
+          "long": "the activity or hobby of studying birds by observing them in their natural surroundings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengamati burung",
+          "long": "aktivitas atau hobi mempelajari burung dengan mengamati mereka di lingkungan alami mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224117.jpeg",
+      "simplified": "观鸟",
+      "traditional": "觀鳥",
+      "pinyin": "guānniǎo"
+    },
+    {
+      "id": 209249,
+      "translation": {
+        "en": {
+          "short": "horseback riding",
+          "long": "the competitive sport of riding horses, often with specific goals such as jumping over obstacles or performing in show competitions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menunggang kuda",
+          "long": "Olahraga kompetitif menunggang kuda, seringkali dengan tujuan spesifik seperti melompati rintangan atau tampil di kompetisi pertunjukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209249.jpeg",
+      "simplified": "鞍马",
+      "traditional": "鞍馬",
+      "pinyin": "ānmǎ"
+    },
+    {
+      "id": 209250,
+      "translation": {
+        "en": {
+          "short": "riding",
+          "long": "the state or act of a person who rides a horse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berkuda",
+          "long": "keadaan atau tindakan seseorang yang menunggang kuda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209250.jpeg",
+      "simplified": "骑术",
+      "traditional": "騎術",
+      "pinyin": "qíshù"
+    },
+    {
+      "id": 209251,
+      "translation": {
+        "en": {
+          "short": "sculpture",
+          "long": "the art of shaping and engraving clay, stone, etc. to create artistic objects or figures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patung",
+          "long": "Seni membentuk dan mengukir tanah liat, batu, dll. Untuk membuat benda atau angka artistik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209251.jpeg",
+      "simplified": "雕塑",
+      "traditional": "雕塑",
+      "pinyin": "diāosù"
+    },
+    {
+      "id": 209252,
+      "translation": {
+        "en": {
+          "short": "drama",
+          "long": "a play that is performed in a theater, on TV, or radio",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drama",
+          "long": "drama yang dilakukan di teater, di TV, atau radio",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209252.jpeg",
+      "simplified": "戏剧",
+      "traditional": "戲劇",
+      "pinyin": "xìjù"
+    },
+    {
+      "id": 209253,
+      "translation": {
+        "en": {
+          "short": "hobby",
+          "long": "an activity that we enjoy doing in our free time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hobi",
+          "long": "aktivitas yang kami sukai di waktu luang kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209253.jpeg",
+      "simplified": "爱好",
+      "traditional": "愛好",
+      "pinyin": "àihào"
+    },
+    {
+      "id": 209254,
+      "translation": {
+        "en": {
+          "short": "painting",
+          "long": "the act or art of making pictures, using paints",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan",
+          "long": "tindakan atau seni membuat gambar, menggunakan cat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209254.jpeg",
+      "simplified": "绘画",
+      "traditional": "繪畫",
+      "pinyin": "huìhuà"
+    },
+    {
+      "id": 264220,
+      "translation": {
+        "en": {
+          "short": "drawing",
+          "long": "the activity or art of creating illustrations by a pen or pencil",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggambar",
+          "long": "aktivitas atau seni membuat ilustrasi dengan pena atau pensil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264220.jpeg",
+      "simplified": "图纸",
+      "traditional": "圖紙",
+      "pinyin": "túzhǐ"
+    },
+    {
+      "id": 209255,
+      "translation": {
+        "en": {
+          "short": "handicraft",
+          "long": "the activity or art of skillfully using one’s hand to create attractive objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerajinan",
+          "long": "aktivitas atau seni dengan terampil menggunakan tangan seseorang untuk membuat objek yang menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209255.jpeg",
+      "simplified": "手工业",
+      "traditional": "手工業",
+      "pinyin": "shǒugōng yè"
+    }
+  ]
+}

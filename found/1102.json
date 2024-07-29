@@ -1,0 +1,621 @@
+{
+  "id": 1102,
+  "title": {
+    "en": "You DO the Math!",
+    "id": "Anda menghitungnya!"
+  },
+  "description": {
+    "en": "Here you will learn some English words about math, such as \"axis\", \"congruent\", \"matrix\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang matematika, seperti \"sumbu\", \"kongruen\", \"matriks\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 249412,
+      "translation": {
+        "en": {
+          "short": "arithmetic",
+          "long": "a branch of mathematics that deals with addition, subtraction, multiplication, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hitung",
+          "long": "Cabang matematika yang berhubungan dengan penambahan, pengurangan, perkalian, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249412.jpeg",
+      "simplified": "算术",
+      "traditional": "算術",
+      "pinyin": "suànshù"
+    },
+    {
+      "id": 249413,
+      "translation": {
+        "en": {
+          "short": "asymmetry",
+          "long": "(geometry) a lack of symmetry or equivalence in shape or size between the two sides or parts of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asimetri",
+          "long": "(Geometri) Kurangnya simetri atau kesetaraan dalam bentuk atau ukuran antara kedua sisi atau bagian dari sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249413.jpeg",
+      "simplified": "不对称",
+      "traditional": "不對稱",
+      "pinyin": "bùduì chèn"
+    },
+    {
+      "id": 249414,
+      "translation": {
+        "en": {
+          "short": "axis",
+          "long": "a real or imaginary line about which an object rotates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumbu",
+          "long": "garis nyata atau imajiner tentang mana suatu objek berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249414.jpeg",
+      "simplified": "轴",
+      "traditional": "軸",
+      "pinyin": "zhóu"
+    },
+    {
+      "id": 249415,
+      "translation": {
+        "en": {
+          "short": "calculus",
+          "long": "the branch of mathematics that comprises differentials and integrals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalkulus",
+          "long": "cabang matematika yang terdiri dari perbedaan dan integral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249415.jpeg",
+      "simplified": "结石",
+      "traditional": "結石",
+      "pinyin": "jiéshí"
+    },
+    {
+      "id": 249416,
+      "translation": {
+        "en": {
+          "short": "chaos theory",
+          "long": "(mathematics) an interdisciplinary theory about complex systems that obey particular laws but appear to have little or no order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teori Chaos",
+          "long": "(Matematika) Teori interdisipliner tentang sistem kompleks yang mematuhi undang -undang tertentu tetapi tampaknya memiliki sedikit atau tidak ada ketertiban",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249416.jpeg",
+      "simplified": "混沌理论",
+      "traditional": "混沌理論",
+      "pinyin": "hùndùn lǐ lùn"
+    },
+    {
+      "id": 249417,
+      "translation": {
+        "en": {
+          "short": "congruent",
+          "long": "(in geometry) describing shapes of the same size and form",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kongruen",
+          "long": "(dalam geometri) menggambarkan bentuk dengan ukuran dan bentuk yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249417.jpeg",
+      "simplified": "全等",
+      "traditional": "全等",
+      "pinyin": "quánděng"
+    },
+    {
+      "id": 249418,
+      "translation": {
+        "en": {
+          "short": "decimal",
+          "long": "(mathematics) a number less than one, called a fraction, that is represented as a period followed by the number of tenths, hundredths, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "desimal",
+          "long": "(Matematika) Angka kurang dari satu, disebut fraksi, yang direpresentasikan sebagai periode diikuti oleh jumlah persepuluh, ratusan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249418.jpeg",
+      "simplified": "小数",
+      "traditional": "小數",
+      "pinyin": "xiǎoshù"
+    },
+    {
+      "id": 249419,
+      "translation": {
+        "en": {
+          "short": "game theory",
+          "long": "a branch of mathematics that studies the strategies of dealing with competitive situations involving conflict of interests, especially in business, war, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teori Game",
+          "long": "Cabang matematika yang mempelajari strategi berurusan dengan situasi kompetitif yang melibatkan konflik kepentingan, terutama dalam bisnis, perang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249419.jpeg",
+      "simplified": "博弈论",
+      "traditional": "博弈論",
+      "pinyin": "bóyì lùn"
+    },
+    {
+      "id": 249420,
+      "translation": {
+        "en": {
+          "short": "matrix",
+          "long": "a rectangular array of numbers or symbols organized in rows and columns, commonly used in linear algebra for representing equations, transformations, and vector operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "matriks",
+          "long": "serangkaian angka atau simbol persegi panjang yang disusun dalam baris dan kolom, yang biasa digunakan dalam aljabar linier untuk mewakili persamaan, transformasi, dan operasi vektor",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249420.jpeg",
+      "simplified": "矩阵",
+      "traditional": "矩陣",
+      "pinyin": "jǔzhèn"
+    },
+    {
+      "id": 249421,
+      "translation": {
+        "en": {
+          "short": "trigonometry",
+          "long": "a branch of mathematics that deals with the relationships between the angles and sides of triangles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trigonometri",
+          "long": "cabang matematika yang berkaitan dengan hubungan antara sudut dan sisi segitiga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249421.jpeg",
+      "simplified": "三角学",
+      "traditional": "三角學",
+      "pinyin": "sānjiǎo xué"
+    },
+    {
+      "id": 249422,
+      "translation": {
+        "en": {
+          "short": "radius",
+          "long": "the length of a straight line drawn from the center of a circle to any point on its outer boundary",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radius",
+          "long": "Panjang garis lurus yang ditarik dari pusat lingkaran ke titik mana pun di batas luarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249422.jpeg",
+      "simplified": "半径",
+      "traditional": "半徑",
+      "pinyin": "bànjìng"
+    },
+    {
+      "id": 249423,
+      "translation": {
+        "en": {
+          "short": "parabola",
+          "long": "(geometry) a symmetrical open curve that is similar to the path of an object thrown into the air passes till it falls back to earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parabola",
+          "long": "(Geometri) Kurva terbuka simetris yang mirip dengan jalur objek yang dilemparkan ke udara melewati sampai jatuh kembali ke bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249423.jpeg",
+      "simplified": "抛物线",
+      "traditional": "拋物線",
+      "pinyin": "pāowù xiàn"
+    },
+    {
+      "id": 249424,
+      "translation": {
+        "en": {
+          "short": "gradient",
+          "long": "the rate at which a quantity or dimension changes over a given distance or interval",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gradien",
+          "long": "laju di mana kuantitas atau dimensi berubah pada jarak atau interval tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249424.jpeg",
+      "simplified": "梯度",
+      "traditional": "梯度",
+      "pinyin": "tīdù"
+    },
+    {
+      "id": 249425,
+      "translation": {
+        "en": {
+          "short": "equation",
+          "long": "(mathematics) a statement indicating the equality between two values",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persamaan",
+          "long": "(Matematika) Pernyataan yang menunjukkan kesetaraan antara dua nilai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249425.jpeg",
+      "simplified": "方程",
+      "traditional": "方程",
+      "pinyin": "fāngchéng"
+    },
+    {
+      "id": 249426,
+      "translation": {
+        "en": {
+          "short": "circumference",
+          "long": "(geometry) the length of the external boundary of a curved shape, especially a circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkar",
+          "long": "(Geometri) Panjang batas eksternal dari bentuk melengkung, terutama lingkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249426.jpeg",
+      "simplified": "圆周",
+      "traditional": "圓周",
+      "pinyin": "yuánzhōu"
+    },
+    {
+      "id": 249427,
+      "translation": {
+        "en": {
+          "short": "mean",
+          "long": "(mathematics) the average value of a set of quantities calculated by adding them, and dividing them by the total number of the quantities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berarti",
+          "long": "(Matematika) Nilai rata -rata satu set jumlah yang dihitung dengan menambahkannya, dan membaginya dengan jumlah total jumlah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249427.jpeg",
+      "simplified": "平均值",
+      "traditional": "平均值",
+      "pinyin": "píngjūn zhí"
+    },
+    {
+      "id": 249428,
+      "translation": {
+        "en": {
+          "short": "diameter",
+          "long": "a straight line from one side of a round object, particularly a circle, passing through the center and joining the other side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diameter",
+          "long": "Garis lurus dari satu sisi objek bundar, terutama lingkaran, melewati tengah dan bergabung dengan sisi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249428.jpeg",
+      "simplified": "直径",
+      "traditional": "直徑",
+      "pinyin": "zhíjìng"
+    },
+    {
+      "id": 249429,
+      "translation": {
+        "en": {
+          "short": "coaxial",
+          "long": "related to a configuration where two or more components share a common axis or same center point",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "koaksial",
+          "long": "terkait dengan konfigurasi di mana dua atau lebih komponen berbagi sumbu umum atau titik pusat yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249429.jpeg",
+      "simplified": "同轴",
+      "traditional": "同軸",
+      "pinyin": "tóngzhóu"
+    },
+    {
+      "id": 249430,
+      "translation": {
+        "en": {
+          "short": "chronograph",
+          "long": "a device used to measure and record precise time intervals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kronograf",
+          "long": "Perangkat yang digunakan untuk mengukur dan merekam interval waktu yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249430.jpeg",
+      "simplified": "记时仪",
+      "traditional": "記時儀",
+      "pinyin": "jì shí yí"
+    },
+    {
+      "id": 249431,
+      "translation": {
+        "en": {
+          "short": "to overhaul",
+          "long": "to  examine, repair, and make significant improvements or changes to something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk perbaikan",
+          "long": "untuk memeriksa, memperbaiki, dan membuat perbaikan atau perubahan yang signifikan terhadap sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249431.jpeg",
+      "simplified": "大修",
+      "traditional": "大修",
+      "pinyin": "dàxiū"
+    },
+    {
+      "id": 249432,
+      "translation": {
+        "en": {
+          "short": "ohmmeter",
+          "long": "a device used for measuring electrical resistance in a circuit, stated in ohms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ohmmeter",
+          "long": "Perangkat yang digunakan untuk mengukur hambatan listrik di sirkuit, dinyatakan dalam ohm",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249432.jpeg",
+      "simplified": "欧姆表",
+      "traditional": "歐姆表",
+      "pinyin": "ōumǔ biǎo"
+    },
+    {
+      "id": 249433,
+      "translation": {
+        "en": {
+          "short": "microchip",
+          "long": "a small piece of material that is a semiconductor, used to make an integrated circuit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Microchip",
+          "long": "sepotong kecil bahan yang merupakan semikonduktor, digunakan untuk membuat sirkuit terintegrasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249433.jpeg",
+      "simplified": "微芯片",
+      "traditional": "微芯片",
+      "pinyin": "Wēi xīnpiàn"
+    },
+    {
+      "id": 249434,
+      "translation": {
+        "en": {
+          "short": "lever",
+          "long": "a long rigid bar that is put under a heavy object in order to move it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuas",
+          "long": "bilah kaku panjang yang diletakkan di bawah benda berat untuk memindahkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249434.jpeg",
+      "simplified": "杠杆",
+      "traditional": "槓桿",
+      "pinyin": "gànggǎn"
+    },
+    {
+      "id": 249435,
+      "translation": {
+        "en": {
+          "short": "insulator",
+          "long": "a substance that doesn't conduct heat, sound, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isolator",
+          "long": "Suatu zat yang tidak melakukan panas, suara, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249435.jpeg",
+      "simplified": "绝缘子",
+      "traditional": "絕緣子",
+      "pinyin": "juéyuán zǐ"
+    },
+    {
+      "id": 249436,
+      "translation": {
+        "en": {
+          "short": "crank",
+          "long": "a device that allows movement between mechanical parts of a machine or converts backward and forward motion into circular movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "engkol",
+          "long": "Perangkat yang memungkinkan pergerakan antara bagian mekanis mesin atau mengubah gerakan ke belakang dan maju menjadi gerakan melingkar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249436.jpeg",
+      "simplified": "曲柄",
+      "traditional": "曲柄",
+      "pinyin": "qūbǐng"
+    },
+    {
+      "id": 249437,
+      "translation": {
+        "en": {
+          "short": "cardinal",
+          "long": "(mathematics) the number of elements or members in a set, representing its size or quantity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kardinal",
+          "long": "(Matematika) Jumlah elemen atau anggota dalam satu set, mewakili ukuran atau kuantitasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249437.jpeg",
+      "simplified": "枢机主教",
+      "traditional": "樞機主教",
+      "pinyin": "shūjī zhǔ jiào"
+    },
+    {
+      "id": 249438,
+      "translation": {
+        "en": {
+          "short": "to cube",
+          "long": "to multiply a value or number by itself two times",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Cube",
+          "long": "untuk melipatgandakan nilai atau angka dengan sendirinya dua kali",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249438.jpeg",
+      "simplified": "立方",
+      "traditional": "立方",
+      "pinyin": "lìfāng"
+    },
+    {
+      "id": 249439,
+      "translation": {
+        "en": {
+          "short": "differential calculus",
+          "long": "a branch of mathematics that focuses on studying rates of change and instantaneous variations through the concept of derivatives",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kalkulus diferensial",
+          "long": "Cabang matematika yang berfokus pada mempelajari tingkat perubahan dan variasi instan melalui konsep turunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249439.jpeg",
+      "simplified": "微分学",
+      "traditional": "微分學",
+      "pinyin": "wēifēn xué"
+    },
+    {
+      "id": 249440,
+      "translation": {
+        "en": {
+          "short": "logarithm",
+          "long": "a mathematical function that represents the exponent to which a fixed number, called the base, must be raised to produce a given number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "logaritma",
+          "long": "Fungsi matematika yang mewakili eksponen yang menjadi angka tetap, yang disebut basis, harus dinaikkan untuk menghasilkan nomor yang diberikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249440.jpeg",
+      "simplified": "对数",
+      "traditional": "對數",
+      "pinyin": "duìshù"
+    },
+    {
+      "id": 249441,
+      "translation": {
+        "en": {
+          "short": "ordinal",
+          "long": "a number that indicates the position of something in a sequence, such as third, second, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urut",
+          "long": "Angka yang menunjukkan posisi sesuatu dalam urutan, seperti ketiga, kedua, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249441.jpeg",
+      "simplified": "顺序数",
+      "traditional": "順序數",
+      "pinyin": "shùnxù shù"
+    },
+    {
+      "id": 249442,
+      "translation": {
+        "en": {
+          "short": "power",
+          "long": "(mathematics) the exponent in an expression, indicating how many times a base is multiplied by itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekuatan",
+          "long": "(Matematika) Eksponen dalam suatu ekspresi, menunjukkan berapa kali basis dikalikan dengan sendirinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249442.jpeg",
+      "simplified": "力量",
+      "traditional": "力量",
+      "pinyin": "lìliang"
+    },
+    {
+      "id": 301162,
+      "translation": {
+        "en": {
+          "short": "spectrum",
+          "long": "the range of different wavelengths or frequencies of light or radiation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spektrum",
+          "long": "Kisaran panjang gelombang atau frekuensi cahaya atau radiasi yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301162.jpeg",
+      "simplified": "光谱",
+      "traditional": "光譜",
+      "pinyin": "guāngpǔ"
+    }
+  ]
+}

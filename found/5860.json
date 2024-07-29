@@ -1,0 +1,411 @@
+{
+  "id": 5860,
+  "title": {
+    "en": "Tennis",
+    "id": "Tenis"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 395044,
+      "translation": {
+        "en": {
+          "short": "beach tennis",
+          "long": "a type of tennis that is played on sand with a special paddle and soft ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tenis pantai",
+          "long": "Jenis tenis yang dimainkan di atas pasir dengan dayung khusus dan bola lembut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395044.jpeg",
+      "simplified": "海滩网球",
+      "traditional": "海灘網球",
+      "pinyin": "hǎitān wǎngqiú"
+    },
+    {
+      "id": 395045,
+      "translation": {
+        "en": {
+          "short": "wheelchair tennis",
+          "long": "a form of tennis adapted for players who use wheelchairs due to physical disabilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis kursi roda",
+          "long": "Suatu bentuk tenis yang disesuaikan untuk pemain yang menggunakan kursi roda karena cacat fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395045.jpeg",
+      "simplified": "轮椅网球",
+      "traditional": "輪椅網球",
+      "pinyin": "lúnyǐ wǎngqiú"
+    },
+    {
+      "id": 395046,
+      "translation": {
+        "en": {
+          "short": "cross-court shot",
+          "long": "a stroke hit diagonally across the court from one corner to the opposite corner in tennis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tembakan lintas pengadilan",
+          "long": "pukulan stroke secara diagonal melintasi lapangan dari satu sudut ke sudut yang berlawanan di tenis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395046.jpeg",
+      "simplified": "跨场投篮",
+      "traditional": "跨場投籃",
+      "pinyin": "kuà cháng tóulán"
+    },
+    {
+      "id": 395048,
+      "translation": {
+        "en": {
+          "short": "double fault",
+          "long": "(tennis) the failure of a player to successfully serve the ball into the opponent's court twice in a row, resulting in the loss of a point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan ganda",
+          "long": "(Tenis) Kegagalan pemain untuk berhasil melayani bola ke lapangan lawan dua kali berturut -turut, mengakibatkan hilangnya suatu poin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395048.jpeg",
+      "simplified": "（网球）当球员连续两次发球错误时",
+      "traditional": "（網球）當球員連續兩次發球錯誤時",
+      "pinyin": "wǎngqiú dāng qiúyuán liánxù liǎng cì fāqiú cuòwù shí"
+    },
+    {
+      "id": 395049,
+      "translation": {
+        "en": {
+          "short": "ground stroke",
+          "long": "a basic tennis shot made after the ball bounces on the court, usually from the baseline",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stroke darat",
+          "long": "Tembakan tenis dasar yang dibuat setelah bola memantul di lapangan, biasanya dari baseline",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395049.jpeg",
+      "simplified": "地面冲程",
+      "traditional": "地面衝程",
+      "pinyin": "dìmiàn chōngchéng"
+    },
+    {
+      "id": 395050,
+      "translation": {
+        "en": {
+          "short": "passing shot",
+          "long": "a tennis shot aimed to get past an opponent at the net",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melewati tembakan",
+          "long": "tembakan tenis yang bertujuan untuk melewati lawan di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395050.jpeg",
+      "simplified": "传球",
+      "traditional": "傳球",
+      "pinyin": "chuánqiú"
+    },
+    {
+      "id": 395052,
+      "translation": {
+        "en": {
+          "short": "advantage",
+          "long": "the point in tennis scored after a tie, giving the player a chance to win the game with the next point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keuntungan",
+          "long": "Poin dalam tenis mencetak gol setelah dasi, memberi pemain kesempatan untuk memenangkan pertandingan dengan poin berikutnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395052.jpeg",
+      "simplified": "优势",
+      "traditional": "優勢",
+      "pinyin": "yōushì"
+    },
+    {
+      "id": 395053,
+      "translation": {
+        "en": {
+          "short": "break point",
+          "long": "a situation in tennis where the receiving player can win the game if they win the next point against the server's serve",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik istirahat",
+          "long": "situasi di tenis di mana pemain penerima dapat memenangkan permainan jika mereka memenangkan poin berikutnya melawan servis server",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395053.jpeg",
+      "simplified": "断点",
+      "traditional": "斷點",
+      "pinyin": "duàndiǎn"
+    },
+    {
+      "id": 395054,
+      "translation": {
+        "en": {
+          "short": "deuce",
+          "long": "a tie in tennis and table tennis that requires a player to win two more points to win the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jus",
+          "long": "Dasi dalam tenis dan tenis meja yang mengharuskan pemain untuk memenangkan dua poin lagi untuk memenangkan pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395054.jpeg",
+      "simplified": "两点",
+      "traditional": "兩點",
+      "pinyin": "liǎng diǎn"
+    },
+    {
+      "id": 395055,
+      "translation": {
+        "en": {
+          "short": "break",
+          "long": "to win a game in which it is your opponent's turn to serve (= hit the ball across the net first)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "merusak",
+          "long": "Untuk memenangkan permainan di mana giliran lawan Anda untuk melayani (= memukul bola melintasi jaring terlebih dahulu)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395055.jpeg",
+      "simplified": "休息",
+      "traditional": "休息",
+      "pinyin": "xiūxi"
+    },
+    {
+      "id": 395056,
+      "translation": {
+        "en": {
+          "short": "to kill",
+          "long": "(particularly in tennis) to strike a ball with such force as to make it impossible to return",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membunuh",
+          "long": "(khususnya di tenis) untuk menyerang bola dengan kekuatan seperti itu membuat tidak mungkin untuk kembali",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395056.jpeg",
+      "simplified": "杀",
+      "traditional": "殺",
+      "pinyin": "shā"
+    },
+    {
+      "id": 395057,
+      "translation": {
+        "en": {
+          "short": "flick",
+          "long": "(tennis) a quick and controlled movement of the wrist to generate spin on the ball during a shot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengibaskan",
+          "long": "(tenis) Gerakan pergelangan tangan yang cepat dan terkontrol untuk menghasilkan putaran pada bola selama tembakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395057.jpeg",
+      "simplified": "轻弹",
+      "traditional": "輕彈",
+      "pinyin": "qīng dàn"
+    },
+    {
+      "id": 395058,
+      "translation": {
+        "en": {
+          "short": "smash",
+          "long": "a powerful shot with great force and speed, often seen in games like tennis or badminton",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghancurkan",
+          "long": "Tembakan yang kuat dengan kekuatan dan kecepatan besar, sering terlihat di permainan seperti tenis atau bulu tangkis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395058.jpeg",
+      "simplified": "网球运动中的重而快的击球",
+      "traditional": "網球運動中的重而快的擊球",
+      "pinyin": "wǎngqiú yùndòng zhòngdì chóng ér kuài de jīqiú"
+    },
+    {
+      "id": 395059,
+      "translation": {
+        "en": {
+          "short": "match point",
+          "long": "the moment in tennis when a player needs one more point to win the match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik pertandingan",
+          "long": "Momen di tenis ketika seorang pemain membutuhkan satu poin lagi untuk memenangkan pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395059.jpeg",
+      "simplified": "赛点",
+      "traditional": "賽點",
+      "pinyin": "sàidiǎn"
+    },
+    {
+      "id": 395060,
+      "translation": {
+        "en": {
+          "short": "racket abuse",
+          "long": "the act of angrily or intentionally damaging a tennis racket during a match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyalahgunaan raket",
+          "long": "tindakan marah atau sengaja merusak raket tenis selama pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395060.jpeg",
+      "simplified": "滥用球拍",
+      "traditional": "濫用球拍",
+      "pinyin": "lànyòng qiúpāi"
+    },
+    {
+      "id": 395061,
+      "translation": {
+        "en": {
+          "short": "fault",
+          "long": "an unsuccessful serve attempt in tennis, where the ball doesn't land in the opponent's service box, resulting in the loss of a point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesalahan",
+          "long": "Upaya servis yang tidak berhasil di tenis, di mana bola tidak mendarat di kotak layanan lawan, yang mengakibatkan hilangnya suatu poin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395061.jpeg",
+      "simplified": "故障",
+      "traditional": "故障",
+      "pinyin": "gùzhàng"
+    },
+    {
+      "id": 395062,
+      "translation": {
+        "en": {
+          "short": "game point",
+          "long": "a situation in tennis where the leading player or team needs only one more point to win the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik permainan",
+          "long": "Situasi di tenis di mana pemain atau tim terkemuka hanya membutuhkan satu poin lagi untuk memenangkan pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395062.jpeg",
+      "simplified": "游戏点",
+      "traditional": "遊戲點",
+      "pinyin": "yóuxì diǎn"
+    },
+    {
+      "id": 403153,
+      "translation": {
+        "en": {
+          "short": "half volley",
+          "long": "a tennis shot where the player hits the ball immediately after it bounces, close to the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah tendangan voli",
+          "long": "Tembakan tenis di mana pemain memukul bola segera setelah itu memantul, dekat dengan tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403153.jpeg",
+      "simplified": "半截击",
+      "traditional": "半截擊",
+      "pinyin": "bànjié jī"
+    },
+    {
+      "id": 395063,
+      "translation": {
+        "en": {
+          "short": "chop shot",
+          "long": "a tennis shot hit with a slicing motion, often with backspin to keep the ball low",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tembakan Chop",
+          "long": "Tembakan tenis memukul dengan gerakan mengiris, sering dengan backspin untuk menjaga bola tetap rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395063.jpeg",
+      "simplified": "斩击",
+      "traditional": "斬擊",
+      "pinyin": "zhǎn jī"
+    },
+    {
+      "id": 406602,
+      "translation": {
+        "en": {
+          "short": "soft tennis",
+          "long": "a type of tennis played with a softer ball and on a smaller court compared to traditional tennis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis lunak",
+          "long": "Jenis tenis dimainkan dengan bola yang lebih lembut dan di lapangan yang lebih kecil dibandingkan dengan tenis tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406602.jpeg",
+      "simplified": "柔软的网球",
+      "traditional": "柔軟的網球",
+      "pinyin": "róuruǎn de wǎngqiú"
+    },
+    {
+      "id": 404581,
+      "translation": {
+        "en": {
+          "short": "set point",
+          "long": "the point in tennis that needs to be received by a player to win the set",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "set point",
+          "long": "Poin dalam tenis yang perlu diterima oleh pemain untuk memenangkan set",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404581.jpeg",
+      "simplified": "设定点",
+      "traditional": "設定點",
+      "pinyin": "shèdìng diǎn"
+    }
+  ]
+}

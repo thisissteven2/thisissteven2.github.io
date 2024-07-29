@@ -1,0 +1,602 @@
+{
+  "id": 61,
+  "title": {
+    "en": "Sickness and Health",
+    "id": "Penyakit dan kesehatan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about sickness and health, such as \"cure\", \"strengthen\", \"genetic\", etc. that are needed for the IELTS exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang penyakit dan kesehatan, seperti \"penyembuhan\", \"memperkuat\", \"genetik\", dll. Yang diperlukan untuk ujian IELTS."
+  },
+  "cards": [
+    {
+      "id": 209930,
+      "translation": {
+        "en": {
+          "short": "addiction",
+          "long": "the inability to stop using or doing something, particularly something harmful or unhealthy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecanduan",
+          "long": "ketidakmampuan untuk berhenti menggunakan atau melakukan sesuatu, terutama sesuatu yang berbahaya atau tidak sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209930.jpeg",
+      "simplified": "瘾",
+      "traditional": "癮",
+      "pinyin": "yǐn"
+    },
+    {
+      "id": 209931,
+      "translation": {
+        "en": {
+          "short": "allergic",
+          "long": "caused by or relating to allergy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "alergi",
+          "long": "disebabkan oleh atau berkaitan dengan alergi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209931.jpeg",
+      "simplified": "过敏的",
+      "traditional": "過敏的",
+      "pinyin": "guòmǐn de"
+    },
+    {
+      "id": 209932,
+      "translation": {
+        "en": {
+          "short": "bruise",
+          "long": "an injury on the skin that appears as a dark mark, caused by a blow involving the rupture of vessels underneath",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memar",
+          "long": "Cedera pada kulit yang muncul sebagai tanda gelap, yang disebabkan oleh pukulan yang melibatkan pecahnya kapal di bawahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209932.jpeg",
+      "simplified": "挫伤",
+      "traditional": "挫傷",
+      "pinyin": "cuò shāng"
+    },
+    {
+      "id": 209933,
+      "translation": {
+        "en": {
+          "short": "bump",
+          "long": "a swelling on the body caused by illness or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menabrak",
+          "long": "Pembengkakan pada tubuh yang disebabkan oleh penyakit atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209933.jpeg",
+      "simplified": "撞击",
+      "traditional": "撞擊",
+      "pinyin": "zhuàngjī"
+    },
+    {
+      "id": 209934,
+      "translation": {
+        "en": {
+          "short": "cancer",
+          "long": "a serious disease caused by the uncontrolled growth of cells in a part of the body that may spread to other parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanker",
+          "long": "penyakit serius yang disebabkan oleh pertumbuhan sel yang tidak terkendali di bagian tubuh yang dapat menyebar ke bagian lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209934.jpeg",
+      "simplified": "癌症",
+      "traditional": "癌症",
+      "pinyin": "áizhèng"
+    },
+    {
+      "id": 209935,
+      "translation": {
+        "en": {
+          "short": "to cure",
+          "long": "to make someone regain their health",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyembuhkan",
+          "long": "untuk membuat seseorang mendapatkan kembali kesehatan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209935.jpeg",
+      "simplified": "恢复健康",
+      "traditional": "恢復健康",
+      "pinyin": "huīfù jiànkāng"
+    },
+    {
+      "id": 209936,
+      "translation": {
+        "en": {
+          "short": "diabetes",
+          "long": "a serious medical condition in which the body is unable to regulate the blood sugar levels because it does not produce enough insulin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diabetes",
+          "long": "Kondisi medis yang serius di mana tubuh tidak dapat mengatur kadar gula darah karena tidak menghasilkan insulin yang cukup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209936.jpeg",
+      "simplified": "糖尿病",
+      "traditional": "糖尿病",
+      "pinyin": "tángniào bìng"
+    },
+    {
+      "id": 209937,
+      "translation": {
+        "en": {
+          "short": "depression",
+          "long": "a state characterized by constant feelings of sadness, hopelessness, and a lack of enegry or interest in activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "depresi",
+          "long": "keadaan yang ditandai dengan perasaan sedih, putus asa, dan kurangnya energi atau minat dalam kegiatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209937.jpeg",
+      "simplified": "萧条",
+      "traditional": "蕭條",
+      "pinyin": "xiāotiáo"
+    },
+    {
+      "id": 209938,
+      "translation": {
+        "en": {
+          "short": "disability",
+          "long": "a physical or mental condition that prevents a person from using some part of their body completely or learning something easily",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disabilitas",
+          "long": "kondisi fisik atau mental yang mencegah seseorang menggunakan beberapa bagian tubuh mereka sepenuhnya atau mempelajari sesuatu dengan mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209938.jpeg",
+      "simplified": "失能",
+      "traditional": "失能",
+      "pinyin": "shī Néng"
+    },
+    {
+      "id": 209939,
+      "translation": {
+        "en": {
+          "short": "disorder",
+          "long": "a disease or a medical condition that prevents a part of the body or mind from functioning normally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekacauan",
+          "long": "penyakit atau kondisi medis yang mencegah bagian tubuh atau pikiran berfungsi secara normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209939.jpeg",
+      "simplified": "紊乱",
+      "traditional": "紊亂",
+      "pinyin": "wěnluàn"
+    },
+    {
+      "id": 209940,
+      "translation": {
+        "en": {
+          "short": "immune",
+          "long": "safe from catching a disease or being infected",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "imun",
+          "long": "aman dari menangkap penyakit atau terinfeksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209940.jpeg",
+      "simplified": "免疫",
+      "traditional": "免疫",
+      "pinyin": "miǎnyì"
+    },
+    {
+      "id": 209941,
+      "translation": {
+        "en": {
+          "short": "athletic",
+          "long": "physically active and strong, often with a fit body",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "atletis",
+          "long": "aktif secara fisik dan kuat, seringkali dengan tubuh yang bugar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209941.jpeg",
+      "simplified": "运动的",
+      "traditional": "運動的",
+      "pinyin": "yùndòng de"
+    },
+    {
+      "id": 209942,
+      "translation": {
+        "en": {
+          "short": "to strengthen",
+          "long": "to become more powerful over time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperkuat",
+          "long": "menjadi lebih kuat dari waktu ke waktu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209942.jpeg",
+      "simplified": "强化",
+      "traditional": "強化",
+      "pinyin": "qiánghuà"
+    },
+    {
+      "id": 209943,
+      "translation": {
+        "en": {
+          "short": "alternative medicine",
+          "long": "any type of treatment such as herbalism, faith healing, etc. that does not follow the usual methods of Western medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obat alternatif",
+          "long": "Semua jenis pengobatan seperti herbalisme, penyembuhan iman, dll. Itu tidak mengikuti metode obat barat yang biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209943.jpeg",
+      "simplified": "替代药物",
+      "traditional": "替代藥物",
+      "pinyin": "tìdài yàowù"
+    },
+    {
+      "id": 209944,
+      "translation": {
+        "en": {
+          "short": "examination",
+          "long": "the process of looking closely at something to see if there are any issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyelidikan",
+          "long": "Proses melihat lebih dekat pada sesuatu untuk melihat apakah ada masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209944.jpeg",
+      "simplified": "体格检查",
+      "traditional": "體格檢查",
+      "pinyin": "tǐgé jiǎn chá"
+    },
+    {
+      "id": 209945,
+      "translation": {
+        "en": {
+          "short": "to implant",
+          "long": "to insert a living tissue or an artificial object into the body via medical procedure",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menanamkan",
+          "long": "Untuk memasukkan jaringan hidup atau benda buatan ke dalam tubuh melalui prosedur medis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209945.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 209946,
+      "translation": {
+        "en": {
+          "short": "nutritionist",
+          "long": "someone who is an expert in the field of food and nutrition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli ilmu gizi",
+          "long": "seseorang yang ahli dalam bidang makanan dan nutrisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209946.jpeg",
+      "simplified": "营养师",
+      "traditional": "營養師",
+      "pinyin": "yíngyǎng shī"
+    },
+    {
+      "id": 209947,
+      "translation": {
+        "en": {
+          "short": "procedure",
+          "long": "an operation performed by medical professionals to diagnose, treat, etc. a medical condition or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prosedur",
+          "long": "operasi yang dilakukan oleh para profesional medis untuk mendiagnosis, mengobati, dll. Kondisi atau cedera medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209947.jpeg",
+      "simplified": "手术",
+      "traditional": "手術",
+      "pinyin": "shǒushù"
+    },
+    {
+      "id": 209948,
+      "translation": {
+        "en": {
+          "short": "specialist",
+          "long": "a doctor who is highly trained in a particular area of medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spesialis",
+          "long": "seorang dokter yang sangat terlatih di bidang kedokteran tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209948.jpeg",
+      "simplified": "专家",
+      "traditional": "專家",
+      "pinyin": "zhuānjiā"
+    },
+    {
+      "id": 209949,
+      "translation": {
+        "en": {
+          "short": "therapist",
+          "long": "a person who is trained to treat a particular type of disease or disorder, particularly by using a specific therapy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter",
+          "long": "Seseorang yang dilatih untuk mengobati jenis penyakit atau gangguan tertentu, terutama dengan menggunakan terapi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209949.jpeg",
+      "simplified": "治疗师",
+      "traditional": "治療師",
+      "pinyin": "zhìliáo Shī"
+    },
+    {
+      "id": 209950,
+      "translation": {
+        "en": {
+          "short": "to transplant",
+          "long": "to surgically remove an organ from someone's body and put it in someone else's body",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk transplantasi",
+          "long": "untuk menghilangkan oral organ dari tubuh seseorang dan memasukkannya ke dalam tubuh orang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209950.jpeg",
+      "simplified": "移植",
+      "traditional": "移植",
+      "pinyin": "yízhí"
+    },
+    {
+      "id": 209951,
+      "translation": {
+        "en": {
+          "short": "genetic",
+          "long": "(of diseases) passed on from one's parents",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "genetik",
+          "long": "(penyakit) diturunkan dari orang tua seseorang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209951.jpeg",
+      "simplified": "遗传的",
+      "traditional": "遺傳的",
+      "pinyin": "yíchuán de"
+    },
+    {
+      "id": 209952,
+      "translation": {
+        "en": {
+          "short": "infection",
+          "long": "the act in which a disease-causing organism, such as a virus or parasite, causes a particular illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "infeksi",
+          "long": "Tindakan di mana organisme penyebab penyakit, seperti virus atau parasit, menyebabkan penyakit tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209952.jpeg",
+      "simplified": "感染",
+      "traditional": "感染",
+      "pinyin": "gǎnrǎn"
+    },
+    {
+      "id": 209953,
+      "translation": {
+        "en": {
+          "short": "obese",
+          "long": "extremely overweight, with excess body fat that significantly increases health risks",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gendut",
+          "long": "sangat kelebihan berat badan, dengan lemak tubuh berlebih yang secara signifikan meningkatkan risiko kesehatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209953.jpeg",
+      "simplified": "很胖",
+      "traditional": "很胖",
+      "pinyin": "hěn pán"
+    },
+    {
+      "id": 209954,
+      "translation": {
+        "en": {
+          "short": "obesity",
+          "long": "the condition of having such a high amount of body fat that it becomes very dangerous for one's health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kegemukan",
+          "long": "Kondisi memiliki jumlah lemak tubuh yang begitu tinggi sehingga menjadi sangat berbahaya bagi kesehatan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209954.jpeg",
+      "simplified": "肥胖",
+      "traditional": "肥胖",
+      "pinyin": "féipàng"
+    },
+    {
+      "id": 209955,
+      "translation": {
+        "en": {
+          "short": "recovery",
+          "long": "the process of becoming healthy again after an injury or disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemulihan",
+          "long": "proses menjadi sehat lagi setelah cedera atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209955.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    },
+    {
+      "id": 209956,
+      "translation": {
+        "en": {
+          "short": "severely",
+          "long": "very badly or to a serious extent",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "sangat besar",
+          "long": "sangat buruk atau pada tingkat yang serius",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209956.jpeg",
+      "simplified": "严重",
+      "traditional": "嚴重",
+      "pinyin": "yánzhòng"
+    },
+    {
+      "id": 209957,
+      "translation": {
+        "en": {
+          "short": "psychiatric",
+          "long": "relating to the study and treatment of mental illness",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "psikiatrik",
+          "long": "berkaitan dengan studi dan pengobatan penyakit mental",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209957.jpeg",
+      "simplified": "精神病",
+      "traditional": "精神病",
+      "pinyin": "jīngshén bìng"
+    },
+    {
+      "id": 209958,
+      "translation": {
+        "en": {
+          "short": "physician",
+          "long": "a medical doctor who specializes in general medicine, not in surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter",
+          "long": "seorang dokter medis yang berspesialisasi dalam pengobatan umum, bukan dalam operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209958.jpeg",
+      "simplified": "医生",
+      "traditional": "醫生",
+      "pinyin": "yīshēng"
+    },
+    {
+      "id": 209959,
+      "translation": {
+        "en": {
+          "short": "optician",
+          "long": "a person whose job is to test people's eyes and sight or to make and supply glasses or contacts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli kacamata",
+          "long": "seseorang yang tugasnya adalah menguji mata dan penglihatan orang atau untuk membuat dan memasok kacamata atau kontak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209959.jpeg",
+      "simplified": "眼镜师",
+      "traditional": "眼鏡師",
+      "pinyin": "yǎnjìng Shī"
+    },
+    {
+      "id": 224995,
+      "translation": {
+        "en": {
+          "short": "career",
+          "long": "a profession or a series of professions that one can do for a long period of one's life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karier",
+          "long": "profesi atau serangkaian profesi yang dapat dilakukan seseorang untuk waktu yang lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224995.jpeg",
+      "simplified": "事业",
+      "traditional": "事業",
+      "pinyin": "shìyè"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "id": 156,
+  "title": {
+    "en": "Time",
+    "id": "Waktu"
+  },
+  "description": {
+    "en": "Here you will learn some English words about time, such as \"period\", \"daytime\", \"midday\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang waktu, seperti \"periode\", \"siang hari\", \"tengah hari\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 235821,
+      "translation": {
+        "en": {
+          "short": "period",
+          "long": "a duration of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "periode",
+          "long": "durasi waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235821.jpeg",
+      "simplified": "一段的时间",
+      "traditional": "一段的時間",
+      "pinyin": "yī Duàn de shíjiān"
+    },
+    {
+      "id": 235826,
+      "translation": {
+        "en": {
+          "short": "term",
+          "long": "the end of a specific period of time, particularly one that is expected to last",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketentuan",
+          "long": "akhir periode waktu tertentu, terutama yang diharapkan bertahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235826.jpeg",
+      "simplified": "术语",
+      "traditional": "術語",
+      "pinyin": "shùyǔ"
+    },
+    {
+      "id": 213070,
+      "translation": {
+        "en": {
+          "short": "while",
+          "long": "a span of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketika",
+          "long": "rentang waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213070.jpeg",
+      "simplified": "时间",
+      "traditional": "時間",
+      "pinyin": "shíjiān"
+    },
+    {
+      "id": 213078,
+      "translation": {
+        "en": {
+          "short": "daytime",
+          "long": "a period of time during the day when the sun shines and it is not dark yet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siang hari",
+          "long": "periode waktu di siang hari ketika matahari bersinar dan belum gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213078.jpeg",
+      "simplified": "白天",
+      "traditional": "白天",
+      "pinyin": "báitiān"
+    },
+    {
+      "id": 213074,
+      "translation": {
+        "en": {
+          "short": "nighttime",
+          "long": "the time when the sun is down and it is dark outside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waktu malam",
+          "long": "Waktu saat matahari terbenam dan di luar gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213074.jpeg",
+      "simplified": "夜间",
+      "traditional": "夜間",
+      "pinyin": "yèjiān"
+    },
+    {
+      "id": 235817,
+      "translation": {
+        "en": {
+          "short": "daylight",
+          "long": "a period of time during the day in which there is light",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siang hari",
+          "long": "periode waktu di siang hari di mana ada cahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235817.jpeg",
+      "simplified": "白天",
+      "traditional": "白天",
+      "pinyin": "báitiān"
+    },
+    {
+      "id": 213075,
+      "translation": {
+        "en": {
+          "short": "midday",
+          "long": "at or around 12 o’clock in the middle of the day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pagi menjelang siang",
+          "long": "pada atau sekitar jam 12 di tengah hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213075.jpeg",
+      "simplified": "正午",
+      "traditional": "正午",
+      "pinyin": "zhèngwǔ"
+    },
+    {
+      "id": 213043,
+      "translation": {
+        "en": {
+          "short": "at times",
+          "long": "at moments that are not constant or regular",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "kadang",
+          "long": "Pada saat -saat yang tidak konstan atau biasa",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213043.jpeg",
+      "simplified": "有时",
+      "traditional": "有時",
+      "pinyin": "yǒushí"
+    },
+    {
+      "id": 213044,
+      "translation": {
+        "en": {
+          "short": "continuous",
+          "long": "going or being without a pause or break",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kontinu",
+          "long": "pergi atau tanpa jeda atau istirahat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213044.jpeg",
+      "simplified": "用于描述正在进行的动作或状态",
+      "traditional": "用於描述正在進行的動作或狀態",
+      "pinyin": "yòngyú miáoshù zhèngzài jìnxíng de dòngzuò huò zhuàngtài"
+    },
+    {
+      "id": 213045,
+      "translation": {
+        "en": {
+          "short": "continuously",
+          "long": "without any pause or interruption",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "terus menerus",
+          "long": "tanpa jeda atau gangguan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213045.jpeg",
+      "simplified": "不断地",
+      "traditional": "不斷地",
+      "pinyin": "bùduàn de"
+    },
+    {
+      "id": 213063,
+      "translation": {
+        "en": {
+          "short": "ahead of time",
+          "long": "before the scheduled or expected time",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "sebelumnya",
+          "long": "sebelum waktu yang dijadwalkan atau diharapkan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213063.jpeg",
+      "simplified": "提前时间",
+      "traditional": "提前時間",
+      "pinyin": "tíqián shíjiān"
+    },
+    {
+      "id": 213064,
+      "translation": {
+        "en": {
+          "short": "late",
+          "long": "doing or happening after the time that is usual or expected",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "terlambat",
+          "long": "melakukan atau terjadi setelah waktu yang biasa atau diharapkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213064.jpeg",
+      "simplified": "晚的",
+      "traditional": "晚的",
+      "pinyin": "wǎn de"
+    },
+    {
+      "id": 213066,
+      "translation": {
+        "en": {
+          "short": "to last",
+          "long": "to continue to happen or exist for a particular amount of time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bertahan",
+          "long": "untuk terus terjadi atau ada untuk jumlah waktu tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213066.jpeg",
+      "simplified": "需要很长时间",
+      "traditional": "需要很長時間",
+      "pinyin": "xūyào hěn cháng shíjiān"
+    },
+    {
+      "id": 213067,
+      "translation": {
+        "en": {
+          "short": "to take",
+          "long": "to need a specific amount of time to do something or for something to be done or happen",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengambil",
+          "long": "untuk membutuhkan waktu tertentu untuk melakukan sesuatu atau agar sesuatu dilakukan atau terjadi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213067.jpeg",
+      "simplified": "采取",
+      "traditional": "採取",
+      "pinyin": "cǎiqǔ"
+    },
+    {
+      "id": 213069,
+      "translation": {
+        "en": {
+          "short": "punctual",
+          "long": "happening or arriving at the time expected or arranged",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tepat waktu",
+          "long": "terjadi atau tiba pada saat yang diharapkan atau diatur",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213069.jpeg",
+      "simplified": "准时",
+      "traditional": "準時",
+      "pinyin": "zhǔnshí"
+    },
+    {
+      "id": 213071,
+      "translation": {
+        "en": {
+          "short": "throughout",
+          "long": "during something's entire period of time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "selama",
+          "long": "Selama periode waktu sesuatu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213071.jpeg",
+      "simplified": "从开始到结束",
+      "traditional": "從開始到結束",
+      "pinyin": "cóng kāishǐ dào jiéshù"
+    },
+    {
+      "id": 213072,
+      "translation": {
+        "en": {
+          "short": "sudden",
+          "long": "taking place unexpectedly or done quickly",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tiba-tiba",
+          "long": "terjadi secara tak terduga atau dilakukan dengan cepat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213072.jpeg",
+      "simplified": "突然的",
+      "traditional": "突然的",
+      "pinyin": "tūrán de"
+    },
+    {
+      "id": 213073,
+      "translation": {
+        "en": {
+          "short": "regularly",
+          "long": "at the same times or with the same amount of time between each event",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara teratur",
+          "long": "pada saat yang sama atau dengan jumlah waktu yang sama antara setiap peristiwa",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213073.jpeg",
+      "simplified": "经常",
+      "traditional": "經常",
+      "pinyin": "jīngcháng"
+    },
+    {
+      "id": 235825,
+      "translation": {
+        "en": {
+          "short": "regular",
+          "long": "happening or done frequently",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "reguler",
+          "long": "terjadi atau sering dilakukan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235825.jpeg",
+      "simplified": "常规的",
+      "traditional": "常規的",
+      "pinyin": "chángguī de"
+    },
+    {
+      "id": 213076,
+      "translation": {
+        "en": {
+          "short": "immediate",
+          "long": "taking place or existing now and needing quick action",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "segera",
+          "long": "terjadi atau ada sekarang dan membutuhkan tindakan cepat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213076.jpeg",
+      "simplified": "当前时间",
+      "traditional": "當前時間",
+      "pinyin": "dāngqián shíjiān"
+    },
+    {
+      "id": 213077,
+      "translation": {
+        "en": {
+          "short": "eventually",
+          "long": "after or at the end of a series of events or an extended period",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pada akhirnya",
+          "long": "Setelah atau di akhir serangkaian acara atau waktu yang lama",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213077.jpeg",
+      "simplified": "最终",
+      "traditional": "最終",
+      "pinyin": "zuìzhōng"
+    },
+    {
+      "id": 235814,
+      "translation": {
+        "en": {
+          "short": "afterward",
+          "long": "in the time following a specific action, moment, or event",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "kemudian",
+          "long": "dalam waktu mengikuti tindakan, momen, atau acara tertentu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235814.jpeg",
+      "simplified": "然后",
+      "traditional": "然後",
+      "pinyin": "ránhòu"
+    },
+    {
+      "id": 235815,
+      "translation": {
+        "en": {
+          "short": "ago",
+          "long": "used to refer to a time in the past, showing how much time has passed before the present moment",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "yang lalu",
+          "long": "Digunakan untuk merujuk pada waktu di masa lalu, menunjukkan berapa banyak waktu yang telah berlalu sebelum saat ini",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235815.jpeg",
+      "simplified": "前",
+      "traditional": "前",
+      "pinyin": "qián"
+    },
+    {
+      "id": 235816,
+      "translation": {
+        "en": {
+          "short": "all the time",
+          "long": "regularly and continuously with little or no interruption, exception, or pause",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "sepanjang waktu",
+          "long": "secara teratur dan terus menerus dengan sedikit atau tanpa gangguan, pengecualian, atau jeda",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235816.jpeg",
+      "simplified": "每时每刻",
+      "traditional": "每時每刻",
+      "pinyin": "měishí měi kè"
+    },
+    {
+      "id": 235818,
+      "translation": {
+        "en": {
+          "short": "far",
+          "long": "away and not near the present time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "jauh",
+          "long": "pergi dan tidak mendekati saat ini",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235818.jpeg",
+      "simplified": "距离现在还很远",
+      "traditional": "距離現在還很遠",
+      "pinyin": "jùlí xiànzài Huán hěn yuǎn"
+    },
+    {
+      "id": 235819,
+      "translation": {
+        "en": {
+          "short": "hourly",
+          "long": "after every 60 minutes",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "per jam",
+          "long": "setiap 60 menit",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235819.jpeg",
+      "simplified": "每小时",
+      "traditional": "每小時",
+      "pinyin": "měi xiǎoshí"
+    },
+    {
+      "id": 235820,
+      "translation": {
+        "en": {
+          "short": "instantly",
+          "long": "with no delay and at once",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "segera",
+          "long": "tanpa penundaan dan sekaligus",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235820.jpeg",
+      "simplified": "即刻",
+      "traditional": "即刻",
+      "pinyin": "jíkè"
+    },
+    {
+      "id": 235822,
+      "translation": {
+        "en": {
+          "short": "present",
+          "long": "occurring or existing right this moment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hadiah",
+          "long": "terjadi atau ada saat ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235822.jpeg",
+      "simplified": "展示",
+      "traditional": "展示",
+      "pinyin": "zhǎnshì"
+    },
+    {
+      "id": 235823,
+      "translation": {
+        "en": {
+          "short": "past",
+          "long": "existing before the present time",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "masa lalu",
+          "long": "ada sebelum saat ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235823.jpeg",
+      "simplified": "过去的",
+      "traditional": "過去的",
+      "pinyin": "guòqù de"
+    },
+    {
+      "id": 235824,
+      "translation": {
+        "en": {
+          "short": "future",
+          "long": "coming in to existence or happening after this moment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "masa depan",
+          "long": "datang ke keberadaan atau terjadi setelah momen ini",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235824.jpeg",
+      "simplified": "未来",
+      "traditional": "未來",
+      "pinyin": "wèilái"
+    },
+    {
+      "id": 236708,
+      "translation": {
+        "en": {
+          "short": "already",
+          "long": "before the present or specified time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "sudah",
+          "long": "sebelum waktu sekarang atau yang ditentukan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236708.jpeg",
+      "simplified": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐjīng"
+    },
+    {
+      "id": 236709,
+      "translation": {
+        "en": {
+          "short": "currently",
+          "long": "at the present time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "saat ini",
+          "long": "pada saat ini",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236709.jpeg",
+      "simplified": "现在",
+      "traditional": "現在",
+      "pinyin": "xiànzài"
+    },
+    {
+      "id": 236710,
+      "translation": {
+        "en": {
+          "short": "ever",
+          "long": "on any occasion",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "pernah",
+          "long": "pada setiap kesempatan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236710.jpeg",
+      "simplified": "到目前为止",
+      "traditional": "到目前為止",
+      "pinyin": "dàomù qián wéi zhǐ"
+    },
+    {
+      "id": 236711,
+      "translation": {
+        "en": {
+          "short": "forever",
+          "long": "used to refer to something that will exist for a very long time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "selamanya",
+          "long": "biasa merujuk pada sesuatu yang akan ada untuk waktu yang sangat lama",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236711.jpeg",
+      "simplified": "永远",
+      "traditional": "永遠",
+      "pinyin": "yǒngyuǎn"
+    },
+    {
+      "id": 236712,
+      "translation": {
+        "en": {
+          "short": "just",
+          "long": "very recently or only before this moment",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "hanya",
+          "long": "Baru -baru ini atau hanya sebelum momen ini",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236712.jpeg",
+      "simplified": "只是",
+      "traditional": "只是",
+      "pinyin": "zhǐshì"
+    },
+    {
+      "id": 236713,
+      "translation": {
+        "en": {
+          "short": "meanwhile",
+          "long": "at the same time but often somewhere else",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Sementara itu",
+          "long": "pada saat yang sama tetapi sering di tempat lain",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236713.jpeg",
+      "simplified": "同时",
+      "traditional": "同時",
+      "pinyin": "tóngshí"
+    },
+    {
+      "id": 236714,
+      "translation": {
+        "en": {
+          "short": "previously",
+          "long": "before the present moment or a specific time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "sebelumnya",
+          "long": "sebelum saat ini atau waktu tertentu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236714.jpeg",
+      "simplified": "之前",
+      "traditional": "之前",
+      "pinyin": "zhīqián"
+    },
+    {
+      "id": 237240,
+      "translation": {
+        "en": {
+          "short": "further",
+          "long": "at or toward a longer distance in time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "lebih jauh",
+          "long": "pada atau menuju jarak yang lebih jauh dalam waktu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237240.jpeg",
+      "simplified": "后来的时候",
+      "traditional": "後來的時候",
+      "pinyin": "hòulái de shíhou"
+    },
+    {
+      "id": 237243,
+      "translation": {
+        "en": {
+          "short": "away",
+          "long": "at or toward a distance in time",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "jauh",
+          "long": "pada atau menuju kejauhan dalam waktu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237243.jpeg",
+      "simplified": "离开",
+      "traditional": "離開",
+      "pinyin": "líkāi"
+    },
+    {
+      "id": 246527,
+      "translation": {
+        "en": {
+          "short": "irregular",
+          "long": "not following a regular or predictable pattern",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak teratur",
+          "long": "tidak mengikuti pola reguler atau dapat diprediksi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246527.jpeg",
+      "simplified": "不规律的",
+      "traditional": "不規律的",
+      "pinyin": "bù guīlǜ de"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "id": 5678,
+  "title": {
+    "en": "Chemistry",
+    "id": "Kimia"
+  },
+  "description": {
+    "en": "Here you will learn all the essential words for talking about Chemistry, collected specifically for level C2 learners.",
+    "id": "Di sini Anda akan mempelajari semua kata penting untuk berbicara tentang kimia, dikumpulkan khusus untuk peserta didik Level C2."
+  },
+  "cards": [
+    {
+      "id": 390206,
+      "translation": {
+        "en": {
+          "short": "entropy",
+          "long": "a thermodynamic measure of the degree of disorder or randomness in a system, denoted by S",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "entropi",
+          "long": "Ukuran termodinamika tingkat gangguan atau keacakan dalam suatu sistem, dilambangkan dengan s",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390206.jpeg",
+      "simplified": "熵",
+      "traditional": "熵",
+      "pinyin": "shāng"
+    },
+    {
+      "id": 390207,
+      "translation": {
+        "en": {
+          "short": "solute",
+          "long": "a substance that is dissolved in a solvent, resulting in a solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terlarut",
+          "long": "zat yang dilarutkan dalam pelarut, menghasilkan larutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390207.jpeg",
+      "simplified": "溶质",
+      "traditional": "溶質",
+      "pinyin": "róngzhì"
+    },
+    {
+      "id": 390208,
+      "translation": {
+        "en": {
+          "short": "reactant",
+          "long": "a substance that takes part in and undergoes a chemical reaction, leading to the formation of new products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reaktan",
+          "long": "zat yang mengambil bagian dalam dan mengalami reaksi kimia, yang mengarah pada pembentukan produk baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390208.jpeg",
+      "simplified": "反应物",
+      "traditional": "反應物",
+      "pinyin": "fǎnyìng wù"
+    },
+    {
+      "id": 390209,
+      "translation": {
+        "en": {
+          "short": "catalyst",
+          "long": "(chemistry) a substance that causes a chemical reaction to happen at a faster rate without undergoing any chemical change itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "katalisator",
+          "long": "(Kimia) Suatu zat yang menyebabkan reaksi kimia terjadi pada laju yang lebih cepat tanpa mengalami perubahan kimia itu sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390209.jpeg",
+      "simplified": "催化剂",
+      "traditional": "催化劑",
+      "pinyin": "cuīhuà jì"
+    },
+    {
+      "id": 390210,
+      "translation": {
+        "en": {
+          "short": "catalysis",
+          "long": "the acceleration or facilitation of a chemical reaction by a substance (catalyst) that remains unchanged at the end of the reaction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "katalisis",
+          "long": "percepatan atau fasilitasi reaksi kimia oleh suatu zat (katalis) yang tetap tidak berubah pada akhir reaksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390210.jpeg",
+      "simplified": "催化",
+      "traditional": "催化",
+      "pinyin": "cuīhuà"
+    },
+    {
+      "id": 390211,
+      "translation": {
+        "en": {
+          "short": "covalent bond",
+          "long": "a chemical bond where atoms share electrons to form a stable molecule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ikatan kovalen",
+          "long": "ikatan kimia di mana atom berbagi elektron untuk membentuk molekul yang stabil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390211.jpeg",
+      "simplified": "共价键",
+      "traditional": "共價鍵",
+      "pinyin": "gòngjià jiàn"
+    },
+    {
+      "id": 390212,
+      "translation": {
+        "en": {
+          "short": "isomer",
+          "long": "any of two or more compounds having the same molecular formula but different arrangements of atoms and, consequently, different properties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isomer",
+          "long": "salah satu dari dua atau lebih senyawa yang memiliki formula molekul yang sama tetapi pengaturan atom yang berbeda dan, akibatnya, sifat yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390212.jpeg",
+      "simplified": "异构体",
+      "traditional": "異構體",
+      "pinyin": "yìgòu tǐ"
+    },
+    {
+      "id": 390213,
+      "translation": {
+        "en": {
+          "short": "polymer",
+          "long": "a large molecule composed of repeating structural units, or monomers, covalently bonded together in a chain-like structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polimer",
+          "long": "Molekul besar yang terdiri dari unit struktural yang berulang, atau monomer, secara kovalen terikat bersama dalam struktur seperti rantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390213.jpeg",
+      "simplified": "聚合物",
+      "traditional": "聚合物",
+      "pinyin": "jùhé wù"
+    },
+    {
+      "id": 390214,
+      "translation": {
+        "en": {
+          "short": "monomer",
+          "long": "a molecule that can chemically bond with other molecules to form a polymer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monomer",
+          "long": "molekul yang secara kimia dapat terikat dengan molekul lain untuk membentuk polimer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390214.jpeg",
+      "simplified": "单体",
+      "traditional": "單體",
+      "pinyin": "dāntǐ"
+    },
+    {
+      "id": 390215,
+      "translation": {
+        "en": {
+          "short": "hydrocarbon",
+          "long": "a compound composed of hydrogen and carbon atoms, with the simplest form being alkanes, alkenes, or alkynes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hidrokarbon",
+          "long": "Senyawa yang terdiri dari atom hidrogen dan karbon, dengan bentuk paling sederhana adalah alkana, alkena, atau alkin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390215.jpeg",
+      "simplified": "烃",
+      "traditional": "烴",
+      "pinyin": "tīng"
+    },
+    {
+      "id": 390216,
+      "translation": {
+        "en": {
+          "short": "ester",
+          "long": "a chemical compound derived from the reaction between an alcohol and an organic acid, typically with the elimination of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ester",
+          "long": "Senyawa kimia yang berasal dari reaksi antara alkohol dan asam organik, biasanya dengan eliminasi air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390216.jpeg",
+      "simplified": "酯",
+      "traditional": "酯",
+      "pinyin": "zhǐ"
+    },
+    {
+      "id": 390217,
+      "translation": {
+        "en": {
+          "short": "aldehyde",
+          "long": "an organic compound with a carbonyl group (C=O) bonded to a hydrogen atom and another carbon atom, commonly found in essential oils and used in various chemical processes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Aldehyde",
+          "long": "Senyawa organik dengan gugus karbonil (C = O) yang terikat pada atom hidrogen dan atom karbon lainnya, yang biasa ditemukan dalam minyak atsiri dan digunakan dalam berbagai proses kimia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390217.jpeg",
+      "simplified": "醛",
+      "traditional": "醛",
+      "pinyin": "quán"
+    },
+    {
+      "id": 390218,
+      "translation": {
+        "en": {
+          "short": "alcohol",
+          "long": "a compound with a hydroxyl group (-OH) attached to a carbon atom, widely used as solvents, fuels, and in pharmaceutical and chemical synthesis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alkohol",
+          "long": "Senyawa dengan gugus hidroksil (-OH) yang melekat pada atom karbon, banyak digunakan sebagai pelarut, bahan bakar, dan dalam sintesis farmasi dan kimia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390218.jpeg",
+      "simplified": "酒精（化学）",
+      "traditional": "酒精（化學）",
+      "pinyin": "jiǔjīng huàxué"
+    },
+    {
+      "id": 390219,
+      "translation": {
+        "en": {
+          "short": "ketone",
+          "long": "an organic compound with a carbonyl group (C=O) bonded to two carbon atoms, commonly found in solvents, pharmaceuticals, and flavorings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keton",
+          "long": "Senyawa organik dengan kelompok karbonil (C = O) terikat pada dua atom karbon, yang biasa ditemukan dalam pelarut, obat -obatan, dan perasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390219.jpeg",
+      "simplified": "酮",
+      "traditional": "酮",
+      "pinyin": "tóng"
+    },
+    {
+      "id": 390220,
+      "translation": {
+        "en": {
+          "short": "oxidation-reduction",
+          "long": "a chemical reaction where electrons are transferred between substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pengurangan oksidasi",
+          "long": "reaksi kimia di mana elektron ditransfer antar zat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390220.jpeg",
+      "simplified": "还原氧化",
+      "traditional": "還原氧化",
+      "pinyin": "huányuán yǎnghuà"
+    },
+    {
+      "id": 390221,
+      "translation": {
+        "en": {
+          "short": "molarity",
+          "long": "the concentration of a solute in a solution, measured in moles per liter (mol/L or M)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "molaritas",
+          "long": "Konsentrasi zat terlarut dalam larutan, diukur dalam mol per liter (mol/L atau m)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390221.jpeg",
+      "simplified": "摩尔力",
+      "traditional": "摩爾力",
+      "pinyin": "Móěr Lì"
+    },
+    {
+      "id": 390222,
+      "translation": {
+        "en": {
+          "short": "electrolyte",
+          "long": "a substance that, when dissolved in a solution, produces ions and enables the conduction of electric current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elektrolit",
+          "long": "zat yang, ketika dilarutkan dalam suatu larutan, menghasilkan ion dan memungkinkan konduksi arus listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390222.jpeg",
+      "simplified": "电解质",
+      "traditional": "電解質",
+      "pinyin": "diànjiě zhì"
+    },
+    {
+      "id": 390223,
+      "translation": {
+        "en": {
+          "short": "colloid",
+          "long": "a mixture where small particles of one substance are evenly dispersed in another substance, typically intermediate in size between solution and suspension particles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koloid",
+          "long": "Campuran di mana partikel kecil dari satu zat tersebar secara merata dalam zat lain, biasanya ukuran antara antara larutan dan partikel suspensi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390223.jpeg",
+      "simplified": "胶体",
+      "traditional": "膠體",
+      "pinyin": "jiāotǐ"
+    },
+    {
+      "id": 390224,
+      "translation": {
+        "en": {
+          "short": "corrosion",
+          "long": "the gradual destruction of materials by chemical reaction, usually of metals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "korosi",
+          "long": "Penghancuran bahan secara bertahap berdasarkan reaksi kimia, biasanya logam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390224.jpeg",
+      "simplified": "腐蚀",
+      "traditional": "腐蝕",
+      "pinyin": "fǔshí"
+    },
+    {
+      "id": 390225,
+      "translation": {
+        "en": {
+          "short": "alkali",
+          "long": "any substance with a pH of more than seven that neutralizes acids creating salt and water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alkali",
+          "long": "zat apa pun dengan pH lebih dari tujuh yang menetralkan asam menciptakan garam dan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390225.jpeg",
+      "simplified": "强碱",
+      "traditional": "強鹼",
+      "pinyin": "qiángjiǎn"
+    },
+    {
+      "id": 390226,
+      "translation": {
+        "en": {
+          "short": "ammonia",
+          "long": "a gas with a strong smell that dissolves in water to give a strongly alkaline solution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amonia",
+          "long": "Gas dengan aroma kuat yang larut dalam air untuk memberikan larutan yang sangat basa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390226.jpeg",
+      "simplified": "氨",
+      "traditional": "氨",
+      "pinyin": "ān"
+    },
+    {
+      "id": 390228,
+      "translation": {
+        "en": {
+          "short": "alloy",
+          "long": "a combination of two or more metals, creating a metal that is usually stronger or more resistant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paduan",
+          "long": "kombinasi dua logam atau lebih, menciptakan logam yang biasanya lebih kuat atau lebih tahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390228.jpeg",
+      "simplified": "合金",
+      "traditional": "合金",
+      "pinyin": "héjīn"
+    },
+    {
+      "id": 390229,
+      "translation": {
+        "en": {
+          "short": "halogen",
+          "long": "a type of chemical element found in Group 17 of the periodic table, known for being highly reactive and commonly used in disinfectants and lights",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halogen",
+          "long": "Jenis elemen kimia yang ditemukan pada kelompok 17 dari tabel periodik, yang dikenal sangat reaktif dan umumnya digunakan dalam desinfektan dan lampu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390229.jpeg",
+      "simplified": "卤素",
+      "traditional": "鹵素",
+      "pinyin": "lǔsù"
+    },
+    {
+      "id": 390230,
+      "translation": {
+        "en": {
+          "short": "isotope",
+          "long": "each of two or more forms of the same element that contain equal numbers of protons but different numbers of neutrons in their nuclei, leading to variation in atomic mass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "isotop",
+          "long": "Masing -masing dari dua atau lebih bentuk dari elemen yang sama yang mengandung jumlah proton yang sama tetapi jumlah neutron yang berbeda dalam inti mereka, yang mengarah ke variasi massa atom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390230.jpeg",
+      "simplified": "同位素",
+      "traditional": "同位素",
+      "pinyin": "tóngwèi sù"
+    },
+    {
+      "id": 390231,
+      "translation": {
+        "en": {
+          "short": "noble gas",
+          "long": "any of the elements in Group 18 of the periodic table, including helium, neon, argon, krypton, xenon, and radon, characterized by their inert nature and stable electron configurations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gas mulia",
+          "long": "Salah satu elemen dalam kelompok 18 dari tabel periodik, termasuk helium, neon, argon, krypton, xenon, dan radon, ditandai dengan sifat inert dan konfigurasi elektron yang stabil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390231.jpeg",
+      "simplified": "惰性气体",
+      "traditional": "惰性氣體",
+      "pinyin": "duòxìng qì tǐ"
+    },
+    {
+      "id": 390232,
+      "translation": {
+        "en": {
+          "short": "emulsion",
+          "long": "a mixture of two liquids where tiny droplets of one are evenly dispersed in the other, like oil in water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "emulsi",
+          "long": "Campuran dua cairan di mana tetesan kecil satu tersebar secara merata di yang lain, seperti minyak dalam air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390232.jpeg",
+      "simplified": "乳胶",
+      "traditional": "乳膠",
+      "pinyin": "rǔjiāo"
+    },
+    {
+      "id": 390233,
+      "translation": {
+        "en": {
+          "short": "half-life",
+          "long": "the time required for half of a quantity of a substance to undergo a change or decay, typically in the context of radioactive decay or chemical reactions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah hidup",
+          "long": "Waktu yang dibutuhkan untuk setengah dari jumlah zat untuk mengalami perubahan atau pembusukan, biasanya dalam konteks pembusukan radioaktif atau reaksi kimia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390233.jpeg",
+      "simplified": "半衰期（化学过程）",
+      "traditional": "半衰期（化學過程）",
+      "pinyin": "bànshuāi qī huàxué guòchéng"
+    },
+    {
+      "id": 390234,
+      "translation": {
+        "en": {
+          "short": "depleted uranium",
+          "long": "a type of uranium that has most of its more radioactive isotopes removed, primarily used for armor-piercing ammunition and shielding",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Uranium yang habis",
+          "long": "Jenis uranium yang sebagian besar isotop radioaktif dihilangkan, terutama digunakan untuk amunisi dan pelindung yang menusuk baju besi dan pelindung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390234.jpeg",
+      "simplified": "贫铀",
+      "traditional": "貧鈾",
+      "pinyin": "pínyóu"
+    },
+    {
+      "id": 390235,
+      "translation": {
+        "en": {
+          "short": "solvent",
+          "long": "a liquid that is capable of dissolving another substance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelarut",
+          "long": "cairan yang mampu melarutkan zat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390235.jpeg",
+      "simplified": "溶剂",
+      "traditional": "溶劑",
+      "pinyin": "róngjì"
+    },
+    {
+      "id": 390227,
+      "translation": {
+        "en": {
+          "short": "charged",
+          "long": "having an electric charge",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dibebankan",
+          "long": "Memiliki muatan listrik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390227.jpeg",
+      "simplified": "带电",
+      "traditional": "帶電",
+      "pinyin": "dàidiàn"
+    }
+  ]
+}

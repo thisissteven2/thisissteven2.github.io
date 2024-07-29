@@ -1,0 +1,602 @@
+{
+  "id": 3094,
+  "title": {
+    "en": "Taxonomic Rank",
+    "id": "Peringkat taksonomi"
+  },
+  "description": {
+    "en": "Here you will learn some words related to taxonomic rank in English such as \"subclass\", \"phylum\", and \"species\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata yang berkaitan dengan peringkat taksonomi dalam bahasa Inggris seperti \"subkelas\", \"filum\", dan \"spesies\"."
+  },
+  "cards": [
+    {
+      "id": 315400,
+      "translation": {
+        "en": {
+          "short": "zoology",
+          "long": "a branch of science that deals with animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ilmu hewan",
+          "long": "cabang sains yang berhubungan dengan hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315400.jpeg",
+      "simplified": "动物学",
+      "traditional": "動物學",
+      "pinyin": "dòngwù xué"
+    },
+    {
+      "id": 315341,
+      "translation": {
+        "en": {
+          "short": "hierarchy",
+          "long": "the grouping of people into different levels or ranks according to their power or importance within a society or system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hirarki",
+          "long": "pengelompokan orang ke tingkat atau peringkat yang berbeda sesuai dengan kekuatan atau kepentingannya dalam suatu masyarakat atau sistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315341.jpeg",
+      "simplified": "阶层",
+      "traditional": "階層",
+      "pinyin": "jiēcéng"
+    },
+    {
+      "id": 315345,
+      "translation": {
+        "en": {
+          "short": "taxonomy",
+          "long": "the systematic classification of plants and animals, based on their shared characteristics and evolutionary relationships",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "taksonomi",
+          "long": "Klasifikasi sistematis tumbuhan dan hewan, berdasarkan karakteristik bersama dan hubungan evolusioner mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315345.jpeg",
+      "simplified": "分类",
+      "traditional": "分類",
+      "pinyin": "fēnlèi"
+    },
+    {
+      "id": 315392,
+      "translation": {
+        "en": {
+          "short": "subspecies",
+          "long": "a taxonomic rank below species that represents a distinct population within a species, exhibiting consistent differences from other populations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subspesies",
+          "long": "Peringkat taksonomi di bawah spesies yang mewakili populasi yang berbeda dalam suatu spesies, menunjukkan perbedaan yang konsisten dari populasi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315392.jpeg",
+      "simplified": "亚种",
+      "traditional": "亞種",
+      "pinyin": "yàzhǒng"
+    },
+    {
+      "id": 315397,
+      "translation": {
+        "en": {
+          "short": "subtribe",
+          "long": "a taxonomic rank used in biological classification that is lower than a tribe and higher than a genus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subtribe",
+          "long": "Peringkat taksonomi yang digunakan dalam klasifikasi biologis yang lebih rendah dari suku dan lebih tinggi dari genus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315397.jpeg",
+      "simplified": "亚部落",
+      "traditional": "亞部落",
+      "pinyin": "Yà bùluò"
+    },
+    {
+      "id": 315405,
+      "translation": {
+        "en": {
+          "short": "division",
+          "long": "a taxonomic rank used to classify organisms that is below kingdom and above class",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "divisi",
+          "long": "Peringkat taksonomi yang digunakan untuk mengklasifikasikan organisme yang berada di bawah kerajaan dan di atas kelas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315405.jpeg",
+      "simplified": "师",
+      "traditional": "師",
+      "pinyin": "Shī"
+    },
+    {
+      "id": 315407,
+      "translation": {
+        "en": {
+          "short": "variety",
+          "long": "a taxonomic rank below that of subspecies and refers to distinct forms of a species that differ in minor ways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "variasi",
+          "long": "Peringkat taksonomi di bawah subspesies dan mengacu pada bentuk -bentuk berbeda dari suatu spesies yang berbeda dalam cara kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315407.jpeg",
+      "simplified": "品种",
+      "traditional": "品種",
+      "pinyin": "pǐnzhǒng"
+    },
+    {
+      "id": 315408,
+      "translation": {
+        "en": {
+          "short": "form",
+          "long": "a collection of organisms within a species that have small differences from other similar groups",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membentuk",
+          "long": "kumpulan organisme dalam suatu spesies yang memiliki perbedaan kecil dari kelompok serupa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315408.jpeg",
+      "simplified": "形式",
+      "traditional": "形式",
+      "pinyin": "xíngshì"
+    },
+    {
+      "id": 315409,
+      "translation": {
+        "en": {
+          "short": "subphylum",
+          "long": "a taxonomic rank that is lower than phylum and higher than class",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subphylum",
+          "long": "peringkat taksonomi yang lebih rendah dari filum dan lebih tinggi dari kelas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315409.jpeg",
+      "simplified": "亚球",
+      "traditional": "亞球",
+      "pinyin": "Yà qiú"
+    },
+    {
+      "id": 315410,
+      "translation": {
+        "en": {
+          "short": "subclass",
+          "long": "a taxonomic rank that comes between class and order, and includes one or more related orders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subkelas",
+          "long": "Peringkat taksonomi yang datang antara kelas dan pesanan, dan mencakup satu atau lebih pesanan terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315410.jpeg",
+      "simplified": "子类",
+      "traditional": "子類",
+      "pinyin": "zǐ lèi"
+    },
+    {
+      "id": 315411,
+      "translation": {
+        "en": {
+          "short": "superorder",
+          "long": "a taxonomic rank that is used to group related orders within a subclass or class of organisms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "superorder",
+          "long": "Peringkat taksonomi yang digunakan untuk mengelompokkan pesanan terkait dalam subkelas atau kelas organisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315411.jpeg",
+      "simplified": "超级订购",
+      "traditional": "超級訂購",
+      "pinyin": "chāojí dìnggòu"
+    },
+    {
+      "id": 315412,
+      "translation": {
+        "en": {
+          "short": "suborder",
+          "long": "a taxonomic rank that comes below the order and above the infraorder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suborder",
+          "long": "Peringkat taksonomi yang datang di bawah pesanan dan di atas infraorder",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315412.jpeg",
+      "simplified": "亚目",
+      "traditional": "亞目",
+      "pinyin": "yàmù"
+    },
+    {
+      "id": 315413,
+      "translation": {
+        "en": {
+          "short": "superfamily",
+          "long": "a taxonomic rank below the order level and above the family level, comprising closely related families of organisms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Superfamili",
+          "long": "Peringkat taksonomi di bawah tingkat pesanan dan di atas tingkat keluarga, yang terdiri dari keluarga organisme terkait erat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315413.jpeg",
+      "simplified": "超家族",
+      "traditional": "超家族",
+      "pinyin": "chāo jiāzú"
+    },
+    {
+      "id": 315414,
+      "translation": {
+        "en": {
+          "short": "realm",
+          "long": "a distinct and broad type of habitat or ecological region occupied by various animal species, characterized by specific environmental conditions and biological communities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dunia",
+          "long": "Jenis habitat atau daerah ekologis yang berbeda dan luas yang ditempati oleh berbagai spesies hewan, ditandai oleh kondisi lingkungan tertentu dan komunitas biologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315414.jpeg",
+      "simplified": "领域",
+      "traditional": "領域",
+      "pinyin": "lǐngyù"
+    },
+    {
+      "id": 315347,
+      "translation": {
+        "en": {
+          "short": "life",
+          "long": "the collective existence of living organisms and their characteristics, such as growth, reproduction, adaptation, and response to stimuli",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kehidupan",
+          "long": "Keberadaan kolektif organisme hidup dan karakteristiknya, seperti pertumbuhan, reproduksi, adaptasi, dan respons terhadap rangsangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315347.jpeg",
+      "simplified": "生活",
+      "traditional": "生活",
+      "pinyin": "shēnghuó"
+    },
+    {
+      "id": 315360,
+      "translation": {
+        "en": {
+          "short": "domain",
+          "long": "the highest taxonomic rank of organisms, above the kingdom level, which groups organisms based on their molecular, biochemical, and structural characteristics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "domain",
+          "long": "Pangkat taksonomi tertinggi organisme, di atas tingkat kerajaan, yang mengelompokkan organisme berdasarkan karakteristik molekuler, biokimia, dan struktural mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315360.jpeg",
+      "simplified": "域",
+      "traditional": "域",
+      "pinyin": "yù"
+    },
+    {
+      "id": 315362,
+      "translation": {
+        "en": {
+          "short": "kingdom",
+          "long": "the highest taxonomic classification that categorizes organisms, comprising five major biological groups",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerajaan",
+          "long": "Klasifikasi taksonomi tertinggi yang mengkategorikan organisme, yang terdiri dari lima kelompok biologis utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315362.jpeg",
+      "simplified": "王国",
+      "traditional": "王國",
+      "pinyin": "wángguó"
+    },
+    {
+      "id": 315363,
+      "translation": {
+        "en": {
+          "short": "phylum",
+          "long": "(biology) a taxonomic category between a class and a kingdom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "divisi",
+          "long": "(Biologi) Kategori taksonomi antara kelas dan kerajaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315363.jpeg",
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "Mén"
+    },
+    {
+      "id": 315365,
+      "translation": {
+        "en": {
+          "short": "class",
+          "long": "(biology) a taxonomic category ranking between a division and an order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelas",
+          "long": "(Biologi) Peringkat kategori taksonomi antara divisi dan pesanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315365.jpeg",
+      "simplified": "类",
+      "traditional": "類",
+      "pinyin": "lèi"
+    },
+    {
+      "id": 315367,
+      "translation": {
+        "en": {
+          "short": "order",
+          "long": "(biology) a taxonomic category between a class and a family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memesan",
+          "long": "(Biologi) Kategori taksonomi antara kelas dan keluarga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315367.jpeg",
+      "simplified": "命令",
+      "traditional": "命令",
+      "pinyin": "mìnglìng"
+    },
+    {
+      "id": 315368,
+      "translation": {
+        "en": {
+          "short": "family",
+          "long": "(biology) a taxonomic category that is between genus and order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keluarga",
+          "long": "(Biologi) Kategori taksonomi antara genus dan ketertiban",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315368.jpeg",
+      "simplified": "家庭",
+      "traditional": "家庭",
+      "pinyin": "jiātíng"
+    },
+    {
+      "id": 315370,
+      "translation": {
+        "en": {
+          "short": "genus",
+          "long": "(biology) any of the groups that plants, animals, etc. with similar characteristics are divided into, which is larger than a species and smaller than a family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "marga",
+          "long": "(Biologi) Setiap kelompok tempat tumbuhan, hewan, dll. Dengan karakteristik yang sama dibagi menjadi, yang lebih besar dari spesies dan lebih kecil dari keluarga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315370.jpeg",
+      "simplified": "属（生物学）",
+      "traditional": "屬（生物學）",
+      "pinyin": "shǔ shēngwù xué"
+    },
+    {
+      "id": 315372,
+      "translation": {
+        "en": {
+          "short": "species",
+          "long": "a group that animals, plants, etc. of the same type which are capable of producing healthy offspring with each other are divided into",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis",
+          "long": "Kelompok yang hewan, tumbuhan, dll. Dengan jenis yang sama yang mampu menghasilkan keturunan yang sehat satu sama lain dibagi menjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315372.jpeg",
+      "simplified": "种类",
+      "traditional": "種類",
+      "pinyin": "zhǒnglèi"
+    },
+    {
+      "id": 315375,
+      "translation": {
+        "en": {
+          "short": "cladistics",
+          "long": "a method of classification in biology that groups organisms based on their shared characteristics and evolutionary relationships",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cladistics",
+          "long": "Metode klasifikasi dalam biologi yang mengelompokkan organisme berdasarkan karakteristik bersama dan hubungan evolusioner mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315375.jpeg",
+      "simplified": "分支学",
+      "traditional": "分支學",
+      "pinyin": "fēnzhī xué"
+    },
+    {
+      "id": 315378,
+      "translation": {
+        "en": {
+          "short": "genetic",
+          "long": "relating to the study of genes",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "genetik",
+          "long": "berkaitan dengan studi gen",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315378.jpeg",
+      "simplified": "遗传的",
+      "traditional": "遺傳的",
+      "pinyin": "yíchuán de"
+    },
+    {
+      "id": 315382,
+      "translation": {
+        "en": {
+          "short": "trait",
+          "long": "something that is considered typical of a person, place, or thing and identifies them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sifat",
+          "long": "sesuatu yang dianggap khas dari seseorang, tempat, atau sesuatu dan mengidentifikasinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315382.jpeg",
+      "simplified": "特征",
+      "traditional": "特徵",
+      "pinyin": "tèzhēng"
+    },
+    {
+      "id": 315385,
+      "translation": {
+        "en": {
+          "short": "kingdom animalia",
+          "long": "a group of living things that includes all animals, which are multicellular organisms that can move, eat, and reproduce sexually",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kingdom Animalia",
+          "long": "sekelompok makhluk hidup yang mencakup semua hewan, yang merupakan organisme multiseluler yang dapat bergerak, makan, dan bereproduksi secara seksual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315385.jpeg",
+      "simplified": "动物界",
+      "traditional": "動物界",
+      "pinyin": "dòngwù jiè"
+    },
+    {
+      "id": 315386,
+      "translation": {
+        "en": {
+          "short": "subfamily",
+          "long": "a taxonomic category that ranks below the family level and above the genus level, typically consisting of related genera",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subfamili",
+          "long": "Kategori taksonomi yang berada di bawah tingkat keluarga dan di atas tingkat genus, biasanya terdiri dari genera terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315386.jpeg",
+      "simplified": "亚科",
+      "traditional": "亞科",
+      "pinyin": "yàkē"
+    },
+    {
+      "id": 315388,
+      "translation": {
+        "en": {
+          "short": "tribe",
+          "long": "a taxonomic rank that comes between a subfamily and a genus, consisting of one or more genera that share certain characteristics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suku",
+          "long": "Peringkat taksonomi yang muncul antara subfamili dan genus, yang terdiri dari satu atau lebih genera yang memiliki karakteristik tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315388.jpeg",
+      "simplified": "部落",
+      "traditional": "部落",
+      "pinyin": "bùluò"
+    },
+    {
+      "id": 315390,
+      "translation": {
+        "en": {
+          "short": "subgenus",
+          "long": "a taxonomic rank used in biological classification that is lower than a genus but higher than a species",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subgenus",
+          "long": "Peringkat taksonomi yang digunakan dalam klasifikasi biologis yang lebih rendah dari genus tetapi lebih tinggi dari spesies",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315390.jpeg",
+      "simplified": "亚属",
+      "traditional": "亞屬",
+      "pinyin": "Yà shǔ"
+    },
+    {
+      "id": 328420,
+      "translation": {
+        "en": {
+          "short": "race",
+          "long": "(biology) a taxonomic category below species that has a distinct feature from other groups in the same species",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "balapan",
+          "long": "(Biologi) Kategori taksonomi di bawah spesies yang memiliki fitur berbeda dari kelompok lain pada spesies yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/328420.jpeg",
+      "simplified": "种族",
+      "traditional": "種族",
+      "pinyin": "zhǒngzú"
+    }
+  ]
+}

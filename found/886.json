@@ -1,0 +1,678 @@
+{
+  "id": 886,
+  "title": {
+    "en": "Measurement",
+    "id": "Pengukuran"
+  },
+  "description": {
+    "en": "Here you will learn some English words about measurement, such as \"volume\", \"deduction\", \"division\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pengukuran, seperti \"volume\", \"deduksi\", \"divisi\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 239514,
+      "translation": {
+        "en": {
+          "short": "arc",
+          "long": "(geometry) a part of a circle, which is curved",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busur",
+          "long": "(Geometri) Bagian dari lingkaran, yang melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239514.jpeg",
+      "simplified": "弧（几何）",
+      "traditional": "弧（幾何）",
+      "pinyin": "hú jǐhé"
+    },
+    {
+      "id": 239488,
+      "translation": {
+        "en": {
+          "short": "area",
+          "long": "the measurement of a piece of land or a flat surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daerah",
+          "long": "pengukuran sebidang tanah atau permukaan yang rata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239488.jpeg",
+      "simplified": "周长（数学）",
+      "traditional": "周長（數學）",
+      "pinyin": "zhōucháng shùxué"
+    },
+    {
+      "id": 239507,
+      "translation": {
+        "en": {
+          "short": "point",
+          "long": "(geometry) an element that only has position, with no size or dimension",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik",
+          "long": "(Geometri) Elemen yang hanya memiliki posisi, tanpa ukuran atau dimensi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239507.jpeg",
+      "simplified": "点（几何）",
+      "traditional": "點（幾何）",
+      "pinyin": "diǎn jǐhé"
+    },
+    {
+      "id": 239509,
+      "translation": {
+        "en": {
+          "short": "set",
+          "long": "(mathematics) a group of things that belong together because of having some similarities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengatur",
+          "long": "(Matematika) Sekelompok hal yang dimiliki bersama karena memiliki beberapa kesamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239509.jpeg",
+      "simplified": "集合（数学）",
+      "traditional": "集合（數學）",
+      "pinyin": "jíhé shùxué"
+    },
+    {
+      "id": 239503,
+      "translation": {
+        "en": {
+          "short": "space",
+          "long": "an area that is empty or unoccupied and therefore available for use",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang angkasa",
+          "long": "Area yang kosong atau tidak dihuni dan karenanya tersedia untuk digunakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239503.jpeg",
+      "simplified": "空间",
+      "traditional": "空間",
+      "pinyin": "kōngjiān"
+    },
+    {
+      "id": 239512,
+      "translation": {
+        "en": {
+          "short": "volume",
+          "long": "the amount of space that a substance or object takes or the amount of space inside an object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "volume",
+          "long": "Jumlah ruang yang diambil suatu zat atau objek atau jumlah ruang di dalam suatu objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239512.jpeg",
+      "simplified": "卷",
+      "traditional": "卷",
+      "pinyin": "juǎn"
+    },
+    {
+      "id": 239486,
+      "translation": {
+        "en": {
+          "short": "addition",
+          "long": "the calculation of the total of two or more numbers added together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambahan",
+          "long": "perhitungan total dua atau lebih angka ditambahkan bersama -sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239486.jpeg",
+      "simplified": "加法（数学）",
+      "traditional": "加法（數學）",
+      "pinyin": "jiāfǎ shùxué"
+    },
+    {
+      "id": 239491,
+      "translation": {
+        "en": {
+          "short": "deduction",
+          "long": "the action or process of taking an amount away from a total",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deduksi",
+          "long": "tindakan atau proses mengambil jumlah dari total",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239491.jpeg",
+      "simplified": "演绎（数学）",
+      "traditional": "演繹（數學）",
+      "pinyin": "yǎnyì shùxué"
+    },
+    {
+      "id": 239493,
+      "translation": {
+        "en": {
+          "short": "division",
+          "long": "the process of calculating how many times a number can contain another number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "divisi",
+          "long": "proses menghitung berapa kali angka dapat berisi nomor lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239493.jpeg",
+      "simplified": "除法（数学）",
+      "traditional": "除法（數學）",
+      "pinyin": "chúfǎ shùxué"
+    },
+    {
+      "id": 239511,
+      "translation": {
+        "en": {
+          "short": "multiplication",
+          "long": "the process or action of adding a number to itself a specific number of times",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkalian",
+          "long": "proses atau tindakan menambahkan angka ke dirinya sendiri beberapa kali tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239511.jpeg",
+      "simplified": "乘法（数学）",
+      "traditional": "乘法（數學）",
+      "pinyin": "chéngfǎ shùxué"
+    },
+    {
+      "id": 239516,
+      "translation": {
+        "en": {
+          "short": "times",
+          "long": "used to multiply a number by another",
+          "partOfSpeech": "preposition"
+        },
+        "id": {
+          "short": "waktu",
+          "long": "digunakan untuk melipatgandakan angka dengan yang lain",
+          "partOfSpeech": "preposisi"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239516.jpeg",
+      "simplified": "乘法（数学）",
+      "traditional": "乘法（數學）",
+      "pinyin": "chéngfǎ shùxué"
+    },
+    {
+      "id": 239495,
+      "translation": {
+        "en": {
+          "short": "fraction",
+          "long": "a part of a whole number, such as ½",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pecahan",
+          "long": "bagian dari seluruh bilangan bulat, seperti ½",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239495.jpeg",
+      "simplified": "分数（数学）",
+      "traditional": "分數（數學）",
+      "pinyin": "fēnshù shùxué"
+    },
+    {
+      "id": 239504,
+      "translation": {
+        "en": {
+          "short": "percentage",
+          "long": "a number or amount expressed as a fraction of 100",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persentase",
+          "long": "jumlah atau jumlah yang dinyatakan sebagai sebagian kecil dari 100",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239504.jpeg",
+      "simplified": "百分比",
+      "traditional": "百分比",
+      "pinyin": "bǎifēn bǐ"
+    },
+    {
+      "id": 239508,
+      "translation": {
+        "en": {
+          "short": "probability",
+          "long": "(mathematics) a number representing the chances of something specific happening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemungkinan",
+          "long": "(Matematika) Angka yang mewakili peluang sesuatu yang spesifik terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239508.jpeg",
+      "simplified": "概率（数学）",
+      "traditional": "概率（數學）",
+      "pinyin": "gàilǜ shùxué"
+    },
+    {
+      "id": 239494,
+      "translation": {
+        "en": {
+          "short": "equal sign",
+          "long": "the sign = in mathematics, used to indicate that two quantities or expressions are exactly the same in value or meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda yang sama",
+          "long": "Tanda = dalam matematika, digunakan untuk menunjukkan bahwa dua kuantitas atau ekspresi persis sama dalam nilai atau makna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239494.jpeg",
+      "simplified": "等号（数学）",
+      "traditional": "等號（數學）",
+      "pinyin": "děnghào shùxué"
+    },
+    {
+      "id": 239487,
+      "translation": {
+        "en": {
+          "short": "to amount to",
+          "long": "to reach a specified total when different amounts are added together",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "jumlahnya",
+          "long": "untuk mencapai total yang ditentukan ketika jumlah yang berbeda ditambahkan bersama -sama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239487.jpeg",
+      "simplified": "等于（数学）",
+      "traditional": "等於（數學）",
+      "pinyin": "děngyú shùxué"
+    },
+    {
+      "id": 239492,
+      "translation": {
+        "en": {
+          "short": "digit",
+          "long": "one of the numbers from 0 to 9",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angka",
+          "long": "salah satu angka dari 0 hingga 9",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239492.jpeg",
+      "simplified": "数字",
+      "traditional": "數字",
+      "pinyin": "shùzì"
+    },
+    {
+      "id": 239501,
+      "translation": {
+        "en": {
+          "short": "minus",
+          "long": "the sign - in mathematics, used to indicate subtraction or a negative number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minus",
+          "long": "Tanda - dalam matematika, digunakan untuk menunjukkan pengurangan atau angka negatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239501.jpeg",
+      "simplified": "负号",
+      "traditional": "負號",
+      "pinyin": "fùhào"
+    },
+    {
+      "id": 239506,
+      "translation": {
+        "en": {
+          "short": "plus",
+          "long": "the sign + in mathematics, used to indicate addition or a positive number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "plus",
+          "long": "Tanda + dalam matematika, digunakan untuk menunjukkan penambahan atau angka positif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239506.jpeg",
+      "simplified": "加号",
+      "traditional": "加號",
+      "pinyin": "jiāhào"
+    },
+    {
+      "id": 239496,
+      "translation": {
+        "en": {
+          "short": "graph",
+          "long": "a graphical display of the relationship between two or more numbers using a line or lines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grafik",
+          "long": "Tampilan grafis dari hubungan antara dua atau lebih angka menggunakan garis atau garis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239496.jpeg",
+      "simplified": "图表（数学）",
+      "traditional": "圖表（數學）",
+      "pinyin": "túbiǎo shùxué"
+    },
+    {
+      "id": 239489,
+      "translation": {
+        "en": {
+          "short": "bar chart",
+          "long": "a graphical display of information consisting of narrow rectangular lines whose heights depend on the value that they are representing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grafik batang",
+          "long": "Tampilan grafis informasi yang terdiri dari garis persegi panjang sempit yang tingginya tergantung pada nilai yang mereka wakili",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239489.jpeg",
+      "simplified": "条图",
+      "traditional": "條圖",
+      "pinyin": "tiáo tú"
+    },
+    {
+      "id": 239505,
+      "translation": {
+        "en": {
+          "short": "pie chart",
+          "long": "a graphical display of the difference between the parts of a whole shown by dividing a circle into several segments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pie chart",
+          "long": "Tampilan grafis dari perbedaan antara bagian -bagian dari keseluruhan yang ditunjukkan dengan membagi lingkaran menjadi beberapa segmen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239505.jpeg",
+      "simplified": "饼形图",
+      "traditional": "餅形圖",
+      "pinyin": "bǐng xíng tú"
+    },
+    {
+      "id": 239497,
+      "translation": {
+        "en": {
+          "short": "line graph",
+          "long": "a graphical display of the relationship between two points connected to each other by lines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grafik garis",
+          "long": "Tampilan grafis dari hubungan antara dua titik yang terhubung satu sama lain dengan baris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239497.jpeg",
+      "simplified": "线形图",
+      "traditional": "線形圖",
+      "pinyin": "xiànxíng tú"
+    },
+    {
+      "id": 239498,
+      "translation": {
+        "en": {
+          "short": "mathematician",
+          "long": "someone who is a specialist or expert in mathematics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli matematika",
+          "long": "seseorang yang merupakan spesialis atau ahli matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239498.jpeg",
+      "simplified": "数学家",
+      "traditional": "數學家",
+      "pinyin": "shùxué jiā"
+    },
+    {
+      "id": 239500,
+      "translation": {
+        "en": {
+          "short": "measure",
+          "long": "a unit used to represent the degree, size, or quantity of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ukuran",
+          "long": "unit yang digunakan untuk mewakili tingkat, ukuran, atau jumlah sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239500.jpeg",
+      "simplified": "措施",
+      "traditional": "措施",
+      "pinyin": "cuòshī"
+    },
+    {
+      "id": 239485,
+      "translation": {
+        "en": {
+          "short": "acre",
+          "long": "a unit used in North America and Britain for measuring land area that equals 4047 square meters or 4840 square yards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hektar",
+          "long": "Unit yang digunakan di Amerika Utara dan Inggris untuk mengukur luas lahan yang sama dengan 4047 meter persegi atau 4840 yard persegi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239485.jpeg",
+      "simplified": "英亩（计量单位）",
+      "traditional": "英畝（計量單位）",
+      "pinyin": "yīngmǔ jìliàng dānwèi"
+    },
+    {
+      "id": 239513,
+      "translation": {
+        "en": {
+          "short": "degree",
+          "long": "a unit for measuring angles, shown by the symbol °",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "derajat",
+          "long": "unit untuk mengukur sudut, ditunjukkan oleh simbol °",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239513.jpeg",
+      "simplified": "度",
+      "traditional": "度",
+      "pinyin": "dù"
+    },
+    {
+      "id": 239510,
+      "translation": {
+        "en": {
+          "short": "statistic",
+          "long": "a number or piece of data representing measurements or facts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "statistik",
+          "long": "angka atau bagian data yang mewakili pengukuran atau fakta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239510.jpeg",
+      "simplified": "统计（数学）",
+      "traditional": "統計（數學）",
+      "pinyin": "tǒngjì shùxué"
+    },
+    {
+      "id": 239716,
+      "translation": {
+        "en": {
+          "short": "to rank",
+          "long": "to position someone or something on a scale based on importance, quality, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk peringkat",
+          "long": "untuk memposisikan seseorang atau sesuatu dalam skala berdasarkan kepentingan, kualitas, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239716.jpeg",
+      "simplified": "臧否",
+      "traditional": "臧否",
+      "pinyin": "Zāng fǒu"
+    },
+    {
+      "id": 239717,
+      "translation": {
+        "en": {
+          "short": "to rate",
+          "long": "to judge and assign a score or rank to something according to a set scale",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menilai",
+          "long": "untuk menilai dan menetapkan skor atau peringkat untuk sesuatu sesuai dengan skala yang ditetapkan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239717.jpeg",
+      "simplified": "估价",
+      "traditional": "估價",
+      "pinyin": "gūjià"
+    },
+    {
+      "id": 239874,
+      "translation": {
+        "en": {
+          "short": "massive",
+          "long": "extremely large, heavy, or solid",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "besar sekali",
+          "long": "Sangat besar, berat, atau padat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239874.jpeg",
+      "simplified": "大量的",
+      "traditional": "大量的",
+      "pinyin": "dàliàng de"
+    },
+    {
+      "id": 239679,
+      "translation": {
+        "en": {
+          "short": "multiple",
+          "long": "having or involving several parts, elements, or aspects",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "banyak",
+          "long": "memiliki atau melibatkan beberapa bagian, elemen, atau aspek",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239679.jpeg",
+      "simplified": "多种的",
+      "traditional": "多種的",
+      "pinyin": "duōzhǒng de"
+    },
+    {
+      "id": 239884,
+      "translation": {
+        "en": {
+          "short": "numerous",
+          "long": "indicating a large number of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "banyak sekali",
+          "long": "menunjukkan sejumlah besar sesuatu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239884.jpeg",
+      "simplified": "很多的",
+      "traditional": "很多的",
+      "pinyin": "hěn duō de"
+    },
+    {
+      "id": 239871,
+      "translation": {
+        "en": {
+          "short": "vast",
+          "long": "very great in size or amount",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "luas",
+          "long": "ukuran atau jumlah yang sangat bagus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239871.jpeg",
+      "simplified": "广阔的",
+      "traditional": "廣闊的",
+      "pinyin": "guǎngkuò de"
+    },
+    {
+      "id": 246886,
+      "translation": {
+        "en": {
+          "short": "section",
+          "long": "each of the parts into which a place or object is divided",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bagian",
+          "long": "masing -masing bagian tempat tempat atau objek dibagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246886.jpeg",
+      "simplified": "部分",
+      "traditional": "部分",
+      "pinyin": "bùfen"
+    }
+  ]
+}

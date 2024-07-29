@@ -1,0 +1,716 @@
+{
+  "id": 190,
+  "title": {
+    "en": "Driving",
+    "id": "Menyetir"
+  },
+  "description": {
+    "en": "Here you will learn some English words about driving, such as \"bumper\", \"hood\", \"plate\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang mengemudi, seperti \"bumper\", \"tudung\", \"piring\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 214228,
+      "translation": {
+        "en": {
+          "short": "driving school",
+          "long": "an institute that teaches people how to drive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah Mengemudi",
+          "long": "sebuah lembaga yang mengajarkan orang cara mengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214228.jpeg",
+      "simplified": "驾驶学校",
+      "traditional": "駕訓班",
+      "pinyin": "jiàshǐ xuéxiào"
+    },
+    {
+      "id": 214237,
+      "translation": {
+        "en": {
+          "short": "license number",
+          "long": "the numbers and letters on the plates at the front and back of a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor lisensi",
+          "long": "Angka dan huruf di pelat di depan dan belakang kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214237.jpeg",
+      "simplified": "车牌号码",
+      "traditional": "車牌號碼",
+      "pinyin": "chēpái hàomǎ"
+    },
+    {
+      "id": 237341,
+      "translation": {
+        "en": {
+          "short": "motor vehicle",
+          "long": "any type of vehicle that is powered by an engine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendaraan bermotor",
+          "long": "semua jenis kendaraan yang ditenagai oleh mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237341.jpeg",
+      "simplified": "汽车",
+      "traditional": "汽車",
+      "pinyin": "qìchē"
+    },
+    {
+      "id": 237354,
+      "translation": {
+        "en": {
+          "short": "bumper",
+          "long": "a bar that is attached to the back and front of a vehicle to reduce damage in time of an accident",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bumper",
+          "long": "Bilah yang melekat pada bagian belakang dan depan kendaraan untuk mengurangi kerusakan pada saat kecelakaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237354.jpeg",
+      "simplified": "保险杠",
+      "traditional": "保險槓",
+      "pinyin": "bǎoxiǎn gàng"
+    },
+    {
+      "id": 237342,
+      "translation": {
+        "en": {
+          "short": "emergency brake",
+          "long": "a brake that is operated by hand to hold a vehicle in place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rem darurat",
+          "long": "rem yang dioperasikan dengan tangan untuk memegang kendaraan di tempatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237342.jpeg",
+      "simplified": "手闸",
+      "traditional": "手閘",
+      "pinyin": "shǒuzhá"
+    },
+    {
+      "id": 237353,
+      "translation": {
+        "en": {
+          "short": "hood",
+          "long": "a metal part that covers the engine of a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tudung",
+          "long": "bagian logam yang menutupi mesin kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237353.jpeg",
+      "simplified": "兜帽",
+      "traditional": "兜帽",
+      "pinyin": "dōumào"
+    },
+    {
+      "id": 237345,
+      "translation": {
+        "en": {
+          "short": "plate",
+          "long": "a flat piece of metal at the front and back of a vehicle displaying numbers and letters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring",
+          "long": "Sepotong logam datar di bagian depan dan belakang kendaraan yang menampilkan angka dan huruf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237345.jpeg",
+      "simplified": "牌照",
+      "traditional": "牌照",
+      "pinyin": "páizhào"
+    },
+    {
+      "id": 214243,
+      "translation": {
+        "en": {
+          "short": "safety belt",
+          "long": "a strap that keeps a person attached to their seat to prevent injuries, especially in cars, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabuk pengaman",
+          "long": "Tali yang membuat seseorang melekat pada kursi mereka untuk mencegah cedera, terutama di mobil, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214243.jpeg",
+      "simplified": "安全带",
+      "traditional": "安全帶",
+      "pinyin": "ānquán dài"
+    },
+    {
+      "id": 237352,
+      "translation": {
+        "en": {
+          "short": "tailpipe",
+          "long": "a pipe through which harmful gasses exit from a car",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pipa knalpot",
+          "long": "pipa yang melaluinya gas berbahaya keluar dari mobil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237352.jpeg",
+      "simplified": "排气管",
+      "traditional": "排氣管",
+      "pinyin": "páiqì guǎn"
+    },
+    {
+      "id": 214238,
+      "translation": {
+        "en": {
+          "short": "tank",
+          "long": "a container that holds the fuel of a vehicle, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangki",
+          "long": "wadah yang memegang bahan bakar kendaraan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214238.jpeg",
+      "simplified": "储气罐",
+      "traditional": "儲氣罐",
+      "pinyin": "chǔqì guàn"
+    },
+    {
+      "id": 214245,
+      "translation": {
+        "en": {
+          "short": "tire",
+          "long": "a circular rubber object that covers the wheel of a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ban",
+          "long": "benda karet melingkar yang menutupi roda kendaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214245.jpeg",
+      "simplified": "胎",
+      "traditional": "胎",
+      "pinyin": "tāi"
+    },
+    {
+      "id": 237351,
+      "translation": {
+        "en": {
+          "short": "trunk",
+          "long": "the space at the back of an automobile in which different things can be put",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belalai",
+          "long": "ruang di belakang mobil di mana berbagai hal dapat diletakkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237351.jpeg",
+      "simplified": "树干",
+      "traditional": "樹幹",
+      "pinyin": "shùgàn"
+    },
+    {
+      "id": 214239,
+      "translation": {
+        "en": {
+          "short": "turn signal",
+          "long": "a light on a vehicle that blinks to indicate a change in lane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampu sen",
+          "long": "lampu pada kendaraan yang berkedip untuk menunjukkan perubahan jalur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214239.jpeg",
+      "simplified": "拐弯信号",
+      "traditional": "拐彎信號",
+      "pinyin": "guǎiwān xìnhào"
+    },
+    {
+      "id": 237348,
+      "translation": {
+        "en": {
+          "short": "windshield",
+          "long": "the large front window of a vehicle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaca depan",
+          "long": "jendela depan kendaraan yang besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237348.jpeg",
+      "simplified": "挡风玻璃",
+      "traditional": "擋風玻璃",
+      "pinyin": "dǎngfēng bō li"
+    },
+    {
+      "id": 237350,
+      "translation": {
+        "en": {
+          "short": "windshield wiper",
+          "long": "a long and thin device with rubber on its edge, designed to move across the glass at the front of vehicles to clear it of rain, snow, etc. so that the driver can see the road properly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kipas kaca mobil",
+          "long": "Perangkat panjang dan tipis dengan karet di tepi, dirancang untuk bergerak melintasi kaca di bagian depan kendaraan untuk membersihkannya dari hujan, salju, dll. Sehingga pengemudi dapat melihat jalan dengan benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237350.jpeg",
+      "simplified": "刮水器",
+      "traditional": "刮水器",
+      "pinyin": "guā Shuǐ qì"
+    },
+    {
+      "id": 214255,
+      "translation": {
+        "en": {
+          "short": "crash",
+          "long": "an accident in which a vehicle, plane, etc. hits something else",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menabrak",
+          "long": "kecelakaan di mana kendaraan, pesawat, dll. Menabrak sesuatu yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214255.jpeg",
+      "simplified": "车辆碰撞",
+      "traditional": "車輛碰撞",
+      "pinyin": "chēliàng pèngzhuàng"
+    },
+    {
+      "id": 214256,
+      "translation": {
+        "en": {
+          "short": "bend",
+          "long": "a curve in a road, river, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membengkokkan",
+          "long": "Kurva di jalan, sungai, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214256.jpeg",
+      "simplified": "路弯",
+      "traditional": "路彎",
+      "pinyin": "Lù wān"
+    },
+    {
+      "id": 214247,
+      "translation": {
+        "en": {
+          "short": "crossing",
+          "long": "the place where two streets or roads cross each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan",
+          "long": "Tempat di mana dua jalan atau jalan saling bersilangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214247.jpeg",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu"
+    },
+    {
+      "id": 238363,
+      "translation": {
+        "en": {
+          "short": "intersection",
+          "long": "the place where two or more streets, roads, etc. cross each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persimpangan",
+          "long": "Tempat di mana dua atau lebih jalan, jalan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238363.jpeg",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu"
+    },
+    {
+      "id": 238361,
+      "translation": {
+        "en": {
+          "short": "U-turn",
+          "long": "a turn that a car, etc. makes to move toward the direction it was coming from",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "U-turn",
+          "long": "belokan yang mobil, dll. membuat untuk bergerak ke arahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238361.jpeg",
+      "simplified": "掉头",
+      "traditional": "掉頭",
+      "pinyin": "diàotóu"
+    },
+    {
+      "id": 214235,
+      "translation": {
+        "en": {
+          "short": "global positioning system",
+          "long": "a satellite system that shows a place, thing, or person's exact position using signals",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Sistem Penentuan posisi Global",
+          "long": "sistem satelit yang menunjukkan tempat, benda, atau posisi tepat orang menggunakan sinyal",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214235.jpeg",
+      "simplified": "全球定位系统",
+      "traditional": "全球定位系統",
+      "pinyin": "quánqiú dìng wèi xì tǒng"
+    },
+    {
+      "id": 214231,
+      "translation": {
+        "en": {
+          "short": "rush hour",
+          "long": "a time of day at which traffic is the heaviest because people are leaving for work or home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jam sibuk",
+          "long": "Waktu di mana lalu lintas adalah yang terberat karena orang berangkat kerja atau di rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214231.jpeg",
+      "simplified": "高峰时间",
+      "traditional": "高峰時間",
+      "pinyin": "gāofēng shíjiān"
+    },
+    {
+      "id": 214253,
+      "translation": {
+        "en": {
+          "short": "speeding",
+          "long": "the traffic offence of driving faster than is legally allowed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ngebut",
+          "long": "pelanggaran lalu lintas mengemudi lebih cepat dari yang diizinkan secara hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214253.jpeg",
+      "simplified": "超速",
+      "traditional": "超速",
+      "pinyin": "chāosù"
+    },
+    {
+      "id": 214229,
+      "translation": {
+        "en": {
+          "short": "to brake",
+          "long": "to slow down or stop a moving car, etc. by using the brakes",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengerem",
+          "long": "untuk memperlambat atau menghentikan mobil yang bergerak, dll. Dengan menggunakan rem",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214229.jpeg",
+      "simplified": "停止车辆",
+      "traditional": "停止車輛",
+      "pinyin": "tíngzhǐ chēliàng"
+    },
+    {
+      "id": 239639,
+      "translation": {
+        "en": {
+          "short": "to exit",
+          "long": "to leave a place, vehicle, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keluar",
+          "long": "Untuk meninggalkan tempat, kendaraan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239639.jpeg",
+      "simplified": "走",
+      "traditional": "走",
+      "pinyin": "zǒu"
+    },
+    {
+      "id": 238772,
+      "translation": {
+        "en": {
+          "short": "to pull up",
+          "long": "(of a vehicle) to come to a stop",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menarik",
+          "long": "(dari kendaraan) untuk berhenti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238772.jpeg",
+      "simplified": "停止车辆",
+      "traditional": "停止車輛",
+      "pinyin": "tíngzhǐ chēliàng"
+    },
+    {
+      "id": 214230,
+      "translation": {
+        "en": {
+          "short": "to navigate",
+          "long": "to choose the direction of and guide a vehicle, ship, etc., especially by using a map",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menavigasi",
+          "long": "untuk memilih arah dan membimbing kendaraan, kapal, dll., Terutama dengan menggunakan peta",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214230.jpeg",
+      "simplified": "通过地图路由",
+      "traditional": "通過地圖路由",
+      "pinyin": "tōngguò dìtú lùyóu"
+    },
+    {
+      "id": 239731,
+      "translation": {
+        "en": {
+          "short": "to rush",
+          "long": "to move or act very quickly",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk terburu -buru",
+          "long": "untuk bergerak atau bertindak dengan sangat cepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239731.jpeg",
+      "simplified": "匆忙",
+      "traditional": "匆忙",
+      "pinyin": "cōngmáng"
+    },
+    {
+      "id": 214236,
+      "translation": {
+        "en": {
+          "short": "to slow",
+          "long": "to decrease the speed of something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperlambat",
+          "long": "untuk mengurangi kecepatan sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214236.jpeg",
+      "simplified": "降低某物的速度",
+      "traditional": "降低某物的速度",
+      "pinyin": "jiàngdī mǒuwù de sùdù"
+    },
+    {
+      "id": 239599,
+      "translation": {
+        "en": {
+          "short": "to fuel",
+          "long": "to provide energy or power for a vehicle, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bahan bakar",
+          "long": "Untuk menyediakan energi atau daya untuk kendaraan, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239599.jpeg",
+      "simplified": "加燃料",
+      "traditional": "加燃料",
+      "pinyin": "Jiā ránliào"
+    },
+    {
+      "id": 246672,
+      "translation": {
+        "en": {
+          "short": "progress",
+          "long": "forward movement or movement toward somewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemajuan",
+          "long": "gerakan ke depan atau gerakan menuju suatu tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246672.jpeg",
+      "simplified": "向前移动",
+      "traditional": "向前移動",
+      "pinyin": "xiàngqián yídòng"
+    },
+    {
+      "id": 264173,
+      "translation": {
+        "en": {
+          "short": "steering wheel",
+          "long": "the wheel that a driver holds or turns to make a vehicle move in different directions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setir mobil",
+          "long": "Roda yang dipegang atau diputar pengemudi untuk membuat kendaraan bergerak ke arah yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264173.jpeg",
+      "simplified": "方向盘",
+      "traditional": "方向盤",
+      "pinyin": "fāngxiàng pán"
+    },
+    {
+      "id": 264174,
+      "translation": {
+        "en": {
+          "short": "handlebar",
+          "long": "a bar in front of a motorcycle or bicycle that a person takes by hand to control the direction in which they want to travel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stang",
+          "long": "Sebuah bar di depan sepeda motor atau sepeda yang diambil seseorang dengan tangan untuk mengontrol arah di mana mereka ingin bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264174.jpeg",
+      "simplified": "自行车或摩托车的把手",
+      "traditional": "自行車或摩托車的把手",
+      "pinyin": "zìxíng chē huò mótuō chē de bǎshǒu"
+    },
+    {
+      "id": 264222,
+      "translation": {
+        "en": {
+          "short": "zebra crossing",
+          "long": "an area on a road that is marked with wide white lines, where vehicles must stop so people could walk across the road safely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalur penyeberangan pejalan kaki",
+          "long": "Area di jalan yang ditandai dengan garis putih lebar, di mana kendaraan harus berhenti sehingga orang bisa berjalan melintasi jalan dengan aman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264222.jpeg",
+      "simplified": "斑马线",
+      "traditional": "斑馬線",
+      "pinyin": "bānmǎ xiàn"
+    },
+    {
+      "id": 265380,
+      "translation": {
+        "en": {
+          "short": "gearshift",
+          "long": "a handle in a car or other vehicle, by which a driver can change gears",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gearshift",
+          "long": "pegangan di mobil atau kendaraan lain, yang dengannya pengemudi dapat mengganti persneling",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265380.jpeg",
+      "simplified": "变速杆",
+      "traditional": "變速桿",
+      "pinyin": "biànsù gǎn"
+    },
+    {
+      "id": 403273,
+      "translation": {
+        "en": {
+          "short": "stoplight",
+          "long": "the red light at the back of a vehicle that lits up when brakes are used to signal stopping or slowing down to other drivers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampu tengah",
+          "long": "Lampu merah di belakang kendaraan yang terangkat saat rem digunakan untuk memberi sinyal berhenti atau melambat ke pengemudi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403273.jpeg",
+      "simplified": "燃灯",
+      "traditional": "燃燈",
+      "pinyin": "rán dēng"
+    },
+    {
+      "id": 317676,
+      "translation": {
+        "en": {
+          "short": "road rage",
+          "long": "an aggressive behavior that is seen among drivers, particularly when they are stuck in traffic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kemarahan Jalan",
+          "long": "Perilaku agresif yang terlihat di antara pengemudi, terutama ketika mereka terjebak dalam lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/317676.jpeg",
+      "simplified": "开车时发怒",
+      "traditional": "開車時發怒",
+      "pinyin": "kāichē shí fānù"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "id": 1448,
+  "title": {
+    "en": "Bags",
+    "id": "Tas"
+  },
+  "description": {
+    "en": "Here you will learn the name of different types of bags in English, such as \"clutch\", \"backpack\" and \"briefcase\".",
+    "id": "Di sini Anda akan mempelajari nama berbagai jenis tas dalam bahasa Inggris, seperti \"kopling\", \"ransel\" dan \"tas kerja\"."
+  },
+  "cards": [
+    {
+      "id": 268072,
+      "translation": {
+        "en": {
+          "short": "purse",
+          "long": "a small bag that is used, particularly by women, to carry personal items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas kecil",
+          "long": "tas kecil yang digunakan, terutama oleh wanita, untuk membawa barang -barang pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268072.jpeg",
+      "simplified": "钱包",
+      "traditional": "錢包",
+      "pinyin": "qiánbāo"
+    },
+    {
+      "id": 268073,
+      "translation": {
+        "en": {
+          "short": "wallet",
+          "long": "a pocket-sized, folding case that is used for storing paper money, coin money, credit cards, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dompet",
+          "long": "Kasing lipat berukuran saku yang digunakan untuk menyimpan uang kertas, uang koin, kartu kredit, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268073.jpeg",
+      "simplified": "钱包",
+      "traditional": "錢包",
+      "pinyin": "qiánbāo"
+    },
+    {
+      "id": 268075,
+      "translation": {
+        "en": {
+          "short": "shoulder bag",
+          "long": "a type of bag that is worn over the shoulder, usually made of cloth or leather and often used to carry personal items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas bahu",
+          "long": "Jenis tas yang dikenakan di atas bahu, biasanya terbuat dari kain atau kulit dan sering digunakan untuk membawa barang -barang pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268075.jpeg",
+      "simplified": "单肩包",
+      "traditional": "單肩包",
+      "pinyin": "dānjiān bāo"
+    },
+    {
+      "id": 268077,
+      "translation": {
+        "en": {
+          "short": "drawstring bag",
+          "long": "a type of bag that is closed at the top by a drawstring, which is pulled to close the opening and loosen the bag's contents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas serut",
+          "long": "Jenis tas yang ditutup di bagian atas oleh tali, yang ditarik untuk menutup pembukaan dan melonggarkan isinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268077.jpeg",
+      "simplified": "抽绳袋",
+      "traditional": "抽繩袋",
+      "pinyin": "chōu shéng dài"
+    },
+    {
+      "id": 268078,
+      "translation": {
+        "en": {
+          "short": "rucksack",
+          "long": "a bag designed for carrying on the back, usually used by those who go hiking or climbing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ransel",
+          "long": "tas yang dirancang untuk dibawa di belakang, biasanya digunakan oleh mereka yang pergi hiking atau memanjat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268078.jpeg",
+      "simplified": "背包",
+      "traditional": "背包",
+      "pinyin": "bēibāo"
+    },
+    {
+      "id": 268079,
+      "translation": {
+        "en": {
+          "short": "backpack",
+          "long": "a bag designed for carrying on the back, usually used by those who go hiking or climbing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ransel",
+          "long": "tas yang dirancang untuk dibawa di belakang, biasanya digunakan oleh mereka yang pergi hiking atau memanjat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268079.jpeg",
+      "simplified": "背包",
+      "traditional": "背包",
+      "pinyin": "bēibāo"
+    },
+    {
+      "id": 268080,
+      "translation": {
+        "en": {
+          "short": "knapsack",
+          "long": "a type of backpack, often made of canvas or leather, that is carried on one's back and has shoulder straps",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Knapsack",
+          "long": "Jenis ransel, sering terbuat dari kanvas atau kulit, yang dibawa di punggungnya dan memiliki tali bahu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268080.jpeg",
+      "simplified": "背包",
+      "traditional": "背包",
+      "pinyin": "bēibāo"
+    },
+    {
+      "id": 268081,
+      "translation": {
+        "en": {
+          "short": "briefcase",
+          "long": "a flat, leather or plastic case with a handle, used for carrying papers or documents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas kantor",
+          "long": "kasing datar, kulit atau plastik dengan pegangan, digunakan untuk membawa kertas atau dokumen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268081.jpeg",
+      "simplified": "公文包",
+      "traditional": "公事包",
+      "pinyin": "gōngwén bāo"
+    },
+    {
+      "id": 268082,
+      "translation": {
+        "en": {
+          "short": "luggage",
+          "long": "suitcases, bags, etc. to keep one's clothes and other belongings while traveling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bagasi",
+          "long": "koper, tas, dll. Untuk menjaga pakaian dan barang -barang lainnya saat bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268082.jpeg",
+      "simplified": "行李",
+      "traditional": "行李",
+      "pinyin": "xíngli"
+    },
+    {
+      "id": 268083,
+      "translation": {
+        "en": {
+          "short": "trunk",
+          "long": "a large, typically rectangular or cube-shaped storage container used for carrying personal belongings during travel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belalai",
+          "long": "wadah penyimpanan besar, biasanya persegi panjang atau berbentuk kubus yang digunakan untuk membawa barang-barang pribadi selama perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268083.jpeg",
+      "simplified": "树干",
+      "traditional": "樹幹",
+      "pinyin": "shùgàn"
+    },
+    {
+      "id": 268084,
+      "translation": {
+        "en": {
+          "short": "clutch",
+          "long": "a small hand-held bag without handles or straps, usually carried as a fashion accessory to complement an outfit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencengkeram",
+          "long": "tas genggam kecil tanpa pegangan atau tali, biasanya dibawa sebagai aksesori mode untuk melengkapi pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268084.jpeg",
+      "simplified": "离合器",
+      "traditional": "離合器",
+      "pinyin": "líhé qì"
+    },
+    {
+      "id": 268087,
+      "translation": {
+        "en": {
+          "short": "wristlet",
+          "long": "a small handbag or pouch worn on the wrist with a strap or handle, used to carry essentials, often for convenience or as a fashion accessory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelang",
+          "long": "tas tangan atau kantong kecil yang dikenakan di pergelangan tangan dengan tali atau pegangan, digunakan untuk membawa barang -barang penting, seringkali untuk kenyamanan atau sebagai aksesori mode",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268087.jpeg",
+      "simplified": "镯子",
+      "traditional": "鐲子",
+      "pinyin": "zhuózi"
+    },
+    {
+      "id": 268088,
+      "translation": {
+        "en": {
+          "short": "tote bag",
+          "long": "a large, open-top bag with two handles used for carrying a variety of items such as books, groceries, or personal belongings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas jinjing",
+          "long": "Tas terbuka besar dengan dua pegangan yang digunakan untuk membawa berbagai barang seperti buku, bahan makanan, atau barang-barang pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268088.jpeg",
+      "simplified": "手提袋",
+      "traditional": "手提袋",
+      "pinyin": "shǒutí dài"
+    },
+    {
+      "id": 268089,
+      "translation": {
+        "en": {
+          "short": "haversack",
+          "long": "a bag for carrying on the back, usually used by people who go hiking or soldiers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rangsel",
+          "long": "tas untuk dibawa di belakang, biasanya digunakan oleh orang yang pergi hiking atau tentara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268089.jpeg",
+      "simplified": "干粮袋",
+      "traditional": "乾糧袋",
+      "pinyin": "gānliáng dài"
+    },
+    {
+      "id": 268090,
+      "translation": {
+        "en": {
+          "short": "duffle bag",
+          "long": "a large cylindrical bag often with a drawstring closure at the top and two handles for carrying",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas jinjing",
+          "long": "Tas silinder besar sering dengan penutupan tali di bagian atas dan dua pegangan untuk dibawa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268090.jpeg",
+      "simplified": "行李袋",
+      "traditional": "行李袋",
+      "pinyin": "xíngli dài"
+    },
+    {
+      "id": 268091,
+      "translation": {
+        "en": {
+          "short": "weekender",
+          "long": "a type of bag used to carry clothing and other essentials for a short trip or weekend getaway",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Weekender",
+          "long": "Jenis tas yang digunakan untuk membawa pakaian dan hal -hal penting lainnya untuk perjalanan singkat atau liburan akhir pekan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268091.jpeg",
+      "simplified": "周末者",
+      "traditional": "週末者",
+      "pinyin": "zhōumò zhě"
+    },
+    {
+      "id": 268093,
+      "translation": {
+        "en": {
+          "short": "sporran",
+          "long": "a traditional Scottish bag worn with a kilt and hangs in front of the groin area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sporran",
+          "long": "tas tradisional Skotlandia dikenakan dengan rok dan tergantung di depan area pangkal paha",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268093.jpeg",
+      "simplified": "斯波兰",
+      "traditional": "斯波蘭",
+      "pinyin": "Sī Bōlán"
+    },
+    {
+      "id": 268094,
+      "translation": {
+        "en": {
+          "short": "pouch",
+          "long": "a small bag or sack, often made of soft material, that is used to carry or store small items or objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kantong",
+          "long": "tas atau karung kecil, sering terbuat dari bahan lunak, yang digunakan untuk membawa atau menyimpan barang atau benda kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268094.jpeg",
+      "simplified": "袋",
+      "traditional": "袋",
+      "pinyin": "dài"
+    },
+    {
+      "id": 268255,
+      "translation": {
+        "en": {
+          "short": "belt bag",
+          "long": "a small bag worn around the waist or hips, designed to hold personal items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas sabuk",
+          "long": "Sebuah tas kecil yang dikenakan di pinggang atau pinggul, dirancang untuk menampung barang -barang pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268255.jpeg",
+      "simplified": "腰包",
+      "traditional": "腰包",
+      "pinyin": "yāobāo"
+    },
+    {
+      "id": 268265,
+      "translation": {
+        "en": {
+          "short": "beach bag",
+          "long": "a large, durable bag used for carrying beach essentials, such as towels, sunscreen, snacks, and other items, designed for convenience and style during beach outings or vacations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas pantai",
+          "long": "Kantong besar dan tahan lama digunakan untuk membawa barang penting pantai, seperti handuk, tabir surya, makanan ringan, dan barang -barang lainnya, yang dirancang untuk kenyamanan dan gaya selama acara di pantai atau liburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268265.jpeg",
+      "simplified": "沙滩包",
+      "traditional": "沙灘包",
+      "pinyin": "shātān Bāo"
+    },
+    {
+      "id": 268276,
+      "translation": {
+        "en": {
+          "short": "coin purse",
+          "long": "a small bag for coins, typically made of fabric, leather, or other materials, with a closure for convenient storage and organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dompet koin",
+          "long": "tas kecil untuk koin, biasanya terbuat dari kain, kulit, atau bahan lainnya, dengan penutupan untuk penyimpanan dan organisasi yang nyaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268276.jpeg",
+      "simplified": "零钱包",
+      "traditional": "零錢包",
+      "pinyin": "língqián Bāo"
+    },
+    {
+      "id": 268289,
+      "translation": {
+        "en": {
+          "short": "daypack",
+          "long": "a small backpack for day trips, outdoor activities, or everyday use, with multiple compartments and comfortable shoulder straps",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daypack",
+          "long": "Ransel kecil untuk perjalanan sehari, aktivitas luar ruangan, atau penggunaan sehari -hari, dengan beberapa kompartemen dan tali bahu yang nyaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268289.jpeg",
+      "simplified": "背包",
+      "traditional": "背包",
+      "pinyin": "bēibāo"
+    },
+    {
+      "id": 268314,
+      "translation": {
+        "en": {
+          "short": "cosmetic case",
+          "long": "a small bag or pouch for organizing cosmetics, typically with compartments for easy access and transport",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kasing kosmetik",
+          "long": "tas atau kantong kecil untuk mengatur kosmetik, biasanya dengan kompartemen untuk akses dan transportasi yang mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268314.jpeg",
+      "simplified": "化妆盒",
+      "traditional": "化妝盒",
+      "pinyin": "huàzhuāng hé"
+    },
+    {
+      "id": 268287,
+      "translation": {
+        "en": {
+          "short": "satchel",
+          "long": "a type of bag, often made of leather or canvas, with a strap that is worn over one shoulder and across the bo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas",
+          "long": "Jenis tas, sering terbuat dari kulit atau kanvas, dengan tali yang dikenakan di atas satu bahu dan di seberang BO",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268287.jpeg",
+      "simplified": "书包",
+      "traditional": "書包",
+      "pinyin": "shūbāo"
+    },
+    {
+      "id": 268329,
+      "translation": {
+        "en": {
+          "short": "shopping bag",
+          "long": "a bag made of cloth, paper, or plastic with two handles, used for carrying what you buy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas belanja",
+          "long": "tas yang terbuat dari kain, kertas, atau plastik dengan dua pegangan, digunakan untuk membawa apa yang Anda beli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268329.jpeg",
+      "simplified": "提包",
+      "traditional": "提包",
+      "pinyin": "tíbāo"
+    },
+    {
+      "id": 268330,
+      "translation": {
+        "en": {
+          "short": "saddlebag",
+          "long": "a type of bag with two pouches that are usually placed on either side of the saddle, connected by a strap that passes under the horse or bicycle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kantong pelana",
+          "long": "Jenis tas dengan dua kantong yang biasanya ditempatkan di kedua sisi pelana, dihubungkan oleh tali yang melewati di bawah kuda atau sepeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268330.jpeg",
+      "simplified": "马鞍包",
+      "traditional": "馬鞍包",
+      "pinyin": "mǎān Bāo"
+    },
+    {
+      "id": 268382,
+      "translation": {
+        "en": {
+          "short": "pochette",
+          "long": "a small rectangular handbag or clutch, typically used for special occasions or as a fashion accessory, often carried in the hand or tucked under the arm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pochette",
+          "long": "tas atau kopling persegi panjang kecil, biasanya digunakan untuk acara -acara khusus atau sebagai aksesori mode, sering dibawa di tangan atau terselip di bawah lengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268382.jpeg",
+      "simplified": "手拿包",
+      "traditional": "手拿包",
+      "pinyin": "shǒuná bāo"
+    },
+    {
+      "id": 268445,
+      "translation": {
+        "en": {
+          "short": "bindle",
+          "long": "a makeshift bag or bundle made by tying cloth or a sack to a stick or pole, traditionally associated with a hobo or homeless person's mode of carrying belongings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengikat",
+          "long": "tas atau bundel darurat yang dibuat dengan mengikat kain atau karung ke tongkat atau tiang, yang secara tradisional dikaitkan dengan hobo atau cara tunawisma untuk membawa barang -barang barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268445.jpeg",
+      "simplified": "宾德尔",
+      "traditional": "賓德爾",
+      "pinyin": "bīn Dé ěr"
+    },
+    {
+      "id": 268459,
+      "translation": {
+        "en": {
+          "short": "cross body",
+          "long": "a bag or purse worn across the body with a long diagonal strap for hands-free carrying and easy access to belongings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tubuh silang",
+          "long": "tas atau dompet yang dikenakan di seluruh tubuh dengan tali diagonal panjang untuk dibawa bebas-tangan dan akses mudah ke barang-barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268459.jpeg",
+      "simplified": "斜挎包",
+      "traditional": "斜挎包",
+      "pinyin": "xié kuàbāo"
+    },
+    {
+      "id": 268466,
+      "translation": {
+        "en": {
+          "short": "pannier",
+          "long": "a basket or bag that is designed to be carried either on the back of an animal, such as a horse or a bicycle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keranjang beban",
+          "long": "keranjang atau tas yang dirancang untuk dibawa baik di belakang binatang, seperti kuda atau sepeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268466.jpeg",
+      "simplified": "肩筐",
+      "traditional": "肩筐",
+      "pinyin": "jiān kuāng"
+    },
+    {
+      "id": 269458,
+      "translation": {
+        "en": {
+          "short": "garment bag",
+          "long": "a type of luggage used for carrying clothing items, designed to keep the clothes wrinkle-free and clean during transportation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas Garmen",
+          "long": "Jenis bagasi yang digunakan untuk membawa barang pakaian, dirancang untuk menjaga pakaian bebas kerutan dan bersih selama transportasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269458.jpeg",
+      "simplified": "服装袋",
+      "traditional": "服裝袋",
+      "pinyin": "fúzhuāng dài"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "id": 1099,
+  "title": {
+    "en": "A Cold Day in Hell",
+    "id": "Hari yang dingin di neraka"
+  },
+  "description": {
+    "en": "Here you will learn some English words about religion, such as \"atheism\", \"animism\", \"baptism\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang agama, seperti \"ateisme\", \"animisme\", \"baptisan\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 249253,
+      "translation": {
+        "en": {
+          "short": "zen",
+          "long": "a school of Mahayana Buddhism, originally formed in Japan, emphasizing the value of meditation and intuition rather than reading religious scripts or ritual worship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Zen",
+          "long": "Sekolah Buddhisme Mahayana, awalnya dibentuk di Jepang, menekankan nilai meditasi dan intuisi daripada membaca naskah agama atau ibadah ritual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249253.jpeg",
+      "simplified": "禅",
+      "traditional": "禪",
+      "pinyin": "chán"
+    },
+    {
+      "id": 249254,
+      "translation": {
+        "en": {
+          "short": "agnosticism",
+          "long": "uncertainty or lack of commitment regarding the existence of deities or the ability to know and comprehend the nature of ultimate reality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agnostisme",
+          "long": "ketidakpastian atau kurangnya komitmen mengenai keberadaan dewa atau kemampuan untuk mengetahui dan memahami sifat realitas pamungkas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249254.jpeg",
+      "simplified": "不可知论",
+      "traditional": "不可知論",
+      "pinyin": "bùkě zhī lùn"
+    },
+    {
+      "id": 249256,
+      "translation": {
+        "en": {
+          "short": "atheism",
+          "long": "the belief that rejects the existence of God or a higher power",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ateisme",
+          "long": "Keyakinan yang menolak keberadaan Tuhan atau kekuatan yang lebih tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249256.jpeg",
+      "simplified": "无神论",
+      "traditional": "無神論",
+      "pinyin": "wúshén lùn"
+    },
+    {
+      "id": 249257,
+      "translation": {
+        "en": {
+          "short": "trinity",
+          "long": "(in Christianity) the concept of God as Father, Son, and Holy Spirit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Trinitas",
+          "long": "(dalam agama Kristen) Konsep Allah sebagai Bapa, Anak, dan Roh Kudus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249257.jpeg",
+      "simplified": "三位一体",
+      "traditional": "三位一體",
+      "pinyin": "Sānwèi Yī tǐ"
+    },
+    {
+      "id": 249258,
+      "translation": {
+        "en": {
+          "short": "theology",
+          "long": "the study of religions and faiths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teologi",
+          "long": "Studi tentang Agama dan Iman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249258.jpeg",
+      "simplified": "神学",
+      "traditional": "神學",
+      "pinyin": "shénxué"
+    },
+    {
+      "id": 249259,
+      "translation": {
+        "en": {
+          "short": "almighty",
+          "long": "having the absolute power and ability to do anything",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mahakuasa",
+          "long": "memiliki kekuatan mutlak dan kemampuan untuk melakukan apapun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249259.jpeg",
+      "simplified": "全能的",
+      "traditional": "全能的",
+      "pinyin": "quánnéng de"
+    },
+    {
+      "id": 249260,
+      "translation": {
+        "en": {
+          "short": "animism",
+          "long": "the belief in spirits residing within natural elements, objects, and living beings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "animisme",
+          "long": "Keyakinan roh yang berada di dalam elemen alami, benda, dan makhluk hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249260.jpeg",
+      "simplified": "万物有灵论",
+      "traditional": "萬物有靈論",
+      "pinyin": "wànwù yǒu líng Lún"
+    },
+    {
+      "id": 249262,
+      "translation": {
+        "en": {
+          "short": "theism",
+          "long": "the belief in the existence of one or more gods or deities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "theisme",
+          "long": "Keyakinan akan keberadaan satu atau lebih dewa atau dewa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249262.jpeg",
+      "simplified": "有神论",
+      "traditional": "有神論",
+      "pinyin": "yǒushén lùn"
+    },
+    {
+      "id": 249263,
+      "translation": {
+        "en": {
+          "short": "biblical",
+          "long": "related to described in, or characteristic of the Bible, the sacred text of Christianity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Alkitab",
+          "long": "terkait dengan yang dijelaskan dalam, atau karakteristik Alkitab, Teks Suci Kekristenan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249263.jpeg",
+      "simplified": "圣经的",
+      "traditional": "聖經的",
+      "pinyin": "Shèngjīng de"
+    },
+    {
+      "id": 249264,
+      "translation": {
+        "en": {
+          "short": "baptism",
+          "long": "a Christian ceremony during which water is poured on someone or they are immersed into water to welcome them to the Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baptisan",
+          "long": "Upacara Kristen di mana air dituangkan pada seseorang atau mereka terbenam ke dalam air untuk menyambut mereka di gereja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249264.jpeg",
+      "simplified": "洗礼",
+      "traditional": "洗禮",
+      "pinyin": "xǐlǐ"
+    },
+    {
+      "id": 249265,
+      "translation": {
+        "en": {
+          "short": "bar mitzvah",
+          "long": "(Judaism) a young Jewish boy who is a subject to his religious duties at his 13th birthday",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bar mitzvah",
+          "long": "(Yudaisme) Seorang anak lelaki Yahudi yang menjadi subjek tugas religiusnya pada hari ulang tahunnya yang ke -13",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249265.jpeg",
+      "simplified": "成人礼",
+      "traditional": "成人禮",
+      "pinyin": "chéngrén lǐ"
+    },
+    {
+      "id": 249266,
+      "translation": {
+        "en": {
+          "short": "secularism",
+          "long": "the doctrine that separates the state from religious associations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekularisme",
+          "long": "doktrin yang memisahkan negara dari asosiasi agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249266.jpeg",
+      "simplified": "世俗主义",
+      "traditional": "世俗主義",
+      "pinyin": "shìsú zhǔyì"
+    },
+    {
+      "id": 249267,
+      "translation": {
+        "en": {
+          "short": "spiritualism",
+          "long": "the belief that the human spirit or soul can survive after death and communicate with the living",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spiritualisme",
+          "long": "Keyakinan bahwa roh atau jiwa manusia dapat bertahan hidup setelah mati dan berkomunikasi dengan yang hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249267.jpeg",
+      "simplified": "招魂",
+      "traditional": "招魂",
+      "pinyin": "zhāohún"
+    },
+    {
+      "id": 249268,
+      "translation": {
+        "en": {
+          "short": "asceticism",
+          "long": "a practice that advocates letting go of all the material, mortal, or pleasurable things in order to enrich one's faith and spiritual abilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertapaan",
+          "long": "praktik yang menganjurkan melepaskan semua hal materi, fana, atau menyenangkan untuk memperkaya iman dan kemampuan spiritual seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249268.jpeg",
+      "simplified": "禁欲主义",
+      "traditional": "禁慾主義",
+      "pinyin": "jìnyù zhǔ yì"
+    },
+    {
+      "id": 249269,
+      "translation": {
+        "en": {
+          "short": "archbishop",
+          "long": "a bishop of the highest rank who is responsible for all the churches in a specific large area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uskup agung",
+          "long": "seorang uskup dengan peringkat tertinggi yang bertanggung jawab atas semua gereja di daerah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249269.jpeg",
+      "simplified": "大主教",
+      "traditional": "大主教",
+      "pinyin": "dàzhǔ jiào"
+    },
+    {
+      "id": 249270,
+      "translation": {
+        "en": {
+          "short": "christening",
+          "long": "a Christian religious ceremony during which a baby is named and admitted to the Christian Church",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembaptisan",
+          "long": "Upacara keagamaan Kristen di mana seorang bayi dinamai dan dirawat di gereja Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249270.jpeg",
+      "simplified": "洗礼",
+      "traditional": "洗禮",
+      "pinyin": "xǐlǐ"
+    },
+    {
+      "id": 249271,
+      "translation": {
+        "en": {
+          "short": "clergy",
+          "long": "people who are officially chosen to lead religious services in a church or other religious institution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klerus",
+          "long": "Orang -orang yang secara resmi dipilih untuk memimpin layanan keagamaan di gereja atau lembaga keagamaan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249271.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 249272,
+      "translation": {
+        "en": {
+          "short": "commemorative",
+          "long": "acting as something like a statue or structure that is established to remind others of a person or event",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "peringatan",
+          "long": "bertindak sebagai sesuatu seperti patung atau struktur yang ditetapkan untuk mengingatkan orang lain tentang seseorang atau peristiwa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249272.jpeg",
+      "simplified": "纪念性的",
+      "traditional": "紀念性的",
+      "pinyin": "jìniàn xìng de"
+    },
+    {
+      "id": 249273,
+      "translation": {
+        "en": {
+          "short": "congregation",
+          "long": "a group of people who gather in a church to say prayers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kongregasi",
+          "long": "sekelompok orang yang berkumpul di gereja untuk berdoa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249273.jpeg",
+      "simplified": "集合",
+      "traditional": "集合",
+      "pinyin": "jíhé"
+    },
+    {
+      "id": 249274,
+      "translation": {
+        "en": {
+          "short": "consecration",
+          "long": "act or ceremony of declaring something sacred or dedicated to a divine purpose, particularly in Christianity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konsekrasi",
+          "long": "tindakan atau upacara menyatakan sesuatu yang sakral atau didedikasikan untuk tujuan ilahi, khususnya dalam agama Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249274.jpeg",
+      "simplified": "奉献",
+      "traditional": "奉獻",
+      "pinyin": "fèngxiàn"
+    },
+    {
+      "id": 249275,
+      "translation": {
+        "en": {
+          "short": "crucifix",
+          "long": "a cross with a image or statue of Jesus on it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "silang dgn patung Kristus",
+          "long": "salib dengan gambar atau patung Yesus di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249275.jpeg",
+      "simplified": "十字架",
+      "traditional": "十字架",
+      "pinyin": "shízì jià"
+    },
+    {
+      "id": 249276,
+      "translation": {
+        "en": {
+          "short": "deity",
+          "long": "a supernatural figure that is worshipped like a god or goddess",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dewa",
+          "long": "sosok supernatural yang disembah seperti dewa atau dewi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249276.jpeg",
+      "simplified": "神",
+      "traditional": "神",
+      "pinyin": "Shén"
+    },
+    {
+      "id": 249277,
+      "translation": {
+        "en": {
+          "short": "ecclesiastic",
+          "long": "a male priest, religious leader, or minister; especially a Christian one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rohaniwan",
+          "long": "seorang pendeta pria, pemimpin agama, atau menteri; Terutama yang Kristen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249277.jpeg",
+      "simplified": "牧师",
+      "traditional": "牧師",
+      "pinyin": "mùshī"
+    },
+    {
+      "id": 249278,
+      "translation": {
+        "en": {
+          "short": "effigy",
+          "long": "a physical illustration of someone, especially a graven image or statue, often life-size",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patung",
+          "long": "Ilustrasi fisik seseorang, terutama gambar atau patung yang berawat, seringkali seukuran hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249278.jpeg",
+      "simplified": "肖像",
+      "traditional": "肖像",
+      "pinyin": "xiàoxiàng"
+    },
+    {
+      "id": 249279,
+      "translation": {
+        "en": {
+          "short": "epistle",
+          "long": "any of the letters in the New Testament, written by the apostles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surat",
+          "long": "salah satu surat dalam Perjanjian Baru, yang ditulis oleh para rasul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249279.jpeg",
+      "simplified": "书信",
+      "traditional": "書信",
+      "pinyin": "shūxìn"
+    },
+    {
+      "id": 249280,
+      "translation": {
+        "en": {
+          "short": "exorcism",
+          "long": "the religious or spiritual practice of driving out evil spirits or entities from a person or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengusiran setan",
+          "long": "praktik agama atau spiritual mengusir roh jahat atau entitas dari seseorang atau tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249280.jpeg",
+      "simplified": "驱魔",
+      "traditional": "驅魔",
+      "pinyin": "qūmó"
+    },
+    {
+      "id": 249281,
+      "translation": {
+        "en": {
+          "short": "Gospel",
+          "long": "any of the four books of the New Testament that is about the life and teachings of Jesus Christ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Injil",
+          "long": "Salah satu dari empat buku Perjanjian Baru yaitu tentang kehidupan dan ajaran Yesus Kristus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249281.jpeg",
+      "simplified": "福音",
+      "traditional": "福音",
+      "pinyin": "fúyīn"
+    },
+    {
+      "id": 249282,
+      "translation": {
+        "en": {
+          "short": "kosher",
+          "long": "(of food) prepared according to Jewish law",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "halal",
+          "long": "(makanan) disiapkan menurut hukum Yahudi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249282.jpeg",
+      "simplified": "犹太洁食",
+      "traditional": "猶太潔食",
+      "pinyin": "Yóutài jiéshí"
+    },
+    {
+      "id": 249284,
+      "translation": {
+        "en": {
+          "short": "guru",
+          "long": "a religious leader or teacher in Buddhism, Hinduism, or Sikhism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guru",
+          "long": "seorang pemimpin agama atau guru dalam agama Buddha, Hindu, atau Sikhisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249284.jpeg",
+      "simplified": "领袖",
+      "traditional": "領袖",
+      "pinyin": "lǐngxiù"
+    },
+    {
+      "id": 249285,
+      "translation": {
+        "en": {
+          "short": "halal",
+          "long": "(of food) prepared according to Islamic law",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "halal",
+          "long": "(makanan) disiapkan menurut hukum Islam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249285.jpeg",
+      "simplified": "清真",
+      "traditional": "清真",
+      "pinyin": "qīngzhēn"
+    },
+    {
+      "id": 249286,
+      "translation": {
+        "en": {
+          "short": "hermit",
+          "long": "a person who lives a very simple life in solitude as a religious practice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertapa",
+          "long": "Seseorang yang menjalani kehidupan yang sangat sederhana dalam kesendirian sebagai praktik keagamaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249286.jpeg",
+      "simplified": "苦行者",
+      "traditional": "苦行者",
+      "pinyin": "kǔxíng zhě"
+    },
+    {
+      "id": 249287,
+      "translation": {
+        "en": {
+          "short": "heretic",
+          "long": "someone with beliefs against the doctrines of a particular religion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bidat",
+          "long": "seseorang dengan keyakinan terhadap doktrin agama tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249287.jpeg",
+      "simplified": "异教徒",
+      "traditional": "異教徒",
+      "pinyin": "yìjiào tú"
+    },
+    {
+      "id": 249288,
+      "translation": {
+        "en": {
+          "short": "hymn",
+          "long": "a religious song intended to praise God, especially sung by Christians in congregation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nyanyian pujian",
+          "long": "Lagu religius yang dimaksudkan untuk memuji Tuhan, terutama dinyanyikan oleh orang -orang Kristen di jemaat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249288.jpeg",
+      "simplified": "圣歌",
+      "traditional": "聖歌",
+      "pinyin": "shènggē"
+    },
+    {
+      "id": 249289,
+      "translation": {
+        "en": {
+          "short": "reincarnation",
+          "long": "the belief that after someone’s death, their spirit comes back to life in the form of a new body, especially in Buddhism and Hinduism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reinkarnasi",
+          "long": "Keyakinan bahwa setelah kematian seseorang, roh mereka kembali hidup dalam bentuk tubuh baru, terutama dalam agama Buddha dan Hinduisme",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249289.jpeg",
+      "simplified": "投胎",
+      "traditional": "投胎",
+      "pinyin": "tóutāi"
+    },
+    {
+      "id": 249291,
+      "translation": {
+        "en": {
+          "short": "judaic",
+          "long": "related to the Jew and their faith, religion, or culture",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Yahudi",
+          "long": "terkait dengan orang Yahudi dan iman, agama, atau budaya mereka",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249291.jpeg",
+      "simplified": "犹太教的",
+      "traditional": "猶太教的",
+      "pinyin": "Yóutài jiào de"
+    },
+    {
+      "id": 249292,
+      "translation": {
+        "en": {
+          "short": "martyr",
+          "long": "someone who is killed because of their beliefs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "martir",
+          "long": "seseorang yang terbunuh karena keyakinan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249292.jpeg",
+      "simplified": "烈士",
+      "traditional": "烈士",
+      "pinyin": "lièshì"
+    },
+    {
+      "id": 249293,
+      "translation": {
+        "en": {
+          "short": "lama",
+          "long": "a Mongolian or Tibetan Buddhist monk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lama",
+          "long": "Monk Buddha Mongolia atau Tibet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249293.jpeg",
+      "simplified": "喇嘛",
+      "traditional": "喇嘛",
+      "pinyin": "lǎma"
+    },
+    {
+      "id": 249294,
+      "translation": {
+        "en": {
+          "short": "monastic",
+          "long": "relating to people like monks, nuns, and etc. who voluntary made a public sacred promise to dedicate their life to a special duty",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "biara",
+          "long": "Berkaitan dengan orang -orang seperti biksu, biarawati, dan dll. Yang sukarela membuat janji sakral publik untuk mendedikasikan hidup mereka untuk tugas khusus",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249294.jpeg",
+      "simplified": "修道院",
+      "traditional": "修道院",
+      "pinyin": "xiūdào yuàn"
+    },
+    {
+      "id": 249295,
+      "translation": {
+        "en": {
+          "short": "pantheism",
+          "long": "the belief that God and the universe are one and the same, considering the entire natural world as a divine expression of God",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panteisme",
+          "long": "Keyakinan bahwa Tuhan dan alam semesta adalah satu dan sama, mengingat seluruh dunia alami sebagai ekspresi ilahi dari Tuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249295.jpeg",
+      "simplified": "泛神论",
+      "traditional": "泛神論",
+      "pinyin": "fànshén lùn"
+    },
+    {
+      "id": 249296,
+      "translation": {
+        "en": {
+          "short": "polytheism",
+          "long": "the belief in or worship of multiple gods or deities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "politeisme",
+          "long": "Keyakinan atau menyembah banyak dewa atau dewa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249296.jpeg",
+      "simplified": "多神论",
+      "traditional": "多神論",
+      "pinyin": "duōshén lùn"
+    }
+  ]
+}

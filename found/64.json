@@ -1,0 +1,678 @@
+{
+  "id": 64,
+  "title": {
+    "en": "Education",
+    "id": "Pendidikan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about education, such as \"grade\", \"period\", \"faculty\", etc. that are needed for the IELTS exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pendidikan, seperti \"nilai\", \"periode\", \"fakultas\", dll. Yang diperlukan untuk ujian IELTS."
+  },
+  "cards": [
+    {
+      "id": 210021,
+      "translation": {
+        "en": {
+          "short": "academic",
+          "long": "related to education, particularly higher education",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "akademik",
+          "long": "terkait dengan pendidikan, terutama pendidikan tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210021.jpeg",
+      "simplified": "学术的",
+      "traditional": "學術的",
+      "pinyin": "xuéshù de"
+    },
+    {
+      "id": 210022,
+      "translation": {
+        "en": {
+          "short": "assessment",
+          "long": "the process of testing the knowledge of students in order to evaluate their level or progress",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penilaian",
+          "long": "proses menguji pengetahuan siswa untuk mengevaluasi level atau kemajuan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210022.jpeg",
+      "simplified": "评定",
+      "traditional": "評定",
+      "pinyin": "píngdìng"
+    },
+    {
+      "id": 210023,
+      "translation": {
+        "en": {
+          "short": "boarding school",
+          "long": "a school where students live and study during the school year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sekolah Berasrama",
+          "long": "sekolah tempat siswa tinggal dan belajar selama tahun ajaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210023.jpeg",
+      "simplified": "寄宿学校",
+      "traditional": "寄宿學校",
+      "pinyin": "jìsù xué xiào"
+    },
+    {
+      "id": 210024,
+      "translation": {
+        "en": {
+          "short": "certificate",
+          "long": "an official document that states one has successfully passed an exam or completed a course of study",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sertifikat",
+          "long": "Dokumen resmi yang menyatakan seseorang telah berhasil lulus ujian atau menyelesaikan kursus studi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210024.jpeg",
+      "simplified": "学位",
+      "traditional": "學位",
+      "pinyin": "xuéwèi"
+    },
+    {
+      "id": 210026,
+      "translation": {
+        "en": {
+          "short": "curriculum",
+          "long": "the overall content, courses, and learning experiences designed by educational institutions to achieve specific educational goals and outcomes for students",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kurikulum",
+          "long": "Konten keseluruhan, kursus, dan pengalaman belajar yang dirancang oleh lembaga pendidikan untuk mencapai tujuan dan hasil pendidikan khusus untuk siswa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210026.jpeg",
+      "simplified": "课程",
+      "traditional": "課程",
+      "pinyin": "kèchéng"
+    },
+    {
+      "id": 210027,
+      "translation": {
+        "en": {
+          "short": "discipline",
+          "long": "a field of study that is typically taught in a university",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disiplin",
+          "long": "bidang studi yang biasanya diajarkan di universitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210027.jpeg",
+      "simplified": "学科",
+      "traditional": "學科",
+      "pinyin": "xuékē"
+    },
+    {
+      "id": 210028,
+      "translation": {
+        "en": {
+          "short": "entrance exam",
+          "long": "an examination based on which students are accepted into a school, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ujian masuk",
+          "long": "ujian berdasarkan siswa mana yang diterima di sekolah, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210028.jpeg",
+      "simplified": "入学考试",
+      "traditional": "入學考試",
+      "pinyin": "rùxué kǎoshì"
+    },
+    {
+      "id": 210029,
+      "translation": {
+        "en": {
+          "short": "fee",
+          "long": "the money that is paid to a professional or an organization for their services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biaya",
+          "long": "Uang yang dibayarkan kepada profesional atau organisasi untuk layanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210029.jpeg",
+      "simplified": "学费",
+      "traditional": "學費",
+      "pinyin": "xuéfèi"
+    },
+    {
+      "id": 210030,
+      "translation": {
+        "en": {
+          "short": "geology",
+          "long": "a field of science that studies the structure of the earth and its history",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "geologi",
+          "long": "bidang sains yang mempelajari struktur bumi dan sejarahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210030.jpeg",
+      "simplified": "地质学",
+      "traditional": "地質學",
+      "pinyin": "dìzhì xué"
+    },
+    {
+      "id": 210031,
+      "translation": {
+        "en": {
+          "short": "to grade",
+          "long": "to give a score to a student's performance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menilai",
+          "long": "untuk memberikan skor pada kinerja siswa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210031.jpeg",
+      "simplified": "等差",
+      "traditional": "等差",
+      "pinyin": "děngchā"
+    },
+    {
+      "id": 210032,
+      "translation": {
+        "en": {
+          "short": "grade school",
+          "long": "an elementary school attended by children between the ages of 6 and 12",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah dasar",
+          "long": "sebuah sekolah dasar yang dihadiri oleh anak -anak berusia antara 6 dan 12 tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210032.jpeg",
+      "simplified": "小学",
+      "traditional": "小學",
+      "pinyin": "xiǎoxué"
+    },
+    {
+      "id": 210033,
+      "translation": {
+        "en": {
+          "short": "grad school",
+          "long": "a department in a university where graduate students can study for a more advanced degree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah pascasarjana",
+          "long": "Departemen di universitas tempat mahasiswa pascasarjana dapat belajar untuk gelar yang lebih maju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210033.jpeg",
+      "simplified": "研究生院",
+      "traditional": "研究生院",
+      "pinyin": "yánjiū shēng yuàn"
+    },
+    {
+      "id": 210034,
+      "translation": {
+        "en": {
+          "short": "grant",
+          "long": "an amount of money given by the government or another organization for a specific purpose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menganugerahkan",
+          "long": "sejumlah uang yang diberikan oleh pemerintah atau organisasi lain untuk tujuan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210034.jpeg",
+      "simplified": "诰",
+      "traditional": "誥",
+      "pinyin": "gào"
+    },
+    {
+      "id": 210035,
+      "translation": {
+        "en": {
+          "short": "institution",
+          "long": "a large organization that serves a religious, educational, social, or similar function",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lembaga",
+          "long": "organisasi besar yang melayani fungsi agama, pendidikan, sosial, atau serupa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210035.jpeg",
+      "simplified": "机构",
+      "traditional": "機構",
+      "pinyin": "jīgòu"
+    },
+    {
+      "id": 210036,
+      "translation": {
+        "en": {
+          "short": "junior school",
+          "long": "a school in Britain for students between ages 7 and 11",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekolah Menengah Pertama",
+          "long": "sebuah sekolah di Inggris untuk siswa antara usia 7 dan 11",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210036.jpeg",
+      "simplified": "初中",
+      "traditional": "國中",
+      "pinyin": "chūzhōng"
+    },
+    {
+      "id": 210037,
+      "translation": {
+        "en": {
+          "short": "kindergarten",
+          "long": "a class or school that prepares four-year-old to six-year-old children for elementary school",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "TK",
+          "long": "Kelas atau sekolah yang mempersiapkan anak-anak berusia empat tahun hingga enam tahun untuk sekolah dasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210037.jpeg",
+      "simplified": "幼儿园",
+      "traditional": "幼兒園",
+      "pinyin": "yòuér yuán"
+    },
+    {
+      "id": 210038,
+      "translation": {
+        "en": {
+          "short": "module",
+          "long": "a unit of study within a course offered by a college or university, covering a specific topic or area of study",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modul",
+          "long": "Unit studi dalam kursus yang ditawarkan oleh perguruan tinggi atau universitas, mencakup topik atau bidang studi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210038.jpeg",
+      "simplified": "组件",
+      "traditional": "組件",
+      "pinyin": "zǔjiàn"
+    },
+    {
+      "id": 210040,
+      "translation": {
+        "en": {
+          "short": "period",
+          "long": "a length of time which is defined by the recurrence of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "periode",
+          "long": "jangka waktu yang ditentukan oleh kekambuhan sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210040.jpeg",
+      "simplified": "期",
+      "traditional": "期",
+      "pinyin": "qī"
+    },
+    {
+      "id": 210041,
+      "translation": {
+        "en": {
+          "short": "master's degree",
+          "long": "a university degree that graduates can get by further studying for one or two years",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelar Master",
+          "long": "gelar sarjana yang bisa didapat lulusan dengan belajar lebih lanjut selama satu atau dua tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210041.jpeg",
+      "simplified": "硕士",
+      "traditional": "碩士",
+      "pinyin": "shuòshì"
+    },
+    {
+      "id": 225259,
+      "translation": {
+        "en": {
+          "short": "Bachelor of Arts",
+          "long": "a university degree awarded to someone who has passed a certain number of credits in the arts, humanities, or some other disciplines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sarjana seni",
+          "long": "Gelar sarjana yang diberikan kepada seseorang yang telah mengeluarkan sejumlah kredit dalam seni, humaniora, atau disiplin ilmu lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/225259.jpeg",
+      "simplified": "文科学士学位",
+      "traditional": "文科學士學位",
+      "pinyin": "wénkē xué shì xuéwèi"
+    },
+    {
+      "id": 225260,
+      "translation": {
+        "en": {
+          "short": "Bachelor of Science",
+          "long": "a university degree that a student receives in particular subjects, generally after three to five years of study",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sarjana Sains",
+          "long": "gelar sarjana yang diterima seorang siswa dalam mata pelajaran tertentu, umumnya setelah tiga hingga lima tahun belajar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/225260.jpeg",
+      "simplified": "信念系统",
+      "traditional": "信念系統",
+      "pinyin": "xìnniàn xìtǒng"
+    },
+    {
+      "id": 210044,
+      "translation": {
+        "en": {
+          "short": "Doctor of Philosophy",
+          "long": "a very high-level university degree given to a person who has conducted advanced research in a specific subject",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "ahli filosofi",
+          "long": "Gelar sarjana tingkat tinggi yang diberikan kepada orang yang telah melakukan penelitian lanjutan dalam subjek tertentu",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210044.jpeg",
+      "simplified": "哲学博士",
+      "traditional": "哲學博士",
+      "pinyin": "zhéxué bóshì"
+    },
+    {
+      "id": 210045,
+      "translation": {
+        "en": {
+          "short": "philosophy",
+          "long": "a particular set of beliefs, values, or principles developed in search of the truth about life and the universe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "filsafat",
+          "long": "serangkaian keyakinan, nilai, atau prinsip tertentu yang dikembangkan untuk mencari kebenaran tentang kehidupan dan alam semesta",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210045.jpeg",
+      "simplified": "哲学",
+      "traditional": "哲學",
+      "pinyin": "zhéxué"
+    },
+    {
+      "id": 210046,
+      "translation": {
+        "en": {
+          "short": "postgraduate",
+          "long": "a graduate student who is studying at a university to get a more advanced degree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pascasarjana",
+          "long": "seorang mahasiswa pascasarjana yang belajar di universitas untuk mendapatkan gelar yang lebih maju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210046.jpeg",
+      "simplified": "研究生",
+      "traditional": "研究生",
+      "pinyin": "yánjiū shēng"
+    },
+    {
+      "id": 210047,
+      "translation": {
+        "en": {
+          "short": "psychology",
+          "long": "a field of science that studies the mind, its functions, and how it affects behavior",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "psikologi",
+          "long": "bidang sains yang mempelajari pikiran, fungsinya, dan bagaimana hal itu mempengaruhi perilaku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210047.jpeg",
+      "simplified": "心理学",
+      "traditional": "心理學",
+      "pinyin": "xīnlǐ xué"
+    },
+    {
+      "id": 210048,
+      "translation": {
+        "en": {
+          "short": "pupil",
+          "long": "someone who is receiving education, particularly a schoolchild",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "murid",
+          "long": "seseorang yang menerima pendidikan, terutama anak sekolah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210048.jpeg",
+      "simplified": "瞳孔",
+      "traditional": "瞳孔",
+      "pinyin": "tóngkǒng"
+    },
+    {
+      "id": 210049,
+      "translation": {
+        "en": {
+          "short": "scholarship",
+          "long": "a sum of money given by an educational institution to someone with great ability in order to financially support their education",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beasiswa",
+          "long": "Sejumlah uang yang diberikan oleh lembaga pendidikan kepada seseorang dengan kemampuan besar untuk mendukung pendidikan mereka secara finansial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210049.jpeg",
+      "simplified": "奖学金",
+      "traditional": "獎學金",
+      "pinyin": "jiǎngxué jīn"
+    },
+    {
+      "id": 210050,
+      "translation": {
+        "en": {
+          "short": "sociology",
+          "long": "the scientific study of human society, its nature, structure, and development, as well as social behavior",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sosiologi",
+          "long": "Studi ilmiah masyarakat manusia, sifat, struktur, dan perkembangannya, serta perilaku sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210050.jpeg",
+      "simplified": "社会学",
+      "traditional": "社會學",
+      "pinyin": "shèhuì xué"
+    },
+    {
+      "id": 210051,
+      "translation": {
+        "en": {
+          "short": "thesis",
+          "long": "an original piece of writing on a particular subject that a candidate for a university degree presents based on their research",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tesis",
+          "long": "Sebuah tulisan asli tentang subjek tertentu yang disajikan oleh seorang kandidat untuk gelar universitas berdasarkan penelitian mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210051.jpeg",
+      "simplified": "论文",
+      "traditional": "論文",
+      "pinyin": "lùnwén"
+    },
+    {
+      "id": 210052,
+      "translation": {
+        "en": {
+          "short": "dissertation",
+          "long": "a long piece of writing on a particular subject that a university student presents in order to get an advanced degree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disertasi",
+          "long": "Sepotong panjang tulisan tentang subjek tertentu yang dihadirkan oleh mahasiswa untuk mendapatkan gelar lanjutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210052.jpeg",
+      "simplified": "论文",
+      "traditional": "論文",
+      "pinyin": "lùnwén"
+    },
+    {
+      "id": 210053,
+      "translation": {
+        "en": {
+          "short": "tuition",
+          "long": "an amount of money that one pays to receive an education, particularly in a university or college",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biaya pendidikan",
+          "long": "Sejumlah uang yang dibayar seseorang untuk menerima pendidikan, terutama di universitas atau perguruan tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210053.jpeg",
+      "simplified": "学费",
+      "traditional": "學費",
+      "pinyin": "xuéfèi"
+    },
+    {
+      "id": 210054,
+      "translation": {
+        "en": {
+          "short": "to enroll",
+          "long": "to officially register oneself or someone else as a participant in a course, school, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendaftarkan",
+          "long": "Untuk secara resmi mendaftarkan diri atau orang lain sebagai peserta dalam kursus, sekolah, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210054.jpeg",
+      "simplified": "注册",
+      "traditional": "註冊",
+      "pinyin": "zhùcè"
+    },
+    {
+      "id": 210055,
+      "translation": {
+        "en": {
+          "short": "faculty",
+          "long": "the staff who teach or conduct research in a university or college",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fakultas",
+          "long": "Staf yang mengajar atau melakukan penelitian di universitas atau perguruan tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/210055.jpeg",
+      "simplified": "学院",
+      "traditional": "學院",
+      "pinyin": "xuéyuàn"
+    },
+    {
+      "id": 225201,
+      "translation": {
+        "en": {
+          "short": "further education",
+          "long": "a course of study offered after the high school outside the higher education system of the universities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendidikan lebih lanjut",
+          "long": "Kursus studi yang ditawarkan setelah sekolah menengah di luar sistem pendidikan tinggi universitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/225201.jpeg",
+      "simplified": "继续教育",
+      "traditional": "繼續教育",
+      "pinyin": "jìxù jiàoyù"
+    },
+    {
+      "id": 225207,
+      "translation": {
+        "en": {
+          "short": "information and communications technology",
+          "long": "the study of how computers and the internet work or data are received or stored as a school subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teknologi Informasi dan Komunikasi",
+          "long": "Studi tentang bagaimana komputer dan internet bekerja atau data diterima atau disimpan sebagai subjek sekolah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/225207.jpeg",
+      "simplified": "信息和通信技术",
+      "traditional": "信息和通信技術",
+      "pinyin": "xìnxī Hé tōngxìn jì shù"
+    }
+  ]
+}

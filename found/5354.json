@@ -1,0 +1,963 @@
+{
+  "id": 5354,
+  "title": {
+    "en": "Kitchen Wares",
+    "id": "Barang dapur"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to kitchen wares such as \"bowl\", \"teacup\", and \"ladle\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan barang -barang dapur seperti \"mangkuk\", \"teh\", dan \"sendok\"."
+  },
+  "cards": [
+    {
+      "id": 382068,
+      "translation": {
+        "en": {
+          "short": "plate",
+          "long": "a flat, typically round dish that we eat from or serve food on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring",
+          "long": "hidangan datar, biasanya bundar yang kami makan atau sajikan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382068.jpeg",
+      "simplified": "盘",
+      "traditional": "盤",
+      "pinyin": "pán"
+    },
+    {
+      "id": 382069,
+      "translation": {
+        "en": {
+          "short": "bowl",
+          "long": "a round, deep container with an open top, used for holding food or liquid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangkuk",
+          "long": "wadah bundar dan dalam dengan atasan terbuka, digunakan untuk memegang makanan atau cairan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382069.jpeg",
+      "simplified": "碗",
+      "traditional": "碗",
+      "pinyin": "wǎn"
+    },
+    {
+      "id": 382070,
+      "translation": {
+        "en": {
+          "short": "fork",
+          "long": "an object with a handle and three or four sharp points that we use for picking up and eating food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garpu",
+          "long": "objek dengan pegangan dan tiga atau empat titik tajam yang kami gunakan untuk mengambil dan makan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382070.jpeg",
+      "simplified": "叉",
+      "traditional": "叉",
+      "pinyin": "chā"
+    },
+    {
+      "id": 382071,
+      "translation": {
+        "en": {
+          "short": "spoon",
+          "long": "an object that has a handle with a shallow bowl at one end that is used for eating, serving, or stirring food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sendok",
+          "long": "objek yang memiliki pegangan dengan mangkuk dangkal di satu ujung yang digunakan untuk makan, menyajikan, atau mengaduk makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382071.jpeg",
+      "simplified": "勺",
+      "traditional": "勺",
+      "pinyin": "sháo"
+    },
+    {
+      "id": 382072,
+      "translation": {
+        "en": {
+          "short": "knife",
+          "long": "a sharp blade with a handle that is used for cutting or as a weapon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pisau",
+          "long": "pisau tajam dengan pegangan yang digunakan untuk memotong atau sebagai senjata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382072.jpeg",
+      "simplified": "刀",
+      "traditional": "刀",
+      "pinyin": "Dāo"
+    },
+    {
+      "id": 382073,
+      "translation": {
+        "en": {
+          "short": "teacup",
+          "long": "a small cup typically used for drinking tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teh",
+          "long": "secangkir kecil biasanya digunakan untuk minum teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382073.jpeg",
+      "simplified": "茶碗",
+      "traditional": "茶碗",
+      "pinyin": "cháwǎn"
+    },
+    {
+      "id": 382074,
+      "translation": {
+        "en": {
+          "short": "mug",
+          "long": "a large cup which is typically used for drinking hot beverages like coffee, tea, or hot chocolate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mug",
+          "long": "Cangkir besar yang biasanya digunakan untuk minum minuman panas seperti kopi, teh, atau cokelat panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382074.jpeg",
+      "simplified": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi"
+    },
+    {
+      "id": 382075,
+      "translation": {
+        "en": {
+          "short": "glass",
+          "long": "a container that is used for drinks and is made of glass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaca",
+          "long": "wadah yang digunakan untuk minuman dan terbuat dari gelas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382075.jpeg",
+      "simplified": "一杯",
+      "traditional": "一杯",
+      "pinyin": "yī bēi"
+    },
+    {
+      "id": 382077,
+      "translation": {
+        "en": {
+          "short": "pot",
+          "long": "a container which is round, deep, and typically made of metal, used for cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pot",
+          "long": "wadah yang bundar, dalam, dan biasanya terbuat dari logam, digunakan untuk memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382077.jpeg",
+      "simplified": "锅",
+      "traditional": "鍋",
+      "pinyin": "guō"
+    },
+    {
+      "id": 382079,
+      "translation": {
+        "en": {
+          "short": "pan",
+          "long": "a metal container with a long handle and a lid, used for cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panci",
+          "long": "wadah logam dengan pegangan panjang dan tutupnya, digunakan untuk memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382079.jpeg",
+      "simplified": "锅",
+      "traditional": "鍋",
+      "pinyin": "guō"
+    },
+    {
+      "id": 382080,
+      "translation": {
+        "en": {
+          "short": "grater",
+          "long": "a kitchen tool having a surface with sharped holes used for cutting food into very small pieces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parutan",
+          "long": "Alat dapur yang memiliki permukaan dengan lubang terbarut yang digunakan untuk memotong makanan menjadi potongan -potongan yang sangat kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382080.jpeg",
+      "simplified": "擦菜板",
+      "traditional": "擦菜板",
+      "pinyin": "cā càibǎn"
+    },
+    {
+      "id": 382082,
+      "translation": {
+        "en": {
+          "short": "can opener",
+          "long": "a tool used to open cans of food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuka kaleng",
+          "long": "alat yang digunakan untuk membuka kaleng makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382082.jpeg",
+      "simplified": "开罐器",
+      "traditional": "開罐器",
+      "pinyin": "kāi guàn qì"
+    },
+    {
+      "id": 382083,
+      "translation": {
+        "en": {
+          "short": "colander",
+          "long": "a plastic or metal bowl with many holes that is used for separating water from washed or cooked food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Colander",
+          "long": "mangkuk plastik atau logam dengan banyak lubang yang digunakan untuk memisahkan air dari makanan yang dicuci atau dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382083.jpeg",
+      "simplified": "滤器",
+      "traditional": "濾器",
+      "pinyin": "lǜqì"
+    },
+    {
+      "id": 382085,
+      "translation": {
+        "en": {
+          "short": "cutting board",
+          "long": "a wooden or plastic board on which meat or vegetables are cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "talenan",
+          "long": "Papan kayu atau plastik di mana daging atau sayuran dipotong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382085.jpeg",
+      "simplified": "切菜板",
+      "traditional": "切菜板",
+      "pinyin": "qiē càibǎn"
+    },
+    {
+      "id": 382086,
+      "translation": {
+        "en": {
+          "short": "dish rack",
+          "long": "a kitchen tool used to hold and dry dishes after washing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rak piring",
+          "long": "Alat dapur yang digunakan untuk menahan dan mengeringkan piring setelah dicuci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382086.jpeg",
+      "simplified": "碗碟架",
+      "traditional": "碗碟架",
+      "pinyin": "wǎn dié jià"
+    },
+    {
+      "id": 382088,
+      "translation": {
+        "en": {
+          "short": "dish pan",
+          "long": "a shallow, rectangular or square-shaped container, often made of plastic, used for washing dishes by hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panci panci",
+          "long": "wadah yang dangkal, persegi panjang atau berbentuk persegi, sering terbuat dari plastik, digunakan untuk mencuci piring dengan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382088.jpeg",
+      "simplified": "平底锅",
+      "traditional": "平底鍋",
+      "pinyin": "píngdǐ guō"
+    },
+    {
+      "id": 382089,
+      "translation": {
+        "en": {
+          "short": "whisk",
+          "long": "‌a handheld object with small pieces of curved wire used for whipping cream or eggs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengocok",
+          "long": "Objek genggam dengan potongan -potongan kecil kawat melengkung yang digunakan untuk whipping cream atau telur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382089.jpeg",
+      "simplified": "拂",
+      "traditional": "拂",
+      "pinyin": "bì"
+    },
+    {
+      "id": 382090,
+      "translation": {
+        "en": {
+          "short": "garlic press",
+          "long": "a small handheld kitchen tool used for crushing garlic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pers bawang putih",
+          "long": "Alat dapur genggam kecil yang digunakan untuk menghancurkan bawang putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382090.jpeg",
+      "simplified": "压蒜器",
+      "traditional": "壓蒜器",
+      "pinyin": "yāsuàn qì"
+    },
+    {
+      "id": 382091,
+      "translation": {
+        "en": {
+          "short": "jar",
+          "long": "a container with a wide opening and a lid, typically made of glass or ceramic, used to store food such as honey, jam, pickles, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stoples",
+          "long": "Wadah dengan lubang lebar dan tutupnya, biasanya terbuat dari kaca atau keramik, digunakan untuk menyimpan makanan seperti madu, selai, acar, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382091.jpeg",
+      "simplified": "玻璃罐",
+      "traditional": "玻璃罐",
+      "pinyin": "bōli guàn"
+    },
+    {
+      "id": 382092,
+      "translation": {
+        "en": {
+          "short": "spatula",
+          "long": "a kitchen tool with a broad and flat part on one end, used for turning and lifting food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudip",
+          "long": "alat dapur dengan bagian yang luas dan datar di satu ujung, digunakan untuk memutar dan mengangkat makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382092.jpeg",
+      "simplified": "抹刀",
+      "traditional": "抹刀",
+      "pinyin": "mǒdāo"
+    },
+    {
+      "id": 382093,
+      "translation": {
+        "en": {
+          "short": "masher",
+          "long": "a kitchen tool designed to mash cooked vegetables, fruits, or other foods into a soft and uniform texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hidung belang",
+          "long": "Alat dapur yang dirancang untuk menumbuk sayuran, buah -buahan, atau makanan lainnya menjadi tekstur yang lembut dan seragam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382093.jpeg",
+      "simplified": "捣碎器",
+      "traditional": "搗碎器",
+      "pinyin": "dǎosuì qì"
+    },
+    {
+      "id": 382094,
+      "translation": {
+        "en": {
+          "short": "peeler",
+          "long": "a special device or knife for removing the skin of vegetables or fruit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat pengupas",
+          "long": "perangkat atau pisau khusus untuk menghilangkan kulit sayuran atau buah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382094.jpeg",
+      "simplified": "削皮器",
+      "traditional": "削皮器",
+      "pinyin": "xiāo Pí qì"
+    },
+    {
+      "id": 382095,
+      "translation": {
+        "en": {
+          "short": "reamer",
+          "long": "a handheld tool with a conical ridged end used for manually extracting juice from citrus fruits like lemons, limes, and oranges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat untuk membesarkan lubang",
+          "long": "Alat genggam dengan ujung bergerigi kerucut yang digunakan untuk mengekstraksi jus secara manual dari buah jeruk seperti lemon, limau, dan jeruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382095.jpeg",
+      "simplified": "绞",
+      "traditional": "絞",
+      "pinyin": "jiǎo"
+    },
+    {
+      "id": 382097,
+      "translation": {
+        "en": {
+          "short": "teapot",
+          "long": "a container with a handle, lid, and spout for brewing and serving tea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teko",
+          "long": "wadah dengan pegangan, tutup, dan cerat untuk menyeduh dan menyajikan teh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382097.jpeg",
+      "simplified": "茶壶",
+      "traditional": "茶壺",
+      "pinyin": "cháhú"
+    },
+    {
+      "id": 382098,
+      "translation": {
+        "en": {
+          "short": "turner",
+          "long": "a flat kitchen utensil with a long handle used to lift and flip foods, such as pancakes, burgers, and vegetables, while cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang bubut",
+          "long": "Peralatan dapur datar dengan pegangan panjang yang digunakan untuk mengangkat dan membalikkan makanan, seperti pancake, burger, dan sayuran, saat memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382098.jpeg",
+      "simplified": "车工",
+      "traditional": "車工",
+      "pinyin": "chēgōng"
+    },
+    {
+      "id": 382100,
+      "translation": {
+        "en": {
+          "short": "chopper",
+          "long": "a kitchen tool used to chop or mince food into smaller pieces, such as onions, herbs, nuts, or vegetables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "helikopter",
+          "long": "Alat dapur yang digunakan untuk memotong atau cincang menjadi potongan -potongan kecil, seperti bawang, rempah, kacang -kacangan, atau sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382100.jpeg",
+      "simplified": "断路器",
+      "traditional": "斷路器",
+      "pinyin": "duànlù qì"
+    },
+    {
+      "id": 382102,
+      "translation": {
+        "en": {
+          "short": "chopstick",
+          "long": "one of the two thin, typically wooden sticks, used particularly by people of China, Japan, etc., to eat food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumpit",
+          "long": "Salah satu dari dua tongkat kayu tipis, biasanya digunakan oleh orang -orang Cina, Jepang, dll. Untuk makan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382102.jpeg",
+      "simplified": "筷子",
+      "traditional": "筷子",
+      "pinyin": "kuàizi"
+    },
+    {
+      "id": 382104,
+      "translation": {
+        "en": {
+          "short": "dessert spoon",
+          "long": "a medium-sized spoon designed for eating dessert",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sendok makanan penutup",
+          "long": "sendok berukuran sedang yang dirancang untuk makan makanan penutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382104.jpeg",
+      "simplified": "甜点勺",
+      "traditional": "甜點勺",
+      "pinyin": "tiándiǎn sháo"
+    },
+    {
+      "id": 382105,
+      "translation": {
+        "en": {
+          "short": "steak knife",
+          "long": "a specialized table knife with a sharp serrated edge designed to easily cut through cooked meat, especially steak",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pisau steak",
+          "long": "pisau meja khusus dengan tepi bergerigi tajam yang dirancang untuk dengan mudah memotong daging yang dimasak, terutama steak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382105.jpeg",
+      "simplified": "牛排刀",
+      "traditional": "牛排刀",
+      "pinyin": "niúpái Dāo"
+    },
+    {
+      "id": 382106,
+      "translation": {
+        "en": {
+          "short": "table knife",
+          "long": "a non-serrated knife with a rounded tip, used for cutting and eating food at the dining table",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pisau makan",
+          "long": "Pisau yang tidak disorot dengan ujung bundar, digunakan untuk memotong dan makan makanan di meja makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382106.jpeg",
+      "simplified": "餐刀",
+      "traditional": "餐刀",
+      "pinyin": "cāndāo"
+    },
+    {
+      "id": 382107,
+      "translation": {
+        "en": {
+          "short": "tongs",
+          "long": "a kitchen utensil with two bars that when pushed one can lift small items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjepit",
+          "long": "peralatan dapur dengan dua batang yang ketika didorong satu dapat mengangkat barang -barang kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382107.jpeg",
+      "simplified": "钳",
+      "traditional": "鉗",
+      "pinyin": "qián"
+    },
+    {
+      "id": 382108,
+      "translation": {
+        "en": {
+          "short": "salt shaker",
+          "long": "a container with holes in the top used for dispensing salt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengocok garam",
+          "long": "wadah dengan lubang di atas yang digunakan untuk mengeluarkan garam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382108.jpeg",
+      "simplified": "盐瓶",
+      "traditional": "鹽瓶",
+      "pinyin": "yán píng"
+    },
+    {
+      "id": 382109,
+      "translation": {
+        "en": {
+          "short": "pepper mill",
+          "long": "a kitchen tool used to grind whole peppercorns into a finer powder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pepper Mill",
+          "long": "Alat dapur yang digunakan untuk menggiling seluruh merica menjadi bubuk yang lebih halus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382109.jpeg",
+      "simplified": "胡椒磨",
+      "traditional": "胡椒磨",
+      "pinyin": "hújiāo mó"
+    },
+    {
+      "id": 382111,
+      "translation": {
+        "en": {
+          "short": "lid",
+          "long": "the removable cover at the top of a container",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tutup",
+          "long": "penutup yang dapat dilepas di bagian atas wadah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382111.jpeg",
+      "simplified": "容器盖",
+      "traditional": "容器蓋",
+      "pinyin": "róngqì Gě"
+    },
+    {
+      "id": 382112,
+      "translation": {
+        "en": {
+          "short": "skillet",
+          "long": "a shallow pan with a long handle, used for frying food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuali",
+          "long": "wajan dangkal dengan pegangan panjang, digunakan untuk menggoreng makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382112.jpeg",
+      "simplified": "煎锅",
+      "traditional": "煎鍋",
+      "pinyin": "jiānguō"
+    },
+    {
+      "id": 382114,
+      "translation": {
+        "en": {
+          "short": "ladle",
+          "long": "a type of large spoon with a long handle and a deep bowl, particularly used for serving liquid food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sendok",
+          "long": "Jenis sendok besar dengan pegangan panjang dan mangkuk dalam, terutama digunakan untuk menyajikan makanan cair",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382114.jpeg",
+      "simplified": "瓢",
+      "traditional": "瓢",
+      "pinyin": "piáo"
+    },
+    {
+      "id": 382116,
+      "translation": {
+        "en": {
+          "short": "corkscrew",
+          "long": "a small tool with a pointy spiral metal for pulling out corks from bottles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotrek",
+          "long": "Alat kecil dengan logam spiral runcing untuk mengeluarkan gabus dari botol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382116.jpeg",
+      "simplified": "螺丝锥",
+      "traditional": "螺絲錐",
+      "pinyin": "luósī zhuī"
+    },
+    {
+      "id": 382118,
+      "translation": {
+        "en": {
+          "short": "tray",
+          "long": "a flat object with elevated edges, often used for holding or carrying food and drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baki",
+          "long": "benda datar dengan tepi yang ditinggikan, sering digunakan untuk memegang atau membawa makanan dan minuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382118.jpeg",
+      "simplified": "托盘",
+      "traditional": "托盤",
+      "pinyin": "tuōpán"
+    },
+    {
+      "id": 382119,
+      "translation": {
+        "en": {
+          "short": "bottle",
+          "long": "a glass or plastic container that has a narrow neck and is used for storing drinks or other liquids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "botol",
+          "long": "wadah gelas atau plastik yang memiliki leher sempit dan digunakan untuk menyimpan minuman atau cairan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382119.jpeg",
+      "simplified": "瓶",
+      "traditional": "瓶",
+      "pinyin": "píng"
+    },
+    {
+      "id": 382121,
+      "translation": {
+        "en": {
+          "short": "pitcher",
+          "long": "a deep round container with a handle and a curved opening, used for pouring liquids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendi",
+          "long": "wadah bundar yang dalam dengan pegangan dan lubang melengkung, digunakan untuk menuangkan cairan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382121.jpeg",
+      "simplified": "投手",
+      "traditional": "投手",
+      "pinyin": "tóushǒu"
+    },
+    {
+      "id": 382122,
+      "translation": {
+        "en": {
+          "short": "wineglass",
+          "long": "a stemmed drinking glass with a bowl-shaped top that narrows to concentrate the aroma of wine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelas anggur",
+          "long": "Gelas minum yang berasal dari atasan berbentuk mangkuk yang menyempit untuk memusatkan aroma anggur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382122.jpeg",
+      "simplified": "酒杯",
+      "traditional": "酒杯",
+      "pinyin": "jiǔbēi"
+    },
+    {
+      "id": 382124,
+      "translation": {
+        "en": {
+          "short": "cake pan",
+          "long": "a baking dish, usually round or rectangular in shape, that is used for baking cakes and other baked goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panci kue",
+          "long": "Bentuk loyang, biasanya bundar atau berbentuk persegi panjang, yang digunakan untuk kue kue dan makanan panggang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382124.jpeg",
+      "simplified": "蛋糕盘",
+      "traditional": "蛋糕盤",
+      "pinyin": "dàngāo pán"
+    },
+    {
+      "id": 382128,
+      "translation": {
+        "en": {
+          "short": "dish",
+          "long": "a flat, shallow container for cooking food in or serving it from",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring",
+          "long": "wadah datar dan dangkal untuk memasak makanan di dalam atau menyajikannya dari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382128.jpeg",
+      "simplified": "菜",
+      "traditional": "菜",
+      "pinyin": "cài"
+    },
+    {
+      "id": 382130,
+      "translation": {
+        "en": {
+          "short": "pepper pot",
+          "long": "a container with perforations on the top used for storing and dispensing ground pepper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemarah",
+          "long": "wadah dengan perforasi di atas yang digunakan untuk menyimpan dan mengeluarkan lada tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382130.jpeg",
+      "simplified": "胡椒罐",
+      "traditional": "胡椒罐",
+      "pinyin": "hújiāo guàn"
+    },
+    {
+      "id": 382132,
+      "translation": {
+        "en": {
+          "short": "platter",
+          "long": "a large, flat serving dish used for presenting food, often used for serving meat, cheese, fruit, or vegetables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring",
+          "long": "Hidangan porsi besar yang datar digunakan untuk menyajikan makanan, sering digunakan untuk menyajikan daging, keju, buah, atau sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382132.jpeg",
+      "simplified": "编织者",
+      "traditional": "編織者",
+      "pinyin": "biānzhī zhě"
+    },
+    {
+      "id": 382134,
+      "translation": {
+        "en": {
+          "short": "bread knife",
+          "long": "a long, serrated knife designed specifically for slicing through bread and other baked goods without crushing or squishing them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pisau roti",
+          "long": "pisau panjang dan bergerigi yang dirancang khusus untuk mengiris roti dan makanan panggang lainnya tanpa menghancurkan atau menjepitnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382134.jpeg",
+      "simplified": "面包刀",
+      "traditional": "麵包刀",
+      "pinyin": "miànbāo Dāo"
+    },
+    {
+      "id": 382136,
+      "translation": {
+        "en": {
+          "short": "mixing bowl",
+          "long": "a bowl typically used in cooking and baking for combining ingredients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangkuk pengadukan",
+          "long": "mangkuk biasanya digunakan dalam memasak dan memanggang untuk menggabungkan bahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382136.jpeg",
+      "simplified": "用于混合的碗",
+      "traditional": "用於混合的碗",
+      "pinyin": "yòngyú hùnhé de wǎn"
+    },
+    {
+      "id": 382137,
+      "translation": {
+        "en": {
+          "short": "soup spoon",
+          "long": "a spoon that is typically larger than a teaspoon or a dessert spoon and is used for eating soup or other liquid dishes, such as chili or stew",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sendok sup",
+          "long": "Sendok yang biasanya lebih besar dari satu sendok teh atau sendok makanan penutup dan digunakan untuk makan sup atau hidangan cair lainnya, seperti cabai atau rebusan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382137.jpeg",
+      "simplified": "汤匙",
+      "traditional": "湯匙",
+      "pinyin": "tāngchí"
+    },
+    {
+      "id": 382138,
+      "translation": {
+        "en": {
+          "short": "butter dish",
+          "long": "a container used for serving butter, which typically consists of a base and a lid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hidangan mentega",
+          "long": "wadah yang digunakan untuk menyajikan mentega, yang biasanya terdiri dari pangkalan dan tutupnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382138.jpeg",
+      "simplified": "黄油碟",
+      "traditional": "黃油碟",
+      "pinyin": "huángyóu dié"
+    },
+    {
+      "id": 382920,
+      "translation": {
+        "en": {
+          "short": "measuring cup",
+          "long": "a container with numbers on it for measuring the quantity of something when cooking, used mainly in the US",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelas pengukur",
+          "long": "wadah dengan angka di atasnya untuk mengukur jumlah sesuatu saat memasak, terutama digunakan di AS",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382920.jpeg",
+      "simplified": "量杯",
+      "traditional": "量杯",
+      "pinyin": "liángbēi"
+    }
+  ]
+}

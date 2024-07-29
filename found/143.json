@@ -1,0 +1,564 @@
+{
+  "id": 143,
+  "title": {
+    "en": "Music",
+    "id": "Musik"
+  },
+  "description": {
+    "en": "Here you will learn some English words about music, such as \"keyboard\", \"trumpet\", \"cello\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang musik, seperti \"keyboard\", \"trompet\", \"cello\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 212624,
+      "translation": {
+        "en": {
+          "short": "keyboard",
+          "long": "a type of electronic musical instrument with keys like those of a piano, which is able to make many different sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan ketik",
+          "long": "Jenis alat musik elektronik dengan kunci seperti piano, yang mampu membuat banyak suara berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212624.jpeg",
+      "simplified": "音乐键盘",
+      "traditional": "音樂鍵盤",
+      "pinyin": "yīnyuè jiànpán"
+    },
+    {
+      "id": 212625,
+      "translation": {
+        "en": {
+          "short": "trumpet",
+          "long": "a musical instrument with a curved metal tube and one wide end, which is played by blowing into it while pressing and releasing its three buttons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terompet",
+          "long": "alat musik dengan tabung logam melengkung dan satu ujung lebar, yang dimainkan dengan meniupnya sambil menekan dan melepaskan tiga tombolnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212625.jpeg",
+      "simplified": "喇叭",
+      "traditional": "喇叭",
+      "pinyin": "lǎba"
+    },
+    {
+      "id": 212631,
+      "translation": {
+        "en": {
+          "short": "accordion",
+          "long": "a box-like musical instrument that is held in both hands and is played by squeezing and stretching it while pressing its keys",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akordeon",
+          "long": "alat musik seperti kotak yang dipegang di kedua tangan dan dimainkan dengan memeras dan meregangkannya sambil menekan kuncinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212631.jpeg",
+      "simplified": "手风琴",
+      "traditional": "手風琴",
+      "pinyin": "shǒufēng qín"
+    },
+    {
+      "id": 212632,
+      "translation": {
+        "en": {
+          "short": "cello",
+          "long": "a large musical instrument of the violin family that is held upright and is played by pulling a bow across its strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selo",
+          "long": "alat musik besar dari keluarga biola yang diadakan tegak dan dimainkan dengan menarik busur melintasi senarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212632.jpeg",
+      "simplified": "大提琴",
+      "traditional": "大提琴",
+      "pinyin": "dàtí qín"
+    },
+    {
+      "id": 212633,
+      "translation": {
+        "en": {
+          "short": "clarinet",
+          "long": "a musical instrument with a mouthpiece and keys, that is played by blowing into it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klarinet",
+          "long": "alat musik dengan corong dan kunci, yang dimainkan dengan meniupnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212633.jpeg",
+      "simplified": "单簧管",
+      "traditional": "單簧管",
+      "pinyin": "dānhuáng guǎn"
+    },
+    {
+      "id": 212634,
+      "translation": {
+        "en": {
+          "short": "flute",
+          "long": "a tube-like musical instrument that is played by blowing over a hole while covering and uncovering its other holes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seruling",
+          "long": "alat musik seperti tabung yang dimainkan dengan meniup lubang saat menutupi dan mengungkap lubang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212634.jpeg",
+      "simplified": "长笛",
+      "traditional": "長笛",
+      "pinyin": "chángdí"
+    },
+    {
+      "id": 212635,
+      "translation": {
+        "en": {
+          "short": "saxophone",
+          "long": "a curved metal wind instrument that is played by blowing into it while pressing its buttons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saksofon",
+          "long": "instrumen angin logam melengkung yang dimainkan dengan meniupnya sambil menekan tombolnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212635.jpeg",
+      "simplified": "萨克管",
+      "traditional": "薩克管",
+      "pinyin": "sàkè guǎn"
+    },
+    {
+      "id": 235618,
+      "translation": {
+        "en": {
+          "short": "band",
+          "long": "a group of musicians and singers playing popular music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita",
+          "long": "sekelompok musisi dan penyanyi memainkan musik populer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235618.jpeg",
+      "simplified": "乐队",
+      "traditional": "樂隊",
+      "pinyin": "yuèduì"
+    },
+    {
+      "id": 235619,
+      "translation": {
+        "en": {
+          "short": "choir",
+          "long": "a group of singers who perform together, particularly in religious ceremonies or in public",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paduan suara",
+          "long": "sekelompok penyanyi yang tampil bersama, khususnya dalam upacara keagamaan atau di depan umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235619.jpeg",
+      "simplified": "唱诗班",
+      "traditional": "唱詩班",
+      "pinyin": "chàngshī bān"
+    },
+    {
+      "id": 235620,
+      "translation": {
+        "en": {
+          "short": "conductor",
+          "long": "someone who guides and directs an orchestra",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konduktor",
+          "long": "seseorang yang membimbing dan mengarahkan orkestra",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235620.jpeg",
+      "simplified": "音乐指挥",
+      "traditional": "音樂指揮",
+      "pinyin": "yīnyuè zhǐhuī"
+    },
+    {
+      "id": 235622,
+      "translation": {
+        "en": {
+          "short": "performer",
+          "long": "someone who entertains an audience, such as an actor, singer, musician, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penampil",
+          "long": "Seseorang yang menghibur penonton, seperti aktor, penyanyi, musisi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235622.jpeg",
+      "simplified": "演员",
+      "traditional": "演員",
+      "pinyin": "yǎnyuán"
+    },
+    {
+      "id": 235623,
+      "translation": {
+        "en": {
+          "short": "pianist",
+          "long": "someone who plays the piano, particularly a professional one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pianis",
+          "long": "seseorang yang memainkan piano, terutama yang profesional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235623.jpeg",
+      "simplified": "钢琴家",
+      "traditional": "鋼琴家",
+      "pinyin": "gāngqín jiā"
+    },
+    {
+      "id": 235624,
+      "translation": {
+        "en": {
+          "short": "violinist",
+          "long": "a musician who plays the violin, typically performing solo or with other musicians or vocalists",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemain biola",
+          "long": "seorang musisi yang memerankan biola, biasanya melakukan solo atau dengan musisi atau vokalis lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235624.jpeg",
+      "simplified": "小提琴家",
+      "traditional": "小提琴家",
+      "pinyin": "xiǎotí qín jiā"
+    },
+    {
+      "id": 235625,
+      "translation": {
+        "en": {
+          "short": "drummer",
+          "long": "someone who plays a drum or a set of drums in a band",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drummer",
+          "long": "seseorang yang memainkan drum atau satu set drum di band",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235625.jpeg",
+      "simplified": "鼓手",
+      "traditional": "鼓手",
+      "pinyin": "gǔshǒu"
+    },
+    {
+      "id": 235626,
+      "translation": {
+        "en": {
+          "short": "album",
+          "long": "a number of music pieces or songs sold as a single item, normally on a CD or the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "album",
+          "long": "Sejumlah karya musik atau lagu yang dijual sebagai satu item, biasanya di CD atau Internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235626.jpeg",
+      "simplified": "集邮本",
+      "traditional": "集郵本",
+      "pinyin": "jíyóu běn"
+    },
+    {
+      "id": 235629,
+      "translation": {
+        "en": {
+          "short": "tape",
+          "long": "a thin magnetic material on which a piece of music is recorded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tape",
+          "long": "bahan magnetik tipis di mana sepotong musik direkam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235629.jpeg",
+      "simplified": "胶带",
+      "traditional": "膠帶",
+      "pinyin": "jiāodài"
+    },
+    {
+      "id": 235630,
+      "translation": {
+        "en": {
+          "short": "to tour",
+          "long": "to travel to different places to perform, such as putting on a concert",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melakukan perjalanan",
+          "long": "melakukan perjalanan ke berbagai tempat untuk tampil, seperti mengadakan konser",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235630.jpeg",
+      "simplified": "游览",
+      "traditional": "遊覽",
+      "pinyin": "yóulǎn"
+    },
+    {
+      "id": 235631,
+      "translation": {
+        "en": {
+          "short": "to publish",
+          "long": "to publically distribute a piece of music for sale",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menerbitkan",
+          "long": "untuk mendistribusikan musik secara publik untuk dijual",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235631.jpeg",
+      "simplified": "发布",
+      "traditional": "發布",
+      "pinyin": "fābù"
+    },
+    {
+      "id": 235632,
+      "translation": {
+        "en": {
+          "short": "chorus",
+          "long": "a section of a song or poem that follows each verse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paduan suara",
+          "long": "Bagian dari lagu atau puisi yang mengikuti setiap ayat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235632.jpeg",
+      "simplified": "合唱",
+      "traditional": "合唱",
+      "pinyin": "héchàng"
+    },
+    {
+      "id": 235633,
+      "translation": {
+        "en": {
+          "short": "beat",
+          "long": "a piece of music's or a poem's main rhythm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalahkan",
+          "long": "Sepotong musik atau ritme utama puisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235633.jpeg",
+      "simplified": "音乐节拍",
+      "traditional": "音樂節拍",
+      "pinyin": "yīnyuè jié pāi"
+    },
+    {
+      "id": 235634,
+      "translation": {
+        "en": {
+          "short": "lyric",
+          "long": "(plural) a song's words or text",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liris",
+          "long": "(jamak) Kata atau teks lagu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235634.jpeg",
+      "simplified": "音乐歌词",
+      "traditional": "音樂歌詞",
+      "pinyin": "yīnyuè gēcí"
+    },
+    {
+      "id": 235636,
+      "translation": {
+        "en": {
+          "short": "MP3 player",
+          "long": "a small device used for listening to audio and MP3 files",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemutar mp3",
+          "long": "Perangkat kecil yang digunakan untuk mendengarkan file audio dan mp3",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235636.jpeg",
+      "simplified": "MP3播放器",
+      "traditional": "MP3播放器",
+      "pinyin": "P bōfàng qì"
+    },
+    {
+      "id": 235641,
+      "translation": {
+        "en": {
+          "short": "headphones",
+          "long": "a device that has two pieces that cover the ears and is used to listen to music or sounds without others hearing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "headphone",
+          "long": "Perangkat yang memiliki dua bagian yang menutupi telinga dan digunakan untuk mendengarkan musik atau suara tanpa orang lain mendengar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235641.jpeg",
+      "simplified": "耳机",
+      "traditional": "耳機",
+      "pinyin": "ěrjī"
+    },
+    {
+      "id": 235637,
+      "translation": {
+        "en": {
+          "short": "iPod",
+          "long": "an electronic device used for listening to audio files or for storing digital data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "iPod",
+          "long": "Perangkat elektronik yang digunakan untuk mendengarkan file audio atau untuk menyimpan data digital",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235637.jpeg",
+      "simplified": "iPod",
+      "traditional": "iPod",
+      "pinyin": "P"
+    },
+    {
+      "id": 235638,
+      "translation": {
+        "en": {
+          "short": "microphone",
+          "long": "a piece of equipment used for recording voices or sounds or for making one's voice louder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mikropon",
+          "long": "sepotong peralatan yang digunakan untuk merekam suara atau suara atau untuk membuat suara lebih keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235638.jpeg",
+      "simplified": "麦克风",
+      "traditional": "麥克風",
+      "pinyin": "màikè fēng"
+    },
+    {
+      "id": 235640,
+      "translation": {
+        "en": {
+          "short": "karaoke",
+          "long": "a form of entertainment in which people sing the words of popular songs while a machine plays only their music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Karaoke",
+          "long": "bentuk hiburan di mana orang menyanyikan kata -kata lagu -lagu populer sementara mesin hanya memainkan musik mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235640.jpeg",
+      "simplified": "卡拉OK",
+      "traditional": "卡拉OK",
+      "pinyin": "kǎlā O K"
+    },
+    {
+      "id": 386542,
+      "translation": {
+        "en": {
+          "short": "disc jockey",
+          "long": "someone who announces or plays popular recorded music on radio or TV, or at a disco, club, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "disk joki",
+          "long": "Seseorang yang mengumumkan atau memainkan musik rekaman populer di radio atau TV, atau di disko, klub, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/386542.jpeg",
+      "simplified": "唱片骑师",
+      "traditional": "唱片騎師",
+      "pinyin": "chàngpiàn qíshī"
+    },
+    {
+      "id": 236594,
+      "translation": {
+        "en": {
+          "short": "songwriter",
+          "long": "someone who writes the words of songs and sometimes their music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penulis lagu",
+          "long": "seseorang yang menulis kata -kata lagu dan terkadang musik mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236594.jpeg",
+      "simplified": "作曲家",
+      "traditional": "作曲家",
+      "pinyin": "zuòqǔ jiā"
+    },
+    {
+      "id": 391057,
+      "translation": {
+        "en": {
+          "short": "tape",
+          "long": "a plastic case with a magnetic string that is used to record video, audio, or images",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tape",
+          "long": "Kasing plastik dengan string magnetik yang digunakan untuk merekam video, audio, atau gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391057.jpeg",
+      "simplified": "胶带",
+      "traditional": "膠帶",
+      "pinyin": "jiāodài"
+    }
+  ]
+}

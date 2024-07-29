@@ -1,0 +1,735 @@
+{
+  "id": 160,
+  "title": {
+    "en": "Health and Sickness",
+    "id": "Kesehatan dan penyakit"
+  },
+  "description": {
+    "en": "Here you will learn some English words about health and sickness, such as \"medicine\", \"healthcare\", \"drug\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang kesehatan dan penyakit, seperti \"obat\", \"perawatan kesehatan\", \"obat\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 235878,
+      "translation": {
+        "en": {
+          "short": "healthcare",
+          "long": "the health services and  treatments given to people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesehatan",
+          "long": "Layanan dan perawatan kesehatan yang diberikan kepada orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235878.jpeg",
+      "simplified": "保健",
+      "traditional": "保健",
+      "pinyin": "bǎojiàn"
+    },
+    {
+      "id": 245531,
+      "translation": {
+        "en": {
+          "short": "welfare",
+          "long": "the well-being and happiness of an individual or a group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesejahteraan",
+          "long": "kesejahteraan dan kebahagiaan individu atau kelompok",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245531.jpeg",
+      "simplified": "福利",
+      "traditional": "福利",
+      "pinyin": "fúlì"
+    },
+    {
+      "id": 213207,
+      "translation": {
+        "en": {
+          "short": "medicine",
+          "long": "a substance that treats injuries or illnesses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obat",
+          "long": "zat yang mengobati cedera atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213207.jpeg",
+      "simplified": "药物",
+      "traditional": "藥物",
+      "pinyin": "yàowù"
+    },
+    {
+      "id": 235879,
+      "translation": {
+        "en": {
+          "short": "medical",
+          "long": "related to medicine, treating illnesses, and health",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "medis",
+          "long": "terkait dengan obat, mengobati penyakit, dan kesehatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235879.jpeg",
+      "simplified": "医疗的",
+      "traditional": "醫療的",
+      "pinyin": "yīliáo de"
+    },
+    {
+      "id": 245526,
+      "translation": {
+        "en": {
+          "short": "positive",
+          "long": "(of a scientific test) showing that a particular substance or condition exists",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "positif",
+          "long": "(dari tes ilmiah) menunjukkan bahwa ada zat atau kondisi tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245526.jpeg",
+      "simplified": "阳性检测结果",
+      "traditional": "陽性檢測結果",
+      "pinyin": "yángxìng jiǎncè jiēguǒ"
+    },
+    {
+      "id": 245527,
+      "translation": {
+        "en": {
+          "short": "negative",
+          "long": "(of a scientific test) showing that there is no sign of a disease or a particular condition",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "negatif",
+          "long": "(dari tes ilmiah) yang menunjukkan bahwa tidak ada tanda -tanda penyakit atau kondisi tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245527.jpeg",
+      "simplified": "消极的",
+      "traditional": "消極的",
+      "pinyin": "xiāojí de"
+    },
+    {
+      "id": 235873,
+      "translation": {
+        "en": {
+          "short": "drug",
+          "long": "any substance that is used for medicinal purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obat",
+          "long": "zat apa pun yang digunakan untuk tujuan pengobatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235873.jpeg",
+      "simplified": "药物",
+      "traditional": "藥物",
+      "pinyin": "yàowù"
+    },
+    {
+      "id": 213187,
+      "translation": {
+        "en": {
+          "short": "aspirin",
+          "long": "a type of medicine taken to relieve pain, bring down a fever, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aspirin",
+          "long": "Jenis obat yang diminum untuk menghilangkan rasa sakit, menjatuhkan demam, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213187.jpeg",
+      "simplified": "阿司匹林",
+      "traditional": "阿斯匹靈",
+      "pinyin": "āsī pǐ lín"
+    },
+    {
+      "id": 213212,
+      "translation": {
+        "en": {
+          "short": "antibiotic",
+          "long": "a drug that is used to destroy bacteria or stop their growth, like Penicillin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antibiotika",
+          "long": "Obat yang digunakan untuk menghancurkan bakteri atau menghentikan pertumbuhannya, seperti penisilin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213212.jpeg",
+      "simplified": "抗生素",
+      "traditional": "抗生素",
+      "pinyin": "kàngshēng sù"
+    },
+    {
+      "id": 235869,
+      "translation": {
+        "en": {
+          "short": "capsule",
+          "long": "a type of small, rounded drug that has medicine inside, which when swallowed releases its medical substance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapsul",
+          "long": "Jenis obat kecil yang bundar yang memiliki obat di dalamnya, yang ketika ditelan melepaskan zat medisnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235869.jpeg",
+      "simplified": "胶囊",
+      "traditional": "膠囊",
+      "pinyin": "jiāonáng"
+    },
+    {
+      "id": 245525,
+      "translation": {
+        "en": {
+          "short": "first-aid kit",
+          "long": "a set of tools and medical supplies, usually carried in a bag or case, used in case of emergency or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertolongan pertama",
+          "long": "Satu set alat dan persediaan medis, biasanya dibawa dalam tas atau kasing, digunakan dalam kasus darurat atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245525.jpeg",
+      "simplified": "急救箱",
+      "traditional": "急救箱",
+      "pinyin": "jíjiù xiāng"
+    },
+    {
+      "id": 213188,
+      "translation": {
+        "en": {
+          "short": "bandage",
+          "long": "a piece of cloth that is put around a wound to prevent infections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perban",
+          "long": "sepotong kain yang diletakkan di sekitar luka untuk mencegah infeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213188.jpeg",
+      "simplified": "绷带",
+      "traditional": "繃帶",
+      "pinyin": "bēngdài"
+    },
+    {
+      "id": 235868,
+      "translation": {
+        "en": {
+          "short": "Band-Aid",
+          "long": "a small sticky strip used to cover and protect an injuriy, typically a cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pembalut luka",
+          "long": "strip lengket kecil yang digunakan untuk menutup dan melindungi cedera, biasanya potongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235868.jpeg",
+      "simplified": "创可贴",
+      "traditional": "OK繃",
+      "pinyin": "chuāngkě tiē"
+    },
+    {
+      "id": 235880,
+      "translation": {
+        "en": {
+          "short": "shot",
+          "long": "an act of a drug injection to the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan",
+          "long": "tindakan injeksi obat untuk tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235880.jpeg",
+      "simplified": "注射",
+      "traditional": "注射",
+      "pinyin": "zhùshè"
+    },
+    {
+      "id": 213189,
+      "translation": {
+        "en": {
+          "short": "to bleed",
+          "long": "to lose blood from an injury or wound",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Berdarah",
+          "long": "kehilangan darah akibat cedera atau luka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213189.jpeg",
+      "simplified": "失血",
+      "traditional": "失血",
+      "pinyin": "shīxuè"
+    },
+    {
+      "id": 213203,
+      "translation": {
+        "en": {
+          "short": "to suffer",
+          "long": "to have an illness or disease",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menderita",
+          "long": "untuk memiliki penyakit atau penyakit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213203.jpeg",
+      "simplified": "患病",
+      "traditional": "患病",
+      "pinyin": "huànbìng"
+    },
+    {
+      "id": 213201,
+      "translation": {
+        "en": {
+          "short": "painful",
+          "long": "making one experience pain",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "menyakitkan",
+          "long": "membuat satu pengalaman rasa sakit",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213201.jpeg",
+      "simplified": "痛苦",
+      "traditional": "痛苦",
+      "pinyin": "tòngkǔ"
+    },
+    {
+      "id": 235875,
+      "translation": {
+        "en": {
+          "short": "examination",
+          "long": "the process of looking closely at something to see if there are any issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyelidikan",
+          "long": "Proses melihat lebih dekat pada sesuatu untuk melihat apakah ada masalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235875.jpeg",
+      "simplified": "体格检查",
+      "traditional": "體格檢查",
+      "pinyin": "tǐgé jiǎn chá"
+    },
+    {
+      "id": 235881,
+      "translation": {
+        "en": {
+          "short": "test",
+          "long": "a medical examination of the body or a part of body to detect possible health issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tes",
+          "long": "Pemeriksaan medis terhadap tubuh atau bagian tubuh untuk mendeteksi kemungkinan masalah kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235881.jpeg",
+      "simplified": "测试",
+      "traditional": "測試",
+      "pinyin": "cèshì"
+    },
+    {
+      "id": 213193,
+      "translation": {
+        "en": {
+          "short": "operation",
+          "long": "a medical process in which a part of body is cut open to repair or remove a damaged organ",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi",
+          "long": "Proses medis di mana bagian tubuh dipotong terbuka untuk memperbaiki atau menghilangkan organ yang rusak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213193.jpeg",
+      "simplified": "行动",
+      "traditional": "行動",
+      "pinyin": "xíngdòng"
+    },
+    {
+      "id": 213208,
+      "translation": {
+        "en": {
+          "short": "to operate",
+          "long": "to cut open a part of the body in order to repair or remove a damaged organ",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengoperasikan",
+          "long": "untuk memotong bagian tubuh untuk memperbaiki atau menghilangkan organ yang rusak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213208.jpeg",
+      "simplified": "操作",
+      "traditional": "操作",
+      "pinyin": "cāozuò"
+    },
+    {
+      "id": 213195,
+      "translation": {
+        "en": {
+          "short": "to treat",
+          "long": "to provide medical care such as medicine or therapy to heal injuries, illnesses, or wounds and make someone better",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengobati",
+          "long": "untuk memberikan perawatan medis seperti obat atau terapi untuk menyembuhkan cedera, penyakit, atau luka dan membuat seseorang lebih baik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213195.jpeg",
+      "simplified": "治疗",
+      "traditional": "治療",
+      "pinyin": "zhìliáo"
+    },
+    {
+      "id": 213196,
+      "translation": {
+        "en": {
+          "short": "treatment",
+          "long": "an action that is done to relieve pain or cure a disease, wound, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perlakuan",
+          "long": "Tindakan yang dilakukan untuk menghilangkan rasa sakit atau menyembuhkan penyakit, luka, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213196.jpeg",
+      "simplified": "治疗",
+      "traditional": "治療",
+      "pinyin": "zhìliáo"
+    },
+    {
+      "id": 235872,
+      "translation": {
+        "en": {
+          "short": "to cure",
+          "long": "to make someone regain their health",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyembuhkan",
+          "long": "untuk membuat seseorang mendapatkan kembali kesehatan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235872.jpeg",
+      "simplified": "恢复健康",
+      "traditional": "恢復健康",
+      "pinyin": "huīfù jiànkāng"
+    },
+    {
+      "id": 235877,
+      "translation": {
+        "en": {
+          "short": "to heal",
+          "long": "to become healthy again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyembuhkan",
+          "long": "menjadi sehat lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235877.jpeg",
+      "simplified": "再次变得健康",
+      "traditional": "再次變得健康",
+      "pinyin": "zàicì biànde jiànkāng"
+    },
+    {
+      "id": 235867,
+      "translation": {
+        "en": {
+          "short": "mental",
+          "long": "relating to the health or state of the mind",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "mental",
+          "long": "berkaitan dengan kesehatan atau keadaan pikiran",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235867.jpeg",
+      "simplified": "精神的",
+      "traditional": "精神的",
+      "pinyin": "jīngshén de"
+    },
+    {
+      "id": 213202,
+      "translation": {
+        "en": {
+          "short": "to spread",
+          "long": "to affect more people or a wider area",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyebar",
+          "long": "untuk mempengaruhi lebih banyak orang atau area yang lebih luas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213202.jpeg",
+      "simplified": "变得普遍",
+      "traditional": "變得普遍",
+      "pinyin": "biànde pǔbiàn"
+    },
+    {
+      "id": 213204,
+      "translation": {
+        "en": {
+          "short": "symptom",
+          "long": "a change in the normal condition of the body of a person, which is the sign of a disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gejala",
+          "long": "perubahan kondisi normal tubuh seseorang, yang merupakan tanda penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213204.jpeg",
+      "simplified": "症状",
+      "traditional": "症狀",
+      "pinyin": "zhèngzhuàng"
+    },
+    {
+      "id": 213209,
+      "translation": {
+        "en": {
+          "short": "to recover",
+          "long": "to regain complete health after a period of sickness or injury",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memulihkan",
+          "long": "untuk mendapatkan kembali kesehatan sepenuhnya setelah periode penyakit atau cedera",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213209.jpeg",
+      "simplified": "再次变得健康",
+      "traditional": "再次變得健康",
+      "pinyin": "zàicì biànde jiànkāng"
+    },
+    {
+      "id": 235882,
+      "translation": {
+        "en": {
+          "short": "recovery",
+          "long": "the process of becoming healthy again after an injury or disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemulihan",
+          "long": "proses menjadi sehat lagi setelah cedera atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235882.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    },
+    {
+      "id": 213210,
+      "translation": {
+        "en": {
+          "short": "prescription",
+          "long": "the written instructions of a doctor that allow the patient to get the medicines needed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resep",
+          "long": "instruksi tertulis dari seorang dokter yang memungkinkan pasien untuk mendapatkan obat yang dibutuhkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213210.jpeg",
+      "simplified": "处方",
+      "traditional": "處方",
+      "pinyin": "chǔfāng"
+    },
+    {
+      "id": 235870,
+      "translation": {
+        "en": {
+          "short": "care",
+          "long": "the act of providing treatment and paying attention to the physical and emotional needs of someone or something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peduli",
+          "long": "tindakan memberikan perawatan dan memperhatikan kebutuhan fisik dan emosional seseorang atau sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235870.jpeg",
+      "simplified": "忧",
+      "traditional": "憂",
+      "pinyin": "yōu"
+    },
+    {
+      "id": 235871,
+      "translation": {
+        "en": {
+          "short": "to care for",
+          "long": "to provide treatment for or help a person or an animal that is sick or injured",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk peduli",
+          "long": "untuk memberikan perawatan atau membantu seseorang atau hewan yang sakit atau terluka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235871.jpeg",
+      "simplified": "照顾",
+      "traditional": "照顧",
+      "pinyin": "zhàogu"
+    },
+    {
+      "id": 235876,
+      "translation": {
+        "en": {
+          "short": "first aid",
+          "long": "a basic medical treatment given to someone in an emergency before they are taken to the hospital",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertolongan pertama",
+          "long": "Perawatan medis dasar yang diberikan kepada seseorang dalam keadaan darurat sebelum dibawa ke rumah sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235876.jpeg",
+      "simplified": "急救",
+      "traditional": "急救",
+      "pinyin": "jíjiù"
+    },
+    {
+      "id": 326241,
+      "translation": {
+        "en": {
+          "short": "checkup",
+          "long": "a complete medical examination of the body to see if there are any health issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemeriksaan",
+          "long": "Pemeriksaan medis lengkap terhadap tubuh untuk melihat apakah ada masalah kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/326241.jpeg",
+      "simplified": "清理",
+      "traditional": "清理",
+      "pinyin": "qīnglǐ"
+    },
+    {
+      "id": 236994,
+      "translation": {
+        "en": {
+          "short": "to weigh",
+          "long": "to have a specific weight",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Menimbang",
+          "long": "untuk memiliki berat tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236994.jpeg",
+      "simplified": "称重",
+      "traditional": "稱重",
+      "pinyin": "chēngzhòng"
+    },
+    {
+      "id": 391052,
+      "translation": {
+        "en": {
+          "short": "poison",
+          "long": "a deadly substance that can kill or seriously harm if it enters the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "racun",
+          "long": "zat mematikan yang dapat membunuh atau secara serius membahayakan jika memasuki tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391052.jpeg",
+      "simplified": "毒",
+      "traditional": "毒",
+      "pinyin": "dú"
+    },
+    {
+      "id": 391335,
+      "translation": {
+        "en": {
+          "short": "to [catch] (a|) cold",
+          "long": "to get sick with a virus that causes a runny nose, cough, and sore throat",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [menangkap] (a |) dingin",
+          "long": "Untuk sakit dengan virus yang menyebabkan hidung berair, batuk, dan sakit tenggorokan",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391335.jpeg",
+      "simplified": "生病了",
+      "traditional": "生病了",
+      "pinyin": "shēngbìng le"
+    }
+  ]
+}

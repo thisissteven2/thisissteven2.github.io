@@ -1,0 +1,412 @@
+{
+  "id": 3,
+  "title": {
+    "en": "Family",
+    "id": "Keluarga"
+  },
+  "description": {
+    "en": "Here you will learn some basic English words about family, such as \"father\", \"mother\", and  \"child\", prepared for A1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata -kata bahasa Inggris dasar tentang keluarga, seperti \"ayah\", \"ibu\", dan \"anak\", siap untuk pelajar A1."
+  },
+  "cards": [
+    {
+      "id": 208433,
+      "translation": {
+        "en": {
+          "short": "parent",
+          "long": "our mother or our father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "induk",
+          "long": "Ibu atau ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208433.jpeg",
+      "simplified": "亲",
+      "traditional": "親",
+      "pinyin": "qīn"
+    },
+    {
+      "id": 208428,
+      "translation": {
+        "en": {
+          "short": "father",
+          "long": "a child's male parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah",
+          "long": "orang tua laki -laki seorang anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208428.jpeg",
+      "simplified": "父亲",
+      "traditional": "父親",
+      "pinyin": "fùqīn"
+    },
+    {
+      "id": 208427,
+      "translation": {
+        "en": {
+          "short": "mother",
+          "long": "a child's female parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ibu",
+          "long": "Orang Tua Wanita Seorang Anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208427.jpeg",
+      "simplified": "母亲",
+      "traditional": "母親",
+      "pinyin": "mǔqīn"
+    },
+    {
+      "id": 208561,
+      "translation": {
+        "en": {
+          "short": "dad",
+          "long": "an informal way of calling our father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah",
+          "long": "cara informal untuk memanggil ayah kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208561.jpeg",
+      "simplified": "爸",
+      "traditional": "爸",
+      "pinyin": "bà"
+    },
+    {
+      "id": 208560,
+      "translation": {
+        "en": {
+          "short": "mom",
+          "long": "a woman who has given birth to a child or someone who cares for and raises a child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mama",
+          "long": "Seorang wanita yang telah melahirkan seorang anak atau seseorang yang peduli dan membesarkan anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208560.jpeg",
+      "simplified": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "māma"
+    },
+    {
+      "id": 208566,
+      "translation": {
+        "en": {
+          "short": "wife",
+          "long": "the lady you are officially married to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "istri",
+          "long": "wanita yang secara resmi Anda nikahi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208566.jpeg",
+      "simplified": "妻子",
+      "traditional": "妻子",
+      "pinyin": "qīzǐ"
+    },
+    {
+      "id": 208565,
+      "translation": {
+        "en": {
+          "short": "husband",
+          "long": "the man you are officially married to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suami",
+          "long": "Pria yang secara resmi Anda nikahi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208565.jpeg",
+      "simplified": "丈夫",
+      "traditional": "丈夫",
+      "pinyin": "zhàngfu"
+    },
+    {
+      "id": 208563,
+      "translation": {
+        "en": {
+          "short": "child",
+          "long": "a son or daughter of any age",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak",
+          "long": "seorang putra atau putri dari segala usia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208563.jpeg",
+      "simplified": "儿童",
+      "traditional": "兒童",
+      "pinyin": "értóng"
+    },
+    {
+      "id": 208431,
+      "translation": {
+        "en": {
+          "short": "son",
+          "long": "a person's male child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putra",
+          "long": "anak laki -laki seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208431.jpeg",
+      "simplified": "儿子",
+      "traditional": "兒子",
+      "pinyin": "érzi"
+    },
+    {
+      "id": 208432,
+      "translation": {
+        "en": {
+          "short": "daughter",
+          "long": "a person's female child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak perempuan",
+          "long": "anak perempuan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208432.jpeg",
+      "simplified": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚér"
+    },
+    {
+      "id": 208430,
+      "translation": {
+        "en": {
+          "short": "sister",
+          "long": "a lady who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudari",
+          "long": "seorang wanita yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208430.jpeg",
+      "simplified": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèimei"
+    },
+    {
+      "id": 208429,
+      "translation": {
+        "en": {
+          "short": "brother",
+          "long": "a man who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudara laki-laki",
+          "long": "Seorang pria yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208429.jpeg",
+      "simplified": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gēge"
+    },
+    {
+      "id": 220640,
+      "translation": {
+        "en": {
+          "short": "family",
+          "long": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keluarga",
+          "long": "Orang yang berhubungan satu sama lain dengan darah atau pernikahan, biasanya terdiri dari ayah, ibu, dan anak -anak mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220640.jpeg",
+      "simplified": "家庭",
+      "traditional": "家庭",
+      "pinyin": "jiātíng"
+    },
+    {
+      "id": 208434,
+      "translation": {
+        "en": {
+          "short": "grandmother",
+          "long": "the woman who is our mom or dad's mother",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nenek",
+          "long": "wanita yang merupakan ibu atau ibu ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208434.jpeg",
+      "simplified": "祖母",
+      "traditional": "祖母",
+      "pinyin": "zǔmǔ"
+    },
+    {
+      "id": 208435,
+      "translation": {
+        "en": {
+          "short": "grandfather",
+          "long": "the man who is our mom or dad's father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kakek",
+          "long": "Pria yang merupakan ayah atau ayah ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208435.jpeg",
+      "simplified": "祖父",
+      "traditional": "祖父",
+      "pinyin": "zǔfù"
+    },
+    {
+      "id": 208436,
+      "translation": {
+        "en": {
+          "short": "grandchild",
+          "long": "your daughter or son's child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cucu",
+          "long": "putri atau anak putra Anda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208436.jpeg",
+      "simplified": "孙子",
+      "traditional": "孫子",
+      "pinyin": "Sūnzǐ"
+    },
+    {
+      "id": 208567,
+      "translation": {
+        "en": {
+          "short": "aunt",
+          "long": "the sister of our mother or father or their sibling's wife",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tante",
+          "long": "saudara perempuan dari ibu atau ayah kita atau istri saudara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208567.jpeg",
+      "simplified": "姨妈",
+      "traditional": "姨媽",
+      "pinyin": "yímā"
+    },
+    {
+      "id": 208568,
+      "translation": {
+        "en": {
+          "short": "uncle",
+          "long": "the brother of our father or mother or their sibling's husband",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paman",
+          "long": "saudara lelaki atau ibu kami atau suami saudara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208568.jpeg",
+      "simplified": "叔叔",
+      "traditional": "叔叔",
+      "pinyin": "shūshu"
+    },
+    {
+      "id": 220432,
+      "translation": {
+        "en": {
+          "short": "niece",
+          "long": "our sister or brother's daughter, or the daughter of our husband or wife's siblings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keponakan perempuan",
+          "long": "saudara perempuan atau putri saudara laki -laki kita, atau putri dari saudara laki -laki suami atau istri kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220432.jpeg",
+      "simplified": "侄女",
+      "traditional": "侄女",
+      "pinyin": "zhínǚ"
+    },
+    {
+      "id": 220433,
+      "translation": {
+        "en": {
+          "short": "nephew",
+          "long": "our sister or brother's son, or the son of our husband or wife's siblings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keponakan laki-laki",
+          "long": "saudara perempuan atau putra saudara laki -laki kita, atau putra dari saudara suami atau istri kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220433.jpeg",
+      "simplified": "外甥",
+      "traditional": "外甥",
+      "pinyin": "wàishēng"
+    },
+    {
+      "id": 220434,
+      "translation": {
+        "en": {
+          "short": "cousin",
+          "long": "our aunt or uncle's child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepupu",
+          "long": "bibi atau anak paman kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220434.jpeg",
+      "simplified": "表哥",
+      "traditional": "表哥",
+      "pinyin": "biǎogē"
+    }
+  ]
+}

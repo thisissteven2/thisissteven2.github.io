@@ -1,0 +1,848 @@
+{
+  "id": 5858,
+  "title": {
+    "en": "Racket Sports",
+    "id": "Olahraga raket"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 395013,
+      "translation": {
+        "en": {
+          "short": "tennis",
+          "long": "a sport in which two or four players use rackets to hit a small ball backward and forward over a net",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis",
+          "long": "Olahraga di mana dua atau empat pemain menggunakan raket untuk memukul bola kecil ke belakang dan maju di atas jaring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395013.jpeg",
+      "simplified": "网球",
+      "traditional": "網球",
+      "pinyin": "wǎngqiú"
+    },
+    {
+      "id": 395012,
+      "translation": {
+        "en": {
+          "short": "badminton",
+          "long": "a sport played by two or four players who hit a lightweight object called a shuttle back and forth over a tall net using rackets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu tangkis",
+          "long": "Olahraga yang dimainkan oleh dua atau empat pemain yang menabrak benda ringan yang disebut pesawat ulang -alik bolak -balik di atas jaring tinggi menggunakan raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395012.jpeg",
+      "simplified": "羽毛球",
+      "traditional": "羽毛球",
+      "pinyin": "yǔmáo qiú"
+    },
+    {
+      "id": 395014,
+      "translation": {
+        "en": {
+          "short": "table tennis",
+          "long": "a game played on a table by two or four players who bounce a small ball on the table over a net using special rackets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis meja",
+          "long": "Sebuah permainan dimainkan di atas meja oleh dua atau empat pemain yang memantulkan bola kecil di atas meja di atas jaring menggunakan raket khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395014.jpeg",
+      "simplified": "乒乓球",
+      "traditional": "乒乓球",
+      "pinyin": "pīngpāng qiú"
+    },
+    {
+      "id": 395015,
+      "translation": {
+        "en": {
+          "short": "squash",
+          "long": "a game that involves two or more players, hitting a rubber ball against the walls of a closed court by a racket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "labu",
+          "long": "Permainan yang melibatkan dua atau lebih pemain, memukul bola karet di dinding lapangan tertutup oleh raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395015.jpeg",
+      "simplified": "壁球",
+      "traditional": "壁球",
+      "pinyin": "bìqiú"
+    },
+    {
+      "id": 395016,
+      "translation": {
+        "en": {
+          "short": "real tennis",
+          "long": "a historical indoor racket sport played in an enclosed court with various walls and openings, using a complex set of rules and scoring",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tenis Nyata",
+          "long": "Olahraga raket dalam ruangan historis yang dimainkan di lapangan tertutup dengan berbagai dinding dan bukaan, menggunakan seperangkat aturan yang kompleks dan penilaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395016.jpeg",
+      "simplified": "真正的网球",
+      "traditional": "真正的網球",
+      "pinyin": "zhēnzhèng de wǎngqiú"
+    },
+    {
+      "id": 395017,
+      "translation": {
+        "en": {
+          "short": "racquetball",
+          "long": "a game for two or four people who play with a hollow rubber ball and special rackets on a court with four walls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Racquetball",
+          "long": "Permainan untuk dua atau empat orang yang bermain dengan bola karet berlubang dan raket khusus di lapangan dengan empat dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395017.jpeg",
+      "simplified": "壁球",
+      "traditional": "壁球",
+      "pinyin": "bìqiú"
+    },
+    {
+      "id": 395019,
+      "translation": {
+        "en": {
+          "short": "to slice",
+          "long": "to hit the ball in a way that makes it spin and curve sideways or at an angle, often making it bounce low and in a different direction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengiris",
+          "long": "untuk memukul bola dengan cara yang membuatnya berputar dan melengkung ke samping atau pada sudut, sering membuatnya terpental rendah dan ke arah yang berbeda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395019.jpeg",
+      "simplified": "切片",
+      "traditional": "切片",
+      "pinyin": "qiēpiàn"
+    },
+    {
+      "id": 395020,
+      "translation": {
+        "en": {
+          "short": "smash",
+          "long": "a powerful shot with great force and speed, often seen in games like tennis or badminton",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghancurkan",
+          "long": "Tembakan yang kuat dengan kekuatan dan kecepatan besar, sering terlihat di permainan seperti tenis atau bulu tangkis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395020.jpeg",
+      "simplified": "网球运动中的重而快的击球",
+      "traditional": "網球運動中的重而快的擊球",
+      "pinyin": "wǎngqiú yùndòng zhòngdì chóng ér kuài de jīqiú"
+    },
+    {
+      "id": 395021,
+      "translation": {
+        "en": {
+          "short": "topspin",
+          "long": "stroke in racket sports such as tennis or table tennis where the player hits the ball with forward spin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Topspin",
+          "long": "Stroke dalam olahraga raket seperti tenis atau tenis meja di mana pemain memukul bola dengan putaran ke depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395021.jpeg",
+      "simplified": "上旋",
+      "traditional": "上旋",
+      "pinyin": "shǎng xuán"
+    },
+    {
+      "id": 395023,
+      "translation": {
+        "en": {
+          "short": "to receive",
+          "long": "to be ready to return a served ball in sports like badminton and tennis",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menerima",
+          "long": "siap untuk mengembalikan bola yang dilayani dalam olahraga seperti bulu tangkis dan tenis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395023.jpeg",
+      "simplified": "接收",
+      "traditional": "接收",
+      "pinyin": "jiēshōu"
+    },
+    {
+      "id": 395024,
+      "translation": {
+        "en": {
+          "short": "return",
+          "long": "the act of hitting the ball back to the opponent after it has been served or hit by the opponent in racket sports like tennis and table tennis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kembali",
+          "long": "Tindakan memukul bola kembali ke lawan setelah disajikan atau dilanda lawan dalam olahraga raket seperti tenis dan tenis meja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395024.jpeg",
+      "simplified": "归还",
+      "traditional": "歸還",
+      "pinyin": "guīhuán"
+    },
+    {
+      "id": 395025,
+      "translation": {
+        "en": {
+          "short": "drop shot",
+          "long": "a softly hit shot in sports like tennis or badminton, aimed to land just over the net and close to the opponent's side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jatuhkan tembakan",
+          "long": "Bidikan pukulan lembut dalam olahraga seperti tenis atau bulu tangkis, yang bertujuan mendarat tepat di atas jaring dan dekat dengan sisi lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395025.jpeg",
+      "simplified": "投篮",
+      "traditional": "投籃",
+      "pinyin": "tóulán"
+    },
+    {
+      "id": 395027,
+      "translation": {
+        "en": {
+          "short": "love",
+          "long": "a score of zero indicating that a player has not yet scored in a given set in sports like tennis and squash",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cinta",
+          "long": "Skor nol yang menunjukkan bahwa pemain belum mencetak gol dalam set yang diberikan dalam olahraga seperti tenis dan squash",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395027.jpeg",
+      "simplified": "爱",
+      "traditional": "愛",
+      "pinyin": "ài"
+    },
+    {
+      "id": 395028,
+      "translation": {
+        "en": {
+          "short": "ace",
+          "long": "(racket sports) a serve that the opponent fails to touch with their racket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu as",
+          "long": "(Racket Sports) Sajian yang lawan gagal menyentuh dengan raket mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395028.jpeg",
+      "simplified": "高手",
+      "traditional": "高手",
+      "pinyin": "gāoshǒu"
+    },
+    {
+      "id": 395065,
+      "translation": {
+        "en": {
+          "short": "net shot",
+          "long": "a delicate stroke played close to the net to gently drop the shuttlecock over",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan bersih",
+          "long": "Stroke halus yang diputar dekat dengan jaring untuk dengan lembut menjatuhkan shuttlecock",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395065.jpeg",
+      "simplified": "网前射门",
+      "traditional": "網前射門",
+      "pinyin": "wǎng qián shèmén"
+    },
+    {
+      "id": 395067,
+      "translation": {
+        "en": {
+          "short": "backhand grip",
+          "long": "the way a player holds the racket to hit a backhand stroke",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pegangan backhand",
+          "long": "cara seorang pemain memegang raket untuk memukul stroke backhand",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395067.jpeg",
+      "simplified": "反手握拍",
+      "traditional": "反手握拍",
+      "pinyin": "fǎnshǒu wò pāi"
+    },
+    {
+      "id": 395069,
+      "translation": {
+        "en": {
+          "short": "backhand shot",
+          "long": "a stroke in racket sports where the player hits the ball with the back of their dominant hand facing the direction of the shot",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan backhand",
+          "long": "Stroke dalam olahraga raket di mana pemain memukul bola dengan bagian belakang tangan dominan mereka menghadap ke arah tembakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395069.jpeg",
+      "simplified": "反手击球",
+      "traditional": "反手擊球",
+      "pinyin": "fǎnshǒu jīqiú"
+    },
+    {
+      "id": 395071,
+      "translation": {
+        "en": {
+          "short": "forehand grip",
+          "long": "a way of holding the racket to hit the ball or shuttlecock with the front side of the hand facing forward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Forehand Grip",
+          "long": "cara memegang raket untuk memukul bola atau shuttlecock dengan sisi depan tangan menghadap ke depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395071.jpeg",
+      "simplified": "正手握拍",
+      "traditional": "正手握拍",
+      "pinyin": "zhēng shǒu wò pāi"
+    },
+    {
+      "id": 395072,
+      "translation": {
+        "en": {
+          "short": "forehand drive",
+          "long": "a stroke in racket sports like squash where the player hits the ball on their dominant side with a forward swing motion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Forehand Drive",
+          "long": "Stroke dalam olahraga raket seperti squash di mana pemain memukul bola di sisi dominan mereka dengan gerakan ayunan ke depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395072.jpeg",
+      "simplified": "正手击球",
+      "traditional": "正手擊球",
+      "pinyin": "zhēng shǒu jīqiú"
+    },
+    {
+      "id": 395073,
+      "translation": {
+        "en": {
+          "short": "forehand shot",
+          "long": "a stroke in racket sports like tennis and squash where the player hits the ball on their dominant side with a forward swing motion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Forehand Shot",
+          "long": "Stroke dalam olahraga raket seperti tenis dan labu di mana pemain memukul bola di sisi dominan mereka dengan gerakan ayunan ke depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395073.jpeg",
+      "simplified": "正手击球",
+      "traditional": "正手擊球",
+      "pinyin": "zhēng shǒu jīqiú"
+    },
+    {
+      "id": 395077,
+      "translation": {
+        "en": {
+          "short": "shakehand grip",
+          "long": "a way of holding the paddle in table tennis similar to shaking hands, with the thumb and index finger around the handle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genggaman goyang",
+          "long": "cara memegang dayung di tenis meja mirip dengan berjabat tangan, dengan ibu jari dan jari telunjuk di sekitar pegangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395077.jpeg",
+      "simplified": "握手",
+      "traditional": "握手",
+      "pinyin": "wòshǒu"
+    },
+    {
+      "id": 395078,
+      "translation": {
+        "en": {
+          "short": "backhand drive",
+          "long": "a stroke in racket sports like badminton and tennis where the player hits the ball on their non-dominant side with a forward swing motion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drive backhand",
+          "long": "Stroke dalam olahraga raket seperti bulu tangkis dan tenis di mana pemain memukul bola di sisi non-dominan mereka dengan gerakan ayunan maju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395078.jpeg",
+      "simplified": "反手发球",
+      "traditional": "反手發球",
+      "pinyin": "fǎnshǒu fāqiú"
+    },
+    {
+      "id": 395081,
+      "translation": {
+        "en": {
+          "short": "forehand smash",
+          "long": "a powerful strike with the dominant hand's racket side in racket sports",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Forehand Smash",
+          "long": "pemogokan yang kuat dengan sisi raket tangan dominan dalam olahraga raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395081.jpeg",
+      "simplified": "正手扣球",
+      "traditional": "正手扣球",
+      "pinyin": "zhēng shǒu kòuqiú"
+    },
+    {
+      "id": 395083,
+      "translation": {
+        "en": {
+          "short": "sidespin",
+          "long": "(racket sports) the rotational spin applied to the ball, causing it to curve or swerve sideways during flight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sidespin",
+          "long": "(Racket Sports) putaran rotasi diterapkan pada bola, menyebabkannya melengkung atau berbelok ke samping selama penerbangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395083.jpeg",
+      "simplified": "侧旋",
+      "traditional": "側旋",
+      "pinyin": "cè xuán"
+    },
+    {
+      "id": 395084,
+      "translation": {
+        "en": {
+          "short": "backspin",
+          "long": "a type of spin applied to the ball in racket sports, where the ball rotates backwards as it moves through the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "backspin",
+          "long": "Jenis putaran yang diterapkan pada bola dalam olahraga raket, di mana bola berputar ke belakang saat bergerak di udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395084.jpeg",
+      "simplified": "后旋",
+      "traditional": "後旋",
+      "pinyin": "Hòu xuán"
+    },
+    {
+      "id": 395086,
+      "translation": {
+        "en": {
+          "short": "expedite rule",
+          "long": "(table tennis) a regulation that speeds up play by requiring a point to be awarded if a rally lasts longer than a specified time limit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aturan mempercepat",
+          "long": "(tenis meja) Peraturan yang mempercepat permainan dengan membutuhkan poin yang akan diberikan jika reli bertahan lebih lama dari batas waktu yang ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395086.jpeg",
+      "simplified": "加速规则",
+      "traditional": "加速規則",
+      "pinyin": "jiāsù guīzé"
+    },
+    {
+      "id": 395087,
+      "translation": {
+        "en": {
+          "short": "foot fault",
+          "long": "a fault that occurs when a player's foot touches or crosses the boundary line during a serve in a racket sport",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kesalahan kaki",
+          "long": "kesalahan yang terjadi ketika kaki pemain menyentuh atau melintasi garis batas selama servis dalam olahraga raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395087.jpeg",
+      "simplified": "足部失误",
+      "traditional": "足部失誤",
+      "pinyin": "jù bù shīwù"
+    },
+    {
+      "id": 395088,
+      "translation": {
+        "en": {
+          "short": "wood shot",
+          "long": "a stroke in racket sports where the ball or shuttlecock is hit with the racket's frame instead of the strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan kayu",
+          "long": "Stroke dalam olahraga raket di mana bola atau shuttlecock dipukul dengan bingkai raket, bukan senar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395088.jpeg",
+      "simplified": "木射击",
+      "traditional": "木射擊",
+      "pinyin": "Mù shèjī"
+    },
+    {
+      "id": 395089,
+      "translation": {
+        "en": {
+          "short": "let",
+          "long": "(racket sports) a serve that doesn't count because of a small problem, like the ball hitting the net or a distraction, and is played again",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membiarkan",
+          "long": "(Racket Sports) Servis yang tidak masuk hitungan karena masalah kecil, seperti bola yang mengenai jaring atau gangguan, dan dimainkan lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395089.jpeg",
+      "simplified": "让",
+      "traditional": "讓",
+      "pinyin": "ràng"
+    },
+    {
+      "id": 395090,
+      "translation": {
+        "en": {
+          "short": "drive",
+          "long": "a shot where the player hits the ball with power and speed in racket sports such as tennis and squash",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyetir",
+          "long": "Tembakan di mana pemain memukul bola dengan kekuatan dan kecepatan dalam olahraga raket seperti tenis dan squash",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/395090.jpeg",
+      "simplified": "传动",
+      "traditional": "傳動",
+      "pinyin": "chuándòng"
+    },
+    {
+      "id": 396685,
+      "translation": {
+        "en": {
+          "short": "backhand loop",
+          "long": "a topspin stroke executed with a backhand motion, typically in table tennis or badminton",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "loop backhand",
+          "long": "Stroke topspin dieksekusi dengan gerakan backhand, biasanya di tenis meja atau bulu tangkis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/396685.jpeg",
+      "simplified": "反手弧圈球",
+      "traditional": "反手弧圈球",
+      "pinyin": "fǎnshǒu hú juān qiú"
+    },
+    {
+      "id": 406593,
+      "translation": {
+        "en": {
+          "short": "paddle tennis",
+          "long": "a racket sport played on a smaller court surrounded by walls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis dayung",
+          "long": "Olahraga raket dimainkan di lapangan yang lebih kecil yang dikelilingi oleh dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406593.jpeg",
+      "simplified": "桨网球",
+      "traditional": "槳網球",
+      "pinyin": "jiǎng wǎngqiú"
+    },
+    {
+      "id": 406598,
+      "translation": {
+        "en": {
+          "short": "pickleball",
+          "long": "a paddle sport that combines elements of tennis, badminton, and ping-pong, played on a smaller court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pickleball",
+          "long": "Olahraga dayung yang menggabungkan unsur-unsur tenis, bulu tangkis, dan ping-pong, bermain di lapangan yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406598.jpeg",
+      "simplified": "泡菜",
+      "traditional": "泡菜",
+      "pinyin": "pàocài"
+    },
+    {
+      "id": 406607,
+      "translation": {
+        "en": {
+          "short": "platform tennis",
+          "long": "a racket sport played on a raised platform enclosed by wire fencing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tenis Platform",
+          "long": "Olahraga raket yang dimainkan pada platform terangkat yang tertutup oleh pagar kawat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406607.jpeg",
+      "simplified": "平台网球",
+      "traditional": "平台網球",
+      "pinyin": "píngtái wǎngqiú"
+    },
+    {
+      "id": 406610,
+      "translation": {
+        "en": {
+          "short": "padel",
+          "long": "a racket sport played on an enclosed court smaller than a tennis court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Padel",
+          "long": "Olahraga raket yang dimainkan di lapangan tertutup lebih kecil dari lapangan tenis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406610.jpeg",
+      "simplified": "帕德尔",
+      "traditional": "帕德爾",
+      "pinyin": "pà Dé ěr"
+    },
+    {
+      "id": 406612,
+      "translation": {
+        "en": {
+          "short": "crossminton",
+          "long": "a sport similar to badminton that is played with specially designed rackets and a shuttlecock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crossminton",
+          "long": "Olahraga yang mirip dengan bulu tangkis yang dimainkan dengan raket yang dirancang khusus dan shuttlecock",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406612.jpeg",
+      "simplified": "克罗斯敏顿",
+      "traditional": "克羅斯敏頓",
+      "pinyin": "Kè Luósī mǐn dùn"
+    },
+    {
+      "id": 406621,
+      "translation": {
+        "en": {
+          "short": "Qianball",
+          "long": "a racket sport, typically played on a court similar to squash or racquetball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Qianball",
+          "long": "Olahraga raket, biasanya dimainkan di lapangan yang mirip dengan squash atau raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406621.jpeg",
+      "simplified": "Qianball",
+      "traditional": "Q Ian ball",
+      "pinyin": "Q"
+    },
+    {
+      "id": 406623,
+      "translation": {
+        "en": {
+          "short": "racketlon",
+          "long": "a sport that combines table tennis, badminton, squash, and tennis into a single match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Racketlon",
+          "long": "Olahraga yang menggabungkan tenis meja, bulu tangkis, labu, dan tenis menjadi satu pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406623.jpeg",
+      "simplified": "拉克龙",
+      "traditional": "拉克龍",
+      "pinyin": "lā Kè Lóng"
+    },
+    {
+      "id": 406625,
+      "translation": {
+        "en": {
+          "short": "frontenis",
+          "long": "a racket sport played with a rubber ball and rackets on a three-walled court, similar to squash and handball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Frontenis",
+          "long": "Olahraga raket dimainkan dengan bola karet dan raket di lapangan berdinding tiga, mirip dengan squash dan handball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406625.jpeg",
+      "simplified": "Frontenis",
+      "traditional": "Frontenis",
+      "pinyin": ""
+    },
+    {
+      "id": 406626,
+      "translation": {
+        "en": {
+          "short": "jai alai",
+          "long": "a fast-paced racket sport originating in the Basque region, played in a three-walled court using a curved basket to fling a ball against the front wall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jai Alai",
+          "long": "Olahraga raket serba cepat yang berasal dari wilayah Basque, dimainkan di lapangan tiga berdinding menggunakan keranjang melengkung untuk melemparkan bola ke dinding depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406626.jpeg",
+      "simplified": "回力",
+      "traditional": "迴力",
+      "pinyin": "huí Lì"
+    },
+    {
+      "id": 406628,
+      "translation": {
+        "en": {
+          "short": "frescobol",
+          "long": "a Brazilian beach sport played with wooden rackets and a small rubber ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "frescobol",
+          "long": "Olahraga pantai Brasil yang dimainkan dengan raket kayu dan bola karet kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406628.jpeg",
+      "simplified": "壁画",
+      "traditional": "壁畫",
+      "pinyin": "bìhuà"
+    },
+    {
+      "id": 406630,
+      "translation": {
+        "en": {
+          "short": "road tennis",
+          "long": "a sport played on a small court with a low net and wooden paddles, primarily in Barbados",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tenis Jalan",
+          "long": "Olahraga yang dimainkan di lapangan kecil dengan jaring rendah dan dayung kayu, terutama di Barbados",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406630.jpeg",
+      "simplified": "路网球",
+      "traditional": "路網球",
+      "pinyin": "Lù wǎngqiú"
+    },
+    {
+      "id": 406642,
+      "translation": {
+        "en": {
+          "short": "sticke",
+          "long": "an indoor racket and ball game that combines elements of lawn tennis and real tennis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "STICKE",
+          "long": "permainan raket dan bola dalam ruangan yang menggabungkan elemen tenis rumput dan tenis nyata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406642.jpeg",
+      "simplified": "斯蒂克",
+      "traditional": "斯蒂克",
+      "pinyin": "Sī dì Kè"
+    },
+    {
+      "id": 406647,
+      "translation": {
+        "en": {
+          "short": "xare",
+          "long": "a traditional Basque racket sport played with a ball and a wooden racket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "xare",
+          "long": "Olahraga raket Basque tradisional dimainkan dengan bola dan raket kayu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406647.jpeg",
+      "simplified": "Xare",
+      "traditional": "Xare",
+      "pinyin": ""
+    }
+  ]
+}

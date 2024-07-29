@@ -1,0 +1,602 @@
+{
+  "id": 509,
+  "title": {
+    "en": "Flowers, Fruits, and Nuts",
+    "id": "Bunga, buah -buahan, dan kacang -kacangan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about flowers, fruits, and nuts, such as \"orchid\", \"watermelon\", and \"almond\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang bunga, buah -buahan, dan kacang -kacangan, seperti \"anggrek\", \"semangka\", dan \"almond\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 221530,
+      "translation": {
+        "en": {
+          "short": "farm",
+          "long": "an area of land and its buildings, used for growing crops or keeping animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peternakan",
+          "long": "area tanah dan bangunannya, digunakan untuk menanam tanaman atau memelihara hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221530.jpeg",
+      "simplified": "农场",
+      "traditional": "農場",
+      "pinyin": "nóngchǎng"
+    },
+    {
+      "id": 235963,
+      "translation": {
+        "en": {
+          "short": "farming",
+          "long": "the activity of working on a farm and growing crops or producing animal products by raising them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertanian",
+          "long": "aktivitas bekerja di peternakan dan menanam tanaman atau memproduksi produk hewani dengan membesarkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235963.jpeg",
+      "simplified": "农业",
+      "traditional": "農業",
+      "pinyin": "nóngyè"
+    },
+    {
+      "id": 221528,
+      "translation": {
+        "en": {
+          "short": "to pick",
+          "long": "to take a flower or fruit from its plant with our fingers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memilih",
+          "long": "untuk mengambil bunga atau buah dari tanamannya dengan jari -jari kita",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221528.jpeg",
+      "simplified": "采摘（花、水果等）",
+      "traditional": "採摘（花、水果等）",
+      "pinyin": "cǎizhāi Huā shuǐguǒ děng"
+    },
+    {
+      "id": 221529,
+      "translation": {
+        "en": {
+          "short": "to plant",
+          "long": "to put a seed, plant, etc. in the ground to grow",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menanam",
+          "long": "untuk meletakkan benih, tanaman, dll di tanah untuk tumbuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221529.jpeg",
+      "simplified": "植物",
+      "traditional": "植物",
+      "pinyin": "zhíwù"
+    },
+    {
+      "id": 221537,
+      "translation": {
+        "en": {
+          "short": "to water",
+          "long": "to pour water on the ground to make plants grow in it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk air",
+          "long": "untuk menuangkan air ke tanah agar tanaman tumbuh di dalamnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221537.jpeg",
+      "simplified": "给水",
+      "traditional": "給水",
+      "pinyin": "jǐshuǐ"
+    },
+    {
+      "id": 235831,
+      "translation": {
+        "en": {
+          "short": "to grow",
+          "long": "to cause a plant to develop and give fruit or flowers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tumbuh",
+          "long": "menyebabkan tanaman berkembang dan memberi buah atau bunga",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235831.jpeg",
+      "simplified": "培育水果或植物",
+      "traditional": "培育水果或植物",
+      "pinyin": "péiyù shuǐguǒ huò zhíwù"
+    },
+    {
+      "id": 235961,
+      "translation": {
+        "en": {
+          "short": "to produce",
+          "long": "to raise or grow something naturally, in large numbers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghasilkan",
+          "long": "untuk meningkatkan atau menumbuhkan sesuatu secara alami, dalam jumlah besar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235961.jpeg",
+      "simplified": "种植水果或蔬菜",
+      "traditional": "種植水果或蔬菜",
+      "pinyin": "zhòngzhí shuǐguǒ huò shūcài"
+    },
+    {
+      "id": 235962,
+      "translation": {
+        "en": {
+          "short": "to feed",
+          "long": "to give food to a person or an animal",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memberi makan",
+          "long": "untuk memberikan makanan kepada seseorang atau hewan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235962.jpeg",
+      "simplified": "喂食",
+      "traditional": "餵食",
+      "pinyin": "wèishí"
+    },
+    {
+      "id": 220922,
+      "translation": {
+        "en": {
+          "short": "strawberry",
+          "long": "a soft, red juicy fruit with small seeds on its surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stroberi",
+          "long": "Buah berair merah lembut dengan biji kecil di permukaannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220922.jpeg",
+      "simplified": "草莓",
+      "traditional": "草莓",
+      "pinyin": "cǎoméi"
+    },
+    {
+      "id": 220923,
+      "translation": {
+        "en": {
+          "short": "blueberry",
+          "long": "a sweet small fruit dark blue in color, grown in North America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blueberry",
+          "long": "Buah kecil manis berwarna biru gelap, ditanam di Amerika Utara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220923.jpeg",
+      "simplified": "蓝莓",
+      "traditional": "藍莓",
+      "pinyin": "lánméi"
+    },
+    {
+      "id": 220925,
+      "translation": {
+        "en": {
+          "short": "watermelon",
+          "long": "a large, round, and juicy fruit that is red on the inside and has green stripes on its hard and thick skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semangka",
+          "long": "Buah besar, bulat, dan berair yang merah di bagian dalam dan memiliki garis -garis hijau di kulitnya yang keras dan tebal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220925.jpeg",
+      "simplified": "西瓜",
+      "traditional": "西瓜",
+      "pinyin": "xīguā"
+    },
+    {
+      "id": 220927,
+      "translation": {
+        "en": {
+          "short": "pear",
+          "long": "a sweet yellow or green bell-shaped fruit with a lot of juice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pir",
+          "long": "buah berbentuk lonceng kuning atau hijau manis dengan banyak jus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220927.jpeg",
+      "simplified": "梨",
+      "traditional": "梨",
+      "pinyin": "lí"
+    },
+    {
+      "id": 220928,
+      "translation": {
+        "en": {
+          "short": "pineapple",
+          "long": "a sweet large and tropical fruit that has brown skin, pointy leaves, and yellow flesh which is very juicy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nanas",
+          "long": "Buah besar dan tropis yang manis yang memiliki kulit coklat, daun runcing, dan daging kuning yang sangat berair",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220928.jpeg",
+      "simplified": "菠萝",
+      "traditional": "鳳梨",
+      "pinyin": "bōluó"
+    },
+    {
+      "id": 220931,
+      "translation": {
+        "en": {
+          "short": "mango",
+          "long": "a sweet yellow fruit with a thin skin that grows in hot areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buah mangga",
+          "long": "Buah kuning manis dengan kulit tipis yang tumbuh di area panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220931.jpeg",
+      "simplified": "芒果",
+      "traditional": "芒果",
+      "pinyin": "mángguǒ"
+    },
+    {
+      "id": 220932,
+      "translation": {
+        "en": {
+          "short": "kiwi",
+          "long": "an oval fruit with hairy brown skin and green flesh",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kiwi",
+          "long": "buah oval dengan kulit coklat berbulu dan daging hijau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220932.jpeg",
+      "simplified": "猕猴桃",
+      "traditional": "奇異果",
+      "pinyin": "míhóu táo"
+    },
+    {
+      "id": 220934,
+      "translation": {
+        "en": {
+          "short": "avocado",
+          "long": "a bell-shaped tropical fruit with bright green flesh, dark skin and a big stony seed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alpukat",
+          "long": "Buah tropis berbentuk lonceng dengan daging hijau cerah, kulit gelap dan biji berbatu besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220934.jpeg",
+      "simplified": "鳄梨",
+      "traditional": "鱷梨",
+      "pinyin": "èlí"
+    },
+    {
+      "id": 220933,
+      "translation": {
+        "en": {
+          "short": "grapefruit",
+          "long": "a round, citrusy fruit with yellow-orange skin, like a large orange",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jeruk bali",
+          "long": "Buah bulat, jeruk dengan kulit oranye kuning, seperti jeruk besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220933.jpeg",
+      "simplified": "柚子",
+      "traditional": "柚子",
+      "pinyin": "yòuzi"
+    },
+    {
+      "id": 221531,
+      "translation": {
+        "en": {
+          "short": "rose",
+          "long": "a garden plant or its flower that has thorns, smells nice, and comes in different colors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mawar",
+          "long": "tanaman kebun atau bunganya yang memiliki duri, baunya enak, dan datang dalam berbagai warna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221531.jpeg",
+      "simplified": "玫瑰",
+      "traditional": "玫瑰",
+      "pinyin": "méiguī"
+    },
+    {
+      "id": 221533,
+      "translation": {
+        "en": {
+          "short": "lily",
+          "long": "a plant with large bell-shaped flowers, typically white",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bunga bakung",
+          "long": "tanaman dengan bunga berbentuk lonceng besar, biasanya putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221533.jpeg",
+      "simplified": "百合",
+      "traditional": "百合",
+      "pinyin": "bǎihé"
+    },
+    {
+      "id": 221532,
+      "translation": {
+        "en": {
+          "short": "orchid",
+          "long": "a plant with flowers in unusual shapes and bright colors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggrek",
+          "long": "tanaman dengan bunga dalam bentuk yang tidak biasa dan warna -warna cerah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221532.jpeg",
+      "simplified": "兰花",
+      "traditional": "蘭花",
+      "pinyin": "lánhuā"
+    },
+    {
+      "id": 221535,
+      "translation": {
+        "en": {
+          "short": "sunflower",
+          "long": "a plant with a tall stem and a round yellow flower",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bunga matahari",
+          "long": "tanaman dengan batang tinggi dan bunga kuning bundar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221535.jpeg",
+      "simplified": "向日葵",
+      "traditional": "向日葵",
+      "pinyin": "xiàngrì kuí"
+    },
+    {
+      "id": 221536,
+      "translation": {
+        "en": {
+          "short": "cactus",
+          "long": "a desert plant with a lot of spines on a thick stem that stores water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaktus",
+          "long": "tanaman gurun dengan banyak duri di batang tebal yang menyimpan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221536.jpeg",
+      "simplified": "仙人掌",
+      "traditional": "仙人掌",
+      "pinyin": "xiānrén zhǎng"
+    },
+    {
+      "id": 220924,
+      "translation": {
+        "en": {
+          "short": "nut",
+          "long": "a small fruit with a seed inside a hard shell that grows on some trees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "buah kecil dengan biji di dalam cangkang keras yang tumbuh di beberapa pohon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220924.jpeg",
+      "simplified": "坚果",
+      "traditional": "堅果",
+      "pinyin": "jiānguǒ"
+    },
+    {
+      "id": 220943,
+      "translation": {
+        "en": {
+          "short": "peanut",
+          "long": "a type of nut that could be eaten, growing underground in a thin shell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "Jenis kacang yang bisa dimakan, tumbuh di bawah tanah dalam cangkang tipis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220943.jpeg",
+      "simplified": "花生",
+      "traditional": "花生",
+      "pinyin": "huāshēng"
+    },
+    {
+      "id": 220937,
+      "translation": {
+        "en": {
+          "short": "walnut",
+          "long": "a brown nut which is shaped like human brain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kenari",
+          "long": "kacang coklat yang berbentuk seperti otak manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220937.jpeg",
+      "simplified": "核桃",
+      "traditional": "核桃",
+      "pinyin": "hétao"
+    },
+    {
+      "id": 220942,
+      "translation": {
+        "en": {
+          "short": "hazelnut",
+          "long": "a round nut that can be eaten and has a brown shell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kemiri",
+          "long": "kacang bundar yang bisa dimakan dan memiliki cangkang coklat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220942.jpeg",
+      "simplified": "榛子",
+      "traditional": "榛子",
+      "pinyin": "zhēnzi"
+    },
+    {
+      "id": 220935,
+      "translation": {
+        "en": {
+          "short": "almond",
+          "long": "a sweet oval nut with a pale brown shell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badam",
+          "long": "Kacang oval manis dengan cangkang coklat pucat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220935.jpeg",
+      "simplified": "杏仁",
+      "traditional": "杏仁",
+      "pinyin": "xìngrén"
+    },
+    {
+      "id": 220939,
+      "translation": {
+        "en": {
+          "short": "pecan",
+          "long": "a sweet oval nut with a dark brown shell that grows in America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pecan",
+          "long": "Kacang oval manis dengan cangkang coklat gelap yang tumbuh di Amerika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220939.jpeg",
+      "simplified": "美国胡桃木",
+      "traditional": "美國胡桃木",
+      "pinyin": "Měiguó hútáo Mù"
+    },
+    {
+      "id": 221526,
+      "translation": {
+        "en": {
+          "short": "hard",
+          "long": "very difficult to cut, bend, or break",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "keras",
+          "long": "sangat sulit untuk dipotong, menekuk, atau menghancurkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221526.jpeg",
+      "simplified": "坚硬",
+      "traditional": "堅硬",
+      "pinyin": "jiānyìng"
+    },
+    {
+      "id": 221527,
+      "translation": {
+        "en": {
+          "short": "soft",
+          "long": "gentle to the touch and easy to change the shape with pressure",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lembut",
+          "long": "lembut saat disentuh dan mudah mengubah bentuk dengan tekanan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221527.jpeg",
+      "simplified": "柔软的",
+      "traditional": "柔軟的",
+      "pinyin": "róuruǎn de"
+    },
+    {
+      "id": 391206,
+      "translation": {
+        "en": {
+          "short": "to smell",
+          "long": "to release a particular scent",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencium",
+          "long": "untuk melepaskan aroma tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391206.jpeg",
+      "simplified": "有特殊气味",
+      "traditional": "有特殊氣味",
+      "pinyin": "yǒu tèshū qìwèi"
+    }
+  ]
+}

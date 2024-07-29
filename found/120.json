@@ -1,0 +1,545 @@
+{
+  "id": 120,
+  "title": {
+    "en": "The Human Body",
+    "id": "Tubuh manusia"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the human body, such as \"skin\", \"bone\", and \"skull\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang tubuh manusia, seperti \"kulit\", \"tulang\", dan \"tengkorak\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 220735,
+      "translation": {
+        "en": {
+          "short": "skin",
+          "long": "the thin layer of tissue that covers the body of a person or an animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kulit",
+          "long": "lapisan tipis jaringan yang menutupi tubuh seseorang atau hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220735.jpeg",
+      "simplified": "皮肤",
+      "traditional": "皮膚",
+      "pinyin": "pífū"
+    },
+    {
+      "id": 211751,
+      "translation": {
+        "en": {
+          "short": "blood",
+          "long": "the red liquid that the heart pumps through the body, carrying oxygen to and carbon dioxide from the tissues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "darah",
+          "long": "cairan merah yang dipompa jantung melalui tubuh, membawa oksigen ke dan karbon dioksida dari jaringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211751.jpeg",
+      "simplified": "血液",
+      "traditional": "血液",
+      "pinyin": "xuèyè"
+    },
+    {
+      "id": 211752,
+      "translation": {
+        "en": {
+          "short": "bone",
+          "long": "any of the hard pieces making up the skeleton in humans and some animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tulang",
+          "long": "Potongan keras salah satu yang membentuk kerangka pada manusia dan beberapa hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211752.jpeg",
+      "simplified": "骨",
+      "traditional": "骨",
+      "pinyin": "gǔ"
+    },
+    {
+      "id": 211770,
+      "translation": {
+        "en": {
+          "short": "muscle",
+          "long": "a piece of body tissue that is made tight or relaxed when we want to move a particular part of our body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "otot",
+          "long": "Sepotong jaringan tubuh yang dibuat kencang atau rileks saat kita ingin memindahkan bagian tertentu dari tubuh kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211770.jpeg",
+      "simplified": "肌肉",
+      "traditional": "肌肉",
+      "pinyin": "jīròu"
+    },
+    {
+      "id": 211764,
+      "translation": {
+        "en": {
+          "short": "chest",
+          "long": "the front part of the body between the neck and the stomach",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dada",
+          "long": "bagian depan tubuh antara leher dan perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211764.jpeg",
+      "simplified": "胸部",
+      "traditional": "胸部",
+      "pinyin": "xiōngbù"
+    },
+    {
+      "id": 211762,
+      "translation": {
+        "en": {
+          "short": "backbone",
+          "long": "a line of connected bones going down from your neck to tail bone in the middle of the back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tulang punggung",
+          "long": "Garis tulang yang terhubung turun dari leher Anda ke tulang ekor di tengah punggung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211762.jpeg",
+      "simplified": "骨干",
+      "traditional": "骨幹",
+      "pinyin": "gǔgàn"
+    },
+    {
+      "id": 211774,
+      "translation": {
+        "en": {
+          "short": "breath",
+          "long": "the air taken into or sent out from the lungs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "napas",
+          "long": "Udara diambil atau dikirim dari paru -paru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211774.jpeg",
+      "simplified": "气息",
+      "traditional": "氣息",
+      "pinyin": "qìxī"
+    },
+    {
+      "id": 211772,
+      "translation": {
+        "en": {
+          "short": "breathing",
+          "long": "the action of taking air into the lungs and sending it out again",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernafasan",
+          "long": "aksi membawa udara ke paru -paru dan mengirimkannya lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211772.jpeg",
+      "simplified": "呼吸",
+      "traditional": "呼吸",
+      "pinyin": "hūxī"
+    },
+    {
+      "id": 211754,
+      "translation": {
+        "en": {
+          "short": "fat",
+          "long": "a substance in the bodies of animals and humans, stored under the skin, which helps them keep warm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gemuk",
+          "long": "zat dalam tubuh hewan dan manusia, disimpan di bawah kulit, yang membantu mereka tetap hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211754.jpeg",
+      "simplified": "脂肪",
+      "traditional": "脂肪",
+      "pinyin": "zhīfáng"
+    },
+    {
+      "id": 221175,
+      "translation": {
+        "en": {
+          "short": "skull",
+          "long": "the bony structure that surrounds and provides protection for a person's or animal's brain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tengkorak",
+          "long": "struktur tulang yang mengelilingi dan memberikan perlindungan untuk otak seseorang atau hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221175.jpeg",
+      "simplified": "颅骨",
+      "traditional": "顱骨",
+      "pinyin": "lúgǔ"
+    },
+    {
+      "id": 221177,
+      "translation": {
+        "en": {
+          "short": "gum",
+          "long": "the firm, pink flesh around the roots of teeth at the top and bottom of the mouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gusi",
+          "long": "Daging merah muda di sekitar akar gigi di bagian atas dan bawah mulut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221177.jpeg",
+      "simplified": "牙龈",
+      "traditional": "牙齦",
+      "pinyin": "yáyín"
+    },
+    {
+      "id": 221179,
+      "translation": {
+        "en": {
+          "short": "eyelash",
+          "long": "any of the short hairs that grow along the edges of the eyelids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu mata",
+          "long": "Rambut pendek mana pun yang tumbuh di sepanjang tepi kelopak mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221179.jpeg",
+      "simplified": "睫毛",
+      "traditional": "睫毛",
+      "pinyin": "jiémáo"
+    },
+    {
+      "id": 221180,
+      "translation": {
+        "en": {
+          "short": "palm",
+          "long": "the inner surface of the hand between the wrist and fingers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telapak",
+          "long": "permukaan bagian dalam tangan antara pergelangan tangan dan jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221180.jpeg",
+      "simplified": "棕榈",
+      "traditional": "棕櫚",
+      "pinyin": "zōnglǘ"
+    },
+    {
+      "id": 221181,
+      "translation": {
+        "en": {
+          "short": "forearm",
+          "long": "the lower part of the arm, between the elbow and the wrist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lengan bawah",
+          "long": "bagian bawah lengan, antara siku dan pergelangan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221181.jpeg",
+      "simplified": "前臂",
+      "traditional": "前臂",
+      "pinyin": "qiánbì"
+    },
+    {
+      "id": 221182,
+      "translation": {
+        "en": {
+          "short": "thigh",
+          "long": "the top part of the leg between the hip and the knee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paha",
+          "long": "Bagian atas kaki antara pinggul dan lutut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221182.jpeg",
+      "simplified": "大腿",
+      "traditional": "大腿",
+      "pinyin": "dàtuǐ"
+    },
+    {
+      "id": 221183,
+      "translation": {
+        "en": {
+          "short": "heel",
+          "long": "the back part of the foot, below the ankle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tumit",
+          "long": "bagian belakang kaki, di bawah pergelangan kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221183.jpeg",
+      "simplified": "脚跟",
+      "traditional": "腳跟",
+      "pinyin": "jiǎogēn"
+    },
+    {
+      "id": 221184,
+      "translation": {
+        "en": {
+          "short": "throat",
+          "long": "a passage in the neck through which food and air pass",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenggorokan",
+          "long": "Sebuah lorong di leher tempat makanan dan udara lewat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221184.jpeg",
+      "simplified": "喉",
+      "traditional": "喉",
+      "pinyin": "hóu"
+    },
+    {
+      "id": 221185,
+      "translation": {
+        "en": {
+          "short": "physical",
+          "long": "related to the body rather than the mind",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "fisik",
+          "long": "terkait dengan tubuh daripada pikiran",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221185.jpeg",
+      "simplified": "身体的",
+      "traditional": "身體的",
+      "pinyin": "shēntǐ de"
+    },
+    {
+      "id": 221186,
+      "translation": {
+        "en": {
+          "short": "physically",
+          "long": "in relation to the body as opposed to the mind",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara fisik",
+          "long": "dalam kaitannya dengan tubuh yang bertentangan dengan pikiran",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221186.jpeg",
+      "simplified": "身体上的",
+      "traditional": "身體上的",
+      "pinyin": "shēntǐ shǎng de"
+    },
+    {
+      "id": 221187,
+      "translation": {
+        "en": {
+          "short": "strong",
+          "long": "having a lot of physical power",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kuat",
+          "long": "memiliki banyak kekuatan fisik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221187.jpeg",
+      "simplified": "强的",
+      "traditional": "強的",
+      "pinyin": "Qiáng de"
+    },
+    {
+      "id": 221188,
+      "translation": {
+        "en": {
+          "short": "weak",
+          "long": "lacking physical strength or energy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lemah",
+          "long": "Kurangnya kekuatan fisik atau energi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221188.jpeg",
+      "simplified": "虚弱的",
+      "traditional": "虛弱的",
+      "pinyin": "xūruò de"
+    },
+    {
+      "id": 239235,
+      "translation": {
+        "en": {
+          "short": "wrist",
+          "long": "the joint connecting the hand to the arm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pergelangan tangan",
+          "long": "sambungan yang menghubungkan tangan ke lengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239235.jpeg",
+      "simplified": "腕",
+      "traditional": "腕",
+      "pinyin": "wàn"
+    },
+    {
+      "id": 388543,
+      "translation": {
+        "en": {
+          "short": "brain",
+          "long": "the body part that is inside our head controlling how we feel, think, move, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "otak",
+          "long": "Bagian tubuh yang ada di dalam kepala kita mengendalikan apa yang kita rasakan, pikirkan, bergerak, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388543.jpeg",
+      "simplified": "人的大脑",
+      "traditional": "人的大腦",
+      "pinyin": "rén de dànǎo"
+    },
+    {
+      "id": 239237,
+      "translation": {
+        "en": {
+          "short": "elbow",
+          "long": "the joint where the upper and lower parts of the arm bend",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siku",
+          "long": "sendi di mana bagian atas dan bawah lengan menekuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239237.jpeg",
+      "simplified": "弯头",
+      "traditional": "彎頭",
+      "pinyin": "wān tóu"
+    },
+    {
+      "id": 388544,
+      "translation": {
+        "en": {
+          "short": "finger",
+          "long": "each of the long thin parts that are connected to our hands, sometimes the thumb is not included",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jari",
+          "long": "masing -masing bagian tipis yang terhubung ke tangan kita, kadang -kadang ibu jari tidak termasuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388544.jpeg",
+      "simplified": "手指",
+      "traditional": "手指",
+      "pinyin": "shǒuzhǐ"
+    },
+    {
+      "id": 388546,
+      "translation": {
+        "en": {
+          "short": "heart",
+          "long": "the body part that pushes the blood to go to all parts of our body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jantung",
+          "long": "bagian tubuh yang mendorong darah untuk pergi ke semua bagian tubuh kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388546.jpeg",
+      "simplified": "心",
+      "traditional": "心",
+      "pinyin": "xīn"
+    },
+    {
+      "id": 244169,
+      "translation": {
+        "en": {
+          "short": "human",
+          "long": "a person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "manusia",
+          "long": "seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244169.jpeg",
+      "simplified": "人类",
+      "traditional": "人類",
+      "pinyin": "rénlèi"
+    },
+    {
+      "id": 388547,
+      "translation": {
+        "en": {
+          "short": "shoulder",
+          "long": "each of the two parts of the body between the top of the arms and the neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahu",
+          "long": "masing -masing dari dua bagian tubuh antara bagian atas lengan dan leher",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388547.jpeg",
+      "simplified": "肩",
+      "traditional": "肩",
+      "pinyin": "jiān"
+    }
+  ]
+}

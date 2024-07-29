@@ -1,0 +1,620 @@
+{
+  "id": 5842,
+  "title": {
+    "en": "Sports Events",
+    "id": "Acara olah raga"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394370,
+      "translation": {
+        "en": {
+          "short": "World Baseball Classic",
+          "long": "an international baseball tournament featuring teams from around the world competing to determine the global champion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Klasik Baseball Dunia",
+          "long": "Turnamen bisbol internasional yang menampilkan tim -tim dari seluruh dunia yang bersaing untuk menentukan juara global",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394370.jpeg",
+      "simplified": "世界棒球经典赛",
+      "traditional": "世界棒球經典賽",
+      "pinyin": "shìjiè bàngqiú jīngdiǎn sài"
+    },
+    {
+      "id": 394372,
+      "translation": {
+        "en": {
+          "short": "NBA Finals",
+          "long": "the championship series of the NBA, featuring the top teams from the Eastern and Western Conferences in a best-of-seven showdown to determine the league champion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Final NBA",
+          "long": "Seri Kejuaraan NBA, yang menampilkan tim-tim top dari konferensi Timur dan Barat dalam pertikaian terbaik untuk menentukan juara liga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394372.jpeg",
+      "simplified": "NBA总决赛",
+      "traditional": "NBA總決賽",
+      "pinyin": "bī A zǒngjué sài"
+    },
+    {
+      "id": 394374,
+      "translation": {
+        "en": {
+          "short": "ICC World Cup",
+          "long": "a top international cricket tournament where national teams compete for the world championship title in one-day matches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piala Dunia ICC",
+          "long": "Turnamen kriket internasional teratas di mana tim nasional bersaing untuk mendapatkan gelar Kejuaraan Dunia dalam pertandingan satu hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394374.jpeg",
+      "simplified": "国际商会世界杯",
+      "traditional": "國際商會世界杯",
+      "pinyin": "Guójì Shāng huì Shìjiè bēi"
+    },
+    {
+      "id": 394376,
+      "translation": {
+        "en": {
+          "short": "UCI World Championships",
+          "long": "an annual cycling event where riders compete for world titles in various disciplines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Dunia UCI",
+          "long": "Acara Bersepeda Tahunan di mana pengendara bersaing untuk mendapatkan gelar dunia dalam berbagai disiplin ilmu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394376.jpeg",
+      "simplified": "UCI世界锦标赛",
+      "traditional": "UCI世界錦標賽",
+      "pinyin": "shìjiè jǐnbiāo sài"
+    },
+    {
+      "id": 394377,
+      "translation": {
+        "en": {
+          "short": "tour de france",
+          "long": "a cycling race consisting of 21 stages held annually for men primarily in France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tour de France",
+          "long": "Perlombaan bersepeda yang terdiri dari 21 tahap yang diadakan setiap tahun untuk pria terutama di Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394377.jpeg",
+      "simplified": "环法自行车赛",
+      "traditional": "環法自行車賽",
+      "pinyin": "HuánFǎ Zì xíng chē sài"
+    },
+    {
+      "id": 394379,
+      "translation": {
+        "en": {
+          "short": "Ryder Cup",
+          "long": "a golf competition that takes place every two years between teams from Europe and the United States",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piala Ryder",
+          "long": "Kompetisi golf yang berlangsung setiap dua tahun antara tim dari Eropa dan Amerika Serikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394379.jpeg",
+      "simplified": "莱德杯",
+      "traditional": "萊德杯",
+      "pinyin": "Láidé bēi"
+    },
+    {
+      "id": 394381,
+      "translation": {
+        "en": {
+          "short": "World Equestrian Games",
+          "long": "a major international equestrian competition featuring multiple disciplines and held every four years",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Permainan berkuda dunia",
+          "long": "Kompetisi berkuda internasional utama yang menampilkan banyak disiplin ilmu dan diadakan setiap empat tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394381.jpeg",
+      "simplified": "世界马术运动会",
+      "traditional": "世界馬術運動會",
+      "pinyin": "shìjiè mǎshù yùndòng huì"
+    },
+    {
+      "id": 394383,
+      "translation": {
+        "en": {
+          "short": "World Fencing Championships",
+          "long": "an annual competition where top fencers from around the globe compete for world titles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Pagar Dunia",
+          "long": "Kompetisi tahunan di mana pemain anggar teratas dari seluruh dunia bersaing untuk mendapatkan gelar dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394383.jpeg",
+      "simplified": "世界击剑锦标赛",
+      "traditional": "世界擊劍錦標賽",
+      "pinyin": "shìjiè jījiàn jǐnbiāo sài"
+    },
+    {
+      "id": 394385,
+      "translation": {
+        "en": {
+          "short": "Artistic Gymnastics World Championships",
+          "long": "an annual international competition where gymnasts compete for world titles in various apparatus events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Dunia Senam Artistik",
+          "long": "Kompetisi internasional tahunan di mana pesenam bersaing untuk mendapatkan gelar dunia di berbagai acara peralatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394385.jpeg",
+      "simplified": "艺术体操世界锦标赛",
+      "traditional": "藝術體操世界錦標賽",
+      "pinyin": "yìshù tǐ cāo shìjiè jǐnbiāo sài"
+    },
+    {
+      "id": 394388,
+      "translation": {
+        "en": {
+          "short": "Super Bowl",
+          "long": "a yearly football competition held in America where the two best professional teams play against each other to win the National Football League",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Super Bowl",
+          "long": "Kompetisi sepak bola tahunan yang diadakan di Amerika di mana dua tim profesional terbaik bermain melawan satu sama lain untuk memenangkan National Football League",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394388.jpeg",
+      "simplified": "超级碗",
+      "traditional": "超級碗",
+      "pinyin": "Chāojí Wǎn"
+    },
+    {
+      "id": 394390,
+      "translation": {
+        "en": {
+          "short": "FIFA World Cup",
+          "long": "an international soccer tournament held every four years, featuring teams from around the world competing for the championship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piala Dunia FIFA",
+          "long": "Turnamen sepak bola internasional diadakan setiap empat tahun, menampilkan tim dari seluruh dunia yang bersaing untuk kejuaraan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394390.jpeg",
+      "simplified": "世界杯",
+      "traditional": "世界杯",
+      "pinyin": "Shìjiè bēi"
+    },
+    {
+      "id": 394392,
+      "translation": {
+        "en": {
+          "short": "Asian Cup",
+          "long": "a soccer tournament held every four years for national teams from Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piala Asia",
+          "long": "Turnamen sepak bola yang diadakan setiap empat tahun untuk tim nasional dari Asia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394392.jpeg",
+      "simplified": "亚洲杯",
+      "traditional": "亞洲杯",
+      "pinyin": "Yàzhōu bēi"
+    },
+    {
+      "id": 394396,
+      "translation": {
+        "en": {
+          "short": "Rugby World Cup",
+          "long": "a global rugby tournament where national teams compete for the world championship title",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Piala Dunia Rugby",
+          "long": "Turnamen Rugby Global di mana tim nasional bersaing untuk mendapatkan gelar Kejuaraan Dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394396.jpeg",
+      "simplified": "橄榄球世界杯",
+      "traditional": "橄欖球世界杯",
+      "pinyin": "gǎnlǎn qiú Shìjiè bēi"
+    },
+    {
+      "id": 394398,
+      "translation": {
+        "en": {
+          "short": "Six Nations Championship",
+          "long": "an annual rugby union competition between six European nations: England, France, Ireland, Italy, Scotland, and Wales",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Enam Bangsa",
+          "long": "Kompetisi serikat rugby tahunan antara enam negara Eropa: Inggris, Prancis, Irlandia, Italia, Skotlandia, dan Wales",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394398.jpeg",
+      "simplified": "六国冠军",
+      "traditional": "六國冠軍",
+      "pinyin": "liù Guó guànjūn"
+    },
+    {
+      "id": 394400,
+      "translation": {
+        "en": {
+          "short": "Wimbledon",
+          "long": "an annual tennis tournament in London, known for being one of the four Grand Slam events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wimbledon",
+          "long": "Turnamen tenis tahunan di London, yang dikenal sebagai salah satu dari empat acara Grand Slam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394400.jpeg",
+      "simplified": "温布尔登",
+      "traditional": "溫布爾登",
+      "pinyin": "Wēnbù ěr dēng"
+    },
+    {
+      "id": 394402,
+      "translation": {
+        "en": {
+          "short": "World Triathlon Championship Series",
+          "long": "an annual series of elite triathlon competitions culminating in a world champion title",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seri Kejuaraan Triathlon Dunia",
+          "long": "Serangkaian tahunan kompetisi triathlon elit yang berpuncak pada gelar juara dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394402.jpeg",
+      "simplified": "世界铁人三项冠军系列赛",
+      "traditional": "世界鐵人三項冠軍系列賽",
+      "pinyin": "shìjiè tiěrén sān xiàng guànjūn xìliè sài"
+    },
+    {
+      "id": 394404,
+      "translation": {
+        "en": {
+          "short": "World Weightlifting Championships",
+          "long": "an annual competition where elite weightlifters compete for world titles in various weight categories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan angkat besi dunia",
+          "long": "Kompetisi tahunan di mana elite angkat besi bersaing untuk mendapatkan gelar dunia dalam berbagai kategori berat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394404.jpeg",
+      "simplified": "世界举重冠军",
+      "traditional": "世界舉重冠軍",
+      "pinyin": "shìjiè jǔzhòng guànjūn"
+    },
+    {
+      "id": 394406,
+      "translation": {
+        "en": {
+          "short": "World Aquatics Championships",
+          "long": "a global competition where athletes compete in various water sports, including swimming, diving, and water polo",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Akuatik Dunia",
+          "long": "Kompetisi global di mana atlet bersaing dalam berbagai olahraga air, termasuk berenang, menyelam, dan polo air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394406.jpeg",
+      "simplified": "世界水上运动锦标赛",
+      "traditional": "世界水上運動錦標賽",
+      "pinyin": "shìjiè shuǐshàng yùn dòng jǐnbiāo sài"
+    },
+    {
+      "id": 394408,
+      "translation": {
+        "en": {
+          "short": "Table Tennis World Championships",
+          "long": "an international tournament where players compete for world titles in various table tennis events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Dunia Tenis Meja",
+          "long": "Turnamen internasional tempat para pemain bersaing untuk mendapatkan gelar dunia di berbagai acara tenis meja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394408.jpeg",
+      "simplified": "乒乓球世界锦标赛",
+      "traditional": "乒乓球世界錦標賽",
+      "pinyin": "pīngpāng qiú shìjiè jǐnbiāo sài"
+    },
+    {
+      "id": 394410,
+      "translation": {
+        "en": {
+          "short": "ISA World Surfing Games",
+          "long": "an annual international competition where surfers from various countries compete for world titles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Isa World Surfing Games",
+          "long": "Kompetisi internasional tahunan di mana peselancar dari berbagai negara bersaing untuk mendapatkan gelar dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394410.jpeg",
+      "simplified": "ISA世界冲浪游戏",
+      "traditional": "ISA世界衝浪遊戲",
+      "pinyin": "A shìjiè chōnglàng yóuxì"
+    },
+    {
+      "id": 394412,
+      "translation": {
+        "en": {
+          "short": "the Olympic Games",
+          "long": "a global sporting event held every four years, where athletes from around the world compete in various sports for medals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pertandingan olimpiade",
+          "long": "Acara olahraga global diadakan setiap empat tahun, di mana atlet dari seluruh dunia bersaing dalam berbagai olahraga untuk medali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394412.jpeg",
+      "simplified": "奥运会",
+      "traditional": "奧運會",
+      "pinyin": "Aòyùn huì"
+    },
+    {
+      "id": 394413,
+      "translation": {
+        "en": {
+          "short": "the Paralympics",
+          "long": "a series of international contests in which people with physical disabilities take part in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paralimpiade",
+          "long": "serangkaian kontes internasional di mana para penyandang cacat fisik mengambil bagian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394413.jpeg",
+      "simplified": "残奥会",
+      "traditional": "殘奧會",
+      "pinyin": "CánAò huì"
+    },
+    {
+      "id": 394414,
+      "translation": {
+        "en": {
+          "short": "Summer Olympics",
+          "long": "an international multi-sport event held every four years, featuring competitions in various summer sports",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Olimpiade Musim Panas",
+          "long": "Acara multi-olahraga internasional diadakan setiap empat tahun, menampilkan kompetisi di berbagai olahraga musim panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394414.jpeg",
+      "simplified": "夏季奥运会",
+      "traditional": "夏季奧運會",
+      "pinyin": "xiàjì Aòyùn huì"
+    },
+    {
+      "id": 394416,
+      "translation": {
+        "en": {
+          "short": "Four Continents Figure Skating Championships",
+          "long": "an annual competition where skaters from the Americas, Asia, Africa, and Oceania compete",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Empat benua figur skating kejuaraan",
+          "long": "Kompetisi tahunan di mana skater dari Amerika, Asia, Afrika, dan Oceania bersaing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394416.jpeg",
+      "simplified": "四大洲花样滑冰锦标赛",
+      "traditional": "四大洲花樣滑冰錦標賽",
+      "pinyin": "sìdà zhōu huāyàng huá bīng jǐnbiāo sài"
+    },
+    {
+      "id": 394417,
+      "translation": {
+        "en": {
+          "short": "March Madness",
+          "long": "the annual NCAA college basketball tournament held in March, featuring 68 teams competing in a knockout format",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "March Madness",
+          "long": "Turnamen Bola Basket NCAA College tahunan diadakan pada bulan Maret, menampilkan 68 tim yang bersaing dalam format KO",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394417.jpeg",
+      "simplified": "疯狂三月",
+      "traditional": "瘋狂三月",
+      "pinyin": "fēngkuáng Sānyuè"
+    },
+    {
+      "id": 394418,
+      "translation": {
+        "en": {
+          "short": "regatta",
+          "long": "a sporting event consisting of a series of races between rowboats or sailing boats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Regatta",
+          "long": "Acara olahraga yang terdiri dari serangkaian balapan antara perahu dayung atau kapal layar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394418.jpeg",
+      "simplified": "划船比赛",
+      "traditional": "划船比賽",
+      "pinyin": "huáchuán bǐsài"
+    },
+    {
+      "id": 394420,
+      "translation": {
+        "en": {
+          "short": "Winter Paralympics",
+          "long": "a sporting event for athletes with physical disabilities, held following the Winter Olympics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paralimpiade Musim Dingin",
+          "long": "Acara olahraga untuk atlet penyandang disabilitas fisik, diadakan setelah Olimpiade Musim Dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394420.jpeg",
+      "simplified": "冬季残奥会",
+      "traditional": "冬季殘奧會",
+      "pinyin": "dōngjì CánAò huì"
+    },
+    {
+      "id": 394422,
+      "translation": {
+        "en": {
+          "short": "bowl game",
+          "long": "a post-season college football game typically played between highly ranked teams",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permainan mangkuk",
+          "long": "Pertandingan sepak bola perguruan tinggi pasca-musim biasanya dimainkan di antara tim yang berperingkat tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394422.jpeg",
+      "simplified": "碗游戏",
+      "traditional": "碗遊戲",
+      "pinyin": "wǎn yóuxì"
+    },
+    {
+      "id": 404756,
+      "translation": {
+        "en": {
+          "short": "Commonwealth Games",
+          "long": "an international multi-sport event held every four years, involving athletes from countries that are part of the Commonwealth of Nations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Commonwealth Games",
+          "long": "Acara multi-olahraga internasional diadakan setiap empat tahun, yang melibatkan atlet dari negara-negara yang merupakan bagian dari Persemakmuran Bangsa-Bangsa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404756.jpeg",
+      "simplified": "英联邦游戏",
+      "traditional": "英聯邦遊戲",
+      "pinyin": "Yīnglián bāng yóuxì"
+    },
+    {
+      "id": 407152,
+      "translation": {
+        "en": {
+          "short": "the Winter Olympic Games",
+          "long": "a global sporting event held every four years, featuring winter sports such as skiing, skating, and snowboarding, where athletes from around the world compete for medals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pertandingan Olimpiade Musim Dingin",
+          "long": "Acara olahraga global diadakan setiap empat tahun, menampilkan olahraga musim dingin seperti bermain ski, skating, dan snowboarding, di mana atlet dari seluruh dunia bersaing untuk medali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407152.jpeg",
+      "simplified": "冬季奥运会",
+      "traditional": "冬季奧運會",
+      "pinyin": "dōngjì Aòyùn huì"
+    },
+    {
+      "id": 394586,
+      "translation": {
+        "en": {
+          "short": "European Games",
+          "long": "a multi-sport event held every four years for athletes from across Europe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Game Eropa",
+          "long": "Acara multi-olahraga diadakan setiap empat tahun untuk atlet dari seluruh Eropa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394586.jpeg",
+      "simplified": "欧洲奥运会",
+      "traditional": "歐洲奧運會",
+      "pinyin": "Oūzhōu Aòyùn huì"
+    },
+    {
+      "id": 394595,
+      "translation": {
+        "en": {
+          "short": "the Open Championship",
+          "long": "an annual golf tournament, often referred to as The British Open, characterized by its historic prestige and international participation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kejuaraan Terbuka",
+          "long": "Turnamen golf tahunan, sering disebut sebagai Inggris Terbuka, ditandai dengan prestise bersejarah dan partisipasi internasionalnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394595.jpeg",
+      "simplified": "公开锦标赛",
+      "traditional": "公開錦標賽",
+      "pinyin": "gōngkāi jǐnbiāo sài"
+    }
+  ]
+}

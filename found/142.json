@@ -1,0 +1,640 @@
+{
+  "id": 142,
+  "title": {
+    "en": "Occupations",
+    "id": "Pekerjaan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about occupations, such as \"barber\", \"butcher\", \"builder\", etc. prepared for B1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang pekerjaan, seperti \"tukang cukur\", \"tukang daging\", \"pembangun\", dll. Disiapkan untuk pelajar B1."
+  },
+  "cards": [
+    {
+      "id": 212594,
+      "translation": {
+        "en": {
+          "short": "barber",
+          "long": "someone whose job is to cut men’s hair or shave or trim their facial hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang cukur",
+          "long": "seseorang yang tugasnya adalah memotong rambut pria atau mencukur atau memotong rambut wajah mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212594.jpeg",
+      "simplified": "理发师",
+      "traditional": "理髮師",
+      "pinyin": "lǐfà shī"
+    },
+    {
+      "id": 235604,
+      "translation": {
+        "en": {
+          "short": "butcher",
+          "long": "someone who cuts up and sells meat as a job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang daging",
+          "long": "seseorang yang memotong dan menjual daging sebagai pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235604.jpeg",
+      "simplified": "屠夫",
+      "traditional": "屠夫",
+      "pinyin": "túfū"
+    },
+    {
+      "id": 212595,
+      "translation": {
+        "en": {
+          "short": "builder",
+          "long": "someone who builds or repairs houses and buildings, often as a job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembangun",
+          "long": "seseorang yang membangun atau memperbaiki rumah dan bangunan, seringkali sebagai pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212595.jpeg",
+      "simplified": "建筑工人",
+      "traditional": "建築工人",
+      "pinyin": "jiànzhù gōng rén"
+    },
+    {
+      "id": 212597,
+      "translation": {
+        "en": {
+          "short": "firefighter",
+          "long": "someone whose job is to put out fires and save people or animals from dangerous situations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petugas pemadam kebakaran",
+          "long": "seseorang yang tugasnya adalah memadamkan api dan menyelamatkan orang atau hewan dari situasi berbahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212597.jpeg",
+      "simplified": "消防队员",
+      "traditional": "消防隊員",
+      "pinyin": "xiāofáng duì yuán"
+    },
+    {
+      "id": 212612,
+      "translation": {
+        "en": {
+          "short": "mailman",
+          "long": "someone who delivers letters, packages, etc. to people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengantar pos",
+          "long": "seseorang yang mengirimkan surat, paket, dll. Kepada orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212612.jpeg",
+      "simplified": "信差",
+      "traditional": "信差",
+      "pinyin": "xìnchāi"
+    },
+    {
+      "id": 212609,
+      "translation": {
+        "en": {
+          "short": "gardener",
+          "long": "a person whose job is to take care of plants in a garden",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang kebun",
+          "long": "seseorang yang tugasnya adalah merawat tanaman di kebun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212609.jpeg",
+      "simplified": "园丁",
+      "traditional": "園丁",
+      "pinyin": "yuándīng"
+    },
+    {
+      "id": 212593,
+      "translation": {
+        "en": {
+          "short": "guard",
+          "long": "a person whose job is to protect and look after a person or place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjaga",
+          "long": "seseorang yang tugasnya melindungi dan menjaga seseorang atau tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212593.jpeg",
+      "simplified": "看守者",
+      "traditional": "看守者",
+      "pinyin": "kānshǒu zhě"
+    },
+    {
+      "id": 235608,
+      "translation": {
+        "en": {
+          "short": "tailor",
+          "long": "a person whose job is making clothes, especially for men",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penjahit",
+          "long": "seseorang yang pekerjaannya membuat pakaian, terutama untuk pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235608.jpeg",
+      "simplified": "裁缝",
+      "traditional": "裁縫",
+      "pinyin": "cáiféng"
+    },
+    {
+      "id": 212619,
+      "translation": {
+        "en": {
+          "short": "sailor",
+          "long": "a person who is a member of a ship's crew",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelaut",
+          "long": "seseorang yang merupakan anggota kru kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212619.jpeg",
+      "simplified": "水手",
+      "traditional": "水手",
+      "pinyin": "shuǐshǒu"
+    },
+    {
+      "id": 235611,
+      "translation": {
+        "en": {
+          "short": "photographer",
+          "long": "someone whose hobby or job is taking photographs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru potret",
+          "long": "seseorang yang hobinya atau pekerjaan mengambil foto",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235611.jpeg",
+      "simplified": "摄影师",
+      "traditional": "攝影師",
+      "pinyin": "shèyǐng shī"
+    },
+    {
+      "id": 212592,
+      "translation": {
+        "en": {
+          "short": "babysitter",
+          "long": "someone whose job is to take care of a child or children while their parents are away",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengasuh anak",
+          "long": "seseorang yang tugasnya adalah merawat anak atau anak -anak saat orang tua mereka pergi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212592.jpeg",
+      "simplified": "保姆",
+      "traditional": "保姆",
+      "pinyin": "bǎomǔ"
+    },
+    {
+      "id": 235613,
+      "translation": {
+        "en": {
+          "short": "bodyguard",
+          "long": "someone who is employed to protect a famous or important person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengawal",
+          "long": "seseorang yang dipekerjakan untuk melindungi orang yang terkenal atau penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235613.jpeg",
+      "simplified": "保镖",
+      "traditional": "保鏢",
+      "pinyin": "bǎobiāo"
+    },
+    {
+      "id": 212606,
+      "translation": {
+        "en": {
+          "short": "astronaut",
+          "long": "someone who is trained to travel and work in space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "astronaut",
+          "long": "seseorang yang dilatih untuk bepergian dan bekerja di luar angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212606.jpeg",
+      "simplified": "宇航员",
+      "traditional": "太空人",
+      "pinyin": "yǔháng yuán"
+    },
+    {
+      "id": 212605,
+      "translation": {
+        "en": {
+          "short": "agent",
+          "long": "a company or person that represents another person or company or manages their affairs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agen",
+          "long": "perusahaan atau orang yang mewakili orang atau perusahaan lain atau mengelola urusan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212605.jpeg",
+      "simplified": "代表",
+      "traditional": "代表",
+      "pinyin": "dàibiǎo"
+    },
+    {
+      "id": 236466,
+      "translation": {
+        "en": {
+          "short": "reporter",
+          "long": "a person who gathers and reports news or does interviews for a newspaper, TV, radio station, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reporter",
+          "long": "Seseorang yang mengumpulkan dan melaporkan berita atau melakukan wawancara untuk surat kabar, TV, stasiun radio, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236466.jpeg",
+      "simplified": "记者",
+      "traditional": "記者",
+      "pinyin": "jìzhě"
+    },
+    {
+      "id": 235610,
+      "translation": {
+        "en": {
+          "short": "servant",
+          "long": "a person who does the housework as a job",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan",
+          "long": "seseorang yang melakukan pekerjaan rumah sebagai pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235610.jpeg",
+      "simplified": "女佣",
+      "traditional": "女傭",
+      "pinyin": "nǚyōng"
+    },
+    {
+      "id": 212610,
+      "translation": {
+        "en": {
+          "short": "housewife",
+          "long": "a married woman who does the housework such as cooking, cleaning, etc. and takes care of the children, and does not work outside the house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ibu rumah tangga",
+          "long": "Seorang wanita yang sudah menikah yang melakukan pekerjaan rumah seperti memasak, membersihkan, dll. Dan merawat anak -anak, dan tidak bekerja di luar rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212610.jpeg",
+      "simplified": "家庭主妇",
+      "traditional": "家庭主婦",
+      "pinyin": "jiātíng zhǔ fù"
+    },
+    {
+      "id": 237169,
+      "translation": {
+        "en": {
+          "short": "freelancer",
+          "long": "a person who works independently without having a long-term contract with companies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Freelancer",
+          "long": "seseorang yang bekerja mandiri tanpa memiliki kontrak jangka panjang dengan perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237169.jpeg",
+      "simplified": "自由职业者",
+      "traditional": "自由職業者",
+      "pinyin": "zìyóu zhí yè zhě"
+    },
+    {
+      "id": 212611,
+      "translation": {
+        "en": {
+          "short": "judge",
+          "long": "the official in charge of a court who decides on legal matters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hakim",
+          "long": "pejabat yang bertanggung jawab atas pengadilan yang memutuskan masalah hukum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212611.jpeg",
+      "simplified": "法官",
+      "traditional": "法官",
+      "pinyin": "fǎguān"
+    },
+    {
+      "id": 212614,
+      "translation": {
+        "en": {
+          "short": "president",
+          "long": "the head of a company or corporation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Presiden",
+          "long": "kepala perusahaan atau perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212614.jpeg",
+      "simplified": "老板",
+      "traditional": "老闆",
+      "pinyin": "lǎobǎn"
+    },
+    {
+      "id": 235601,
+      "translation": {
+        "en": {
+          "short": "adviser",
+          "long": "someone whose job is to give advice professionally on a particular subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penasihat",
+          "long": "seseorang yang tugasnya adalah memberi nasihat secara profesional tentang subjek tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235601.jpeg",
+      "simplified": "顾问",
+      "traditional": "顧問",
+      "pinyin": "gùwèn"
+    },
+    {
+      "id": 235602,
+      "translation": {
+        "en": {
+          "short": "director",
+          "long": "a person who manages or is in charge of an activity, department, or organization",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Direktur",
+          "long": "seseorang yang mengelola atau bertanggung jawab atas suatu kegiatan, departemen, atau organisasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235602.jpeg",
+      "simplified": "经理",
+      "traditional": "主管",
+      "pinyin": "jīnglǐ"
+    },
+    {
+      "id": 212615,
+      "translation": {
+        "en": {
+          "short": "translator",
+          "long": "someone whose job is to change written or spoken words from one language to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penerjemah",
+          "long": "seseorang yang tugasnya mengubah kata -kata tertulis atau diucapkan dari satu bahasa ke bahasa lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212615.jpeg",
+      "simplified": "翻译者",
+      "traditional": "翻譯者",
+      "pinyin": "fānyì zhě"
+    },
+    {
+      "id": 212618,
+      "translation": {
+        "en": {
+          "short": "sportsman",
+          "long": "a man who participates in a sport professionally",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "olahragawan",
+          "long": "seorang pria yang berpartisipasi dalam olahraga secara profesional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/212618.jpeg",
+      "simplified": "运动员",
+      "traditional": "運動員",
+      "pinyin": "yùndòng yuán"
+    },
+    {
+      "id": 235603,
+      "translation": {
+        "en": {
+          "short": "editor",
+          "long": "someone who is in charge of a newspaper agency, magazine, etc. and decides what should be published",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "editor",
+          "long": "Seseorang yang bertanggung jawab atas agen surat kabar, majalah, dll. Dan memutuskan apa yang harus diterbitkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235603.jpeg",
+      "simplified": "编辑",
+      "traditional": "編輯",
+      "pinyin": "biānjí"
+    },
+    {
+      "id": 235606,
+      "translation": {
+        "en": {
+          "short": "tutor",
+          "long": "a teacher who gives lessons privately to one student or a small group",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tutor",
+          "long": "seorang guru yang memberikan pelajaran secara pribadi kepada satu siswa atau kelompok kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235606.jpeg",
+      "simplified": "导师",
+      "traditional": "導師",
+      "pinyin": "dǎoshī"
+    },
+    {
+      "id": 235607,
+      "translation": {
+        "en": {
+          "short": "trader",
+          "long": "someone whose job is selling or buying shares, goods, or currencies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pedagang",
+          "long": "seseorang yang pekerjaannya menjual atau membeli saham, barang, atau mata uang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235607.jpeg",
+      "simplified": "商",
+      "traditional": "商",
+      "pinyin": "Shāng"
+    },
+    {
+      "id": 235609,
+      "translation": {
+        "en": {
+          "short": "technician",
+          "long": "an expert who is employed to check or work with technical equipment or machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Teknisi",
+          "long": "seorang ahli yang dipekerjakan untuk memeriksa atau bekerja dengan peralatan teknis atau mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235609.jpeg",
+      "simplified": "技术员",
+      "traditional": "技術員",
+      "pinyin": "jìshù yuán"
+    },
+    {
+      "id": 235612,
+      "translation": {
+        "en": {
+          "short": "programmer",
+          "long": "a person who writes computer programs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "programmer",
+          "long": "Seseorang yang menulis program komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235612.jpeg",
+      "simplified": "程序员",
+      "traditional": "程式設計師",
+      "pinyin": "chéngxù yuán"
+    },
+    {
+      "id": 264234,
+      "translation": {
+        "en": {
+          "short": "flight attendant",
+          "long": "a person who works on a plane to bring passengers meals and take care of them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pramugari",
+          "long": "seseorang yang bekerja di pesawat untuk membawa makanan penumpang dan merawatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264234.jpeg",
+      "simplified": "空姐",
+      "traditional": "空姐",
+      "pinyin": "kōngjiě"
+    },
+    {
+      "id": 235605,
+      "translation": {
+        "en": {
+          "short": "veterinarian",
+          "long": "a doctor who is trained to treat animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter hewan",
+          "long": "seorang dokter yang dilatih untuk merawat hewan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235605.jpeg",
+      "simplified": "兽医",
+      "traditional": "獸醫",
+      "pinyin": "shòuyī"
+    },
+    {
+      "id": 388517,
+      "translation": {
+        "en": {
+          "short": "secretary",
+          "long": "someone who works in an office as someone's assistance, dealing with mail and phone calls, keeping records, making appointments, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekretaris",
+          "long": "Seseorang yang bekerja di kantor sebagai bantuan seseorang, berurusan dengan panggilan surat dan telepon, menyimpan catatan, membuat janji, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388517.jpeg",
+      "simplified": "秘书",
+      "traditional": "秘書",
+      "pinyin": "mìshū"
+    },
+    {
+      "id": 388519,
+      "translation": {
+        "en": {
+          "short": "chemist",
+          "long": "a scientist who studies chemistry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli kimia",
+          "long": "seorang ilmuwan yang mempelajari kimia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388519.jpeg",
+      "simplified": "化学家",
+      "traditional": "化學家",
+      "pinyin": "huàxué jiā"
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "id": 660,
+  "title": {
+    "en": "Online Media",
+    "id": "Media online"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to online media such as \"account\", \"web tracking\", and \"online forum\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan media online seperti \"akun\", \"pelacakan web\", dan \"forum online\"."
+  },
+  "cards": [
+    {
+      "id": 355021,
+      "translation": {
+        "en": {
+          "short": "account",
+          "long": "an arrangement based on which a user is given a private and personalized access to an online platform, application, or computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akun",
+          "long": "Suatu pengaturan berdasarkan mana pengguna diberikan akses pribadi dan personal ke platform, aplikasi, atau komputer online",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355021.jpeg",
+      "simplified": "帐户",
+      "traditional": "帳戶",
+      "pinyin": "zhànghù"
+    },
+    {
+      "id": 355024,
+      "translation": {
+        "en": {
+          "short": "password",
+          "long": "a confidential string of characters that a user chooses to secure their account and prevent unauthorized access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata sandi",
+          "long": "serangkaian karakter rahasia yang dipilih pengguna untuk mengamankan akun mereka dan mencegah akses yang tidak sah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355024.jpeg",
+      "simplified": "密码",
+      "traditional": "密碼",
+      "pinyin": "mìmǎ"
+    },
+    {
+      "id": 355025,
+      "translation": {
+        "en": {
+          "short": "social bookmarking",
+          "long": "(computing) an online service that enables users to add, edit and share bookmarks of web documents",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bookmark sosial",
+          "long": "(Komputasi) Layanan online yang memungkinkan pengguna untuk menambah, mengedit, dan berbagi bookmark dokumen web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355025.jpeg",
+      "simplified": "社会书签",
+      "traditional": "社會書籤",
+      "pinyin": "shèhuì shūqiān"
+    },
+    {
+      "id": 355026,
+      "translation": {
+        "en": {
+          "short": "site",
+          "long": "a website; a set of related pages on the internet located under a single domain name",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lokasi",
+          "long": "sebuah situs; Satu set halaman terkait di internet yang terletak di bawah satu nama domain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355026.jpeg",
+      "simplified": "现场",
+      "traditional": "現場",
+      "pinyin": "xiànchǎng"
+    },
+    {
+      "id": 355028,
+      "translation": {
+        "en": {
+          "short": "online poll",
+          "long": "a survey or questionnaire conducted through digital platforms or websites, allowing individuals to provide their opinions or vote on specific topics or questions using electronic devices connected to the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jajak pendapat online",
+          "long": "Survei atau kuesioner yang dilakukan melalui platform digital atau situs web, memungkinkan individu untuk memberikan pendapat mereka atau memberikan suara pada topik atau pertanyaan tertentu menggunakan perangkat elektronik yang terhubung ke Internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355028.jpeg",
+      "simplified": "网上投票",
+      "traditional": "網上投票",
+      "pinyin": "wǎngshàng tóupiào"
+    },
+    {
+      "id": 355030,
+      "translation": {
+        "en": {
+          "short": "blog",
+          "long": "a web page on which an individual or group of people regularly write about a topic of interest or their opinions or experiences, usually in an informal style",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "blog",
+          "long": "Halaman web tempat individu atau sekelompok orang secara teratur menulis tentang topik yang menarik atau pendapat atau pengalaman mereka, biasanya dengan gaya informal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355030.jpeg",
+      "simplified": "博客",
+      "traditional": "部落格",
+      "pinyin": "bókè"
+    },
+    {
+      "id": 355031,
+      "translation": {
+        "en": {
+          "short": "blogging",
+          "long": "the act or activity of writing about different things and share them online on a web page",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blogging",
+          "long": "tindakan atau aktivitas menulis tentang berbagai hal dan membaginya secara online di halaman web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355031.jpeg",
+      "simplified": "写博客",
+      "traditional": "寫博客",
+      "pinyin": "xiě bókè"
+    },
+    {
+      "id": 355033,
+      "translation": {
+        "en": {
+          "short": "web newspaper",
+          "long": "an online publication that delivers news and information through a website or digital platform, providing articles, reports, and multimedia content to readers over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Surat Kabar Web",
+          "long": "Publikasi online yang memberikan berita dan informasi melalui situs web atau platform digital, menyediakan artikel, laporan, dan konten multimedia kepada pembaca melalui Internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355033.jpeg",
+      "simplified": "网络报纸",
+      "traditional": "網絡報紙",
+      "pinyin": "Wǎngluò bàozhǐ"
+    },
+    {
+      "id": 355035,
+      "translation": {
+        "en": {
+          "short": "linklog",
+          "long": "a type of blog or website that primarily focuses on curating and sharing links to interesting or valuable online resources, articles, websites, or multimedia content, providing a collection of links for users to explore and discover",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Linklog",
+          "long": "Jenis blog atau situs web yang terutama berfokus pada kurasi dan berbagi tautan ke sumber daya online, artikel, situs web, atau konten multimedia yang menarik atau berharga, menyediakan kumpulan tautan untuk dijelajahi dan ditemukan oleh pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355035.jpeg",
+      "simplified": "链接日志",
+      "traditional": "鏈接日誌",
+      "pinyin": "liànjiē rìzhì"
+    },
+    {
+      "id": 355036,
+      "translation": {
+        "en": {
+          "short": "blogosphere",
+          "long": "the virtual space where all the personal blogs are and the network of people communicating",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blogosphere",
+          "long": "ruang virtual di mana semua blog pribadi berada dan jaringan orang berkomunikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355036.jpeg",
+      "simplified": "博客圈",
+      "traditional": "博客圈",
+      "pinyin": "bókè quān"
+    },
+    {
+      "id": 355037,
+      "translation": {
+        "en": {
+          "short": "home page",
+          "long": "the opening page of a website that introduces it and links the user to other pages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Halaman Beranda",
+          "long": "Halaman pembuka situs web yang memperkenalkannya dan menautkan pengguna ke halaman lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355037.jpeg",
+      "simplified": "主页",
+      "traditional": "主頁",
+      "pinyin": "zhǔyè"
+    },
+    {
+      "id": 355038,
+      "translation": {
+        "en": {
+          "short": "browser",
+          "long": "a computer program that enables the user to read or look at information on the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "browser",
+          "long": "Program komputer yang memungkinkan pengguna untuk membaca atau melihat informasi di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355038.jpeg",
+      "simplified": "网络浏览器",
+      "traditional": "網絡瀏覽器",
+      "pinyin": "wǎngluò liú lǎn qì"
+    },
+    {
+      "id": 355040,
+      "translation": {
+        "en": {
+          "short": "browser history",
+          "long": "a record or log of web pages and websites that a user has visited in a specific web browser",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sejarah Browser",
+          "long": "Catatan atau log halaman web dan situs web yang telah dikunjungi pengguna di browser web tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355040.jpeg",
+      "simplified": "浏览器历史记录",
+      "traditional": "瀏覽器歷史記錄",
+      "pinyin": "liúlǎn qì lìshǐ jìlù"
+    },
+    {
+      "id": 355041,
+      "translation": {
+        "en": {
+          "short": "landing page",
+          "long": "(computing) the first webpage that appears in response to a click on a link",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman arahan",
+          "long": "(Komputasi) Halaman web pertama yang muncul sebagai tanggapan terhadap klik pada tautan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355041.jpeg",
+      "simplified": "登陆页面",
+      "traditional": "登陸頁面",
+      "pinyin": "dēnglù yèmiàn"
+    },
+    {
+      "id": 355043,
+      "translation": {
+        "en": {
+          "short": "web tracking",
+          "long": "the practice of monitoring and recording user activities and behavior on websites or across the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelacakan web",
+          "long": "Praktik memantau dan merekam kegiatan pengguna dan perilaku di situs web atau di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355043.jpeg",
+      "simplified": "网络跟踪",
+      "traditional": "網絡跟踪",
+      "pinyin": "Wǎngluò gēnzōng"
+    },
+    {
+      "id": 355044,
+      "translation": {
+        "en": {
+          "short": "cookie",
+          "long": "(computing) data that a web server sends to a browser and receives if the user visits the website again, used for identifying or tracking the user's activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kue kering",
+          "long": "Data (komputasi) yang dikirim server web ke browser dan menerima jika pengguna mengunjungi situs web lagi, yang digunakan untuk mengidentifikasi atau melacak aktivitas pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355044.jpeg",
+      "simplified": "cookie（网站等）",
+      "traditional": "cookie（網站等）",
+      "pinyin": "wǎngzhàn děng"
+    },
+    {
+      "id": 355045,
+      "translation": {
+        "en": {
+          "short": "bookmark",
+          "long": "the saved address of a website or file for easier and faster access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penanda buku",
+          "long": "alamat yang disimpan dari situs web atau file untuk akses yang lebih mudah dan lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355045.jpeg",
+      "simplified": "浏览器书签",
+      "traditional": "瀏覽器書籤",
+      "pinyin": "liúlǎn qì shūqiān"
+    },
+    {
+      "id": 355046,
+      "translation": {
+        "en": {
+          "short": "web page",
+          "long": "all the information in one part of a website",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman web",
+          "long": "Semua informasi di satu bagian situs web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355046.jpeg",
+      "simplified": "网页",
+      "traditional": "網頁",
+      "pinyin": "wǎngyè"
+    },
+    {
+      "id": 355047,
+      "translation": {
+        "en": {
+          "short": "search engine",
+          "long": "a computer program that searches the internet and finds information based on a word or group of words given to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin pencari",
+          "long": "program komputer yang mencari internet dan menemukan informasi berdasarkan kata atau kelompok kata yang diberikan kepadanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355047.jpeg",
+      "simplified": "搜索引擎",
+      "traditional": "搜尋引擎",
+      "pinyin": "sōusuǒ yǐn qíng"
+    },
+    {
+      "id": 355048,
+      "translation": {
+        "en": {
+          "short": "surfing",
+          "long": "the activity of spending a lot of time online navigating through different websites",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selancar",
+          "long": "aktivitas menghabiskan banyak waktu menavigasi online melalui situs web yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355048.jpeg",
+      "simplified": "冲浪",
+      "traditional": "衝浪",
+      "pinyin": "chōnglàng"
+    },
+    {
+      "id": 355049,
+      "translation": {
+        "en": {
+          "short": "user group",
+          "long": "an online community that is focused on using a particular computer technology and sharing information about it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grup pengguna",
+          "long": "Komunitas online yang berfokus pada penggunaan teknologi komputer tertentu dan berbagi informasi tentang hal itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355049.jpeg",
+      "simplified": "用户组",
+      "traditional": "用戶組",
+      "pinyin": "yònghù Zǔ"
+    },
+    {
+      "id": 355050,
+      "translation": {
+        "en": {
+          "short": "visit",
+          "long": "(computing) an occasion when a user goes to a particular webpage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengunjungi",
+          "long": "(komputasi) Suatu kesempatan ketika pengguna pergi ke halaman web tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355050.jpeg",
+      "simplified": "访问",
+      "traditional": "訪問",
+      "pinyin": "fǎngwèn"
+    },
+    {
+      "id": 355051,
+      "translation": {
+        "en": {
+          "short": "live blog",
+          "long": "a blog or a microblog that provides a real time commentary of an event as it is happening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blog Langsung",
+          "long": "blog atau microblog yang memberikan komentar waktu nyata dari suatu peristiwa saat itu terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355051.jpeg",
+      "simplified": "实时博客",
+      "traditional": "實時博客",
+      "pinyin": "shíshí bókè"
+    },
+    {
+      "id": 355052,
+      "translation": {
+        "en": {
+          "short": "thread",
+          "long": "a sequence of linked messages on social media, email, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benang",
+          "long": "Urutan pesan tertaut di media sosial, email, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355052.jpeg",
+      "simplified": "线",
+      "traditional": "線",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 355053,
+      "translation": {
+        "en": {
+          "short": "blog post",
+          "long": "any article or piece of information added to a blog, often including images, videos, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Posting Blog",
+          "long": "Artikel atau informasi apa pun yang ditambahkan ke blog, seringkali termasuk gambar, video, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355053.jpeg",
+      "simplified": "博客文章",
+      "traditional": "博客文章",
+      "pinyin": "bókè wénzhāng"
+    },
+    {
+      "id": 355054,
+      "translation": {
+        "en": {
+          "short": "blogroll",
+          "long": "a list of links on a blog to other websites that the owner thinks are useful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Blogroll",
+          "long": "Daftar tautan di blog ke situs web lain yang menurut pemiliknya berguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355054.jpeg",
+      "simplified": "博客卷",
+      "traditional": "博客卷",
+      "pinyin": "bókè juǎn"
+    },
+    {
+      "id": 355055,
+      "translation": {
+        "en": {
+          "short": "bulletin board",
+          "long": "(computing) a computer network or an online website where users can leave messages and read other people's posts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "papan pengumuman",
+          "long": "(komputasi) jaringan komputer atau situs web online tempat pengguna dapat meninggalkan pesan dan membaca posting orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355055.jpeg",
+      "simplified": "布告栏",
+      "traditional": "佈告欄",
+      "pinyin": "bùgào lán"
+    },
+    {
+      "id": 355057,
+      "translation": {
+        "en": {
+          "short": "search bar",
+          "long": "a graphical interface element typically found on websites or applications that allows users to enter keywords, phrases, or queries to search for specific information or content within the provided platform",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilah pencarian",
+          "long": "Elemen antarmuka grafis yang biasanya ditemukan di situs web atau aplikasi yang memungkinkan pengguna untuk memasukkan kata kunci, frasa, atau pertanyaan untuk mencari informasi atau konten tertentu dalam platform yang disediakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355057.jpeg",
+      "simplified": "搜索栏",
+      "traditional": "搜索欄",
+      "pinyin": "sōusuǒ lán"
+    },
+    {
+      "id": 355059,
+      "translation": {
+        "en": {
+          "short": "online forum",
+          "long": "a web-based platform or website where users can engage in discussions, exchange ideas, ask questions, and share information on specific topics of interest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "forum online",
+          "long": "Platform atau situs web berbasis web di mana pengguna dapat terlibat dalam diskusi, bertukar ide, mengajukan pertanyaan, dan berbagi informasi tentang topik-topik tertentu yang menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355059.jpeg",
+      "simplified": "在线论坛",
+      "traditional": "在線論壇",
+      "pinyin": "zàixiàn lùntán"
+    },
+    {
+      "id": 355061,
+      "translation": {
+        "en": {
+          "short": "subscription",
+          "long": "the act of voluntarily signing up or enrolling to receive regular updates, content, or services from a particular source or provider",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berlangganan",
+          "long": "Tindakan mendaftar secara sukarela atau mendaftar untuk menerima pembaruan, konten, atau layanan rutin dari sumber atau penyedia tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355061.jpeg",
+      "simplified": "订阅",
+      "traditional": "訂閱",
+      "pinyin": "dìngyuè"
+    },
+    {
+      "id": 355062,
+      "translation": {
+        "en": {
+          "short": "platform",
+          "long": "a digital environment or software infrastructure that provides a foundation or framework for users or developers to create, interact, or exchange information, services, or content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "platform",
+          "long": "Lingkungan digital atau infrastruktur perangkat lunak yang menyediakan fondasi atau kerangka kerja bagi pengguna atau pengembang untuk membuat, berinteraksi, atau bertukar informasi, layanan, atau konten",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355062.jpeg",
+      "simplified": "平台",
+      "traditional": "平台",
+      "pinyin": "píngtái"
+    },
+    {
+      "id": 355064,
+      "translation": {
+        "en": {
+          "short": "feedback",
+          "long": "information, criticism, or advice about a person's performance, a new product, etc. intended for improvement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masukan",
+          "long": "informasi, kritik, atau saran tentang kinerja seseorang, produk baru, dll. Dimaksudkan untuk perbaikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355064.jpeg",
+      "simplified": "反馈",
+      "traditional": "回饋",
+      "pinyin": "fǎnkuì"
+    },
+    {
+      "id": 355066,
+      "translation": {
+        "en": {
+          "short": "premium",
+          "long": "a superior or exclusive level of quality, features, or benefits associated with a product, service, or experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "premium",
+          "long": "Tingkat kualitas, fitur, atau manfaat yang unggul atau eksklusif yang terkait dengan produk, layanan, atau pengalaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355066.jpeg",
+      "simplified": "奖金",
+      "traditional": "獎金",
+      "pinyin": "jiǎngjīn"
+    },
+    {
+      "id": 355067,
+      "translation": {
+        "en": {
+          "short": "feed",
+          "long": "a feature on a website that enables the users to be notified of the updated information without logging on the website",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memberi makan",
+          "long": "Fitur di situs web yang memungkinkan pengguna untuk diberitahu tentang informasi yang diperbarui tanpa login di situs web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355067.jpeg",
+      "simplified": "料",
+      "traditional": "料",
+      "pinyin": "liào"
+    },
+    {
+      "id": 355074,
+      "translation": {
+        "en": {
+          "short": "eBay",
+          "long": "a website dedicated to the buying and selling of items that are put in an auction by users",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eBay",
+          "long": "Situs web yang didedikasikan untuk pembelian dan penjualan barang yang dimasukkan ke dalam pelelangan oleh pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355074.jpeg",
+      "simplified": "易趣",
+      "traditional": "易趣",
+      "pinyin": "Yìqù"
+    },
+    {
+      "id": 355081,
+      "translation": {
+        "en": {
+          "short": "download",
+          "long": "the act of copying and saving digital files, such as documents, music, or videos, from the internet onto a computer or other electronic device",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unduh",
+          "long": "Tindakan menyalin dan menyimpan file digital, seperti dokumen, musik, atau video, dari internet ke komputer atau perangkat elektronik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355081.jpeg",
+      "simplified": "下载",
+      "traditional": "下載",
+      "pinyin": "xiàzǎi"
+    },
+    {
+      "id": 355083,
+      "translation": {
+        "en": {
+          "short": "upload",
+          "long": "the process of transferring or sending files, data, or content from a local device or computer to a remote server, network, or online platform",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengunggah",
+          "long": "Proses mentransfer atau mengirim file, data, atau konten dari perangkat lokal atau komputer ke server jarak jauh, jaringan, atau platform online",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355083.jpeg",
+      "simplified": "上传",
+      "traditional": "上傳",
+      "pinyin": "shàngchuán"
+    },
+    {
+      "id": 355268,
+      "translation": {
+        "en": {
+          "short": "newsfeed",
+          "long": "a continuously updated stream or list of news articles, updates, posts, or content that is delivered to users on a website or social media platform",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "NEWSFEED",
+          "long": "Aliran atau daftar artikel berita, pembaruan, atau konten berita yang terus diperbarui yang dikirimkan kepada pengguna di situs web atau platform media sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355268.jpeg",
+      "simplified": "新闻源",
+      "traditional": "新聞源",
+      "pinyin": "xīnwén yuán"
+    },
+    {
+      "id": 355275,
+      "translation": {
+        "en": {
+          "short": "username",
+          "long": "a unique identifier or name chosen by a user to represent themselves or their account in online platforms, websites, or social media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nama belakang",
+          "long": "Pengidentifikasi atau nama unik yang dipilih oleh pengguna untuk mewakili diri mereka sendiri atau akun mereka di platform online, situs web, atau media sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355275.jpeg",
+      "simplified": "用户名",
+      "traditional": "使用者名稱",
+      "pinyin": "yònghù míng"
+    },
+    {
+      "id": 355276,
+      "translation": {
+        "en": {
+          "short": "page",
+          "long": "all the data that can be seen on a screen at one time, such as a part of a website",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman",
+          "long": "Semua data yang dapat dilihat di layar pada satu waktu, seperti bagian dari situs web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355276.jpeg",
+      "simplified": "互联网页面",
+      "traditional": "互聯網頁面",
+      "pinyin": "Hùlián wǎng yèmiàn"
+    },
+    {
+      "id": 355458,
+      "translation": {
+        "en": {
+          "short": "to skip",
+          "long": "to deliberately and quickly move past or jump over certain sections or portions of media, such as audio tracks, video segments, or chapters",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melewatkan",
+          "long": "Untuk dengan sengaja dan cepat bergerak melewati atau melompati bagian atau bagian media tertentu, seperti trek audio, segmen video, atau bab",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355458.jpeg",
+      "simplified": "跳跃",
+      "traditional": "跳躍",
+      "pinyin": "tiàoyuè"
+    },
+    {
+      "id": 385493,
+      "translation": {
+        "en": {
+          "short": "World Wide Web",
+          "long": "a network of information that is accessible to people when they use the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "World Wide Web",
+          "long": "jaringan informasi yang dapat diakses oleh orang ketika mereka menggunakan internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385493.jpeg",
+      "simplified": "万维网",
+      "traditional": "萬維網",
+      "pinyin": "Wànwéi wǎng"
+    },
+    {
+      "id": 390814,
+      "translation": {
+        "en": {
+          "short": "clickbait",
+          "long": "a sensational or misleading online content designed to attract clicks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "clickbait",
+          "long": "Konten online yang sensasional atau menyesatkan yang dirancang untuk menarik klik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390814.jpeg",
+      "simplified": "点击诱饵",
+      "traditional": "點擊誘餌",
+      "pinyin": "diǎnjī yòuěr"
+    }
+  ]
+}

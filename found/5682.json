@@ -1,0 +1,526 @@
+{
+  "id": 5682,
+  "title": {
+    "en": "Medicine",
+    "id": "Obat"
+  },
+  "description": {
+    "en": "Here you will learn all the essential words for talking about Medicine, collected specifically for level C2 learners.",
+    "id": "Di sini Anda akan mempelajari semua kata penting untuk berbicara tentang kedokteran, dikumpulkan khusus untuk peserta didik Level C2."
+  },
+  "cards": [
+    {
+      "id": 390325,
+      "translation": {
+        "en": {
+          "short": "biopsy",
+          "long": "the process of removing and analyzing tissue from the body of a sick person to learn more about their condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biopsi",
+          "long": "proses menghilangkan dan menganalisis jaringan dari tubuh orang yang sakit untuk mempelajari lebih lanjut tentang kondisi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390325.jpeg",
+      "simplified": "活检",
+      "traditional": "活檢",
+      "pinyin": "huójiǎn"
+    },
+    {
+      "id": 390326,
+      "translation": {
+        "en": {
+          "short": "catheter",
+          "long": "a flexible tube inserted into one's bladder, to drain and collect urine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kateter",
+          "long": "tabung fleksibel yang dimasukkan ke dalam kandung kemih, untuk menguras dan mengumpulkan urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390326.jpeg",
+      "simplified": "导管",
+      "traditional": "導管",
+      "pinyin": "dǎoguǎn"
+    },
+    {
+      "id": 390327,
+      "translation": {
+        "en": {
+          "short": "suture",
+          "long": "a stitch or series of stitches made to secure the edges of a wound or surgical opening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jahitan",
+          "long": "Jahitan atau serangkaian jahitan yang dibuat untuk mengamankan tepi luka atau pembukaan bedah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390327.jpeg",
+      "simplified": "针脚",
+      "traditional": "針腳",
+      "pinyin": "zhēn jiǎo"
+    },
+    {
+      "id": 390328,
+      "translation": {
+        "en": {
+          "short": "ointment",
+          "long": "a substance, usually smooth and oily, rubbed on the skin for medical purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "salep",
+          "long": "zat, biasanya halus dan berminyak, digosokkan pada kulit untuk keperluan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390328.jpeg",
+      "simplified": "软膏",
+      "traditional": "軟膏",
+      "pinyin": "ruǎngāo"
+    },
+    {
+      "id": 390329,
+      "translation": {
+        "en": {
+          "short": "draft",
+          "long": "a specific measure or quantity of liquid medication, typically prescribed for oral administration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "draf",
+          "long": "Ukuran atau kuantitas spesifik obat cair, biasanya diresepkan untuk pemberian oral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390329.jpeg",
+      "simplified": "草稿",
+      "traditional": "草稿",
+      "pinyin": "cǎogǎo"
+    },
+    {
+      "id": 390330,
+      "translation": {
+        "en": {
+          "short": "lozenge",
+          "long": "a sweet-flavored small and often lozenge-shaped tablet that dissolves in one's mouth, usually taken for sore throat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permen",
+          "long": "Tablet kecil berbentuk manis dan sering kali lozenge yang larut di mulut seseorang, biasanya diambil untuk sakit tenggorokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390330.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 390331,
+      "translation": {
+        "en": {
+          "short": "prophylactic",
+          "long": "a preventive measure or substance, such as a medication or treatment, taken to protect against the occurrence of a disease or other unwanted health condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penangkal",
+          "long": "Ukuran atau zat pencegahan, seperti obat atau pengobatan, yang diambil untuk melindungi terhadap terjadinya suatu penyakit atau kondisi kesehatan yang tidak diinginkan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390331.jpeg",
+      "simplified": "预防性",
+      "traditional": "預防性",
+      "pinyin": "yùfáng xìng"
+    },
+    {
+      "id": 390332,
+      "translation": {
+        "en": {
+          "short": "hypnotic",
+          "long": "a medication that induces sleep",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hipnotis",
+          "long": "obat yang menginduksi tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390332.jpeg",
+      "simplified": "催眠的",
+      "traditional": "催眠的",
+      "pinyin": "cuīmián de"
+    },
+    {
+      "id": 390333,
+      "translation": {
+        "en": {
+          "short": "decongestant",
+          "long": "a type of medicine used when someone has a cold and a blocked nose to help them breathe more easily",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dekongestan",
+          "long": "Jenis obat yang digunakan ketika seseorang memiliki dingin dan hidung yang terhalang untuk membantu mereka bernafas lebih mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390333.jpeg",
+      "simplified": "鼻减充血剂",
+      "traditional": "鼻減充血劑",
+      "pinyin": "bí jiǎn chōngxuè jì"
+    },
+    {
+      "id": 390334,
+      "translation": {
+        "en": {
+          "short": "anticoagulant",
+          "long": "a substance or medication that inhibits the clotting of blood",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antikoagulan",
+          "long": "zat atau obat yang menghambat pembekuan darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390334.jpeg",
+      "simplified": "抗凝物",
+      "traditional": "抗凝物",
+      "pinyin": "kàng níng wù"
+    },
+    {
+      "id": 390335,
+      "translation": {
+        "en": {
+          "short": "analgesic",
+          "long": "a pain-relieving medication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "analgesik",
+          "long": "obat penghilang rasa sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390335.jpeg",
+      "simplified": "镇痛",
+      "traditional": "鎮痛",
+      "pinyin": "zhèntòng"
+    },
+    {
+      "id": 390338,
+      "translation": {
+        "en": {
+          "short": "chiropractic",
+          "long": "a system of noninvasive therapy that involves pressing and moving a person's joints or spine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chiropractic",
+          "long": "Sistem terapi non -invasif yang melibatkan menekan dan menggerakkan sendi atau tulang belakang seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390338.jpeg",
+      "simplified": "捏积",
+      "traditional": "捏積",
+      "pinyin": "niējī"
+    },
+    {
+      "id": 390339,
+      "translation": {
+        "en": {
+          "short": "homeopathy",
+          "long": "a medical system that treats the disease by administering substances that mimic the symptoms of those diseases in healthy persons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "homoeopati",
+          "long": "sistem medis yang mengobati penyakit dengan pemberian zat yang meniru gejala penyakit pada orang sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390339.jpeg",
+      "simplified": "同种疗法",
+      "traditional": "同種療法",
+      "pinyin": "tóng zhǒng liáofǎ"
+    },
+    {
+      "id": 390340,
+      "translation": {
+        "en": {
+          "short": "antidote",
+          "long": "a substance that counteracts or controls the effects of a poison",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penangkal",
+          "long": "zat yang menangkal atau mengontrol efek racun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390340.jpeg",
+      "simplified": "解毒剂",
+      "traditional": "解毒劑",
+      "pinyin": "jiědú jì"
+    },
+    {
+      "id": 390341,
+      "translation": {
+        "en": {
+          "short": "stethoscope",
+          "long": "a medical instrument used in auscultation for detecting sounds generated inside the body, such as heartbeat and breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stetoskop",
+          "long": "Instrumen medis yang digunakan dalam auskultasi untuk mendeteksi suara yang dihasilkan di dalam tubuh, seperti detak jantung dan pernapasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390341.jpeg",
+      "simplified": "听筒",
+      "traditional": "聽筒",
+      "pinyin": "tīngtǒng"
+    },
+    {
+      "id": 390342,
+      "translation": {
+        "en": {
+          "short": "antiviral",
+          "long": "(of a drug) effective against viral infections caused by a virus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antivirus",
+          "long": "(obat) efektif terhadap infeksi virus yang disebabkan oleh virus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390342.jpeg",
+      "simplified": "抗病毒药",
+      "traditional": "抗病毒藥",
+      "pinyin": "kàngbìng dú yào"
+    },
+    {
+      "id": 390343,
+      "translation": {
+        "en": {
+          "short": "prognosis",
+          "long": "a professional opinion regarding the likely course of an illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prognosa",
+          "long": "Pendapat profesional tentang kemungkinan kursus penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390343.jpeg",
+      "simplified": "预后",
+      "traditional": "預後",
+      "pinyin": "yùhòu"
+    },
+    {
+      "id": 390347,
+      "translation": {
+        "en": {
+          "short": "antipyretic",
+          "long": "a medication that reduces fever by lowering body temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Antipyretic",
+          "long": "obat yang mengurangi demam dengan menurunkan suhu tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390347.jpeg",
+      "simplified": "解热药",
+      "traditional": "解熱藥",
+      "pinyin": "jiěrè yào"
+    },
+    {
+      "id": 390348,
+      "translation": {
+        "en": {
+          "short": "pathogenesis",
+          "long": "the mechanism by which a disease develops and progresses within the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patogenesis",
+          "long": "mekanisme yang digunakan penyakit dan berkembang di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390348.jpeg",
+      "simplified": "发病",
+      "traditional": "發病",
+      "pinyin": "fābìng"
+    },
+    {
+      "id": 390349,
+      "translation": {
+        "en": {
+          "short": "neoplasia",
+          "long": "the abnormal growth of cells, leading to the formation of a tumor or mass, often associated with cancer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Neoplasia",
+          "long": "Pertumbuhan sel yang abnormal, yang mengarah ke pembentukan tumor atau massa, sering dikaitkan dengan kanker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390349.jpeg",
+      "simplified": "瘤形成",
+      "traditional": "瘤形成",
+      "pinyin": "liú xíngchéng"
+    },
+    {
+      "id": 390350,
+      "translation": {
+        "en": {
+          "short": "metastasis",
+          "long": "the spread of cancer cells from one part to other body parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "metastasis",
+          "long": "penyebaran sel kanker dari satu bagian ke bagian tubuh lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390350.jpeg",
+      "simplified": "转移",
+      "traditional": "轉移",
+      "pinyin": "zhuǎnyí"
+    },
+    {
+      "id": 390405,
+      "translation": {
+        "en": {
+          "short": "speculum",
+          "long": "a medical instrument used during the internal genitalia examination to dilate the opening of a body cavity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Spekulum",
+          "long": "Instrumen medis yang digunakan selama pemeriksaan genitalia internal untuk melebar pembukaan rongga tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390405.jpeg",
+      "simplified": "窥器（医疗器械）",
+      "traditional": "窺器（醫療器械）",
+      "pinyin": "kuī qì yīliáo qì xiè"
+    },
+    {
+      "id": 390406,
+      "translation": {
+        "en": {
+          "short": "amylase test",
+          "long": "a medical laboratory test used to measure amylase enzyme levels in blood or urine for diagnosing pancreatic conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uji amilase",
+          "long": "Tes laboratorium medis yang digunakan untuk mengukur kadar enzim amilase dalam darah atau urin untuk mendiagnosis kondisi pankreas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390406.jpeg",
+      "simplified": "淀粉酶测试",
+      "traditional": "澱粉酶測試",
+      "pinyin": "diànfěn méi cèshì"
+    },
+    {
+      "id": 390407,
+      "translation": {
+        "en": {
+          "short": "bronchodilator",
+          "long": "a medicine that helps open up the airways in the lungs for easier breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bronkodilator",
+          "long": "obat yang membantu membuka saluran udara di paru -paru untuk lebih mudah bernafas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390407.jpeg",
+      "simplified": "支气管扩张剂",
+      "traditional": "支氣管擴張劑",
+      "pinyin": "zhīqì guǎn kuòzhāng jì"
+    },
+    {
+      "id": 390408,
+      "translation": {
+        "en": {
+          "short": "thrombolysis",
+          "long": "a medical procedure that involves the administration of medication to dissolve blood clots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trombolisis",
+          "long": "Prosedur medis yang melibatkan pemberian obat untuk melarutkan gumpalan darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390408.jpeg",
+      "simplified": "溶栓",
+      "traditional": "溶栓",
+      "pinyin": "róngshuān"
+    },
+    {
+      "id": 390409,
+      "translation": {
+        "en": {
+          "short": "arthroscopy",
+          "long": "a minimally invasive surgical procedure that allows doctors to visualize, diagnose, and treat problems inside a joint using a small camera and specialized instruments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Arthroscopy",
+          "long": "Prosedur bedah invasif minimal yang memungkinkan dokter untuk memvisualisasikan, mendiagnosis, dan mengobati masalah di dalam sendi menggunakan kamera kecil dan instrumen khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390409.jpeg",
+      "simplified": "关节镜检查",
+      "traditional": "關節鏡檢查",
+      "pinyin": "guānjié jìng jiǎnchá"
+    },
+    {
+      "id": 390411,
+      "translation": {
+        "en": {
+          "short": "bronchoscopy",
+          "long": "a procedure to examine the airways and lungs using a flexible tube with a camera",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bronkoskopi",
+          "long": "Prosedur untuk memeriksa saluran udara dan paru -paru menggunakan tabung fleksibel dengan kamera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390411.jpeg",
+      "simplified": "支气管镜检查",
+      "traditional": "支氣管鏡檢查",
+      "pinyin": "zhīqì guǎn jìng jiǎnchá"
+    }
+  ]
+}

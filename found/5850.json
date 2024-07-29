@@ -1,0 +1,886 @@
+{
+  "id": 5850,
+  "title": {
+    "en": "Baseball",
+    "id": "Baseball"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394795,
+      "translation": {
+        "en": {
+          "short": "Baseball5",
+          "long": "a fast-paced, urban version of baseball played with a rubber ball and bare hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Baseball5",
+          "long": "Versi bisbol yang serba cepat dan cepat dimainkan dengan bola karet dan tangan telanjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394795.jpeg",
+      "simplified": "棒球5",
+      "traditional": "棒球5",
+      "pinyin": "bàngqiú"
+    },
+    {
+      "id": 394796,
+      "translation": {
+        "en": {
+          "short": "softball",
+          "long": "a game similar to baseball but on a smaller field in which players use a larger and softer ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Softball",
+          "long": "Permainan yang mirip dengan baseball tetapi di lapangan yang lebih kecil di mana pemain menggunakan bola yang lebih besar dan lebih lembut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394796.jpeg",
+      "simplified": "垒球",
+      "traditional": "壘球",
+      "pinyin": "lěiqiú"
+    },
+    {
+      "id": 394797,
+      "translation": {
+        "en": {
+          "short": "farm team",
+          "long": "a minor league team, especially in baseball, affiliated with a major league club where players develop before potentially joining the major league roster",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tim pertanian",
+          "long": "Tim liga kecil, terutama dalam bisbol, berafiliasi dengan klub liga utama di mana para pemain berkembang sebelum berpotensi bergabung dengan daftar liga utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394797.jpeg",
+      "simplified": "农场队",
+      "traditional": "農場隊",
+      "pinyin": "nóngchǎng duì"
+    },
+    {
+      "id": 394798,
+      "translation": {
+        "en": {
+          "short": "double play",
+          "long": "a defensive play in which two outs are made by the fielding team in a single continuous play",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bermain ganda",
+          "long": "permainan defensif di mana dua out dibuat oleh tim lapangan dalam satu permainan terus menerus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394798.jpeg",
+      "simplified": "双打",
+      "traditional": "雙打",
+      "pinyin": "shuāngdǎ"
+    },
+    {
+      "id": 394799,
+      "translation": {
+        "en": {
+          "short": "at-bat",
+          "long": "a batter's turn to bat against the opposing pitcher during a game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "at-bat",
+          "long": "Giliran adonan untuk melawan pitcher lawan selama pertandingan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394799.jpeg",
+      "simplified": "击球时",
+      "traditional": "擊球時",
+      "pinyin": "jīqiú shí"
+    },
+    {
+      "id": 394800,
+      "translation": {
+        "en": {
+          "short": "bunt",
+          "long": "(baseball) a batting technique where a batter softly taps the ball with the bat to place it into play, often to advance a baserunner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bunt",
+          "long": "(Baseball) Teknik pemukul di mana adonan dengan lembut mengetuk bola dengan kelelawar untuk menempatkannya dalam permainan, sering kali untuk memajukan baserunner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394800.jpeg",
+      "simplified": "短打",
+      "traditional": "短打",
+      "pinyin": "duǎn dá"
+    },
+    {
+      "id": 394801,
+      "translation": {
+        "en": {
+          "short": "fly ball",
+          "long": "(baseball) a hit that travels high into the air and is caught by a fielder before it touches the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola terbang",
+          "long": "(Baseball) Sebuah pukulan yang menempuh tinggi ke udara dan ditangkap oleh seorang pemain fielder sebelum menyentuh tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394801.jpeg",
+      "simplified": "飞球",
+      "traditional": "飛球",
+      "pinyin": "fēi qiú"
+    },
+    {
+      "id": 394802,
+      "translation": {
+        "en": {
+          "short": "force-out",
+          "long": "(baseball) a play where a fielder touches the base with the ball to get an out before the baserunner arrive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dipaksa keluar",
+          "long": "(Baseball) Sebuah drama di mana seorang fielder menyentuh pangkalan dengan bola untuk keluar sebelum Baserunner tiba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394802.jpeg",
+      "simplified": "逼出来",
+      "traditional": "逼出來",
+      "pinyin": "bī chūlái"
+    },
+    {
+      "id": 394700,
+      "translation": {
+        "en": {
+          "short": "steal",
+          "long": "(baseball) a baserunner's attempt to advance to the next base while the pitcher is preparing to pitch or during the pitch itself",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencuri",
+          "long": "(Baseball) Upaya Baserunner untuk maju ke pangkalan berikutnya saat pitcher bersiap untuk melempar atau selama lapangan itu sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394700.jpeg",
+      "simplified": "赃",
+      "traditional": "贓",
+      "pinyin": "zāng"
+    },
+    {
+      "id": 394803,
+      "translation": {
+        "en": {
+          "short": "force play",
+          "long": "(baseball) a situation where a defensive player forces a baserunner out by touching a base with the ball before the baserunner reaches that base",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Permainan kekuatan",
+          "long": "(Baseball) Suatu situasi di mana pemain defensif memaksa baserunner dengan menyentuh pangkalan dengan bola sebelum Baserunner mencapai pangkalan itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394803.jpeg",
+      "simplified": "力量玩",
+      "traditional": "力量玩",
+      "pinyin": "lìliang wán"
+    },
+    {
+      "id": 394804,
+      "translation": {
+        "en": {
+          "short": "foul ball",
+          "long": "(baseball) a hit that travels outside the foul lines, usually resulting in a strike against the batter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola busuk",
+          "long": "(Baseball) Hit yang bergerak di luar garis busuk, biasanya menghasilkan pemogokan terhadap adonan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394804.jpeg",
+      "simplified": "犯规球",
+      "traditional": "犯規球",
+      "pinyin": "fànguī qiú"
+    },
+    {
+      "id": 394805,
+      "translation": {
+        "en": {
+          "short": "ground ball",
+          "long": "(baseball) a hit that rolls along the ground, typically resulting in a play by the infielders to get the batter out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola tanah",
+          "long": "(Baseball) Sebuah hit yang berguling di sepanjang tanah, biasanya menghasilkan permainan oleh Infielders untuk mengeluarkan adonan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394805.jpeg",
+      "simplified": "滚地球",
+      "traditional": "滾地球",
+      "pinyin": "gǔn dìqiú"
+    },
+    {
+      "id": 394806,
+      "translation": {
+        "en": {
+          "short": "to ground out",
+          "long": "to hit a ground ball that is fielded by the defense, resulting in an out",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ditumbuk",
+          "long": "untuk memukul bola tanah yang diturunkan oleh pertahanan, menghasilkan keluar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394806.jpeg",
+      "simplified": "接地",
+      "traditional": "接地",
+      "pinyin": "jiēdì"
+    },
+    {
+      "id": 394809,
+      "translation": {
+        "en": {
+          "short": "home run",
+          "long": "a hit in baseball that occurs when a batter hits the ball and runs around all four bases, scoring a run for their team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Home run",
+          "long": "hit dalam bisbol yang terjadi ketika adonan memukul bola dan berlari di sekitar keempat pangkalan, mencetak lari untuk tim mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394809.jpeg",
+      "simplified": "本垒打",
+      "traditional": "全壘打",
+      "pinyin": "běnlěi dǎ"
+    },
+    {
+      "id": 394810,
+      "translation": {
+        "en": {
+          "short": "line drive",
+          "long": "(baseball) a hard-hit ball that travels directly and quickly through the air, usually at a low angle, making it difficult for fielders to catch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "drive garis",
+          "long": "(Baseball) Sebuah bola keras yang melaju langsung dan cepat di udara, biasanya pada sudut rendah, sehingga sulit untuk ditangkap oleh fielder",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394810.jpeg",
+      "simplified": "线驱动",
+      "traditional": "線驅動",
+      "pinyin": "xiàn qūdòng"
+    },
+    {
+      "id": 394811,
+      "translation": {
+        "en": {
+          "short": "pinch hit",
+          "long": "a hit by a backup batter in baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hit Pinch",
+          "long": "Hit oleh adonan cadangan dalam baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394811.jpeg",
+      "simplified": "捏击",
+      "traditional": "捏擊",
+      "pinyin": "niē jī"
+    },
+    {
+      "id": 394812,
+      "translation": {
+        "en": {
+          "short": "ball",
+          "long": "a baseball pitch that the batter does not swing at and is not called a strike by the umpire because it misses the strike zone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "Pitch bisbol yang tidak diayunkan adonan dan tidak disebut pemogokan oleh wasit karena melewatkan zona pemogokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394812.jpeg",
+      "simplified": "球",
+      "traditional": "球",
+      "pinyin": "qiú"
+    },
+    {
+      "id": 394813,
+      "translation": {
+        "en": {
+          "short": "strike",
+          "long": "(baseball) a pitch that the batter swings at and misses, or that the umpire calls within the strike zone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memukul",
+          "long": "(Baseball) Lapangan yang diayunkan dan dilewatkan oleh adonan, atau bahwa wasit panggilan di dalam zona pemogokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394813.jpeg",
+      "simplified": "打击",
+      "traditional": "打擊",
+      "pinyin": "dǎjī"
+    },
+    {
+      "id": 394814,
+      "translation": {
+        "en": {
+          "short": "strikeout",
+          "long": "an out that happens when a batter receives three strikes during their turn at bat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyerang",
+          "long": "yang keluar yang terjadi saat adonan menerima tiga serangan selama giliran mereka di kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394814.jpeg",
+      "simplified": "三振",
+      "traditional": "三振",
+      "pinyin": "sānzhèn"
+    },
+    {
+      "id": 394815,
+      "translation": {
+        "en": {
+          "short": "pop fly",
+          "long": "(baseball) a batted ball hit high into the air but not far, typically resulting in an easy catch for an outfielder or infielder",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pop Fly",
+          "long": "(Baseball) Sebuah bola bertarung menghantam tinggi ke udara tetapi tidak jauh, biasanya menghasilkan tangkapan mudah untuk pemain luar atau infielder",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394815.jpeg",
+      "simplified": "流行飞",
+      "traditional": "流行飛",
+      "pinyin": "liúxíng fēi"
+    },
+    {
+      "id": 394816,
+      "translation": {
+        "en": {
+          "short": "run batted in",
+          "long": "(baseball) a statistic that credits a batter when their hit or action allows a runner to score",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jalankan Batted In",
+          "long": "(Baseball) Statistik yang mengkredit adonan saat hit atau aksi mereka memungkinkan pelari untuk mencetak gol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394816.jpeg",
+      "simplified": "跑步",
+      "traditional": "跑步",
+      "pinyin": "pǎobù"
+    },
+    {
+      "id": 394817,
+      "translation": {
+        "en": {
+          "short": "home plate",
+          "long": "(baseball) the base where the batter stands and where players must reach to score a run",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring rumah",
+          "long": "(baseball) Pangkalan di mana adonan berdiri dan di mana pemain harus mencapai skor lari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394817.jpeg",
+      "simplified": "本垒",
+      "traditional": "本壘",
+      "pinyin": "běnlěi"
+    },
+    {
+      "id": 394819,
+      "translation": {
+        "en": {
+          "short": "backstop",
+          "long": "(baseball) the fence or wall behind home plate that stops wild pitches and protects spectators",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penghalang",
+          "long": "(Baseball) Pagar atau dinding di belakang piring rumah yang menghentikan lapangan liar dan melindungi penonton",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394819.jpeg",
+      "simplified": "赈",
+      "traditional": "賑",
+      "pinyin": "zhèn"
+    },
+    {
+      "id": 394823,
+      "translation": {
+        "en": {
+          "short": "pick",
+          "long": "a defensive play in baseball where a fielder quickly catches a baserunner off their base",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memilih",
+          "long": "Drama defensif dalam bisbol di mana seorang fielder dengan cepat menangkap seorang baserunner dari pangkalan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394823.jpeg",
+      "simplified": "遴选",
+      "traditional": "遴選",
+      "pinyin": "línxuǎn"
+    },
+    {
+      "id": 394824,
+      "translation": {
+        "en": {
+          "short": "brushback pitch",
+          "long": "(baseball) a pitch thrown close to a batter to intimidate or force them away from the plate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pitch Brushback",
+          "long": "(Baseball) Pitch yang dilemparkan ke dekat adonan untuk mengintimidasi atau memaksanya menjauh dari piring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394824.jpeg",
+      "simplified": "刷背间距",
+      "traditional": "刷背間距",
+      "pinyin": "shuā bēi jiānjù"
+    },
+    {
+      "id": 394825,
+      "translation": {
+        "en": {
+          "short": "curve",
+          "long": "(baseball) a type of pitch that bends or curves as it approaches the batter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melengkung",
+          "long": "(baseball) Jenis nada yang menekuk atau melengkung saat mendekati adonan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394825.jpeg",
+      "simplified": "曲线",
+      "traditional": "曲線",
+      "pinyin": "qūxiàn"
+    },
+    {
+      "id": 394826,
+      "translation": {
+        "en": {
+          "short": "fastball",
+          "long": "(baseball) a type of pitch thrown at high speed with minimal movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fastball",
+          "long": "(Baseball) Jenis nada yang dilemparkan dengan kecepatan tinggi dengan gerakan minimal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394826.jpeg",
+      "simplified": "快球",
+      "traditional": "快球",
+      "pinyin": "kuài qiú"
+    },
+    {
+      "id": 394827,
+      "translation": {
+        "en": {
+          "short": "forkball",
+          "long": "(baseball) a pitch thrown with a grip that causes the ball to drop sharply before reaching the plate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Forkball",
+          "long": "(Baseball) Lapangan dilemparkan dengan cengkeraman yang menyebabkan bola turun dengan tajam sebelum mencapai piring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394827.jpeg",
+      "simplified": "叉球",
+      "traditional": "叉球",
+      "pinyin": "chā qiú"
+    },
+    {
+      "id": 394828,
+      "translation": {
+        "en": {
+          "short": "pitchout",
+          "long": "a deliberate pitch thrown by the pitcher far outside the strike zone in baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pitchout",
+          "long": "Pitch yang disengaja dilemparkan oleh pitcher jauh di luar zona strike dalam bisbol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394828.jpeg",
+      "simplified": "投球",
+      "traditional": "投球",
+      "pinyin": "tóu qiú"
+    },
+    {
+      "id": 394829,
+      "translation": {
+        "en": {
+          "short": "save",
+          "long": "a relief pitcher successfully preserving a lead to win the baseball game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyimpan",
+          "long": "Pitcher bantuan berhasil menjaga keunggulan untuk memenangkan pertandingan bisbol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394829.jpeg",
+      "simplified": "节省",
+      "traditional": "節省",
+      "pinyin": "jiéshěng"
+    },
+    {
+      "id": 394830,
+      "translation": {
+        "en": {
+          "short": "caught stealing",
+          "long": "(baseball) a baserunner being tagged out while attempting to steal a base",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tertangkap mencuri",
+          "long": "(Baseball) Seorang baserunner ditandai saat mencoba mencuri pangkalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394830.jpeg",
+      "simplified": "偷窃被抓",
+      "traditional": "偷竊被抓",
+      "pinyin": "tōuqiè bèi zhuā"
+    },
+    {
+      "id": 394831,
+      "translation": {
+        "en": {
+          "short": "to tag up",
+          "long": "(in baseball) to return to and touch a base after a fly ball is caught before attempting to advance to the next base",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menandai",
+          "long": "(dalam baseball) untuk kembali dan menyentuh pangkalan setelah bola terbang ditangkap sebelum mencoba untuk maju ke pangkalan berikutnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394831.jpeg",
+      "simplified": "标记",
+      "traditional": "標記",
+      "pinyin": "biāojì"
+    },
+    {
+      "id": 394832,
+      "translation": {
+        "en": {
+          "short": "to tag out",
+          "long": "(in baseball) to touch a runner with the ball to get them out",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menandai",
+          "long": "(dalam baseball) untuk menyentuh pelari dengan bola untuk mengeluarkannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394832.jpeg",
+      "simplified": "标记出",
+      "traditional": "標記出",
+      "pinyin": "biāojì chū"
+    },
+    {
+      "id": 394958,
+      "translation": {
+        "en": {
+          "short": "inning",
+          "long": "a part of the baseball game where each team gets a turn to bat and field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inning",
+          "long": "Bagian dari pertandingan bisbol di mana setiap tim mendapat giliran ke kelelawar dan lapangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394958.jpeg",
+      "simplified": "发展的机会",
+      "traditional": "發展的機會",
+      "pinyin": "fāzhǎn de jīhuì"
+    },
+    {
+      "id": 403179,
+      "translation": {
+        "en": {
+          "short": "card",
+          "long": "(baseball) a list showing the order of batters for a team",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu",
+          "long": "(baseball) Daftar yang menunjukkan urutan batters untuk tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403179.jpeg",
+      "simplified": "卡",
+      "traditional": "卡",
+      "pinyin": "kǎ"
+    },
+    {
+      "id": 403303,
+      "translation": {
+        "en": {
+          "short": "baseline",
+          "long": "(baseball) the path a baserunner must follow while running from one base to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Baseline",
+          "long": "(baseball) jalan yang harus diikuti oleh baserunner saat berlari dari satu pangkalan ke pangkalan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403303.jpeg",
+      "simplified": "基线",
+      "traditional": "基線",
+      "pinyin": "jīxiàn"
+    },
+    {
+      "id": 404446,
+      "translation": {
+        "en": {
+          "short": "swing",
+          "long": "the act of a batter attempting to hit the ball with the bat in baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengayun",
+          "long": "Tindakan adonan yang mencoba memukul bola dengan kelelawar di baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404446.jpeg",
+      "simplified": "荡",
+      "traditional": "盪",
+      "pinyin": "dàng"
+    },
+    {
+      "id": 404451,
+      "translation": {
+        "en": {
+          "short": "whiff",
+          "long": "a swing and miss by the batter, where the bat fails to make contact with the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bau",
+          "long": "Ayunan dan lewatkan adonan, di mana kelelawar gagal melakukan kontak dengan bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404451.jpeg",
+      "simplified": "股",
+      "traditional": "股",
+      "pinyin": "gǔ"
+    },
+    {
+      "id": 404644,
+      "translation": {
+        "en": {
+          "short": "safety",
+          "long": "a base hit that allows the batter to reach base safely without being put out by the defense",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keamanan",
+          "long": "Hit pangkalan yang memungkinkan adonan mencapai dasar dengan aman tanpa dikeluarkan oleh pertahanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404644.jpeg",
+      "simplified": "安全",
+      "traditional": "安全",
+      "pinyin": "ānquán"
+    },
+    {
+      "id": 404789,
+      "translation": {
+        "en": {
+          "short": "run",
+          "long": "a score resulted from a player successfully reaches home plate after touching all the bases in order without being put out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berlari",
+          "long": "Skor dihasilkan dari pemain yang berhasil mencapai home plate setelah menyentuh semua pangkalan secara berurutan tanpa dipadamkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404789.jpeg",
+      "simplified": "跑步",
+      "traditional": "跑步",
+      "pinyin": "pǎobù"
+    },
+    {
+      "id": 407441,
+      "translation": {
+        "en": {
+          "short": "pitch",
+          "long": "(in baseball) the act of throwing the ball towards the batter in order to start the game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melempar",
+          "long": "(dalam baseball) Tindakan melempar bola ke arah adonan untuk memulai permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407441.jpeg",
+      "simplified": "沥青",
+      "traditional": "瀝青",
+      "pinyin": "lìqīng"
+    },
+    {
+      "id": 407210,
+      "translation": {
+        "en": {
+          "short": "batting average",
+          "long": "a statistic that shows how often a baseball player gets a hit when at bat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rata -rata pukulan",
+          "long": "statistik yang menunjukkan seberapa sering pemain baseball mendapat pukulan saat di kelelawar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407210.jpeg",
+      "simplified": "击球率",
+      "traditional": "擊球率",
+      "pinyin": "jīqiú lǜ"
+    },
+    {
+      "id": 407444,
+      "translation": {
+        "en": {
+          "short": "to pitch",
+          "long": "to deliver a baseball to the batter from the pitcher's mound with the intention of starting a play or attempting to strike out the batter",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melempar",
+          "long": "untuk mengirimkan baseball ke adonan dari gundukan pitcher dengan maksud memulai permainan atau mencoba untuk menyerang adonan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407444.jpeg",
+      "simplified": "俯仰",
+      "traditional": "俯仰",
+      "pinyin": "fǔyǎng"
+    },
+    {
+      "id": 408236,
+      "translation": {
+        "en": {
+          "short": "peg",
+          "long": "(baseball) a quick, accurate throw to a base to get a runner out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasak",
+          "long": "(Baseball) Lemparan cepat dan akurat ke pangkalan untuk mengeluarkan pelari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408236.jpeg",
+      "simplified": "衣夹",
+      "traditional": "衣夾",
+      "pinyin": "yījiā"
+    },
+    {
+      "id": 407494,
+      "translation": {
+        "en": {
+          "short": "to walk",
+          "long": "(of a batter in baseball) to advance to first base by not swinging at four pitches that are outside the strike zone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berjalan",
+          "long": "(dari adonan dalam baseball) untuk maju ke pangkalan pertama dengan tidak berayun di empat pitch yang berada di luar zona strike",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407494.jpeg",
+      "simplified": "步行",
+      "traditional": "步行",
+      "pinyin": "bùxíng"
+    },
+    {
+      "id": 407456,
+      "translation": {
+        "en": {
+          "short": "out",
+          "long": "(baseball) a failure by a batter or runner to reach a base safely in baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keluar",
+          "long": "(Baseball) Kegagalan oleh adonan atau pelari untuk mencapai pangkalan dengan aman di baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407456.jpeg",
+      "simplified": "出去",
+      "traditional": "出去",
+      "pinyin": "chūqù"
+    }
+  ]
+}

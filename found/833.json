@@ -1,0 +1,659 @@
+{
+  "id": 833,
+  "title": {
+    "en": "Fairy Tales",
+    "id": "Dongeng"
+  },
+  "description": {
+    "en": "Here you will learn some English words about fairy tales, such as \"charm\", \"curse\", \"enchant\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang dongeng, seperti \"pesona\", \"kutukan\", \"mempesona\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 237540,
+      "translation": {
+        "en": {
+          "short": "to bewitch",
+          "long": "to use a spell against someone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyihir",
+          "long": "untuk menggunakan mantra terhadap seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237540.jpeg",
+      "simplified": "欺骗",
+      "traditional": "欺騙",
+      "pinyin": "qīpiàn"
+    },
+    {
+      "id": 237538,
+      "translation": {
+        "en": {
+          "short": "to charm",
+          "long": "to gain control over someone by using magic spells",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pesona",
+          "long": "untuk mendapatkan kendali atas seseorang dengan menggunakan mantra sihir",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237538.jpeg",
+      "simplified": "使某人着迷",
+      "traditional": "使某人著迷",
+      "pinyin": "shǐ mǒurén zháomí"
+    },
+    {
+      "id": 237539,
+      "translation": {
+        "en": {
+          "short": "to curse",
+          "long": "to put an evil spell on someone to harm them",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengutuk",
+          "long": "untuk menempatkan mantra jahat pada seseorang untuk menyakiti mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237539.jpeg",
+      "simplified": "对某人施咒语",
+      "traditional": "對某人施咒語",
+      "pinyin": "duì mǒurén Shī zhòuyǔ"
+    },
+    {
+      "id": 237536,
+      "translation": {
+        "en": {
+          "short": "to enchant",
+          "long": "to put someone under a magic spell",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mempesona",
+          "long": "untuk menempatkan seseorang di bawah mantra ajaib",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237536.jpeg",
+      "simplified": "蛊惑",
+      "traditional": "蠱惑",
+      "pinyin": "gǔhuò"
+    },
+    {
+      "id": 237525,
+      "translation": {
+        "en": {
+          "short": "to haunt",
+          "long": "(of a ghost) to appear or be seen repeatedly in a building",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menghantui",
+          "long": "(dari hantu) untuk muncul atau terlihat berulang kali di sebuah gedung",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237525.jpeg",
+      "simplified": "（鬼）附身于某人",
+      "traditional": "（鬼）附身於某人",
+      "pinyin": "guǐ fùshēn Yú mǒurén"
+    },
+    {
+      "id": 237521,
+      "translation": {
+        "en": {
+          "short": "demon",
+          "long": "an evil supernatural creature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setan",
+          "long": "makhluk supernatural jahat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237521.jpeg",
+      "simplified": "恶魔",
+      "traditional": "惡魔",
+      "pinyin": "èmó"
+    },
+    {
+      "id": 238020,
+      "translation": {
+        "en": {
+          "short": "dragon",
+          "long": "a fictional, large winged animal with a long tail that is usually able to breathe fire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "naga",
+          "long": "Hewan bersayap besar fiksi dengan ekor panjang yang biasanya bisa menghirup api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238020.jpeg",
+      "simplified": "龙",
+      "traditional": "龍",
+      "pinyin": "Lóng"
+    },
+    {
+      "id": 237513,
+      "translation": {
+        "en": {
+          "short": "dwarf",
+          "long": "a fictional, small human-like creature that generally lives under the ground and works in mines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerdil",
+          "long": "Makhluk fiksi, seperti manusia kecil yang umumnya hidup di bawah tanah dan bekerja di tambang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237513.jpeg",
+      "simplified": "矮人",
+      "traditional": "矮人",
+      "pinyin": "ǎirén"
+    },
+    {
+      "id": 237506,
+      "translation": {
+        "en": {
+          "short": "fairy",
+          "long": "a fictional, small especially female creature that has magical powers, sometimes has the ability to grant wishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peri",
+          "long": "Fiksi, terutama makhluk perempuan yang memiliki kekuatan magis, kadang -kadang memiliki kemampuan untuk memberikan keinginan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237506.jpeg",
+      "simplified": "仙女",
+      "traditional": "仙女",
+      "pinyin": "xiānnǚ"
+    },
+    {
+      "id": 237510,
+      "translation": {
+        "en": {
+          "short": "genie",
+          "long": "a supernatural being in Arabian stories that  has the power to grant wishes to those who summon or free them from a lamp, bottle, or other container",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jin",
+          "long": "Makhluk supernatural dalam cerita Arab yang memiliki kekuatan untuk memberikan keinginan kepada mereka yang memanggil atau membebaskannya dari lampu, botol, atau wadah lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237510.jpeg",
+      "simplified": "神灯精灵",
+      "traditional": "神燈精靈",
+      "pinyin": "Shén dēng jīnglíng"
+    },
+    {
+      "id": 237523,
+      "translation": {
+        "en": {
+          "short": "ghost",
+          "long": "a dead person or animal's spirit that appears to the living",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hantu",
+          "long": "orang mati atau roh hewan yang muncul untuk yang hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237523.jpeg",
+      "simplified": "鬼",
+      "traditional": "鬼",
+      "pinyin": "guǐ"
+    },
+    {
+      "id": 237516,
+      "translation": {
+        "en": {
+          "short": "giant",
+          "long": "a fictional human-like creature that is extremely large and powerful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "raksasa",
+          "long": "makhluk seperti manusia fiksi yang sangat besar dan kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237516.jpeg",
+      "simplified": "巨人",
+      "traditional": "巨人",
+      "pinyin": "jùrén"
+    },
+    {
+      "id": 237531,
+      "translation": {
+        "en": {
+          "short": "ghoul",
+          "long": "a fictional evil spirit or creature from Arabia stories that eats buried dead bodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setan kubur",
+          "long": "Roh atau makhluk jahat fiksi dari kisah -kisah Arab yang memakan mayat terkubur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237531.jpeg",
+      "simplified": "饿鬼",
+      "traditional": "餓鬼",
+      "pinyin": "èguǐ"
+    },
+    {
+      "id": 237533,
+      "translation": {
+        "en": {
+          "short": "goblin",
+          "long": "a fictional small creature that likes to make trouble for humans or trick them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Goblin",
+          "long": "makhluk kecil fiksi yang suka membuat masalah bagi manusia atau menipu mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237533.jpeg",
+      "simplified": "妖怪",
+      "traditional": "妖怪",
+      "pinyin": "yāoguài"
+    },
+    {
+      "id": 237532,
+      "translation": {
+        "en": {
+          "short": "golem",
+          "long": "a fictional figure in Jewish stories, often made of clay or mud, that is brought to life using magic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Golem",
+          "long": "Sosok fiksi dalam cerita Yahudi, sering terbuat dari tanah liat atau lumpur, yang dihidupkan menggunakan sihir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237532.jpeg",
+      "simplified": "傀儡",
+      "traditional": "傀儡",
+      "pinyin": "kuǐlěi"
+    },
+    {
+      "id": 237530,
+      "translation": {
+        "en": {
+          "short": "goddess",
+          "long": "a female divine being worshipped in different religions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dewi",
+          "long": "seorang ilahi wanita disembah dalam agama yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237530.jpeg",
+      "simplified": "女神",
+      "traditional": "女神",
+      "pinyin": "nǚshén"
+    },
+    {
+      "id": 237528,
+      "translation": {
+        "en": {
+          "short": "leprechaun",
+          "long": "a fictional, small man-like creature in Irish stories who is known for hiding pots of gold at the end of rainbows",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Leprechaun",
+          "long": "Makhluk fiksi seperti pria kecil dalam cerita Irlandia yang dikenal karena menyembunyikan pot emas di ujung pelangi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237528.jpeg",
+      "simplified": "妖精",
+      "traditional": "妖精",
+      "pinyin": "yāojing"
+    },
+    {
+      "id": 237507,
+      "translation": {
+        "en": {
+          "short": "mermaid",
+          "long": "a fictional creature that is half woman and half fish, which lives in the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putri duyung",
+          "long": "makhluk fiksi yang setengah wanita dan setengah ikan, yang hidup di laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237507.jpeg",
+      "simplified": "美人鱼",
+      "traditional": "美人魚",
+      "pinyin": "měirén yú"
+    },
+    {
+      "id": 237505,
+      "translation": {
+        "en": {
+          "short": "monster",
+          "long": "a fictional, scary, and often large and threatening creature with supernatural abilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "raksasa",
+          "long": "makhluk fiksi, menakutkan, dan seringkali besar dan mengancam dengan kemampuan supranatural",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237505.jpeg",
+      "simplified": "怪物",
+      "traditional": "怪物",
+      "pinyin": "guàiwu"
+    },
+    {
+      "id": 237520,
+      "translation": {
+        "en": {
+          "short": "nymph",
+          "long": "a fictional creature that lives in woods, rivers, etc. and has the shape of a young woman",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peri",
+          "long": "makhluk fiksi yang hidup di hutan, sungai, dll. Dan memiliki bentuk seorang wanita muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237520.jpeg",
+      "simplified": "生活在树林里的虚构生物",
+      "traditional": "生活在樹林裡的虛構生物",
+      "pinyin": "shēnghuó zài Shùlín lǐ de xūgòu shēngwù"
+    },
+    {
+      "id": 237527,
+      "translation": {
+        "en": {
+          "short": "ogre",
+          "long": "a fictional, scary, and large creature that likes to eat humans",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "raksasa",
+          "long": "makhluk fiksi, menakutkan, dan besar yang suka makan manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237527.jpeg",
+      "simplified": "怪物",
+      "traditional": "怪物",
+      "pinyin": "guàiwu"
+    },
+    {
+      "id": 237522,
+      "translation": {
+        "en": {
+          "short": "phoenix",
+          "long": "a fictional, often large bird with a long life that is reborn through fire and its own ashes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Phoenix",
+          "long": "Burung fiksi, seringkali besar dengan umur panjang yang dilahirkan kembali melalui api dan abu sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237522.jpeg",
+      "simplified": "凤凰",
+      "traditional": "鳳凰",
+      "pinyin": "Fènghuáng"
+    },
+    {
+      "id": 237519,
+      "translation": {
+        "en": {
+          "short": "siren",
+          "long": "a fictional sea creature that is half-woman and half-bird or fish which draws sailors to dangerous waters by singing to them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sirene",
+          "long": "makhluk laut fiksi yang setengah wanita dan setengah burung atau ikan yang menarik pelaut ke perairan berbahaya dengan menyanyikannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237519.jpeg",
+      "simplified": "海妖（神话生物）",
+      "traditional": "海妖（神話生物）",
+      "pinyin": "Hǎi yāo shénhuà shēngwù"
+    },
+    {
+      "id": 237534,
+      "translation": {
+        "en": {
+          "short": "sorcerer",
+          "long": "a fictional man who has magic powers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang sihir",
+          "long": "seorang pria fiksi yang memiliki kekuatan ajaib",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237534.jpeg",
+      "simplified": "巫师（男）",
+      "traditional": "巫師（男）",
+      "pinyin": "wūshī nán"
+    },
+    {
+      "id": 237535,
+      "translation": {
+        "en": {
+          "short": "sorceress",
+          "long": "a fictional woman who has magic powers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyihir",
+          "long": "seorang wanita fiksi yang memiliki kekuatan ajaib",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237535.jpeg",
+      "simplified": "女巫师",
+      "traditional": "女巫師",
+      "pinyin": "nǚwū Shī"
+    },
+    {
+      "id": 237524,
+      "translation": {
+        "en": {
+          "short": "spirit",
+          "long": "a non-physical being that lives on after its body dies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "roh",
+          "long": "makhluk non-fisik yang hidup setelah tubuhnya mati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237524.jpeg",
+      "simplified": "精神",
+      "traditional": "精神",
+      "pinyin": "jīngshén"
+    },
+    {
+      "id": 237511,
+      "translation": {
+        "en": {
+          "short": "tooth fairy",
+          "long": "a fictional creature that leaves a coin for every fallen tooth of a child it takes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peri Gigi",
+          "long": "makhluk fiksi yang meninggalkan koin untuk setiap gigi anak yang jatuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237511.jpeg",
+      "simplified": "牙仙子",
+      "traditional": "牙仙子",
+      "pinyin": "yá xiānzǐ"
+    },
+    {
+      "id": 237515,
+      "translation": {
+        "en": {
+          "short": "troll",
+          "long": "any fictional creature in Scandinavian stories that some of which are large and frightening and some are small and mischievous",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "troll",
+          "long": "Setiap makhluk fiksi dalam cerita Skandinavia yang beberapa di antaranya besar dan menakutkan dan ada yang kecil dan nakal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237515.jpeg",
+      "simplified": "巨魔（神话生物）",
+      "traditional": "巨魔（神話生物）",
+      "pinyin": "jùmó shénhuà shēngwù"
+    },
+    {
+      "id": 237504,
+      "translation": {
+        "en": {
+          "short": "unicorn",
+          "long": "a fictional horse with a straight horn on its forehead",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unicorn",
+          "long": "kuda fiksi dengan tanduk lurus di dahinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237504.jpeg",
+      "simplified": "独角兽",
+      "traditional": "獨角獸",
+      "pinyin": "dújiǎo shòu"
+    },
+    {
+      "id": 237537,
+      "translation": {
+        "en": {
+          "short": "voodoo doll",
+          "long": "a doll that is believed through which one can control or harm someone else",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "boneka voodoo",
+          "long": "boneka yang diyakini melalui mana seseorang dapat mengendalikan atau menyakiti orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237537.jpeg",
+      "simplified": "巫毒娃娃",
+      "traditional": "巫毒娃娃",
+      "pinyin": "wūdú wáwa"
+    },
+    {
+      "id": 237508,
+      "translation": {
+        "en": {
+          "short": "werewolf",
+          "long": "a fictional person who is cursed and can transform into a large wolf and back to human form during full moon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "manusia serigala",
+          "long": "orang fiksi yang dikutuk dan dapat berubah menjadi serigala besar dan kembali ke bentuk manusia selama bulan purnama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237508.jpeg",
+      "simplified": "狼人",
+      "traditional": "狼人",
+      "pinyin": "lángrén"
+    },
+    {
+      "id": 237509,
+      "translation": {
+        "en": {
+          "short": "zombie",
+          "long": "a fictional dead person or animal that is brought back to life through supernatural means",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "zombie",
+          "long": "orang atau hewan mati fiksi yang dihidupkan kembali melalui cara supranatural",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237509.jpeg",
+      "simplified": "僵尸",
+      "traditional": "殭屍",
+      "pinyin": "jiāngshī"
+    },
+    {
+      "id": 264019,
+      "translation": {
+        "en": {
+          "short": "demigod",
+          "long": "a mythological figure that is half-god and half-human, often possessing extraordinary abilities or powers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah dewa",
+          "long": "Sosok mitologis yang setengah dewa dan setengah manusia, sering memiliki kemampuan atau kekuatan luar biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264019.jpeg",
+      "simplified": "半神",
+      "traditional": "半神",
+      "pinyin": "bànshén"
+    },
+    {
+      "id": 343261,
+      "translation": {
+        "en": {
+          "short": "fabled",
+          "long": "(of stories or creatures) originating from a myth or legend",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dongeng",
+          "long": "(cerita atau makhluk) yang berasal dari mitos atau legenda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343261.jpeg",
+      "simplified": "传说中的",
+      "traditional": "傳說中的",
+      "pinyin": "chuánshuō zhòngdì"
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "id": 3610,
+  "title": {
+    "en": "Folk and Ceremonial Dance",
+    "id": "Tarian rakyat dan upacara"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to folk and ceremonial dance such as \"polka\", \"rhumba\", and \"sword dance\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan tarian rakyat dan upacara seperti \"polka\", \"rhumba\", dan \"tarian pedang\"."
+  },
+  "cards": [
+    {
+      "id": 331690,
+      "translation": {
+        "en": {
+          "short": "reel",
+          "long": "a lively folk dance, originating from Scottish or Irish traditions, characterized by quick and intricate steps performed in a circular or line formation, often accompanied by traditional music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kumparan",
+          "long": "Tarian rakyat yang hidup, berasal dari tradisi Skotlandia atau Irlandia, ditandai dengan langkah -langkah cepat dan rumit yang dilakukan dalam formasi melingkar atau garis, sering disertai dengan musik tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331690.jpeg",
+      "simplified": "卷轴",
+      "traditional": "捲軸",
+      "pinyin": "juànzhóu"
+    },
+    {
+      "id": 331691,
+      "translation": {
+        "en": {
+          "short": "polka",
+          "long": "a fast couple dance in duple time that was developed in Bohemia in the 19th century",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polka",
+          "long": "Tarian pasangan cepat dalam waktu duple yang dikembangkan di bohemia pada abad ke -19",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331691.jpeg",
+      "simplified": "波尔卡",
+      "traditional": "波爾卡",
+      "pinyin": "bōěr kǎ"
+    },
+    {
+      "id": 331692,
+      "translation": {
+        "en": {
+          "short": "jig",
+          "long": "a lively folk dance, originating from Irish or Scottish traditions, characterized by quick and rhythmic movements, often performed in groups and accompanied by traditional music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berjoget",
+          "long": "Tarian rakyat yang hidup, berasal dari tradisi Irlandia atau Skotlandia, ditandai dengan gerakan cepat dan berirama, sering dilakukan dalam kelompok dan disertai dengan musik tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331692.jpeg",
+      "simplified": "夹具",
+      "traditional": "夾具",
+      "pinyin": "jiājù"
+    },
+    {
+      "id": 331796,
+      "translation": {
+        "en": {
+          "short": "Cham dance",
+          "long": "a traditional masked dance performed in Tibet and Bhutan, often associated with Buddhist religious ceremonies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cham Dance",
+          "long": "Tarian bertopeng tradisional yang dilakukan di Tibet dan Bhutan, sering dikaitkan dengan upacara keagamaan Buddha",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331796.jpeg",
+      "simplified": "占婆舞",
+      "traditional": "佔婆舞",
+      "pinyin": "Zhànpó wǔ"
+    },
+    {
+      "id": 331694,
+      "translation": {
+        "en": {
+          "short": "hornpipe",
+          "long": "a lively solo dance, originally of English origin, characterized by intricate footwork and performed to hornpipe music, often featuring sailors' movements and gestures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dansa pelaut yg lincah",
+          "long": "Tarian solo yang hidup, aslinya berasal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331694.jpeg",
+      "simplified": "喇叭",
+      "traditional": "喇叭",
+      "pinyin": "lǎba"
+    },
+    {
+      "id": 331695,
+      "translation": {
+        "en": {
+          "short": "highland fling",
+          "long": "a traditional Scottish dance characterized by intricate footwork, typically performed solo and featuring lively movements such as leaps, kicks, and turns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Highland Fling",
+          "long": "Tarian tradisional Skotlandia yang ditandai dengan gerak kaki yang rumit, biasanya dilakukan solo dan menampilkan gerakan hidup seperti lompatan, tendangan, dan belokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331695.jpeg",
+      "simplified": "高地狂欢",
+      "traditional": "高地狂歡",
+      "pinyin": "gāodì kuánghuān"
+    },
+    {
+      "id": 331696,
+      "translation": {
+        "en": {
+          "short": "gavotte",
+          "long": "a lively French dance characterized by moderate tempo and rhythmic patterns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gavotte",
+          "long": "Tarian Prancis yang hidup ditandai dengan tempo moderat dan pola berirama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331696.jpeg",
+      "simplified": "加沃特舞曲",
+      "traditional": "加沃特舞曲",
+      "pinyin": "jiāwò tè wǔqǔ"
+    },
+    {
+      "id": 331697,
+      "translation": {
+        "en": {
+          "short": "morris dance",
+          "long": "a traditional English folk dance characterized by rhythmic stepping, intricate formations, and the use of bells, handkerchiefs, sticks, or swords as props",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Morris Dance",
+          "long": "tarian rakyat Inggris tradisional yang ditandai dengan loncatan berirama, formasi rumit, dan penggunaan lonceng, saputangan, tongkat, atau pedang sebagai alat peraga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331697.jpeg",
+      "simplified": "莫里斯舞蹈",
+      "traditional": "莫里斯舞蹈",
+      "pinyin": "Mò lǐ Sī wǔdǎo"
+    },
+    {
+      "id": 331699,
+      "translation": {
+        "en": {
+          "short": "tarantella",
+          "long": "a lively Italian folk dance, traditionally associated with the southern regions of Italy, characterized by quick, upbeat tempo and rhythmic footwork",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tarantella",
+          "long": "Tarian rakyat Italia yang hidup, yang secara tradisional dikaitkan dengan daerah selatan Italia, ditandai dengan tempo yang cepat dan ceria dan gerak kaki berirama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331699.jpeg",
+      "simplified": "塔兰泰拉",
+      "traditional": "塔蘭泰拉",
+      "pinyin": "tǎ Lán Tài lā"
+    },
+    {
+      "id": 331705,
+      "translation": {
+        "en": {
+          "short": "Schuhplattler",
+          "long": "a traditional Bavarian folk dance characterized by slapping the thighs, knees, and shoes in a rhythmic pattern",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Schuhplattler",
+          "long": "Tarian rakyat Bavaria tradisional ditandai dengan menampar paha, lutut, dan sepatu dalam pola berirama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331705.jpeg",
+      "simplified": "舒普拉特勒",
+      "traditional": "舒普拉特勒",
+      "pinyin": "Shū Pǔlā tè lè"
+    },
+    {
+      "id": 331731,
+      "translation": {
+        "en": {
+          "short": "Hopak",
+          "long": "a Ukrainian folk dance known for its energetic and acrobatic movements, typically performed by male dancers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hopak",
+          "long": "Tarian rakyat Ukraina yang dikenal karena gerakannya yang energik dan akrobatik, biasanya dilakukan oleh penari pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331731.jpeg",
+      "simplified": "霍帕克",
+      "traditional": "霍帕克",
+      "pinyin": "Huò pà Kè"
+    },
+    {
+      "id": 331736,
+      "translation": {
+        "en": {
+          "short": "Irish stepdance",
+          "long": "a traditional dance style from Ireland characterized by fast footwork, precise movements, and rhythmic patterns, often performed in solo or group settings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Stepdance Irlandia",
+          "long": "Gaya tari tradisional dari Irlandia yang ditandai dengan gerak kaki yang cepat, gerakan yang tepat, dan pola berirama, sering dilakukan dalam pengaturan solo atau grup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331736.jpeg",
+      "simplified": "爱尔兰踢踏舞",
+      "traditional": "愛爾蘭踢踏舞",
+      "pinyin": "Aìěr lán tītà wǔ"
+    },
+    {
+      "id": 331746,
+      "translation": {
+        "en": {
+          "short": "Horon",
+          "long": "a traditional folk dance from the Black Sea region of Turkey known for its energetic and fast-paced movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Horon",
+          "long": "Tarian rakyat tradisional dari wilayah Laut Hitam Turki yang dikenal karena gerakannya yang energik dan serba cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331746.jpeg",
+      "simplified": "霍伦",
+      "traditional": "霍倫",
+      "pinyin": "Huò lún"
+    },
+    {
+      "id": 331756,
+      "translation": {
+        "en": {
+          "short": "dirk dance",
+          "long": "a traditional Scottish dance performed with a dirk, which is a type of Scottish dagger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dirk Dance",
+          "long": "tarian tradisional Skotlandia yang dilakukan dengan dirk, yang merupakan jenis belati Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331756.jpeg",
+      "simplified": "德克舞",
+      "traditional": "德克舞",
+      "pinyin": "Dé Kè wǔ"
+    },
+    {
+      "id": 331759,
+      "translation": {
+        "en": {
+          "short": "ritual dance",
+          "long": "a form of dance performed as part of a ceremonial or religious ritual, often with symbolic gestures and movements that hold cultural or spiritual significance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ritual Dance",
+          "long": "Suatu bentuk tarian yang dilakukan sebagai bagian dari ritual upacara atau agama, seringkali dengan gerakan simbolis dan gerakan yang memiliki signifikansi budaya atau spiritual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331759.jpeg",
+      "simplified": "仪式舞蹈",
+      "traditional": "儀式舞蹈",
+      "pinyin": "yíshì wǔdǎo"
+    },
+    {
+      "id": 331766,
+      "translation": {
+        "en": {
+          "short": "prophetic dance",
+          "long": "a form of expressive movement often associated with religious or spiritual practices, where dancers interpret and express messages or prophecies through their movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian kenabian",
+          "long": "Suatu bentuk gerakan ekspresif yang sering dikaitkan dengan praktik agama atau spiritual, di mana penari menafsirkan dan mengekspresikan pesan atau nubuat melalui gerakan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331766.jpeg",
+      "simplified": "预言之舞",
+      "traditional": "預言之舞",
+      "pinyin": "yùyán zhī wǔ"
+    },
+    {
+      "id": 331820,
+      "translation": {
+        "en": {
+          "short": "liturgical dance",
+          "long": "a form of dance performed as part of a religious or worship ceremony with specific liturgical elements and symbolism",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian liturgi",
+          "long": "Suatu bentuk tarian yang dilakukan sebagai bagian dari upacara agama atau ibadah dengan unsur -unsur liturgi dan simbolisme tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331820.jpeg",
+      "simplified": "礼仪舞蹈",
+      "traditional": "禮儀舞蹈",
+      "pinyin": "lǐyí wǔdǎo"
+    },
+    {
+      "id": 331823,
+      "translation": {
+        "en": {
+          "short": "haka",
+          "long": "a traditional Maori dance characterized by vigorous movements, chanting, and facial expressions, often performed as a ceremonial challenge or war dance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "haka",
+          "long": "Tarian tradisional Maori yang ditandai dengan gerakan yang kuat, nyanyian, dan ekspresi wajah, sering dilakukan sebagai tantangan upacara atau tarian perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331823.jpeg",
+      "simplified": "哈卡战舞",
+      "traditional": "哈卡戰舞",
+      "pinyin": "Hā kǎ zhàn wǔ"
+    },
+    {
+      "id": 331838,
+      "translation": {
+        "en": {
+          "short": "kagura",
+          "long": "a Japanese ritual dance performed as an offering to the gods, often involving music, chanting, and elaborate costumes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kagura",
+          "long": "tarian ritual Jepang yang dilakukan sebagai persembahan bagi para dewa, sering melibatkan musik, nyanyian, dan kostum yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331838.jpeg",
+      "simplified": "神乐",
+      "traditional": "神樂",
+      "pinyin": "Shén Lè"
+    },
+    {
+      "id": 331848,
+      "translation": {
+        "en": {
+          "short": "war dance",
+          "long": "a ceremonial dance performed by warriors before battle, often to intimidate opponents or to prepare mentally for combat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian perang",
+          "long": "tarian upacara yang dilakukan oleh prajurit sebelum pertempuran, seringkali untuk mengintimidasi lawan atau mempersiapkan secara mental untuk pertempuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331848.jpeg",
+      "simplified": "战舞",
+      "traditional": "戰舞",
+      "pinyin": "zhàn wǔ"
+    },
+    {
+      "id": 331856,
+      "translation": {
+        "en": {
+          "short": "egg dance",
+          "long": "a traditional dance where dancers perform intricate footwork while balancing eggs on spoons or other objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tarian telur",
+          "long": "tarian tradisional di mana penari melakukan gerak kaki yang rumit sambil menyeimbangkan telur pada sendok atau benda lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/331856.jpeg",
+      "simplified": "鸡蛋舞",
+      "traditional": "雞蛋舞",
+      "pinyin": "jīdàn wǔ"
+    },
+    {
+      "id": 334549,
+      "translation": {
+        "en": {
+          "short": "country-dance",
+          "long": "a lively and communal style of dance, typically performed by couples in groups, featuring energetic movements and often accompanied by folk music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tari negara",
+          "long": "Gaya tarian yang hidup dan komunal, biasanya dilakukan oleh pasangan dalam kelompok, menampilkan gerakan energik dan sering disertai dengan musik rakyat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334549.jpeg",
+      "simplified": "乡村舞",
+      "traditional": "鄉村舞",
+      "pinyin": "xiāngcūn wǔ"
+    },
+    {
+      "id": 334567,
+      "translation": {
+        "en": {
+          "short": "Red River jig",
+          "long": "a type of Canadian Métis dance characterized by lively fiddle music and intricate footwork",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jig Sungai Merah",
+          "long": "Jenis tarian Métis Kanada yang ditandai dengan musik biola yang hidup dan gerak kaki yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/334567.jpeg",
+      "simplified": "红河吉格",
+      "traditional": "紅河吉格",
+      "pinyin": "Hónghé Jí gé"
+    },
+    {
+      "id": 335826,
+      "translation": {
+        "en": {
+          "short": "rhumba",
+          "long": "a slow-paced ballroom dance style originating from Latin America, characterized by smooth hip movements, romantic melodies, and influences from Afro-Cuban rhythms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rhumba",
+          "long": "Gaya tari ballroom lambat yang berasal dari Amerika Latin, ditandai dengan gerakan pinggul yang halus, melodi romantis, dan pengaruh dari ritme Afro-Kuba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335826.jpeg",
+      "simplified": "伦巴",
+      "traditional": "倫巴",
+      "pinyin": "lúnbā"
+    },
+    {
+      "id": 335827,
+      "translation": {
+        "en": {
+          "short": "furlana",
+          "long": "a traditional Italian folk dance originating from the Friuli region, often performed in a circle with lively music and intricate footwork",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Furlana",
+          "long": "Tarian rakyat Italia tradisional yang berasal dari wilayah Friuli, sering dilakukan dalam lingkaran dengan musik yang hidup dan gerak kaki yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/335827.jpeg",
+      "simplified": "弗拉纳",
+      "traditional": "弗拉納",
+      "pinyin": "fú lā Nà"
+    },
+    {
+      "id": 337449,
+      "translation": {
+        "en": {
+          "short": "Dashing White Sergeant",
+          "long": "a Scottish country dance performed in sets of six dancers with various formations and lively steps to traditional Scottish music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sersan putih gagah",
+          "long": "Tarian pedesaan Skotlandia dilakukan dalam set enam penari dengan berbagai formasi dan langkah -langkah yang hidup untuk musik tradisional Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337449.jpeg",
+      "simplified": "潇洒的白衣军士",
+      "traditional": "瀟灑的白衣軍士",
+      "pinyin": "xiāosǎ de Bái yī jūnshì"
+    },
+    {
+      "id": 337451,
+      "translation": {
+        "en": {
+          "short": "Ecossaise",
+          "long": "a lively and fast-paced Scottish country dance characterized by quick steps, formations, and movements typically performed to traditional Scottish music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ECOSSAISE",
+          "long": "Tarian pedesaan Skotlandia yang hidup dan cepat ditandai dengan langkah-langkah cepat, formasi, dan gerakan yang biasanya dilakukan untuk musik tradisional Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337451.jpeg",
+      "simplified": "埃科赛斯",
+      "traditional": "埃科賽斯",
+      "pinyin": "Aī kē sài Sī"
+    },
+    {
+      "id": 337462,
+      "translation": {
+        "en": {
+          "short": "Gay Gordons",
+          "long": "a traditional Scottish dance that originated in the early 20th century",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gay Gordons",
+          "long": "tarian tradisional Skotlandia yang berasal dari awal abad ke -20",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337462.jpeg",
+      "simplified": "盖伊·戈登斯",
+      "traditional": "蓋伊·戈登斯",
+      "pinyin": "Gě Yī Gē dēng Sī"
+    },
+    {
+      "id": 337465,
+      "translation": {
+        "en": {
+          "short": "ghost dance",
+          "long": "a ceremonial dance performed by certain Native American tribes, believed to summon the spirits of the dead",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian hantu",
+          "long": "tarian upacara yang dilakukan oleh suku -suku asli Amerika tertentu, diyakini memanggil roh orang mati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337465.jpeg",
+      "simplified": "鬼舞",
+      "traditional": "鬼舞",
+      "pinyin": "guǐ wǔ"
+    },
+    {
+      "id": 337468,
+      "translation": {
+        "en": {
+          "short": "gopak",
+          "long": "a traditional Ukrainian dance characterized by its lively and energetic movements, typically performed by male dancers with acrobatic leaps and kicks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gopak",
+          "long": "Tarian tradisional Ukraina yang ditandai dengan gerakannya yang hidup dan energik, biasanya dilakukan oleh penari pria dengan lompatan dan tendangan akrobatik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337468.jpeg",
+      "simplified": "戈帕克",
+      "traditional": "戈帕克",
+      "pinyin": "Gē pà Kè"
+    },
+    {
+      "id": 337471,
+      "translation": {
+        "en": {
+          "short": "hoedown",
+          "long": "a lively and energetic dance, often associated with country or folk music, typically characterized by stomping, clapping, and lively movements, often performed in a group or line formation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hoedown",
+          "long": "Tarian yang hidup dan energik, sering dikaitkan dengan musik country atau folk, biasanya ditandai dengan menginjak, bertepuk tangan, dan gerakan yang hidup, sering dilakukan dalam formasi grup atau garis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337471.jpeg",
+      "simplified": "霍当",
+      "traditional": "霍當",
+      "pinyin": "Huò dāng"
+    },
+    {
+      "id": 337474,
+      "translation": {
+        "en": {
+          "short": "hula",
+          "long": "a traditional Hawaiian dance form performed by women, characterized by rhythmic hip movements and gestures, often accompanied by chant or song",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hula",
+          "long": "Bentuk tarian tradisional Hawaii yang dilakukan oleh wanita, ditandai dengan gerakan dan gerakan pinggul berirama, sering disertai dengan nyanyian atau lagu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337474.jpeg",
+      "simplified": "草裙舞",
+      "traditional": "草裙舞",
+      "pinyin": "cǎo qún wǔ"
+    },
+    {
+      "id": 337478,
+      "translation": {
+        "en": {
+          "short": "jitterbug",
+          "long": "a lively and energetic form of swing dance, popularized in the United States during the mid-20th century, characterized by fast-paced movements, acrobatic lifts, and spins",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jitterbug",
+          "long": "Bentuk tarian ayun yang ramai dan energik, dipopulerkan di Amerika Serikat selama pertengahan abad ke-20, ditandai dengan gerakan cepat, lift akrobatik, dan putaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337478.jpeg",
+      "simplified": "合爵士乐狂欢",
+      "traditional": "合爵士樂狂歡",
+      "pinyin": "gě juéshì yuè kuánghuān"
+    },
+    {
+      "id": 337483,
+      "translation": {
+        "en": {
+          "short": "kazachok",
+          "long": "a lively Ukrainian or Russian dance with energetic movements performed by male dancers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kazachok",
+          "long": "tarian Ukraina atau Rusia yang hidup dengan gerakan energik yang dilakukan oleh penari pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337483.jpeg",
+      "simplified": "哈扎乔克",
+      "traditional": "哈扎喬克",
+      "pinyin": "Hā zhā Qiáo Kè"
+    },
+    {
+      "id": 337487,
+      "translation": {
+        "en": {
+          "short": "the Lancers",
+          "long": "a traditional group dance, typically performed in sets, featuring specific figures and sequences, often associated with ballroom dancing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "The Lancers",
+          "long": "Tarian grup tradisional, biasanya dilakukan dalam set, menampilkan angka dan urutan tertentu, sering dikaitkan dengan tarian ballroom",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337487.jpeg",
+      "simplified": "枪骑兵",
+      "traditional": "槍騎兵",
+      "pinyin": "Qiāng qíbīng"
+    },
+    {
+      "id": 337490,
+      "translation": {
+        "en": {
+          "short": "landler",
+          "long": "a traditional Austrian folk dance, characterized by a moderate tempo, lilting triple meter, and gentle hopping steps, often accompanied by accordion or other folk instruments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Landler",
+          "long": "Tarian rakyat Austria tradisional, ditandai dengan tempo moderat, triple meter mendaki, dan langkah -langkah melompat lembut, sering disertai dengan akordeon atau instrumen rakyat lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337490.jpeg",
+      "simplified": "兰德勒",
+      "traditional": "蘭德勒",
+      "pinyin": "Lán Dé lè"
+    },
+    {
+      "id": 337519,
+      "translation": {
+        "en": {
+          "short": "polonaise",
+          "long": "a piece of music for a slow Polish dance in moderate ³/₄ time that was popular in the 19th century",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Polonaise",
+          "long": "Sepotong musik untuk tarian Polandia lambat dalam waktu ³/₄ sedang yang populer di abad ke -19",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337519.jpeg",
+      "simplified": "波兰舞曲",
+      "traditional": "波蘭舞曲",
+      "pinyin": "Bōlán wǔqǔ"
+    },
+    {
+      "id": 337525,
+      "translation": {
+        "en": {
+          "short": "pyrrhic",
+          "long": "a ceremonial dance performed by Greek warriors, known for its quick and precise movements, often executed in full armor and accompanied by flute or drum music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pyrrhic",
+          "long": "Tarian upacara yang dilakukan oleh para pejuang Yunani, yang dikenal karena gerakannya yang cepat dan tepat, sering dieksekusi dengan baju besi penuh dan disertai dengan musik seruling atau drum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337525.jpeg",
+      "simplified": "付出代价的",
+      "traditional": "付出代價的",
+      "pinyin": "fùchū dàijià de"
+    },
+    {
+      "id": 337532,
+      "translation": {
+        "en": {
+          "short": "rumba",
+          "long": "a genre of Cuban dance and music characterized by its lively movements, syncopated rhythms, and Afro-Cuban influences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rumba",
+          "long": "Genre tarian dan musik Kuba yang ditandai dengan gerakannya yang semarak, ritme sinkopasi, dan pengaruh Afro-Kuba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337532.jpeg",
+      "simplified": "伦巴",
+      "traditional": "倫巴",
+      "pinyin": "lúnbā"
+    },
+    {
+      "id": 337537,
+      "translation": {
+        "en": {
+          "short": "schottische",
+          "long": "a lively couples' dance of German origin, characterized by a combination of hopping, gliding, and turning movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Schottische",
+          "long": "Tarian pasangan yang hidup dari asal Jerman, ditandai dengan kombinasi gerakan melompat, meluncur, dan memutar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337537.jpeg",
+      "simplified": "肖蒂什",
+      "traditional": "肖蒂什",
+      "pinyin": "Xiāo dì shén"
+    },
+    {
+      "id": 337541,
+      "translation": {
+        "en": {
+          "short": "snake dance",
+          "long": "a ceremonial dance ritual characterized by a line of dancers moving in sinuous, winding patterns reminiscent of a snake's movements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian ular",
+          "long": "Ritual tarian upacara yang ditandai dengan barisan penari yang bergerak dalam pola berliku yang berliku yang mengingatkan pada gerakan ular",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337541.jpeg",
+      "simplified": "蛇舞",
+      "traditional": "蛇舞",
+      "pinyin": "shé wǔ"
+    },
+    {
+      "id": 337547,
+      "translation": {
+        "en": {
+          "short": "strathspey",
+          "long": "music that is set to a Scottish slow dance in quadruple time, similar to a reel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Strathspey",
+          "long": "Musik yang diatur ke tarian lambat Skotlandia dalam waktu empat kali lipat, mirip dengan gulungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337547.jpeg",
+      "simplified": "斯特拉斯佩",
+      "traditional": "斯特拉斯佩",
+      "pinyin": "Sī tè lā Sī pèi"
+    },
+    {
+      "id": 337548,
+      "translation": {
+        "en": {
+          "short": "sword dance",
+          "long": "a traditional dance form often performed in various cultures, typically involving intricate movements with swords or other bladed objects, symbolizing bravery, skill, or cultural heritage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian pedang",
+          "long": "Bentuk tarian tradisional yang sering dilakukan dalam berbagai budaya, biasanya melibatkan gerakan rumit dengan pedang atau benda berbilah lainnya, melambangkan keberanian, keterampilan, atau warisan budaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337548.jpeg",
+      "simplified": "剑舞",
+      "traditional": "劍舞",
+      "pinyin": "jiàn wǔ"
+    },
+    {
+      "id": 337566,
+      "translation": {
+        "en": {
+          "short": "virginia reel",
+          "long": "a lively American folk dance performed by couples in a long line or set formation, characterized by energetic movements and weaving patterns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Virginia Reel",
+          "long": "Tarian rakyat Amerika yang hidup dilakukan oleh pasangan dalam barisan panjang atau formasi yang ditetapkan, ditandai dengan gerakan energik dan pola tenun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/337566.jpeg",
+      "simplified": "弗吉尼亚卷轴",
+      "traditional": "弗吉尼亞捲軸",
+      "pinyin": "Fújí ní yà juànzhóu"
+    },
+    {
+      "id": 342240,
+      "translation": {
+        "en": {
+          "short": "clogging",
+          "long": "a style of percussive dance characterized by rhythmic footwork, often performed to traditional folk or country music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyumbat",
+          "long": "Gaya tarian perkusi yang ditandai dengan gerak kaki berirama, sering dilakukan untuk musik tradisional atau country",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/342240.jpeg",
+      "simplified": "闭合",
+      "traditional": "閉合",
+      "pinyin": "bìhé"
+    },
+    {
+      "id": 391061,
+      "translation": {
+        "en": {
+          "short": "contra dance",
+          "long": "a sophisticated and spirited dance, originating from 18th-century France, known for its graceful movements, intricate patterns, and frequent partner changes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian kontra",
+          "long": "Tarian yang canggih dan bersemangat, berasal dari Prancis abad ke-18, yang dikenal karena gerakannya yang anggun, pola yang rumit, dan perubahan pasangan yang sering",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391061.jpeg",
+      "simplified": "对舞",
+      "traditional": "對舞",
+      "pinyin": "duì wǔ"
+    },
+    {
+      "id": 342242,
+      "translation": {
+        "en": {
+          "short": "stick dance",
+          "long": "a type of dance that involves the use of sticks or poles as props or percussion instruments, often seen in cultural or folk dances from various regions around the world",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarian tongkat",
+          "long": "Jenis tarian yang melibatkan penggunaan tongkat atau kutub sebagai alat peraga atau instrumen perkusi, sering terlihat dalam tarian budaya atau rakyat dari berbagai daerah di seluruh dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/342242.jpeg",
+      "simplified": "棍舞",
+      "traditional": "棍舞",
+      "pinyin": "gùn wǔ"
+    }
+  ]
+}

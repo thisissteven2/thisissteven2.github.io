@@ -1,0 +1,545 @@
+{
+  "id": 644,
+  "title": {
+    "en": "Musical Genres",
+    "id": "Genre musik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to musical genres such as \"reggae\", \"jazz\", and \"folk music\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan genre musik seperti \"reggae\", \"jazz\", dan \"musik rakyat\"."
+  },
+  "cards": [
+    {
+      "id": 315179,
+      "translation": {
+        "en": {
+          "short": "classical music",
+          "long": "music that originated in Europe, has everlasting value, long-established rules, and elaborated forms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik klasik",
+          "long": "Musik yang berasal dari Eropa, memiliki nilai abadi, aturan yang sudah lama ada, dan formulir yang diuraikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315179.jpeg",
+      "simplified": "古典音乐",
+      "traditional": "古典音樂",
+      "pinyin": "gǔdiǎn yīn yuè"
+    },
+    {
+      "id": 315180,
+      "translation": {
+        "en": {
+          "short": "avant-garde music",
+          "long": "music that rejects the conventional forms and introduces new and progressive themes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik avant-garde",
+          "long": "musik yang menolak bentuk konvensional dan memperkenalkan tema baru dan progresif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315180.jpeg",
+      "simplified": "前卫音乐",
+      "traditional": "前衛音樂",
+      "pinyin": "qiánwèi yīnyuè"
+    },
+    {
+      "id": 315183,
+      "translation": {
+        "en": {
+          "short": "experimental music",
+          "long": "a genre of music that pushes the boundaries of traditional musical conventions, often exploring unconventional sounds, structures, techniques, or ideas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik eksperimental",
+          "long": "Genre musik yang mendorong batas -batas konvensi musik tradisional, sering mengeksplorasi suara, struktur, teknik, atau ide yang tidak konvensional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315183.jpeg",
+      "simplified": "实验音乐",
+      "traditional": "實驗音樂",
+      "pinyin": "shíyàn yīnyuè"
+    },
+    {
+      "id": 315185,
+      "translation": {
+        "en": {
+          "short": "popular music",
+          "long": "a genre of music that is widely appealing to the general public and is commercially successful",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik populer",
+          "long": "genre musik yang sangat menarik bagi masyarakat umum dan sukses secara komersial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315185.jpeg",
+      "simplified": "流行音乐",
+      "traditional": "流行音樂",
+      "pinyin": "liúxíng yīn yuè"
+    },
+    {
+      "id": 315194,
+      "translation": {
+        "en": {
+          "short": "folk music",
+          "long": "traditional music that is specific to a region or community or modern music imitating that style",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik daerah",
+          "long": "musik tradisional yang khusus untuk suatu wilayah atau komunitas atau musik modern yang meniru gaya itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315194.jpeg",
+      "simplified": "民乐",
+      "traditional": "民樂",
+      "pinyin": "Mínyuè"
+    },
+    {
+      "id": 315202,
+      "translation": {
+        "en": {
+          "short": "electronic music",
+          "long": "a genre of music that relies heavily on electronic instruments, technology, and production techniques to create its sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik elektronik",
+          "long": "genre musik yang sangat bergantung pada instrumen elektronik, teknologi, dan teknik produksi untuk menciptakan suaranya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315202.jpeg",
+      "simplified": "电子音乐",
+      "traditional": "電子音樂",
+      "pinyin": "diànzǐ yīnyuè"
+    },
+    {
+      "id": 315223,
+      "translation": {
+        "en": {
+          "short": "fusion music",
+          "long": "music that combines the elements and styles of two different genres and forms something new",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Fusion",
+          "long": "musik yang menggabungkan elemen dan gaya dari dua genre yang berbeda dan membentuk sesuatu yang baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315223.jpeg",
+      "simplified": "融合音乐",
+      "traditional": "融合音樂",
+      "pinyin": "rónghé yīnyuè"
+    },
+    {
+      "id": 315229,
+      "translation": {
+        "en": {
+          "short": "religious music",
+          "long": "music that is created and performed in association with religious beliefs, practices, or rituals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik religius",
+          "long": "musik yang dibuat dan dilakukan dalam hubungannya dengan keyakinan, praktik, atau ritual agama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315229.jpeg",
+      "simplified": "宗教音乐",
+      "traditional": "宗教音樂",
+      "pinyin": "zōngjiào yīnyuè"
+    },
+    {
+      "id": 315233,
+      "translation": {
+        "en": {
+          "short": "country music",
+          "long": "a type of music that is originally from the southern parts of the United States",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik country",
+          "long": "Jenis musik yang berasal dari bagian selatan Amerika Serikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315233.jpeg",
+      "simplified": "乡村音乐",
+      "traditional": "鄉村音樂",
+      "pinyin": "xiāngcūn yīn yuè"
+    },
+    {
+      "id": 315256,
+      "translation": {
+        "en": {
+          "short": "reggae",
+          "long": "a Caribbean music genre that has a unique beat, with guitar chords played on the offbeat and often includes songs with social messages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reggae",
+          "long": "Genre musik Karibia yang memiliki irama unik, dengan akord gitar yang dimainkan di offbeat dan sering menyertakan lagu dengan pesan sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315256.jpeg",
+      "simplified": "雷鬼",
+      "traditional": "雷鬼",
+      "pinyin": "léiguǐ"
+    },
+    {
+      "id": 315296,
+      "translation": {
+        "en": {
+          "short": "Latin",
+          "long": "a genre of music that originated in Latin America",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Latin",
+          "long": "genre musik yang berasal dari Amerika Latin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315296.jpeg",
+      "simplified": "拉丁",
+      "traditional": "拉丁",
+      "pinyin": "lādīng"
+    },
+    {
+      "id": 315298,
+      "translation": {
+        "en": {
+          "short": "pop music",
+          "long": "popular music, especially with young people, consisting a strong rhythm and simple tunes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik pop",
+          "long": "Musik populer, terutama dengan kaum muda, yang terdiri dari ritme yang kuat dan lagu -lagu sederhana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315298.jpeg",
+      "simplified": "流行音乐",
+      "traditional": "流行音樂",
+      "pinyin": "liúxíng yīn yuè"
+    },
+    {
+      "id": 315299,
+      "translation": {
+        "en": {
+          "short": "jazz",
+          "long": "a music genre that emphasizes improvisation, complex rhythms, and extended chords, originated in the United States in the late 19th and early 20th centuries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jazz",
+          "long": "Genre musik yang menekankan improvisasi, ritme kompleks, dan akord yang diperluas, berasal dari Amerika Serikat pada akhir abad ke -19 dan awal ke -20",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315299.jpeg",
+      "simplified": "爵士乐",
+      "traditional": "爵士樂",
+      "pinyin": "juéshì yuè"
+    },
+    {
+      "id": 315300,
+      "translation": {
+        "en": {
+          "short": "hip-hop",
+          "long": "popular music featuring rap that is set to electronic music, first developed among black and Hispanic communities in the US",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hip-hop",
+          "long": "Musik populer yang menampilkan rap yang diatur ke musik elektronik, pertama kali dikembangkan di antara komunitas kulit hitam dan Hispanik di AS",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315300.jpeg",
+      "simplified": "嘻哈",
+      "traditional": "嘻哈",
+      "pinyin": "xīhā"
+    },
+    {
+      "id": 316177,
+      "translation": {
+        "en": {
+          "short": "progressive music",
+          "long": "a genre of music that blends various styles and structures in an unconventional and innovative way, often characterized by lengthy and complex compositions and instrumental passages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik progresif",
+          "long": "genre musik yang memadukan berbagai gaya dan struktur dengan cara yang tidak konvensional dan inovatif, sering ditandai dengan komposisi yang panjang dan kompleks dan bagian -bagian instrumental",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/316177.jpeg",
+      "simplified": "进步音乐",
+      "traditional": "進步音樂",
+      "pinyin": "jìnbù yīnyuè"
+    },
+    {
+      "id": 319193,
+      "translation": {
+        "en": {
+          "short": "bhangra",
+          "long": "‌a type of dance music that combines elements of traditional Punjabi music with Western reggae and jungle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bhangra",
+          "long": "Jenis musik dansa yang menggabungkan unsur -unsur musik Punjabi tradisional dengan reggae dan hutan barat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319193.jpeg",
+      "simplified": "班格拉",
+      "traditional": "班格拉",
+      "pinyin": "Bān Gélā"
+    },
+    {
+      "id": 319198,
+      "translation": {
+        "en": {
+          "short": "klezmer",
+          "long": "the traditional and instrumental music that is specific to Ashkenazi Jews in Central and Eastern Europe",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Klezmer",
+          "long": "Musik tradisional dan instrumental yang khusus untuk orang Yahudi Ashkenazi di Eropa Tengah dan Timur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319198.jpeg",
+      "simplified": "克莱兹梅尔",
+      "traditional": "克萊茲梅爾",
+      "pinyin": "Kèlái zī Méi ěr"
+    },
+    {
+      "id": 319238,
+      "translation": {
+        "en": {
+          "short": "rocksteady",
+          "long": "a genre of music that originated in Jamaica in the 1960s, known for its laid-back, mid-tempo rhythms, soulful vocals, and close harmonies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rocksteady",
+          "long": "Genre musik yang berasal dari Jamaika pada 1960-an, yang dikenal karena ritme mid-tempo-nya yang santai, vokal penuh semangat, dan harmoni yang dekat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319238.jpeg",
+      "simplified": "稳如泰山",
+      "traditional": "穩如泰山",
+      "pinyin": "wěnrú Tài Shān"
+    },
+    {
+      "id": 319240,
+      "translation": {
+        "en": {
+          "short": "gospel music",
+          "long": "a religious style of singing with soul and R&B elements that was first developed by the African American community of Southern Baptist and Pentecostal Churches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Injil",
+          "long": "Gaya religius bernyanyi dengan jiwa dan elemen R&B yang pertama kali dikembangkan oleh komunitas Afrika -Amerika di Gereja Baptis Selatan dan Pentakosta Selatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319240.jpeg",
+      "simplified": "福音音乐",
+      "traditional": "福音音樂",
+      "pinyin": "fúyīn yīnyuè"
+    },
+    {
+      "id": 319205,
+      "translation": {
+        "en": {
+          "short": "reggae",
+          "long": "a Caribbean music genre that has a unique beat, with guitar chords played on the offbeat and often includes songs with social messages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reggae",
+          "long": "Genre musik Karibia yang memiliki irama unik, dengan akord gitar yang dimainkan di offbeat dan sering menyertakan lagu dengan pesan sosial",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319205.jpeg",
+      "simplified": "雷鬼",
+      "traditional": "雷鬼",
+      "pinyin": "léiguǐ"
+    },
+    {
+      "id": 319216,
+      "translation": {
+        "en": {
+          "short": "ska",
+          "long": "a fast-paced Jamaican music with a strong offbeat that was developed in 1960s which inspired reggae",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ska",
+          "long": "Musik Jamaika yang serba cepat dengan offbeat kuat yang dikembangkan pada tahun 1960-an yang menginspirasi reggae",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319216.jpeg",
+      "simplified": "斯卡",
+      "traditional": "斯卡",
+      "pinyin": "Sī kǎ"
+    },
+    {
+      "id": 319221,
+      "translation": {
+        "en": {
+          "short": "Mento",
+          "long": "a traditional Jamaican music genre that combines African and Caribbean influences, often featuring lively rhythms and upbeat melodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mento",
+          "long": "Genre musik tradisional Jamaika yang menggabungkan pengaruh Afrika dan Karibia, sering menampilkan ritme yang semarak dan melodi yang ceria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319221.jpeg",
+      "simplified": "门托",
+      "traditional": "門托",
+      "pinyin": "Mén tuō"
+    },
+    {
+      "id": 319224,
+      "translation": {
+        "en": {
+          "short": "calypso",
+          "long": "a type of Caribbean music marked with syncopated African rhythm and improvised words that satirize a current event or local figures, originally from Trinidad and Tobago",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalipso",
+          "long": "Jenis musik Karibia yang ditandai dengan ritme Afrika yang disinkronkan dan kata -kata improvisasi yang menyindir peristiwa saat ini atau tokoh -tokoh lokal, berasal dari Trinidad dan Tobago",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/319224.jpeg",
+      "simplified": "千里达岛上土",
+      "traditional": "千里達島上土",
+      "pinyin": "qiānlǐ Dá dǎo shǎng Tǔ"
+    },
+    {
+      "id": 322425,
+      "translation": {
+        "en": {
+          "short": "spirituals",
+          "long": "a genre of African-American religious folk songs that originated during the period of slavery in the United States",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Spiritual",
+          "long": "Genre lagu-lagu rakyat keagamaan Afrika-Amerika yang berasal dari periode perbudakan di Amerika Serikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322425.jpeg",
+      "simplified": "圣歌",
+      "traditional": "聖歌",
+      "pinyin": "shènggē"
+    },
+    {
+      "id": 324480,
+      "translation": {
+        "en": {
+          "short": "easy listening",
+          "long": "a genre of music characterized by mellow, soothing sounds and simple, memorable melodies that are easy to listen to and evoke feelings of relaxation and comfort",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "enak didengar",
+          "long": "Genre musik yang ditandai dengan suara yang lembut dan menenangkan dan melodi yang sederhana dan mudah diingat yang mudah didengarkan dan membangkitkan perasaan relaksasi dan kenyamanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324480.jpeg",
+      "simplified": "轻松聆听",
+      "traditional": "輕鬆聆聽",
+      "pinyin": "qīngsōng língtīng"
+    },
+    {
+      "id": 391050,
+      "translation": {
+        "en": {
+          "short": "rock and roll",
+          "long": "a type of popular music originating in the 1950s characterized by a strong beat, simple melodies, and often featuring electric guitars, bass, and drums",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "rock and roll",
+          "long": "Jenis musik populer yang berasal dari tahun 1950 -an yang ditandai dengan ketukan yang kuat, melodi sederhana, dan sering menampilkan gitar listrik, bass, dan drum",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391050.jpeg",
+      "simplified": "摇滚",
+      "traditional": "搖滾",
+      "pinyin": "yáogǔn"
+    },
+    {
+      "id": 324573,
+      "translation": {
+        "en": {
+          "short": "Christian music",
+          "long": "a genre of music that features lyrics that are focused on faith in Jesus Christ, the teachings of the Bible, and Christian themes, often performed in a variety of styles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Musik Kristen",
+          "long": "Genre musik yang menampilkan lirik yang berfokus pada iman kepada Yesus Kristus, ajaran Alkitab, dan tema -tema Kristen, sering dilakukan dalam berbagai gaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324573.jpeg",
+      "simplified": "基督教音乐",
+      "traditional": "基督教音樂",
+      "pinyin": "Jīdū jiào yīnyuè"
+    },
+    {
+      "id": 324577,
+      "translation": {
+        "en": {
+          "short": "psychedelic music",
+          "long": "music that emerged during the 1960s which is inspired by the culture formed around the use of psychedelic drugs in that era",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musik psikedelik",
+          "long": "Musik yang muncul selama tahun 1960 -an yang terinspirasi oleh budaya yang terbentuk di sekitar penggunaan obat -obatan psychedelic di era itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324577.jpeg",
+      "simplified": "迷幻音乐",
+      "traditional": "迷幻音樂",
+      "pinyin": "míhuàn yīnyuè"
+    }
+  ]
+}

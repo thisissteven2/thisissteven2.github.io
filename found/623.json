@@ -1,0 +1,735 @@
+{
+  "id": 623,
+  "title": {
+    "en": "Visual Artists",
+    "id": "Artis Visual"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to visual artists such as \"painter\", \"illustrator\", and \"sculptor\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan seniman visual seperti \"pelukis\", \"ilustrator\", dan \"pematung\"."
+  },
+  "cards": [
+    {
+      "id": 348200,
+      "translation": {
+        "en": {
+          "short": "artist",
+          "long": "someone who creates drawings, sculptures, paintings, etc. either as their job or hobby",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "artis",
+          "long": "seseorang yang membuat gambar, patung, lukisan, dll. Baik sebagai pekerjaan atau hobi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348200.jpeg",
+      "simplified": "艺术家",
+      "traditional": "藝術家",
+      "pinyin": "yìshù jiā"
+    },
+    {
+      "id": 348202,
+      "translation": {
+        "en": {
+          "short": "caricaturist",
+          "long": "an artist who specializes in creating humorous and exaggerated drawings of people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli karikatur",
+          "long": "seorang seniman yang berspesialisasi dalam menciptakan gambar orang yang lucu dan berlebihan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348202.jpeg",
+      "simplified": "漫画家",
+      "traditional": "漫畫家",
+      "pinyin": "mànhuà jiā"
+    },
+    {
+      "id": 348203,
+      "translation": {
+        "en": {
+          "short": "cartoonist",
+          "long": "an artist who specializes in creating humorous drawings, often in the form of comic strips or cartoons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kartunis",
+          "long": "Seorang seniman yang berspesialisasi dalam membuat gambar lucu, seringkali dalam bentuk komik atau kartun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348203.jpeg",
+      "simplified": "漫画家",
+      "traditional": "漫畫家",
+      "pinyin": "mànhuà jiā"
+    },
+    {
+      "id": 348204,
+      "translation": {
+        "en": {
+          "short": "draftsman",
+          "long": "an artist who specializes in creating detailed drawings or plans for technical purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru gambar",
+          "long": "Seorang seniman yang berspesialisasi dalam membuat gambar terperinci atau rencana untuk tujuan teknis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348204.jpeg",
+      "simplified": "起草者",
+      "traditional": "起草者",
+      "pinyin": "qǐcǎo zhě"
+    },
+    {
+      "id": 348205,
+      "translation": {
+        "en": {
+          "short": "illustrator",
+          "long": "an artist who specializes in creating illustrations, often for books, magazines, or other publications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ilustrator",
+          "long": "Seorang seniman yang berspesialisasi dalam membuat ilustrasi, seringkali untuk buku, majalah, atau publikasi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348205.jpeg",
+      "simplified": "插图作者",
+      "traditional": "插圖作者",
+      "pinyin": "chātú zuòzhě"
+    },
+    {
+      "id": 348206,
+      "translation": {
+        "en": {
+          "short": "miniaturist",
+          "long": "an artist who specializes in creating small scale, highly detailed works of art",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Miniatur",
+          "long": "seorang seniman yang berspesialisasi dalam menciptakan karya seni skala kecil dan sangat rinci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348206.jpeg",
+      "simplified": "细密画家",
+      "traditional": "細密畫家",
+      "pinyin": "xìmì huàjiā"
+    },
+    {
+      "id": 348207,
+      "translation": {
+        "en": {
+          "short": "Old Master",
+          "long": "a well-known European painter, especially one who lived before the 19th century",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tuan tua",
+          "long": "Seorang pelukis Eropa yang terkenal, terutama yang hidup sebelum abad ke-19",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348207.jpeg",
+      "simplified": "老主人",
+      "traditional": "老主人",
+      "pinyin": "lǎo zhǔrén"
+    },
+    {
+      "id": 348208,
+      "translation": {
+        "en": {
+          "short": "painter",
+          "long": "an artist who paints pictures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelukis",
+          "long": "seorang seniman yang melukis gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348208.jpeg",
+      "simplified": "画家",
+      "traditional": "畫家",
+      "pinyin": "huàjiā"
+    },
+    {
+      "id": 348209,
+      "translation": {
+        "en": {
+          "short": "pavement artist",
+          "long": "an artist who draws with chalk on the sidewalk, hoping to get money from the pedestrians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Artis trotoar",
+          "long": "seorang seniman yang menggambar dengan kapur di trotoar, berharap mendapatkan uang dari pejalan kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348209.jpeg",
+      "simplified": "人行道艺术家",
+      "traditional": "人行道藝術家",
+      "pinyin": "rénxíng dào yìshù jiā"
+    },
+    {
+      "id": 348210,
+      "translation": {
+        "en": {
+          "short": "animator",
+          "long": "a person who creates moving images, such as cartoons, using various techniques and software",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuat animasi",
+          "long": "Seseorang yang membuat gambar bergerak, seperti kartun, menggunakan berbagai teknik dan perangkat lunak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348210.jpeg",
+      "simplified": "动画制作者",
+      "traditional": "動畫製作者",
+      "pinyin": "dònghuà zhìzuò zhě"
+    },
+    {
+      "id": 348211,
+      "translation": {
+        "en": {
+          "short": "architect",
+          "long": "a person whose job is designing buildings and typically supervising their construction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "arsitek",
+          "long": "seseorang yang pekerjaannya merancang bangunan dan biasanya mengawasi konstruksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348211.jpeg",
+      "simplified": "建筑师",
+      "traditional": "建築師",
+      "pinyin": "jiànzhù shī"
+    },
+    {
+      "id": 348212,
+      "translation": {
+        "en": {
+          "short": "artisan",
+          "long": "a skilled craftsperson who creates objects partly or entirely by hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang",
+          "long": "Pengrajin yang terampil yang membuat objek sebagian atau seluruhnya dengan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348212.jpeg",
+      "simplified": "工匠",
+      "traditional": "工匠",
+      "pinyin": "gōngjiàng"
+    },
+    {
+      "id": 348213,
+      "translation": {
+        "en": {
+          "short": "colorist",
+          "long": "an artist who specializes in adding color to artwork, such as illustrations or comics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pewarna",
+          "long": "seorang seniman yang berspesialisasi dalam menambahkan warna pada karya seni, seperti ilustrasi atau komik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348213.jpeg",
+      "simplified": "调色师",
+      "traditional": "調色師",
+      "pinyin": "tiáosè Shī"
+    },
+    {
+      "id": 348358,
+      "translation": {
+        "en": {
+          "short": "concept artist",
+          "long": "an artist who specializes in creating visual representations of ideas, often for use in films, video games, and other media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Artis Konsep",
+          "long": "Seorang seniman yang berspesialisasi dalam menciptakan representasi visual ide, sering kali untuk digunakan dalam film, video game, dan media lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348358.jpeg",
+      "simplified": "概念艺术家",
+      "traditional": "概念藝術家",
+      "pinyin": "gàiniàn yìshù jiā"
+    },
+    {
+      "id": 348360,
+      "translation": {
+        "en": {
+          "short": "floral designer",
+          "long": "a professional who arranges flowers and foliage to create decorative displays",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perancang Bunga",
+          "long": "Seorang profesional yang mengatur bunga dan dedaunan untuk membuat pajangan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348360.jpeg",
+      "simplified": "花艺设计师",
+      "traditional": "花藝設計師",
+      "pinyin": "Huā yì shèjì shī"
+    },
+    {
+      "id": 348362,
+      "translation": {
+        "en": {
+          "short": "jewelry designer",
+          "long": "a professional who creates and designs jewelry pieces, usually for sale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perancang perhiasan",
+          "long": "Seorang profesional yang membuat dan merancang karya perhiasan, biasanya untuk dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348362.jpeg",
+      "simplified": "珠宝设计师",
+      "traditional": "珠寶設計師",
+      "pinyin": "zhūbǎo shèjì shī"
+    },
+    {
+      "id": 348364,
+      "translation": {
+        "en": {
+          "short": "penciller",
+          "long": "an artist who creates the initial sketches and layouts of comic book pages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penciller",
+          "long": "seorang seniman yang membuat sketsa awal dan tata letak halaman buku komik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348364.jpeg",
+      "simplified": "铅笔勒",
+      "traditional": "鉛筆勒",
+      "pinyin": "qiānbǐ lè"
+    },
+    {
+      "id": 348365,
+      "translation": {
+        "en": {
+          "short": "photographer",
+          "long": "someone whose hobby or job is taking photographs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru potret",
+          "long": "seseorang yang hobinya atau pekerjaan mengambil foto",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348365.jpeg",
+      "simplified": "摄影师",
+      "traditional": "攝影師",
+      "pinyin": "shèyǐng shī"
+    },
+    {
+      "id": 348366,
+      "translation": {
+        "en": {
+          "short": "photojournalist",
+          "long": "a professional who takes and publishes photographs that tell stories and document events, often for news publications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jurnalis foto",
+          "long": "Seorang profesional yang mengambil dan menerbitkan foto yang menceritakan kisah dan mendokumentasikan acara, seringkali untuk publikasi berita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348366.jpeg",
+      "simplified": "摄影记者",
+      "traditional": "攝影記者",
+      "pinyin": "shèyǐng jì zhě"
+    },
+    {
+      "id": 348369,
+      "translation": {
+        "en": {
+          "short": "potter",
+          "long": "an artist who creates decorative and functional objects out of clay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Potter",
+          "long": "seorang seniman yang menciptakan benda dekoratif dan fungsional dari tanah liat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348369.jpeg",
+      "simplified": "制陶工人",
+      "traditional": "製陶工人",
+      "pinyin": "zhìtáo gōng rén"
+    },
+    {
+      "id": 348371,
+      "translation": {
+        "en": {
+          "short": "sculptor",
+          "long": "someone who makes works of art by carving or shaping stone, wood, clay, metal, etc. into different forms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pematung",
+          "long": "seseorang yang membuat karya seni dengan mengukir atau membentuk batu, kayu, tanah liat, logam, dll. menjadi berbagai bentuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348371.jpeg",
+      "simplified": "雕塑家",
+      "traditional": "雕塑家",
+      "pinyin": "diāosù jiā"
+    },
+    {
+      "id": 348372,
+      "translation": {
+        "en": {
+          "short": "tattoo artist",
+          "long": "a skilled professional who creates permanent body art by applying ink or pigments to the skin using specialized equipment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seniman tato",
+          "long": "Seorang profesional terampil yang menciptakan seni tubuh permanen dengan menerapkan tinta atau pigmen ke kulit menggunakan peralatan khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348372.jpeg",
+      "simplified": "纹身艺术家",
+      "traditional": "紋身藝術家",
+      "pinyin": "wénshēn yìshù jiā"
+    },
+    {
+      "id": 348373,
+      "translation": {
+        "en": {
+          "short": "carver",
+          "long": "an artist who creates sculptures and decorative objects by carving them from a material such as wood, stone, or ivory",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemahat",
+          "long": "seorang seniman yang membuat patung dan benda dekoratif dengan mengukirnya dari bahan seperti kayu, batu, atau gading",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348373.jpeg",
+      "simplified": "雕刻师",
+      "traditional": "雕刻師",
+      "pinyin": "diāokè Shī"
+    },
+    {
+      "id": 348375,
+      "translation": {
+        "en": {
+          "short": "craftsman",
+          "long": "a skilled professional who creates items by hand, often using traditional methods and techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang",
+          "long": "Seorang profesional yang terampil yang membuat barang dengan tangan, sering menggunakan metode dan teknik tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348375.jpeg",
+      "simplified": "匠",
+      "traditional": "匠",
+      "pinyin": "jiàng"
+    },
+    {
+      "id": 348377,
+      "translation": {
+        "en": {
+          "short": "saddler",
+          "long": "a craftsman who makes and repairs leather saddles and other leather items for horses and other animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuda tunggangan",
+          "long": "Seorang pengrajin yang membuat dan memperbaiki pelana kulit dan barang -barang kulit lainnya untuk kuda dan hewan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348377.jpeg",
+      "simplified": "马鞍匠",
+      "traditional": "馬鞍匠",
+      "pinyin": "mǎān jiàng"
+    },
+    {
+      "id": 348378,
+      "translation": {
+        "en": {
+          "short": "mason",
+          "long": "a skilled craftsman who works with stone, brick, or concrete to build structures such as walls, buildings, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang batu",
+          "long": "Pengrajin yang terampil yang bekerja dengan batu, batu bata, atau beton untuk membangun struktur seperti dinding, bangunan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348378.jpeg",
+      "simplified": "石匠",
+      "traditional": "石匠",
+      "pinyin": "shíjiàng"
+    },
+    {
+      "id": 348379,
+      "translation": {
+        "en": {
+          "short": "tanner",
+          "long": "a craftsman who prepares animal hides by soaking, stretching, and treating them with oils and chemicals to make leather",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyamak",
+          "long": "Seorang pengrajin yang menyiapkan kulit hewan dengan merendam, meregangkan, dan merawatnya dengan minyak dan bahan kimia untuk membuat kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348379.jpeg",
+      "simplified": "皮匠",
+      "traditional": "皮匠",
+      "pinyin": "píjiang"
+    },
+    {
+      "id": 348384,
+      "translation": {
+        "en": {
+          "short": "master craftsman",
+          "long": "a highly skilled and experienced craftsman who has achieved a certain level of mastery in their craft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "empu",
+          "long": "Pengrajin yang sangat terampil dan berpengalaman yang telah mencapai tingkat penguasaan tertentu dalam kerajinan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348384.jpeg",
+      "simplified": "巨匠",
+      "traditional": "巨匠",
+      "pinyin": "jùjiàng"
+    },
+    {
+      "id": 348385,
+      "translation": {
+        "en": {
+          "short": "apprentice",
+          "long": "someone who works for a skilled person for a specific period of time to learn their skills, usually earning a low income",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak magang",
+          "long": "Seseorang yang bekerja untuk orang yang terampil untuk jangka waktu tertentu untuk mempelajari keterampilan mereka, biasanya mendapatkan penghasilan rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348385.jpeg",
+      "simplified": "学徒",
+      "traditional": "學徒",
+      "pinyin": "xuétú"
+    },
+    {
+      "id": 348386,
+      "translation": {
+        "en": {
+          "short": "journeyman",
+          "long": "a craftsman who has completed an apprenticeship and has a certain level of skill and experience in their craft, but is not yet a master craftsman",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerja harian",
+          "long": "Pengrajin yang telah menyelesaikan magang dan memiliki tingkat keterampilan dan pengalaman tertentu dalam kerajinan mereka, tetapi belum menjadi pengrajin utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348386.jpeg",
+      "simplified": "熟练工",
+      "traditional": "熟練工",
+      "pinyin": "shúliàn gōng"
+    },
+    {
+      "id": 348389,
+      "translation": {
+        "en": {
+          "short": "printmaker",
+          "long": "someone who prints pictures or designs from special plates or blocks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "printmaker",
+          "long": "seseorang yang mencetak gambar atau desain dari piring atau blok khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348389.jpeg",
+      "simplified": "版画师",
+      "traditional": "版畫師",
+      "pinyin": "bǎnhuà Shī"
+    },
+    {
+      "id": 348390,
+      "translation": {
+        "en": {
+          "short": "master",
+          "long": "someone who has become very skillful in their chosen art, particularly one in the past",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menguasai",
+          "long": "seseorang yang telah menjadi sangat terampil dalam seni pilihan mereka, terutama satu di masa lalu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348390.jpeg",
+      "simplified": "主",
+      "traditional": "主",
+      "pinyin": "zhǔ"
+    },
+    {
+      "id": 348391,
+      "translation": {
+        "en": {
+          "short": "engraver",
+          "long": "someone who is trained to carve or cut designs and words on a hard surface made of wood, stone, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengukir",
+          "long": "Seseorang yang dilatih untuk mengukir atau memotong desain dan kata -kata di permukaan keras yang terbuat dari kayu, batu, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348391.jpeg",
+      "simplified": "雕刻师",
+      "traditional": "雕刻師",
+      "pinyin": "diāokè Shī"
+    },
+    {
+      "id": 349102,
+      "translation": {
+        "en": {
+          "short": "glazier",
+          "long": "a skilled tradesperson who specializes in cutting, installing, and replacing glass in various types of windows, doors, mirrors, and other architectural or decorative applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang kaca",
+          "long": "Seorang pedagang yang terampil yang berspesialisasi dalam memotong, memasang, dan mengganti kaca di berbagai jenis jendela, pintu, cermin, dan aplikasi arsitektur atau dekoratif lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349102.jpeg",
+      "simplified": "玻璃工",
+      "traditional": "玻璃工",
+      "pinyin": "bōli gōng"
+    },
+    {
+      "id": 349188,
+      "translation": {
+        "en": {
+          "short": "spinner",
+          "long": "a person who spins fibers, such as wool, cotton, or silk, into yarn or thread using various tools",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemintal",
+          "long": "Seseorang yang memutar serat, seperti wol, kapas, atau sutra, menjadi benang atau benang menggunakan berbagai alat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349188.jpeg",
+      "simplified": "蜘蛛",
+      "traditional": "蜘蛛",
+      "pinyin": "zhīzhū"
+    },
+    {
+      "id": 349195,
+      "translation": {
+        "en": {
+          "short": "weaver",
+          "long": "a skilled craftsman or craftswoman who creates woven fabrics and textiles by interlacing threads or yarns on a loom using various techniques and patterns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penenun",
+          "long": "Pengrajin atau pengrajin yang terampil yang membuat kain tenun dan tekstil dengan menyisipkan benang atau benang pada alat tenun menggunakan berbagai teknik dan pola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349195.jpeg",
+      "simplified": "纺织者",
+      "traditional": "紡織者",
+      "pinyin": "fǎngzhī zhě"
+    },
+    {
+      "id": 349265,
+      "translation": {
+        "en": {
+          "short": "milliner",
+          "long": "a person who designs, makes, and sells hats, headwear, and other accessories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuat topi wanita",
+          "long": "Seseorang yang merancang, membuat, dan menjual topi, headwear, dan aksesori lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349265.jpeg",
+      "simplified": "女帽设计师",
+      "traditional": "女帽設計師",
+      "pinyin": "nǚ mào shèjì shī"
+    },
+    {
+      "id": 349591,
+      "translation": {
+        "en": {
+          "short": "lapidary",
+          "long": "a person who specializes in the art and craft of cutting, shaping, and polishing gemstones, minerals, and rocks into decorative objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "singkat",
+          "long": "Seseorang yang berspesialisasi dalam seni dan kerajinan memotong, membentuk, dan memoles batu permata, mineral, dan batu menjadi benda dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/349591.jpeg",
+      "simplified": "宝石学家",
+      "traditional": "寶石學家",
+      "pinyin": "bǎoshí xué jiā"
+    }
+  ]
+}

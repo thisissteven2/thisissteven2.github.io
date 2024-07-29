@@ -1,0 +1,678 @@
+{
+  "id": 118,
+  "title": {
+    "en": "Animals",
+    "id": "Hewan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about animals, such as \"pet\", \"wild\", and \"insect\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang hewan, seperti \"hewan peliharaan\", \"liar\", dan \"serangga\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 211706,
+      "translation": {
+        "en": {
+          "short": "pet",
+          "long": "an animal such as a dog or cat that we keep and care for at home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peliharaan",
+          "long": "Hewan seperti anjing atau kucing yang kami simpan dan dirawat di rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211706.jpeg",
+      "simplified": "宠物",
+      "traditional": "寵物",
+      "pinyin": "chǒngwù"
+    },
+    {
+      "id": 211704,
+      "translation": {
+        "en": {
+          "short": "lamb",
+          "long": "a young sheep, especially one that is under one year",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "domba",
+          "long": "seekor domba muda, terutama yang di bawah satu tahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211704.jpeg",
+      "simplified": "羊肉",
+      "traditional": "羊肉",
+      "pinyin": "yángròu"
+    },
+    {
+      "id": 211721,
+      "translation": {
+        "en": {
+          "short": "camel",
+          "long": "a large desert animal with a long neck and one or two humps on its back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unta",
+          "long": "seekor binatang gurun besar dengan leher panjang dan satu atau dua punuk di punggungnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211721.jpeg",
+      "simplified": "骆驼",
+      "traditional": "駱駝",
+      "pinyin": "luòtuo"
+    },
+    {
+      "id": 211708,
+      "translation": {
+        "en": {
+          "short": "tiger",
+          "long": "a type of large and wild animal that is from the cat family, has orange fur and black stripes, and is mostly found in Asia",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "harimau",
+          "long": "Jenis hewan besar dan liar yang berasal dari keluarga kucing, memiliki bulu oranye dan garis -garis hitam, dan sebagian besar ditemukan di Asia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211708.jpeg",
+      "simplified": "虎",
+      "traditional": "虎",
+      "pinyin": "hǔ"
+    },
+    {
+      "id": 211709,
+      "translation": {
+        "en": {
+          "short": "whale",
+          "long": "a very large animal that lives in the sea, with horizontal tail fin and a blowhole on top of its head for breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paus",
+          "long": "Hewan yang sangat besar yang tinggal di laut, dengan sirip ekor horizontal dan lubang blow di atas kepalanya untuk bernafas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211709.jpeg",
+      "simplified": "鲸",
+      "traditional": "鯨",
+      "pinyin": "jīng"
+    },
+    {
+      "id": 211712,
+      "translation": {
+        "en": {
+          "short": "penguin",
+          "long": "a large black-and-white seabird that lives in the Antarctic, and can not fly but uses its wings for swimming",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinguin",
+          "long": "Seabird hitam-putih besar yang tinggal di Antartika, dan tidak bisa terbang tetapi menggunakan sayapnya untuk berenang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211712.jpeg",
+      "simplified": "企鹅",
+      "traditional": "企鵝",
+      "pinyin": "qǐé"
+    },
+    {
+      "id": 211713,
+      "translation": {
+        "en": {
+          "short": "shark",
+          "long": "‌a large sea fish with a pointed fin on its back and very sharp teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiu",
+          "long": "‌ ikan laut besar dengan sirip runcing di punggungnya dan gigi yang sangat tajam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211713.jpeg",
+      "simplified": "鲨鱼",
+      "traditional": "鯊魚",
+      "pinyin": "shāyú"
+    },
+    {
+      "id": 211715,
+      "translation": {
+        "en": {
+          "short": "insect",
+          "long": "a small creature such as a bee or ant that has six legs, and generally one or two pairs of wings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "serangga",
+          "long": "makhluk kecil seperti lebah atau semut yang memiliki enam kaki, dan umumnya satu atau dua pasang sayap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211715.jpeg",
+      "simplified": "昆虫",
+      "traditional": "昆蟲",
+      "pinyin": "kūnchóng"
+    },
+    {
+      "id": 211714,
+      "translation": {
+        "en": {
+          "short": "fly",
+          "long": "a small flying insect that has two wings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terbang",
+          "long": "serangga terbang kecil yang memiliki dua sayap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211714.jpeg",
+      "simplified": "小飞虫",
+      "traditional": "小飛蟲",
+      "pinyin": "xiǎo fēichóng"
+    },
+    {
+      "id": 211716,
+      "translation": {
+        "en": {
+          "short": "spider",
+          "long": "a small creature that spins webs to catch insects for food, with eight legs and two fangs by which poison is injected to its prey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laba -laba",
+          "long": "makhluk kecil yang memutar jaring untuk menangkap serangga untuk makanan, dengan delapan kaki dan dua taring di mana racun disuntikkan ke mangsanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211716.jpeg",
+      "simplified": "蜘蛛",
+      "traditional": "蜘蛛",
+      "pinyin": "zhīzhū"
+    },
+    {
+      "id": 211722,
+      "translation": {
+        "en": {
+          "short": "crocodile",
+          "long": "a large reptile with very big jaws, sharp teeth, short legs, and a hard skin and long tail that lives in rivers and lakes in warmer regions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buaya",
+          "long": "Reptil besar dengan rahang yang sangat besar, gigi tajam, kaki pendek, dan kulit keras dan ekor panjang yang hidup di sungai dan danau di daerah yang lebih hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211722.jpeg",
+      "simplified": "鳄鱼",
+      "traditional": "鱷魚",
+      "pinyin": "èyú"
+    },
+    {
+      "id": 211723,
+      "translation": {
+        "en": {
+          "short": "dolphin",
+          "long": "an intelligent sea mammal that looks like a whale and has a long snout and teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lumba -lumba",
+          "long": "mamalia laut yang cerdas yang terlihat seperti paus dan memiliki moncong dan gigi yang panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211723.jpeg",
+      "simplified": "海豚",
+      "traditional": "海豚",
+      "pinyin": "hǎitún"
+    },
+    {
+      "id": 211724,
+      "translation": {
+        "en": {
+          "short": "fox",
+          "long": "a small to medium-sized carnivorous mammal with a pointed muzzle and bushy tail, often have reddish-brown fur and are known for being clever and adaptable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rubah",
+          "long": "Mamalia karnivora berukuran kecil hingga menengah dengan moncong runcing dan ekor lebat, sering memiliki bulu coklat kemerahan dan dikenal pintar dan mudah beradaptasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211724.jpeg",
+      "simplified": "狐狸",
+      "traditional": "狐狸",
+      "pinyin": "húli"
+    },
+    {
+      "id": 211726,
+      "translation": {
+        "en": {
+          "short": "hamster",
+          "long": "a small animal of the rodent family, similar to a mouse, with a short tail and large cheeks for storing food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hamster",
+          "long": "Hewan kecil dari keluarga hewan pengerat, mirip dengan tikus, dengan ekor pendek dan pipi besar untuk menyimpan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211726.jpeg",
+      "simplified": "仓鼠",
+      "traditional": "倉鼠",
+      "pinyin": "cāngshǔ"
+    },
+    {
+      "id": 211728,
+      "translation": {
+        "en": {
+          "short": "tail",
+          "long": "the part of the body of an animal, a bird or a fish that sticks out at the back, which can move",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekor",
+          "long": "bagian dari tubuh binatang, burung atau ikan yang menonjol di belakang, yang dapat bergerak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211728.jpeg",
+      "simplified": "尾",
+      "traditional": "尾",
+      "pinyin": "wěi"
+    },
+    {
+      "id": 211727,
+      "translation": {
+        "en": {
+          "short": "wool",
+          "long": "the soft and thick hair that grows on the body of sheep and goats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wol",
+          "long": "rambut lembut dan tebal yang tumbuh di tubuh domba dan kambing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211727.jpeg",
+      "simplified": "羊毛",
+      "traditional": "羊毛",
+      "pinyin": "yángmáo"
+    },
+    {
+      "id": 211720,
+      "translation": {
+        "en": {
+          "short": "egg",
+          "long": "an oval or rounded object laid by birds, reptiles, fish, or certain invertebrates as part of their reproductive process",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telur",
+          "long": "Objek oval atau bulat diletakkan oleh burung, reptil, ikan, atau invertebrata tertentu sebagai bagian dari proses reproduksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211720.jpeg",
+      "simplified": "蛋",
+      "traditional": "蛋",
+      "pinyin": "Dàn"
+    },
+    {
+      "id": 211717,
+      "translation": {
+        "en": {
+          "short": "web",
+          "long": "a net of thin threads made by a spider to catch insects for food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "web",
+          "long": "Jaring benang tipis yang dibuat oleh laba -laba untuk menangkap serangga untuk makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/211717.jpeg",
+      "simplified": "蜘蛛网",
+      "traditional": "蜘蛛網",
+      "pinyin": "zhīzhū wǎng"
+    },
+    {
+      "id": 221155,
+      "translation": {
+        "en": {
+          "short": "zoo",
+          "long": "a place where many kinds of animals are kept for exhibition, breeding, and protection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebun binatang",
+          "long": "tempat di mana banyak jenis hewan disimpan untuk pameran, pembiakan, dan perlindungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221155.jpeg",
+      "simplified": "动物园",
+      "traditional": "動物園",
+      "pinyin": "dòngwù yuán"
+    },
+    {
+      "id": 221156,
+      "translation": {
+        "en": {
+          "short": "deer",
+          "long": "a large, wild animal with long legs which eats grass and can run very fast, typically the males have horns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rusa",
+          "long": "Hewan liar besar dengan kaki panjang yang memakan rumput dan bisa berlari sangat cepat, biasanya jantan memiliki tanduk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221156.jpeg",
+      "simplified": "鹿",
+      "traditional": "鹿",
+      "pinyin": "lù"
+    },
+    {
+      "id": 221157,
+      "translation": {
+        "en": {
+          "short": "eagle",
+          "long": "a large bird of prey with a sharp beak, long broad wings, and very good sight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "burung rajawali",
+          "long": "Burung besar mangsa dengan paruh yang tajam, sayap lebar panjang, dan pemandangan yang sangat bagus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221157.jpeg",
+      "simplified": "鹰",
+      "traditional": "鷹",
+      "pinyin": "yīng"
+    },
+    {
+      "id": 221158,
+      "translation": {
+        "en": {
+          "short": "beetle",
+          "long": "a large, typically black insect, which has a hard case on its back that covers its wings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kumbang",
+          "long": "Serangga besar, biasanya hitam, yang memiliki hard case di punggungnya yang menutupi sayapnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221158.jpeg",
+      "simplified": "甲虫",
+      "traditional": "甲蟲",
+      "pinyin": "jiǎchóng"
+    },
+    {
+      "id": 221159,
+      "translation": {
+        "en": {
+          "short": "bee",
+          "long": "a black and yellow insect that collects nectar and produces wax and honey, which can fly and sting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lebah",
+          "long": "Serangga hitam dan kuning yang mengumpulkan nektar dan menghasilkan lilin dan madu, yang bisa terbang dan menyengat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221159.jpeg",
+      "simplified": "蜜蜂",
+      "traditional": "蜜蜂",
+      "pinyin": "mìfēng"
+    },
+    {
+      "id": 388541,
+      "translation": {
+        "en": {
+          "short": "bear",
+          "long": "a large animal with sharp claws and thick fur, which eats meat, honey, insects, and fruits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beruang",
+          "long": "Hewan besar dengan cakar tajam dan bulu tebal, yang memakan daging, madu, serangga, dan buah -buahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388541.jpeg",
+      "simplified": "熊",
+      "traditional": "熊",
+      "pinyin": "Xióng"
+    },
+    {
+      "id": 388542,
+      "translation": {
+        "en": {
+          "short": "monkey",
+          "long": "a playful and intelligent animal that has a long tail and usually lives in trees and warm countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "monyet",
+          "long": "Hewan yang menyenangkan dan cerdas yang memiliki ekor panjang dan biasanya tinggal di pohon dan negara yang hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388542.jpeg",
+      "simplified": "猴",
+      "traditional": "猴",
+      "pinyin": "hóu"
+    },
+    {
+      "id": 221160,
+      "translation": {
+        "en": {
+          "short": "butterfly",
+          "long": "a flying insect with a long, thin body and large, typically brightly colored wings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kupu -kupu",
+          "long": "Serangga terbang dengan tubuh panjang, tipis dan besar, biasanya berwarna cerah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221160.jpeg",
+      "simplified": "蝴蝶",
+      "traditional": "蝴蝶",
+      "pinyin": "húdié"
+    },
+    {
+      "id": 221161,
+      "translation": {
+        "en": {
+          "short": "mosquito",
+          "long": "a flying insect that bites people and animals and feeds on their blood",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nyamuk",
+          "long": "Serangga terbang yang menggigit manusia dan hewan dan memakan darah mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221161.jpeg",
+      "simplified": "蚊子",
+      "traditional": "蚊子",
+      "pinyin": "wénzi"
+    },
+    {
+      "id": 221162,
+      "translation": {
+        "en": {
+          "short": "ladybug",
+          "long": "a small flying insect which is usually red with black spots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ladybug",
+          "long": "serangga terbang kecil yang biasanya merah dengan bintik -bintik hitam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221162.jpeg",
+      "simplified": "瓢虫",
+      "traditional": "瓢蟲",
+      "pinyin": "piáochóng"
+    },
+    {
+      "id": 221163,
+      "translation": {
+        "en": {
+          "short": "cockroach",
+          "long": "a large brown insect with a broad body, wings, long legs and antennae, considered a household pest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecoak",
+          "long": "Serangga cokelat besar dengan tubuh yang lebar, sayap, kaki panjang dan antena, dianggap sebagai hama rumah tangga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221163.jpeg",
+      "simplified": "蟑螂",
+      "traditional": "蟑螂",
+      "pinyin": "zhāngláng"
+    },
+    {
+      "id": 221164,
+      "translation": {
+        "en": {
+          "short": "firefly",
+          "long": "a flying insect with a soft body and a tail that shines in the dark",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Firefly",
+          "long": "serangga terbang dengan tubuh lembut dan ekor yang bersinar dalam gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221164.jpeg",
+      "simplified": "萤火虫",
+      "traditional": "螢火蟲",
+      "pinyin": "yínghuǒ chóng"
+    },
+    {
+      "id": 221501,
+      "translation": {
+        "en": {
+          "short": "type",
+          "long": "a class or group of people or things that have common characteristics or share particular qualities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis",
+          "long": "kelas atau kelompok orang atau hal -hal yang memiliki karakteristik umum atau berbagi kualitas tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221501.jpeg",
+      "simplified": "类型",
+      "traditional": "類型",
+      "pinyin": "lèixíng"
+    },
+    {
+      "id": 221165,
+      "translation": {
+        "en": {
+          "short": "wild",
+          "long": "(of an animal or plant) living or growing in a natural state, without any human interference",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "liar",
+          "long": "(dari hewan atau tumbuhan) yang hidup atau tumbuh dalam keadaan alami, tanpa gangguan manusia",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221165.jpeg",
+      "simplified": "荒野",
+      "traditional": "荒野",
+      "pinyin": "huāngyě"
+    },
+    {
+      "id": 221166,
+      "translation": {
+        "en": {
+          "short": "to hunt",
+          "long": "to pursue wild animals in order to kill or catch them, for sport or food",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berburu",
+          "long": "untuk mengejar hewan liar untuk membunuh atau menangkap mereka, untuk olahraga atau makanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221166.jpeg",
+      "simplified": "狩猎动物",
+      "traditional": "狩獵動物",
+      "pinyin": "shòuliè dòngwù"
+    },
+    {
+      "id": 221500,
+      "translation": {
+        "en": {
+          "short": "to ride",
+          "long": "to sit on and control the movement of an animal, especially a horse",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengendarai",
+          "long": "untuk duduk dan mengendalikan pergerakan binatang, terutama kuda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221500.jpeg",
+      "simplified": "骑",
+      "traditional": "騎",
+      "pinyin": "jì"
+    },
+    {
+      "id": 221502,
+      "translation": {
+        "en": {
+          "short": "kind",
+          "long": "a group of people or things that have similar characteristics or share particular qualities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baik",
+          "long": "sekelompok orang atau hal yang memiliki karakteristik serupa atau berbagi kualitas tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221502.jpeg",
+      "simplified": "类型",
+      "traditional": "類型",
+      "pinyin": "lèixíng"
+    }
+  ]
+}

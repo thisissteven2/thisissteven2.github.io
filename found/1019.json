@@ -1,0 +1,602 @@
+{
+  "id": 1019,
+  "title": {
+    "en": "Sports",
+    "id": "Olahraga"
+  },
+  "description": {
+    "en": "Here you will learn some English words about sports, such as \"croquet\", \"javelin\", \"division\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang olahraga, seperti \"kroket\", \"lembing\", \"divisi\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 244388,
+      "translation": {
+        "en": {
+          "short": "croquet",
+          "long": "a game that is played on grass and involves a series of hoops through which the players must roll wooden balls using hammer-like sticks called mallets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kroket",
+          "long": "Sebuah permainan yang dimainkan di atas rumput dan melibatkan serangkaian lingkaran di mana para pemain harus menggulung bola kayu menggunakan tongkat seperti palu yang disebut palu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244388.jpeg",
+      "simplified": "槌球",
+      "traditional": "槌球",
+      "pinyin": "chuíqiú"
+    },
+    {
+      "id": 244390,
+      "translation": {
+        "en": {
+          "short": "wrestling",
+          "long": "a sport in which two players hold each other while trying to throw or force the other one to the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gulat",
+          "long": "Olahraga di mana dua pemain saling berpegangan sambil mencoba melempar atau memaksa yang lain ke tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244390.jpeg",
+      "simplified": "摔角",
+      "traditional": "摔角",
+      "pinyin": "shuāijiǎo"
+    },
+    {
+      "id": 244392,
+      "translation": {
+        "en": {
+          "short": "rappelling",
+          "long": "the activity or sport of descending a cliff using rope that is coiled around the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rappelling",
+          "long": "aktivitas atau olahraga turun tebing menggunakan tali yang melingkar di sekitar tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244392.jpeg",
+      "simplified": "绳降",
+      "traditional": "繩降",
+      "pinyin": "shéng jiàng"
+    },
+    {
+      "id": 244393,
+      "translation": {
+        "en": {
+          "short": "decathlon",
+          "long": "a competition consisting of ten different sports that takes place over two days",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dasalomba",
+          "long": "Kompetisi yang terdiri dari sepuluh olahraga berbeda yang berlangsung selama dua hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244393.jpeg",
+      "simplified": "十项全能（田径比赛）",
+      "traditional": "十項全能（田徑比賽）",
+      "pinyin": "shíxiàng quán néng tiánjìng bǐsài"
+    },
+    {
+      "id": 244559,
+      "translation": {
+        "en": {
+          "short": "grand slam",
+          "long": "a set of championships or matches happening in a particular sport including tennis, golf, or rugby that are of great significance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grand Slam",
+          "long": "satu set kejuaraan atau pertandingan yang terjadi dalam olahraga tertentu termasuk tenis, golf, atau rugby yang sangat penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244559.jpeg",
+      "simplified": "大满贯（比赛）",
+      "traditional": "大滿貫（比賽）",
+      "pinyin": "dàmǎn guàn bǐsài"
+    },
+    {
+      "id": 244560,
+      "translation": {
+        "en": {
+          "short": "Grand Prix",
+          "long": "one of a series of international motorcycle or car racing competitions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Grand Prix",
+          "long": "Salah satu dari serangkaian kompetisi sepeda motor atau balap mobil internasional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244560.jpeg",
+      "simplified": "大奖赛（赛车赛事的类型）",
+      "traditional": "大獎賽（賽車賽事的類型）",
+      "pinyin": "dàjiǎng sài sàichē sàishì de lèixíng"
+    },
+    {
+      "id": 244562,
+      "translation": {
+        "en": {
+          "short": "lacrosse",
+          "long": "a game played on a field with two teams, each consisting of ten players using long-handled sticks with a net to throw, carry, and catch the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lacrosse",
+          "long": "Sebuah permainan yang dimainkan di lapangan dengan dua tim, masing-masing terdiri dari sepuluh pemain menggunakan tongkat panjang dengan jaring untuk dilempar, membawa, dan menangkap bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244562.jpeg",
+      "simplified": "长曲棍球",
+      "traditional": "長曲棍球",
+      "pinyin": "cháng qūgùn qiú"
+    },
+    {
+      "id": 244396,
+      "translation": {
+        "en": {
+          "short": "welterweight",
+          "long": "a weight between lightweight and middleweight in boxing and other sports, usually between 60 and 67 kilograms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelas menengah",
+          "long": "Berat antara ringan dan kelas menengah di tinju dan olahraga lainnya, biasanya antara 60 dan 67 kilogram",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244396.jpeg",
+      "simplified": "轻量级（67 至 67 之间）",
+      "traditional": "輕量級（67 至 67 之間）",
+      "pinyin": "qīngliàng jí zhì zhījiān"
+    },
+    {
+      "id": 244568,
+      "translation": {
+        "en": {
+          "short": "discus",
+          "long": "the sport or competition in which a discus is thrown as far as possible",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diskus",
+          "long": "olahraga atau kompetisi di mana diskus dilemparkan sejauh mungkin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244568.jpeg",
+      "simplified": "铁饼",
+      "traditional": "鐵餅",
+      "pinyin": "tiěbǐng"
+    },
+    {
+      "id": 244572,
+      "translation": {
+        "en": {
+          "short": "javelin",
+          "long": "a sport or competition in which a light spear is thrown as far as possible",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lembing",
+          "long": "olahraga atau kompetisi di mana tombak ringan dilemparkan sejauh mungkin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244572.jpeg",
+      "simplified": "标枪",
+      "traditional": "標槍",
+      "pinyin": "biāoqiāng"
+    },
+    {
+      "id": 244578,
+      "translation": {
+        "en": {
+          "short": "regatta",
+          "long": "a sporting event consisting of a series of races between rowboats or sailing boats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Regatta",
+          "long": "Acara olahraga yang terdiri dari serangkaian balapan antara perahu dayung atau kapal layar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244578.jpeg",
+      "simplified": "划船比赛",
+      "traditional": "划船比賽",
+      "pinyin": "huáchuán bǐsài"
+    },
+    {
+      "id": 244566,
+      "translation": {
+        "en": {
+          "short": "softball",
+          "long": "a game similar to baseball but on a smaller field in which players use a larger and softer ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Softball",
+          "long": "Permainan yang mirip dengan baseball tetapi di lapangan yang lebih kecil di mana pemain menggunakan bola yang lebih besar dan lebih lembut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244566.jpeg",
+      "simplified": "垒球",
+      "traditional": "壘球",
+      "pinyin": "lěiqiú"
+    },
+    {
+      "id": 244576,
+      "translation": {
+        "en": {
+          "short": "steeplechase",
+          "long": "a race in which people or animals, typically horses, have to jump over fences, ditches, bushes, etc. in order to finish the race",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Steeplechase",
+          "long": "Perlombaan di mana orang atau hewan, biasanya kuda, harus melompati pagar, parit, semak -semak, dll. Untuk menyelesaikan balapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244576.jpeg",
+      "simplified": "与障碍赛跑",
+      "traditional": "與障礙賽跑",
+      "pinyin": "yú zhàngài sàipǎo"
+    },
+    {
+      "id": 244563,
+      "translation": {
+        "en": {
+          "short": "major league",
+          "long": "a league of the highest-ranking in a particular sport, especially baseball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Liga Utama",
+          "long": "liga peringkat tertinggi dalam olahraga tertentu, terutama baseball",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244563.jpeg",
+      "simplified": "主要联盟",
+      "traditional": "主要聯盟",
+      "pinyin": "zhǔyào liánméng"
+    },
+    {
+      "id": 244406,
+      "translation": {
+        "en": {
+          "short": "triathlon",
+          "long": "a sporting contest typically consisting of swimming, cycling, and running taking place in three different events",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "triathlon",
+          "long": "Kontes olahraga yang biasanya terdiri dari berenang, bersepeda, dan berlari di tiga acara yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244406.jpeg",
+      "simplified": "铁人三项",
+      "traditional": "鐵人三項",
+      "pinyin": "tiěrén sān xiàng"
+    },
+    {
+      "id": 244573,
+      "translation": {
+        "en": {
+          "short": "tour de france",
+          "long": "a cycling race consisting of 21 stages held annually for men primarily in France",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tour de France",
+          "long": "Perlombaan bersepeda yang terdiri dari 21 tahap yang diadakan setiap tahun untuk pria terutama di Prancis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244573.jpeg",
+      "simplified": "环法自行车赛",
+      "traditional": "環法自行車賽",
+      "pinyin": "HuánFǎ Zì xíng chē sài"
+    },
+    {
+      "id": 244554,
+      "translation": {
+        "en": {
+          "short": "debutant",
+          "long": "a man who is making a public appearance for the first time, especially in movies or sports",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "debutan",
+          "long": "Seorang pria yang membuat penampilan publik untuk pertama kalinya, terutama di film atau olahraga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244554.jpeg",
+      "simplified": "初次登场的",
+      "traditional": "初次登場的",
+      "pinyin": "chūcì dēngchǎng de"
+    },
+    {
+      "id": 244574,
+      "translation": {
+        "en": {
+          "short": "novice",
+          "long": "a person who is new and inexperienced in a position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemula",
+          "long": "seseorang yang baru dan tidak berpengalaman dalam suatu posisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244574.jpeg",
+      "simplified": "初学者",
+      "traditional": "初學者",
+      "pinyin": "chūxué zhě"
+    },
+    {
+      "id": 244577,
+      "translation": {
+        "en": {
+          "short": "underdog",
+          "long": "an individual, team, etc. who is regarded as weaker compared to others and has little chance of success as a result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "underdog",
+          "long": "seorang individu, tim, dll. Yang dianggap lebih lemah dibandingkan dengan yang lain dan memiliki sedikit peluang keberhasilan sebagai hasilnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244577.jpeg",
+      "simplified": "较弱的人或团队",
+      "traditional": "較弱的人或團隊",
+      "pinyin": "jiào ruò de rén huò tuánduì"
+    },
+    {
+      "id": 244555,
+      "translation": {
+        "en": {
+          "short": "division",
+          "long": "a number of athletic competitors and teams grouped together, especially according to weight, ability, geography, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "divisi",
+          "long": "Sejumlah pesaing atletik dan tim yang dikelompokkan bersama, terutama menurut berat, kemampuan, geografi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244555.jpeg",
+      "simplified": "师",
+      "traditional": "師",
+      "pinyin": "Shī"
+    },
+    {
+      "id": 244561,
+      "translation": {
+        "en": {
+          "short": "gridiron",
+          "long": "a field painted with parallel lines in which American football is played",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lapangan hijau",
+          "long": "Lapangan yang dilukis dengan garis paralel di mana sepak bola Amerika dimainkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244561.jpeg",
+      "simplified": "美式足球比赛场地",
+      "traditional": "美式足球比賽場地",
+      "pinyin": "Měishì zú qiú bǐsài chǎng de"
+    },
+    {
+      "id": 244556,
+      "translation": {
+        "en": {
+          "short": "dribble",
+          "long": "an act of moving the ball along the ground with repeated slight touches or bounces, especially in soccer, hockey, and basketball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggiring bola",
+          "long": "Tindakan menggerakkan bola di sepanjang tanah dengan sedikit sentuhan atau memantul, terutama di sepak bola, hoki, dan bola basket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244556.jpeg",
+      "simplified": "运球",
+      "traditional": "運球",
+      "pinyin": "yùnqiú"
+    },
+    {
+      "id": 244558,
+      "translation": {
+        "en": {
+          "short": "fumble",
+          "long": "an act of dropping or failing to catch the ball properly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meleset",
+          "long": "tindakan menjatuhkan atau gagal menangkap bola dengan benar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244558.jpeg",
+      "simplified": "当你没能接住或击中球时（在体育运动中）",
+      "traditional": "當你沒能接住或擊中球時（在體育運動中）",
+      "pinyin": "dāng nǐ méi Néng jiēzhù huò jīzhòng qiú shí zài tǐyù yùn dòng Zhōng"
+    },
+    {
+      "id": 244564,
+      "translation": {
+        "en": {
+          "short": "matchup",
+          "long": "a sports event with two players or teams competing against one another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sesuai",
+          "long": "acara olahraga dengan dua pemain atau tim yang saling bersaing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244564.jpeg",
+      "simplified": "配对",
+      "traditional": "配對",
+      "pinyin": "pèiduì"
+    },
+    {
+      "id": 244565,
+      "translation": {
+        "en": {
+          "short": "pennant",
+          "long": "a flag representing a sports championship or other achievement, especially in American baseball leagues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panji",
+          "long": "Bendera yang mewakili kejuaraan olahraga atau pencapaian lainnya, terutama di liga baseball Amerika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244565.jpeg",
+      "simplified": "三角旗（体育）",
+      "traditional": "三角旗（體育）",
+      "pinyin": "sānjiǎo qí tǐyù"
+    },
+    {
+      "id": 244575,
+      "translation": {
+        "en": {
+          "short": "podium",
+          "long": "a structure used in sports competitions consisting of three adjacent platforms of different levels, on which winners stand to receive their awards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mimbar",
+          "long": "Struktur yang digunakan dalam kompetisi olahraga yang terdiri dari tiga platform yang berdekatan dari level yang berbeda, di mana pemenang berdiri untuk menerima penghargaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244575.jpeg",
+      "simplified": "讲台",
+      "traditional": "講台",
+      "pinyin": "jiǎngtái"
+    },
+    {
+      "id": 244567,
+      "translation": {
+        "en": {
+          "short": "rappel",
+          "long": "the act of descending a cliff using rope that is coiled around the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rappel",
+          "long": "Tindakan turun tebing menggunakan tali yang dilingkarkan di sekitar tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244567.jpeg",
+      "simplified": "绳索下降",
+      "traditional": "繩索下降",
+      "pinyin": "shéngsuǒ xiàjiàng"
+    },
+    {
+      "id": 244571,
+      "translation": {
+        "en": {
+          "short": "interval training",
+          "long": "athletic training that consists of activities with alternating periods of high and low-intensity activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelatihan interval",
+          "long": "Pelatihan atletik yang terdiri dari kegiatan dengan periode aktivitas intensitas tinggi dan rendah bergantian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244571.jpeg",
+      "simplified": "间歇训练",
+      "traditional": "間歇訓練",
+      "pinyin": "jiànxiē xùn liàn"
+    },
+    {
+      "id": 244557,
+      "translation": {
+        "en": {
+          "short": "to foul",
+          "long": "to play against the rules of a game",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melakukan pelanggaran",
+          "long": "bermain melawan aturan permainan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244557.jpeg",
+      "simplified": "弄脏",
+      "traditional": "弄髒",
+      "pinyin": "nòngzāng"
+    },
+    {
+      "id": 244569,
+      "translation": {
+        "en": {
+          "short": "to dope",
+          "long": "to induce an animal or person with drugs in order to affect their performance in a competition",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk obat bius",
+          "long": "untuk menginduksi hewan atau orang dengan narkoba untuk mempengaruhi kinerja mereka dalam suatu kompetisi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244569.jpeg",
+      "simplified": "服用药物来提高运动成绩",
+      "traditional": "服用藥物來提高運動成績",
+      "pinyin": "fúyòng yàowù lái tígāo yùndòng chéngjì"
+    },
+    {
+      "id": 244570,
+      "translation": {
+        "en": {
+          "short": "to knock out",
+          "long": "to make someone or something unconscious",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merobohkan",
+          "long": "untuk membuat seseorang atau sesuatu yang tidak sadarkan diri",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/244570.jpeg",
+      "simplified": "磕打",
+      "traditional": "磕打",
+      "pinyin": "kē dá"
+    }
+  ]
+}

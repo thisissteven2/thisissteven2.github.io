@@ -1,0 +1,792 @@
+{
+  "id": 1085,
+  "title": {
+    "en": "Get Well Soon!",
+    "id": "Semoga segera sembuh!"
+  },
+  "description": {
+    "en": "Here you will learn some English words about sickness, such as \"biopsy\", \"dress\", \"ointment\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang penyakit, seperti \"biopsi\", \"pakaian\", \"salep\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 248272,
+      "translation": {
+        "en": {
+          "short": "to tranquillize",
+          "long": "to make a person or animal calm or unconscious using drugs, like sedatives",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk tenang",
+          "long": "untuk membuat seseorang atau hewan tenang atau tidak sadar menggunakan narkoba, seperti obat penenang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248272.jpeg",
+      "simplified": "使平静",
+      "traditional": "使平靜",
+      "pinyin": "shǐ píngjìng"
+    },
+    {
+      "id": 248274,
+      "translation": {
+        "en": {
+          "short": "anesthesia",
+          "long": "the condition of losing one's sensation or awareness during surgery and other procedures, particularly by use of special drugs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anestesi",
+          "long": "Kondisi kehilangan sensasi atau kesadaran seseorang selama operasi dan prosedur lainnya, terutama dengan menggunakan obat -obatan khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248274.jpeg",
+      "simplified": "麻醉",
+      "traditional": "麻醉",
+      "pinyin": "mázuì"
+    },
+    {
+      "id": 248275,
+      "translation": {
+        "en": {
+          "short": "biopsy",
+          "long": "the process of removing and analyzing tissue from the body of a sick person to learn more about their condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biopsi",
+          "long": "proses menghilangkan dan menganalisis jaringan dari tubuh orang yang sakit untuk mempelajari lebih lanjut tentang kondisi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248275.jpeg",
+      "simplified": "活检",
+      "traditional": "活檢",
+      "pinyin": "huójiǎn"
+    },
+    {
+      "id": 248276,
+      "translation": {
+        "en": {
+          "short": "catheter",
+          "long": "a flexible tube inserted into one's bladder, to drain and collect urine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kateter",
+          "long": "tabung fleksibel yang dimasukkan ke dalam kandung kemih, untuk menguras dan mengumpulkan urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248276.jpeg",
+      "simplified": "导管",
+      "traditional": "導管",
+      "pinyin": "dǎoguǎn"
+    },
+    {
+      "id": 248277,
+      "translation": {
+        "en": {
+          "short": "chiropractor",
+          "long": "someone who treats diseases or physical problems by pressing or manipulating joints in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chiropractor",
+          "long": "seseorang yang mengobati penyakit atau masalah fisik dengan menekan atau memanipulasi sendi di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248277.jpeg",
+      "simplified": "捏积者",
+      "traditional": "捏積者",
+      "pinyin": "niējī zhě"
+    },
+    {
+      "id": 248278,
+      "translation": {
+        "en": {
+          "short": "diagnosis",
+          "long": "the identification of the nature and cause of an illness or other problem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diagnosa",
+          "long": "identifikasi sifat dan penyebab penyakit atau masalah lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248278.jpeg",
+      "simplified": "诊断",
+      "traditional": "診斷",
+      "pinyin": "zhěnduàn"
+    },
+    {
+      "id": 248279,
+      "translation": {
+        "en": {
+          "short": "to discharge",
+          "long": "to allow a patient to leave the hospital because they have recovered and no longer need to receive inpatient care",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keluar",
+          "long": "untuk memungkinkan pasien meninggalkan rumah sakit karena mereka telah pulih dan tidak perlu lagi menerima perawatan rawat inap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248279.jpeg",
+      "simplified": "卸货",
+      "traditional": "卸貨",
+      "pinyin": "xièhuò"
+    },
+    {
+      "id": 248280,
+      "translation": {
+        "en": {
+          "short": "to dress",
+          "long": "to clean the wound properly and apply bandages in order to promote healing and to protect it from further harm",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berpakaian",
+          "long": "untuk membersihkan luka dengan benar dan menerapkan perban untuk mempromosikan penyembuhan dan melindunginya dari bahaya lebih lanjut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248280.jpeg",
+      "simplified": "衣",
+      "traditional": "衣",
+      "pinyin": "yī"
+    },
+    {
+      "id": 248281,
+      "translation": {
+        "en": {
+          "short": "geriatric",
+          "long": "related to the medical care of the old people; often used for hospitals, wards, nurses, or doctors that specialize in treating old people",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "geriatrik",
+          "long": "terkait dengan perawatan medis orang tua; sering digunakan untuk rumah sakit, bangsal, perawat, atau dokter yang berspesialisasi dalam merawat orang tua",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248281.jpeg",
+      "simplified": "老年科的",
+      "traditional": "老年科的",
+      "pinyin": "lǎonián kē de"
+    },
+    {
+      "id": 248282,
+      "translation": {
+        "en": {
+          "short": "to immunize",
+          "long": "to protect an animal or a person from a disease by vaccination",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk diimunisasi",
+          "long": "untuk melindungi hewan atau orang dari penyakit dengan vaksinasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248282.jpeg",
+      "simplified": "赋予免疫性",
+      "traditional": "賦予免疫性",
+      "pinyin": "fùyǔ miǎnyì xìng"
+    },
+    {
+      "id": 248284,
+      "translation": {
+        "en": {
+          "short": "intravenous",
+          "long": "within, administered into, taking place in, or connected to a vein",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "intravena",
+          "long": "di dalam, diberikan ke dalam, terjadi di, atau terhubung ke vena",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248284.jpeg",
+      "simplified": "静脉",
+      "traditional": "靜脈",
+      "pinyin": "jìngmài"
+    },
+    {
+      "id": 248285,
+      "translation": {
+        "en": {
+          "short": "ointment",
+          "long": "a substance, usually smooth and oily, rubbed on the skin for medical purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "salep",
+          "long": "zat, biasanya halus dan berminyak, digosokkan pada kulit untuk keperluan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248285.jpeg",
+      "simplified": "软膏",
+      "traditional": "軟膏",
+      "pinyin": "ruǎngāo"
+    },
+    {
+      "id": 248286,
+      "translation": {
+        "en": {
+          "short": "outpatient",
+          "long": "a patient who receives treatment in a hospital but does not remain there afterward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawat jalan",
+          "long": "seorang pasien yang menerima perawatan di rumah sakit tetapi tidak tetap di sana sesudahnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248286.jpeg",
+      "simplified": "门诊病人",
+      "traditional": "門診病人",
+      "pinyin": "ménzhěn bìngrén"
+    },
+    {
+      "id": 248287,
+      "translation": {
+        "en": {
+          "short": "over-the-counter",
+          "long": "(of drugs and medicines) available for purchase without a physician's prescription",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "perhitungan berlebihan",
+          "long": "(obat dan obat -obatan) tersedia untuk dibeli tanpa resep dokter",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248287.jpeg",
+      "simplified": "在柜台",
+      "traditional": "在櫃檯",
+      "pinyin": "zài guìtái"
+    },
+    {
+      "id": 248288,
+      "translation": {
+        "en": {
+          "short": "pharmaceutical",
+          "long": "related to the production, use, or sale of medicines",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "farmasi",
+          "long": "terkait dengan produksi, penggunaan, atau penjualan obat -obatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248288.jpeg",
+      "simplified": "制药",
+      "traditional": "製藥",
+      "pinyin": "zhìyào"
+    },
+    {
+      "id": 248289,
+      "translation": {
+        "en": {
+          "short": "restorative",
+          "long": "able to promote or restore one's health or strength",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "restoratif",
+          "long": "dapat mempromosikan atau memulihkan kesehatan atau kekuatan seseorang",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248289.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    },
+    {
+      "id": 248290,
+      "translation": {
+        "en": {
+          "short": "recuperation",
+          "long": "the gradual recovery through rest after sickness or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyembuhan",
+          "long": "pemulihan bertahap melalui istirahat setelah sakit atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248290.jpeg",
+      "simplified": "休养",
+      "traditional": "休養",
+      "pinyin": "xiūyǎng"
+    },
+    {
+      "id": 248291,
+      "translation": {
+        "en": {
+          "short": "sanitarium",
+          "long": "an establishment or facility that treats people who have a chronic illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sanatorium",
+          "long": "perusahaan atau fasilitas yang merawat orang yang memiliki penyakit kronis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248291.jpeg",
+      "simplified": "疗养院",
+      "traditional": "療養院",
+      "pinyin": "liáoyǎng yuàn"
+    },
+    {
+      "id": 248292,
+      "translation": {
+        "en": {
+          "short": "to stitch",
+          "long": "to join the edges of a wound together by a thread and needle",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjahit",
+          "long": "untuk bergabung dengan tepi luka bersama oleh utas dan jarum",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248292.jpeg",
+      "simplified": "缝",
+      "traditional": "縫",
+      "pinyin": "féng"
+    },
+    {
+      "id": 248293,
+      "translation": {
+        "en": {
+          "short": "to swab",
+          "long": "to clean, apply medication to, or remove liquid from a wound using a swab",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk swab",
+          "long": "Untuk membersihkan, oleskan obat ke, atau keluarkan cairan dari luka menggunakan swab",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248293.jpeg",
+      "simplified": "擦",
+      "traditional": "擦",
+      "pinyin": "cā"
+    },
+    {
+      "id": 248294,
+      "translation": {
+        "en": {
+          "short": "tourniquet",
+          "long": "a device, such as a bandage, piece of fabric, etc. that arrests bleeding by applying pressure to the wound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turniket",
+          "long": "Perangkat, seperti perban, sepotong kain, dll. Yang menahan pendarahan dengan memberikan tekanan pada luka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248294.jpeg",
+      "simplified": "止血带",
+      "traditional": "止血帶",
+      "pinyin": "zhǐxuè dài"
+    },
+    {
+      "id": 248295,
+      "translation": {
+        "en": {
+          "short": "hypodermic",
+          "long": "a piston syringe with a long thin needle for injecting substances under the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "injeksi",
+          "long": "Jarum piston dengan jarum tipis panjang untuk menyuntikkan zat di bawah kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248295.jpeg",
+      "simplified": "皮下注射",
+      "traditional": "皮下注射",
+      "pinyin": "píxià zhù shè"
+    },
+    {
+      "id": 248297,
+      "translation": {
+        "en": {
+          "short": "psychosis",
+          "long": "a severe mental condition in which the patient loses contact with external reality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "psikosis",
+          "long": "kondisi mental yang parah di mana pasien kehilangan kontak dengan realitas eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248297.jpeg",
+      "simplified": "精神病",
+      "traditional": "精神病",
+      "pinyin": "jīngshén bìng"
+    },
+    {
+      "id": 248298,
+      "translation": {
+        "en": {
+          "short": "psychotic",
+          "long": "(of a mental condition) affecting brain processes so severely that makes one unable to tell the difference between reality and fantasy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gila",
+          "long": "(kondisi mental) yang mempengaruhi proses otak begitu parah sehingga membuat seseorang tidak dapat membedakan antara kenyataan dan fantasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248298.jpeg",
+      "simplified": "精神病",
+      "traditional": "精神病",
+      "pinyin": "jīngshén bìng"
+    },
+    {
+      "id": 248299,
+      "translation": {
+        "en": {
+          "short": "neurosis",
+          "long": "a mental condition that is not caused by organic disease in which one is constantly anxious, worried, and stressed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sakit saraf",
+          "long": "kondisi mental yang tidak disebabkan oleh penyakit organik di mana seseorang terus cemas, khawatir, dan stres",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248299.jpeg",
+      "simplified": "神经症",
+      "traditional": "神經症",
+      "pinyin": "shénjīng zhèng"
+    },
+    {
+      "id": 248300,
+      "translation": {
+        "en": {
+          "short": "acupressure",
+          "long": "an alternative therapy in which pressure is put on specific parts of the body with hands and fingers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akupresur",
+          "long": "terapi alternatif di mana tekanan diletakkan pada bagian tubuh tertentu dengan tangan dan jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248300.jpeg",
+      "simplified": "指压法",
+      "traditional": "指壓法",
+      "pinyin": "zhǐyā fǎ"
+    },
+    {
+      "id": 248301,
+      "translation": {
+        "en": {
+          "short": "acupuncture",
+          "long": "a method of treatment in which thin needles are inserted in specific spots on the body, originated in China",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akupunktur",
+          "long": "Metode pengobatan di mana jarum tipis dimasukkan ke dalam bintik -bintik spesifik pada tubuh, berasal dari Cina",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248301.jpeg",
+      "simplified": "针刺",
+      "traditional": "針刺",
+      "pinyin": "zhēncì"
+    },
+    {
+      "id": 248303,
+      "translation": {
+        "en": {
+          "short": "to amputate",
+          "long": "to surgically remove a body part, such as a limb or organ, often due to injury, disease, or medical necessity",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengamputasi",
+          "long": "untuk menghilangkan bagian tubuh, seperti anggota tubuh atau organ, seringkali karena cedera, penyakit, atau kebutuhan medis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248303.jpeg",
+      "simplified": "截肢",
+      "traditional": "截肢",
+      "pinyin": "jiézhī"
+    },
+    {
+      "id": 248304,
+      "translation": {
+        "en": {
+          "short": "maladjusted",
+          "long": "characterized by being emotionally unstable and incapable of coping with the demands of a normal social environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "maladjusted",
+          "long": "ditandai dengan menjadi tidak stabil secara emosional dan tidak mampu mengatasi tuntutan lingkungan sosial yang normal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248304.jpeg",
+      "simplified": "不适应的",
+      "traditional": "不適應的",
+      "pinyin": "bùshì Yīng de"
+    },
+    {
+      "id": 248305,
+      "translation": {
+        "en": {
+          "short": "mindfulness",
+          "long": "a mental state achieved by maintaining a moment-by-moment awareness of someone's thoughts, feelings, etc., used as a therapeutic technique",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mindfulness",
+          "long": "Keadaan mental yang dicapai dengan mempertahankan kesadaran saat demi momen tentang pikiran, perasaan, dll., Digunakan sebagai teknik terapeutik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248305.jpeg",
+      "simplified": "正念",
+      "traditional": "正念",
+      "pinyin": "zhèngniàn"
+    },
+    {
+      "id": 248307,
+      "translation": {
+        "en": {
+          "short": "antidote",
+          "long": "a substance that counteracts or controls the effects of a poison",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penangkal",
+          "long": "zat yang menangkal atau mengontrol efek racun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248307.jpeg",
+      "simplified": "解毒剂",
+      "traditional": "解毒劑",
+      "pinyin": "jiědú jì"
+    },
+    {
+      "id": 248309,
+      "translation": {
+        "en": {
+          "short": "gynecology",
+          "long": "the branch of medicine that is concerned with diseases that are specific to women, especially those that affect their reproductive organs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ginekologi",
+          "long": "cabang kedokteran yang berkaitan dengan penyakit yang khusus untuk wanita, terutama yang mempengaruhi organ reproduksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248309.jpeg",
+      "simplified": "妇科",
+      "traditional": "婦科",
+      "pinyin": "fùkē"
+    },
+    {
+      "id": 248310,
+      "translation": {
+        "en": {
+          "short": "rehab",
+          "long": "‌the process of helping someone who has a problem with drugs or alcohol to lead a normal life again",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rehabilitasi",
+          "long": "Proses Proses membantu seseorang yang memiliki masalah dengan narkoba atau alkohol untuk menjalani kehidupan normal lagi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248310.jpeg",
+      "simplified": "复职",
+      "traditional": "復職",
+      "pinyin": "fùzhí"
+    },
+    {
+      "id": 248311,
+      "translation": {
+        "en": {
+          "short": "to infuse",
+          "long": "to slowly administer a drug or other substance through a needle or catheter into the bloodstream",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meresap",
+          "long": "untuk secara perlahan memberikan obat atau zat lain melalui jarum atau kateter ke dalam aliran darah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248311.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 248313,
+      "translation": {
+        "en": {
+          "short": "pediatrics",
+          "long": "the branch of medicine that is concerned with children and their conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pediatri",
+          "long": "cabang kedokteran yang berkaitan dengan anak -anak dan kondisi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248313.jpeg",
+      "simplified": "儿科",
+      "traditional": "兒科",
+      "pinyin": "érkē"
+    },
+    {
+      "id": 248314,
+      "translation": {
+        "en": {
+          "short": "to quarantine",
+          "long": "to isolate a person or animal for a specific period due to illness, suspicion of illness, or to prevent the potential spread of a disease",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengarantina",
+          "long": "untuk mengisolasi seseorang atau hewan untuk periode tertentu karena penyakit, kecurigaan penyakit, atau untuk mencegah potensi penyebaran penyakit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248314.jpeg",
+      "simplified": "检疫",
+      "traditional": "檢疫",
+      "pinyin": "jiǎnyì"
+    },
+    {
+      "id": 248315,
+      "translation": {
+        "en": {
+          "short": "to revive",
+          "long": "to make a person become conscious again",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghidupkan kembali",
+          "long": "untuk membuat seseorang menjadi sadar lagi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248315.jpeg",
+      "simplified": "使某人复活",
+      "traditional": "使某人復活",
+      "pinyin": "shǐ mǒurén fùhuó"
+    },
+    {
+      "id": 248316,
+      "translation": {
+        "en": {
+          "short": "to soothe",
+          "long": "to reduce the severity of a pain",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menenangkan",
+          "long": "untuk mengurangi keparahan rasa sakit",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248316.jpeg",
+      "simplified": "抚慰",
+      "traditional": "撫慰",
+      "pinyin": "fǔwèi"
+    },
+    {
+      "id": 248317,
+      "translation": {
+        "en": {
+          "short": "dosage",
+          "long": "a prescribed amount of medicine that is taken regularly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dosis",
+          "long": "jumlah obat yang ditentukan yang diminum secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248317.jpeg",
+      "simplified": "剂量",
+      "traditional": "劑量",
+      "pinyin": "jìliàng"
+    },
+    {
+      "id": 248318,
+      "translation": {
+        "en": {
+          "short": "psychoanalysis",
+          "long": "a method of therapy used for mental conditions which consists of the patient opening up about their past and feelings in order to find the reason for their illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "psikoanalisa",
+          "long": "Metode terapi yang digunakan untuk kondisi mental yang terdiri dari pasien yang membuka tentang masa lalu dan perasaan mereka untuk menemukan alasan penyakit mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/248318.jpeg",
+      "simplified": "精神分析",
+      "traditional": "精神分析",
+      "pinyin": "jīngshén fēn xī"
+    },
+    {
+      "id": 385962,
+      "translation": {
+        "en": {
+          "short": "febrile",
+          "long": "having the symptoms of a fever, such as high temperature, sweating, shivering, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "demam",
+          "long": "Memiliki gejala demam, seperti suhu tinggi, berkeringat, menggigil, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385962.jpeg",
+      "simplified": "发烧的",
+      "traditional": "發燒的",
+      "pinyin": "fāshāo de"
+    }
+  ]
+}

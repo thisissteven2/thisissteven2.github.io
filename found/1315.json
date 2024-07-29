@@ -1,0 +1,716 @@
+{
+  "id": 1315,
+  "title": {
+    "en": "Window Treatments",
+    "id": "Perawatan jendela"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to window treatments such as \"blind\", \"drape\", and \"curtain\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan perawatan jendela seperti \"buta\", \"gantungan\", dan \"tirai\"."
+  },
+  "cards": [
+    {
+      "id": 344591,
+      "translation": {
+        "en": {
+          "short": "blind",
+          "long": "a type of window covering, often made of cloth, that can be rolled up and down",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buta",
+          "long": "Jenis penutup jendela, sering terbuat dari kain, yang dapat digulung ke atas dan ke bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344591.jpeg",
+      "simplified": "盲",
+      "traditional": "盲",
+      "pinyin": "máng"
+    },
+    {
+      "id": 344592,
+      "translation": {
+        "en": {
+          "short": "drape",
+          "long": "a type of curtain that is long and thick",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggantungkan",
+          "long": "sejenis tirai yang panjang dan tebal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344592.jpeg",
+      "simplified": "悬垂",
+      "traditional": "懸垂",
+      "pinyin": "xuánchuí"
+    },
+    {
+      "id": 344593,
+      "translation": {
+        "en": {
+          "short": "curtain",
+          "long": "a hanging piece of cloth or other materials that covers a window, opening, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tirai",
+          "long": "Sepotong kain gantung atau bahan lain yang menutupi jendela, bukaan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344593.jpeg",
+      "simplified": "窗帘",
+      "traditional": "窗簾",
+      "pinyin": "chuānglián"
+    },
+    {
+      "id": 344600,
+      "translation": {
+        "en": {
+          "short": "shower curtain",
+          "long": "a waterproof curtain used in bathrooms to prevent water from splashing outside the shower area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tirai kamar mandi",
+          "long": "Tirai tahan air yang digunakan di kamar mandi untuk mencegah air dari percikan di luar area kamar mandi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344600.jpeg",
+      "simplified": "浴帘",
+      "traditional": "浴簾",
+      "pinyin": "yùlián"
+    },
+    {
+      "id": 344627,
+      "translation": {
+        "en": {
+          "short": "lace curtain",
+          "long": "a lightweight and delicate curtain made from lace or a lace-like material, often used for decorative purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai renda",
+          "long": "Tirai ringan dan halus yang terbuat dari renda atau bahan seperti renda, sering digunakan untuk tujuan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344627.jpeg",
+      "simplified": "花边窗帘",
+      "traditional": "花邊窗簾",
+      "pinyin": "huābiān chuānglián"
+    },
+    {
+      "id": 344628,
+      "translation": {
+        "en": {
+          "short": "net curtain",
+          "long": "a type of window treatment made of light and sheer fabric that provides privacy while still allowing natural light to enter a room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai bersih",
+          "long": "Jenis perawatan jendela yang terbuat dari kain ringan dan tipis yang memberikan privasi sambil tetap membiarkan cahaya alami memasuki ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344628.jpeg",
+      "simplified": "网状窗帘",
+      "traditional": "網狀窗簾",
+      "pinyin": "wǎng zhuàng chuānglián"
+    },
+    {
+      "id": 344629,
+      "translation": {
+        "en": {
+          "short": "window screen",
+          "long": "a mesh or wire frame that is installed in a window frame to allow fresh air to circulate while keeping insects and debris out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layar jendela",
+          "long": "bingkai mesh atau kawat yang dipasang dalam bingkai jendela untuk memungkinkan udara segar bersirkulasi sambil menjaga serangga dan puing -puing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344629.jpeg",
+      "simplified": "窗纱",
+      "traditional": "窗紗",
+      "pinyin": "chuāng shā"
+    },
+    {
+      "id": 344630,
+      "translation": {
+        "en": {
+          "short": "shade",
+          "long": "a covering that blocks light or reduces its intensity, primarily used to cover the windows with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "naungan",
+          "long": "penutup yang menghalangi cahaya atau mengurangi intensitasnya, terutama digunakan untuk menutupi jendela dengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344630.jpeg",
+      "simplified": "阴",
+      "traditional": "陰",
+      "pinyin": "Yīn"
+    },
+    {
+      "id": 344631,
+      "translation": {
+        "en": {
+          "short": "shutter",
+          "long": "one of a pair of exterior wooden or metal covers of a window that can be closed for preventing light from coming in or protecting the house against thieves or other threats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rana",
+          "long": "Salah satu dari sepasang kayu eksterior atau penutup logam dari jendela yang dapat ditutup untuk mencegah cahaya masuk atau melindungi rumah terhadap pencuri atau ancaman lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344631.jpeg",
+      "simplified": "快门",
+      "traditional": "快門",
+      "pinyin": "kuàimén"
+    },
+    {
+      "id": 344632,
+      "translation": {
+        "en": {
+          "short": "valance",
+          "long": "a decorative piece of fabric or other material that hangs across the top of a window frame and covers the uppermost part of curtains or blinds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelambu",
+          "long": "Sepotong kain dekoratif atau bahan lain yang menggantung di bagian atas bingkai jendela dan menutupi bagian paling atas dari tirai atau tirai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344632.jpeg",
+      "simplified": "帷幔",
+      "traditional": "帷幔",
+      "pinyin": "wéimàn"
+    },
+    {
+      "id": 344633,
+      "translation": {
+        "en": {
+          "short": "Venetian blind",
+          "long": "a type of window covering made of horizontal slats, usually made of wood, plastic or metal, that can be adjusted to control the amount of light entering a room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Venesia buta",
+          "long": "Jenis penutup jendela yang terbuat dari bilah horizontal, biasanya terbuat dari kayu, plastik atau logam, yang dapat disesuaikan untuk mengontrol jumlah cahaya yang memasuki ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344633.jpeg",
+      "simplified": "百叶帘",
+      "traditional": "百葉簾",
+      "pinyin": "bǎiyè lián"
+    },
+    {
+      "id": 344634,
+      "translation": {
+        "en": {
+          "short": "cafe curtain",
+          "long": "a type of window treatment that covers the lower half of a window and is typically used in kitchens or dining areas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai kafe",
+          "long": "Jenis perawatan jendela yang menutupi bagian bawah jendela dan biasanya digunakan di dapur atau ruang makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344634.jpeg",
+      "simplified": "咖啡馆的窗帘",
+      "traditional": "咖啡館的窗簾",
+      "pinyin": "kāfēi guǎn de chuānglián"
+    },
+    {
+      "id": 344635,
+      "translation": {
+        "en": {
+          "short": "window scarf",
+          "long": "a type of window treatment that is a long and narrow piece of fabric that is draped over a curtain rod to add a decorative touch to a window",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Syal jendela",
+          "long": "Jenis perawatan jendela yang merupakan kain panjang dan sempit yang terbungkus batang tirai untuk menambahkan sentuhan dekoratif ke jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344635.jpeg",
+      "simplified": "窗户围巾",
+      "traditional": "窗戶圍巾",
+      "pinyin": "chuānghu wéijīn"
+    },
+    {
+      "id": 344636,
+      "translation": {
+        "en": {
+          "short": "window tier",
+          "long": "a type of window treatment that consists of a short curtain or fabric panel that covers only the lower portion of a window",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tingkat jendela",
+          "long": "Jenis perawatan jendela yang terdiri dari tirai pendek atau panel kain yang hanya mencakup bagian bawah jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344636.jpeg",
+      "simplified": "窗口层",
+      "traditional": "窗口層",
+      "pinyin": "chuāngkǒu céng"
+    },
+    {
+      "id": 344637,
+      "translation": {
+        "en": {
+          "short": "room darkening curtain",
+          "long": "a type of window treatment designed to reduce the amount of sunlight that enters a room, providing privacy and darkness for better sleep or entertainment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kamar Tirai Darkening",
+          "long": "Jenis perawatan jendela yang dirancang untuk mengurangi jumlah sinar matahari yang memasuki ruangan, memberikan privasi dan kegelapan untuk tidur atau hiburan yang lebih baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344637.jpeg",
+      "simplified": "房间变暗的窗帘",
+      "traditional": "房間變暗的窗簾",
+      "pinyin": "fángjiān biànàn de chuānglián"
+    },
+    {
+      "id": 344638,
+      "translation": {
+        "en": {
+          "short": "thermal curtain",
+          "long": "a type of curtain designed to insulate a room against heat and cold by reducing the amount of heat transfer through the window",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai termal",
+          "long": "Jenis tirai yang dirancang untuk melindungi ruangan dengan panas dan dingin dengan mengurangi jumlah perpindahan panas melalui jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344638.jpeg",
+      "simplified": "热帘",
+      "traditional": "熱簾",
+      "pinyin": "rè lián"
+    },
+    {
+      "id": 344644,
+      "translation": {
+        "en": {
+          "short": "sheer curtain",
+          "long": "a lightweight and transparent window treatment that allows natural light to filter through while still providing some privacy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai tipis",
+          "long": "Perawatan jendela yang ringan dan transparan yang memungkinkan cahaya alami menyaring sambil tetap memberikan privasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344644.jpeg",
+      "simplified": "透明的窗帘",
+      "traditional": "透明的窗簾",
+      "pinyin": "tòumíng de chuānglián"
+    },
+    {
+      "id": 344645,
+      "translation": {
+        "en": {
+          "short": "pleated curtain",
+          "long": "a window treatment that has a series of folds sewn into the fabric, creating a decorative and structured look",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai lipit",
+          "long": "Perawatan jendela yang memiliki serangkaian lipatan dijahit ke dalam kain, menciptakan tampilan dekoratif dan terstruktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344645.jpeg",
+      "simplified": "百褶窗帘",
+      "traditional": "百褶窗簾",
+      "pinyin": "Bǎi xí chuānglián"
+    },
+    {
+      "id": 344646,
+      "translation": {
+        "en": {
+          "short": "grommet curtain",
+          "long": "a type of curtain panel that has metal grommets, or eyelets, at the top through which the curtain rod is threaded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai grommet",
+          "long": "Jenis panel tirai yang memiliki grommet logam, atau lubang mata, di bagian atas yang melaluinya batang tirai diikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344646.jpeg",
+      "simplified": "索环窗帘",
+      "traditional": "索環窗簾",
+      "pinyin": "Suǒ Huán chuānglián"
+    },
+    {
+      "id": 344647,
+      "translation": {
+        "en": {
+          "short": "tab top curtain",
+          "long": "a type of window treatment where fabric loops or tabs are sewn onto the top of the curtain panel, which can be slid onto a curtain rod for hanging",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tab Top Tirai Tab",
+          "long": "Jenis perawatan jendela di mana loop kain atau tab dijahit di bagian atas panel tirai, yang dapat meluncur ke batang tirai untuk digantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344647.jpeg",
+      "simplified": "标签顶窗帘",
+      "traditional": "標籤頂窗簾",
+      "pinyin": "biāoqiān dǐng chuānglián"
+    },
+    {
+      "id": 344648,
+      "translation": {
+        "en": {
+          "short": "rod pocket curtain",
+          "long": "a type of window treatment where a sewn pocket or casing is created at the top of the curtain panel, which allows for a curtain rod to be inserted through it for hanging",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai saku batang",
+          "long": "Jenis perawatan jendela di mana saku atau casing dijahit dibuat di bagian atas panel tirai, yang memungkinkan batang tirai dimasukkan melalui itu untuk digantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344648.jpeg",
+      "simplified": "杆式窗帘",
+      "traditional": "桿式窗簾",
+      "pinyin": "gān shì chuānglián"
+    },
+    {
+      "id": 344649,
+      "translation": {
+        "en": {
+          "short": "mini-blind",
+          "long": "a type of window treatment consisting of thin, horizontal slats made of metal or vinyl that can be adjusted to control the amount of light entering a room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mini-buta",
+          "long": "Jenis perawatan jendela yang terdiri dari bilah tipis dan horizontal yang terbuat dari logam atau vinil yang dapat disesuaikan untuk mengontrol jumlah cahaya yang memasuki ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344649.jpeg",
+      "simplified": "迷你盲",
+      "traditional": "迷你盲",
+      "pinyin": "mínǐ máng"
+    },
+    {
+      "id": 344659,
+      "translation": {
+        "en": {
+          "short": "swag",
+          "long": "a decorative piece of fabric draped over a rod or pole and hung above a window",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "barang curian",
+          "long": "sepotong kain dekoratif terbungkus batang atau tiang dan digantung di atas jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344659.jpeg",
+      "simplified": "赃物",
+      "traditional": "贓物",
+      "pinyin": "zāngwù"
+    },
+    {
+      "id": 344660,
+      "translation": {
+        "en": {
+          "short": "cornice",
+          "long": "a decorative box-shaped valance that is mounted at the top of a window and used to conceal the curtain rod or other hardware while adding a decorative touch to the window treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cornice",
+          "long": "Kelambu berbentuk kotak dekoratif yang dipasang di bagian atas jendela dan digunakan untuk menyembunyikan batang tirai atau perangkat keras lainnya sambil menambahkan sentuhan dekoratif ke perawatan jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344660.jpeg",
+      "simplified": "檐口",
+      "traditional": "簷口",
+      "pinyin": "yán kǒu"
+    },
+    {
+      "id": 344661,
+      "translation": {
+        "en": {
+          "short": "window film",
+          "long": "a thin, adhesive film applied directly to a window to reduce heat, glare, and UV rays",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Film Windows",
+          "long": "Film perekat tipis yang diterapkan langsung ke jendela untuk mengurangi panas, silau, dan sinar UV",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344661.jpeg",
+      "simplified": "窗户电影",
+      "traditional": "窗戶電影",
+      "pinyin": "chuānghu diànyǐng"
+    },
+    {
+      "id": 344662,
+      "translation": {
+        "en": {
+          "short": "window grill",
+          "long": "a decorative metal or wooden grid that covers a window for a traditional or vintage look",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panggangan jendela",
+          "long": "logam dekoratif atau kisi kayu yang menutupi jendela untuk tampilan tradisional atau vintage",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344662.jpeg",
+      "simplified": "窗户烤架",
+      "traditional": "窗戶烤架",
+      "pinyin": "chuānghu kǎojià"
+    },
+    {
+      "id": 344663,
+      "translation": {
+        "en": {
+          "short": "Roman shade",
+          "long": "a type of shade made of fabric that folds up evenly when raised and hangs flat when lowered",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Naungan Romawi",
+          "long": "Jenis naungan yang terbuat dari kain yang terlipat secara merata saat dinaikkan dan digantung datar saat diturunkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344663.jpeg",
+      "simplified": "罗马阴影",
+      "traditional": "羅馬陰影",
+      "pinyin": "Luómǎ yīnyǐng"
+    },
+    {
+      "id": 344664,
+      "translation": {
+        "en": {
+          "short": "roller shade",
+          "long": "a type of shade made of a single piece of fabric that rolls up onto a rod when raised and unrolls when lowered",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Naungan roller",
+          "long": "Jenis naungan yang terbuat dari sepotong kain yang digulung ke atas batang saat diangkat dan dibuka saat diturunkan saat diturunkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344664.jpeg",
+      "simplified": "滚子阴影",
+      "traditional": "滾子陰影",
+      "pinyin": "gǔnzi yīnyǐng"
+    },
+    {
+      "id": 344665,
+      "translation": {
+        "en": {
+          "short": "tie-up shade",
+          "long": "a type of shade made of fabric that is tied up at the desired height to allow light to filter through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tie-up naungan",
+          "long": "Jenis warna yang terbuat dari kain yang diikat pada ketinggian yang diinginkan untuk memungkinkan cahaya menyaring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344665.jpeg",
+      "simplified": "搭配阴影",
+      "traditional": "搭配陰影",
+      "pinyin": "dāpèi yīnyǐng"
+    },
+    {
+      "id": 344666,
+      "translation": {
+        "en": {
+          "short": "balloon shade",
+          "long": "a type of shade made of fabric that bunches up into a puffy, balloon-like shape when raised",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Naungan balon",
+          "long": "Jenis naungan yang terbuat dari kain yang menggendong ke dalam bentuk bengkak seperti balon saat diangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344666.jpeg",
+      "simplified": "气球阴影",
+      "traditional": "氣球陰影",
+      "pinyin": "qìqiú yīnyǐng"
+    },
+    {
+      "id": 344667,
+      "translation": {
+        "en": {
+          "short": "scalloped curtain",
+          "long": "a type of curtain with a scalloped edge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tirai bergigi",
+          "long": "Jenis tirai dengan tepi bergigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344667.jpeg",
+      "simplified": "扇贝窗帘",
+      "traditional": "扇貝窗簾",
+      "pinyin": "shànbèi chuānglián"
+    },
+    {
+      "id": 344683,
+      "translation": {
+        "en": {
+          "short": "finial",
+          "long": "a decorative ornament attached to the end of the rod",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "finial",
+          "long": "Ornamen dekoratif yang melekat pada ujung batang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344683.jpeg",
+      "simplified": "尖顶",
+      "traditional": "尖頂",
+      "pinyin": "jiāndǐng"
+    },
+    {
+      "id": 344684,
+      "translation": {
+        "en": {
+          "short": "bracket",
+          "long": "a device that attaches to the wall and holds the rod in place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengurung",
+          "long": "perangkat yang menempel pada dinding dan memegang batang di tempatnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344684.jpeg",
+      "simplified": "托架",
+      "traditional": "托架",
+      "pinyin": "tuōjià"
+    },
+    {
+      "id": 344685,
+      "translation": {
+        "en": {
+          "short": "clip",
+          "long": "a small, usually decorative object that attaches the window treatment to the rod",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klip",
+          "long": "objek kecil, biasanya dekoratif yang menempelkan perawatan jendela ke batang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344685.jpeg",
+      "simplified": "夹",
+      "traditional": "夾",
+      "pinyin": "jiā"
+    },
+    {
+      "id": 344686,
+      "translation": {
+        "en": {
+          "short": "panel",
+          "long": "a single piece of fabric that hangs from the rod and covers a portion of the window",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panel",
+          "long": "sepotong kain yang menggantung dari batang dan menutupi sebagian jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344686.jpeg",
+      "simplified": "面板",
+      "traditional": "面板",
+      "pinyin": "miànbǎn"
+    },
+    {
+      "id": 344687,
+      "translation": {
+        "en": {
+          "short": "tieback",
+          "long": "a decorative loop or band that holds a panel away from the window when not in use",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengikat kembali",
+          "long": "loop atau pita dekoratif yang menahan panel dari jendela saat tidak digunakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/344687.jpeg",
+      "simplified": "回接",
+      "traditional": "回接",
+      "pinyin": "huí jiē"
+    },
+    {
+      "id": 346866,
+      "translation": {
+        "en": {
+          "short": "curtain rod",
+          "long": "a horizontal bar used for hanging curtains or drapes, providing support and facilitating the opening and closing of window treatments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batang tirai",
+          "long": "Bilah horizontal yang digunakan untuk menggantung tirai atau tirai, memberikan dukungan dan memfasilitasi pembukaan dan penutupan perawatan jendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/346866.jpeg",
+      "simplified": "窗帘杆",
+      "traditional": "窗簾桿",
+      "pinyin": "chuānglián gān"
+    }
+  ]
+}

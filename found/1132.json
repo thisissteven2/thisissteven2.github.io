@@ -1,0 +1,640 @@
+{
+  "id": 1132,
+  "title": {
+    "en": "Poker Terms",
+    "id": "Istilah poker"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to poker terms such as \"full house\", \"high card\", and \"raise\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan istilah poker seperti \"rumah penuh\", \"kartu tinggi\", dan \"peningkatan\"."
+  },
+  "cards": [
+    {
+      "id": 354640,
+      "translation": {
+        "en": {
+          "short": "full house",
+          "long": "(In poker) a combination of five cards consisting of three of a kind and a pair, in which the three of a kind is of a higher rank than the pair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah penuh",
+          "long": "(Dalam poker) Kombinasi lima kartu yang terdiri dari tiga jenis dan sepasang, di mana ketiganya memiliki peringkat yang lebih tinggi dari pasangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354640.jpeg",
+      "simplified": "满座",
+      "traditional": "滿座",
+      "pinyin": "mǎnzuò"
+    },
+    {
+      "id": 354641,
+      "translation": {
+        "en": {
+          "short": "royal flush",
+          "long": "(poker) the highest-ranking hand consisting of a five-card straight flush that runs from Ace to Ten, all of the same suit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Royal Flush",
+          "long": "(Poker) Tangan peringkat tertinggi yang terdiri dari flush lurus lima kartu yang berjalan dari ace ke sepuluh, semua setelan yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354641.jpeg",
+      "simplified": "皇家同花顺",
+      "traditional": "皇家同花順",
+      "pinyin": "huángjiā tónghuā shùn"
+    },
+    {
+      "id": 354645,
+      "translation": {
+        "en": {
+          "short": "high card",
+          "long": "(poker) the lowest-ranking hand, consisting of five cards that do not form any of the other standard poker hands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu tinggi",
+          "long": "(poker) Tangan peringkat terendah, yang terdiri dari lima kartu yang tidak membentuk tangan poker standar lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354645.jpeg",
+      "simplified": "高卡",
+      "traditional": "高卡",
+      "pinyin": "Gāo kǎ"
+    },
+    {
+      "id": 354646,
+      "translation": {
+        "en": {
+          "short": "straight flush",
+          "long": "(poker) a hand consisting of five cards of the same suit that are in sequence, or in consecutive order",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flush lurus",
+          "long": "(Poker) Tangan yang terdiri dari lima kartu dengan setelan yang sama yang berurutan, atau secara berurutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354646.jpeg",
+      "simplified": "笔直的冲洗",
+      "traditional": "筆直的沖洗",
+      "pinyin": "bǐzhí de chōngxǐ"
+    },
+    {
+      "id": 354648,
+      "translation": {
+        "en": {
+          "short": "quad",
+          "long": "a slang term that refers to Four of a Kind, which is a hand consisting of four cards of the same rank, such as four Jacks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "quad",
+          "long": "Istilah gaul yang mengacu pada empat jenis, yang merupakan tangan yang terdiri dari empat kartu dengan peringkat yang sama, seperti empat jack",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354648.jpeg",
+      "simplified": "四边形",
+      "traditional": "四邊形",
+      "pinyin": "sìbiān xíng"
+    },
+    {
+      "id": 354649,
+      "translation": {
+        "en": {
+          "short": "flush",
+          "long": "a poker hand consisting of five cards of the same suit, regardless of their rank",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyiram",
+          "long": "Tangan poker yang terdiri dari lima kartu dengan setelan yang sama, terlepas dari peringkat mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354649.jpeg",
+      "simplified": "旺盛",
+      "traditional": "旺盛",
+      "pinyin": "wàngshèng"
+    },
+    {
+      "id": 354651,
+      "translation": {
+        "en": {
+          "short": "straight",
+          "long": "a hand consisting of five cards in sequence, regardless of their suit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lurus",
+          "long": "Tangan yang terdiri dari lima kartu secara berurutan, terlepas dari jas mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354651.jpeg",
+      "simplified": "直",
+      "traditional": "直",
+      "pinyin": "Zhí"
+    },
+    {
+      "id": 354653,
+      "translation": {
+        "en": {
+          "short": "three of a kind",
+          "long": "a hand consisting of three cards of the same rank, such as three Jacks",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tiga jenis",
+          "long": "Tangan yang terdiri dari tiga kartu dengan peringkat yang sama, seperti tiga jack",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354653.jpeg",
+      "simplified": "三样",
+      "traditional": "三樣",
+      "pinyin": "Sān yàng"
+    },
+    {
+      "id": 354655,
+      "translation": {
+        "en": {
+          "short": "two pair",
+          "long": "a hand consisting of two cards of one rank, two cards of another rank, and one card of a third rank, such as two Aces, two Kings, and a Queen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dua pasangan",
+          "long": "Tangan yang terdiri dari dua kartu dengan satu peringkat, dua kartu dari peringkat lain, dan satu kartu dari peringkat ketiga, seperti dua ace, dua raja, dan seorang ratu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354655.jpeg",
+      "simplified": "两对",
+      "traditional": "兩對",
+      "pinyin": "liǎng duì"
+    },
+    {
+      "id": 354657,
+      "translation": {
+        "en": {
+          "short": "one pair",
+          "long": "a hand consisting of two cards of the same rank, such as two Jacks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "satu pasang",
+          "long": "Tangan yang terdiri dari dua kartu dengan peringkat yang sama, seperti dua jack",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354657.jpeg",
+      "simplified": "一对",
+      "traditional": "一對",
+      "pinyin": "yīduì"
+    },
+    {
+      "id": 354661,
+      "translation": {
+        "en": {
+          "short": "big blind",
+          "long": "a mandatory bet made by the player sitting two seats to the left of the dealer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buta besar",
+          "long": "taruhan wajib yang dibuat oleh pemain yang duduk dua kursi di sebelah kiri dealer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354661.jpeg",
+      "simplified": "大盲点",
+      "traditional": "大盲點",
+      "pinyin": "dà mángdiǎn"
+    },
+    {
+      "id": 354664,
+      "translation": {
+        "en": {
+          "short": "small blind",
+          "long": "a mandatory bet made by the player sitting to the immediate left of the dealer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buta kecil",
+          "long": "taruhan wajib yang dibuat oleh pemain yang duduk di sebelah kiri dealer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354664.jpeg",
+      "simplified": "小盲注",
+      "traditional": "小盲注",
+      "pinyin": "xiǎo máng zhù"
+    },
+    {
+      "id": 354666,
+      "translation": {
+        "en": {
+          "short": "to fold",
+          "long": "to give up one's hand and forfeit any further involvement in the current hand, usually in response to another player's bet or raise, or when a player recognizes that their hand is unlikely to win",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melipat",
+          "long": "untuk melepaskan tangan seseorang dan kehilangan keterlibatan lebih lanjut di tangan saat ini, biasanya sebagai tanggapan terhadap taruhan atau kenaikan gaji pemain lain, atau ketika seorang pemain mengakui bahwa tangan mereka tidak mungkin menang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354666.jpeg",
+      "simplified": "折",
+      "traditional": "折",
+      "pinyin": "shé"
+    },
+    {
+      "id": 354667,
+      "translation": {
+        "en": {
+          "short": "to raise",
+          "long": "(in card games) to place the highest bet in the game",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meningkatkan",
+          "long": "(dalam permainan kartu) untuk menempatkan taruhan tertinggi dalam permainan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354667.jpeg",
+      "simplified": "提高",
+      "traditional": "提高",
+      "pinyin": "tígāo"
+    },
+    {
+      "id": 354668,
+      "translation": {
+        "en": {
+          "short": "pot",
+          "long": "the total amount of money or chips that have been wagered or contributed by the players in a particular hand or game, and which will be awarded to the winner or winners of the hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pot",
+          "long": "Jumlah total uang atau chip yang telah dipertaruhkan atau disumbangkan oleh para pemain di tangan atau permainan tertentu, dan yang akan diberikan kepada pemenang atau pemenang tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354668.jpeg",
+      "simplified": "锅",
+      "traditional": "鍋",
+      "pinyin": "guō"
+    },
+    {
+      "id": 354670,
+      "translation": {
+        "en": {
+          "short": "to call",
+          "long": "to match the current bet or raise made by another player in the same round of betting, thereby staying in the hand and retaining the chance to win the pot",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memanggil",
+          "long": "Untuk mencocokkan taruhan atau kenaikan saat ini yang dibuat oleh pemain lain dalam putaran taruhan yang sama, dengan demikian tetap di tangan dan mempertahankan kesempatan untuk memenangkan pot",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354670.jpeg",
+      "simplified": "呼叫",
+      "traditional": "呼叫",
+      "pinyin": "hūjiào"
+    },
+    {
+      "id": 354672,
+      "translation": {
+        "en": {
+          "short": "flop",
+          "long": "the second round of betting in which the dealer reveals three community cards face-up on the table",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kegagalan",
+          "long": "Babak kedua taruhan di mana dealer mengungkapkan tiga kartu komunitas menghadap ke atas meja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354672.jpeg",
+      "simplified": "拍击声",
+      "traditional": "拍擊聲",
+      "pinyin": "pāijī shēng"
+    },
+    {
+      "id": 354674,
+      "translation": {
+        "en": {
+          "short": "turn",
+          "long": "the third round of betting in which the dealer reveals an additional community card face-up on the table after the Flop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbelok",
+          "long": "putaran ketiga taruhan di mana dealer mengungkapkan kartu komunitas tambahan menghadap ke atas meja setelah gagal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354674.jpeg",
+      "simplified": "翻",
+      "traditional": "翻",
+      "pinyin": "fān"
+    },
+    {
+      "id": 354676,
+      "translation": {
+        "en": {
+          "short": "river",
+          "long": "the final round of betting in which the dealer reveals the fifth and final community card face-up on the table after the Turn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sungai",
+          "long": "Babak terakhir taruhan di mana dealer mengungkapkan kartu komunitas kelima dan terakhir menghadap ke atas di atas meja setelah belokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354676.jpeg",
+      "simplified": "河",
+      "traditional": "河",
+      "pinyin": "hé"
+    },
+    {
+      "id": 354678,
+      "translation": {
+        "en": {
+          "short": "to check",
+          "long": "to pass the action to the next player without making a bet, when there has been no previous bet in the current betting round",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memeriksa",
+          "long": "untuk meneruskan aksi ke pemain berikutnya tanpa membuat taruhan, ketika belum ada taruhan sebelumnya dalam putaran taruhan saat ini",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354678.jpeg",
+      "simplified": "校验",
+      "traditional": "校驗",
+      "pinyin": "jiàoyàn"
+    },
+    {
+      "id": 354680,
+      "translation": {
+        "en": {
+          "short": "showdown",
+          "long": "(poker) the final phase of a hand, occurring after the final round of betting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertikaian",
+          "long": "(poker) Fase akhir dari sebuah tangan, terjadi setelah putaran final taruhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354680.jpeg",
+      "simplified": "摊牌",
+      "traditional": "攤牌",
+      "pinyin": "tānpái"
+    },
+    {
+      "id": 354682,
+      "translation": {
+        "en": {
+          "short": "split",
+          "long": "a situation in poker when two or more players have hands of equal rank or when the community cards create a board that makes it impossible for any player to have a higher hand, resulting in the pot being divided equally among them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membelah",
+          "long": "Situasi di poker ketika dua atau lebih pemain memiliki tangan dengan peringkat yang sama atau ketika kartu komunitas membuat papan yang membuat pemain mana pun tidak mungkin memiliki tangan yang lebih tinggi, yang mengakibatkan pot dibagi secara merata di antara mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354682.jpeg",
+      "simplified": "裂",
+      "traditional": "裂",
+      "pinyin": "liè"
+    },
+    {
+      "id": 354684,
+      "translation": {
+        "en": {
+          "short": "all-in",
+          "long": "betting all of one's remaining chips or money on a single hand, usually when a player believes they have a strong hand and wants to maximize their potential winnings or when they have no other options due to having a small stack",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "semua masuk",
+          "long": "bertaruh semua chip atau uang yang tersisa di satu tangan, biasanya ketika seorang pemain percaya mereka memiliki tangan yang kuat dan ingin memaksimalkan kemenangan potensial mereka atau ketika mereka tidak memiliki pilihan lain karena memiliki tumpukan kecil",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354684.jpeg",
+      "simplified": "全押",
+      "traditional": "全押",
+      "pinyin": "Quán yā"
+    },
+    {
+      "id": 354686,
+      "translation": {
+        "en": {
+          "short": "to burn",
+          "long": "(poker) to discard the top card from the deck face down before dealing the flop, turn, and river cards, in order to prevent cheating by revealing the top card accidentally or intentionally",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membakar",
+          "long": "(poker) Untuk membuang kartu teratas dari dek menghadap ke bawah sebelum menangani kartu gagal, belokan, dan sungai, untuk mencegah kecurangan dengan mengungkapkan kartu atas secara tidak sengaja atau sengaja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354686.jpeg",
+      "simplified": "燃烧",
+      "traditional": "燃燒",
+      "pinyin": "ránshāo"
+    },
+    {
+      "id": 354687,
+      "translation": {
+        "en": {
+          "short": "ante",
+          "long": "(poker) a small forced bet that all players must make before the start of a hand, usually a percentage of the minimum bet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sokongan",
+          "long": "(Poker) Taruhan paksa kecil yang harus dibuat semua pemain sebelum dimulainya tangan, biasanya persentase dari taruhan minimum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354687.jpeg",
+      "simplified": "赌注",
+      "traditional": "賭注",
+      "pinyin": "dǔzhù"
+    },
+    {
+      "id": 354689,
+      "translation": {
+        "en": {
+          "short": "bad beat",
+          "long": "when a player with a strong hand loses to a player with a weaker hand that improbably or luckily improves on the later streets, causing the player with the stronger hand to lose a large pot or even the entire game",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "irama yang jelek",
+          "long": "Ketika seorang pemain dengan tangan yang kuat kalah dari pemain dengan tangan yang lebih lemah yang tidak mungkin atau untungnya membaik di jalan -jalan berikutnya, menyebabkan pemain dengan tangan yang lebih kuat kehilangan pot besar atau bahkan seluruh permainan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354689.jpeg",
+      "simplified": "坏拍",
+      "traditional": "壞拍",
+      "pinyin": "huài pāi"
+    },
+    {
+      "id": 354691,
+      "translation": {
+        "en": {
+          "short": "bankroll",
+          "long": "the amount of money or chips that a player has set aside or allocated for the purpose of playing poker",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bankroll",
+          "long": "Jumlah uang atau chip yang telah disisihkan atau dialokasikan oleh seorang pemain untuk tujuan bermain poker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354691.jpeg",
+      "simplified": "资金",
+      "traditional": "資金",
+      "pinyin": "zījīn"
+    },
+    {
+      "id": 354693,
+      "translation": {
+        "en": {
+          "short": "button",
+          "long": "a small disc or marker that indicates the player who is currently serving as the dealer for the hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tombol",
+          "long": "Disk atau penanda kecil yang menunjukkan pemain yang saat ini melayani sebagai dealer untuk tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354693.jpeg",
+      "simplified": "按键",
+      "traditional": "按鍵",
+      "pinyin": "ànjiàn"
+    },
+    {
+      "id": 354695,
+      "translation": {
+        "en": {
+          "short": "community card",
+          "long": "a card that is dealt face-up and is available for all players to use in making their hand, rather than being dealt to a specific player",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kartu Komunitas",
+          "long": "Kartu yang ditangani dengan muka dan tersedia untuk semua pemain untuk digunakan dalam membuat tangan mereka, daripada dibagikan kepada pemain tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354695.jpeg",
+      "simplified": "公共卡",
+      "traditional": "公共卡",
+      "pinyin": "gōnggòng kǎ"
+    },
+    {
+      "id": 354696,
+      "translation": {
+        "en": {
+          "short": "hole card",
+          "long": "(poker) a card that is dealt face-down to a player and is not visible to other players at the table",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kartu lubang",
+          "long": "(Poker) Kartu yang ditangani dengan tubrukan kepada seorang pemain dan tidak terlihat oleh pemain lain di meja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354696.jpeg",
+      "simplified": "底牌",
+      "traditional": "底牌",
+      "pinyin": "dǐpái"
+    },
+    {
+      "id": 354697,
+      "translation": {
+        "en": {
+          "short": "jackpot",
+          "long": "(poker) a large prize or payout that is awarded when a player achieves a certain winning combination or meets a specific set of criteria, such as hitting a rare hand or winning a certain number of consecutive games",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jackpot",
+          "long": "(Poker) Hadiah atau pembayaran besar yang diberikan ketika seorang pemain mencapai kombinasi kemenangan tertentu atau memenuhi serangkaian kriteria tertentu, seperti memukul tangan yang langka atau memenangkan sejumlah pertandingan berturut -turut tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354697.jpeg",
+      "simplified": "大奖",
+      "traditional": "大獎",
+      "pinyin": "dàjiǎng"
+    },
+    {
+      "id": 356358,
+      "translation": {
+        "en": {
+          "short": "four flush",
+          "long": "a term used in poker to describe a hand with four cards of the same suit, with the expectation of drawing the fifth card of that suit to complete a flush",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "empat flush",
+          "long": "Istilah yang digunakan dalam poker untuk menggambarkan tangan dengan empat kartu dengan setelan yang sama, dengan harapan menggambar kartu kelima dari setelan itu untuk menyelesaikan flush",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356358.jpeg",
+      "simplified": "四个冲洗",
+      "traditional": "四個沖洗",
+      "pinyin": "sì gě chōngxǐ"
+    },
+    {
+      "id": 356447,
+      "translation": {
+        "en": {
+          "short": "offsuit",
+          "long": "referring to two or more cards in a hand that are from different suits in card games, especially in poker",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "offsuit",
+          "long": "Mengacu pada dua atau lebih kartu di tangan yang berasal dari pakaian yang berbeda dalam permainan kartu, terutama di poker",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/356447.jpeg",
+      "simplified": "异装",
+      "traditional": "異裝",
+      "pinyin": "yì zhuāng"
+    }
+  ]
+}

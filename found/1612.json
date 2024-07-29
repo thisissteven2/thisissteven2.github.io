@@ -1,0 +1,393 @@
+{
+  "id": 1612,
+  "title": {
+    "en": "The Nose",
+    "id": "Hidung"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the nose, such as \"bridge\", \"nostril\", and \"nasal cavity\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan hidung, seperti \"jembatan\", \"lubang hidung\", dan \"rongga hidung\"."
+  },
+  "cards": [
+    {
+      "id": 273761,
+      "translation": {
+        "en": {
+          "short": "nostril",
+          "long": "either of the two external openings of the nose that one breathes through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lubang hidung",
+          "long": "Salah satu dari dua bukaan eksternal hidung yang dihembuskan oleh seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273761.jpeg",
+      "simplified": "鼻孔",
+      "traditional": "鼻孔",
+      "pinyin": "bíkǒng"
+    },
+    {
+      "id": 273766,
+      "translation": {
+        "en": {
+          "short": "septum",
+          "long": "(anatomy) a separating membrane between two cavities, such as that between the nostrils or heart chambers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekat",
+          "long": "(Anatomi) Selaput pemisah antara dua rongga, seperti di antara lubang hidung atau ruang jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273766.jpeg",
+      "simplified": "隔膜",
+      "traditional": "隔膜",
+      "pinyin": "gémó"
+    },
+    {
+      "id": 273770,
+      "translation": {
+        "en": {
+          "short": "turbinate",
+          "long": "a bony structure inside the nasal cavity that helps filter, humidify, and regulate airflow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Turbinat",
+          "long": "Struktur tulang di dalam rongga hidung yang membantu menyaring, melembabkan, dan mengatur aliran udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273770.jpeg",
+      "simplified": "鼻甲",
+      "traditional": "鼻甲",
+      "pinyin": "bí jiǎ"
+    },
+    {
+      "id": 273768,
+      "translation": {
+        "en": {
+          "short": "sinus",
+          "long": "(anatomy) any hollow tract in the bones of the face or the skull that is connected to the nasal cavities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sinus",
+          "long": "(Anatomi) Saluran berongga di tulang wajah atau tengkorak yang terhubung ke rongga hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273768.jpeg",
+      "simplified": "窦",
+      "traditional": "竇",
+      "pinyin": "Dòu"
+    },
+    {
+      "id": 273779,
+      "translation": {
+        "en": {
+          "short": "frontal sinus",
+          "long": "a hollow space within the frontal bone of the skull that is filled with air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sinus frontal",
+          "long": "ruang kosong di dalam tulang frontal tengkorak yang diisi dengan udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273779.jpeg",
+      "simplified": "额窦",
+      "traditional": "額竇",
+      "pinyin": "édòu"
+    },
+    {
+      "id": 273780,
+      "translation": {
+        "en": {
+          "short": "ethmoidal sinus",
+          "long": "a group of small, air-filled cavities located within the ethmoid bone of the skull",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sinus Ethmoidal",
+          "long": "Sekelompok rongga kecil dan penuh udara yang terletak di dalam tulang ethmoid tengkorak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273780.jpeg",
+      "simplified": "筛窦",
+      "traditional": "篩竇",
+      "pinyin": "shāi Dòu"
+    },
+    {
+      "id": 273781,
+      "translation": {
+        "en": {
+          "short": "maxillary sinus",
+          "long": "a paired cavity within the maxillary bone of the skull, responsible for producing mucus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sinus Maksila",
+          "long": "Rongga berpasangan di dalam tulang rahang atas tengkorak, bertanggung jawab untuk memproduksi lendir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273781.jpeg",
+      "simplified": "上颌窦",
+      "traditional": "上頜竇",
+      "pinyin": "shànghé Dòu"
+    },
+    {
+      "id": 273793,
+      "translation": {
+        "en": {
+          "short": "sphenoid sinus",
+          "long": "an air-filled cavity in the skull that plays a role in the respiratory system and is located within the sphenoid bone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sinus sphenoid",
+          "long": "Rongga penuh udara di tengkorak yang berperan dalam sistem pernapasan dan terletak di dalam tulang sphenoid",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273793.jpeg",
+      "simplified": "蝶窦",
+      "traditional": "蝶竇",
+      "pinyin": "diédòu"
+    },
+    {
+      "id": 273786,
+      "translation": {
+        "en": {
+          "short": "nasion",
+          "long": "the anatomical point where the frontal bone and nasal bones meet on the human skull",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nasion",
+          "long": "Titik anatomi di mana tulang frontal dan tulang hidung bertemu di tengkorak manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273786.jpeg",
+      "simplified": "鼻根",
+      "traditional": "鼻根",
+      "pinyin": "bí gēn"
+    },
+    {
+      "id": 273787,
+      "translation": {
+        "en": {
+          "short": "rhinion",
+          "long": "the most anterior point or tip of the nasal bridge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rhinion",
+          "long": "titik atau ujung paling anterior dari jembatan hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273787.jpeg",
+      "simplified": "犀牛",
+      "traditional": "犀牛",
+      "pinyin": "xīniú"
+    },
+    {
+      "id": 273800,
+      "translation": {
+        "en": {
+          "short": "bridge",
+          "long": "the bony part at the top of the nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menjembatani",
+          "long": "bagian tulang di bagian atas hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273800.jpeg",
+      "simplified": "桥",
+      "traditional": "橋",
+      "pinyin": "qiáo"
+    },
+    {
+      "id": 273942,
+      "translation": {
+        "en": {
+          "short": "dorsum nasi",
+          "long": "the upper part of the nose, specifically the bony and cartilaginous area that forms the bridge of the nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dorsum Nasi",
+          "long": "Bagian atas hidung, khususnya area tulang dan tulang rawan yang membentuk jembatan hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273942.jpeg",
+      "simplified": "鼻背",
+      "traditional": "鼻背",
+      "pinyin": "bí bēi"
+    },
+    {
+      "id": 273974,
+      "translation": {
+        "en": {
+          "short": "apex",
+          "long": "the pointed or rounded end of the nose that is located at the frontmost part of the nasal structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "Ujung hidung runcing atau bulat yang terletak di bagian paling depan dari struktur hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273974.jpeg",
+      "simplified": "顶点",
+      "traditional": "頂點",
+      "pinyin": "dǐngdiǎn"
+    },
+    {
+      "id": 273837,
+      "translation": {
+        "en": {
+          "short": "nasal meatus",
+          "long": "a narrow passageway within the nasal cavity that helps to warm, humidify, and filter the inhaled air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Meatus hidung",
+          "long": "lorong sempit di dalam rongga hidung yang membantu menghangatkan, melembabkan, dan menyaring udara yang dihirup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273837.jpeg",
+      "simplified": "鼻肉",
+      "traditional": "鼻肉",
+      "pinyin": "bí ròu"
+    },
+    {
+      "id": 273839,
+      "translation": {
+        "en": {
+          "short": "inferior meatus",
+          "long": "a narrow passageway in the nasal cavity that aids in the drainage of the nasal passages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Meatus inferior",
+          "long": "lorong sempit di rongga hidung yang membantu dalam drainase saluran hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273839.jpeg",
+      "simplified": "下鼻道",
+      "traditional": "下鼻道",
+      "pinyin": "xià bí dào"
+    },
+    {
+      "id": 273852,
+      "translation": {
+        "en": {
+          "short": "middle meatus",
+          "long": "a part of the nasal cavity that helps with drainage and airflow in the nasal passages, located between the inferior and superior meatuses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Meatus tengah",
+          "long": "Bagian dari rongga hidung yang membantu dengan drainase dan aliran udara di saluran hidung, yang terletak di antara paus yang lebih rendah dan superior",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273852.jpeg",
+      "simplified": "中鼻道",
+      "traditional": "中鼻道",
+      "pinyin": "Zhōng bí dào"
+    },
+    {
+      "id": 273917,
+      "translation": {
+        "en": {
+          "short": "sphenoethmoidal recess",
+          "long": "a small area in the nasal cavity where the sphenoid and ethmoid sinuses meet and play a role in drainage and ventilation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reses sphenoethmoidal",
+          "long": "Area kecil di rongga hidung di mana sinus sphenoid dan ethmoid bertemu dan berperan dalam drainase dan ventilasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/273917.jpeg",
+      "simplified": "蝶筛隐窝",
+      "traditional": "蝶篩隱窩",
+      "pinyin": "dié shāi yǐn wō"
+    },
+    {
+      "id": 274547,
+      "translation": {
+        "en": {
+          "short": "nasal cavity",
+          "long": "a hollow space in the nose that serves as a passage for air, helps filter and humidify inhaled air, and houses the sense of smell",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rongga hidung",
+          "long": "ruang kosong di hidung yang berfungsi sebagai bagian udara, membantu menyaring dan melembabkan udara inhalasi, dan menampung indera penciuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274547.jpeg",
+      "simplified": "鼻腔",
+      "traditional": "鼻腔",
+      "pinyin": "bíqiāng"
+    },
+    {
+      "id": 274059,
+      "translation": {
+        "en": {
+          "short": "nasal ala",
+          "long": "the outer, fleshy part of the nostril that helps regulate airflow and contributes to the shape of the nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nasal Ala",
+          "long": "Bagian luar dan berdaging dari lubang hidung yang membantu mengatur aliran udara dan berkontribusi pada bentuk hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274059.jpeg",
+      "simplified": "鼻翼",
+      "traditional": "鼻翼",
+      "pinyin": "bíyì"
+    },
+    {
+      "id": 274825,
+      "translation": {
+        "en": {
+          "short": "nasal",
+          "long": "a bony structure with an elongated rectangular shape that constitutes the nasal bridge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sengau",
+          "long": "Struktur tulang dengan bentuk persegi panjang memanjang yang merupakan jembatan hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274825.jpeg",
+      "simplified": "鼻音",
+      "traditional": "鼻音",
+      "pinyin": "bíyīn"
+    }
+  ]
+}

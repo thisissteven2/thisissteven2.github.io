@@ -1,0 +1,716 @@
+{
+  "id": 189,
+  "title": {
+    "en": "Foods",
+    "id": "Makanan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about foods, such as \"pastry\", \"baguette\", \"mustard\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang makanan, seperti \"pastry\", \"baguette\", \"mustard\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 214184,
+      "translation": {
+        "en": {
+          "short": "cuisine",
+          "long": "a method or style of cooking that is specific to a country or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Masakan",
+          "long": "metode atau gaya memasak yang khusus untuk suatu negara atau wilayah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214184.jpeg",
+      "simplified": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn"
+    },
+    {
+      "id": 214211,
+      "translation": {
+        "en": {
+          "short": "carbohydrate",
+          "long": "a substance that consists of hydrogen, oxygen, and carbon that provide heat and energy for the body, found in foods such as bread, pasta, fruits, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karbohidrat",
+          "long": "Suatu zat yang terdiri dari hidrogen, oksigen, dan karbon yang menyediakan panas dan energi untuk tubuh, ditemukan dalam makanan seperti roti, pasta, buah -buahan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214211.jpeg",
+      "simplified": "糖类",
+      "traditional": "醣類",
+      "pinyin": "tánglèi"
+    },
+    {
+      "id": 214192,
+      "translation": {
+        "en": {
+          "short": "bagel",
+          "long": "a type of bread shaped like a ring with a hard texture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bagel",
+          "long": "Jenis roti berbentuk seperti cincin dengan tekstur yang keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214192.jpeg",
+      "simplified": "百吉饼",
+      "traditional": "貝果",
+      "pinyin": "Bǎi Jí bǐng"
+    },
+    {
+      "id": 214195,
+      "translation": {
+        "en": {
+          "short": "baguette",
+          "long": "a loaf of bread that is narrow and long",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baguette",
+          "long": "sepotong roti yang sempit dan panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214195.jpeg",
+      "simplified": "法国面包",
+      "traditional": "法國麵包",
+      "pinyin": "Fǎguó miànbāo"
+    },
+    {
+      "id": 214210,
+      "translation": {
+        "en": {
+          "short": "cereal",
+          "long": "any of the various types of grass that produce grains such as wheat, barley, rye, etc., which can be used to make flour or bread",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sereal",
+          "long": "Salah satu dari berbagai jenis rumput yang menghasilkan biji -bijian seperti gandum, gandum, gandum hitam, dll., Yang dapat digunakan untuk membuat tepung atau roti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214210.jpeg",
+      "simplified": "谷类",
+      "traditional": "穀類",
+      "pinyin": "gǔlèi"
+    },
+    {
+      "id": 214194,
+      "translation": {
+        "en": {
+          "short": "pastry",
+          "long": "a baked good made from dough or batter, often sweetened or filled with ingredients like fruit, nuts, or chocolate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kue-kue",
+          "long": "Bagus yang dipanggang terbuat dari adonan atau adonan, sering dimaniskan atau diisi dengan bahan -bahan seperti buah, kacang -kacangan, atau cokelat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214194.jpeg",
+      "simplified": "糕点",
+      "traditional": "糕點",
+      "pinyin": "gāodiǎn"
+    },
+    {
+      "id": 214213,
+      "translation": {
+        "en": {
+          "short": "herb",
+          "long": "a plant with seeds, leaves, or flowers used for cooking or medicine, such as mint and parsley",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "herba",
+          "long": "Tanaman dengan biji, daun, atau bunga yang digunakan untuk memasak atau obat -obatan, seperti mint dan peterseli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214213.jpeg",
+      "simplified": "草本植物",
+      "traditional": "草本植物",
+      "pinyin": "cǎoběn zhí wù"
+    },
+    {
+      "id": 214219,
+      "translation": {
+        "en": {
+          "short": "beet",
+          "long": "a vegetable with a round dark red root that is used in cooking or producing sugar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bit",
+          "long": "sayuran dengan akar merah gelap bundar yang digunakan dalam memasak atau menghasilkan gula",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214219.jpeg",
+      "simplified": "甜菜",
+      "traditional": "甜菜",
+      "pinyin": "tiáncài"
+    },
+    {
+      "id": 214197,
+      "translation": {
+        "en": {
+          "short": "green pepper",
+          "long": "a hollow fruit with a sweet taste and green color, eaten raw or cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paprika hijau",
+          "long": "buah berongga dengan rasa manis dan warna hijau, dimakan mentah atau dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214197.jpeg",
+      "simplified": "青椒",
+      "traditional": "青椒",
+      "pinyin": "qīngjiāo"
+    },
+    {
+      "id": 214198,
+      "translation": {
+        "en": {
+          "short": "red pepper",
+          "long": "a type of pepper with a very hot taste that is red in color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lada merah",
+          "long": "Jenis lada dengan rasa sangat panas yang berwarna merah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214198.jpeg",
+      "simplified": "辣椒",
+      "traditional": "辣椒",
+      "pinyin": "làjiāo"
+    },
+    {
+      "id": 214208,
+      "translation": {
+        "en": {
+          "short": "goat cheese",
+          "long": "any cheese that is made from goat's milk",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keju kambing",
+          "long": "keju apa pun yang terbuat dari susu kambing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214208.jpeg",
+      "simplified": "山羊奶酪",
+      "traditional": "山羊奶酪",
+      "pinyin": "shānyáng nǎilào"
+    },
+    {
+      "id": 214207,
+      "translation": {
+        "en": {
+          "short": "margarine",
+          "long": "a type of food similar to butter, made from vegetable oils or animal fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "margarin",
+          "long": "Jenis makanan yang mirip dengan mentega, terbuat dari minyak nabati atau lemak hewani",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214207.jpeg",
+      "simplified": "人造黄油",
+      "traditional": "人造黃油",
+      "pinyin": "rénzào huáng yóu"
+    },
+    {
+      "id": 214206,
+      "translation": {
+        "en": {
+          "short": "sour cream",
+          "long": "a light cream that is produced from regular cream and lactic acid bacteria",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "krim asam",
+          "long": "krim ringan yang diproduksi dari krim biasa dan bakteri asam laktat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214206.jpeg",
+      "simplified": "奶油",
+      "traditional": "奶油",
+      "pinyin": "nǎiyóu"
+    },
+    {
+      "id": 214218,
+      "translation": {
+        "en": {
+          "short": "raspberry",
+          "long": "an edible soft berry that is red or black in color and grows on bushes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "frambos",
+          "long": "Berry lembut yang dapat dimakan yang berwarna merah atau hitam dan tumbuh di semak -semak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214218.jpeg",
+      "simplified": "覆盆子",
+      "traditional": "覆盆子",
+      "pinyin": "fùpén zǐ"
+    },
+    {
+      "id": 214214,
+      "translation": {
+        "en": {
+          "short": "spice",
+          "long": "a type of dried plant with a pleasant smell used to add taste or color to the food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membumbui",
+          "long": "Jenis tanaman kering dengan aroma yang menyenangkan digunakan untuk menambah rasa atau warna pada makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214214.jpeg",
+      "simplified": "香料",
+      "traditional": "香料",
+      "pinyin": "xiāngliào"
+    },
+    {
+      "id": 214200,
+      "translation": {
+        "en": {
+          "short": "sweet potato",
+          "long": "a vegetable similar to a potato in shape that has a sweet taste and white flesh",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ubi",
+          "long": "sayuran mirip dengan kentang dalam bentuk yang memiliki rasa manis dan daging putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214200.jpeg",
+      "simplified": "甘薯",
+      "traditional": "甘藷",
+      "pinyin": "gānshǔ"
+    },
+    {
+      "id": 214199,
+      "translation": {
+        "en": {
+          "short": "zucchini",
+          "long": "a long and thin vegetable with dark green skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "timun Jepang",
+          "long": "Sayuran panjang dan tipis dengan kulit hijau gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214199.jpeg",
+      "simplified": "绿皮西葫芦",
+      "traditional": "綠皮西葫蘆",
+      "pinyin": "lǜ Pí xīhú lu"
+    },
+    {
+      "id": 214212,
+      "translation": {
+        "en": {
+          "short": "wheat",
+          "long": "the common grain that is used in making flour, taken from a cereal grass which is green and tall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gandum",
+          "long": "biji -bijian umum yang digunakan dalam membuat tepung, diambil dari rumput sereal yang hijau dan tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214212.jpeg",
+      "simplified": "小麦",
+      "traditional": "小麥",
+      "pinyin": "xiǎomài"
+    },
+    {
+      "id": 214201,
+      "translation": {
+        "en": {
+          "short": "beefsteak",
+          "long": "a thick slice of beef that is often cooked by grilling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daging bistik",
+          "long": "sepotong daging sapi tebal yang sering dimasak dengan memanggang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214201.jpeg",
+      "simplified": "牛排",
+      "traditional": "牛排",
+      "pinyin": "niúpái"
+    },
+    {
+      "id": 214203,
+      "translation": {
+        "en": {
+          "short": "kebab",
+          "long": "food made with pieces of meat and vegetables roasted or grilled on fire, typically on a skewer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebab",
+          "long": "Makanan yang dibuat dengan potongan daging dan sayuran dipanggang atau dipanggang di atas api, biasanya di tusuk sate",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214203.jpeg",
+      "simplified": "烤肉霸",
+      "traditional": "烤肉霸",
+      "pinyin": "kǎoròu bà"
+    },
+    {
+      "id": 238354,
+      "translation": {
+        "en": {
+          "short": "meatloaf",
+          "long": "a type of food made with meat, eggs, etc., baked in the shape of a loaf of bread",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daging cincang",
+          "long": "Jenis makanan yang dibuat dengan daging, telur, dll., Dipanggang dalam bentuk sepotong roti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238354.jpeg",
+      "simplified": "肉饼",
+      "traditional": "肉餅",
+      "pinyin": "ròubǐng"
+    },
+    {
+      "id": 237340,
+      "translation": {
+        "en": {
+          "short": "mayonnaise",
+          "long": "a thick white dressing made with egg yolks, vegetable oil, and vinegar, served cold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mayones",
+          "long": "saus putih tebal yang dibuat dengan kuning telur, minyak sayur, dan cuka, disajikan dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237340.jpeg",
+      "simplified": "蛋黄酱",
+      "traditional": "美乃滋",
+      "pinyin": "dànhuáng jiàng"
+    },
+    {
+      "id": 214221,
+      "translation": {
+        "en": {
+          "short": "mustard",
+          "long": "a cold yellow or brown condiment with a hot taste taken from the seeds of a small plant with yellow flowers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "moster",
+          "long": "bumbu kuning atau coklat dingin dengan rasa panas yang diambil dari biji tanaman kecil dengan bunga kuning",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214221.jpeg",
+      "simplified": "芥末",
+      "traditional": "芥末",
+      "pinyin": "jièmo"
+    },
+    {
+      "id": 214209,
+      "translation": {
+        "en": {
+          "short": "soy sauce",
+          "long": "a thin dark brown sauce, made from soybeans, used in Asian cuisines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecap",
+          "long": "Saus coklat gelap tipis, terbuat dari kedelai, digunakan dalam masakan Asia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214209.jpeg",
+      "simplified": "酱油",
+      "traditional": "醬油",
+      "pinyin": "jiàngyóu"
+    },
+    {
+      "id": 214222,
+      "translation": {
+        "en": {
+          "short": "ketchup",
+          "long": "a cold sauce made from tomatoes, which has a thick texture and is served with some food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saus tomat",
+          "long": "Saus dingin yang terbuat dari tomat, yang memiliki tekstur tebal dan disajikan dengan beberapa makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214222.jpeg",
+      "simplified": "番茄酱",
+      "traditional": "番茄醬",
+      "pinyin": "fānqié jiàng"
+    },
+    {
+      "id": 214223,
+      "translation": {
+        "en": {
+          "short": "vinegar",
+          "long": "a sour liquid that is commonly used in cooking, cleaning, or to preserve food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cuka",
+          "long": "cairan asam yang biasa digunakan dalam memasak, membersihkan, atau untuk menyimpan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214223.jpeg",
+      "simplified": "醋",
+      "traditional": "醋",
+      "pinyin": "cù"
+    },
+    {
+      "id": 214224,
+      "translation": {
+        "en": {
+          "short": "white sauce",
+          "long": "a rich sauce made with milk, flour, and butter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saus putih",
+          "long": "saus kaya yang dibuat dengan susu, tepung, dan mentega",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214224.jpeg",
+      "simplified": "白酱",
+      "traditional": "白醬",
+      "pinyin": "Bái jiàng"
+    },
+    {
+      "id": 214225,
+      "translation": {
+        "en": {
+          "short": "chewing gum",
+          "long": "a substance for chewing with different tastes such as strawberry, mint, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengunyah permen karet",
+          "long": "Suatu zat untuk mengunyah dengan selera yang berbeda seperti stroberi, mint, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214225.jpeg",
+      "simplified": "口香糖",
+      "traditional": "口香糖",
+      "pinyin": "kǒuxiāng táng"
+    },
+    {
+      "id": 214226,
+      "translation": {
+        "en": {
+          "short": "hard candy",
+          "long": "a hard and colored candy often with a fruity taste, which is made of boiled corn syrup and sugar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "permen keras",
+          "long": "Permen yang keras dan berwarna sering dengan rasa buah, yang terbuat dari sirup jagung rebus dan gula",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214226.jpeg",
+      "simplified": "硬糖",
+      "traditional": "硬糖",
+      "pinyin": "yìngtáng"
+    },
+    {
+      "id": 214189,
+      "translation": {
+        "en": {
+          "short": "lollipop",
+          "long": "a type of candy that is flat or round and is on a stick",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lollipop",
+          "long": "Jenis permen yang datar atau bulat dan ada di tongkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214189.jpeg",
+      "simplified": "棒糖",
+      "traditional": "棒糖",
+      "pinyin": "bàngtáng"
+    },
+    {
+      "id": 238487,
+      "translation": {
+        "en": {
+          "short": "popsicle",
+          "long": "a frozen dessert typically made from flavored water or fruit juice frozen around a stick",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "es loli",
+          "long": "Makanan penutup beku biasanya terbuat dari air rasa atau jus buah yang dibekukan di sekitar tongkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/238487.jpeg",
+      "simplified": "棒冰",
+      "traditional": "冰棒",
+      "pinyin": "bàngbīng"
+    },
+    {
+      "id": 214186,
+      "translation": {
+        "en": {
+          "short": "pudding",
+          "long": "a sweet creamy dish made with milk, sugar, and flour, served cold as a dessert",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puding",
+          "long": "Hidangan krim manis yang dibuat dengan susu, gula, dan tepung, disajikan dengan dingin seperti makanan penutup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214186.jpeg",
+      "simplified": "布丁",
+      "traditional": "布丁",
+      "pinyin": "bùdīng"
+    },
+    {
+      "id": 214185,
+      "translation": {
+        "en": {
+          "short": "portion",
+          "long": "an amount of food served to one person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bagian",
+          "long": "Sejumlah makanan yang disajikan untuk satu orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214185.jpeg",
+      "simplified": "部分",
+      "traditional": "部分",
+      "pinyin": "bùfen"
+    },
+    {
+      "id": 214188,
+      "translation": {
+        "en": {
+          "short": "supper",
+          "long": "a meal eaten in the evening, typically lighter than dinner and often the last meal of the day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makan malam",
+          "long": "Makanan yang dimakan di malam hari, biasanya lebih ringan dari makan malam dan sering kali makan terakhir hari itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214188.jpeg",
+      "simplified": "晚餐",
+      "traditional": "晚餐",
+      "pinyin": "wǎncān"
+    },
+    {
+      "id": 214191,
+      "translation": {
+        "en": {
+          "short": "takeout",
+          "long": "a meal bought from a restaurant or store to be eaten somewhere else",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengambil",
+          "long": "Makanan yang dibeli dari restoran atau toko untuk dimakan di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/214191.jpeg",
+      "simplified": "取出食物",
+      "traditional": "取出食物",
+      "pinyin": "qǔchū shíwù"
+    },
+    {
+      "id": 391624,
+      "translation": {
+        "en": {
+          "short": "roll",
+          "long": "a loaf of bread that is small and made for one person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gulungan",
+          "long": "sepotong roti yang kecil dan dibuat untuk satu orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391624.jpeg",
+      "simplified": "卷",
+      "traditional": "卷",
+      "pinyin": "juǎn"
+    },
+    {
+      "id": 261996,
+      "translation": {
+        "en": {
+          "short": "tomato paste",
+          "long": "a soft and thick substance made from boiled tomatoes, used as a cooking ingredient",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pasta tomat",
+          "long": "Zat yang lembut dan tebal terbuat dari tomat rebus, digunakan sebagai bahan memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/261996.jpeg",
+      "simplified": "番茄酱",
+      "traditional": "番茄醬",
+      "pinyin": "fānqié jiàng"
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "id": 953,
+  "title": {
+    "en": "Sickness",
+    "id": "Penyakit"
+  },
+  "description": {
+    "en": "Here you will learn some English words about sickness, such as \"agony\", \"dizzy\", \"asthma\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang penyakit, seperti \"penderitaan\", \"pusing\", \"asma\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 241983,
+      "translation": {
+        "en": {
+          "short": "ailment",
+          "long": "an illness, often a minor one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit",
+          "long": "penyakit, sering kali kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241983.jpeg",
+      "simplified": "病痛",
+      "traditional": "病痛",
+      "pinyin": "bìngtòng"
+    },
+    {
+      "id": 241982,
+      "translation": {
+        "en": {
+          "short": "agony",
+          "long": "severe physical or mental pain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa sakit",
+          "long": "Nyeri fisik atau mental yang parah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241982.jpeg",
+      "simplified": "严重的疼痛",
+      "traditional": "嚴重的疼痛",
+      "pinyin": "yánzhòng de téngtòng"
+    },
+    {
+      "id": 242027,
+      "translation": {
+        "en": {
+          "short": "syndrome",
+          "long": "a group of medical signs that indicate a person is suffering from a particular disease or condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sindroma",
+          "long": "sekelompok tanda medis yang menunjukkan seseorang menderita penyakit atau kondisi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242027.jpeg",
+      "simplified": "综合征",
+      "traditional": "綜合徵",
+      "pinyin": "zōnghé zhēng"
+    },
+    {
+      "id": 241980,
+      "translation": {
+        "en": {
+          "short": "acute",
+          "long": "characterized by severe intensity or seriousness",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "akut",
+          "long": "ditandai dengan intensitas atau keseriusan yang parah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241980.jpeg",
+      "simplified": "急性",
+      "traditional": "急性",
+      "pinyin": "jíxìng"
+    },
+    {
+      "id": 241996,
+      "translation": {
+        "en": {
+          "short": "chronic",
+          "long": "(of an illness) difficult to cure and long-lasting",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kronis",
+          "long": "(penyakit) sulit disembuhkan dan tahan lama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241996.jpeg",
+      "simplified": "慢性的",
+      "traditional": "慢性的",
+      "pinyin": "mànxìng de"
+    },
+    {
+      "id": 241999,
+      "translation": {
+        "en": {
+          "short": "contagious",
+          "long": "(of a disease) transmittable from one person to another through close contact",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "menular",
+          "long": "(dari suatu penyakit) dapat ditularkan dari satu orang ke orang lain melalui kontak dekat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241999.jpeg",
+      "simplified": "传染性",
+      "traditional": "傳染性",
+      "pinyin": "chuánrǎn xìng"
+    },
+    {
+      "id": 241991,
+      "translation": {
+        "en": {
+          "short": "breathless",
+          "long": "unable to breathe easily",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sesak nafas",
+          "long": "tidak bisa bernapas dengan mudah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241991.jpeg",
+      "simplified": "上气不接下气",
+      "traditional": "上氣不接下氣",
+      "pinyin": "shàngqì bù jiē xià qì"
+    },
+    {
+      "id": 242003,
+      "translation": {
+        "en": {
+          "short": "dizzy",
+          "long": "unable to keep one's balance and feeling as though everything is circling around one, caused by an illness or looking down from a high place",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pusing",
+          "long": "tidak dapat menjaga keseimbangan dan perasaan seolah -olah semuanya berputar -putar di sekitar satu, disebabkan oleh penyakit atau melihat ke bawah dari tempat yang tinggi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242003.jpeg",
+      "simplified": "晕眩的",
+      "traditional": "暈眩的",
+      "pinyin": "yūnxuàn de"
+    },
+    {
+      "id": 245168,
+      "translation": {
+        "en": {
+          "short": "fatal",
+          "long": "resulting in death",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "fatal",
+          "long": "mengakibatkan kematian",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245168.jpeg",
+      "simplified": "致命的",
+      "traditional": "致命的",
+      "pinyin": "zhìmìng de"
+    },
+    {
+      "id": 242010,
+      "translation": {
+        "en": {
+          "short": "feverish",
+          "long": "having or caused by a fever",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "panas",
+          "long": "mengalami atau disebabkan oleh demam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242010.jpeg",
+      "simplified": "发烧的",
+      "traditional": "發燒的",
+      "pinyin": "fāshāo de"
+    },
+    {
+      "id": 242026,
+      "translation": {
+        "en": {
+          "short": "swollen",
+          "long": "(of a part of the body) unusually large, particularly because of an injury or illness",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bengkak",
+          "long": "(bagian tubuh) luar biasa besar, terutama karena cedera atau penyakit",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242026.jpeg",
+      "simplified": "肿",
+      "traditional": "腫",
+      "pinyin": "zhǒng"
+    },
+    {
+      "id": 241985,
+      "translation": {
+        "en": {
+          "short": "asthma",
+          "long": "a disease that causes shortness of breath and difficulty in breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asma",
+          "long": "penyakit yang menyebabkan sesak napas dan kesulitan bernapas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241985.jpeg",
+      "simplified": "哮喘",
+      "traditional": "哮喘",
+      "pinyin": "xiàochuǎn"
+    },
+    {
+      "id": 241987,
+      "translation": {
+        "en": {
+          "short": "bird flu",
+          "long": "a dangerous disease among birds, especially poultry, that can be transmitted to humans and sometimes kill them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flu burung",
+          "long": "Penyakit berbahaya di antara burung, terutama unggas, yang dapat ditularkan ke manusia dan kadang -kadang membunuh mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241987.jpeg",
+      "simplified": "禽流感",
+      "traditional": "禽流感",
+      "pinyin": "qínliú gǎn"
+    },
+    {
+      "id": 241992,
+      "translation": {
+        "en": {
+          "short": "Covid-19",
+          "long": "an infectious disease caused by a type of virus called coronavirus that causes fever, tiredness, a cough, etc., and in some cases can kill, originated in China and later became a pandemic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "COVID-19",
+          "long": "penyakit menular yang disebabkan oleh jenis virus yang disebut coronavirus yang menyebabkan demam, kelelahan, batuk, dll., Dan dalam beberapa kasus dapat membunuh, berasal dari Cina dan kemudian menjadi pandemi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241992.jpeg",
+      "simplified": "新冠肺炎",
+      "traditional": "新冠肺炎",
+      "pinyin": "xīnguān fèi yán"
+    },
+    {
+      "id": 242001,
+      "translation": {
+        "en": {
+          "short": "diarrhea",
+          "long": "a medical condition in which body waste turns to liquid and comes out frequently",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diare",
+          "long": "Kondisi medis di mana limbah tubuh berubah menjadi cairan dan sering keluar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242001.jpeg",
+      "simplified": "腹泻",
+      "traditional": "腹瀉",
+      "pinyin": "fùxiè"
+    },
+    {
+      "id": 242012,
+      "translation": {
+        "en": {
+          "short": "hay fever",
+          "long": "an illness that causes a runny nose and watery eyes, caused by dust from plants that come into the body through the air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demam alergi serbuk bunga",
+          "long": "Penyakit yang menyebabkan hidung berair dan mata berair, disebabkan oleh debu dari tanaman yang masuk ke tubuh melalui udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242012.jpeg",
+      "simplified": "花粉过敏",
+      "traditional": "花粉過敏",
+      "pinyin": "huāfěn guò mǐn"
+    },
+    {
+      "id": 242013,
+      "translation": {
+        "en": {
+          "short": "HIV",
+          "long": "the virus that causes a very dangerous disease called AIDS, transmitted through blood or sexual activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "HIV",
+          "long": "Virus yang menyebabkan penyakit yang sangat berbahaya disebut AIDS, ditularkan melalui darah atau aktivitas seksual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242013.jpeg",
+      "simplified": "艾滋病病毒",
+      "traditional": "艾滋病病毒",
+      "pinyin": "àizī bìng bìng dú"
+    },
+    {
+      "id": 242015,
+      "translation": {
+        "en": {
+          "short": "measles",
+          "long": "a contagious disease that causes high fever and small red spots on the body, common in children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "campak",
+          "long": "penyakit menular yang menyebabkan demam tinggi dan bintik -bintik merah kecil pada tubuh, umum pada anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242015.jpeg",
+      "simplified": "麻疹",
+      "traditional": "麻疹",
+      "pinyin": "mázhěn"
+    },
+    {
+      "id": 242018,
+      "translation": {
+        "en": {
+          "short": "plague",
+          "long": "a dangerous disease spread by rats that causes fever and swellings, often kills if infected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wabah",
+          "long": "penyakit berbahaya yang disebarkan oleh tikus yang menyebabkan demam dan pembengkakan, sering membunuh jika terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242018.jpeg",
+      "simplified": "鼠疫",
+      "traditional": "鼠疫",
+      "pinyin": "shǔyì"
+    },
+    {
+      "id": 242024,
+      "translation": {
+        "en": {
+          "short": "stroke",
+          "long": "a dangerous condition in which a person loses consciousness as a result of a blood vessel breaking open or becoming blocked in their brain, which could kill or paralyze a part of their body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stroke",
+          "long": "Kondisi berbahaya di mana seseorang kehilangan kesadaran sebagai akibat dari pembuluh darah yang pecah atau menjadi terhalang di otak mereka, yang dapat membunuh atau melumpuhkan bagian dari tubuh mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242024.jpeg",
+      "simplified": "中风（医学）",
+      "traditional": "中風（醫學）",
+      "pinyin": "zhòngfēng yīxué"
+    },
+    {
+      "id": 241988,
+      "translation": {
+        "en": {
+          "short": "blister",
+          "long": "a swollen area on the skin filled with liquid, caused by constant rubbing or by burning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lepuh",
+          "long": "Area bengkak di kulit yang diisi dengan cairan, disebabkan oleh gosok konstan atau dengan terbakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241988.jpeg",
+      "simplified": "水疱",
+      "traditional": "水皰",
+      "pinyin": "shuǐpào"
+    },
+    {
+      "id": 242016,
+      "translation": {
+        "en": {
+          "short": "lump",
+          "long": "a swollen area under the skin, usually caused by a sickness or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gumpalan",
+          "long": "Area bengkak di bawah kulit, biasanya disebabkan oleh penyakit atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242016.jpeg",
+      "simplified": "块",
+      "traditional": "塊",
+      "pinyin": "kuài"
+    },
+    {
+      "id": 242021,
+      "translation": {
+        "en": {
+          "short": "rash",
+          "long": "a part of one's skin covered with red spots, which is usually caused by a sickness or an allergic reaction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruam",
+          "long": "Bagian dari kulit seseorang yang ditutupi bintik -bintik merah, yang biasanya disebabkan oleh penyakit atau reaksi alergi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242021.jpeg",
+      "simplified": "皮疹",
+      "traditional": "皮疹",
+      "pinyin": "pízhěn"
+    },
+    {
+      "id": 242022,
+      "translation": {
+        "en": {
+          "short": "scar",
+          "long": "a mark that is left on one's skin after a wound or cut has healed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bekas luka",
+          "long": "tanda yang tersisa di kulit seseorang setelah luka atau potongan telah sembuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242022.jpeg",
+      "simplified": "瘢痕",
+      "traditional": "瘢痕",
+      "pinyin": "bānhén"
+    },
+    {
+      "id": 242025,
+      "translation": {
+        "en": {
+          "short": "swelling",
+          "long": "an area of one's body that has become unusually larger, caused by an injury or sickness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembengkakan",
+          "long": "area tubuh seseorang yang menjadi luar biasa lebih besar, disebabkan oleh cedera atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242025.jpeg",
+      "simplified": "肿胀",
+      "traditional": "腫脹",
+      "pinyin": "zhǒngzhàng"
+    },
+    {
+      "id": 241997,
+      "translation": {
+        "en": {
+          "short": "collapse",
+          "long": "a situation in which a person suddenly falls down or loses consciousness because of tiredness or an illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "runtuh",
+          "long": "situasi di mana seseorang tiba -tiba jatuh atau kehilangan kesadaran karena kelelahan atau penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241997.jpeg",
+      "simplified": "倒闭",
+      "traditional": "倒閉",
+      "pinyin": "dǎobì"
+    },
+    {
+      "id": 242008,
+      "translation": {
+        "en": {
+          "short": "fatigue",
+          "long": "a feeling of extreme tiredness that is usually caused by physical or mental overwork or exercise",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelelahan",
+          "long": "perasaan kelelahan ekstrem yang biasanya disebabkan oleh pekerjaan atau olahraga fisik atau mental",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242008.jpeg",
+      "simplified": "极度疲倦",
+      "traditional": "極度疲倦",
+      "pinyin": "jídù píjuàn"
+    },
+    {
+      "id": 242011,
+      "translation": {
+        "en": {
+          "short": "fracture",
+          "long": "a crack or break in a bone or other hard substance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patah",
+          "long": "celah atau patah pada tulang atau zat keras lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242011.jpeg",
+      "simplified": "断裂",
+      "traditional": "斷裂",
+      "pinyin": "duànliè"
+    },
+    {
+      "id": 241990,
+      "translation": {
+        "en": {
+          "short": "to bounce back",
+          "long": "to regain health after an illness or become successful again after facing difficulties",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bangkit kembali",
+          "long": "untuk mendapatkan kembali kesehatan setelah sakit atau menjadi sukses lagi setelah menghadapi kesulitan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241990.jpeg",
+      "simplified": "病愈",
+      "traditional": "病癒",
+      "pinyin": "bìngyù"
+    },
+    {
+      "id": 241998,
+      "translation": {
+        "en": {
+          "short": "to complain of",
+          "long": "to state that one feels ill or one's body part is in pain",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengeluh",
+          "long": "untuk menyatakan bahwa seseorang merasa sakit atau bagian tubuh seseorang kesakitan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241998.jpeg",
+      "simplified": "表达不适（因疾病等）",
+      "traditional": "表達不適（因疾病等）",
+      "pinyin": "biǎodá bùshì yīn jíbìng děng"
+    },
+    {
+      "id": 242005,
+      "translation": {
+        "en": {
+          "short": "to faint",
+          "long": "to suddenly lose consciousness from a lack of oxygen in the brain, which is caused by a shock, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk pingsan",
+          "long": "Tiba -tiba kehilangan kesadaran karena kurangnya oksigen di otak, yang disebabkan oleh syok, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242005.jpeg",
+      "simplified": "昏",
+      "traditional": "昏",
+      "pinyin": "hūn"
+    },
+    {
+      "id": 242014,
+      "translation": {
+        "en": {
+          "short": "to infect",
+          "long": "to transmit a disease to a person, animal, or plant",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menginfeksi",
+          "long": "untuk menularkan penyakit ke seseorang, hewan, atau tumbuhan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242014.jpeg",
+      "simplified": "使某人生病",
+      "traditional": "使某人生病",
+      "pinyin": "shǐ mǒurén shēngbìng"
+    },
+    {
+      "id": 241981,
+      "translation": {
+        "en": {
+          "short": "addict",
+          "long": "someone who cannot stop taking, using, or smoking a substance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencandu",
+          "long": "seseorang yang tidak bisa berhenti mengambil, menggunakan, atau merokok suatu zat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241981.jpeg",
+      "simplified": "有药瘾者",
+      "traditional": "有藥癮者",
+      "pinyin": "yǒu yào yǐn zhě"
+    },
+    {
+      "id": 241994,
+      "translation": {
+        "en": {
+          "short": "carrier",
+          "long": "a person or animal that carries a disease, without suffering from it themselves, and transmits to other people or animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembawa",
+          "long": "seseorang atau hewan yang membawa penyakit, tanpa menderita sendiri, dan mentransmisikan kepada orang atau hewan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241994.jpeg",
+      "simplified": "载体",
+      "traditional": "載體",
+      "pinyin": "zàitǐ"
+    },
+    {
+      "id": 242004,
+      "translation": {
+        "en": {
+          "short": "epidemic",
+          "long": "the rapid spread of an infectious disease within a specific population, community, or region, affecting a significant number of individuals at the same time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "epidemi",
+          "long": "Penyebaran cepat penyakit menular dalam populasi, komunitas, atau wilayah tertentu, mempengaruhi sejumlah besar individu pada saat yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242004.jpeg",
+      "simplified": "疫情",
+      "traditional": "疫情",
+      "pinyin": "yìqíng"
+    },
+    {
+      "id": 242020,
+      "translation": {
+        "en": {
+          "short": "pandemic",
+          "long": "a disease that spreads across a large region or even across the world",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pandemi",
+          "long": "penyakit yang menyebar di seluruh wilayah besar atau bahkan di seluruh dunia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242020.jpeg",
+      "simplified": "疫病",
+      "traditional": "疫病",
+      "pinyin": "yìbìng"
+    },
+    {
+      "id": 242017,
+      "translation": {
+        "en": {
+          "short": "outbreak",
+          "long": "the unexpected start of something terrible, such as a disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wabah",
+          "long": "Awal yang tidak terduga dari sesuatu yang mengerikan, seperti penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242017.jpeg",
+      "simplified": "暴发",
+      "traditional": "暴發",
+      "pinyin": "bàofā"
+    },
+    {
+      "id": 242019,
+      "translation": {
+        "en": {
+          "short": "parasite",
+          "long": "(biology) a small organism that lives on or inside another organism, called a host, and is dependent on it for nutrition and growth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parasit",
+          "long": "(Biologi) Organisme kecil yang hidup di dalam atau di dalam organisme lain, disebut inang, dan bergantung padanya untuk nutrisi dan pertumbuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242019.jpeg",
+      "simplified": "寄生物",
+      "traditional": "寄生物",
+      "pinyin": "jìshēng wù"
+    },
+    {
+      "id": 242023,
+      "translation": {
+        "en": {
+          "short": "shiver",
+          "long": "a brief shaking movement of one's body as a result of fear or being cold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggigil",
+          "long": "Gerakan yang mengguncang tubuh seseorang sebagai akibat dari ketakutan atau kedinginan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/242023.jpeg",
+      "simplified": "颤抖",
+      "traditional": "顫抖",
+      "pinyin": "chàndǒu"
+    },
+    {
+      "id": 262020,
+      "translation": {
+        "en": {
+          "short": "worn out",
+          "long": "exhausted because of too much physical work",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lusuh",
+          "long": "kelelahan karena terlalu banyak pekerjaan fisik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262020.jpeg",
+      "simplified": "累死了",
+      "traditional": "累死了",
+      "pinyin": "lěi sǐ le"
+    },
+    {
+      "id": 262211,
+      "translation": {
+        "en": {
+          "short": "stuffy",
+          "long": "having difficulty breathing through one's nose, often due to a cold or allergy",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pengap",
+          "long": "mengalami kesulitan bernapas melalui hidung seseorang, seringkali karena pilek atau alergi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262211.jpeg",
+      "simplified": "闷",
+      "traditional": "悶",
+      "pinyin": "mēn"
+    },
+    {
+      "id": 290715,
+      "translation": {
+        "en": {
+          "short": "to chafe",
+          "long": "(of a body part) to become sore or irritated due to being rubbed against something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk chafe",
+          "long": "(bagian tubuh) menjadi sakit atau teriritasi karena digosokkan terhadap sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290715.jpeg",
+      "simplified": "被抓伤和疼痛",
+      "traditional": "被抓傷和疼痛",
+      "pinyin": "bèi zhuāshāng hé téngtòng"
+    }
+  ]
+}

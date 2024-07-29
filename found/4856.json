@@ -1,0 +1,735 @@
+{
+  "id": 4856,
+  "title": {
+    "en": "Adverbs of Movement",
+    "id": "Kata keterangan gerakan"
+  },
+  "description": {
+    "en": "These adverbs Indicate movement in a specific direction or manner, such as \"up\", \"forward\", \"clockwise\", etc.",
+    "id": "Adverbia ini menunjukkan gerakan ke arah atau cara tertentu, seperti \"atas\", \"maju\", \"searah jarum jam\", dll."
+  },
+  "cards": [
+    {
+      "id": 372109,
+      "translation": {
+        "en": {
+          "short": "up",
+          "long": "at or toward a higher level or position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke atas",
+          "long": "pada atau menuju tingkat atau posisi yang lebih tinggi",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372109.jpeg",
+      "simplified": "向上",
+      "traditional": "向上",
+      "pinyin": "xiàngshàng"
+    },
+    {
+      "id": 372110,
+      "translation": {
+        "en": {
+          "short": "down",
+          "long": "at or toward a lower level or position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "turun",
+          "long": "pada atau menuju tingkat atau posisi yang lebih rendah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372110.jpeg",
+      "simplified": "向下",
+      "traditional": "向下",
+      "pinyin": "xiàngxià"
+    },
+    {
+      "id": 372112,
+      "translation": {
+        "en": {
+          "short": "left",
+          "long": "on or toward the left side",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "kiri",
+          "long": "di atau ke sisi kiri",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372112.jpeg",
+      "simplified": "左边",
+      "traditional": "左邊",
+      "pinyin": "zuǒbian"
+    },
+    {
+      "id": 372113,
+      "translation": {
+        "en": {
+          "short": "right",
+          "long": "on or toward the right side",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Kanan",
+          "long": "di atau ke arah kanan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372113.jpeg",
+      "simplified": "向右",
+      "traditional": "向右",
+      "pinyin": "Xiàng yòu"
+    },
+    {
+      "id": 372116,
+      "translation": {
+        "en": {
+          "short": "in",
+          "long": "into or inside of a place, object, or area",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di dalam",
+          "long": "ke dalam atau di dalam suatu tempat, objek, atau area",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372116.jpeg",
+      "simplified": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐmiàn"
+    },
+    {
+      "id": 372117,
+      "translation": {
+        "en": {
+          "short": "out",
+          "long": "in the opposite direction of the center of a place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "keluar",
+          "long": "ke arah yang berlawanan dari pusat suatu tempat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372117.jpeg",
+      "simplified": "出去",
+      "traditional": "出去",
+      "pinyin": "chūqù"
+    },
+    {
+      "id": 372118,
+      "translation": {
+        "en": {
+          "short": "forward",
+          "long": "to or toward the front",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "maju",
+          "long": "ke atau ke depan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372118.jpeg",
+      "simplified": "向前",
+      "traditional": "向前",
+      "pinyin": "xiàngqián"
+    },
+    {
+      "id": 372119,
+      "translation": {
+        "en": {
+          "short": "backward",
+          "long": "in or to the direction opposite to the front",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke belakang",
+          "long": "di atau ke arah yang berlawanan dengan depan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372119.jpeg",
+      "simplified": "朝相反的方向",
+      "traditional": "朝相反的方向",
+      "pinyin": "Cháo xiāngfǎn de fāngxiàng"
+    },
+    {
+      "id": 372120,
+      "translation": {
+        "en": {
+          "short": "onward",
+          "long": "in the direction ahead",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "maju",
+          "long": "ke arah depan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372120.jpeg",
+      "simplified": "向前",
+      "traditional": "向前",
+      "pinyin": "xiàngqián"
+    },
+    {
+      "id": 372121,
+      "translation": {
+        "en": {
+          "short": "downward",
+          "long": "in, at, or pointing toward a lower level or position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke bawah",
+          "long": "di, at, atau menunjuk ke tingkat atau posisi yang lebih rendah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372121.jpeg",
+      "simplified": "向下的方向",
+      "traditional": "向下的方向",
+      "pinyin": "xiàngxià de fāngxiàng"
+    },
+    {
+      "id": 372122,
+      "translation": {
+        "en": {
+          "short": "upward",
+          "long": "in, at, or pointing toward a higher level or position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke atas",
+          "long": "di, at, atau menunjuk ke tingkat atau posisi yang lebih tinggi",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372122.jpeg",
+      "simplified": "向上",
+      "traditional": "向上",
+      "pinyin": "xiàngshàng"
+    },
+    {
+      "id": 372123,
+      "translation": {
+        "en": {
+          "short": "inward",
+          "long": "toward the center or inside of something",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "batin",
+          "long": "menuju tengah atau di dalam sesuatu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372123.jpeg",
+      "simplified": "向内的",
+      "traditional": "向內的",
+      "pinyin": "Xiàng nèi de"
+    },
+    {
+      "id": 372124,
+      "translation": {
+        "en": {
+          "short": "outward",
+          "long": "away from a central or particular point",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke luar",
+          "long": "jauh dari titik pusat atau khusus",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372124.jpeg",
+      "simplified": "向着外面",
+      "traditional": "向著外面",
+      "pinyin": "xiàngzhe wàimiàn"
+    },
+    {
+      "id": 372125,
+      "translation": {
+        "en": {
+          "short": "skyward",
+          "long": "in the direction of the sky",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "menuju ke angkasa",
+          "long": "ke arah langit",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372125.jpeg",
+      "simplified": "向天空",
+      "traditional": "向天空",
+      "pinyin": "Xiàng tiānkōng"
+    },
+    {
+      "id": 372126,
+      "translation": {
+        "en": {
+          "short": "sideways",
+          "long": "to, from, or toward the side",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke samping",
+          "long": "ke, dari, atau ke samping",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372126.jpeg",
+      "simplified": "侧身",
+      "traditional": "側身",
+      "pinyin": "cèshēn"
+    },
+    {
+      "id": 372127,
+      "translation": {
+        "en": {
+          "short": "straight",
+          "long": "in a manner that is not curved",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "lurus",
+          "long": "dengan cara yang tidak melengkung",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372127.jpeg",
+      "simplified": "直接地",
+      "traditional": "直接地",
+      "pinyin": "zhíjiē de"
+    },
+    {
+      "id": 372128,
+      "translation": {
+        "en": {
+          "short": "over",
+          "long": "across from one side to the other",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "lebih",
+          "long": "di seberang satu sisi ke sisi lain",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372128.jpeg",
+      "simplified": "从一侧到另一侧",
+      "traditional": "從一側到另一側",
+      "pinyin": "cóng yī cè dào lìngyī cè"
+    },
+    {
+      "id": 372129,
+      "translation": {
+        "en": {
+          "short": "by",
+          "long": "used to refer to moving past or alongside something or someone",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "oleh",
+          "long": "biasa merujuk pada masa lalu atau di samping sesuatu atau seseorang",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372129.jpeg",
+      "simplified": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "pángbiān"
+    },
+    {
+      "id": 372130,
+      "translation": {
+        "en": {
+          "short": "ahead",
+          "long": "toward the direction in front",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "di depan",
+          "long": "menuju arah di depan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372130.jpeg",
+      "simplified": "先",
+      "traditional": "先",
+      "pinyin": "xiān"
+    },
+    {
+      "id": 372131,
+      "translation": {
+        "en": {
+          "short": "forth",
+          "long": "out and away from a particular place",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke depan",
+          "long": "Keluar dan menjauh dari tempat tertentu",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372131.jpeg",
+      "simplified": "向前",
+      "traditional": "向前",
+      "pinyin": "xiàngqián"
+    },
+    {
+      "id": 372132,
+      "translation": {
+        "en": {
+          "short": "through",
+          "long": "from one side to the other, indicating movement from the beginning to the end",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "melalui",
+          "long": "dari satu sisi ke sisi lain, menunjukkan gerakan dari awal hingga akhir",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372132.jpeg",
+      "simplified": "从一侧到另一侧",
+      "traditional": "從一側到另一側",
+      "pinyin": "cóng yī cè dào lìngyī cè"
+    },
+    {
+      "id": 372134,
+      "translation": {
+        "en": {
+          "short": "along",
+          "long": "following the direction of a road, path, or any relatively flat surface",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "bersama",
+          "long": "Mengikuti arah jalan, jalur, atau permukaan yang relatif datar",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372134.jpeg",
+      "simplified": "沿着",
+      "traditional": "沿著",
+      "pinyin": "yánzhe"
+    },
+    {
+      "id": 372135,
+      "translation": {
+        "en": {
+          "short": "aside",
+          "long": "toward the side and away from the main path",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke samping",
+          "long": "menuju sisi dan jauh dari jalan utama",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372135.jpeg",
+      "simplified": "在旁边",
+      "traditional": "在旁邊",
+      "pinyin": "zàipáng biān"
+    },
+    {
+      "id": 372136,
+      "translation": {
+        "en": {
+          "short": "diagonally",
+          "long": "in a slanted direction, forming an angle with a given line or surface",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara diagonal",
+          "long": "dalam arah miring, membentuk sudut dengan garis atau permukaan yang diberikan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372136.jpeg",
+      "simplified": "对角地",
+      "traditional": "對角地",
+      "pinyin": "duìjiǎo de"
+    },
+    {
+      "id": 372137,
+      "translation": {
+        "en": {
+          "short": "radially",
+          "long": "in a direction extending outward from a central point",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara radial",
+          "long": "ke arah yang memanjang keluar dari titik pusat",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372137.jpeg",
+      "simplified": "径向地",
+      "traditional": "徑向地",
+      "pinyin": "jìngxiàng de"
+    },
+    {
+      "id": 372139,
+      "translation": {
+        "en": {
+          "short": "lengthwise",
+          "long": "in the direction of the longest dimension",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "memanjang",
+          "long": "ke arah dimensi terpanjang",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372139.jpeg",
+      "simplified": "纵向",
+      "traditional": "縱向",
+      "pinyin": "zòngxiàng"
+    },
+    {
+      "id": 372140,
+      "translation": {
+        "en": {
+          "short": "longitudinally",
+          "long": "in the direction of the longest dimension",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara longitudinal",
+          "long": "ke arah dimensi terpanjang",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372140.jpeg",
+      "simplified": "纵向地",
+      "traditional": "縱向地",
+      "pinyin": "zòngxiàng de"
+    },
+    {
+      "id": 372148,
+      "translation": {
+        "en": {
+          "short": "vertically",
+          "long": "at a right angle to a horizontal line or surface",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Tegak lurus",
+          "long": "pada sudut kanan ke garis atau permukaan horizontal",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372148.jpeg",
+      "simplified": "垂直",
+      "traditional": "垂直",
+      "pinyin": "chuízhí"
+    },
+    {
+      "id": 372149,
+      "translation": {
+        "en": {
+          "short": "horizontally",
+          "long": "in a straight way that is parallel to the ground",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara horizontal",
+          "long": "dengan cara lurus yang sejajar dengan tanah",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372149.jpeg",
+      "simplified": "水平地",
+      "traditional": "水平地",
+      "pinyin": "shuǐpíng de"
+    },
+    {
+      "id": 372143,
+      "translation": {
+        "en": {
+          "short": "laterally",
+          "long": "in a direction that is sideways or to the side",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "secara lateral",
+          "long": "ke arah yang menyamping atau ke samping",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372143.jpeg",
+      "simplified": "横向地",
+      "traditional": "橫向地",
+      "pinyin": "héngxiàng de"
+    },
+    {
+      "id": 372146,
+      "translation": {
+        "en": {
+          "short": "upwardly",
+          "long": "toward a higher position",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke atas",
+          "long": "menuju posisi yang lebih tinggi",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372146.jpeg",
+      "simplified": "向上",
+      "traditional": "向上",
+      "pinyin": "xiàngshàng"
+    },
+    {
+      "id": 372147,
+      "translation": {
+        "en": {
+          "short": "back and forth",
+          "long": "repeatedly going in one direction and then in the opposite direction",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "bolak-balik",
+          "long": "berulang kali pergi ke satu arah dan kemudian ke arah yang berlawanan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372147.jpeg",
+      "simplified": "反复",
+      "traditional": "反复",
+      "pinyin": "fǎnfù"
+    },
+    {
+      "id": 372150,
+      "translation": {
+        "en": {
+          "short": "headfirst",
+          "long": "with the head leading the way",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Majir pertama",
+          "long": "dengan kepala memimpin",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372150.jpeg",
+      "simplified": "头朝前",
+      "traditional": "頭朝前",
+      "pinyin": "tóu cháoqián"
+    },
+    {
+      "id": 372152,
+      "translation": {
+        "en": {
+          "short": "headlong",
+          "long": "with the head positioned forward",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "tunggang langgang",
+          "long": "dengan kepala diposisikan ke depan",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372152.jpeg",
+      "simplified": "头",
+      "traditional": "頭",
+      "pinyin": "tóu"
+    },
+    {
+      "id": 372155,
+      "translation": {
+        "en": {
+          "short": "ashore",
+          "long": "toward the land from the direction of a ship or the sea",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "ke darat",
+          "long": "menuju tanah dari arah kapal atau laut",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/372155.jpeg",
+      "simplified": "岸上",
+      "traditional": "岸上",
+      "pinyin": "ànshàng"
+    },
+    {
+      "id": 373866,
+      "translation": {
+        "en": {
+          "short": "overboard",
+          "long": "over the edge or side of a boat or ship and into the water",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "Jatuh ke Laut",
+          "long": "di atas tepi atau sisi kapal atau kapal dan masuk ke dalam air",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/373866.jpeg",
+      "simplified": "落水",
+      "traditional": "落水",
+      "pinyin": "luòshuǐ"
+    },
+    {
+      "id": 375259,
+      "translation": {
+        "en": {
+          "short": "clockwise",
+          "long": "following the direction of a clock's hands",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "searah jarum jam",
+          "long": "Mengikuti arah tangan jam",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/375259.jpeg",
+      "simplified": "顺时针",
+      "traditional": "順時針",
+      "pinyin": "shùnshí zhēn"
+    },
+    {
+      "id": 375260,
+      "translation": {
+        "en": {
+          "short": "counterclockwise",
+          "long": "following the opposite direction of a clock's hands",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "berlawanan arah jarum jam",
+          "long": "Mengikuti arah yang berlawanan dari tangan jam",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/375260.jpeg",
+      "simplified": "逆时针",
+      "traditional": "逆時針",
+      "pinyin": "nìshí zhēn"
+    }
+  ]
+}

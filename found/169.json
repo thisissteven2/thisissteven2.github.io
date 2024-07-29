@@ -1,0 +1,545 @@
+{
+  "id": 169,
+  "title": {
+    "en": "Animals",
+    "id": "Hewan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about animals, such as \"breed\", \"species\", \"cage\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang hewan, seperti \"breed\", \"spesies\", \"kandang\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 213502,
+      "translation": {
+        "en": {
+          "short": "breed",
+          "long": "a particular type of animal or plant that has typically been domesticated by people in a certain way",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keturunan",
+          "long": "jenis hewan atau tumbuhan tertentu yang biasanya didomestikasi oleh orang -orang dengan cara tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213502.jpeg",
+      "simplified": "品种",
+      "traditional": "品種",
+      "pinyin": "pǐnzhǒng"
+    },
+    {
+      "id": 213503,
+      "translation": {
+        "en": {
+          "short": "to breed",
+          "long": "to make animals produce offspring in a way that is suitable for human beings",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berkembang biak",
+          "long": "untuk membuat hewan menghasilkan keturunan dengan cara yang cocok untuk manusia",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213503.jpeg",
+      "simplified": "培育",
+      "traditional": "培育",
+      "pinyin": "péiyù"
+    },
+    {
+      "id": 213492,
+      "translation": {
+        "en": {
+          "short": "cage",
+          "long": "a framework made of metal bars or wires in which animals or birds can be kept",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kurungan",
+          "long": "kerangka kerja yang terbuat dari batang logam atau kabel di mana hewan atau burung dapat disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213492.jpeg",
+      "simplified": "笼",
+      "traditional": "籠",
+      "pinyin": "lóng"
+    },
+    {
+      "id": 213486,
+      "translation": {
+        "en": {
+          "short": "species",
+          "long": "a group that animals, plants, etc. of the same type which are capable of producing healthy offspring with each other are divided into",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis",
+          "long": "Kelompok yang hewan, tumbuhan, dll. Dengan jenis yang sama yang mampu menghasilkan keturunan yang sehat satu sama lain dibagi menjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213486.jpeg",
+      "simplified": "种类",
+      "traditional": "種類",
+      "pinyin": "zhǒnglèi"
+    },
+    {
+      "id": 213505,
+      "translation": {
+        "en": {
+          "short": "territory",
+          "long": "an area occupied by an animal or a group of animals that is defended against others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wilayah",
+          "long": "Area yang ditempati oleh hewan atau sekelompok hewan yang dipertahankan terhadap orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213505.jpeg",
+      "simplified": "领土",
+      "traditional": "領土",
+      "pinyin": "lǐngtǔ"
+    },
+    {
+      "id": 213488,
+      "translation": {
+        "en": {
+          "short": "polar bear",
+          "long": "a large white bear which lives in the North Pole and is well-adapted to its icy environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beruang kutub",
+          "long": "beruang putih besar yang tinggal di Kutub Utara dan diadaptasi dengan baik ke lingkungan esnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213488.jpeg",
+      "simplified": "白熊",
+      "traditional": "白熊",
+      "pinyin": "báixióng"
+    },
+    {
+      "id": 213490,
+      "translation": {
+        "en": {
+          "short": "owl",
+          "long": "a type of bird with a round face, large eyes and a loud call that hunts smaller animals mainly during the night",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "burung hantu",
+          "long": "Jenis burung dengan wajah bundar, mata besar dan panggilan keras yang memburu hewan kecil terutama di malam hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213490.jpeg",
+      "simplified": "猫头鹰",
+      "traditional": "貓頭鷹",
+      "pinyin": "māotóu yīng"
+    },
+    {
+      "id": 213491,
+      "translation": {
+        "en": {
+          "short": "ape",
+          "long": "a tailless animal similar to a monkey, such as chimpanzees and gorillas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kera",
+          "long": "Seekor binatang berhambut mirip dengan monyet, seperti simpanse dan gorila",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213491.jpeg",
+      "simplified": "猿",
+      "traditional": "猿",
+      "pinyin": "yuán"
+    },
+    {
+      "id": 213493,
+      "translation": {
+        "en": {
+          "short": "cheetah",
+          "long": "a type of large and wild animal that is from the cat family, can run very fast, and has yellow fur that is covered with small black spots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cheetah",
+          "long": "Jenis hewan besar dan liar yang berasal dari keluarga kucing, dapat berjalan sangat cepat, dan memiliki bulu kuning yang ditutupi dengan bintik -bintik hitam kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213493.jpeg",
+      "simplified": "猎豹",
+      "traditional": "獵豹",
+      "pinyin": "lièbào"
+    },
+    {
+      "id": 213495,
+      "translation": {
+        "en": {
+          "short": "leopard",
+          "long": "a large wild animal from the cat family with yellow fur and hollow black spots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "macan tutul",
+          "long": "Hewan liar besar dari keluarga kucing dengan bulu kuning dan bintik -bintik hitam berlubang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213495.jpeg",
+      "simplified": "豹",
+      "traditional": "豹",
+      "pinyin": "bào"
+    },
+    {
+      "id": 213522,
+      "translation": {
+        "en": {
+          "short": "puppy",
+          "long": "a young dog, especially one that is less than a year old",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak anjing",
+          "long": "seekor anjing muda, terutama yang berusia kurang dari setahun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213522.jpeg",
+      "simplified": "小狗",
+      "traditional": "小狗",
+      "pinyin": "xiǎogǒu"
+    },
+    {
+      "id": 213523,
+      "translation": {
+        "en": {
+          "short": "reindeer",
+          "long": "a type of deer with large antlers in both sexes, mainly living in cold regions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rusa kutub",
+          "long": "Jenis rusa dengan tanduk besar di kedua jenis kelamin, terutama tinggal di daerah dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213523.jpeg",
+      "simplified": "驯鹿",
+      "traditional": "馴鹿",
+      "pinyin": "xùnlù"
+    },
+    {
+      "id": 213518,
+      "translation": {
+        "en": {
+          "short": "squirrel",
+          "long": "a furry animal with a thick tail that lives in trees and feeds on nuts and seeds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tupai",
+          "long": "Hewan berbulu dengan ekor tebal yang hidup di pohon dan memakan kacang dan biji",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213518.jpeg",
+      "simplified": "松鼠",
+      "traditional": "松鼠",
+      "pinyin": "sōngshǔ"
+    },
+    {
+      "id": 213517,
+      "translation": {
+        "en": {
+          "short": "tortoise",
+          "long": "a type of turtle that lives on land and moves very slowly, with a large shell on its back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kura-kura darat",
+          "long": "Jenis kura -kura yang hidup di darat dan bergerak sangat lambat, dengan cangkang besar di punggungnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213517.jpeg",
+      "simplified": "龟",
+      "traditional": "龜",
+      "pinyin": "guī"
+    },
+    {
+      "id": 213497,
+      "translation": {
+        "en": {
+          "short": "feather",
+          "long": "any of the light and soft parts covering the body of a bird",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu",
+          "long": "Salah satu bagian ringan dan lembut yang menutupi tubuh burung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213497.jpeg",
+      "simplified": "羽毛",
+      "traditional": "羽毛",
+      "pinyin": "yǔmáo"
+    },
+    {
+      "id": 213489,
+      "translation": {
+        "en": {
+          "short": "paw",
+          "long": "an animal's foot that typically has a combination of nails, claws, fur, and pads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengais",
+          "long": "kaki seekor hewan yang biasanya memiliki kombinasi kuku, cakar, bulu, dan pembalut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213489.jpeg",
+      "simplified": "爪子",
+      "traditional": "爪子",
+      "pinyin": "zhuǎzi"
+    },
+    {
+      "id": 213516,
+      "translation": {
+        "en": {
+          "short": "venom",
+          "long": "the poisonous substance produced by some snakes, scorpions, or spiders to kill their prey or to defend themselves from predators",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bisa ular",
+          "long": "zat beracun yang diproduksi oleh beberapa ular, kalajengking, atau laba -laba untuk membunuh mangsanya atau membela diri dari predator",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213516.jpeg",
+      "simplified": "毒液",
+      "traditional": "毒液",
+      "pinyin": "dúyè"
+    },
+    {
+      "id": 213504,
+      "translation": {
+        "en": {
+          "short": "to bark",
+          "long": "to make a short, loud sound that is typical of a dog",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menggonggong",
+          "long": "untuk membuat suara pendek dan keras yang khas seekor anjing",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213504.jpeg",
+      "simplified": "吠",
+      "traditional": "吠",
+      "pinyin": "fèi"
+    },
+    {
+      "id": 239560,
+      "translation": {
+        "en": {
+          "short": "to chain",
+          "long": "to secure or attach something or someone using a series of connected links",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk rantai",
+          "long": "untuk mengamankan atau melampirkan sesuatu atau seseorang yang menggunakan serangkaian tautan yang terhubung",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239560.jpeg",
+      "simplified": "束缚",
+      "traditional": "束縛",
+      "pinyin": "shùfù"
+    },
+    {
+      "id": 213507,
+      "translation": {
+        "en": {
+          "short": "to lay",
+          "long": "(of a bird, insect, fish, etc.) to produce eggs",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meletakkan",
+          "long": "(dari burung, serangga, ikan, dll.) Untuk menghasilkan telur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213507.jpeg",
+      "simplified": "产卵",
+      "traditional": "產卵",
+      "pinyin": "chǎnluǎn"
+    },
+    {
+      "id": 213513,
+      "translation": {
+        "en": {
+          "short": "to mate",
+          "long": "(of animals) to have sex for breeding or reproduction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kawin",
+          "long": "(hewan) untuk berhubungan seks untuk berkembang biak atau reproduksi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213513.jpeg",
+      "simplified": "交配",
+      "traditional": "交配",
+      "pinyin": "jiāopèi"
+    },
+    {
+      "id": 213521,
+      "translation": {
+        "en": {
+          "short": "pack",
+          "long": "a group of animals of the same type hunting or living together, particularly wolves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengemas",
+          "long": "sekelompok hewan dari berburu tipe yang sama atau hidup bersama, terutama serigala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213521.jpeg",
+      "simplified": "一群动物",
+      "traditional": "一群動物",
+      "pinyin": "yī qún dòngwù"
+    },
+    {
+      "id": 213508,
+      "translation": {
+        "en": {
+          "short": "domestic",
+          "long": "(of an animal) capable of living with humans, either on a farm or as a pet in a house",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lokal",
+          "long": "(dari seekor binatang) yang mampu hidup dengan manusia, baik di peternakan atau sebagai hewan peliharaan di rumah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213508.jpeg",
+      "simplified": "家畜",
+      "traditional": "家畜",
+      "pinyin": "jiāchù"
+    },
+    {
+      "id": 213510,
+      "translation": {
+        "en": {
+          "short": "extinct",
+          "long": "(of an animal, plant, etc.) not having any living members, either due to natural causes, environmental changes, or human activity",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "punah",
+          "long": "(dari hewan, tumbuhan, dll.) Tidak memiliki anggota yang hidup, baik karena penyebab alami, perubahan lingkungan, atau aktivitas manusia",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213510.jpeg",
+      "simplified": "灭绝的",
+      "traditional": "滅絕的",
+      "pinyin": "mièjué de"
+    },
+    {
+      "id": 213512,
+      "translation": {
+        "en": {
+          "short": "mammal",
+          "long": "a class of animals to which humans, cows, lions, etc. belong, have warm blood, fur or hair and typically produce milk to feed their young",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mamalia",
+          "long": "Kelas hewan tempat manusia, sapi, singa, dll. Miliknya, memiliki darah hangat, bulu atau rambut dan biasanya menghasilkan susu untuk memberi makan anak -anak mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213512.jpeg",
+      "simplified": "哺乳动物",
+      "traditional": "哺乳動物",
+      "pinyin": "bǔrǔ dòng wù"
+    },
+    {
+      "id": 213519,
+      "translation": {
+        "en": {
+          "short": "reptile",
+          "long": "a class of animals to which crocodiles, lizards, etc. belong, characterized by having cold blood and scaly skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reptil",
+          "long": "Kelas hewan tempat buaya, kadal, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213519.jpeg",
+      "simplified": "爬虫",
+      "traditional": "爬蟲",
+      "pinyin": "páchóng"
+    },
+    {
+      "id": 246774,
+      "translation": {
+        "en": {
+          "short": "to trap",
+          "long": "to capture an animal using an object called a trap",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjebak",
+          "long": "untuk menangkap hewan menggunakan objek yang disebut jebakan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246774.jpeg",
+      "simplified": "弇",
+      "traditional": "弇",
+      "pinyin": "yǎn"
+    },
+    {
+      "id": 213515,
+      "translation": {
+        "en": {
+          "short": "wildlife",
+          "long": "all wild animals, considered as a whole, living in the natural environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "margasatwa",
+          "long": "Semua hewan liar, dianggap secara keseluruhan, hidup di lingkungan alam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213515.jpeg",
+      "simplified": "野生动物",
+      "traditional": "野生動物",
+      "pinyin": "yěshēng dòng wù"
+    }
+  ]
+}

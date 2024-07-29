@@ -1,0 +1,849 @@
+{
+  "id": 4194,
+  "title": {
+    "en": "Words Related to Linguistics",
+    "id": "Kata -kata yang terkait dengan linguistik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to linguistics such as \"hyphenate\", \"marker\", and \"corpus\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan linguistik seperti \"hyphenate\", \"marker\", dan \"corpus\"."
+  },
+  "cards": [
+    {
+      "id": 354334,
+      "translation": {
+        "en": {
+          "short": "form",
+          "long": "the shape of a word, phrase, sentence or discourse",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membentuk",
+          "long": "bentuk kata, frasa, kalimat atau wacana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354334.jpeg",
+      "simplified": "形式",
+      "traditional": "形式",
+      "pinyin": "xíngshì"
+    },
+    {
+      "id": 354335,
+      "translation": {
+        "en": {
+          "short": "grammar",
+          "long": "the study or use of words and the way they are put together or changed to make sentences",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tata bahasa",
+          "long": "Studi atau penggunaan kata -kata dan cara mereka disatukan atau diubah untuk membuat kalimat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354335.jpeg",
+      "simplified": "语法",
+      "traditional": "文法",
+      "pinyin": "yǔfǎ"
+    },
+    {
+      "id": 354340,
+      "translation": {
+        "en": {
+          "short": "natural language",
+          "long": "any human language that has developed organically over time for communication purposes, distinguishing it from constructed or artificial languages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa alami",
+          "long": "Bahasa manusia mana pun yang telah berkembang secara organik dari waktu ke waktu untuk tujuan komunikasi, membedakannya dari bahasa yang dibangun atau buatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354340.jpeg",
+      "simplified": "自然语言",
+      "traditional": "自然語言",
+      "pinyin": "zìrán yǔ yán"
+    },
+    {
+      "id": 354341,
+      "translation": {
+        "en": {
+          "short": "artificial language",
+          "long": "a language deliberately created by humans for specific purposes, such as international communication or fictional settings, rather than evolving naturally over time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa buatan",
+          "long": "Bahasa yang sengaja dibuat oleh manusia untuk tujuan tertentu, seperti komunikasi internasional atau pengaturan fiksi, daripada berkembang secara alami dari waktu ke waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354341.jpeg",
+      "simplified": "人造语言",
+      "traditional": "人造語言",
+      "pinyin": "rénzào yǔ yán"
+    },
+    {
+      "id": 354346,
+      "translation": {
+        "en": {
+          "short": "constructed language",
+          "long": "a language intentionally created by individuals or groups, often for specific purposes, such as improving communication, facilitating learning, or serving fictional or artistic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa yang dibangun",
+          "long": "Bahasa yang sengaja dibuat oleh individu atau kelompok, seringkali untuk tujuan tertentu, seperti meningkatkan komunikasi, memfasilitasi pembelajaran, atau melayani tujuan fiksi atau artistik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354346.jpeg",
+      "simplified": "人造语言",
+      "traditional": "人造語言",
+      "pinyin": "rénzào yǔ yán"
+    },
+    {
+      "id": 354384,
+      "translation": {
+        "en": {
+          "short": "markedness",
+          "long": "the asymmetrical relationship between linguistic forms or features, where one form or feature is considered more \"marked\" or less typical than another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda",
+          "long": "Hubungan asimetris antara bentuk atau fitur linguistik, di mana satu bentuk atau fitur dianggap lebih \"ditandai\" atau kurang khas daripada yang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354384.jpeg",
+      "simplified": "标记性",
+      "traditional": "標記性",
+      "pinyin": "biāojì xìng"
+    },
+    {
+      "id": 354387,
+      "translation": {
+        "en": {
+          "short": "dictionary",
+          "long": "a book or electronic resource that gives a list of words in alphabetical order and explains their meanings, or gives the equivalent words in a different language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamus",
+          "long": "Buku atau sumber daya elektronik yang memberikan daftar kata -kata dalam urutan abjad dan menjelaskan makna mereka, atau memberikan kata -kata yang setara dalam bahasa yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354387.jpeg",
+      "simplified": "字典",
+      "traditional": "字典",
+      "pinyin": "zìdiǎn"
+    },
+    {
+      "id": 354398,
+      "translation": {
+        "en": {
+          "short": "entry word",
+          "long": "the specific word or form that serves as the main or primary lexical entry in a dictionary or reference work, typically representing the headword or base form of a word from which various inflected forms and derived words are derived",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata entri",
+          "long": "Kata atau bentuk spesifik yang berfungsi sebagai entri leksikal utama atau primer dalam kamus atau karya referensi, biasanya mewakili kata kepala atau bentuk dasar dari kata dari mana berbagai bentuk yang dipengaruhi dan kata -kata yang diturunkan diturunkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354398.jpeg",
+      "simplified": "初级词汇",
+      "traditional": "初級詞彙",
+      "pinyin": "chūjí cíhuì"
+    },
+    {
+      "id": 354400,
+      "translation": {
+        "en": {
+          "short": "anglophone",
+          "long": "a person or a community of people whose first language or primary language is English",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Anglophone",
+          "long": "seseorang atau komunitas orang yang bahasa pertama atau bahasa utama adalah bahasa Inggris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354400.jpeg",
+      "simplified": "英语国家",
+      "traditional": "英語國家",
+      "pinyin": "Yīngyǔ guójiā"
+    },
+    {
+      "id": 354409,
+      "translation": {
+        "en": {
+          "short": "spoken word",
+          "long": "an utterance expressed in speech rather than written form",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata yang diucapkan",
+          "long": "Ucapan yang diungkapkan dalam bentuk pidato daripada tertulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354409.jpeg",
+      "simplified": "口头语言",
+      "traditional": "口頭語言",
+      "pinyin": "kǒutóu yǔ yán"
+    },
+    {
+      "id": 354410,
+      "translation": {
+        "en": {
+          "short": "syntax",
+          "long": "(linguistics) the way in which words and phrases are arranged to form grammatical sentences in a language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sintaksis",
+          "long": "(Linguistik) Cara kata dan frasa diatur untuk membentuk kalimat tata bahasa dalam suatu bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354410.jpeg",
+      "simplified": "语法（语言学）",
+      "traditional": "語法（語言學）",
+      "pinyin": "yǔfǎ yǔyán xué"
+    },
+    {
+      "id": 354412,
+      "translation": {
+        "en": {
+          "short": "corpus",
+          "long": "a large and structured collection of authentic texts or spoken language samples, used for linguistic analysis and research purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "corpus",
+          "long": "Kumpulan teks otentik yang besar dan terstruktur atau sampel bahasa lisan, digunakan untuk analisis linguistik dan tujuan penelitian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354412.jpeg",
+      "simplified": "文集",
+      "traditional": "文集",
+      "pinyin": "wénjí"
+    },
+    {
+      "id": 354414,
+      "translation": {
+        "en": {
+          "short": "translation",
+          "long": "the process of changing written or spoken words from one language to another while maintaining the same meaning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terjemahan",
+          "long": "proses mengubah kata -kata tertulis atau lisan dari satu bahasa ke bahasa lain sambil mempertahankan makna yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354414.jpeg",
+      "simplified": "翻译",
+      "traditional": "翻譯",
+      "pinyin": "fānyì"
+    },
+    {
+      "id": 354415,
+      "translation": {
+        "en": {
+          "short": "sign language",
+          "long": "a system used to communicate with deaf people that involves using hands and body gestures instead of words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahasa isyarat",
+          "long": "sistem yang digunakan untuk berkomunikasi dengan orang tuli yang melibatkan penggunaan gerakan tangan dan tubuh alih -alih kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354415.jpeg",
+      "simplified": "标志语言",
+      "traditional": "標誌語言",
+      "pinyin": "biāozhì yǔyán"
+    },
+    {
+      "id": 354416,
+      "translation": {
+        "en": {
+          "short": "Proto-Indo-European",
+          "long": "the hypothetical language that is believed to be the root of all Indo-European languages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Proto-Indo-Eropa",
+          "long": "bahasa hipotetis yang diyakini sebagai akar dari semua bahasa Indo-Eropa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354416.jpeg",
+      "simplified": "原始印欧语系",
+      "traditional": "原始印歐語系",
+      "pinyin": "yuánshǐ YìnOū yǔ xì"
+    },
+    {
+      "id": 354417,
+      "translation": {
+        "en": {
+          "short": "orthography",
+          "long": "the standardized set of rules and conventions for spelling and writing within a particular language or writing system, guiding the proper representation of words and symbols",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ortografi",
+          "long": "Kumpulan aturan dan konvensi standar untuk ejaan dan penulisan dalam bahasa atau sistem penulisan tertentu, memandu representasi kata dan simbol yang tepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354417.jpeg",
+      "simplified": "拼字",
+      "traditional": "拼字",
+      "pinyin": "pīnzì"
+    },
+    {
+      "id": 354424,
+      "translation": {
+        "en": {
+          "short": "emic unit",
+          "long": "a meaningful unit of analysis that is derived from within the specific cultural or linguistic context being studied, taking into account the perspectives and interpretations of the individuals or community under investigation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unit emik",
+          "long": "Unit analisis yang bermakna yang berasal dari dalam konteks budaya atau bahasa tertentu yang sedang dipelajari, dengan mempertimbangkan perspektif dan interpretasi individu atau masyarakat yang sedang diselidiki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354424.jpeg",
+      "simplified": "主位单位",
+      "traditional": "主位單位",
+      "pinyin": "zhǔ wèi dānwèi"
+    },
+    {
+      "id": 354462,
+      "translation": {
+        "en": {
+          "short": "quote",
+          "long": "a sentence from a speech, book, etc. that is repeated somewhere else because it is wise or interesting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengutip",
+          "long": "Kalimat dari pidato, buku, dll. Yang diulangi di tempat lain karena bijak atau menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354462.jpeg",
+      "simplified": "引用句",
+      "traditional": "引用句",
+      "pinyin": "yǐnyòng jù"
+    },
+    {
+      "id": 354426,
+      "translation": {
+        "en": {
+          "short": "exclamation",
+          "long": "a sudden and short sound, word or phrase, uttered to express anger, excitement, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seruan",
+          "long": "Suara, kata atau frasa yang tiba -tiba dan pendek, diucapkan untuk mengekspresikan kemarahan, kegembiraan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354426.jpeg",
+      "simplified": "感叹",
+      "traditional": "感嘆",
+      "pinyin": "gǎntàn"
+    },
+    {
+      "id": 354427,
+      "translation": {
+        "en": {
+          "short": "jargon",
+          "long": "language that is considered to be meaningless or obscure, used to impress or confuse people rather than to convey information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jargon",
+          "long": "bahasa yang dianggap tidak berarti atau tidak jelas, digunakan untuk mengesankan atau membingungkan orang daripada menyampaikan informasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354427.jpeg",
+      "simplified": "行话",
+      "traditional": "行話",
+      "pinyin": "hánghuà"
+    },
+    {
+      "id": 354428,
+      "translation": {
+        "en": {
+          "short": "marker",
+          "long": "a linguistic element or feature that signals or indicates a specific grammatical, semantic, or pragmatic function within a language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penanda",
+          "long": "elemen atau fitur linguistik yang menandakan atau menunjukkan fungsi tata bahasa, semantik, atau pragmatis tertentu dalam suatu bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354428.jpeg",
+      "simplified": "里程碑",
+      "traditional": "里程碑",
+      "pinyin": "lǐchéng bēi"
+    },
+    {
+      "id": 354432,
+      "translation": {
+        "en": {
+          "short": "phraseme",
+          "long": "a fixed or semi-fixed phrase or expression with a specific meaning or function that extends beyond the sum of its individual words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "phraseme",
+          "long": "frasa atau ekspresi tetap atau semi-tetap dengan makna atau fungsi tertentu yang melampaui jumlah kata-kata individualnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354432.jpeg",
+      "simplified": "短语",
+      "traditional": "短語",
+      "pinyin": "duǎnyǔ"
+    },
+    {
+      "id": 354433,
+      "translation": {
+        "en": {
+          "short": "linguistic determinism",
+          "long": "a concept in linguistics that suggests that the structure and vocabulary of a language shape the thoughts and perception of its speakers, influencing their worldview and cognition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Determinisme linguistik",
+          "long": "Konsep dalam linguistik yang menunjukkan bahwa struktur dan kosa kata suatu bahasa membentuk pemikiran dan persepsi pembicaranya, memengaruhi pandangan dunia dan kognisi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354433.jpeg",
+      "simplified": "语言决定论",
+      "traditional": "語言決定論",
+      "pinyin": "yǔyán juédìng lùn"
+    },
+    {
+      "id": 354436,
+      "translation": {
+        "en": {
+          "short": "reflexivity",
+          "long": "a grammatical or semantic property of a language or construction that indicates that the subject of a verb is also the object or recipient of the action performed by the subject, creating a self-referential or reflective relationship within the sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "refleksivitas",
+          "long": "Properti tata bahasa atau semantik dari suatu bahasa atau konstruksi yang menunjukkan bahwa subjek kata kerja juga merupakan objek atau penerima tindakan yang dilakukan oleh subjek, menciptakan hubungan referensi diri atau reflektif dalam kalimat tersebut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354436.jpeg",
+      "simplified": "反身性",
+      "traditional": "反身性",
+      "pinyin": "fǎnshēn xìng"
+    },
+    {
+      "id": 354439,
+      "translation": {
+        "en": {
+          "short": "to agree",
+          "long": "(grammar) to have the same grammatical number, gender, case or person",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyetujui",
+          "long": "(tata bahasa) untuk memiliki bilangan tata bahasa, jenis kelamin, kasus atau orang yang sama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354439.jpeg",
+      "simplified": "同意",
+      "traditional": "同意",
+      "pinyin": "tóngyì"
+    },
+    {
+      "id": 354440,
+      "translation": {
+        "en": {
+          "short": "to conjugate",
+          "long": "(grammar) to show how a verb changes depending on number, person, tense, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengkonjugasikan",
+          "long": "(tata bahasa) Untuk menunjukkan bagaimana kata kerja berubah tergantung pada jumlah, orang, tegang, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354440.jpeg",
+      "simplified": "共轭",
+      "traditional": "共軛",
+      "pinyin": "gòngè"
+    },
+    {
+      "id": 354441,
+      "translation": {
+        "en": {
+          "short": "to decline",
+          "long": "(grammar) to inflect or state the different forms of a noun, pronoun or adjective according to gender, number, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menolak",
+          "long": "(Tata Bahasa) Untuk menginspirasi atau menyatakan berbagai bentuk kata benda, kata ganti atau kata sifat sesuai dengan jenis kelamin, angka, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354441.jpeg",
+      "simplified": "下降",
+      "traditional": "下降",
+      "pinyin": "xiàjiàng"
+    },
+    {
+      "id": 354442,
+      "translation": {
+        "en": {
+          "short": "to spell",
+          "long": "to write or say the letters that form a word one by one in the right order",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengeja",
+          "long": "untuk menulis atau mengatakan huruf yang membentuk kata satu per satu dalam urutan yang benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354442.jpeg",
+      "simplified": "拼写",
+      "traditional": "拼寫",
+      "pinyin": "pīnxiě"
+    },
+    {
+      "id": 354443,
+      "translation": {
+        "en": {
+          "short": "to aspirate",
+          "long": "(phonetics) to pronounce a vowel or a consonant with a strongly released breath",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk aspirasi",
+          "long": "(fonetik) untuk mengucapkan vokal atau konsonan dengan napas yang sangat dilepaskan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354443.jpeg",
+      "simplified": "吸气",
+      "traditional": "吸氣",
+      "pinyin": "xīqì"
+    },
+    {
+      "id": 354445,
+      "translation": {
+        "en": {
+          "short": "to roll",
+          "long": "(phonetics) to pronounce the /r/ sound with an alveolar trill",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berguling",
+          "long": "(fonetik) Untuk mengucapkan / r / suara dengan alveolar trill",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354445.jpeg",
+      "simplified": "滚",
+      "traditional": "滾",
+      "pinyin": "gǔn"
+    },
+    {
+      "id": 354446,
+      "translation": {
+        "en": {
+          "short": "to stress",
+          "long": "(phonetics) to utter a syllable in a word or phrase with more emphasis",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "stres",
+          "long": "(fonetik) Untuk mengucapkan suku kata dalam kata atau frasa dengan lebih banyak penekanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354446.jpeg",
+      "simplified": "强调",
+      "traditional": "強調",
+      "pinyin": "qiángdiào"
+    },
+    {
+      "id": 354447,
+      "translation": {
+        "en": {
+          "short": "to voice",
+          "long": "(phonetics) to articulate a speech sound with the vibration of the vocal cords",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyuarakan",
+          "long": "(Fonetik) Untuk mengartikulasikan suara ucapan dengan getaran pita suara",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354447.jpeg",
+      "simplified": "发出声音",
+      "traditional": "發出聲音",
+      "pinyin": "fāchū shēngyīn"
+    },
+    {
+      "id": 354448,
+      "translation": {
+        "en": {
+          "short": "to articulate",
+          "long": "to pronounce or utter something in a clear and precise way",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengartikulasikan",
+          "long": "untuk mengucapkan atau mengucapkan sesuatu dengan cara yang jelas dan tepat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354448.jpeg",
+      "simplified": "说出",
+      "traditional": "說出",
+      "pinyin": "shuōchū"
+    },
+    {
+      "id": 354449,
+      "translation": {
+        "en": {
+          "short": "to encode",
+          "long": "(linguistics) to express a concept, thought, or idea in a foreign language",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyandikan",
+          "long": "(linguistik) untuk mengekspresikan konsep, pemikiran, atau ide dalam bahasa asing",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354449.jpeg",
+      "simplified": "编码",
+      "traditional": "編碼",
+      "pinyin": "biānmǎ"
+    },
+    {
+      "id": 354453,
+      "translation": {
+        "en": {
+          "short": "to drill",
+          "long": "to learn by repetition and practice",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menggali",
+          "long": "untuk belajar dengan pengulangan dan berlatih",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354453.jpeg",
+      "simplified": "要钻",
+      "traditional": "要鑽",
+      "pinyin": "yāo zuàn"
+    },
+    {
+      "id": 354454,
+      "translation": {
+        "en": {
+          "short": "to gabble",
+          "long": "to utter words rapidly and without making sense",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengejek",
+          "long": "untuk mengucapkan kata -kata dengan cepat dan tanpa masuk akal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354454.jpeg",
+      "simplified": "数落",
+      "traditional": "數落",
+      "pinyin": "shǔluo"
+    },
+    {
+      "id": 354455,
+      "translation": {
+        "en": {
+          "short": "to stammer",
+          "long": "to speak with involuntary stops and repetitions of certain words",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk gagap",
+          "long": "untuk berbicara dengan pemberhentian dan pengulangan kata -kata tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354455.jpeg",
+      "simplified": "口吃",
+      "traditional": "口吃",
+      "pinyin": "kǒuchī"
+    },
+    {
+      "id": 354457,
+      "translation": {
+        "en": {
+          "short": "to stumble",
+          "long": "to make an error or repeated errors while speaking",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "tersandung",
+          "long": "untuk membuat kesalahan atau kesalahan berulang saat berbicara",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354457.jpeg",
+      "simplified": "绊倒",
+      "traditional": "絆倒",
+      "pinyin": "bàndǎo"
+    },
+    {
+      "id": 354458,
+      "translation": {
+        "en": {
+          "short": "to hyphenate",
+          "long": "to divide or connect by a hyphen in writing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk hyphenate",
+          "long": "untuk membagi atau terhubung dengan tanda hubung secara tertulis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354458.jpeg",
+      "simplified": "连字符",
+      "traditional": "連字符",
+      "pinyin": "liánzì fú"
+    },
+    {
+      "id": 354459,
+      "translation": {
+        "en": {
+          "short": "to punctuate",
+          "long": "to use punctuation marks in a text in order to make it more understandable",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menusuk",
+          "long": "untuk menggunakan tanda baca dalam teks untuk membuatnya lebih bisa dimengerti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354459.jpeg",
+      "simplified": "圈点",
+      "traditional": "圈點",
+      "pinyin": "quāndiǎn"
+    },
+    {
+      "id": 354460,
+      "translation": {
+        "en": {
+          "short": "to parse",
+          "long": "(grammar) to divide a sentence into its grammatical constituents, identifying the syntactic role of each part",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengurai",
+          "long": "(tata bahasa) Untuk membagi kalimat menjadi konstituen tata bahasa, mengidentifikasi peran sintaksis setiap bagian",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354460.jpeg",
+      "simplified": "解析",
+      "traditional": "解析",
+      "pinyin": "jiěxī"
+    },
+    {
+      "id": 354461,
+      "translation": {
+        "en": {
+          "short": "to quote",
+          "long": "to say the exact sentence or group of words someone else used in a movie, book, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "kutipan",
+          "long": "Untuk mengatakan kalimat yang tepat atau sekelompok kata yang digunakan orang lain dalam film, buku, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354461.jpeg",
+      "simplified": "引用",
+      "traditional": "引用",
+      "pinyin": "yǐnyòng"
+    },
+    {
+      "id": 354463,
+      "translation": {
+        "en": {
+          "short": "to elide",
+          "long": "(phonetics) to omit or leave out a vowel or a syllable in the pronunciation of a word",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk elide",
+          "long": "(fonetik) untuk menghilangkan atau meninggalkan vokal atau suku kata dalam pengucapan kata",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354463.jpeg",
+      "simplified": "消除",
+      "traditional": "消除",
+      "pinyin": "xiāochú"
+    },
+    {
+      "id": 354464,
+      "translation": {
+        "en": {
+          "short": "to infix",
+          "long": "to insert a morpheme or affix within a word, typically by placing it in the middle of a root or base form",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk infix",
+          "long": "Untuk memasukkan morfem atau membubuhkan dalam sebuah kata, biasanya dengan menempatkannya di tengah root atau bentuk dasar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/354464.jpeg",
+      "simplified": "插",
+      "traditional": "插",
+      "pinyin": "chā"
+    }
+  ]
+}

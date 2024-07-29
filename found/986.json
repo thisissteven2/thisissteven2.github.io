@@ -1,0 +1,621 @@
+{
+  "id": 986,
+  "title": {
+    "en": "Art",
+    "id": "Seni"
+  },
+  "description": {
+    "en": "Here you will learn some English words about art, such as \"symbolic\", \"ceramic\", \"print\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang seni, seperti \"simbolik\", \"keramik\", \"cetak\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 245518,
+      "translation": {
+        "en": {
+          "short": "amateur",
+          "long": "(of objects or works) lacking the precision or quality one would expect from a paid professional",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "amatir",
+          "long": "(objek atau pekerjaan) yang tidak memiliki ketepatan atau kualitas yang diharapkan dari seorang profesional berbayar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245518.jpeg",
+      "simplified": "不专业",
+      "traditional": "不專業",
+      "pinyin": "bù zhuānyè"
+    },
+    {
+      "id": 245136,
+      "translation": {
+        "en": {
+          "short": "authentic",
+          "long": "real and not a copy or counterfeit",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "autentik",
+          "long": "nyata dan bukan salinan atau palsu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245136.jpeg",
+      "simplified": "真实的",
+      "traditional": "真實的",
+      "pinyin": "zhēnshí de"
+    },
+    {
+      "id": 243173,
+      "translation": {
+        "en": {
+          "short": "decorative",
+          "long": "intended to look attractive rather than being of practical use",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dekoratif",
+          "long": "dimaksudkan agar terlihat menarik daripada digunakan secara praktis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243173.jpeg",
+      "simplified": "装饰性的",
+      "traditional": "裝飾性的",
+      "pinyin": "zhuāngshì xìng de"
+    },
+    {
+      "id": 243196,
+      "translation": {
+        "en": {
+          "short": "symbolic",
+          "long": "consisting of or employing symbols",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "simbolis",
+          "long": "terdiri dari atau menggunakan simbol",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243196.jpeg",
+      "simplified": "象征性的",
+      "traditional": "象徵性的",
+      "pinyin": "xiàngzhēng xìng de"
+    },
+    {
+      "id": 243168,
+      "translation": {
+        "en": {
+          "short": "auction house",
+          "long": "a company in the business of selling items at auction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah pelelangan",
+          "long": "Perusahaan dalam Bisnis Menjual Barang di Lelang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243168.jpeg",
+      "simplified": "拍卖场地",
+      "traditional": "拍賣場地",
+      "pinyin": "pāimài chǎngdì"
+    },
+    {
+      "id": 243169,
+      "translation": {
+        "en": {
+          "short": "bronze",
+          "long": "a statue or any other artwork made of bronze",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perunggu",
+          "long": "patung atau karya seni lain yang terbuat dari perunggu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243169.jpeg",
+      "simplified": "青铜制品（雕塑等）",
+      "traditional": "青銅製品（雕塑等）",
+      "pinyin": "qīngtóng zhìpǐn diāosù děng"
+    },
+    {
+      "id": 243172,
+      "translation": {
+        "en": {
+          "short": "ceramic",
+          "long": "an object such as a pot, bowl, etc. that is made by heating clay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keramik",
+          "long": "objek seperti pot, mangkuk, dll. Yang dibuat dengan memanaskan tanah liat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243172.jpeg",
+      "simplified": "陶瓷制品",
+      "traditional": "陶瓷製品",
+      "pinyin": "táocí zhìpǐn"
+    },
+    {
+      "id": 243170,
+      "translation": {
+        "en": {
+          "short": "canvas",
+          "long": "an oil painting done on a canvas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanvas",
+          "long": "Lukisan minyak yang dilakukan di atas kanvas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243170.jpeg",
+      "simplified": "绘画（画布上）",
+      "traditional": "繪畫（畫布上）",
+      "pinyin": "huìhuà huàbù shǎng"
+    },
+    {
+      "id": 243181,
+      "translation": {
+        "en": {
+          "short": "mural",
+          "long": "a large painting done on a wall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan dinding",
+          "long": "Lukisan besar yang dilakukan di dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243181.jpeg",
+      "simplified": "壁画",
+      "traditional": "壁畫",
+      "pinyin": "bìhuà"
+    },
+    {
+      "id": 243182,
+      "translation": {
+        "en": {
+          "short": "oil painting",
+          "long": "the art or technique of painting with oil paint",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lukisan cat minyak",
+          "long": "seni atau teknik melukis dengan cat minyak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243182.jpeg",
+      "simplified": "油画",
+      "traditional": "油畫",
+      "pinyin": "yóuhuà"
+    },
+    {
+      "id": 243193,
+      "translation": {
+        "en": {
+          "short": "silhouette",
+          "long": "a drawing that depicts the outline of someone or something that is in a single black color and against a light background, often from the side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bayangan hitam",
+          "long": "Gambar yang menggambarkan garis besar seseorang atau sesuatu yang dalam warna hitam tunggal dan dengan latar belakang cahaya, sering kali dari samping",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243193.jpeg",
+      "simplified": "剪影（艺术）",
+      "traditional": "剪影（藝術）",
+      "pinyin": "jiǎnyǐng yìshù"
+    },
+    {
+      "id": 243194,
+      "translation": {
+        "en": {
+          "short": "still life",
+          "long": "a painting or drawing, representing objects that do not move, such as flowers, glassware, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masih hidup",
+          "long": "Lukisan atau gambar, mewakili benda yang tidak bergerak, seperti bunga, gelas, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243194.jpeg",
+      "simplified": "静物",
+      "traditional": "靜物",
+      "pinyin": "jìngwù"
+    },
+    {
+      "id": 243186,
+      "translation": {
+        "en": {
+          "short": "print",
+          "long": "a picture or design created by pressing an engraved surface onto a paper or any other surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencetak",
+          "long": "gambar atau desain yang dibuat dengan menekan permukaan terukir ke atas kertas atau permukaan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243186.jpeg",
+      "simplified": "照相印刷",
+      "traditional": "照相印刷",
+      "pinyin": "zhàoxiàng yìnshuā"
+    },
+    {
+      "id": 243174,
+      "translation": {
+        "en": {
+          "short": "depth",
+          "long": "the characteristic that gives an artwork or picture a three-dimensional aspect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kedalaman",
+          "long": "Karakteristik yang memberikan karya seni atau gambar aspek tiga dimensi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243174.jpeg",
+      "simplified": "深度（3D 图片）",
+      "traditional": "深度（3D 圖片）",
+      "pinyin": "shēndù túpiàn"
+    },
+    {
+      "id": 243175,
+      "translation": {
+        "en": {
+          "short": "finish",
+          "long": "the last layer that is put on the surface of something as a way of protection or decoration or the substance that does this",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyelesaikan",
+          "long": "lapisan terakhir yang diletakkan di permukaan sesuatu sebagai cara perlindungan atau dekorasi atau zat yang melakukan ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243175.jpeg",
+      "simplified": "闪亮涂层",
+      "traditional": "閃亮塗層",
+      "pinyin": "shǎnliàng túcéng"
+    },
+    {
+      "id": 243176,
+      "translation": {
+        "en": {
+          "short": "harmony",
+          "long": "a pleasing combination of things in a way that forms a coherent whole",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "harmoni",
+          "long": "kombinasi hal -hal yang menyenangkan dengan cara yang membentuk keseluruhan yang koheren",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243176.jpeg",
+      "simplified": "和谐",
+      "traditional": "和諧",
+      "pinyin": "héxié"
+    },
+    {
+      "id": 243184,
+      "translation": {
+        "en": {
+          "short": "patron",
+          "long": "an individual who financially supports an artist, charity, cause, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelindung",
+          "long": "Seorang individu yang secara finansial mendukung seniman, amal, penyebab, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243184.jpeg",
+      "simplified": "赞助商（财务）",
+      "traditional": "贊助商（財務）",
+      "pinyin": "zànzhù shāng cáiwù"
+    },
+    {
+      "id": 243191,
+      "translation": {
+        "en": {
+          "short": "sculptor",
+          "long": "someone who makes works of art by carving or shaping wood, clay, metal, etc. into different forms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pematung",
+          "long": "seseorang yang membuat karya seni dengan mengukir atau membentuk kayu, tanah liat, logam, dll. menjadi berbagai bentuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243191.jpeg",
+      "simplified": "雕塑家",
+      "traditional": "雕塑家",
+      "pinyin": "diāosù jiā"
+    },
+    {
+      "id": 243183,
+      "translation": {
+        "en": {
+          "short": "palette",
+          "long": "a thin oval board that a painter uses to mix colors and hold pigments on, with a hole for the thumb to go through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "palet",
+          "long": "papan oval tipis yang digunakan pelukis untuk mencampur warna dan menahan pigmen, dengan lubang untuk ibu jari untuk dilalui",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243183.jpeg",
+      "simplified": "绘画调色板",
+      "traditional": "繪畫調色板",
+      "pinyin": "huìhuà tiáosè bǎn"
+    },
+    {
+      "id": 243188,
+      "translation": {
+        "en": {
+          "short": "reproduction",
+          "long": "the act or process of making a copy of an artistic or literary piece, a document, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reproduksi",
+          "long": "Tindakan atau proses membuat salinan karya artistik atau sastra, dokumen, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243188.jpeg",
+      "simplified": "艺术再现",
+      "traditional": "藝術再現",
+      "pinyin": "yìshù zàixiàn"
+    },
+    {
+      "id": 243189,
+      "translation": {
+        "en": {
+          "short": "restoration",
+          "long": "the act of repairing something such as an artwork, building, etc. to be in its original state",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "restorasi",
+          "long": "tindakan memperbaiki sesuatu seperti karya seni, bangunan, dll. Untuk berada dalam keadaan aslinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243189.jpeg",
+      "simplified": "恢复",
+      "traditional": "恢復",
+      "pinyin": "huīfù"
+    },
+    {
+      "id": 243197,
+      "translation": {
+        "en": {
+          "short": "viewpoint",
+          "long": "a certain way of thinking about a subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut pandang",
+          "long": "cara berpikir tertentu tentang suatu subjek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243197.jpeg",
+      "simplified": "观点",
+      "traditional": "觀點",
+      "pinyin": "guāndiǎn"
+    },
+    {
+      "id": 243198,
+      "translation": {
+        "en": {
+          "short": "watercolor",
+          "long": "a painting that is created using paints that are water-soluble",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat air",
+          "long": "Lukisan yang dibuat menggunakan cat yang larut dalam air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243198.jpeg",
+      "simplified": "水彩绘画",
+      "traditional": "水彩繪畫",
+      "pinyin": "shuǐcǎi huìhuà"
+    },
+    {
+      "id": 243177,
+      "translation": {
+        "en": {
+          "short": "impressionism",
+          "long": "a movement in painting originated in 19th-century France that uses light and color in a way that gives an impression rather than a detailed representation of the subject",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "impresionisme",
+          "long": "Gerakan dalam lukisan berasal dari Prancis abad ke-19 yang menggunakan cahaya dan warna dengan cara yang memberi kesan daripada representasi terperinci dari subjek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243177.jpeg",
+      "simplified": "印象派（艺术风格）",
+      "traditional": "印象派（藝術風格）",
+      "pinyin": "yìnxiàng pài yìshù fēnggé"
+    },
+    {
+      "id": 243179,
+      "translation": {
+        "en": {
+          "short": "modernism",
+          "long": "a style or movement in art, literature, and architecture developed in the beginning of 20th century that greatly differs from ones that are traditional",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modernisme",
+          "long": "gaya atau gerakan dalam seni, sastra, dan arsitektur yang dikembangkan pada awal abad ke -20 yang sangat berbeda dari yang tradisional",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243179.jpeg",
+      "simplified": "近世思想",
+      "traditional": "近世思想",
+      "pinyin": "jìn Shì sīxiǎng"
+    },
+    {
+      "id": 243187,
+      "translation": {
+        "en": {
+          "short": "realism",
+          "long": "a literary or artistic style that gives a lifelike representation of people, events, and objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "realisme",
+          "long": "Gaya sastra atau artistik yang memberikan representasi orang, acara, dan objek yang hidup seumur hidup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243187.jpeg",
+      "simplified": "写实派",
+      "traditional": "寫實派",
+      "pinyin": "xiěshí pā"
+    },
+    {
+      "id": 243190,
+      "translation": {
+        "en": {
+          "short": "romanticism",
+          "long": "a literary and artistic movement that was prevalent in the late 18th century, which emphasized the significance of imagination, subjective feelings, and a return to nature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Romantisisme",
+          "long": "Gerakan sastra dan artistik yang lazim di akhir abad ke -18, yang menekankan pentingnya imajinasi, perasaan subyektif, dan kembali ke alam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243190.jpeg",
+      "simplified": "浪漫主义",
+      "traditional": "浪漫主義",
+      "pinyin": "làngmàn zhǔ yì"
+    },
+    {
+      "id": 243195,
+      "translation": {
+        "en": {
+          "short": "surrealism",
+          "long": "a 20th-century style of art and literature in which unrelated events or images are combined in an unusual way to represent the experiences of the mind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "surrealisme",
+          "long": "Gaya seni dan sastra abad ke-20 di mana peristiwa atau gambar yang tidak terkait digabungkan dengan cara yang tidak biasa untuk mewakili pengalaman pikiran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243195.jpeg",
+      "simplified": "超现实主义（艺术风格）",
+      "traditional": "超現實主義（藝術風格）",
+      "pinyin": "chāoxiàn shí zhǔ yì yìshù fēnggé"
+    },
+    {
+      "id": 243171,
+      "translation": {
+        "en": {
+          "short": "to carve",
+          "long": "to shape or create by cutting or sculpting, often using tools or a sharp instrument",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengukir",
+          "long": "untuk membentuk atau membuat dengan memotong atau memahat, sering menggunakan alat atau instrumen yang tajam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243171.jpeg",
+      "simplified": "雕刻",
+      "traditional": "雕刻",
+      "pinyin": "diāokè"
+    },
+    {
+      "id": 243180,
+      "translation": {
+        "en": {
+          "short": "to mold",
+          "long": "to give a soft substance a particular shape or form by placing it into a mold or pressing it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membentuk",
+          "long": "untuk memberikan zat lembut bentuk atau bentuk tertentu dengan menempatkannya ke dalam cetakan atau menekannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243180.jpeg",
+      "simplified": "塑造某物",
+      "traditional": "塑造某物",
+      "pinyin": "sùzào mǒuwù"
+    },
+    {
+      "id": 243185,
+      "translation": {
+        "en": {
+          "short": "to pose",
+          "long": "to maintain a specific posture in order to be photographed or painted",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berpose",
+          "long": "untuk mempertahankan postur spesifik untuk difoto atau dicat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243185.jpeg",
+      "simplified": "摆姿势",
+      "traditional": "擺姿勢",
+      "pinyin": "bǎi zīshì"
+    },
+    {
+      "id": 243192,
+      "translation": {
+        "en": {
+          "short": "to shade",
+          "long": "to darken part of a picture or drawing using pencils, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menaungi",
+          "long": "Untuk menggelapkan bagian dari gambar atau gambar menggunakan pensil, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/243192.jpeg",
+      "simplified": "翳",
+      "traditional": "翳",
+      "pinyin": "yì"
+    }
+  ]
+}

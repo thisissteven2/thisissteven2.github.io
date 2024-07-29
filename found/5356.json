@@ -1,0 +1,963 @@
+{
+  "id": 5356,
+  "title": {
+    "en": "Building Parts",
+    "id": "Bagian bangunan"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to building parts such as \"roof\", \"corridor\", and \"gate\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan bagian bangunan seperti \"atap\", \"koridor\", dan \"gerbang\"."
+  },
+  "cards": [
+    {
+      "id": 382142,
+      "translation": {
+        "en": {
+          "short": "roof",
+          "long": "the structure that creates the outer top part of a vehicle, building, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "atap",
+          "long": "Struktur yang menciptakan bagian atas kendaraan, bangunan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382142.jpeg",
+      "simplified": "天花板",
+      "traditional": "天花板",
+      "pinyin": "tiānhuā bǎn"
+    },
+    {
+      "id": 382143,
+      "translation": {
+        "en": {
+          "short": "wall",
+          "long": "an upright structure, usually made of brick, concrete, or stone that is made to divide, protect, or surround a place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dinding",
+          "long": "Struktur tegak, biasanya terbuat dari batu bata, beton, atau batu yang dibuat untuk membagi, melindungi, atau mengelilingi suatu tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382143.jpeg",
+      "simplified": "壁",
+      "traditional": "壁",
+      "pinyin": "bì"
+    },
+    {
+      "id": 382144,
+      "translation": {
+        "en": {
+          "short": "window",
+          "long": "a space in a wall or vehicle that is made of glass and we use to look outside or get some fresh air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jendela",
+          "long": "Ruang di dinding atau kendaraan yang terbuat dari kaca dan kami menggunakan untuk melihat ke luar atau mendapatkan udara segar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382144.jpeg",
+      "simplified": "窗口",
+      "traditional": "窗口",
+      "pinyin": "chuāngkǒu"
+    },
+    {
+      "id": 382145,
+      "translation": {
+        "en": {
+          "short": "door",
+          "long": "the thing we move to enter, exit, or access a place such as a vehicle, building, room, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu",
+          "long": "Hal yang kami pindahkan untuk masuk, keluar, atau mengakses tempat seperti kendaraan, bangunan, kamar, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382145.jpeg",
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "Mén"
+    },
+    {
+      "id": 382146,
+      "translation": {
+        "en": {
+          "short": "floor",
+          "long": "the bottom of a room that we walk on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lantai",
+          "long": "bagian bawah ruangan tempat kami berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382146.jpeg",
+      "simplified": "地面",
+      "traditional": "地面",
+      "pinyin": "dìmiàn"
+    },
+    {
+      "id": 382147,
+      "translation": {
+        "en": {
+          "short": "bedroom",
+          "long": "a room we use for sleeping",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar tidur",
+          "long": "Kamar yang kami gunakan untuk tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382147.jpeg",
+      "simplified": "卧室",
+      "traditional": "臥室",
+      "pinyin": "wòshì"
+    },
+    {
+      "id": 382148,
+      "translation": {
+        "en": {
+          "short": "living room",
+          "long": "the part of a house where people spend time together talking, watching television, relaxing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang tamu",
+          "long": "Bagian dari rumah di mana orang menghabiskan waktu bersama berbicara, menonton televisi, santai, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382148.jpeg",
+      "simplified": "起居室",
+      "traditional": "起居室",
+      "pinyin": "qǐjū shì"
+    },
+    {
+      "id": 382149,
+      "translation": {
+        "en": {
+          "short": "kitchen",
+          "long": "the place in a building or home where we make food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dapur",
+          "long": "Tempat di gedung atau rumah tempat kami membuat makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382149.jpeg",
+      "simplified": "厨房",
+      "traditional": "廚房",
+      "pinyin": "chúfáng"
+    },
+    {
+      "id": 382150,
+      "translation": {
+        "en": {
+          "short": "bathroom",
+          "long": "a room that has a toilet and a sink, and often times a bathtub or a shower as well",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar mandi",
+          "long": "Kamar yang memiliki toilet dan wastafel, dan sering kali bak mandi atau pancuran juga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382150.jpeg",
+      "simplified": "浴室",
+      "traditional": "浴室",
+      "pinyin": "yùshì"
+    },
+    {
+      "id": 382151,
+      "translation": {
+        "en": {
+          "short": "dining room",
+          "long": "a room that we use to eat meals in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang makan",
+          "long": "Kamar yang kami gunakan untuk makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382151.jpeg",
+      "simplified": "饭厅",
+      "traditional": "飯廳",
+      "pinyin": "fàntīng"
+    },
+    {
+      "id": 382152,
+      "translation": {
+        "en": {
+          "short": "laundry room",
+          "long": "a dedicated space for washing, drying, folding, and ironing clothes and linens, typically equipped with a washer, dryer, ironing board, and storage cabinets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang cuci baju",
+          "long": "Ruang khusus untuk mencuci, mengeringkan, melipat, dan menyetrika pakaian dan linen, biasanya dilengkapi dengan mesin cuci, pengering, papan setrika, dan lemari penyimpanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382152.jpeg",
+      "simplified": "洗衣房",
+      "traditional": "洗衣房",
+      "pinyin": "xǐyī fáng"
+    },
+    {
+      "id": 382153,
+      "translation": {
+        "en": {
+          "short": "ceiling",
+          "long": "the highest part of a room, vehicle, etc. that covers it from the inside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "langit-langit",
+          "long": "Bagian tertinggi dari ruangan, kendaraan, dll. Yang menutupinya dari dalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382153.jpeg",
+      "simplified": "天花板",
+      "traditional": "天花板",
+      "pinyin": "tiānhuā bǎn"
+    },
+    {
+      "id": 382154,
+      "translation": {
+        "en": {
+          "short": "chimney",
+          "long": "a channel or passage that lets the smoke from a fire pass through and get out from the roof of a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cerobong asap",
+          "long": "saluran atau bagian yang memungkinkan asap dari api lewat dan keluar dari atap bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382154.jpeg",
+      "simplified": "烟囱",
+      "traditional": "煙囪",
+      "pinyin": "yāncōng"
+    },
+    {
+      "id": 382155,
+      "translation": {
+        "en": {
+          "short": "stairs",
+          "long": "a series of steps or risers designed for ascending or descending between different levels or floors in a building or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangga",
+          "long": "serangkaian langkah atau riser yang dirancang untuk naik atau turun antara berbagai level atau lantai di dalam bangunan atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382155.jpeg",
+      "simplified": "楼梯",
+      "traditional": "樓梯",
+      "pinyin": "lóutī"
+    },
+    {
+      "id": 382156,
+      "translation": {
+        "en": {
+          "short": "balcony",
+          "long": "a platform above the ground level and on the outside wall of a building that we can get into from the upper floor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "balkon",
+          "long": "Platform di atas permukaan tanah dan di dinding luar sebuah bangunan yang bisa kita masuki dari lantai atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382156.jpeg",
+      "simplified": "阳台",
+      "traditional": "陽台",
+      "pinyin": "yángtái"
+    },
+    {
+      "id": 382157,
+      "translation": {
+        "en": {
+          "short": "porch",
+          "long": "a structure with a roof and no walls at the entrance of a house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beranda",
+          "long": "struktur dengan atap dan tanpa dinding di pintu masuk rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382157.jpeg",
+      "simplified": "门廊",
+      "traditional": "門廊",
+      "pinyin": "ménláng"
+    },
+    {
+      "id": 382158,
+      "translation": {
+        "en": {
+          "short": "terrace",
+          "long": "a flat paved area, particularly one next to a building or restaurant, where people can sit, eat, relax, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teras",
+          "long": "Area beraspal datar, terutama di sebelah gedung atau restoran, tempat orang bisa duduk, makan, bersantai, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382158.jpeg",
+      "simplified": "阳台",
+      "traditional": "陽台",
+      "pinyin": "yángtái"
+    },
+    {
+      "id": 382159,
+      "translation": {
+        "en": {
+          "short": "hall",
+          "long": "a passage that is inside a house or building with rooms on both side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aula",
+          "long": "Sebuah bagian yang ada di dalam rumah atau bangunan dengan kamar di kedua sisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382159.jpeg",
+      "simplified": "门厅",
+      "traditional": "門廳",
+      "pinyin": "méntīng"
+    },
+    {
+      "id": 382160,
+      "translation": {
+        "en": {
+          "short": "corridor",
+          "long": "a long narrow way in a building that has doors on either side opening into different rooms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koridor",
+          "long": "Jalan sempit yang panjang di sebuah gedung yang memiliki pintu di kedua sisi membuka ke kamar yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382160.jpeg",
+      "simplified": "https://en.wikipedia.org/wiki/Hallway",
+      "traditional": "HTTPS://恩.Wikipedia.org/wiki/hallway",
+      "pinyin": "w w w"
+    },
+    {
+      "id": 382161,
+      "translation": {
+        "en": {
+          "short": "attic",
+          "long": "an area or room directly under the roof of a house, typically used for storage or as an additional living area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "loteng",
+          "long": "Area atau kamar langsung di bawah atap rumah, biasanya digunakan untuk penyimpanan atau sebagai ruang tamu tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382161.jpeg",
+      "simplified": "阁楼",
+      "traditional": "閣樓",
+      "pinyin": "gélóu"
+    },
+    {
+      "id": 382162,
+      "translation": {
+        "en": {
+          "short": "basement",
+          "long": "an area or room in a house or building that is partially or completely below the ground level",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Basement",
+          "long": "Area atau kamar di rumah atau bangunan yang sebagian atau sepenuhnya di bawah permukaan tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382162.jpeg",
+      "simplified": "地下室",
+      "traditional": "地下室",
+      "pinyin": "dìxià shì"
+    },
+    {
+      "id": 382163,
+      "translation": {
+        "en": {
+          "short": "garage",
+          "long": "a building, usually next or attached to a house, in which cars or other vehicles are kept",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garasi",
+          "long": "Sebuah bangunan, biasanya di sebelah atau melekat pada rumah, di mana mobil atau kendaraan lain disimpan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382163.jpeg",
+      "simplified": "车库",
+      "traditional": "車庫",
+      "pinyin": "chēkù"
+    },
+    {
+      "id": 382164,
+      "translation": {
+        "en": {
+          "short": "gutter",
+          "long": "an open pipe that is attached beneath the edge of a building roof and carries rainwater away",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selokan",
+          "long": "Pipa terbuka yang terpasang di bawah tepi atap bangunan dan membawa air hujan pergi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382164.jpeg",
+      "simplified": "屋顶天沟",
+      "traditional": "屋頂天溝",
+      "pinyin": "wūdǐng tiāngōu"
+    },
+    {
+      "id": 382165,
+      "translation": {
+        "en": {
+          "short": "column",
+          "long": "a vertical structural element, often made of stone, that supports the weight of the building above it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolom",
+          "long": "elemen struktural vertikal, sering terbuat dari batu, yang mendukung berat bangunan di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382165.jpeg",
+      "simplified": "柱",
+      "traditional": "柱",
+      "pinyin": "zhù"
+    },
+    {
+      "id": 382166,
+      "translation": {
+        "en": {
+          "short": "handrail",
+          "long": "a supportive rail fixed to a staircase or walkway, providing a handhold for stability and safety while ascending or descending",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pegangan tangan",
+          "long": "kereta api pendukung yang ditetapkan ke tangga atau jalan setapak, menyediakan pegangan untuk stabilitas dan keamanan saat naik atau turun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382166.jpeg",
+      "simplified": "扶手",
+      "traditional": "扶手",
+      "pinyin": "fúshǒu"
+    },
+    {
+      "id": 382167,
+      "translation": {
+        "en": {
+          "short": "skylight",
+          "long": "a window installed on a roof or ceiling that allows natural light to enter a room from above",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Skylight",
+          "long": "Jendela yang dipasang di atap atau langit -langit yang memungkinkan cahaya alami memasuki ruangan dari atas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382167.jpeg",
+      "simplified": "天空之光",
+      "traditional": "天空之光",
+      "pinyin": "tiānkōng zhī guāng"
+    },
+    {
+      "id": 382168,
+      "translation": {
+        "en": {
+          "short": "cellar",
+          "long": "an underground storage space or room, typically found in a building, used for storing food, wine, or other items that require a cool and dark environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gudang di bawah tanah",
+          "long": "ruang penyimpanan atau ruang penyimpanan bawah tanah, biasanya ditemukan di sebuah bangunan, digunakan untuk menyimpan makanan, anggur, atau barang -barang lain yang membutuhkan lingkungan yang sejuk dan gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382168.jpeg",
+      "simplified": "地窖",
+      "traditional": "地窖",
+      "pinyin": "dìjiào"
+    },
+    {
+      "id": 382169,
+      "translation": {
+        "en": {
+          "short": "utility",
+          "long": "a service that is provided to the public, such as electricity, water, or gas, which is used in daily life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kegunaan",
+          "long": "Layanan yang disediakan untuk umum, seperti listrik, air, atau gas, yang digunakan dalam kehidupan sehari -hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382169.jpeg",
+      "simplified": "共用事业",
+      "traditional": "共用事業",
+      "pinyin": "gòngyòng shìyè"
+    },
+    {
+      "id": 382170,
+      "translation": {
+        "en": {
+          "short": "lobby",
+          "long": "the area just inside the entrance of a public building such as a hotel, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lobi",
+          "long": "Area yang tepat di dalam pintu masuk gedung publik seperti hotel, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382170.jpeg",
+      "simplified": "游说",
+      "traditional": "遊說",
+      "pinyin": "yóushuì"
+    },
+    {
+      "id": 382171,
+      "translation": {
+        "en": {
+          "short": "trash chute",
+          "long": "a vertical or inclined passage in a building that allows for the convenient disposal of waste materials by dropping them into a designated collection area or dumpster",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampah sampah",
+          "long": "Sebuah bagian vertikal atau miring dalam bangunan yang memungkinkan pembuangan bahan limbah yang nyaman dengan memasukkannya ke area pengumpulan atau tempat sampah yang ditunjuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382171.jpeg",
+      "simplified": "垃圾槽",
+      "traditional": "垃圾槽",
+      "pinyin": "lājī cáo"
+    },
+    {
+      "id": 382172,
+      "translation": {
+        "en": {
+          "short": "elevator",
+          "long": "a box-like device that moves up and down and is used to get to the different levels of a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangga berjalan",
+          "long": "Perangkat seperti kotak yang bergerak ke atas dan ke bawah dan digunakan untuk mencapai berbagai tingkat bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382172.jpeg",
+      "simplified": "电梯",
+      "traditional": "電梯",
+      "pinyin": "diàntī"
+    },
+    {
+      "id": 382173,
+      "translation": {
+        "en": {
+          "short": "story",
+          "long": "a level or floor of a building or structure, typically with a horizontal division that separates it from other levels, often used to define the height or number of floors in a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cerita",
+          "long": "Level atau lantai bangunan atau struktur, biasanya dengan divisi horizontal yang memisahkannya dari level lain, sering digunakan untuk menentukan tinggi atau jumlah lantai di gedung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382173.jpeg",
+      "simplified": "故事",
+      "traditional": "故事",
+      "pinyin": "gùshì"
+    },
+    {
+      "id": 382174,
+      "translation": {
+        "en": {
+          "short": "arch",
+          "long": "a curved symmetrical structure that supports the weight above it, used in bridges or buildings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lengkungan",
+          "long": "Struktur simetris melengkung yang menopang bobot di atasnya, digunakan dalam jembatan atau bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382174.jpeg",
+      "simplified": "弧形结构",
+      "traditional": "弧形結構",
+      "pinyin": "húxíng jiégòu"
+    },
+    {
+      "id": 382175,
+      "translation": {
+        "en": {
+          "short": "plumbing system",
+          "long": "a network of pipes, fixtures, valves, and other components that work together to supply and distribute water, as well as remove waste and sewage, within a building or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sistem Plumbing",
+          "long": "jaringan pipa, perlengkapan, katup, dan komponen lain yang bekerja bersama untuk memasok dan mendistribusikan air, serta menghilangkan limbah dan limbah, di dalam bangunan atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382175.jpeg",
+      "simplified": "管道系统",
+      "traditional": "管道系統",
+      "pinyin": "guǎndào xìtǒng"
+    },
+    {
+      "id": 382176,
+      "translation": {
+        "en": {
+          "short": "fence",
+          "long": "a structure like a wall, made of wire, wood, etc. that is placed around an area or a piece of land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pagar",
+          "long": "Struktur seperti dinding, terbuat dari kawat, kayu, dll. yang ditempatkan di sekitar area atau sebidang tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382176.jpeg",
+      "simplified": "篱笆",
+      "traditional": "籬笆",
+      "pinyin": "líba"
+    },
+    {
+      "id": 382177,
+      "translation": {
+        "en": {
+          "short": "gate",
+          "long": "the part of a fence or wall outside a building that we can open and close to enter or leave a place",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerbang",
+          "long": "bagian dari pagar atau dinding di luar gedung yang dapat kita buka dan dekat untuk masuk atau meninggalkan tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382177.jpeg",
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "Mén"
+    },
+    {
+      "id": 382178,
+      "translation": {
+        "en": {
+          "short": "entrance",
+          "long": "an opening like a door, gate, or passage that we can use to enter a building,  room, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu masuk",
+          "long": "Pembukaan seperti pintu, gerbang, atau bagian yang dapat kita gunakan untuk memasuki bangunan, kamar, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382178.jpeg",
+      "simplified": "入口",
+      "traditional": "入口",
+      "pinyin": "rùkǒu"
+    },
+    {
+      "id": 382179,
+      "translation": {
+        "en": {
+          "short": "doorway",
+          "long": "the area around the door at the entrance to a house, room, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu keluar masuk",
+          "long": "Area di sekitar pintu di pintu masuk ke rumah, kamar, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382179.jpeg",
+      "simplified": "主门周围的区域",
+      "traditional": "主門周圍的區域",
+      "pinyin": "zhǔ Mén zhōuwéi de qūyù"
+    },
+    {
+      "id": 382180,
+      "translation": {
+        "en": {
+          "short": "emergency exit",
+          "long": "a special way used to exit a building, car, etc. when a problem happens",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu darurat",
+          "long": "Cara khusus yang digunakan untuk keluar dari gedung, mobil, dll. Saat masalah terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382180.jpeg",
+      "simplified": "紧急出口",
+      "traditional": "緊急出口",
+      "pinyin": "jǐnjí chūkǒu"
+    },
+    {
+      "id": 382181,
+      "translation": {
+        "en": {
+          "short": "walkway",
+          "long": "a path for walking, typically built outdoors and above the ground level",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gang",
+          "long": "jalan untuk berjalan, biasanya dibangun di luar ruangan dan di atas permukaan tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382181.jpeg",
+      "simplified": "蹊",
+      "traditional": "蹊",
+      "pinyin": "qī"
+    },
+    {
+      "id": 382182,
+      "translation": {
+        "en": {
+          "short": "yard",
+          "long": "the land joined to our house where we can grow grass, flowers, and other plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman",
+          "long": "Tanah bergabung dengan rumah kami di mana kami dapat menanam rumput, bunga, dan tanaman lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382182.jpeg",
+      "simplified": "房屋花园",
+      "traditional": "房屋花園",
+      "pinyin": "fángwū huāyuán"
+    },
+    {
+      "id": 382183,
+      "translation": {
+        "en": {
+          "short": "facade",
+          "long": "the front of a building, particularly one that is large and has an elegant appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tatapan",
+          "long": "Bagian depan bangunan, terutama yang besar dan memiliki penampilan yang elegan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382183.jpeg",
+      "simplified": "立面（建筑）",
+      "traditional": "立面（建築）",
+      "pinyin": "Lì miàn jiànzhù"
+    },
+    {
+      "id": 382184,
+      "translation": {
+        "en": {
+          "short": "dome",
+          "long": "a building's roof that is rounded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubah",
+          "long": "atap bangunan yang bulat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382184.jpeg",
+      "simplified": "拱顶",
+      "traditional": "拱頂",
+      "pinyin": "gǒngdǐng"
+    },
+    {
+      "id": 382185,
+      "translation": {
+        "en": {
+          "short": "doorstep",
+          "long": "a small step in front of the main door of a building or house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ambang pintu",
+          "long": "Langkah kecil di depan pintu utama sebuah bangunan atau rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382185.jpeg",
+      "simplified": "通往前门的台阶",
+      "traditional": "通往前門的台階",
+      "pinyin": "tōngwǎng Qiánmén de táijiē"
+    },
+    {
+      "id": 382186,
+      "translation": {
+        "en": {
+          "short": "fireplace",
+          "long": "a space or place in a wall for building a fire in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perapian",
+          "long": "ruang atau tempat di dinding untuk membangun api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382186.jpeg",
+      "simplified": "壁挂式壁炉",
+      "traditional": "壁掛式壁爐",
+      "pinyin": "bìguà shì bìlú"
+    },
+    {
+      "id": 382187,
+      "translation": {
+        "en": {
+          "short": "light switch",
+          "long": "an electrical device that controls the flow of electricity to a light fixture, allowing users to turn the light on or off",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saklar lampu",
+          "long": "Perangkat listrik yang mengontrol aliran listrik ke lampu, memungkinkan pengguna untuk menyalakan atau mematikan lampu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382187.jpeg",
+      "simplified": "电灯开关",
+      "traditional": "電燈開關",
+      "pinyin": "diàndēng kāiguān"
+    },
+    {
+      "id": 382188,
+      "translation": {
+        "en": {
+          "short": "boiler room",
+          "long": "a room in a ship or building, which is equipped with a heating device",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang kamar ketel",
+          "long": "Kamar di kapal atau gedung, yang dilengkapi dengan perangkat pemanas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382188.jpeg",
+      "simplified": "锅炉房",
+      "traditional": "鍋爐房",
+      "pinyin": "guōlú Fáng"
+    },
+    {
+      "id": 382189,
+      "translation": {
+        "en": {
+          "short": "central heating",
+          "long": "a system that provides a building with warm water and temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemanas sentral",
+          "long": "Sistem yang menyediakan bangunan dengan air hangat dan suhu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382189.jpeg",
+      "simplified": "中央供暖系统",
+      "traditional": "中央供暖系統",
+      "pinyin": "zhōngyāng gōngnuǎn xìtǒng"
+    },
+    {
+      "id": 382921,
+      "translation": {
+        "en": {
+          "short": "deck",
+          "long": "a platform or floor that has a design that looks like a ship's deck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kartu",
+          "long": "platform atau lantai yang memiliki desain yang terlihat seperti dek kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382921.jpeg",
+      "simplified": "甲板",
+      "traditional": "甲板",
+      "pinyin": "jiǎbǎn"
+    },
+    {
+      "id": 382922,
+      "translation": {
+        "en": {
+          "short": "patio",
+          "long": "an outdoor area with paved floor belonging to a house used for sitting, relaxing or eating in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teras",
+          "long": "Area luar ruangan dengan lantai beraspal milik rumah yang digunakan untuk duduk, bersantai atau makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/382922.jpeg",
+      "simplified": "露台",
+      "traditional": "露台",
+      "pinyin": "lùtái"
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "id": 2481,
+  "title": {
+    "en": "Medical Supplies",
+    "id": "Suplai medis"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to medical supplies, such as \"catheter\", \"plaster cast\", and \"gown\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan persediaan medis, seperti \"kateter\", \"gips plester\", dan \"gaun\"."
+  },
+  "cards": [
+    {
+      "id": 298559,
+      "translation": {
+        "en": {
+          "short": "catheter",
+          "long": "a flexible tube inserted into one's bladder, to drain and collect urine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kateter",
+          "long": "tabung fleksibel yang dimasukkan ke dalam kandung kemih, untuk menguras dan mengumpulkan urin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298559.jpeg",
+      "simplified": "导管",
+      "traditional": "導管",
+      "pinyin": "dǎoguǎn"
+    },
+    {
+      "id": 298560,
+      "translation": {
+        "en": {
+          "short": "drain",
+          "long": "a tube that removes fluids from wounds or body cavities to aid healing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengeringkan",
+          "long": "Tabung yang menghilangkan cairan dari luka atau rongga tubuh untuk membantu penyembuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298560.jpeg",
+      "simplified": "流走",
+      "traditional": "流走",
+      "pinyin": "liú zǒu"
+    },
+    {
+      "id": 298561,
+      "translation": {
+        "en": {
+          "short": "bandage",
+          "long": "a piece of cloth that is put around a wound to prevent infections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perban",
+          "long": "sepotong kain yang diletakkan di sekitar luka untuk mencegah infeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298561.jpeg",
+      "simplified": "绷带",
+      "traditional": "繃帶",
+      "pinyin": "bēngdài"
+    },
+    {
+      "id": 298570,
+      "translation": {
+        "en": {
+          "short": "Band-Aid",
+          "long": "a small sticky strip used to cover and protect an injuriy, typically a cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pembalut luka",
+          "long": "strip lengket kecil yang digunakan untuk menutup dan melindungi cedera, biasanya potongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298570.jpeg",
+      "simplified": "创可贴",
+      "traditional": "OK繃",
+      "pinyin": "chuāngkě tiē"
+    },
+    {
+      "id": 298576,
+      "translation": {
+        "en": {
+          "short": "cast",
+          "long": "a shell, made of plaster or fiberglass, that surrounds anatomical structures in order to stabilize and protect them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemeran",
+          "long": "cangkang, terbuat dari plester atau fiberglass, yang mengelilingi struktur anatomi untuk menstabilkan dan melindunginya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298576.jpeg",
+      "simplified": "铸件",
+      "traditional": "鑄件",
+      "pinyin": "zhùjiàn"
+    },
+    {
+      "id": 298584,
+      "translation": {
+        "en": {
+          "short": "compress",
+          "long": "a soft pad applied with pressure for different healing purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kompres",
+          "long": "bantalan lunak diterapkan dengan tekanan untuk tujuan penyembuhan yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298584.jpeg",
+      "simplified": "压缩",
+      "traditional": "壓縮",
+      "pinyin": "yāsuō"
+    },
+    {
+      "id": 298587,
+      "translation": {
+        "en": {
+          "short": "crutch",
+          "long": "one of a pair of sticks that people with movement difficulties put under their arms to help them walk or stand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kruk",
+          "long": "Salah satu dari sepasang tongkat yang dialami orang -orang dengan kesulitan gerakan di bawah pelukan mereka untuk membantu mereka berjalan atau berdiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298587.jpeg",
+      "simplified": "拐杖",
+      "traditional": "拐杖",
+      "pinyin": "guǎizhàng"
+    },
+    {
+      "id": 298590,
+      "translation": {
+        "en": {
+          "short": "dressing",
+          "long": "a piece of fabric that covers a wound or sore",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berpakaian",
+          "long": "sepotong kain yang menutupi luka atau sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298590.jpeg",
+      "simplified": "敷料",
+      "traditional": "敷料",
+      "pinyin": "fūliào"
+    },
+    {
+      "id": 298595,
+      "translation": {
+        "en": {
+          "short": "fingerstall",
+          "long": "a protective cover for a finger",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Fingerstall",
+          "long": "penutup pelindung untuk jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298595.jpeg",
+      "simplified": "指套",
+      "traditional": "指套",
+      "pinyin": "zhǐ tào"
+    },
+    {
+      "id": 298598,
+      "translation": {
+        "en": {
+          "short": "first-aid kit",
+          "long": "a set of tools and medical supplies, usually carried in a bag or case, used in case of emergency or injury",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertolongan pertama",
+          "long": "Satu set alat dan persediaan medis, biasanya dibawa dalam tas atau kasing, digunakan dalam kasus darurat atau cedera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298598.jpeg",
+      "simplified": "急救箱",
+      "traditional": "急救箱",
+      "pinyin": "jíjiù xiāng"
+    },
+    {
+      "id": 298601,
+      "translation": {
+        "en": {
+          "short": "ice pack",
+          "long": "a waterproof bag filled with frozen material, such as crushed ice, used to cool parts of the body to reduce swelling, relieve pain, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paket es",
+          "long": "Kantong tahan air yang diisi dengan bahan beku, seperti es yang dihancurkan, digunakan untuk mendinginkan bagian tubuh untuk mengurangi pembengkakan, menghilangkan rasa sakit, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298601.jpeg",
+      "simplified": "冰袋",
+      "traditional": "冰袋",
+      "pinyin": "bīngdài"
+    },
+    {
+      "id": 298606,
+      "translation": {
+        "en": {
+          "short": "pack",
+          "long": "treatment by wrapping a patient in hot or cold piece of soft material that holds liquid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengemas",
+          "long": "Perawatan dengan membungkus pasien dengan bahan lunak panas atau dingin yang menampung cairan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298606.jpeg",
+      "simplified": "包",
+      "traditional": "包",
+      "pinyin": "Bāo"
+    },
+    {
+      "id": 298609,
+      "translation": {
+        "en": {
+          "short": "patch",
+          "long": "a covering worn over one eye to protect or conceal it, often used for medical reasons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambalan",
+          "long": "penutup yang dikenakan di atas satu mata untuk melindungi atau menyembunyikannya, sering digunakan karena alasan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298609.jpeg",
+      "simplified": "补丁",
+      "traditional": "補丁",
+      "pinyin": "bǔding"
+    },
+    {
+      "id": 298612,
+      "translation": {
+        "en": {
+          "short": "plaster cast",
+          "long": "a cast made of a rigid material that holds a fractured bone in place and prevent movement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gips",
+          "long": "gips yang terbuat dari bahan kaku yang menahan tulang yang patah di tempatnya dan mencegah gerakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298612.jpeg",
+      "simplified": "石膏模型",
+      "traditional": "石膏模型",
+      "pinyin": "shígāo móxíng"
+    },
+    {
+      "id": 298623,
+      "translation": {
+        "en": {
+          "short": "poultice",
+          "long": "a moist mixture applied to the skin for healing, reducing inflammation, or relieving pain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tapal",
+          "long": "Campuran lembab yang dioleskan pada kulit untuk penyembuhan, mengurangi peradangan, atau menghilangkan rasa sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298623.jpeg",
+      "simplified": "糊药",
+      "traditional": "糊藥",
+      "pinyin": "hú yào"
+    },
+    {
+      "id": 298625,
+      "translation": {
+        "en": {
+          "short": "sling",
+          "long": "a bandage or piece of fabric that is tied around a person's neck to immobilize and rest a broken or injured arm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengumban",
+          "long": "Perban atau sepotong kain yang diikat di leher seseorang untuk melumpuhkan dan mengistirahatkan lengan yang rusak atau terluka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298625.jpeg",
+      "simplified": "吊绳",
+      "traditional": "吊繩",
+      "pinyin": "diàoshéng"
+    },
+    {
+      "id": 298638,
+      "translation": {
+        "en": {
+          "short": "swab",
+          "long": "a small, soft material used by a doctor, nurse, etc. for applying medication, cleansing a wound, or taking samples from someone’s body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengusap",
+          "long": "Bahan kecil dan lunak yang digunakan oleh dokter, perawat, dll. Untuk mengoleskan obat, membersihkan luka, atau mengambil sampel dari tubuh seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298638.jpeg",
+      "simplified": "拖把",
+      "traditional": "拖把",
+      "pinyin": "tuōbǎ"
+    },
+    {
+      "id": 298639,
+      "translation": {
+        "en": {
+          "short": "tourniquet",
+          "long": "a device, such as a bandage, piece of fabric, etc. that arrests bleeding by applying pressure to the wound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "turniket",
+          "long": "Perangkat, seperti perban, sepotong kain, dll. Yang menahan pendarahan dengan memberikan tekanan pada luka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298639.jpeg",
+      "simplified": "止血带",
+      "traditional": "止血帶",
+      "pinyin": "zhǐxuè dài"
+    },
+    {
+      "id": 298640,
+      "translation": {
+        "en": {
+          "short": "truss",
+          "long": "(medicine) a supportive device for weakened areas, providing compression and stability",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "BRUSS",
+          "long": "(Kedokteran) Perangkat suportif untuk area yang melemah, memberikan kompresi dan stabilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298640.jpeg",
+      "simplified": "桁架",
+      "traditional": "桁架",
+      "pinyin": "héngjià"
+    },
+    {
+      "id": 298641,
+      "translation": {
+        "en": {
+          "short": "walker",
+          "long": "a metal enclosing framework with wheels and handles that helps disabled or frail people maintain their balance while walking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pejalan",
+          "long": "kerangka kerja logam yang melampirkan dengan roda dan pegangan yang membantu orang -orang cacat atau lemah menjaga keseimbangan saat berjalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298641.jpeg",
+      "simplified": "助步车",
+      "traditional": "助步車",
+      "pinyin": "zhù Bù Chē"
+    },
+    {
+      "id": 298642,
+      "translation": {
+        "en": {
+          "short": "inhaler",
+          "long": "a small device that delivers a measured amount of medicine directly into a person's lungs through the work of a person's breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inhaler",
+          "long": "Perangkat kecil yang memberikan jumlah obat yang diukur langsung ke paru -paru seseorang melalui pekerjaan pernapasan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298642.jpeg",
+      "simplified": "吸入器",
+      "traditional": "吸入器",
+      "pinyin": "xīrù qì"
+    },
+    {
+      "id": 298653,
+      "translation": {
+        "en": {
+          "short": "hot water bottle",
+          "long": "a container filled with hot water used for warmth and comfort in various situations, such as pain relief or staying warm in cold weather",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "botol air panas",
+          "long": "wadah yang diisi dengan air panas yang digunakan untuk kehangatan dan kenyamanan dalam berbagai situasi, seperti penghilang rasa sakit atau tetap hangat dalam cuaca dingin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298653.jpeg",
+      "simplified": "热水瓶",
+      "traditional": "熱水瓶",
+      "pinyin": "rèshuǐ píng"
+    },
+    {
+      "id": 298655,
+      "translation": {
+        "en": {
+          "short": "bedpan",
+          "long": "a shallow vessel used as a toilet by people who are too ill to get out of bed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bedpan",
+          "long": "Kapal dangkal yang digunakan sebagai toilet oleh orang -orang yang terlalu sakit untuk bangun dari tempat tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298655.jpeg",
+      "simplified": "便盆",
+      "traditional": "便盆",
+      "pinyin": "biànpén"
+    },
+    {
+      "id": 298656,
+      "translation": {
+        "en": {
+          "short": "cannula",
+          "long": "a small tube inserted into a vein or body cavity, often for the delivery or removal of fluid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanula",
+          "long": "Tabung kecil yang dimasukkan ke dalam vena atau rongga tubuh, seringkali untuk pengiriman atau pengangkatan cairan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298656.jpeg",
+      "simplified": "金属管子",
+      "traditional": "金屬管子",
+      "pinyin": "jīnshǔ Guǎnzǐ"
+    },
+    {
+      "id": 298659,
+      "translation": {
+        "en": {
+          "short": "face covering",
+          "long": "a piece of material that covers all or parts of one's face, particularly to prevent or reduce the spread of a disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penutup wajah",
+          "long": "sepotong bahan yang menutupi semua atau bagian wajah seseorang, terutama untuk mencegah atau mengurangi penyebaran penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298659.jpeg",
+      "simplified": "面罩",
+      "traditional": "面罩",
+      "pinyin": "miànzhào"
+    },
+    {
+      "id": 298660,
+      "translation": {
+        "en": {
+          "short": "surgical mask",
+          "long": "a mask with two straps put behind the ears or tied at the back of the head, in order to provide protection against blood or body fluid splashes, infection, and air pollution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masker operasi",
+          "long": "Topeng dengan dua tali yang diletakkan di belakang telinga atau diikat di bagian belakang kepala, untuk memberikan perlindungan terhadap percikan darah atau cairan tubuh, infeksi, dan polusi udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298660.jpeg",
+      "simplified": "手术口罩",
+      "traditional": "手術口罩",
+      "pinyin": "shǒushù kǒuzhào"
+    },
+    {
+      "id": 298663,
+      "translation": {
+        "en": {
+          "short": "gown",
+          "long": "a protective robe or garment worn by surgeons in operating rooms and other parts of hospitals to prevent contamination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gaun",
+          "long": "Jubah atau pakaian pelindung yang dikenakan oleh ahli bedah di ruang operasi dan bagian rumah sakit lainnya untuk mencegah kontaminasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298663.jpeg",
+      "simplified": "袍",
+      "traditional": "袍",
+      "pinyin": "páo"
+    },
+    {
+      "id": 298665,
+      "translation": {
+        "en": {
+          "short": "hand sanitizer",
+          "long": "a liquid or substance applied to the hands for the purpose of removing bacteria and other common pathogens",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pensanitasi tangan",
+          "long": "cairan atau zat yang diterapkan pada tangan untuk tujuan menghilangkan bakteri dan patogen umum lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298665.jpeg",
+      "simplified": "消毒洗手液",
+      "traditional": "消毒洗手液",
+      "pinyin": "xiāodú xǐ shǒu yè"
+    },
+    {
+      "id": 298667,
+      "translation": {
+        "en": {
+          "short": "hypodermic",
+          "long": "a piston syringe with a long thin needle for injecting substances under the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "injeksi",
+          "long": "Jarum piston dengan jarum tipis panjang untuk menyuntikkan zat di bawah kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298667.jpeg",
+      "simplified": "皮下注射",
+      "traditional": "皮下注射",
+      "pinyin": "píxià zhù shè"
+    },
+    {
+      "id": 298669,
+      "translation": {
+        "en": {
+          "short": "incubator",
+          "long": "a piece of equipment used to help babies who are weak or born too early survive by providing a controlled environmental conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inkubator",
+          "long": "Sepotong peralatan yang digunakan untuk membantu bayi yang lemah atau terlahir terlalu dini bertahan dengan memberikan kondisi lingkungan yang terkendali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298669.jpeg",
+      "simplified": "孵卵器",
+      "traditional": "孵卵器",
+      "pinyin": "fūluǎn qì"
+    },
+    {
+      "id": 298697,
+      "translation": {
+        "en": {
+          "short": "mask",
+          "long": "a nose and mouth covering that prevents the spread of particles and contaminants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masker",
+          "long": "hidung dan mulut penutup yang mencegah penyebaran partikel dan kontaminan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298697.jpeg",
+      "simplified": "面具",
+      "traditional": "面具",
+      "pinyin": "miànjù"
+    },
+    {
+      "id": 298701,
+      "translation": {
+        "en": {
+          "short": "phlebotomy wedge",
+          "long": "a medical device used to provide arm support during blood collection procedures for more accurate and efficient venipuncture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wedge Phlebotomy",
+          "long": "Perangkat medis yang digunakan untuk memberikan dukungan lengan selama prosedur pengumpulan darah untuk venipuncture yang lebih akurat dan efisien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298701.jpeg",
+      "simplified": "放血楔",
+      "traditional": "放血楔",
+      "pinyin": "fàngxiě xiē"
+    },
+    {
+      "id": 298707,
+      "translation": {
+        "en": {
+          "short": "kick bucket",
+          "long": "a stainless steel waste receptacle used in medical settings for the disposal of solid waste during procedures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kick Bucket",
+          "long": "wadah limbah stainless steel yang digunakan dalam pengaturan medis untuk pembuangan limbah padat selama prosedur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298707.jpeg",
+      "simplified": "踢桶",
+      "traditional": "踢桶",
+      "pinyin": "tī tǒng"
+    },
+    {
+      "id": 298708,
+      "translation": {
+        "en": {
+          "short": "stadiometer",
+          "long": "a medical measuring device used to accurately measure an individual's height or stature in healthcare settings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stadiometer",
+          "long": "Perangkat pengukur medis yang digunakan untuk secara akurat mengukur tinggi atau status individu dalam pengaturan perawatan kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298708.jpeg",
+      "simplified": "测距仪",
+      "traditional": "測距儀",
+      "pinyin": "cèjù yí"
+    },
+    {
+      "id": 298714,
+      "translation": {
+        "en": {
+          "short": "support",
+          "long": "something you wear to hold an injured or weak part of your body in position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mendukung",
+          "long": "sesuatu yang Anda kenakan untuk menahan bagian tubuh Anda yang terluka atau lemah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298714.jpeg",
+      "simplified": "支架",
+      "traditional": "支架",
+      "pinyin": "zhījià"
+    },
+    {
+      "id": 298716,
+      "translation": {
+        "en": {
+          "short": "gypsum",
+          "long": "a mineral used in construction for plaster and drywall, in agriculture as a soil conditioner, and in medicine for producing surgical and orthopedic casts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gips",
+          "long": "Mineral yang digunakan dalam konstruksi untuk plester dan drywall, di bidang pertanian sebagai kondisioner tanah, dan dalam pengobatan untuk memproduksi gips bedah dan ortopedi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298716.jpeg",
+      "simplified": "石膏",
+      "traditional": "石膏",
+      "pinyin": "shígāo"
+    },
+    {
+      "id": 298746,
+      "translation": {
+        "en": {
+          "short": "gauze",
+          "long": "(medicine) a thin cotton fabric used for sterile dressings, bandages, and wound care",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kain kasa",
+          "long": "(Obat) Kain katun tipis yang digunakan untuk pembalut steril, perban, dan perawatan luka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298746.jpeg",
+      "simplified": "纱布",
+      "traditional": "紗布",
+      "pinyin": "shābù"
+    },
+    {
+      "id": 298817,
+      "translation": {
+        "en": {
+          "short": "cotton ball",
+          "long": "a small, round cotton fiber ball used for various cosmetic and personal care purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola kapas",
+          "long": "Bola serat kecil kapas bundar yang digunakan untuk berbagai keperluan perawatan kosmetik dan pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/298817.jpeg",
+      "simplified": "棉花球",
+      "traditional": "棉花球",
+      "pinyin": "miánhua qiú"
+    },
+    {
+      "id": 299286,
+      "translation": {
+        "en": {
+          "short": "scrubs",
+          "long": "a two-piece protective garment that is worn by surgeons in the operation room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "scrub",
+          "long": "Pakaian pelindung dua potong yang dikenakan oleh ahli bedah di ruang operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299286.jpeg",
+      "simplified": "灌木丛",
+      "traditional": "灌木叢",
+      "pinyin": "guànmù cóng"
+    },
+    {
+      "id": 299657,
+      "translation": {
+        "en": {
+          "short": "life-support system",
+          "long": "advanced technologies and equipment that help keep people alive in critical health situations or challenging environments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem pendukung kehidupan",
+          "long": "Teknologi dan peralatan canggih yang membantu membuat orang tetap hidup dalam situasi kesehatan yang kritis atau lingkungan yang menantang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299657.jpeg",
+      "simplified": "生命支持系统",
+      "traditional": "生命支持系統",
+      "pinyin": "shēngmìng zhīchí xìtǒng"
+    },
+    {
+      "id": 300321,
+      "translation": {
+        "en": {
+          "short": "eye dropper",
+          "long": "a small tube for precise dispensing of liquid medications into the eyes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penetes mata",
+          "long": "tabung kecil untuk pengeluaran obat cair yang tepat ke mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300321.jpeg",
+      "simplified": "滴管",
+      "traditional": "滴管",
+      "pinyin": "dīguǎn"
+    },
+    {
+      "id": 300584,
+      "translation": {
+        "en": {
+          "short": "vial",
+          "long": "a small glass container especially one that is used for holding liquids such as medicine or perfume",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "botol kecil",
+          "long": "wadah kaca kecil terutama yang digunakan untuk menahan cairan seperti obat atau parfum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300584.jpeg",
+      "simplified": "小瓶",
+      "traditional": "小瓶",
+      "pinyin": "xiǎo píng"
+    }
+  ]
+}

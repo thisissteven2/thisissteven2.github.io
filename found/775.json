@@ -1,0 +1,944 @@
+{
+  "id": 775,
+  "title": {
+    "en": "Infectious Diseases",
+    "id": "Penyakit menular"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to infectious diseases such as \"pneumonia\", \"chickenpox\", and \"leprosy\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan penyakit menular seperti \"pneumonia\", \"cacar air\", dan \"kusta\"."
+  },
+  "cards": [
+    {
+      "id": 301871,
+      "translation": {
+        "en": {
+          "short": "yellow fever",
+          "long": "a tropical viral disease, characterized by fever, muscle pain, etc. which consequently leads to jaundice and potential death, transmitted by infected mosquitoes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demam kuning",
+          "long": "Penyakit virus tropis, ditandai dengan demam, nyeri otot, dll. Yang akibatnya menyebabkan penyakit kuning dan potensi kematian, ditularkan oleh nyamuk yang terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301871.jpeg",
+      "simplified": "黄热病",
+      "traditional": "黃熱病",
+      "pinyin": "huángrè bìng"
+    },
+    {
+      "id": 301873,
+      "translation": {
+        "en": {
+          "short": "tetanus",
+          "long": "a severe infectious disease marked by painful muscle contractions, particularly that of the jaw, as a result of bacteria invading the body through cuts or wounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tetanus",
+          "long": "Penyakit menular parah yang ditandai oleh kontraksi otot yang menyakitkan, terutama dari rahang, akibat bakteri yang menyerang tubuh melalui luka atau luka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301873.jpeg",
+      "simplified": "破伤风",
+      "traditional": "破傷風",
+      "pinyin": "pòshāng fēng"
+    },
+    {
+      "id": 301877,
+      "translation": {
+        "en": {
+          "short": "swine flu",
+          "long": "a potentially fatal disease passed between humans that is caused by an influenza strain similar to swine flu in pigs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flu babi",
+          "long": "Penyakit yang berpotensi fatal berlalu di antara manusia yang disebabkan oleh strain influenza yang mirip dengan flu babi pada babi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301877.jpeg",
+      "simplified": "猪流感",
+      "traditional": "豬流感",
+      "pinyin": "zhūliú gǎn"
+    },
+    {
+      "id": 301878,
+      "translation": {
+        "en": {
+          "short": "smallpox",
+          "long": "an acute infectious disease characterized by fever and skin eruption, usually leaving permanent scars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cacar",
+          "long": "Penyakit menular akut yang ditandai oleh demam dan letusan kulit, biasanya meninggalkan bekas luka permanen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301878.jpeg",
+      "simplified": "天花",
+      "traditional": "天花",
+      "pinyin": "tiānhuā"
+    },
+    {
+      "id": 301880,
+      "translation": {
+        "en": {
+          "short": "scrapie",
+          "long": "an infectious and often fatal disease that mainly affects the nervous system of sheep",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "scrapie",
+          "long": "penyakit menular dan seringkali fatal yang terutama mempengaruhi sistem saraf domba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301880.jpeg",
+      "simplified": "痒病",
+      "traditional": "癢病",
+      "pinyin": "yǎng bìng"
+    },
+    {
+      "id": 301882,
+      "translation": {
+        "en": {
+          "short": "SARS",
+          "long": "a viral illness that primarily affects the respiratory system, causing symptoms such as fever, coughing, and breathing difficulties, and it can lead to severe illness and even death",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sars",
+          "long": "penyakit virus yang terutama mempengaruhi sistem pernapasan, menyebabkan gejala seperti demam, batuk, dan kesulitan bernapas, dan itu dapat menyebabkan penyakit yang parah dan bahkan kematian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301882.jpeg",
+      "simplified": "非典",
+      "traditional": "非典",
+      "pinyin": "fēidiǎn"
+    },
+    {
+      "id": 301885,
+      "translation": {
+        "en": {
+          "short": "SARS-CoV-2",
+          "long": "severe acute respiratory syndrome coronavirus 2, a variation of coronavirus that was first reported back in 2019",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "SARS-CoV-2",
+          "long": "Sindrom pernapasan akut parah coronavirus 2, variasi coronavirus yang pertama kali dilaporkan pada tahun 2019",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301885.jpeg",
+      "simplified": "SARS-CoV-2",
+      "traditional": "SARS-CoV-2",
+      "pinyin": "A"
+    },
+    {
+      "id": 301886,
+      "translation": {
+        "en": {
+          "short": "pneumonia",
+          "long": "the infection and inflammation of air sacs in one's lungs, usually caused by a bacterial infection that makes breathing difficult",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radang paru-paru",
+          "long": "Infeksi dan peradangan kantung udara di paru -paru seseorang, biasanya disebabkan oleh infeksi bakteri yang membuat napas menjadi sulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301886.jpeg",
+      "simplified": "肺炎",
+      "traditional": "肺炎",
+      "pinyin": "fèiyán"
+    },
+    {
+      "id": 301887,
+      "translation": {
+        "en": {
+          "short": "plague",
+          "long": "a dangerous disease spread by rats that causes fever and swellings, often kills if infected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wabah",
+          "long": "penyakit berbahaya yang disebarkan oleh tikus yang menyebabkan demam dan pembengkakan, sering membunuh jika terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301887.jpeg",
+      "simplified": "鼠疫",
+      "traditional": "鼠疫",
+      "pinyin": "shǔyì"
+    },
+    {
+      "id": 301888,
+      "translation": {
+        "en": {
+          "short": "pertussis",
+          "long": "a contagious respiratory disease often characterized by violent coughs and breathing difficulties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pertusis",
+          "long": "Penyakit pernapasan yang menular sering ditandai dengan batuk yang kejam dan kesulitan bernapas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301888.jpeg",
+      "simplified": "百日咳",
+      "traditional": "百日咳",
+      "pinyin": "bǎirì ké"
+    },
+    {
+      "id": 301889,
+      "translation": {
+        "en": {
+          "short": "meningitis",
+          "long": "a serious infectious disease characterized by inflammation of the thin protective tissue that covers the brain and spinal cord, causing intense headaches and high temperature",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meningitis",
+          "long": "Penyakit menular yang serius ditandai dengan peradangan jaringan pelindung tipis yang menutupi otak dan sumsum tulang belakang, menyebabkan sakit kepala yang hebat dan suhu tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301889.jpeg",
+      "simplified": "脑膜炎",
+      "traditional": "腦膜炎",
+      "pinyin": "nǎomó yán"
+    },
+    {
+      "id": 301890,
+      "translation": {
+        "en": {
+          "short": "measles",
+          "long": "a contagious disease that causes high fever and small red spots on the body, common in children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "campak",
+          "long": "penyakit menular yang menyebabkan demam tinggi dan bintik -bintik merah kecil pada tubuh, umum pada anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301890.jpeg",
+      "simplified": "麻疹",
+      "traditional": "麻疹",
+      "pinyin": "mázhěn"
+    },
+    {
+      "id": 301894,
+      "translation": {
+        "en": {
+          "short": "croup",
+          "long": "a common respiratory infection in children that causes swelling around the vocal cords",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Croup",
+          "long": "Infeksi pernapasan umum pada anak -anak yang menyebabkan pembengkakan di sekitar pita suara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301894.jpeg",
+      "simplified": "哮吼",
+      "traditional": "哮吼",
+      "pinyin": "xiào hǒu"
+    },
+    {
+      "id": 301899,
+      "translation": {
+        "en": {
+          "short": "Covid-19",
+          "long": "an infectious disease caused by a type of virus called coronavirus that causes fever, tiredness, a cough, etc., and in some cases can kill, originated in China and later became a pandemic",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "COVID-19",
+          "long": "penyakit menular yang disebabkan oleh jenis virus yang disebut coronavirus yang menyebabkan demam, kelelahan, batuk, dll., Dan dalam beberapa kasus dapat membunuh, berasal dari Cina dan kemudian menjadi pandemi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301899.jpeg",
+      "simplified": "新冠肺炎",
+      "traditional": "新冠肺炎",
+      "pinyin": "xīnguān fèi yán"
+    },
+    {
+      "id": 301902,
+      "translation": {
+        "en": {
+          "short": "common cold",
+          "long": "a viral infectious disease that primarily affects the upper respiratory tract and can be caused by several different types of viruses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flu biasa",
+          "long": "penyakit menular virus yang terutama mempengaruhi saluran pernapasan atas dan dapat disebabkan oleh beberapa jenis virus yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301902.jpeg",
+      "simplified": "普通感冒",
+      "traditional": "普通感冒",
+      "pinyin": "pǔtōng gǎnmào"
+    },
+    {
+      "id": 301904,
+      "translation": {
+        "en": {
+          "short": "cholera",
+          "long": "a potentially fatal illness that is acquired from consumption of water or food contaminated with particular bacteria, causing diarrhea and vomiting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolera",
+          "long": "Penyakit yang berpotensi fatal yang diperoleh dari konsumsi air atau makanan yang terkontaminasi dengan bakteri tertentu, menyebabkan diare dan muntah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301904.jpeg",
+      "simplified": "霍乱",
+      "traditional": "霍亂",
+      "pinyin": "huòluàn"
+    },
+    {
+      "id": 301906,
+      "translation": {
+        "en": {
+          "short": "chickenpox",
+          "long": "a contagious disease that causes a mild fever and an itchy rash with blisters, primarily affects children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cacar air",
+          "long": "penyakit menular yang menyebabkan demam ringan dan ruam gatal dengan lepuh, terutama mempengaruhi anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301906.jpeg",
+      "simplified": "水痘",
+      "traditional": "水痘",
+      "pinyin": "shuǐdòu"
+    },
+    {
+      "id": 301909,
+      "translation": {
+        "en": {
+          "short": "long Covid",
+          "long": "a medical condition wherein people continue to experience COVID-19 symptoms for weeks or months after they begin to recover",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Covid panjang",
+          "long": "Kondisi medis di mana orang terus mengalami gejala Covid-19 selama berminggu-minggu atau berbulan-bulan setelah mereka mulai pulih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301909.jpeg",
+      "simplified": "长新冠病毒",
+      "traditional": "長新冠病毒",
+      "pinyin": "chángxīn guān bìngdú"
+    },
+    {
+      "id": 301910,
+      "translation": {
+        "en": {
+          "short": "leprosy",
+          "long": "a chronic infectious disease caused by the bacteria called Mycobacterium leprae that can affect the nerves, skin, eyes, and lining of the nose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kusta",
+          "long": "Penyakit menular kronis yang disebabkan oleh bakteri yang disebut mycobacterium leprae yang dapat mempengaruhi saraf, kulit, mata, dan lapisan hidung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301910.jpeg",
+      "simplified": "麻风",
+      "traditional": "麻風",
+      "pinyin": "máfēng"
+    },
+    {
+      "id": 301912,
+      "translation": {
+        "en": {
+          "short": "rubella",
+          "long": "a contagious viral illness, often occurring in children, that causes a red rash on the body as well as symptoms like fever, sore throat, and eye redness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rubella",
+          "long": "Penyakit virus yang menular, sering terjadi pada anak -anak, yang menyebabkan ruam merah pada tubuh serta gejala seperti demam, sakit tenggorokan, dan mata kemerahan mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301912.jpeg",
+      "simplified": "风疹",
+      "traditional": "風疹",
+      "pinyin": "fēngzhěn"
+    },
+    {
+      "id": 301914,
+      "translation": {
+        "en": {
+          "short": "gastric flu",
+          "long": "an intestinal infection‌ that often causes watery diarrhea, inflammation, nausea, vomiting, or fever",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flu lambung",
+          "long": "infeksi usus‌ yang sering menyebabkan diare berair, peradangan, mual, muntah, atau demam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301914.jpeg",
+      "simplified": "胃流感",
+      "traditional": "胃流感",
+      "pinyin": "wèi liúgǎn"
+    },
+    {
+      "id": 301915,
+      "translation": {
+        "en": {
+          "short": "paratyphoid fever",
+          "long": "a bacterial infection causing symptoms similar to typhoid fever, transmitted through contaminated food or water, and treated with antibiotics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Demam Paratyphoid",
+          "long": "Infeksi bakteri yang menyebabkan gejala yang mirip dengan demam tifoid, ditularkan melalui makanan atau air yang terkontaminasi, dan diobati dengan antibiotik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301915.jpeg",
+      "simplified": "副伤寒",
+      "traditional": "副傷寒",
+      "pinyin": "fùshāng hán"
+    },
+    {
+      "id": 301917,
+      "translation": {
+        "en": {
+          "short": "ebola",
+          "long": "a potentially fatal disease that causes problems with how one's blood clots",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ebola",
+          "long": "penyakit yang berpotensi fatal yang menyebabkan masalah dengan bagaimana pembekuan darah seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301917.jpeg",
+      "simplified": "埃博拉病毒",
+      "traditional": "埃博拉病毒",
+      "pinyin": "Aībó lā bìng dú"
+    },
+    {
+      "id": 301919,
+      "translation": {
+        "en": {
+          "short": "tonsillitis",
+          "long": "an infection or inflammation of the tonsils",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tonsilitis",
+          "long": "infeksi atau peradangan amandel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301919.jpeg",
+      "simplified": "扁桃体炎",
+      "traditional": "扁桃體炎",
+      "pinyin": "biǎntáo tǐ yán"
+    },
+    {
+      "id": 301920,
+      "translation": {
+        "en": {
+          "short": "mumps",
+          "long": "an infectious viral disease characterized by fever and the painful swelling of the neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit gondok",
+          "long": "penyakit virus menular yang ditandai oleh demam dan pembengkakan leher yang menyakitkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301920.jpeg",
+      "simplified": "痄",
+      "traditional": "痄",
+      "pinyin": "zhà"
+    },
+    {
+      "id": 301921,
+      "translation": {
+        "en": {
+          "short": "diphtheria",
+          "long": "a chronic infection caused by a gram-positive bacterium and characterized by the formation of a false membrane in the air passages, particularly those of the throat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "difteri",
+          "long": "Infeksi kronis yang disebabkan oleh bakteri gram-positif dan ditandai dengan pembentukan membran palsu di bagian udara, terutama yang dari tenggorokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301921.jpeg",
+      "simplified": "白喉",
+      "traditional": "白喉",
+      "pinyin": "báihóu"
+    },
+    {
+      "id": 301922,
+      "translation": {
+        "en": {
+          "short": "influenza",
+          "long": "an infectious disease caused by a type of virus that attacks the nose, lungs, and throat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "influensa",
+          "long": "penyakit menular yang disebabkan oleh jenis virus yang menyerang hidung, paru -paru, dan tenggorokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301922.jpeg",
+      "simplified": "流感",
+      "traditional": "流感",
+      "pinyin": "liúgǎn"
+    },
+    {
+      "id": 301923,
+      "translation": {
+        "en": {
+          "short": "avian flu",
+          "long": "a type of influenza virus that rapidly spreads among birds and in rare cases, it can affect humans as well",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flu burung",
+          "long": "Jenis virus influenza yang dengan cepat menyebar di antara burung -burung dan dalam kasus yang jarang, itu juga dapat mempengaruhi manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/301923.jpeg",
+      "simplified": "禽流感",
+      "traditional": "禽流感",
+      "pinyin": "qínliú gǎn"
+    },
+    {
+      "id": 302102,
+      "translation": {
+        "en": {
+          "short": "giardiasis",
+          "long": "an intestinal infection caused by the parasite Giardia lamblia, leading to symptoms such as diarrhea, abdominal cramps, and nausea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "giardiasis",
+          "long": "Infeksi usus yang disebabkan oleh parasit Giardia lamblia, yang menyebabkan gejala seperti diare, kram perut, dan mual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302102.jpeg",
+      "simplified": "贾第鞭毛虫病",
+      "traditional": "賈第鞭毛蟲病",
+      "pinyin": "Jiǎ dì biānmáo chóng bìng"
+    },
+    {
+      "id": 302103,
+      "translation": {
+        "en": {
+          "short": "infectious mononucleosis",
+          "long": "a viral infection primarily caused by the Epstein-Barr virus, leading to symptoms like extreme fatigue, sore throat, and swollen glands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mononukleosis menular",
+          "long": "Infeksi virus terutama disebabkan oleh virus Epstein-Barr, yang menyebabkan gejala seperti kelelahan ekstrem, sakit tenggorokan, dan kelenjar bengkak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302103.jpeg",
+      "simplified": "传染性单核细胞",
+      "traditional": "傳染性單核細胞",
+      "pinyin": "chuánrǎn xìng dānhé xì bāo"
+    },
+    {
+      "id": 302104,
+      "translation": {
+        "en": {
+          "short": "malaria",
+          "long": "a potentially fatal disease normally transmitted to humans through the bite of an infected Anopheles mosquito",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "malaria",
+          "long": "penyakit yang berpotensi fatal yang biasanya ditularkan ke manusia melalui gigitan nyamuk anopheles yang terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302104.jpeg",
+      "simplified": "疟疾",
+      "traditional": "瘧疾",
+      "pinyin": "nüèjí"
+    },
+    {
+      "id": 302105,
+      "translation": {
+        "en": {
+          "short": "toxic shock syndrome",
+          "long": "a rare, potentially life-threatening condition caused by bacterial toxins, often associated with tampon use in menstruating individuals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sindrom syok beracun",
+          "long": "Kondisi langka yang berpotensi mengancam jiwa yang disebabkan oleh racun bakteri, sering dikaitkan dengan penggunaan tampon pada orang yang menstruasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302105.jpeg",
+      "simplified": "中毒性休克综合症",
+      "traditional": "中毒性休克綜合症",
+      "pinyin": "zhòngdú xìng xiūkè zōnghé zhèng"
+    },
+    {
+      "id": 302926,
+      "translation": {
+        "en": {
+          "short": "typhoid",
+          "long": "a serious and potentially life-threatening disease marked by high fever, diarrhea, and red spots that appear on the chest and abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit tipus",
+          "long": "Penyakit yang serius dan berpotensi mengancam jiwa yang ditandai oleh demam tinggi, diare, dan bintik-bintik merah yang muncul di dada dan perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302926.jpeg",
+      "simplified": "伤寒症",
+      "traditional": "傷寒症",
+      "pinyin": "shānghán zhèng"
+    },
+    {
+      "id": 302927,
+      "translation": {
+        "en": {
+          "short": "tuberculosis",
+          "long": "a potentially severe bacterial disease that primarily affects the lungs and causes swellings to appear on them or other parts of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "TBC",
+          "long": "penyakit bakteri yang berpotensi parah yang terutama mempengaruhi paru -paru dan menyebabkan pembengkakan muncul di atasnya atau bagian lain dari tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302927.jpeg",
+      "simplified": "结核",
+      "traditional": "結核",
+      "pinyin": "jiéhé"
+    },
+    {
+      "id": 305283,
+      "translation": {
+        "en": {
+          "short": "bubonic plague",
+          "long": "a highly contagious and often fatal bacterial infection characterized by painful swollen lymph nodes, caused by the bacterium Yersinia pestis and transmitted through the bite of infected fleas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Wabah Bubonik",
+          "long": "Infeksi bakteri yang sangat menular dan seringkali fatal ditandai dengan kelenjar getah bening yang bengkak, disebabkan oleh bakteri yersinia pestis dan ditularkan melalui gigitan kutu yang terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/305283.jpeg",
+      "simplified": "黑死病",
+      "traditional": "黑死病",
+      "pinyin": "hēisǐ bìng"
+    },
+    {
+      "id": 307502,
+      "translation": {
+        "en": {
+          "short": "cytomegalovirus",
+          "long": "a common herpesvirus that may cause mild to severe illness, particularly in individuals with weakened immune system, and is transmitted through bodily fluids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sitomegalovirus",
+          "long": "Virus herpese umum yang dapat menyebabkan penyakit ringan hingga parah, terutama pada orang dengan sistem kekebalan tubuh yang melemah, dan ditularkan melalui cairan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307502.jpeg",
+      "simplified": "巨细胞病毒",
+      "traditional": "鉅細胞病毒",
+      "pinyin": "jùxì bāo bìng dú"
+    },
+    {
+      "id": 307503,
+      "translation": {
+        "en": {
+          "short": "epstein-barr virus",
+          "long": "a common herpesvirus associated with infectious mononucleosis and can cause various illnesses, transmitted through saliva",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Virus Epstein-Barr",
+          "long": "Virus herpes yang umum terkait dengan mononukleosis infeksius dan dapat menyebabkan berbagai penyakit, ditularkan melalui air liur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307503.jpeg",
+      "simplified": "EB病毒",
+      "traditional": "EB病毒",
+      "pinyin": "bī bìngdú"
+    },
+    {
+      "id": 307521,
+      "translation": {
+        "en": {
+          "short": "legionnaires' disease",
+          "long": "a severe form of pneumonia caused by the bacterium Legionella, often contracted through inhaling contaminated water droplets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit Legionnaires",
+          "long": "Bentuk pneumonia yang parah yang disebabkan oleh bakteri legionella, yang sering dikontrak dengan menghirup tetesan air yang terkontaminasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307521.jpeg",
+      "simplified": "军团病",
+      "traditional": "軍團病",
+      "pinyin": "jūntuán bìng"
+    },
+    {
+      "id": 307523,
+      "translation": {
+        "en": {
+          "short": "leptospirosis",
+          "long": "a bacterial infection transmitted through contact with contaminated water or soil, causing flu-like symptoms and potentially severe complications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Leptospirosis",
+          "long": "Infeksi bakteri yang ditransmisikan melalui kontak dengan air atau tanah yang terkontaminasi, menyebabkan gejala seperti flu dan berpotensi komplikasi parah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307523.jpeg",
+      "simplified": "钩端螺旋体病",
+      "traditional": "鉤端螺旋體病",
+      "pinyin": "gōuduān luó xuán tǐ bìng"
+    },
+    {
+      "id": 307534,
+      "translation": {
+        "en": {
+          "short": "scarlet fever",
+          "long": "a childhood illness with a red rash, sore throat, and fever caused by group A Streptococcus bacteria",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demam berdarah",
+          "long": "Penyakit masa kanak -kanak dengan ruam merah, sakit tenggorokan, dan demam yang disebabkan oleh bakteri streptokokus kelompok A",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307534.jpeg",
+      "simplified": "喉痧",
+      "traditional": "喉痧",
+      "pinyin": "hóushā"
+    },
+    {
+      "id": 307537,
+      "translation": {
+        "en": {
+          "short": "scrofula",
+          "long": "a swelling of the lymph nodes, often in the neck, caused by tuberculosis or other bacterial infections",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyakit kelenjar",
+          "long": "Pembengkakan kelenjar getah bening, sering di leher, disebabkan oleh tuberkulosis atau infeksi bakteri lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307537.jpeg",
+      "simplified": "瘰",
+      "traditional": "瘰",
+      "pinyin": "luǒ"
+    },
+    {
+      "id": 307547,
+      "translation": {
+        "en": {
+          "short": "typhus",
+          "long": "a potentially fatal disease characterized by high temperature and appearance of purple marks on the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tipus",
+          "long": "Penyakit yang berpotensi fatal ditandai dengan suhu tinggi dan penampilan tanda ungu pada tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307547.jpeg",
+      "simplified": "斑疹伤寒",
+      "traditional": "斑疹傷寒",
+      "pinyin": "bānzhěn shāng hán"
+    },
+    {
+      "id": 307551,
+      "translation": {
+        "en": {
+          "short": "weil's disease",
+          "long": "a bacterial infection caused by the Leptospira bacteria, transmitted through contact with water or soil contaminated with the urine of infected animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penyakit Weil",
+          "long": "Infeksi bakteri yang disebabkan oleh bakteri Leptospira, ditularkan melalui kontak dengan air atau tanah yang terkontaminasi dengan urin hewan yang terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307551.jpeg",
+      "simplified": "威尔氏病",
+      "traditional": "威爾氏病",
+      "pinyin": "wēi ěr shì bìng"
+    },
+    {
+      "id": 307552,
+      "translation": {
+        "en": {
+          "short": "yaws",
+          "long": "a tropical bacterial infection that causes chronic skin lesions and bone deformities, primarily affecting children in impoverished regions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patek",
+          "long": "Infeksi bakteri tropis yang menyebabkan lesi kulit kronis dan kelainan bentuk tulang, terutama mempengaruhi anak -anak di daerah miskin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307552.jpeg",
+      "simplified": "偏航",
+      "traditional": "偏航",
+      "pinyin": "piānháng"
+    },
+    {
+      "id": 307556,
+      "translation": {
+        "en": {
+          "short": "anthrax",
+          "long": "a serious bacterial disease of warm-blooded animals, particularly cattle and sheep, that can be transmitted to people by contaminated wool, raw meat, or other animal products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Antraks",
+          "long": "Penyakit bakteri yang serius dari hewan berdarah panas, terutama sapi dan domba, yang dapat ditularkan ke manusia dengan wol yang terkontaminasi, daging mentah, atau produk hewani lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307556.jpeg",
+      "simplified": "炭疽病",
+      "traditional": "炭疽病",
+      "pinyin": "tànjū bìng"
+    },
+    {
+      "id": 307558,
+      "translation": {
+        "en": {
+          "short": "toxoplasmosis",
+          "long": "a parasitic disease that mainly affects unborn children and is mostly transmitted through undercooked meat, soil, or cat feces",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Toxoplasmosis",
+          "long": "penyakit parasit yang terutama mempengaruhi anak -anak yang belum lahir dan sebagian besar ditularkan melalui daging, tanah, atau kotoran kucing yang kurang matang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307558.jpeg",
+      "simplified": "弓形体病",
+      "traditional": "弓形體病",
+      "pinyin": "gōngxíng tǐ bìng"
+    },
+    {
+      "id": 307564,
+      "translation": {
+        "en": {
+          "short": "dengue fever",
+          "long": "a mosquito-borne viral infection causing flu-like symptoms and, in severe cases, potentially leading to hemorrhagic fever or shock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demam berdarah",
+          "long": "Infeksi virus yang ditularkan oleh nyamuk yang menyebabkan gejala seperti flu dan, dalam kasus yang parah, berpotensi menyebabkan demam atau syok hemoragik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307564.jpeg",
+      "simplified": "登革热",
+      "traditional": "登革熱",
+      "pinyin": "dēnggé rè"
+    },
+    {
+      "id": 307574,
+      "translation": {
+        "en": {
+          "short": "Rocky Mountain spotted fever",
+          "long": "a tick-borne infectious disease caused by the bacterium Rickettsia rickettsii, characterized by fever, rash, and, if untreated, potential complications involving multiple organ systems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "demam beruam Gunung Rocky",
+          "long": "Penyakit menular yang ditularkan melalui kutu yang disebabkan oleh bakteri Rickettsia rickettsii, ditandai dengan demam, ruam, dan, jika tidak diobati, komplikasi potensial yang melibatkan berbagai sistem organ",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307574.jpeg",
+      "simplified": "落基山斑疹热",
+      "traditional": "落基山斑疹熱",
+      "pinyin": "Luòjī Shān bānzhěn rè"
+    },
+    {
+      "id": 307576,
+      "translation": {
+        "en": {
+          "short": "West Nile virus",
+          "long": "a mosquito-borne virus that can cause mild to severe illness, with symptoms ranging from fever and body aches to neurological complications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Virus Nil Barat",
+          "long": "Virus yang ditularkan oleh nyamuk yang dapat menyebabkan penyakit ringan hingga parah, dengan gejala mulai dari demam dan sakit tubuh hingga komplikasi neurologis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/307576.jpeg",
+      "simplified": "西尼罗病毒",
+      "traditional": "西尼羅病毒",
+      "pinyin": "Xī Níluó bìngdú"
+    }
+  ]
+}

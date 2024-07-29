@@ -1,0 +1,754 @@
+{
+  "id": 1103,
+  "title": {
+    "en": "A Drop in the Ocean",
+    "id": "Setetes di laut"
+  },
+  "description": {
+    "en": "Here you will learn some English words about geography, such as \"brook\", \"glacial\", \"flora\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang geografi, seperti \"Brook\", \"Glacial\", \"Flora\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 249480,
+      "translation": {
+        "en": {
+          "short": "archipelago",
+          "long": "a large collection of islands or the sea surrounding them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepulauan",
+          "long": "koleksi besar pulau atau laut yang mengelilinginya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249480.jpeg",
+      "simplified": "群岛",
+      "traditional": "群島",
+      "pinyin": "qúndǎo"
+    },
+    {
+      "id": 249481,
+      "translation": {
+        "en": {
+          "short": "swamp",
+          "long": "an area of land that is covered with water or is always very wet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rawa",
+          "long": "Area lahan yang ditutupi dengan air atau selalu sangat basah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249481.jpeg",
+      "simplified": "沼泽",
+      "traditional": "沼澤",
+      "pinyin": "zhǎozé"
+    },
+    {
+      "id": 249483,
+      "translation": {
+        "en": {
+          "short": "reservoir",
+          "long": "a lake, either natural or artificial, from which water is supplied to houses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "waduk",
+          "long": "Sebuah danau, baik alami maupun buatan, dari mana air dipasok ke rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249483.jpeg",
+      "simplified": "水库（大坝后面）",
+      "traditional": "水庫（大壩後面）",
+      "pinyin": "shuǐkù dàbà hòumian"
+    },
+    {
+      "id": 249484,
+      "translation": {
+        "en": {
+          "short": "precipice",
+          "long": "a steep cliff or edge of a rock face, often with a significant drop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jurang",
+          "long": "tebing yang curam atau tepi wajah batu, seringkali dengan setetes yang signifikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249484.jpeg",
+      "simplified": "悬崖",
+      "traditional": "懸崖",
+      "pinyin": "xuányá"
+    },
+    {
+      "id": 249486,
+      "translation": {
+        "en": {
+          "short": "peninsula",
+          "long": "a large body of land that is partially surrounded by water but is attached to a larger area of land",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semenanjung",
+          "long": "sebidang tanah besar yang sebagian dikelilingi oleh air tetapi melekat pada area tanah yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249486.jpeg",
+      "simplified": "半岛",
+      "traditional": "半島",
+      "pinyin": "bàndǎo"
+    },
+    {
+      "id": 249487,
+      "translation": {
+        "en": {
+          "short": "pinnacle",
+          "long": "the highest point or summit of a mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "titik atau puncak gunung tertinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249487.jpeg",
+      "simplified": "巅峰",
+      "traditional": "巔峰",
+      "pinyin": "diānfēng"
+    },
+    {
+      "id": 249488,
+      "translation": {
+        "en": {
+          "short": "brook",
+          "long": "a small, natural watercourse or stream; typically characterized by a gentle and continuous flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak sungai",
+          "long": "aliran air atau aliran kecil alami; biasanya ditandai dengan aliran yang lembut dan kontinu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249488.jpeg",
+      "simplified": "溪",
+      "traditional": "溪",
+      "pinyin": "xī"
+    },
+    {
+      "id": 249491,
+      "translation": {
+        "en": {
+          "short": "deposit",
+          "long": "a layer of matter that has been accumulated, particularly by a body of water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyetorkan",
+          "long": "lapisan materi yang telah diakumulasikan, terutama oleh badan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249491.jpeg",
+      "simplified": "沉积物（地质）",
+      "traditional": "沉積物（地質）",
+      "pinyin": "chénjī wù dìzhì"
+    },
+    {
+      "id": 249492,
+      "translation": {
+        "en": {
+          "short": "equatorial",
+          "long": "regarding conditions situated near the earth's equator; marked by warm temperatures and relatively equal day and night lengths throughout the year",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Ekuatorial",
+          "long": "tentang kondisi yang terletak di dekat khatulistiwa bumi; Ditandai oleh suhu hangat dan panjang siang dan malam yang relatif sama sepanjang tahun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249492.jpeg",
+      "simplified": "赤道",
+      "traditional": "赤道",
+      "pinyin": "chìdào"
+    },
+    {
+      "id": 249494,
+      "translation": {
+        "en": {
+          "short": "glacial",
+          "long": "relating to a large mass of compressed ice like those near the poles or on mountains",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "glasial",
+          "long": "berkaitan dengan massa besar es terkompresi seperti yang dekat tiang atau di pegunungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249494.jpeg",
+      "simplified": "冰川的",
+      "traditional": "冰川的",
+      "pinyin": "bīngchuān de"
+    },
+    {
+      "id": 249495,
+      "translation": {
+        "en": {
+          "short": "moorland",
+          "long": "an open and high land covered with grass, bushes and heather",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Moorland",
+          "long": "Tanah terbuka dan tinggi ditutupi dengan rumput, semak -semak dan heather",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249495.jpeg",
+      "simplified": "沼泽地",
+      "traditional": "沼澤地",
+      "pinyin": "zhǎozé dì"
+    },
+    {
+      "id": 249496,
+      "translation": {
+        "en": {
+          "short": "terrain",
+          "long": "an area of land, particularly in reference to its physical or natural features",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "medan",
+          "long": "Area tanah, terutama mengacu pada fitur fisik atau alaminya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249496.jpeg",
+      "simplified": "地形",
+      "traditional": "地形",
+      "pinyin": "dìxíng"
+    },
+    {
+      "id": 249498,
+      "translation": {
+        "en": {
+          "short": "wharf",
+          "long": "a structure built along the water's edge; often with a platform for ships to load and unload goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dermaga",
+          "long": "struktur yang dibangun di sepanjang tepi air; sering dengan platform untuk kapal untuk memuat dan membongkar barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249498.jpeg",
+      "simplified": "码头",
+      "traditional": "碼頭",
+      "pinyin": "mǎtóu"
+    },
+    {
+      "id": 249499,
+      "translation": {
+        "en": {
+          "short": "vale",
+          "long": "a low-lying piece of land between hills or mountains, often with a river flowing through it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lembah",
+          "long": "sebidang tanah rendah antara perbukitan atau gunung, seringkali dengan sungai yang mengalir melaluinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249499.jpeg",
+      "simplified": "谷",
+      "traditional": "谷",
+      "pinyin": "gǔ"
+    },
+    {
+      "id": 249500,
+      "translation": {
+        "en": {
+          "short": "arid",
+          "long": "(of land or a climate) very dry because of not having enough or any rain",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kering",
+          "long": "(tanah atau iklim) sangat kering karena tidak memiliki cukup atau hujan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249500.jpeg",
+      "simplified": "干旱",
+      "traditional": "乾旱",
+      "pinyin": "gānhàn"
+    },
+    {
+      "id": 249502,
+      "translation": {
+        "en": {
+          "short": "cascade",
+          "long": "a small steep waterfall, usually one of several others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "riam",
+          "long": "Air terjun kecil yang curam, biasanya satu dari beberapa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249502.jpeg",
+      "simplified": "级联",
+      "traditional": "級聯",
+      "pinyin": "jílián"
+    },
+    {
+      "id": 249503,
+      "translation": {
+        "en": {
+          "short": "levee",
+          "long": "a natural or man-made structure built along a river or waterway to prevent flooding by confining the water within its boundaries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanggul",
+          "long": "Struktur alami atau buatan manusia yang dibangun di sepanjang sungai atau saluran air untuk mencegah banjir dengan membatasi air di dalam batas-batasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249503.jpeg",
+      "simplified": "矶",
+      "traditional": "磯",
+      "pinyin": "jī"
+    },
+    {
+      "id": 249505,
+      "translation": {
+        "en": {
+          "short": "canopy",
+          "long": "the upper layer of trees in a forest that creates a dense cover with interlocking leaves; offering shade and shelter in the ecosystem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanopi",
+          "long": "lapisan atas pohon di hutan yang menciptakan penutup padat dengan daun yang saling terkait; Menawarkan naungan dan tempat berlindung di ekosistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249505.jpeg",
+      "simplified": "华盖",
+      "traditional": "華蓋",
+      "pinyin": "huágài"
+    },
+    {
+      "id": 249506,
+      "translation": {
+        "en": {
+          "short": "flora",
+          "long": "communities of plant life native to a specific area or period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Flora",
+          "long": "Komunitas kehidupan tanaman asli daerah atau periode tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249506.jpeg",
+      "simplified": "植物群",
+      "traditional": "植物群",
+      "pinyin": "zhíwù qún"
+    },
+    {
+      "id": 249508,
+      "translation": {
+        "en": {
+          "short": "foliage",
+          "long": "a plant or tree's branches and leaves collectively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dedaunan",
+          "long": "cabang dan daun tanaman atau pohon secara kolektif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249508.jpeg",
+      "simplified": "叶子",
+      "traditional": "葉子",
+      "pinyin": "yèzi"
+    },
+    {
+      "id": 249509,
+      "translation": {
+        "en": {
+          "short": "fungus",
+          "long": "a plant-like organism that often grows on organic matter and has no flowers or leaves, such as moulds and mushrooms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jamur",
+          "long": "Organisme seperti tanaman yang sering tumbuh pada bahan organik dan tidak memiliki bunga atau daun, seperti jamur dan jamur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249509.jpeg",
+      "simplified": "菌",
+      "traditional": "菌",
+      "pinyin": "jūn"
+    },
+    {
+      "id": 249510,
+      "translation": {
+        "en": {
+          "short": "perennial",
+          "long": "enduring for three seasons or longer; persisting throughout the years",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "abadi",
+          "long": "bertahan selama tiga musim atau lebih; bertahan selama bertahun -tahun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249510.jpeg",
+      "simplified": "多年生",
+      "traditional": "多年生",
+      "pinyin": "duōnián shēng"
+    },
+    {
+      "id": 249511,
+      "translation": {
+        "en": {
+          "short": "to pollinate",
+          "long": "to deposit pollen on a plant or flower so that it can produce new seeds or fruit",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerbuki",
+          "long": "untuk menyimpan serbuk sari pada tanaman atau bunga sehingga dapat menghasilkan benih atau buah baru",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249511.jpeg",
+      "simplified": "对 ... 授粉",
+      "traditional": "對 ... 授粉",
+      "pinyin": "duì shòufěn"
+    },
+    {
+      "id": 249512,
+      "translation": {
+        "en": {
+          "short": "sapling",
+          "long": "a small and young tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pohon muda",
+          "long": "pohon kecil dan muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249512.jpeg",
+      "simplified": "树苗",
+      "traditional": "樹苗",
+      "pinyin": "shùmiáo"
+    },
+    {
+      "id": 249513,
+      "translation": {
+        "en": {
+          "short": "shoot",
+          "long": "a new growth on a tree or plant or the part of a plant that starts to appear above the ground because it is growing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menembak",
+          "long": "Pertumbuhan baru di pohon atau tanaman atau bagian dari tanaman yang mulai muncul di atas tanah karena sedang tumbuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249513.jpeg",
+      "simplified": "植物芽",
+      "traditional": "植物芽",
+      "pinyin": "zhíwù yá"
+    },
+    {
+      "id": 249514,
+      "translation": {
+        "en": {
+          "short": "to sprout",
+          "long": "(of a seed or plant) to begin growing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kecambah",
+          "long": "(dari benih atau tanaman) untuk mulai tumbuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249514.jpeg",
+      "simplified": "发芽",
+      "traditional": "發芽",
+      "pinyin": "fāyá"
+    },
+    {
+      "id": 249516,
+      "translation": {
+        "en": {
+          "short": "biodegradable",
+          "long": "(of an object) able to be broken down by living organisms such as bacteria, which is then safe for the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Biodegradable",
+          "long": "(dari suatu objek) yang dapat dipecah oleh organisme hidup seperti bakteri, yang kemudian aman untuk lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249516.jpeg",
+      "simplified": "可被细菌分解",
+      "traditional": "可被細菌分解",
+      "pinyin": "kě bèi xìjūn fēnjiě"
+    },
+    {
+      "id": 249517,
+      "translation": {
+        "en": {
+          "short": "to contaminate",
+          "long": "to make a place, substance, etc. dirty or harmful by adding dangerous material",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencemari",
+          "long": "Untuk membuat tempat, zat, dll. Kotor atau berbahaya dengan menambahkan bahan berbahaya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249517.jpeg",
+      "simplified": "污染",
+      "traditional": "污染",
+      "pinyin": "wūrǎn"
+    },
+    {
+      "id": 249518,
+      "translation": {
+        "en": {
+          "short": "ecological",
+          "long": "related to the connection between animals, plants, and humans and their environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ekologis",
+          "long": "terkait dengan hubungan antara hewan, tumbuhan, dan manusia dan lingkungannya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249518.jpeg",
+      "simplified": "生态的",
+      "traditional": "生態的",
+      "pinyin": "shēngtài de"
+    },
+    {
+      "id": 249519,
+      "translation": {
+        "en": {
+          "short": "effluent",
+          "long": "liquid waste or sewage discharged into rivers, lakes, or the sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembusan",
+          "long": "Limbah cair atau limbah yang dibuang ke sungai, danau, atau laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249519.jpeg",
+      "simplified": "废水",
+      "traditional": "廢水",
+      "pinyin": "fèishuǐ"
+    },
+    {
+      "id": 249521,
+      "translation": {
+        "en": {
+          "short": "zero-emission",
+          "long": "(of a vehicle) not producing gases harmful to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "emisi nol",
+          "long": "(kendaraan) yang tidak menghasilkan gas yang berbahaya bagi lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249521.jpeg",
+      "simplified": "无污染",
+      "traditional": "無污染",
+      "pinyin": "wú wūrǎn"
+    },
+    {
+      "id": 249526,
+      "translation": {
+        "en": {
+          "short": "low-impact",
+          "long": "in relation to activities that minimize disruption to ecosystems; emphasizing sustainability and reduced ecological footprint",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berdampak rendah",
+          "long": "dalam kaitannya dengan kegiatan yang meminimalkan gangguan pada ekosistem; menekankan keberlanjutan dan pengurangan jejak ekologis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249526.jpeg",
+      "simplified": "影响低",
+      "traditional": "影響低",
+      "pinyin": "yǐngxiǎng dī"
+    },
+    {
+      "id": 249527,
+      "translation": {
+        "en": {
+          "short": "flurry",
+          "long": "a small amount of rain, snow, etc. that moves in a quick and whirling way and lasts only for a short period of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebingungan",
+          "long": "Sejumlah kecil hujan, salju, dll. Yang bergerak dengan cara yang cepat dan berputar dan hanya bertahan untuk waktu yang singkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249527.jpeg",
+      "simplified": "慌张",
+      "traditional": "慌張",
+      "pinyin": "huāngzhāng"
+    },
+    {
+      "id": 249529,
+      "translation": {
+        "en": {
+          "short": "gale",
+          "long": "a very powerful wind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badai",
+          "long": "Angin yang sangat kencang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249529.jpeg",
+      "simplified": "大风",
+      "traditional": "大風",
+      "pinyin": "dàfēng"
+    },
+    {
+      "id": 249530,
+      "translation": {
+        "en": {
+          "short": "horizon",
+          "long": "the line where the sky and earth seem to come in contact with each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cakrawala",
+          "long": "garis di mana langit dan bumi tampaknya bersentuhan satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249530.jpeg",
+      "simplified": "地平线",
+      "traditional": "地平線",
+      "pinyin": "dìpíng xiàn"
+    },
+    {
+      "id": 249531,
+      "translation": {
+        "en": {
+          "short": "monsoon",
+          "long": "a period in the summer during which wind blows and rain falls in India or other hot South Asian countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musim",
+          "long": "Suatu periode di musim panas di mana angin bertiup dan hujan turun di India atau negara -negara Asia Selatan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249531.jpeg",
+      "simplified": "季风雨",
+      "traditional": "季風雨",
+      "pinyin": "jìfēng yǔ"
+    },
+    {
+      "id": 249532,
+      "translation": {
+        "en": {
+          "short": "thaw",
+          "long": "a period during which the weather becomes warmer causing snow and ice to melt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencair",
+          "long": "periode di mana cuaca menjadi lebih hangat menyebabkan salju dan es meleleh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249532.jpeg",
+      "simplified": "解冻天气",
+      "traditional": "解凍天氣",
+      "pinyin": "jiědòng tiānqì"
+    },
+    {
+      "id": 249533,
+      "translation": {
+        "en": {
+          "short": "arable",
+          "long": "having the capacity to be used to grow crops",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subur",
+          "long": "memiliki kapasitas untuk digunakan untuk menanam tanaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249533.jpeg",
+      "simplified": "耕地",
+      "traditional": "耕地",
+      "pinyin": "gēngdì"
+    },
+    {
+      "id": 249535,
+      "translation": {
+        "en": {
+          "short": "cultivation",
+          "long": "(agriculture) the deliberate and systematic act of nurturing of plants, crops, or skills; often involving careful attention, development, and improvement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penanaman",
+          "long": "(pertanian) tindakan yang disengaja dan sistematis untuk memelihara tanaman, tanaman, atau keterampilan; sering melibatkan perhatian, perkembangan, dan peningkatan yang cermat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/249535.jpeg",
+      "simplified": "养殖",
+      "traditional": "養殖",
+      "pinyin": "yǎngzhí"
+    }
+  ]
+}

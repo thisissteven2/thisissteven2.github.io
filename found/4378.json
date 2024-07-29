@@ -1,0 +1,659 @@
+{
+  "id": 4378,
+  "title": {
+    "en": "Adjectives of Capacity",
+    "id": "Kata sifat kapasitas"
+  },
+  "description": {
+    "en": "These adjectives refer to the ability and capacity of a person or object to perform an action or lead to a specific result.",
+    "id": "Kata sifat ini merujuk pada kemampuan dan kapasitas seseorang atau objek untuk melakukan tindakan atau mengarah pada hasil tertentu."
+  },
+  "cards": [
+    {
+      "id": 360391,
+      "translation": {
+        "en": {
+          "short": "countable",
+          "long": "capable of being easily counted",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dihitung",
+          "long": "mampu dengan mudah dihitung",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360391.jpeg",
+      "simplified": "可数的",
+      "traditional": "可數的",
+      "pinyin": "kěshǔ de"
+    },
+    {
+      "id": 360392,
+      "translation": {
+        "en": {
+          "short": "forgettable",
+          "long": "capable of being erased from the mind",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dilupakan",
+          "long": "mampu dihapus dari pikiran",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360392.jpeg",
+      "simplified": "容易忘记的",
+      "traditional": "容易忘記的",
+      "pinyin": "róngyì wàngjì de"
+    },
+    {
+      "id": 360393,
+      "translation": {
+        "en": {
+          "short": "unforgettable",
+          "long": "so memorable that being forgotten is impossible",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tak terlupakan",
+          "long": "Sangat mengesankan sehingga dilupakan adalah mustahil",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360393.jpeg",
+      "simplified": "难忘",
+      "traditional": "難忘",
+      "pinyin": "nánwàng"
+    },
+    {
+      "id": 360394,
+      "translation": {
+        "en": {
+          "short": "preventable",
+          "long": "capable of being avoided or stopped from happening",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dicegah",
+          "long": "mampu dihindari atau berhenti terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360394.jpeg",
+      "simplified": "可预防的",
+      "traditional": "可預防的",
+      "pinyin": "kě yùfáng de"
+    },
+    {
+      "id": 360395,
+      "translation": {
+        "en": {
+          "short": "avoidable",
+          "long": "capable of being prevented or evaded through cautionary actions or decisions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bisa dihindari",
+          "long": "mampu dicegah atau dihindari melalui tindakan atau keputusan peringatan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360395.jpeg",
+      "simplified": "可以避免的",
+      "traditional": "可以避免的",
+      "pinyin": "kěyǐ bìmiǎn de"
+    },
+    {
+      "id": 360396,
+      "translation": {
+        "en": {
+          "short": "unavoidable",
+          "long": "unable to be prevented or escaped",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak bisa dihindari",
+          "long": "tidak dapat dicegah atau dilarikan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360396.jpeg",
+      "simplified": "不可避免的",
+      "traditional": "不可避免的",
+      "pinyin": "bùkě bì miǎn de"
+    },
+    {
+      "id": 360397,
+      "translation": {
+        "en": {
+          "short": "scalable",
+          "long": "capable of being expanded or adjusted to accommodate growth or changes in demand",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "scalable",
+          "long": "mampu diperluas atau disesuaikan untuk mengakomodasi pertumbuhan atau perubahan permintaan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360397.jpeg",
+      "simplified": "可扩展",
+      "traditional": "可擴展",
+      "pinyin": "kě kuòzhǎn"
+    },
+    {
+      "id": 360398,
+      "translation": {
+        "en": {
+          "short": "preferable",
+          "long": "more desirable or favored compared to other options",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lebih baik",
+          "long": "lebih diinginkan atau disukai dibandingkan dengan opsi lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360398.jpeg",
+      "simplified": "最好",
+      "traditional": "最好",
+      "pinyin": "zuìhǎo"
+    },
+    {
+      "id": 360399,
+      "translation": {
+        "en": {
+          "short": "available",
+          "long": "ready for being used or acquired",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tersedia",
+          "long": "siap digunakan atau diperoleh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360399.jpeg",
+      "simplified": "可用的",
+      "traditional": "可用的",
+      "pinyin": "kě yòng de"
+    },
+    {
+      "id": 360400,
+      "translation": {
+        "en": {
+          "short": "unavailable",
+          "long": "not able to be obtained, reached, or used, typically because it is not ready, not present, or being used by someone else",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak tersedia",
+          "long": "tidak dapat diperoleh, dicapai, atau digunakan, biasanya karena tidak siap, tidak ada, atau digunakan oleh orang lain",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360400.jpeg",
+      "simplified": "不可用",
+      "traditional": "不可用",
+      "pinyin": "bùkě yòng"
+    },
+    {
+      "id": 360401,
+      "translation": {
+        "en": {
+          "short": "inaccessible",
+          "long": "not able to be reached or entered, usually due to obstacles or restrictions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak dapat diakses",
+          "long": "tidak dapat dicapai atau dimasukkan, biasanya karena hambatan atau pembatasan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360401.jpeg",
+      "simplified": "难以接近的",
+      "traditional": "難以接近的",
+      "pinyin": "nányǐ jiējìn de"
+    },
+    {
+      "id": 360402,
+      "translation": {
+        "en": {
+          "short": "accessible",
+          "long": "able to be reached, entered, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diakses",
+          "long": "dapat dicapai, dimasukkan, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360402.jpeg",
+      "simplified": "无障碍",
+      "traditional": "無障礙",
+      "pinyin": "wúzhàng ài"
+    },
+    {
+      "id": 360403,
+      "translation": {
+        "en": {
+          "short": "compatible",
+          "long": "having the ability to work with different devices, machines, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kompatibel",
+          "long": "Memiliki kemampuan untuk bekerja dengan perangkat yang berbeda, mesin, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360403.jpeg",
+      "simplified": "兼容的",
+      "traditional": "相容的",
+      "pinyin": "jiānróng de"
+    },
+    {
+      "id": 360404,
+      "translation": {
+        "en": {
+          "short": "transferable",
+          "long": "capable of being legally passed from one owner to another",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat ditransfer",
+          "long": "mampu secara hukum diturunkan dari satu pemilik ke pemilik lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360404.jpeg",
+      "simplified": "可转让的",
+      "traditional": "可轉讓的",
+      "pinyin": "kězhuǎn ràng de"
+    },
+    {
+      "id": 360405,
+      "translation": {
+        "en": {
+          "short": "identifiable",
+          "long": "capable of being recognized or distinguished",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diidentifikasi",
+          "long": "mampu diakui atau dibedakan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360405.jpeg",
+      "simplified": "可识别的",
+      "traditional": "可識別的",
+      "pinyin": "kě shíbié de"
+    },
+    {
+      "id": 360406,
+      "translation": {
+        "en": {
+          "short": "palpable",
+          "long": "so intense or significant that something feels almost physical",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "jelas",
+          "long": "Begitu intens atau signifikan sehingga sesuatu terasa hampir fisik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360406.jpeg",
+      "simplified": "可触及的",
+      "traditional": "可觸及的",
+      "pinyin": "kě chùjí de"
+    },
+    {
+      "id": 360407,
+      "translation": {
+        "en": {
+          "short": "tangible",
+          "long": "capable of being felt or touched",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "nyata",
+          "long": "mampu dirasakan atau disentuh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360407.jpeg",
+      "simplified": "有形",
+      "traditional": "有形",
+      "pinyin": "yǒuxíng"
+    },
+    {
+      "id": 360408,
+      "translation": {
+        "en": {
+          "short": "intangible",
+          "long": "incapable of being touched or physically grasped",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak berwujud",
+          "long": "tidak mampu disentuh atau dipahami secara fisik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360408.jpeg",
+      "simplified": "无形的",
+      "traditional": "無形的",
+      "pinyin": "wúxíng de"
+    },
+    {
+      "id": 360409,
+      "translation": {
+        "en": {
+          "short": "reversible",
+          "long": "having the ability to be undone or corrected",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "reversibel",
+          "long": "memiliki kemampuan untuk dibatalkan atau diperbaiki",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360409.jpeg",
+      "simplified": "可逆的",
+      "traditional": "可逆的",
+      "pinyin": "kěnì de"
+    },
+    {
+      "id": 360410,
+      "translation": {
+        "en": {
+          "short": "irreversible",
+          "long": "unable to be undone, changed, or corrected once something has occurred",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak dapat diubah",
+          "long": "tidak dapat dibatalkan, diubah, atau diperbaiki setelah sesuatu terjadi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360410.jpeg",
+      "simplified": "不可逆转的",
+      "traditional": "不可逆轉的",
+      "pinyin": "bùkě nì zhuǎn de"
+    },
+    {
+      "id": 360411,
+      "translation": {
+        "en": {
+          "short": "controllable",
+          "long": "able to be managed or directed to achieve a desired outcome",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dikendalikan",
+          "long": "dapat dikelola atau diarahkan untuk mencapai hasil yang diinginkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360411.jpeg",
+      "simplified": "可控的",
+      "traditional": "可控的",
+      "pinyin": "kě kòng de"
+    },
+    {
+      "id": 360412,
+      "translation": {
+        "en": {
+          "short": "uncontrollable",
+          "long": "difficult to manage, often leading to challenges or problems",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak terkendali",
+          "long": "sulit dikelola, seringkali mengarah pada tantangan atau masalah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360412.jpeg",
+      "simplified": "无法控制的",
+      "traditional": "無法控制的",
+      "pinyin": "wúfǎ kòngzhì de"
+    },
+    {
+      "id": 360413,
+      "translation": {
+        "en": {
+          "short": "printable",
+          "long": "suitable for publication because of lacking content that is morally or legally objectionable",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dicetak",
+          "long": "Cocok untuk publikasi karena kurang konten yang secara moral atau hukum tidak dapat diterima",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360413.jpeg",
+      "simplified": "可打印",
+      "traditional": "可打印",
+      "pinyin": "kě dǎyìn"
+    },
+    {
+      "id": 360415,
+      "translation": {
+        "en": {
+          "short": "intractable",
+          "long": "difficult to manage, control, or resolve",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "keras kepala",
+          "long": "sulit dikelola, mengendalikan, atau menyelesaikannya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360415.jpeg",
+      "simplified": "棘手的",
+      "traditional": "棘手的",
+      "pinyin": "jíshǒu de"
+    },
+    {
+      "id": 360416,
+      "translation": {
+        "en": {
+          "short": "taxable",
+          "long": "subject to being taxed by the government",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kena pajak",
+          "long": "Tunduk dikenakan pajak oleh pemerintah",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360416.jpeg",
+      "simplified": "应纳税的",
+      "traditional": "應納稅的",
+      "pinyin": "Yīng nàshuì de"
+    },
+    {
+      "id": 360417,
+      "translation": {
+        "en": {
+          "short": "enforceable",
+          "long": "able to be legally upheld or made effective according to established rules",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat ditegakkan",
+          "long": "dapat ditegakkan secara hukum atau dibuat efektif sesuai dengan aturan yang ditetapkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360417.jpeg",
+      "simplified": "可执行的",
+      "traditional": "可執行的",
+      "pinyin": "kězhí xíng de"
+    },
+    {
+      "id": 360419,
+      "translation": {
+        "en": {
+          "short": "variable",
+          "long": "subject to change or variation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "variabel",
+          "long": "tunduk pada perubahan atau variasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360419.jpeg",
+      "simplified": "多变的",
+      "traditional": "多變的",
+      "pinyin": "duōbiàn de"
+    },
+    {
+      "id": 360421,
+      "translation": {
+        "en": {
+          "short": "applicable",
+          "long": "relevant to someone or something in a particular context or situation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berlaku",
+          "long": "relevan bagi seseorang atau sesuatu dalam konteks atau situasi tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360421.jpeg",
+      "simplified": "无效（合法）",
+      "traditional": "無效（合法）",
+      "pinyin": "wúxiào héfǎ"
+    },
+    {
+      "id": 360422,
+      "translation": {
+        "en": {
+          "short": "playable",
+          "long": "suitable or able to be played",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bisa dimainkan",
+          "long": "cocok atau bisa dimainkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360422.jpeg",
+      "simplified": "可玩的",
+      "traditional": "可玩的",
+      "pinyin": "kě wán de"
+    },
+    {
+      "id": 360517,
+      "translation": {
+        "en": {
+          "short": "customizable",
+          "long": "capable of being modified or tailored to meet specific preferences or requirements",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat disesuaikan",
+          "long": "mampu dimodifikasi atau disesuaikan untuk memenuhi preferensi atau persyaratan tertentu",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360517.jpeg",
+      "simplified": "可定制",
+      "traditional": "可定制",
+      "pinyin": "kě dìngzhì"
+    },
+    {
+      "id": 360519,
+      "translation": {
+        "en": {
+          "short": "searchable",
+          "long": "capable of being easily looked up or found, especially in digital formats like databases or websites",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dicari",
+          "long": "Mampu dengan mudah dilihat atau ditemukan, terutama dalam format digital seperti database atau situs web",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360519.jpeg",
+      "simplified": "可搜索的",
+      "traditional": "可搜索的",
+      "pinyin": "kě sōusuǒ de"
+    },
+    {
+      "id": 360521,
+      "translation": {
+        "en": {
+          "short": "clickable",
+          "long": "capable of being easily activated or selected by clicking",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diklik",
+          "long": "mampu dengan mudah diaktifkan atau dipilih dengan mengklik",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360521.jpeg",
+      "simplified": "可点击的",
+      "traditional": "可點擊的",
+      "pinyin": "kě diǎnjī de"
+    },
+    {
+      "id": 360523,
+      "translation": {
+        "en": {
+          "short": "programmable",
+          "long": "capable of being customized or set up to perform specific tasks or operations according to user instructions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat diprogram",
+          "long": "mampu disesuaikan atau diatur untuk melakukan tugas atau operasi tertentu sesuai dengan instruksi pengguna",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360523.jpeg",
+      "simplified": "可编程的",
+      "traditional": "可編程的",
+      "pinyin": "kěbiān chéng de"
+    },
+    {
+      "id": 360525,
+      "translation": {
+        "en": {
+          "short": "shareable",
+          "long": "capable of being shared or easily distributed among individuals or groups",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "dapat dibagikan",
+          "long": "mampu dibagikan atau dengan mudah didistribusikan di antara individu atau kelompok",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/360525.jpeg",
+      "simplified": "可分享的",
+      "traditional": "可分享的",
+      "pinyin": "kěfēn xiǎng de"
+    }
+  ]
+}

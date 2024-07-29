@@ -1,0 +1,925 @@
+{
+  "id": 793,
+  "title": {
+    "en": "Operations and Procedures",
+    "id": "Operasi dan Prosedur"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to operations and procedures, such as \"angioplasty\", \"bypass\", and \"graft\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan operasi dan prosedur, seperti \"angioplasty\", \"bypass\", dan \"graft\"."
+  },
+  "cards": [
+    {
+      "id": 235420,
+      "translation": {
+        "en": {
+          "short": "amputation",
+          "long": "surgical removal of a limb or a part of it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "amputasi",
+          "long": "Pengangkatan bedah anggota tubuh atau sebagian darinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235420.jpeg",
+      "simplified": "切断",
+      "traditional": "切斷",
+      "pinyin": "qiēduàn"
+    },
+    {
+      "id": 235425,
+      "translation": {
+        "en": {
+          "short": "bypass",
+          "long": "a surgical procedure in which a surgeon creates a new pathway for the transport of substances in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalan pintas",
+          "long": "Prosedur bedah di mana seorang ahli bedah menciptakan jalur baru untuk pengangkutan zat dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235425.jpeg",
+      "simplified": "旁路",
+      "traditional": "旁路",
+      "pinyin": "pánglù"
+    },
+    {
+      "id": 235430,
+      "translation": {
+        "en": {
+          "short": "circumcision",
+          "long": "the surgical removal of the protecting loose skin of a male's penis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyunatan",
+          "long": "Penghapusan bedah kulit yang longgar dari penis pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235430.jpeg",
+      "simplified": "割礼",
+      "traditional": "割禮",
+      "pinyin": "gēlǐ"
+    },
+    {
+      "id": 299233,
+      "translation": {
+        "en": {
+          "short": "angioplasty",
+          "long": "a medical procedure that involves widening narrowed or blocked blood vessels, typically performed on arteries, to improve blood flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angioplasty",
+          "long": "Prosedur medis yang melibatkan pelebaran menyempit atau menghalangi pembuluh darah, biasanya dilakukan pada arteri, untuk meningkatkan aliran darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299233.jpeg",
+      "simplified": "血管成形术",
+      "traditional": "血管成形術",
+      "pinyin": "xuèguǎn chéngxíng shù"
+    },
+    {
+      "id": 299234,
+      "translation": {
+        "en": {
+          "short": "appendectomy",
+          "long": "a surgical procedure in which the appendix gets removed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembedahan usus buntu",
+          "long": "Prosedur bedah di mana lampiran dihapus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299234.jpeg",
+      "simplified": "阑尾切除术",
+      "traditional": "闌尾切除術",
+      "pinyin": "lánwěi qiē chú shù"
+    },
+    {
+      "id": 299235,
+      "translation": {
+        "en": {
+          "short": "colostomy",
+          "long": "a surgical procedure where an opening is made in the abdomen to redirect part of the colon for waste elimination",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kolostomi",
+          "long": "Prosedur bedah di mana celah dilakukan di perut untuk mengarahkan kembali bagian usus besar untuk eliminasi limbah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299235.jpeg",
+      "simplified": "结肠造口术",
+      "traditional": "結腸造口術",
+      "pinyin": "jiécháng zào kǒu shù"
+    },
+    {
+      "id": 235434,
+      "translation": {
+        "en": {
+          "short": "dilation and curettage",
+          "long": "a surgical procedure to remove tissue from the inner lining of the uterus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelebaran dan kuretase",
+          "long": "Prosedur bedah untuk menghilangkan jaringan dari lapisan dalam rahim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235434.jpeg",
+      "simplified": "刮宫术",
+      "traditional": "刮宮術",
+      "pinyin": "guā Gōng shù"
+    },
+    {
+      "id": 299239,
+      "translation": {
+        "en": {
+          "short": "gender-affirming surgery",
+          "long": "a medical procedure to align a person's physical characteristics with their gender identity, often used by transgender individuals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi yang menguatkan gender",
+          "long": "Prosedur medis untuk menyelaraskan karakteristik fisik seseorang dengan identitas gender mereka, sering digunakan oleh individu transgender",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299239.jpeg",
+      "simplified": "性别肯定手术",
+      "traditional": "性別肯定手術",
+      "pinyin": "xìngbié kěndìng shǒushù"
+    },
+    {
+      "id": 299248,
+      "translation": {
+        "en": {
+          "short": "coronary artery bypass surgery",
+          "long": "a procedure that creates new pathways for blood flow around blocked or narrowed coronary arteries to improve heart muscle blood supply",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi bypass arteri koroner",
+          "long": "Prosedur yang menciptakan jalur baru untuk aliran darah di sekitar arteri koroner yang terhalang atau menyempit untuk meningkatkan suplai darah otot jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299248.jpeg",
+      "simplified": "冠状动脉搭桥手术",
+      "traditional": "冠狀動脈搭橋手術",
+      "pinyin": "guānzhuàng dòng mài dā qiáo shǒushù"
+    },
+    {
+      "id": 299249,
+      "translation": {
+        "en": {
+          "short": "hysterectomy",
+          "long": "a surgical procedure in which a woman's uterus is removed, often performed for medical reasons such as to treat certain health conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "histerektomi",
+          "long": "Prosedur bedah di mana rahim wanita diangkat, sering dilakukan karena alasan medis seperti mengobati kondisi kesehatan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299249.jpeg",
+      "simplified": "子宫切除术",
+      "traditional": "子宮切除術",
+      "pinyin": "zǐgōng qiēchú shù"
+    },
+    {
+      "id": 299250,
+      "translation": {
+        "en": {
+          "short": "laparoscopy",
+          "long": "a minimally invasive surgical procedure that uses a small camera to view and treat conditions inside the abdomen or pelvis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laparoskopi",
+          "long": "Prosedur bedah invasif minimal yang menggunakan kamera kecil untuk melihat dan mengobati kondisi di dalam perut atau panggul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299250.jpeg",
+      "simplified": "腹腔镜检查",
+      "traditional": "腹腔鏡檢查",
+      "pinyin": "fùqiāng jìng jiǎnchá"
+    },
+    {
+      "id": 299251,
+      "translation": {
+        "en": {
+          "short": "laparotomy",
+          "long": "a surgical procedure that involves making a larger cut in the abdomen to access and treat internal organs or address certain medical conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laparotomi",
+          "long": "Prosedur bedah yang melibatkan membuat potongan yang lebih besar di perut untuk mengakses dan mengobati organ internal atau mengatasi kondisi medis tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299251.jpeg",
+      "simplified": "剖腹手术",
+      "traditional": "剖腹手術",
+      "pinyin": "pōufù shǒushù"
+    },
+    {
+      "id": 235437,
+      "translation": {
+        "en": {
+          "short": "gastric bypass",
+          "long": "a type of weight-loss surgery that that aims to help manage obesity by shrinking the size of someone's stomach so that they will eat less food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bypass lambung",
+          "long": "Jenis operasi penurunan berat badan yang bertujuan untuk membantu mengelola obesitas dengan menyusut ukuran perut seseorang sehingga mereka akan makan lebih sedikit makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235437.jpeg",
+      "simplified": "胃绕道",
+      "traditional": "胃繞道",
+      "pinyin": "wèirào dào"
+    },
+    {
+      "id": 235438,
+      "translation": {
+        "en": {
+          "short": "graft",
+          "long": "a surgical procedure by which a doctor replaces a missing or damaged tissue or bone with a healthy substitute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "korupsi",
+          "long": "Prosedur bedah dimana dokter mengganti jaringan atau tulang yang hilang atau rusak dengan pengganti yang sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235438.jpeg",
+      "simplified": "接枝",
+      "traditional": "接枝",
+      "pinyin": "jiēzhī"
+    },
+    {
+      "id": 299253,
+      "translation": {
+        "en": {
+          "short": "lobotomy",
+          "long": "a surgical operation that is performed in order to treat severe mental disorders by cutting into part of a person’s brain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lobotomi",
+          "long": "Operasi bedah yang dilakukan untuk mengobati gangguan mental yang parah dengan memotong bagian dari otak seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299253.jpeg",
+      "simplified": "脑白质切除术",
+      "traditional": "腦白質切除術",
+      "pinyin": "nǎo Bái zhì qiēchú shù"
+    },
+    {
+      "id": 299254,
+      "translation": {
+        "en": {
+          "short": "lumpectomy",
+          "long": "a surgical procedure in which a small, localized mass or tumor, typically in the breast, is removed while preserving the surrounding tissue",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lumpektomi",
+          "long": "Prosedur bedah di mana massa atau tumor kecil yang terlokalisasi, biasanya di payudara, dihilangkan sambil menjaga jaringan di sekitarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299254.jpeg",
+      "simplified": "肿瘤切除术",
+      "traditional": "腫瘤切除術",
+      "pinyin": "zhǒngliú qiè chú shù"
+    },
+    {
+      "id": 299256,
+      "translation": {
+        "en": {
+          "short": "microsurgery",
+          "long": "a precise surgical technique that uses a microscope for intricate procedures on small structures",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bedah mikro",
+          "long": "Teknik bedah yang tepat yang menggunakan mikroskop untuk prosedur rumit pada struktur kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299256.jpeg",
+      "simplified": "显微外科",
+      "traditional": "顯微外科",
+      "pinyin": "xiǎnwēi wàikē"
+    },
+    {
+      "id": 299257,
+      "translation": {
+        "en": {
+          "short": "open-heart surgery",
+          "long": "any type of surgery that requires making a large incision in the chest wall to make the heart easier for the surgeon to reach",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi jantung terbuka",
+          "long": "Segala jenis operasi yang mengharuskan membuat sayatan besar di dinding dada untuk membuat jantung lebih mudah bagi ahli bedah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299257.jpeg",
+      "simplified": "心脏直视手术",
+      "traditional": "心臟直視手術",
+      "pinyin": "xīnzàng zhíshì shǒushù"
+    },
+    {
+      "id": 235441,
+      "translation": {
+        "en": {
+          "short": "implant",
+          "long": "a device or drug delivery system that is permanently placed in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mencangkok",
+          "long": "perangkat atau sistem pengiriman obat yang ditempatkan secara permanen di dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235441.jpeg",
+      "simplified": "注入",
+      "traditional": "注入",
+      "pinyin": "zhùrù"
+    },
+    {
+      "id": 235442,
+      "translation": {
+        "en": {
+          "short": "incision",
+          "long": "a surgical cut made in flesh or skin; the action or process of making this cut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "irisan",
+          "long": "potongan bedah yang dibuat dalam daging atau kulit; tindakan atau proses membuat potongan ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235442.jpeg",
+      "simplified": "切口",
+      "traditional": "切口",
+      "pinyin": "qiēkǒu"
+    },
+    {
+      "id": 299265,
+      "translation": {
+        "en": {
+          "short": "vaginoplasty",
+          "long": "a surgical procedure to reconstruct or create a vagina, commonly used for gender affirmation or medical purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vaginoplasti",
+          "long": "Prosedur bedah untuk merekonstruksi atau membuat vagina, biasanya digunakan untuk penegasan gender atau tujuan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299265.jpeg",
+      "simplified": "阴道成形术",
+      "traditional": "陰道成形術",
+      "pinyin": "yīndào chéngxíng shù"
+    },
+    {
+      "id": 299269,
+      "translation": {
+        "en": {
+          "short": "lithotomy",
+          "long": "a surgical procedure to remove stones from the urinary tract",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "litotomi",
+          "long": "Prosedur bedah untuk menghilangkan batu dari saluran kemih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299269.jpeg",
+      "simplified": "岩性切开术",
+      "traditional": "岩性切開術",
+      "pinyin": "yán xìng qiē kāi shù"
+    },
+    {
+      "id": 299270,
+      "translation": {
+        "en": {
+          "short": "laminectomy",
+          "long": "a surgical procedure that involves removing part of the vertebral bone, called the lamina, to relieve pressure on the spinal cord or nerves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laminektomi",
+          "long": "Prosedur bedah yang melibatkan menghilangkan bagian tulang vertebral, disebut lamina, untuk menghilangkan tekanan pada sumsum tulang belakang atau saraf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299270.jpeg",
+      "simplified": "椎板切除术",
+      "traditional": "椎板切除術",
+      "pinyin": "chuí bǎn qiēchú shù"
+    },
+    {
+      "id": 299272,
+      "translation": {
+        "en": {
+          "short": "hemilaminectomy",
+          "long": "a surgical procedure that removes part of a vertebral lamina to relieve spinal nerve pressure or treat spinal conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hemilaminektomi",
+          "long": "Prosedur bedah yang menghilangkan bagian dari lamina vertebral untuk meredakan tekanan saraf tulang belakang atau mengobati kondisi tulang belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299272.jpeg",
+      "simplified": "半胺切除术",
+      "traditional": "半胺切除術",
+      "pinyin": "bàn àn qiēchú shù"
+    },
+    {
+      "id": 235445,
+      "translation": {
+        "en": {
+          "short": "neurosurgery",
+          "long": "a surgical operation performed on the nervous system, particularly the brain and spinal cord",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bedah Saraf",
+          "long": "Operasi bedah dilakukan pada sistem saraf, terutama otak dan sumsum tulang belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235445.jpeg",
+      "simplified": "神经外科",
+      "traditional": "神經外科",
+      "pinyin": "shénjīng wài kē"
+    },
+    {
+      "id": 299258,
+      "translation": {
+        "en": {
+          "short": "tonsillectomy",
+          "long": "a surgical procedure that involves the removal of the tonsils, often performed to alleviate recurrent throat infections or breathing difficulties",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi amandel",
+          "long": "Prosedur bedah yang melibatkan pengangkatan amandel, sering dilakukan untuk mengurangi infeksi tenggorokan berulang atau kesulitan pernapasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299258.jpeg",
+      "simplified": "扁桃体切除术",
+      "traditional": "扁桃體切除術",
+      "pinyin": "biǎntáo tǐ qiēchú shù"
+    },
+    {
+      "id": 299259,
+      "translation": {
+        "en": {
+          "short": "tracheotomy",
+          "long": "a surgical procedure that involves creating an opening in the neck to provide a direct airway, often done to assist with breathing in cases of airway obstruction or respiratory problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trakeotomi",
+          "long": "Prosedur bedah yang melibatkan pembuatan celah di leher untuk menyediakan jalan napas langsung, sering dilakukan untuk membantu bernafas dalam kasus obstruksi jalan napas atau masalah pernapasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299259.jpeg",
+      "simplified": "气管切开术",
+      "traditional": "氣管切開術",
+      "pinyin": "qìguǎn qiē kāi shù"
+    },
+    {
+      "id": 299261,
+      "translation": {
+        "en": {
+          "short": "vasectomy",
+          "long": "a surgical operation for male sterilization or permanent contraception",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vasektomi",
+          "long": "Operasi bedah untuk sterilisasi pria atau kontrasepsi permanen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299261.jpeg",
+      "simplified": "输精管结扎术",
+      "traditional": "輸精管結紮術",
+      "pinyin": "shūjīng guǎn jiézā shù"
+    },
+    {
+      "id": 299262,
+      "translation": {
+        "en": {
+          "short": "xenotransplant",
+          "long": "a medical procedure involving the transplantation of organs from animals, usually pigs, to humans to address organ shortages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "xenotransplant",
+          "long": "Prosedur medis yang melibatkan transplantasi organ dari hewan, biasanya babi, ke manusia untuk mengatasi kekurangan organ",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299262.jpeg",
+      "simplified": "异种移植",
+      "traditional": "異種移植",
+      "pinyin": "yìzhǒng yízhí"
+    },
+    {
+      "id": 299285,
+      "translation": {
+        "en": {
+          "short": "spare-part surgery",
+          "long": "a surgical procedure to replace defective or damaged organs by transplanting or implanting artificial ones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi bagian cadangan",
+          "long": "Prosedur bedah untuk menggantikan organ yang rusak atau rusak dengan mentransplantasikan atau menanamkan yang buatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299285.jpeg",
+      "simplified": "备件手术",
+      "traditional": "備件手術",
+      "pinyin": "bèijiàn shǒushù"
+    },
+    {
+      "id": 299311,
+      "translation": {
+        "en": {
+          "short": "endoscopic sinus surgery",
+          "long": "a minimally invasive procedure that uses an endoscope to treat sinus-related conditions by removing obstructions or enlarging sinus passages",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi sinus endoskopi",
+          "long": "Prosedur invasif minimal yang menggunakan endoskop untuk mengobati kondisi terkait sinus dengan menghilangkan penghalang atau memperbesar saluran sinus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299311.jpeg",
+      "simplified": "内窥镜窦手术",
+      "traditional": "內窺鏡竇手術",
+      "pinyin": "nèikuī jìng Dòu shǒushù"
+    },
+    {
+      "id": 299312,
+      "translation": {
+        "en": {
+          "short": "transplantation",
+          "long": "a medical procedure involving the movement of organs, tissues, or cells from one person to another to replace or repair damaged or failing body parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transplantasi",
+          "long": "Prosedur medis yang melibatkan pergerakan organ, jaringan, atau sel dari satu orang ke orang lain untuk menggantikan atau memperbaiki bagian tubuh yang rusak atau gagal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299312.jpeg",
+      "simplified": "移植",
+      "traditional": "移植",
+      "pinyin": "yízhí"
+    },
+    {
+      "id": 299351,
+      "translation": {
+        "en": {
+          "short": "maxillofacial surgery",
+          "long": "a medical treatment that involves surgical procedures for conditions related to the jaw, face, and mouth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi maksilofasial",
+          "long": "Perawatan medis yang melibatkan prosedur bedah untuk kondisi yang terkait dengan rahang, wajah, dan mulut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299351.jpeg",
+      "simplified": "颌面外科手术",
+      "traditional": "頜面外科手術",
+      "pinyin": "hé miàn wàikē shǒu shù"
+    },
+    {
+      "id": 300159,
+      "translation": {
+        "en": {
+          "short": "ablation",
+          "long": "a procedure to remove or destroy tissue, often used for treating tumors or cardiac rhythm issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ablasi",
+          "long": "prosedur untuk menghilangkan atau menghancurkan jaringan, sering digunakan untuk mengobati tumor atau masalah ritme jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300159.jpeg",
+      "simplified": "切除",
+      "traditional": "切除",
+      "pinyin": "qiēchú"
+    },
+    {
+      "id": 299505,
+      "translation": {
+        "en": {
+          "short": "mastectomy",
+          "long": "a surgical procedure involving the removal of the breast tissue, often performed as a treatment for breast cancer or as a preventive measure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mastektomi",
+          "long": "Prosedur bedah yang melibatkan pengangkatan jaringan payudara, sering dilakukan sebagai pengobatan untuk kanker payudara atau sebagai tindakan pencegahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/299505.jpeg",
+      "simplified": "乳房切除术",
+      "traditional": "乳房切除術",
+      "pinyin": "rǔfáng qiēchú shù"
+    },
+    {
+      "id": 340598,
+      "translation": {
+        "en": {
+          "short": "radiosurgery",
+          "long": "a non-invasive procedure that uses high-energy radiation to precisely treat tumors or lesions without surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Radiosurgery",
+          "long": "Prosedur non-invasif yang menggunakan radiasi berenergi tinggi untuk secara tepat mengobati tumor atau lesi tanpa operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340598.jpeg",
+      "simplified": "放射外科",
+      "traditional": "放射外科",
+      "pinyin": "fàngshè wàikē"
+    },
+    {
+      "id": 340599,
+      "translation": {
+        "en": {
+          "short": "lithotripsy",
+          "long": "a medical procedure that uses shock waves or lasers to break down kidney or urinary tract stones without surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lithotripsy",
+          "long": "Prosedur medis yang menggunakan gelombang kejut atau laser untuk memecah batu ginjal atau saluran kemih tanpa operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340599.jpeg",
+      "simplified": "碎石术",
+      "traditional": "碎石術",
+      "pinyin": "suìshí shù"
+    },
+    {
+      "id": 340600,
+      "translation": {
+        "en": {
+          "short": "stereotactic surgery",
+          "long": "a specialized surgical technique that uses three-dimensional coordinates or imaging guidance to precisely target and treat specific areas of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Operasi Stereotactic",
+          "long": "Teknik bedah khusus yang menggunakan koordinat tiga dimensi atau panduan pencitraan untuk secara tepat menargetkan dan mengobati area spesifik tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340600.jpeg",
+      "simplified": "立体指导手术",
+      "traditional": "立體指導手術",
+      "pinyin": "lìtǐ zhǐdǎo shǒushù"
+    },
+    {
+      "id": 340601,
+      "translation": {
+        "en": {
+          "short": "precordial thump",
+          "long": "a strong blow to the chest over the heart used to restore normal heart rhythm during cardiac arrest or arrhythmias",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Precordial Thump",
+          "long": "pukulan kuat ke dada di atas jantung yang digunakan untuk mengembalikan ritme jantung normal selama henti jantung atau aritmia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340601.jpeg",
+      "simplified": "心前区重击声",
+      "traditional": "心前區重擊聲",
+      "pinyin": "xīn qián Oū zhòngjī shēng"
+    },
+    {
+      "id": 340602,
+      "translation": {
+        "en": {
+          "short": "politzerization",
+          "long": "a procedure that clears blockages in the Eustachian tube by using positive pressure to equalize ear pressure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Politzerisasi",
+          "long": "Prosedur yang membersihkan penyumbatan dalam tabung eustachian dengan menggunakan tekanan positif untuk menyamakan tekanan telinga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340602.jpeg",
+      "simplified": "政治化",
+      "traditional": "政治化",
+      "pinyin": "zhèngzhì huà"
+    },
+    {
+      "id": 340603,
+      "translation": {
+        "en": {
+          "short": "hemofiltration",
+          "long": "blood filtering for managing kidney dysfunction or acute renal failure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hemofiltrasi",
+          "long": "penyaringan darah untuk mengelola disfungsi ginjal atau gagal ginjal akut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340603.jpeg",
+      "simplified": "血液滤过",
+      "traditional": "血液濾過",
+      "pinyin": "xuèyè lǜguò"
+    },
+    {
+      "id": 340604,
+      "translation": {
+        "en": {
+          "short": "extracorporeal membrane oxygenation",
+          "long": "a medical procedure that provides temporary mechanical support to the heart and lungs by circulating and oxygenating blood outside of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "oksigenasi membran ekstrakorporeal",
+          "long": "Prosedur medis yang memberikan dukungan mekanis sementara untuk jantung dan paru -paru dengan mengedarkan dan mengoksidasi darah di luar tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340604.jpeg",
+      "simplified": "体外膜氧合",
+      "traditional": "體外膜氧合",
+      "pinyin": "tǐwài mó yǎng gě"
+    },
+    {
+      "id": 340605,
+      "translation": {
+        "en": {
+          "short": "tracheal intubation",
+          "long": "a medical procedure that involves placing a tube into the trachea, or windpipe, to establish an open airway for breathing, often used in cases of respiratory distress or during anesthesia for surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intubasi trakea",
+          "long": "Prosedur medis yang melibatkan menempatkan tabung ke dalam trakea, atau batang tenggorokan, untuk membangun jalan napas terbuka untuk bernafas, sering digunakan dalam kasus gangguan pernapasan atau selama anestesi untuk operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340605.jpeg",
+      "simplified": "气管插管",
+      "traditional": "氣管插管",
+      "pinyin": "qìguǎn chāguǎn"
+    },
+    {
+      "id": 340606,
+      "translation": {
+        "en": {
+          "short": "intravenous therapy",
+          "long": "a medical procedure that involves delivering fluids, medications, or nutrients directly into a person's bloodstream through a vein using a needle or catheter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terapi intravena",
+          "long": "Prosedur medis yang melibatkan pengiriman cairan, obat -obatan, atau nutrisi langsung ke aliran darah seseorang melalui vena menggunakan jarum atau kateter",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/340606.jpeg",
+      "simplified": "静脉治疗",
+      "traditional": "靜脈治療",
+      "pinyin": "jìngmài zhìliáo"
+    },
+    {
+      "id": 389107,
+      "translation": {
+        "en": {
+          "short": "sterilization",
+          "long": "a medical procedure or method that makes a person or animal incapable of reproduction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sterilisasi",
+          "long": "Prosedur atau metode medis yang membuat seseorang atau hewan tidak mampu reproduksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389107.jpeg",
+      "simplified": "消毒",
+      "traditional": "消毒",
+      "pinyin": "xiāodú"
+    },
+    {
+      "id": 390747,
+      "translation": {
+        "en": {
+          "short": "tracheostomy",
+          "long": "a surgical procedure to create a breathing passage in the neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trakeostomi",
+          "long": "Prosedur bedah untuk membuat bagian pernapasan di leher",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390747.jpeg",
+      "simplified": "气管切开术",
+      "traditional": "氣管切開術",
+      "pinyin": "qìguǎn qiē kāi shù"
+    },
+    {
+      "id": 390748,
+      "translation": {
+        "en": {
+          "short": "bone marrow transplantation",
+          "long": "a procedure to replace damaged or diseased bone marrow with healthy stem cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transplantasi sumsum tulang",
+          "long": "Prosedur untuk menggantikan sumsum tulang yang rusak atau sakit dengan sel induk yang sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390748.jpeg",
+      "simplified": "骨髓移植",
+      "traditional": "骨髓移植",
+      "pinyin": "gǔsuǐ yí zhí"
+    },
+    {
+      "id": 390749,
+      "translation": {
+        "en": {
+          "short": "deep brain stimulation",
+          "long": "a surgical procedure to implant electrodes in the brain to treat movement disorders like Parkinson's disease",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stimulasi otak dalam",
+          "long": "Prosedur bedah untuk menanamkan elektroda di otak untuk mengobati gangguan gerakan seperti penyakit Parkinson",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390749.jpeg",
+      "simplified": "脑深部刺激",
+      "traditional": "腦深部刺激",
+      "pinyin": "nǎo shēn bù cìjī"
+    }
+  ]
+}

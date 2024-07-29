@@ -1,0 +1,925 @@
+{
+  "id": 3311,
+  "title": {
+    "en": "Eating Out",
+    "id": "Makan di luar"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to eating out such as \"booth\", \"delivery\", and \"valet\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan makan di luar seperti \"stan\", \"pengiriman\", dan \"pelayan\"."
+  },
+  "cards": [
+    {
+      "id": 324100,
+      "translation": {
+        "en": {
+          "short": "restaurant attendant",
+          "long": "an individual employed in a restaurant to assist with various tasks such as serving food, taking orders, and ensuring a positive dining experience for customers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petugas restoran",
+          "long": "seseorang yang dipekerjakan di restoran untuk membantu berbagai tugas seperti menyajikan makanan, menerima pesanan, dan memastikan pengalaman bersantap yang positif bagi pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324100.jpeg",
+      "simplified": "餐厅服务员",
+      "traditional": "餐廳服務員",
+      "pinyin": "cāntīng fúwù yuán"
+    },
+    {
+      "id": 324101,
+      "translation": {
+        "en": {
+          "short": "table service",
+          "long": "a dining arrangement in a restaurant where waitstaff serve food and beverages directly to seated customers at their tables, providing a personalized and attentive experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layanan meja",
+          "long": "Pengaturan makan di restoran tempat pelayan menyajikan makanan dan minuman langsung ke pelanggan yang duduk di meja mereka, memberikan pengalaman yang dipersonalisasi dan penuh perhatian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324101.jpeg",
+      "simplified": "餐桌服务",
+      "traditional": "餐桌服務",
+      "pinyin": "cānzhuō fúwù"
+    },
+    {
+      "id": 324104,
+      "translation": {
+        "en": {
+          "short": "Michelin Guide",
+          "long": "a prestigious international restaurant rating system and guidebook that awards Michelin stars to restaurants based on their culinary excellence and quality of service",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Panduan Michelin",
+          "long": "Sistem Peringkat Restoran Internasional yang bergengsi dan buku panduan yang memberi penghargaan kepada Michelin dibintangi oleh restoran berdasarkan keunggulan kuliner dan kualitas layanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324104.jpeg",
+      "simplified": "米其林指南",
+      "traditional": "米其林指南",
+      "pinyin": "Mǐqí lín zhǐnán"
+    },
+    {
+      "id": 324106,
+      "translation": {
+        "en": {
+          "short": "busboy",
+          "long": "someone whose job is to clear tables and dirty dishes, etc. in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Busboy",
+          "long": "seseorang yang tugasnya adalah untuk membersihkan meja dan hidangan kotor, dll. Di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324106.jpeg",
+      "simplified": "勤杂工",
+      "traditional": "勤雜工",
+      "pinyin": "qínzá gōng"
+    },
+    {
+      "id": 324118,
+      "translation": {
+        "en": {
+          "short": "greeter",
+          "long": "a person who works in a restaurant, casino or shop, welcoming customers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyambut",
+          "long": "Seseorang yang bekerja di restoran, kasino atau toko, menyambut pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324118.jpeg",
+      "simplified": "招待员",
+      "traditional": "招待員",
+      "pinyin": "zhāodài yuán"
+    },
+    {
+      "id": 324120,
+      "translation": {
+        "en": {
+          "short": "kitchen porter",
+          "long": "someone whose job is to wash dishes and do other simple tasks in the kitchen of a hotel, restaurant, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Porter dapur",
+          "long": "Seseorang yang tugasnya adalah mencuci piring dan melakukan tugas sederhana lainnya di dapur hotel, restoran, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324120.jpeg",
+      "simplified": "厨房搬运工",
+      "traditional": "廚房搬運工",
+      "pinyin": "chúfáng bānyùn gōng"
+    },
+    {
+      "id": 324123,
+      "translation": {
+        "en": {
+          "short": "regular",
+          "long": "a person who buys something from a place or visits it very often",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reguler",
+          "long": "seseorang yang membeli sesuatu dari suatu tempat atau sering mengunjunginya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324123.jpeg",
+      "simplified": "老顾客",
+      "traditional": "老顧客",
+      "pinyin": "lǎo gùkè"
+    },
+    {
+      "id": 324124,
+      "translation": {
+        "en": {
+          "short": "server",
+          "long": "someone whose job is to serve meals to customers in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "server",
+          "long": "seseorang yang tugasnya adalah menyajikan makanan untuk pelanggan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324124.jpeg",
+      "simplified": "服务器",
+      "traditional": "伺服器",
+      "pinyin": "fúwù qì"
+    },
+    {
+      "id": 324126,
+      "translation": {
+        "en": {
+          "short": "short-order cook",
+          "long": "someone whose job is preparing food that can be quickly or easily cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "juru masak orde pendek",
+          "long": "seseorang yang pekerjaannya menyiapkan makanan yang bisa dengan cepat atau mudah dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324126.jpeg",
+      "simplified": "快餐厨师",
+      "traditional": "快餐廚師",
+      "pinyin": "kuàicān chúshī"
+    },
+    {
+      "id": 324128,
+      "translation": {
+        "en": {
+          "short": "sommelier",
+          "long": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sommelier",
+          "long": "Seseorang yang bertugas menyajikan anggur dan membantu pelanggan memilih anggur di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324128.jpeg",
+      "simplified": "侍酒师",
+      "traditional": "侍酒師",
+      "pinyin": "shì jiǔ Shī"
+    },
+    {
+      "id": 324129,
+      "translation": {
+        "en": {
+          "short": "valet",
+          "long": "someone whose job is parking customers' cars at restaurants or hotels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan",
+          "long": "seseorang yang pekerjaannya adalah parkir mobil pelanggan di restoran atau hotel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324129.jpeg",
+      "simplified": "停车服务员（酒店和餐厅）",
+      "traditional": "停車服務員（酒店和餐廳）",
+      "pinyin": "tíngchē fúwù yuán jiǔdiàn hé cāntīng"
+    },
+    {
+      "id": 324131,
+      "translation": {
+        "en": {
+          "short": "waiter",
+          "long": "a man who brings people food and drinks in restaurants, cafes, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan",
+          "long": "Seorang pria yang membawa orang dan minuman di restoran, kafe, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324131.jpeg",
+      "simplified": "服务员",
+      "traditional": "服務生",
+      "pinyin": "fúwù yuán"
+    },
+    {
+      "id": 324133,
+      "translation": {
+        "en": {
+          "short": "waitress",
+          "long": "a woman who brings people food and drinks in restaurants, cafes, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan",
+          "long": "Seorang wanita yang membawa orang dan minuman di restoran, kafe, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324133.jpeg",
+      "simplified": "女服务员",
+      "traditional": "女服務員",
+      "pinyin": "nǚ fúwù yuán"
+    },
+    {
+      "id": 324134,
+      "translation": {
+        "en": {
+          "short": "waitstaff",
+          "long": "the group of people who wait on tables in a restaurant or bar, such as waiters and waitresses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Waitstaff",
+          "long": "Sekelompok orang yang menunggu di meja di restoran atau bar, seperti pelayan dan pelayan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324134.jpeg",
+      "simplified": "等待员工",
+      "traditional": "等待員工",
+      "pinyin": "děngdài yuángōng"
+    },
+    {
+      "id": 324136,
+      "translation": {
+        "en": {
+          "short": "wine steward",
+          "long": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelayan anggur",
+          "long": "Seseorang yang bertugas menyajikan anggur dan membantu pelanggan memilih anggur di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324136.jpeg",
+      "simplified": "酒管家",
+      "traditional": "酒管家",
+      "pinyin": "jiǔ guǎnjiā"
+    },
+    {
+      "id": 324137,
+      "translation": {
+        "en": {
+          "short": "a la carte",
+          "long": "a menu in which each dish has a separate price",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "A la carte",
+          "long": "menu di mana setiap hidangan memiliki harga terpisah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324137.jpeg",
+      "simplified": "价格菜单",
+      "traditional": "價格菜單",
+      "pinyin": "jiàgé càidān"
+    },
+    {
+      "id": 324139,
+      "translation": {
+        "en": {
+          "short": "bill",
+          "long": "a piece of printed paper that shows the amount of money a person has to pay for the meal they have had in a bar or restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tagihan",
+          "long": "selembar kertas cetak yang menunjukkan jumlah uang yang harus dibayar seseorang untuk makanan yang mereka miliki di bar atau restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324139.jpeg",
+      "simplified": "账单",
+      "traditional": "賬單",
+      "pinyin": "zhàngdān"
+    },
+    {
+      "id": 324141,
+      "translation": {
+        "en": {
+          "short": "to book",
+          "long": "to reserve a specific thing such as a seat, ticket, hotel room, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memesan",
+          "long": "Untuk memesan hal tertentu seperti kursi, tiket, kamar hotel, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324141.jpeg",
+      "simplified": "定",
+      "traditional": "定",
+      "pinyin": "dìng"
+    },
+    {
+      "id": 324143,
+      "translation": {
+        "en": {
+          "short": "booth",
+          "long": "a place where customers of a bar or restaurant sit, with two high-backed seats and a table in the middle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "stan",
+          "long": "Tempat di mana pelanggan bar atau restoran duduk, dengan dua kursi berputar tinggi dan meja di tengah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324143.jpeg",
+      "simplified": "亭",
+      "traditional": "亭",
+      "pinyin": "tíng"
+    },
+    {
+      "id": 324145,
+      "translation": {
+        "en": {
+          "short": "check",
+          "long": "a small piece of paper showing the foods and drinks that we have ordered in a restaurant, cafe, etc. and the amount that we have to pay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memeriksa",
+          "long": "selembar kertas kecil yang menunjukkan makanan dan minuman yang telah kami pesan di restoran, kafe, dll. Dan jumlah yang harus kami bayar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324145.jpeg",
+      "simplified": "支票",
+      "traditional": "支票",
+      "pinyin": "zhīpiào"
+    },
+    {
+      "id": 324148,
+      "translation": {
+        "en": {
+          "short": "corkage",
+          "long": "an amount of money charged by a restaurant for drinking a wine that was bought from somewhere else by the customer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Corkage",
+          "long": "Sejumlah uang yang dibebankan oleh restoran untuk minum anggur yang dibeli dari tempat lain oleh pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324148.jpeg",
+      "simplified": "餐厅对从其他地方购买的每瓶葡萄酒收取费用",
+      "traditional": "餐廳對從其他地方購買的每瓶葡萄酒收取費用",
+      "pinyin": "cāntīng duì cóng qítā dìfāng gòumǎi de měi píng pútao jiǔ shōuqǔ fèiyòng"
+    },
+    {
+      "id": 324149,
+      "translation": {
+        "en": {
+          "short": "to dine out",
+          "long": "to have dinner in a restaurant or at someone else's home",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk makan",
+          "long": "untuk makan malam di restoran atau di rumah orang lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324149.jpeg",
+      "simplified": "外出就餐",
+      "traditional": "外出就餐",
+      "pinyin": "wàichū jiùcān"
+    },
+    {
+      "id": 324150,
+      "translation": {
+        "en": {
+          "short": "doggy bag",
+          "long": "a bag for taking home one's leftover food in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tas anjing",
+          "long": "tas untuk membawa pulang sisa makanan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324150.jpeg",
+      "simplified": "打包袋",
+      "traditional": "打包袋",
+      "pinyin": "dǎbāo dài"
+    },
+    {
+      "id": 324152,
+      "translation": {
+        "en": {
+          "short": "gratuity",
+          "long": "an additional amount of money given to someone for their services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "persen",
+          "long": "Jumlah uang tambahan yang diberikan kepada seseorang untuk layanan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324152.jpeg",
+      "simplified": "赏钱",
+      "traditional": "賞錢",
+      "pinyin": "shǎngqian"
+    },
+    {
+      "id": 324153,
+      "translation": {
+        "en": {
+          "short": "to tip",
+          "long": "to give a small amount of money to a waiter, driver, etc. to thank them for their services",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memberi tip",
+          "long": "untuk memberikan sedikit uang kepada pelayan, pengemudi, dll. Untuk berterima kasih atas layanan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324153.jpeg",
+      "simplified": "给小费",
+      "traditional": "給小費",
+      "pinyin": "gěi xiǎofèi"
+    },
+    {
+      "id": 324154,
+      "translation": {
+        "en": {
+          "short": "table d'hote",
+          "long": "a menu with a complete meal and a limited number of choices at a set total price",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meja d'Hote",
+          "long": "menu dengan makanan lengkap dan sejumlah pilihan dengan harga total yang ditetapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324154.jpeg",
+      "simplified": "套餐",
+      "traditional": "套餐",
+      "pinyin": "tàocān"
+    },
+    {
+      "id": 324159,
+      "translation": {
+        "en": {
+          "short": "tasting menu",
+          "long": "a curated selection of dishes offered by a restaurant, typically in multiple courses, designed to showcase the chef's culinary skills and creativity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Menu mencicipi",
+          "long": "Pilihan hidangan yang dikuratori yang ditawarkan oleh restoran, biasanya dalam berbagai kursus, dirancang untuk menampilkan keterampilan dan kreativitas kuliner koki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324159.jpeg",
+      "simplified": "品尝菜单",
+      "traditional": "品嚐菜單",
+      "pinyin": "pǐncháng càidān"
+    },
+    {
+      "id": 324163,
+      "translation": {
+        "en": {
+          "short": "delivery",
+          "long": "the act or process of taking goods, letters, etc. to whomever they have been sent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengiriman",
+          "long": "tindakan atau proses mengambil barang, surat, dll. Kepada siapa pun yang telah mereka kirim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324163.jpeg",
+      "simplified": "交货",
+      "traditional": "交貨",
+      "pinyin": "jiāohuò"
+    },
+    {
+      "id": 324164,
+      "translation": {
+        "en": {
+          "short": "dress code",
+          "long": "a set of guidelines specifying the types of clothing and grooming considered acceptable or appropriate in a particular setting or for a specific event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aturan berbusana",
+          "long": "Satu set pedoman yang menentukan jenis pakaian dan perawatan yang dianggap dapat diterima atau sesuai dalam pengaturan tertentu atau untuk acara tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324164.jpeg",
+      "simplified": "着装要求",
+      "traditional": "著裝要求",
+      "pinyin": "zhuózhuāng yāoqiú"
+    },
+    {
+      "id": 324165,
+      "translation": {
+        "en": {
+          "short": "reservation",
+          "long": "the act of arranging something, such as a seat or a hotel room to be kept for you to use later at a particular time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "reservasi",
+          "long": "Tindakan mengatur sesuatu, seperti kursi atau kamar hotel yang harus Anda gunakan nanti pada waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324165.jpeg",
+      "simplified": "预订",
+      "traditional": "預訂",
+      "pinyin": "yùdìng"
+    },
+    {
+      "id": 324166,
+      "translation": {
+        "en": {
+          "short": "maitre d'hotel",
+          "long": "someone who is in charge of the waiters and waitresses of a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Maitre d'Hotel",
+          "long": "seseorang yang bertanggung jawab atas pelayan dan pelayan restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324166.jpeg",
+      "simplified": "酒店领班",
+      "traditional": "酒店領班",
+      "pinyin": "jiǔdiàn lǐngbān"
+    },
+    {
+      "id": 324167,
+      "translation": {
+        "en": {
+          "short": "very important person",
+          "long": "is an individual who holds a significant or influential position and is often granted special privileges or treatment due to their status",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang yang sangat penting",
+          "long": "adalah individu yang memegang posisi yang signifikan atau berpengaruh dan sering diberikan hak istimewa atau perawatan khusus karena statusnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324167.jpeg",
+      "simplified": "非常重要的人",
+      "traditional": "非常重要的人",
+      "pinyin": "fēicháng zhòngyào de rén"
+    },
+    {
+      "id": 324202,
+      "translation": {
+        "en": {
+          "short": "cover charge",
+          "long": "the amount of money that customers need to pay for occupying a table or entering an establishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biaya tutupan",
+          "long": "Jumlah uang yang perlu dibayar pelanggan untuk menempati meja atau memasuki sebuah perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324202.jpeg",
+      "simplified": "饮食附加费",
+      "traditional": "飲食附加費",
+      "pinyin": "yǐnshí fùjiā fèi"
+    },
+    {
+      "id": 324205,
+      "translation": {
+        "en": {
+          "short": "menu",
+          "long": "a list of the different food available for a meal in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menu",
+          "long": "daftar makanan berbeda yang tersedia untuk makan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324205.jpeg",
+      "simplified": "菜单",
+      "traditional": "菜單",
+      "pinyin": "càidān"
+    },
+    {
+      "id": 324206,
+      "translation": {
+        "en": {
+          "short": "to order",
+          "long": "to ask for something, especially food, drinks, services, etc. in a restaurant, bar, or shop",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memesan",
+          "long": "untuk meminta sesuatu, terutama makanan, minuman, layanan, dll. Di restoran, bar, atau toko",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324206.jpeg",
+      "simplified": "订购一些东西",
+      "traditional": "訂購一些東西",
+      "pinyin": "dìnggòu yīxiē dōngxī"
+    },
+    {
+      "id": 324207,
+      "translation": {
+        "en": {
+          "short": "service charge",
+          "long": "an extra amount of money added to a bill in a restaurant, etc. for the services delivered to a customer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biaya layanan",
+          "long": "sejumlah uang tambahan ditambahkan ke tagihan di restoran, dll. Untuk layanan yang dikirimkan kepada pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324207.jpeg",
+      "simplified": "服务费",
+      "traditional": "服務費",
+      "pinyin": "fúwù fèi"
+    },
+    {
+      "id": 324208,
+      "translation": {
+        "en": {
+          "short": "tab",
+          "long": "a bill for the meal one has been served in a restaurant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tab",
+          "long": "Tagihan untuk makan seseorang telah disajikan di restoran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324208.jpeg",
+      "simplified": "护耳",
+      "traditional": "護耳",
+      "pinyin": "hù ěr"
+    },
+    {
+      "id": 324209,
+      "translation": {
+        "en": {
+          "short": "to wait",
+          "long": "to work in a restaurant serving meals to customers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menunggu",
+          "long": "bekerja di restoran yang menyajikan makanan untuk pelanggan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324209.jpeg",
+      "simplified": "等待",
+      "traditional": "等待",
+      "pinyin": "děngdài"
+    },
+    {
+      "id": 324211,
+      "translation": {
+        "en": {
+          "short": "dumbwaiter",
+          "long": "a small elevator or lifting device used to transport items such as food, dishes, or laundry between different floors of a building, typically in a commercial or residential setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bodoh",
+          "long": "Lift kecil atau alat pengangkat yang digunakan untuk mengangkut barang -barang seperti makanan, piring, atau binatu di antara berbagai lantai bangunan, biasanya dalam pengaturan komersial atau perumahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324211.jpeg",
+      "simplified": "升降机",
+      "traditional": "升降機",
+      "pinyin": "shēngjiàng jī"
+    },
+    {
+      "id": 324212,
+      "translation": {
+        "en": {
+          "short": "voucher",
+          "long": "a piece of printed paper used instead of money when buying something or to get a discount",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "voucher",
+          "long": "selembar kertas cetak yang digunakan sebagai pengganti uang saat membeli sesuatu atau untuk mendapatkan diskon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324212.jpeg",
+      "simplified": "凭证",
+      "traditional": "憑證",
+      "pinyin": "píngzhèng"
+    },
+    {
+      "id": 324217,
+      "translation": {
+        "en": {
+          "short": "headwaiter",
+          "long": "a senior member of the waitstaff in a restaurant, responsible for overseeing and coordinating the service provided to patrons, often managing other waitstaff and ensuring a smooth dining experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepala pelayan",
+          "long": "Anggota senior pelayan di restoran, yang bertanggung jawab untuk mengawasi dan mengoordinasikan layanan yang diberikan kepada pelanggan, sering mengelola pelayan lainnya dan memastikan pengalaman bersantap yang lancar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324217.jpeg",
+      "simplified": "服务生领班",
+      "traditional": "服務生領班",
+      "pinyin": "fúwù shēng lǐngbān"
+    },
+    {
+      "id": 324218,
+      "translation": {
+        "en": {
+          "short": "dishwasher",
+          "long": "someone whose job is to wash dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pencuci piring",
+          "long": "seseorang yang tugasnya adalah mencuci piring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324218.jpeg",
+      "simplified": "洗碗机",
+      "traditional": "洗碗機",
+      "pinyin": "xǐwǎn jī"
+    },
+    {
+      "id": 324219,
+      "translation": {
+        "en": {
+          "short": "bouncer",
+          "long": "someone who is hired for security at bars or clubs, responsible for checking IDs and maintaining order among patrons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tukang pukul",
+          "long": "seseorang yang disewa untuk keamanan di bar atau klub, bertanggung jawab untuk memeriksa ID dan menjaga ketertiban di antara pelanggan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324219.jpeg",
+      "simplified": "说谎者",
+      "traditional": "說謊者",
+      "pinyin": "shuōhuǎng zhě"
+    },
+    {
+      "id": 324220,
+      "translation": {
+        "en": {
+          "short": "bartender",
+          "long": "a person who serves drinks behind a bar, typically in a bar, restaurant, or other establishment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bartender",
+          "long": "Seseorang yang menyajikan minuman di belakang bar, biasanya di bar, restoran, atau perusahaan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324220.jpeg",
+      "simplified": "调酒师",
+      "traditional": "調酒師",
+      "pinyin": "tiáojiǔ shī"
+    },
+    {
+      "id": 324221,
+      "translation": {
+        "en": {
+          "short": "barman",
+          "long": "a man whose job involves mixing and serving drinks, particularly alcoholic drinks, in a bar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barman",
+          "long": "Seorang pria yang pekerjaannya melibatkan pencampuran dan porsi minuman, terutama minuman beralkohol, di bar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324221.jpeg",
+      "simplified": "酒保",
+      "traditional": "酒保",
+      "pinyin": "jiǔbǎo"
+    },
+    {
+      "id": 324222,
+      "translation": {
+        "en": {
+          "short": "barmaid",
+          "long": "a female bartender responsible for preparing and serving drinks at a bar or pub",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gadis bar",
+          "long": "seorang bartender wanita yang bertanggung jawab untuk menyiapkan dan menyajikan minuman di bar atau pub",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324222.jpeg",
+      "simplified": "招待员",
+      "traditional": "招待員",
+      "pinyin": "zhāodài yuán"
+    },
+    {
+      "id": 389105,
+      "translation": {
+        "en": {
+          "short": "restaurateur",
+          "long": "an individual who owns or manages a restaurant, overseeing its operations and often playing a key role in decision-making related to the establishment's cuisine, ambiance, and overall business strategy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemilik restoran",
+          "long": "Seorang individu yang memiliki atau mengelola restoran, mengawasi operasinya dan sering memainkan peran kunci dalam pengambilan keputusan terkait dengan masakan, suasana, dan strategi bisnis keseluruhan pendirian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389105.jpeg",
+      "simplified": "饭店主人",
+      "traditional": "飯店主人",
+      "pinyin": "fàndiàn zhǔrén"
+    },
+    {
+      "id": 324229,
+      "translation": {
+        "en": {
+          "short": "open bar",
+          "long": "a service at an event or venue where alcoholic beverages are provided without additional charge and are available for guests to consume freely",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bar terbuka",
+          "long": "Layanan di suatu acara atau tempat di mana minuman beralkohol disediakan tanpa biaya tambahan dan tersedia bagi para tamu untuk dikonsumsi secara bebas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/324229.jpeg",
+      "simplified": "开业的酒吧",
+      "traditional": "開業的酒吧",
+      "pinyin": "kāiyè de jiǔbā"
+    }
+  ]
+}

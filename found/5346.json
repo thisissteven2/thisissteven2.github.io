@@ -1,0 +1,963 @@
+{
+  "id": 5346,
+  "title": {
+    "en": "Vegetables",
+    "id": "Sayuran"
+  },
+  "description": {
+    "en": "Here you will learn some English nouns related to vegetables such as \"carrot\", \"spinach\", and \"radish\".",
+    "id": "Di sini Anda akan belajar beberapa kata benda bahasa Inggris yang terkait dengan sayuran seperti \"wortel\", \"bayam\", dan \"lobak\"."
+  },
+  "cards": [
+    {
+      "id": 381727,
+      "translation": {
+        "en": {
+          "short": "carrot",
+          "long": "a long orange vegetable that grows beneath the ground and is eaten cooked or raw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wortel",
+          "long": "sayuran jeruk panjang yang tumbuh di bawah tanah dan dimakan dimasak atau mentah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381727.jpeg",
+      "simplified": "胡萝卜",
+      "traditional": "紅蘿蔔",
+      "pinyin": "húluó bo"
+    },
+    {
+      "id": 381728,
+      "translation": {
+        "en": {
+          "short": "potato",
+          "long": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kentang",
+          "long": "Sayuran bundar yang tumbuh di bawah tanah, memiliki kulit coklat muda, dan digunakan dimasak atau digoreng",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381728.jpeg",
+      "simplified": "马铃薯",
+      "traditional": "馬鈴薯",
+      "pinyin": "mǎlíng shǔ"
+    },
+    {
+      "id": 381729,
+      "translation": {
+        "en": {
+          "short": "tomato",
+          "long": "a soft and round fruit that is red and is used a lot in salads and many other foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tomat",
+          "long": "Buah lembut dan bundar yang berwarna merah dan banyak digunakan dalam salad dan banyak makanan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381729.jpeg",
+      "simplified": "西红柿",
+      "traditional": "西紅柿",
+      "pinyin": "xīhóng shì"
+    },
+    {
+      "id": 381730,
+      "translation": {
+        "en": {
+          "short": "onion",
+          "long": "a round vegetable with many layers and a strong smell and taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bawang bombai",
+          "long": "sayuran bundar dengan banyak lapisan dan bau dan rasanya yang kuat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381730.jpeg",
+      "simplified": "洋葱",
+      "traditional": "洋蔥",
+      "pinyin": "yángcōng"
+    },
+    {
+      "id": 381733,
+      "translation": {
+        "en": {
+          "short": "broccoli",
+          "long": "a vegetable from the cabbage family with a thick stem and a compact head of dense florets that are usually green in color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brokoli",
+          "long": "Sayuran dari keluarga kol dengan batang tebal dan kepala kempa padat yang biasanya berwarna hijau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381733.jpeg",
+      "simplified": "花椰菜",
+      "traditional": "花椰菜",
+      "pinyin": "huāyē cài"
+    },
+    {
+      "id": 381734,
+      "translation": {
+        "en": {
+          "short": "spinach",
+          "long": "dark and wide green leaves of an Asian plant that can be eaten cooked or uncooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bayam",
+          "long": "Daun hijau gelap dan lebar dari tanaman Asia yang bisa dimakan dimasak atau tidak dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381734.jpeg",
+      "simplified": "菠菜",
+      "traditional": "菠菜",
+      "pinyin": "bōcài"
+    },
+    {
+      "id": 381735,
+      "translation": {
+        "en": {
+          "short": "cucumber",
+          "long": "a long fruit that has thin green skin and is used a lot in salads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "timun",
+          "long": "buah panjang yang memiliki kulit hijau tipis dan banyak digunakan dalam salad",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381735.jpeg",
+      "simplified": "黄瓜",
+      "traditional": "黃瓜",
+      "pinyin": "huángguā"
+    },
+    {
+      "id": 381736,
+      "translation": {
+        "en": {
+          "short": "eggplant",
+          "long": "a vegetable with dark purple skin, which is eaten cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terong",
+          "long": "sayuran dengan kulit ungu gelap, yang dimakan dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381736.jpeg",
+      "simplified": "茄子",
+      "traditional": "茄子",
+      "pinyin": "qiézi"
+    },
+    {
+      "id": 381737,
+      "translation": {
+        "en": {
+          "short": "mushroom",
+          "long": "any fungus with a short stem and a round top that we can eat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jamur",
+          "long": "jamur apa pun dengan batang pendek dan bagian atas yang bisa kita makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381737.jpeg",
+      "simplified": "蘑菇",
+      "traditional": "蘑菇",
+      "pinyin": "mógu"
+    },
+    {
+      "id": 381739,
+      "translation": {
+        "en": {
+          "short": "corn",
+          "long": "a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jagung",
+          "long": "tanaman tinggi dengan biji kuning besar yang tumbuh bersama pada tongkol, yang dimasak dan dimakan sebagai sayuran atau makanan hewani",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381739.jpeg",
+      "simplified": "玉米",
+      "traditional": "玉米",
+      "pinyin": "yùmǐ"
+    },
+    {
+      "id": 381740,
+      "translation": {
+        "en": {
+          "short": "pea",
+          "long": "a green seed, eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "biji hijau, dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381740.jpeg",
+      "simplified": "豌豆",
+      "traditional": "豌豆",
+      "pinyin": "wāndòu"
+    },
+    {
+      "id": 381741,
+      "translation": {
+        "en": {
+          "short": "lettuce",
+          "long": "a type of vegetable with large green leaves, eaten raw in a salad",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selada",
+          "long": "sejenis sayuran dengan daun hijau besar, dimakan mentah dalam salad",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381741.jpeg",
+      "simplified": "生菜",
+      "traditional": "生菜",
+      "pinyin": "shēngcài"
+    },
+    {
+      "id": 381742,
+      "translation": {
+        "en": {
+          "short": "garlic",
+          "long": "a type of vegetable having a strong smell and spicy flavor that is used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bawang putih",
+          "long": "Jenis sayuran yang memiliki aroma yang kuat dan rasa pedas yang digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381742.jpeg",
+      "simplified": "蒜",
+      "traditional": "蒜",
+      "pinyin": "suàn"
+    },
+    {
+      "id": 381743,
+      "translation": {
+        "en": {
+          "short": "parsley",
+          "long": "an aromatic plant with curly green leaves, used for garnishing food or in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peterseli",
+          "long": "tanaman aromatik dengan daun hijau keriting, digunakan untuk menghias makanan atau memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381743.jpeg",
+      "simplified": "香菜",
+      "traditional": "香菜",
+      "pinyin": "xiāngcài"
+    },
+    {
+      "id": 381744,
+      "translation": {
+        "en": {
+          "short": "radish",
+          "long": "an edible root of red color with a pungent taste that is eaten raw in salads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lobak",
+          "long": "Akar warna merah yang dapat dimakan dengan rasa pedas yang dimakan mentah dalam salad",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381744.jpeg",
+      "simplified": "萝卜",
+      "traditional": "蘿蔔",
+      "pinyin": "luóbo"
+    },
+    {
+      "id": 381745,
+      "translation": {
+        "en": {
+          "short": "rutabaga",
+          "long": "the swollen yellow root of a plant of the cabbage family, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rutabaga",
+          "long": "Akar kuning bengkak dari tanaman keluarga kubis, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381745.jpeg",
+      "simplified": "鲁塔巴加",
+      "traditional": "魯塔巴加",
+      "pinyin": "Lǔ tǎ Bā Jiā"
+    },
+    {
+      "id": 381746,
+      "translation": {
+        "en": {
+          "short": "artichoke",
+          "long": "a round green vegetable with a cluster of thick green leaves that form a bud, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "artichoke",
+          "long": "Sayuran hijau bundar dengan sekelompok daun hijau tebal yang membentuk kuncup, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381746.jpeg",
+      "simplified": "朝鲜蓟",
+      "traditional": "朝鮮薊",
+      "pinyin": "Cháoxiǎn Jì"
+    },
+    {
+      "id": 381747,
+      "translation": {
+        "en": {
+          "short": "bok choy",
+          "long": "a leafy vegetable with crisp white stalks and dark green leaves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bok Choy",
+          "long": "Sayuran berdaun dengan batang putih renyah dan daun hijau gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381747.jpeg",
+      "simplified": "白菜",
+      "traditional": "白菜",
+      "pinyin": "báicài"
+    },
+    {
+      "id": 381749,
+      "translation": {
+        "en": {
+          "short": "cabbage",
+          "long": "a large round vegetable with thick white, green or purple leaves, eaten raw or cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubis",
+          "long": "Sayuran bundar besar dengan daun putih tebal, hijau atau ungu, dimakan mentah atau dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381749.jpeg",
+      "simplified": "卷心菜",
+      "traditional": "高麗菜",
+      "pinyin": "juǎnxīn cài"
+    },
+    {
+      "id": 381750,
+      "translation": {
+        "en": {
+          "short": "cauliflower",
+          "long": "the flower head of a plant from the cabbage family that is white in color and is eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kol bunga",
+          "long": "kepala bunga tanaman dari keluarga kubis yang berwarna putih dan dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381750.jpeg",
+      "simplified": "花椰菜",
+      "traditional": "花椰菜",
+      "pinyin": "huāyē cài"
+    },
+    {
+      "id": 381751,
+      "translation": {
+        "en": {
+          "short": "iceberg lettuce",
+          "long": "a type of lettuce with crisp leaves that are pale green in color and form a round ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Selada gunung es",
+          "long": "Jenis selada dengan daun renyah yang berwarna hijau pucat dan membentuk bola bundar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381751.jpeg",
+      "simplified": "卷心生菜",
+      "traditional": "捲心生菜",
+      "pinyin": "juǎn xīn shēngcài"
+    },
+    {
+      "id": 381752,
+      "translation": {
+        "en": {
+          "short": "Brussels sprout",
+          "long": "a small round green vegetable from the cabbage family, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brussels kecambah",
+          "long": "Sayuran hijau bundar kecil dari keluarga kubis, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381752.jpeg",
+      "simplified": "球芽甘蓝",
+      "traditional": "球芽甘藍",
+      "pinyin": "qiúyá gān lán"
+    },
+    {
+      "id": 381753,
+      "translation": {
+        "en": {
+          "short": "arugula",
+          "long": "a peppery and leafy green vegetable commonly used in salads and as a garnish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "arugula",
+          "long": "sayuran hijau pedas dan berdaun yang biasa digunakan dalam salad dan sebagai hiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381753.jpeg",
+      "simplified": "芝麻菜",
+      "traditional": "芝麻菜",
+      "pinyin": "zhīma cài"
+    },
+    {
+      "id": 381754,
+      "translation": {
+        "en": {
+          "short": "bell pepper",
+          "long": "a small hollow fruit, typically red or green, etc., used in cooking or eaten raw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paprika",
+          "long": "buah berongga kecil, biasanya merah atau hijau, dll., Digunakan dalam memasak atau dimakan mentah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381754.jpeg",
+      "simplified": "灯笼椒",
+      "traditional": "甜椒",
+      "pinyin": "dēnglóng jiāo"
+    },
+    {
+      "id": 381755,
+      "translation": {
+        "en": {
+          "short": "chili",
+          "long": "the red or green fruit of a particular type of pepper plant, used in cooking for its hot taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cabai",
+          "long": "buah merah atau hijau dari jenis lada tertentu, digunakan dalam memasak untuk rasanya yang panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381755.jpeg",
+      "simplified": "辣椒",
+      "traditional": "辣椒",
+      "pinyin": "làjiāo"
+    },
+    {
+      "id": 381756,
+      "translation": {
+        "en": {
+          "short": "jalapeno",
+          "long": "a type of chili pepper known for its medium heat and distinct flavor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jalapeno",
+          "long": "Jenis cabai lada yang dikenal karena panasnya dan rasanya yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381756.jpeg",
+      "simplified": "辣椒",
+      "traditional": "辣椒",
+      "pinyin": "làjiāo"
+    },
+    {
+      "id": 381758,
+      "translation": {
+        "en": {
+          "short": "zucchini",
+          "long": "a long and thin vegetable with dark green skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "timun Jepang",
+          "long": "Sayuran panjang dan tipis dengan kulit hijau gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381758.jpeg",
+      "simplified": "绿皮西葫芦",
+      "traditional": "綠皮西葫蘆",
+      "pinyin": "lǜ Pí xīhú lu"
+    },
+    {
+      "id": 381760,
+      "translation": {
+        "en": {
+          "short": "asparagus",
+          "long": "a long green vegetable with edible stems, used in cooking or eaten raw",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asparagus",
+          "long": "Sayuran hijau panjang dengan batang yang dapat dimakan, digunakan dalam memasak atau dimakan mentah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381760.jpeg",
+      "simplified": "食用芦笋",
+      "traditional": "食用蘆筍",
+      "pinyin": "shíyòng lúsǔn"
+    },
+    {
+      "id": 381761,
+      "translation": {
+        "en": {
+          "short": "bean",
+          "long": "a seed growing in long pods on a climbing plant, eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "Benih yang tumbuh di polong panjang di tanaman pendakian, dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381761.jpeg",
+      "simplified": "豆",
+      "traditional": "豆",
+      "pinyin": "dòu"
+    },
+    {
+      "id": 381762,
+      "translation": {
+        "en": {
+          "short": "celery",
+          "long": "a green vegetable that people eat raw or use in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seledri",
+          "long": "sayuran hijau yang orang makan mentah atau digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381762.jpeg",
+      "simplified": "芹菜",
+      "traditional": "芹菜",
+      "pinyin": "qíncài"
+    },
+    {
+      "id": 381763,
+      "translation": {
+        "en": {
+          "short": "scallion",
+          "long": "a young onion taken from the ground before the root is formed, with a long green stem, eaten as a vegetable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daun bawang",
+          "long": "Bawang muda yang diambil dari tanah sebelum akar terbentuk, dengan batang hijau panjang, dimakan sebagai sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381763.jpeg",
+      "simplified": "葱",
+      "traditional": "蔥",
+      "pinyin": "cōng"
+    },
+    {
+      "id": 381764,
+      "translation": {
+        "en": {
+          "short": "sweet potato",
+          "long": "a vegetable similar to a potato in shape that has a sweet taste and white flesh",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ubi",
+          "long": "sayuran mirip dengan kentang dalam bentuk yang memiliki rasa manis dan daging putih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381764.jpeg",
+      "simplified": "甘薯",
+      "traditional": "甘藷",
+      "pinyin": "gānshǔ"
+    },
+    {
+      "id": 381765,
+      "translation": {
+        "en": {
+          "short": "kale",
+          "long": "a type of cabbage with green or purple curly leaves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubis",
+          "long": "Jenis kol dengan daun keriting hijau atau ungu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381765.jpeg",
+      "simplified": "羽衣甘蓝",
+      "traditional": "羽衣甘藍",
+      "pinyin": "yǔyī gān lán"
+    },
+    {
+      "id": 381766,
+      "translation": {
+        "en": {
+          "short": "Swiss chard",
+          "long": "a vegetable with white or red leaf stalks and large green leaves, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Swiss chard",
+          "long": "Sayuran dengan batang daun putih atau merah dan daun hijau besar, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381766.jpeg",
+      "simplified": "瑞士甜菜",
+      "traditional": "瑞士甜菜",
+      "pinyin": "Ruìshì tiáncài"
+    },
+    {
+      "id": 381767,
+      "translation": {
+        "en": {
+          "short": "okra",
+          "long": "a type of vegetable with long green seed cases, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "okra",
+          "long": "Jenis sayuran dengan kasing biji hijau panjang, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381767.jpeg",
+      "simplified": "秋葵",
+      "traditional": "秋葵",
+      "pinyin": "qiūkuí"
+    },
+    {
+      "id": 381768,
+      "translation": {
+        "en": {
+          "short": "turnip",
+          "long": "a root vegetable with creamy flesh and white and purple skin, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lobak",
+          "long": "Sayuran akar dengan daging krem ​​dan kulit putih dan ungu, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381768.jpeg",
+      "simplified": "芜菁",
+      "traditional": "蕪菁",
+      "pinyin": "wújīng"
+    },
+    {
+      "id": 381769,
+      "translation": {
+        "en": {
+          "short": "radicchio",
+          "long": "a variety of chicory that bears dark red leaves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Radicchio",
+          "long": "Berbagai macam chicory yang mengandung daun merah gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381769.jpeg",
+      "simplified": "菊苣",
+      "traditional": "菊苣",
+      "pinyin": "jújù"
+    },
+    {
+      "id": 381770,
+      "translation": {
+        "en": {
+          "short": "chicory",
+          "long": "a blue-flowered herb of the daisy family, the root of which can be used with coffee and the leaves of which eaten in a salad",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "chicory",
+          "long": "Ramuan berbunga biru dari keluarga Daisy, yang akarnya dapat digunakan dengan kopi dan daunnya dimakan dalam salad",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381770.jpeg",
+      "simplified": "菊苣根",
+      "traditional": "菊苣根",
+      "pinyin": "jújù gēn"
+    },
+    {
+      "id": 381771,
+      "translation": {
+        "en": {
+          "short": "endive",
+          "long": "a leafy green vegetable with slightly bitter taste, often used in salads or cooked dishes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "andewi",
+          "long": "Sayuran hijau berdaun dengan rasa yang sedikit pahit, sering digunakan dalam salad atau hidangan yang dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381771.jpeg",
+      "simplified": "苣荬菜",
+      "traditional": "苣蕒菜",
+      "pinyin": "qǔmai cài"
+    },
+    {
+      "id": 381772,
+      "translation": {
+        "en": {
+          "short": "green bean",
+          "long": "a type of green vegetable that is long and thin and is used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang hijau",
+          "long": "Jenis sayuran hijau yang panjang dan tipis dan digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381772.jpeg",
+      "simplified": "绿豆",
+      "traditional": "綠豆",
+      "pinyin": "lǜdòu"
+    },
+    {
+      "id": 381773,
+      "translation": {
+        "en": {
+          "short": "leek",
+          "long": "a plant of the onion family with layers of green leaves and a white stem, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bawang perai",
+          "long": "tanaman keluarga bawang dengan lapisan daun hijau dan batang putih, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381773.jpeg",
+      "simplified": "韭",
+      "traditional": "韭",
+      "pinyin": "jiǔ"
+    },
+    {
+      "id": 381774,
+      "translation": {
+        "en": {
+          "short": "watercress",
+          "long": "a plant that grows in running water with pungent green leaves that are used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selada air",
+          "long": "tanaman yang tumbuh dalam air mengalir dengan daun hijau menyengat yang digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381774.jpeg",
+      "simplified": "豆瓣菜",
+      "traditional": "豆瓣菜",
+      "pinyin": "dòubàn cài"
+    },
+    {
+      "id": 381775,
+      "translation": {
+        "en": {
+          "short": "parsnip",
+          "long": "the white root of a plant of the parsley family with a sweet taste that is used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parsnip",
+          "long": "akar putih tanaman keluarga peterseli dengan rasa manis yang digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381775.jpeg",
+      "simplified": "欧洲防风草",
+      "traditional": "歐洲防風草",
+      "pinyin": "Oūzhōu fáng fēng cǎo"
+    },
+    {
+      "id": 381776,
+      "translation": {
+        "en": {
+          "short": "shallot",
+          "long": "a type of onion plant producing small clustered mild-flavored bulbs used as seasoning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bawang Bawang",
+          "long": "Jenis tanaman bawang yang menghasilkan umbi beraroma ringan berkerumun kecil digunakan sebagai bumbu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381776.jpeg",
+      "simplified": "薤",
+      "traditional": "薤",
+      "pinyin": "xiè"
+    },
+    {
+      "id": 381777,
+      "translation": {
+        "en": {
+          "short": "chives",
+          "long": "the slender leaves of a plant closely related to the onion, with purple flowers, that is used as a culinary herb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "chives",
+          "long": "Daun ramping tanaman yang terkait erat dengan bawang, dengan bunga ungu, yang digunakan sebagai ramuan kuliner",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381777.jpeg",
+      "simplified": "韭菜",
+      "traditional": "韭菜",
+      "pinyin": "jiǔcài"
+    },
+    {
+      "id": 381778,
+      "translation": {
+        "en": {
+          "short": "cilantro",
+          "long": "a leafy herb that has a strong and slightly sour taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketumbar",
+          "long": "ramuan berdaun yang memiliki rasa yang kuat dan sedikit asam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381778.jpeg",
+      "simplified": "胡荽叶",
+      "traditional": "胡荽葉",
+      "pinyin": "húsuī xié"
+    },
+    {
+      "id": 381779,
+      "translation": {
+        "en": {
+          "short": "daikon",
+          "long": "a mild radish with a white slender root that is used in Asian cuisine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daikon",
+          "long": "lobak ringan dengan akar ramping putih yang digunakan dalam masakan Asia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381779.jpeg",
+      "simplified": "萝卜",
+      "traditional": "蘿蔔",
+      "pinyin": "luóbo"
+    },
+    {
+      "id": 381780,
+      "translation": {
+        "en": {
+          "short": "cherry tomato",
+          "long": "a small-sized variety of tomato known for its sweet flavor and small, round shapees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tomat ceri",
+          "long": "Berbagai tomat berukuran kecil yang dikenal karena rasa manis dan bentuk kecilnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381780.jpeg",
+      "simplified": "圣女果",
+      "traditional": "櫻桃蕃茄",
+      "pinyin": "shèngnǚ guǒ"
+    },
+    {
+      "id": 381781,
+      "translation": {
+        "en": {
+          "short": "beet",
+          "long": "a vegetable with a round dark red root that is used in cooking or producing sugar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bit",
+          "long": "sayuran dengan akar merah gelap bundar yang digunakan dalam memasak atau menghasilkan gula",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381781.jpeg",
+      "simplified": "甜菜",
+      "traditional": "甜菜",
+      "pinyin": "tiáncài"
+    },
+    {
+      "id": 381782,
+      "translation": {
+        "en": {
+          "short": "chard",
+          "long": "a vegetable with white or red leaf stalks and large green leaves, used in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chard",
+          "long": "Sayuran dengan batang daun putih atau merah dan daun hijau besar, digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/381782.jpeg",
+      "simplified": "甜菜",
+      "traditional": "甜菜",
+      "pinyin": "tiáncài"
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "id": 6007,
+  "title": {
+    "en": "Natural World",
+    "id": "Dunia alami"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the natural world, such as \"drought\", \"canopy\", \"preen\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan dunia alami, seperti \"kekeringan\", \"kanopi\", \"preen\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 401427,
+      "translation": {
+        "en": {
+          "short": "prey",
+          "long": "an animal that is hunted and eaten by another animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mangsa",
+          "long": "binatang yang diburu dan dimakan oleh hewan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401427.jpeg",
+      "simplified": "猎物",
+      "traditional": "獵物",
+      "pinyin": "lièwù"
+    },
+    {
+      "id": 401428,
+      "translation": {
+        "en": {
+          "short": "rind",
+          "long": "the tough outer covering or skin of a fruit or vegetables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kulit buah",
+          "long": "penutup luar yang tangguh atau kulit buah atau sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401428.jpeg",
+      "simplified": "果皮",
+      "traditional": "果皮",
+      "pinyin": "guǒpí"
+    },
+    {
+      "id": 401429,
+      "translation": {
+        "en": {
+          "short": "drought",
+          "long": "a long period of time when there is not much raining",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kekeringan",
+          "long": "periode waktu yang lama ketika tidak ada banyak hujan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401429.jpeg",
+      "simplified": "干旱",
+      "traditional": "乾旱",
+      "pinyin": "gānhàn"
+    },
+    {
+      "id": 401431,
+      "translation": {
+        "en": {
+          "short": "gust",
+          "long": "a drastic and sudden rush of wind",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tiupan",
+          "long": "Angin yang drastis dan tiba -tiba",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401431.jpeg",
+      "simplified": "阵风",
+      "traditional": "陣風",
+      "pinyin": "zhènfēng"
+    },
+    {
+      "id": 401432,
+      "translation": {
+        "en": {
+          "short": "snowpack",
+          "long": "the accumulation of compressed layers of snow on the ground in regions where snowfall is common",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Snowpack",
+          "long": "Akumulasi lapisan salju terkompresi di tanah di daerah di mana salju turun adalah umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401432.jpeg",
+      "simplified": "积雪",
+      "traditional": "積雪",
+      "pinyin": "jīxuě"
+    },
+    {
+      "id": 401433,
+      "translation": {
+        "en": {
+          "short": "shrub",
+          "long": "a large woody plant with several main stems emerging from the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belukar",
+          "long": "tanaman kayu besar dengan beberapa batang utama muncul dari tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401433.jpeg",
+      "simplified": "灌木",
+      "traditional": "灌木",
+      "pinyin": "guànmù"
+    },
+    {
+      "id": 401434,
+      "translation": {
+        "en": {
+          "short": "twig",
+          "long": "a small and thin branch of a tree stemmed from another branch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ranting",
+          "long": "Cabang kecil dan tipis dari pohon berasal dari cabang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401434.jpeg",
+      "simplified": "枝条",
+      "traditional": "枝條",
+      "pinyin": "zhītiáo"
+    },
+    {
+      "id": 401435,
+      "translation": {
+        "en": {
+          "short": "gravity hill",
+          "long": "a location where the surrounding landscape creates an optical illusion, making a gentle downhill slope appear as if it is an uphill slope",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gravity Hill",
+          "long": "Lokasi di mana lanskap di sekitarnya menciptakan ilusi optik, membuat lereng menurun yang lembut muncul seolah -olah itu adalah lereng yang menanjak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401435.jpeg",
+      "simplified": "重力山",
+      "traditional": "重力山",
+      "pinyin": "zhònglì Shān"
+    },
+    {
+      "id": 401436,
+      "translation": {
+        "en": {
+          "short": "canopy",
+          "long": "the upper layer of trees in a forest that creates a dense cover with interlocking leaves; offering shade and shelter in the ecosystem",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kanopi",
+          "long": "lapisan atas pohon di hutan yang menciptakan penutup padat dengan daun yang saling terkait; Menawarkan naungan dan tempat berlindung di ekosistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401436.jpeg",
+      "simplified": "华盖",
+      "traditional": "華蓋",
+      "pinyin": "huágài"
+    },
+    {
+      "id": 401437,
+      "translation": {
+        "en": {
+          "short": "avalanche",
+          "long": "large amounts of snow falling from mountains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "salju longsor",
+          "long": "Salju dalam jumlah besar turun dari pegunungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401437.jpeg",
+      "simplified": "雪崩",
+      "traditional": "雪崩",
+      "pinyin": "xuěbēng"
+    },
+    {
+      "id": 401438,
+      "translation": {
+        "en": {
+          "short": "plume",
+          "long": "a large, feathery structure or arrangement, typically found on birds, often used for display or flight",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu -bulu",
+          "long": "Struktur atau pengaturan yang besar dan berbulu, biasanya ditemukan pada burung, sering digunakan untuk tampilan atau penerbangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401438.jpeg",
+      "simplified": "羽",
+      "traditional": "羽",
+      "pinyin": "yǔ"
+    },
+    {
+      "id": 401439,
+      "translation": {
+        "en": {
+          "short": "wildlife refuge",
+          "long": "a protected area designated for the conservation of wild animals and their natural habitats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perlindungan Satwa Liar",
+          "long": "Area yang dilindungi yang ditunjuk untuk konservasi hewan liar dan habitat alami mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401439.jpeg",
+      "simplified": "野生动物保护区",
+      "traditional": "野生動物保護區",
+      "pinyin": "yěshēng dòng wù bǎohù qū"
+    },
+    {
+      "id": 401440,
+      "translation": {
+        "en": {
+          "short": "offspring",
+          "long": "the child or children of a particular person or animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keturunan",
+          "long": "anak atau anak -anak dari orang atau hewan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401440.jpeg",
+      "simplified": "子孙",
+      "traditional": "子孫",
+      "pinyin": "zǐsūn"
+    },
+    {
+      "id": 401441,
+      "translation": {
+        "en": {
+          "short": "underbrush",
+          "long": "the dense, low-growing vegetation beneath the canopy of trees in a forest, consisting of shrubs, bushes, and small plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belukar",
+          "long": "Vegetasi yang padat dan tumbuh rendah di bawah kanopi pohon di hutan, yang terdiri dari semak, semak-semak, dan tanaman kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401441.jpeg",
+      "simplified": "草丛",
+      "traditional": "草叢",
+      "pinyin": "cǎocóng"
+    },
+    {
+      "id": 401443,
+      "translation": {
+        "en": {
+          "short": "burrow",
+          "long": "a hole that an animal digs in the ground to use as a shelter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liang",
+          "long": "lubang yang digali hewan di tanah untuk digunakan sebagai tempat penampungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401443.jpeg",
+      "simplified": "地下洞穴",
+      "traditional": "地下洞穴",
+      "pinyin": "dìxià dòngxué"
+    },
+    {
+      "id": 401444,
+      "translation": {
+        "en": {
+          "short": "aquamarine",
+          "long": "a clear semi-precious gemstone consisting beryllium, with a light blue to green range of color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aquamarine",
+          "long": "Batu permata semi mulia yang jelas terdiri dari berilium, dengan warna biru muda hingga hijau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401444.jpeg",
+      "simplified": "蓝晶",
+      "traditional": "藍晶",
+      "pinyin": "lánjīng"
+    },
+    {
+      "id": 401445,
+      "translation": {
+        "en": {
+          "short": "pelt",
+          "long": "the skin of an animal with the fur, wool, or hair still covering it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melempari",
+          "long": "kulit binatang dengan bulu, wol, atau rambut masih menutupinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401445.jpeg",
+      "simplified": "动物毛皮",
+      "traditional": "動物毛皮",
+      "pinyin": "dòngwù máopí"
+    },
+    {
+      "id": 401447,
+      "translation": {
+        "en": {
+          "short": "moisture",
+          "long": "the presence of liquid, typically water, in a state of wetness or dampness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelembaban",
+          "long": "adanya cairan, biasanya air, dalam keadaan basah atau kelembaban",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401447.jpeg",
+      "simplified": "湿气",
+      "traditional": "濕氣",
+      "pinyin": "shīqì"
+    },
+    {
+      "id": 401448,
+      "translation": {
+        "en": {
+          "short": "blizzard",
+          "long": "a storm with heavy snowfall and strong winds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badai salju",
+          "long": "badai dengan salju deras dan angin kencang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401448.jpeg",
+      "simplified": "暴风雪",
+      "traditional": "暴風雪",
+      "pinyin": "bàofēng xuě"
+    },
+    {
+      "id": 401449,
+      "translation": {
+        "en": {
+          "short": "resin",
+          "long": "a sticky, organic substance exuded by certain plants and trees, often used in varnishes, adhesives, and incense",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Damar",
+          "long": "Zat lengket dan organik yang dikeluarkan oleh tanaman dan pohon tertentu, sering digunakan dalam pernis, perekat, dan dupa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401449.jpeg",
+      "simplified": "树脂",
+      "traditional": "樹脂",
+      "pinyin": "shùzhī"
+    },
+    {
+      "id": 401469,
+      "translation": {
+        "en": {
+          "short": "maw",
+          "long": "the mouth, throat, or gullet, particularly of a carnivorous animal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perut",
+          "long": "mulut, tenggorokan, atau kerongkongan, terutama hewan karnivora",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401469.jpeg",
+      "simplified": "胃",
+      "traditional": "胃",
+      "pinyin": "wèi"
+    },
+    {
+      "id": 401451,
+      "translation": {
+        "en": {
+          "short": "poultry",
+          "long": "turkeys, chickens, geese, ducks, etc. that are kept for their eggs and meat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unggas",
+          "long": "kalkun, ayam, angsa, bebek, dll. yang disimpan untuk telur dan daging mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401451.jpeg",
+      "simplified": "家禽",
+      "traditional": "家禽",
+      "pinyin": "jiāqín"
+    },
+    {
+      "id": 401452,
+      "translation": {
+        "en": {
+          "short": "sapling",
+          "long": "a small and young tree",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pohon muda",
+          "long": "pohon kecil dan muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401452.jpeg",
+      "simplified": "树苗",
+      "traditional": "樹苗",
+      "pinyin": "shùmiáo"
+    },
+    {
+      "id": 401453,
+      "translation": {
+        "en": {
+          "short": "progeny",
+          "long": "one or all the descendants of an ancestor",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keturunan",
+          "long": "satu atau semua keturunan leluhur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401453.jpeg",
+      "simplified": "血统",
+      "traditional": "血統",
+      "pinyin": "xuètǒng"
+    },
+    {
+      "id": 401454,
+      "translation": {
+        "en": {
+          "short": "vitality",
+          "long": "the capacity of living things for survival, growth, and sustained health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daya hidup",
+          "long": "kapasitas makhluk hidup untuk kelangsungan hidup, pertumbuhan, dan kesehatan berkelanjutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401454.jpeg",
+      "simplified": "活力",
+      "traditional": "活力",
+      "pinyin": "huólì"
+    },
+    {
+      "id": 401455,
+      "translation": {
+        "en": {
+          "short": "slumber",
+          "long": "a state of deep, restful sleep, often associated with peace and rejuvenation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tidur",
+          "long": "keadaan tidur nyenyak dan nyenyak, sering dikaitkan dengan kedamaian dan peremajaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401455.jpeg",
+      "simplified": "睡眠",
+      "traditional": "睡眠",
+      "pinyin": "shuìmián"
+    },
+    {
+      "id": 401456,
+      "translation": {
+        "en": {
+          "short": "luxuriant",
+          "long": "characterized by abundant and rich growth",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subur",
+          "long": "ditandai dengan pertumbuhan yang berlimpah dan kaya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401456.jpeg",
+      "simplified": "非常普遍且丰富",
+      "traditional": "非常普遍且豐富",
+      "pinyin": "fēicháng pǔbiàn qiě fēngfù"
+    },
+    {
+      "id": 401457,
+      "translation": {
+        "en": {
+          "short": "edible",
+          "long": "safe or suitable for eating",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bisa dimakan",
+          "long": "aman atau cocok untuk makan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401457.jpeg",
+      "simplified": "食用",
+      "traditional": "食用",
+      "pinyin": "shíyòng"
+    },
+    {
+      "id": 401458,
+      "translation": {
+        "en": {
+          "short": "balmy",
+          "long": "pleasantly warm, mild, and soothing",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Bobot",
+          "long": "Hangat, ringan, dan menenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401458.jpeg",
+      "simplified": "温和的（气象学）",
+      "traditional": "溫和的（氣象學）",
+      "pinyin": "wēnhé de qìxiàng xué"
+    },
+    {
+      "id": 401459,
+      "translation": {
+        "en": {
+          "short": "hybrid",
+          "long": "created through the breeding of two different species, varieties, or breeds",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "hibrida",
+          "long": "diciptakan melalui pemuliaan dua spesies, varietas, atau ras yang berbeda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401459.jpeg",
+      "simplified": "杂交种",
+      "traditional": "雜交種",
+      "pinyin": "zájiāo zhǒng"
+    },
+    {
+      "id": 401460,
+      "translation": {
+        "en": {
+          "short": "premature",
+          "long": "(of a baby) born before completing the normal full-term pregnancy length",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "prematur",
+          "long": "(dari bayi) Lahir sebelum menyelesaikan panjang kehamilan penuh waktu normal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401460.jpeg",
+      "simplified": "早产",
+      "traditional": "早產",
+      "pinyin": "zǎochǎn"
+    },
+    {
+      "id": 401461,
+      "translation": {
+        "en": {
+          "short": "to germinate",
+          "long": "to start to grow, producing buds or branches",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berkecambah",
+          "long": "untuk mulai tumbuh, menghasilkan kuncup atau cabang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401461.jpeg",
+      "simplified": "发芽",
+      "traditional": "發芽",
+      "pinyin": "fāyá"
+    },
+    {
+      "id": 401462,
+      "translation": {
+        "en": {
+          "short": "to howl",
+          "long": "(of an animal such as a dog or wolf) to make a loud and prolonged sound or cry",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melolong",
+          "long": "(dari binatang seperti anjing atau serigala) untuk membuat suara atau tangisan yang keras dan berkepanjangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401462.jpeg",
+      "simplified": "嗥",
+      "traditional": "嗥",
+      "pinyin": "háo"
+    },
+    {
+      "id": 401463,
+      "translation": {
+        "en": {
+          "short": "to perch",
+          "long": "(of a bird) to land and rest on something, such as a branch, bar, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bertengger",
+          "long": "(dari seekor burung) untuk mendarat dan beristirahat pada sesuatu, seperti cabang, bar, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401463.jpeg",
+      "simplified": "栖息",
+      "traditional": "棲息",
+      "pinyin": "qīxī"
+    },
+    {
+      "id": 401464,
+      "translation": {
+        "en": {
+          "short": "to leach",
+          "long": "to remove or drain away nutrients or minerals from soil or another substance through the action of liquid, typically water",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melepaskan diri",
+          "long": "Untuk menghilangkan atau menguras nutrisi atau mineral dari tanah atau zat lain melalui aksi cairan, biasanya air",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401464.jpeg",
+      "simplified": "过滤",
+      "traditional": "過濾",
+      "pinyin": "guòlǜ"
+    },
+    {
+      "id": 401465,
+      "translation": {
+        "en": {
+          "short": "to roost",
+          "long": "(birds or bats) to settle or rest on a perch or in a shelter for sleep or rest",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bertengger",
+          "long": "(burung atau kelelawar) untuk menetap atau beristirahat di tempat bertengger atau di tempat penampungan untuk tidur atau istirahat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401465.jpeg",
+      "simplified": "栖",
+      "traditional": "棲",
+      "pinyin": "qī"
+    },
+    {
+      "id": 401467,
+      "translation": {
+        "en": {
+          "short": "to graze",
+          "long": "(of sheep, cows, etc.) to feed on the grass in a field",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merumput",
+          "long": "(domba, sapi, dll.) Untuk memberi makan rumput di ladang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401467.jpeg",
+      "simplified": "放牧",
+      "traditional": "放牧",
+      "pinyin": "fàngmù"
+    },
+    {
+      "id": 401468,
+      "translation": {
+        "en": {
+          "short": "to peck",
+          "long": "(of a bird) to move the beak in a sudden movement and bite something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mematuk",
+          "long": "(dari seekor burung) untuk memindahkan paruh dalam gerakan tiba -tiba dan menggigit sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401468.jpeg",
+      "simplified": "啄",
+      "traditional": "啄",
+      "pinyin": "zhuó"
+    },
+    {
+      "id": 401470,
+      "translation": {
+        "en": {
+          "short": "to fell",
+          "long": "to cut down or bring down, typically referring to trees",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "jatuh",
+          "long": "untuk menebang atau menurunkan, biasanya mengacu pada pohon",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401470.jpeg",
+      "simplified": "采伐",
+      "traditional": "採伐",
+      "pinyin": "cǎifá"
+    },
+    {
+      "id": 401472,
+      "translation": {
+        "en": {
+          "short": "to preen",
+          "long": "to groom oneself or another individual by straightening and cleaning the feathers or fur using the beak or tongue",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bersolek",
+          "long": "untuk merawat diri sendiri atau individu lain dengan meluruskan dan membersihkan bulu atau bulu menggunakan paruh atau lidah",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401472.jpeg",
+      "simplified": "整理",
+      "traditional": "整理",
+      "pinyin": "zhěnglǐ"
+    },
+    {
+      "id": 401474,
+      "translation": {
+        "en": {
+          "short": "to flutter",
+          "long": "to move or flap rapidly and lightly, typically referring to the motion of wings, leaves, or other flexible objects",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berkibar",
+          "long": "untuk bergerak atau mengepakkan dengan cepat dan ringan, biasanya mengacu pada gerakan sayap, daun, atau benda fleksibel lainnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401474.jpeg",
+      "simplified": "扑",
+      "traditional": "撲",
+      "pinyin": "pū"
+    },
+    {
+      "id": 401475,
+      "translation": {
+        "en": {
+          "short": "to rear",
+          "long": "to raise and care for a child until they are grown",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke belakang",
+          "long": "untuk membesarkan dan merawat anak sampai mereka tumbuh",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/401475.jpeg",
+      "simplified": "抚养",
+      "traditional": "撫養",
+      "pinyin": "fǔyǎng"
+    }
+  ]
+}

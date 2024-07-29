@@ -1,0 +1,811 @@
+{
+  "id": 646,
+  "title": {
+    "en": "Stringed Instruments",
+    "id": "Instrumen senar"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to stringed instruments such as \"harp\", \"cello\", and \"santur\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan instrumen senar seperti \"harpa\", \"cello\", dan \"santur\"."
+  },
+  "cards": [
+    {
+      "id": 227150,
+      "translation": {
+        "en": {
+          "short": "autoharp",
+          "long": "a musical instrument resembling a small harp that employs a button-controlled mechanism for selecting chords",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "autoharp",
+          "long": "Alat musik yang menyerupai harpa kecil yang menggunakan mekanisme yang dikendalikan tombol untuk memilih akord",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227150.jpeg",
+      "simplified": "自动竖琴",
+      "traditional": "自動豎琴",
+      "pinyin": "zìdòng shùqín"
+    },
+    {
+      "id": 227153,
+      "translation": {
+        "en": {
+          "short": "balalaika",
+          "long": "a stringed musical instrument from Russian origin with a triangular body and three strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Balalaika",
+          "long": "alat musik bersatu dari asal Rusia dengan tubuh segitiga dan tiga string",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227153.jpeg",
+      "simplified": "巴拉莱卡琴",
+      "traditional": "巴拉萊卡琴",
+      "pinyin": "Bā lā Láikǎ qín"
+    },
+    {
+      "id": 227154,
+      "translation": {
+        "en": {
+          "short": "banjo",
+          "long": "a stringed musical instrument with a circular body and a long neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "banjo",
+          "long": "alat musik yang bersatu dengan tubuh melingkar dan leher panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227154.jpeg",
+      "simplified": "班卓琴",
+      "traditional": "班卓琴",
+      "pinyin": "bānzhuó qín"
+    },
+    {
+      "id": 227157,
+      "translation": {
+        "en": {
+          "short": "bouzouki",
+          "long": "a stringed musical instrument of Greek origin with a long neck and round body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bouzouki",
+          "long": "Alat musik yang bersatu dengan asal Yunani dengan leher panjang dan bundar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227157.jpeg",
+      "simplified": "布祖基琴",
+      "traditional": "布祖基琴",
+      "pinyin": "bù Zǔ jī qín"
+    },
+    {
+      "id": 312994,
+      "translation": {
+        "en": {
+          "short": "bass guitar",
+          "long": "a type of electric guitar that produces the lowest pitch in the family of guitars",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar bass",
+          "long": "Jenis gitar listrik yang menghasilkan nada terendah dalam keluarga gitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/312994.jpeg",
+      "simplified": "低音吉他",
+      "traditional": "低音吉他",
+      "pinyin": "dīyīn jítā"
+    },
+    {
+      "id": 313070,
+      "translation": {
+        "en": {
+          "short": "guzheng",
+          "long": "a traditional Chinese plucked zither with a long history, characterized by its distinctive sound and unique playing technique",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Guzheng",
+          "long": "Seorang Cina tradisional memetik syair dengan sejarah panjang, ditandai dengan suara yang khas dan teknik bermain yang unik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313070.jpeg",
+      "simplified": "古筝",
+      "traditional": "古箏",
+      "pinyin": "gǔzhēng"
+    },
+    {
+      "id": 313073,
+      "translation": {
+        "en": {
+          "short": "harp",
+          "long": "a triangular musical instrument with a row of strings that are stretched vertically, played with the fingers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "harpa",
+          "long": "alat musik segitiga dengan deretan senar yang diregangkan secara vertikal, dimainkan dengan jari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313073.jpeg",
+      "simplified": "竖琴乐器",
+      "traditional": "豎琴樂器",
+      "pinyin": "shùqín yuèqì"
+    },
+    {
+      "id": 313074,
+      "translation": {
+        "en": {
+          "short": "Hawaiian guitar",
+          "long": "a variant of the standard guitar played horizontally across the lap, known for its slack-key tuning and fingerpicking technique",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gitar Hawaii",
+          "long": "Varian dari gitar standar dimainkan secara horizontal di seluruh pangkuan, yang dikenal karena teknik tuning dan fingerpicking yang malas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313074.jpeg",
+      "simplified": "夏威夷吉他",
+      "traditional": "夏威夷吉他",
+      "pinyin": "Xiàwēi yí jítā"
+    },
+    {
+      "id": 313076,
+      "translation": {
+        "en": {
+          "short": "lute",
+          "long": "an early stringed instrument with a rounded body and a long neck that is played like a guitar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecapi",
+          "long": "Instrumen goreng awal dengan tubuh bundar dan leher panjang yang dimainkan seperti gitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313076.jpeg",
+      "simplified": "琵琶",
+      "traditional": "琵琶",
+      "pinyin": "pípa"
+    },
+    {
+      "id": 313077,
+      "translation": {
+        "en": {
+          "short": "mandolin",
+          "long": "a stringed musical instrument with a curved back and four pairs of metal strings, played with a plectrum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mandolin",
+          "long": "alat musik bersatu dengan punggung melengkung dan empat pasang string logam, dimainkan dengan plectrum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313077.jpeg",
+      "simplified": "曼多林",
+      "traditional": "曼多林",
+      "pinyin": "màn duō Lín"
+    },
+    {
+      "id": 313078,
+      "translation": {
+        "en": {
+          "short": "oud",
+          "long": "a string instrument with a pear-shaped body, 11 strings and a short neck that is fretless",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Oud",
+          "long": "instrumen tali dengan tubuh berbentuk pir, 11 senar dan leher pendek yang fretless",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313078.jpeg",
+      "simplified": "沉香木",
+      "traditional": "沉香木",
+      "pinyin": "chénxiāng Mù"
+    },
+    {
+      "id": 313079,
+      "translation": {
+        "en": {
+          "short": "psaltery",
+          "long": "a stringed musical instrument featuring a flat wooden soundboard with strings stretched across it, traditionally played by plucking or striking the strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mazmur",
+          "long": "Alat musik bersatu yang menampilkan papan suara kayu datar dengan senar yang membentang di atasnya, secara tradisional dimainkan dengan memetik atau menyerang senar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313079.jpeg",
+      "simplified": "诗篇",
+      "traditional": "詩篇",
+      "pinyin": "shīpiān"
+    },
+    {
+      "id": 227162,
+      "translation": {
+        "en": {
+          "short": "cello",
+          "long": "a large musical instrument of the violin family that is held upright and is played by pulling a bow across its strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selo",
+          "long": "alat musik besar dari keluarga biola yang diadakan tegak dan dimainkan dengan menarik busur melintasi senarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227162.jpeg",
+      "simplified": "大提琴",
+      "traditional": "大提琴",
+      "pinyin": "dàtí qín"
+    },
+    {
+      "id": 227163,
+      "translation": {
+        "en": {
+          "short": "Celtic harp",
+          "long": "a small harp that is used in Irish or Scottish folk music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Harpa Celtic",
+          "long": "harpa kecil yang digunakan dalam musik rakyat Irlandia atau Skotlandia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227163.jpeg",
+      "simplified": "凯尔特竖琴",
+      "traditional": "凱爾特豎琴",
+      "pinyin": "Kǎi ěr tè shùqín"
+    },
+    {
+      "id": 227164,
+      "translation": {
+        "en": {
+          "short": "cimbalom",
+          "long": "a large musical instrument with a trapezoidal box or board in which strings are stretched, played by fingers or two small hammers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cimbalom",
+          "long": "alat musik besar dengan kotak atau papan trapesium di mana string diregangkan, dimainkan dengan jari atau dua palu kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227164.jpeg",
+      "simplified": "辛巴隆",
+      "traditional": "辛巴隆",
+      "pinyin": "Xīn Bā Lóng"
+    },
+    {
+      "id": 313092,
+      "translation": {
+        "en": {
+          "short": "santur",
+          "long": "a traditional Persian hammered dulcimer, known for its distinctive sound produced by striking strings with small hammers, often used in Middle Eastern and Persian music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Santur",
+          "long": "Dulcimer palu Persia tradisional, yang dikenal karena suaranya yang khas yang diproduksi oleh senar mencolok dengan palu kecil, sering digunakan dalam musik Timur Tengah dan Persia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313092.jpeg",
+      "simplified": "桑图尔",
+      "traditional": "桑圖爾",
+      "pinyin": "Sāng Túěr"
+    },
+    {
+      "id": 313120,
+      "translation": {
+        "en": {
+          "short": "sarod",
+          "long": "a fretless stringed musical instrument from India, known for its deep, resonant sound and intricate melodies, commonly used in Hindustani classical music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sarod",
+          "long": "Alat musik senar gesek tanpa fret dari India, yang dikenal karena suaranya yang mendalam dan resonansi dan melodi yang rumit, yang biasa digunakan dalam musik klasik Hindustan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313120.jpeg",
+      "simplified": "萨罗德",
+      "traditional": "薩羅德",
+      "pinyin": "Sà Luó Dé"
+    },
+    {
+      "id": 313122,
+      "translation": {
+        "en": {
+          "short": "sitar",
+          "long": "a stringed instrument of the Indian origin with a round body, long neck and two sets of metal strings that are plucked to make sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sitar",
+          "long": "instrumen senar asal India dengan tubuh bundar, leher panjang dan dua set string logam yang dipetik untuk membuat suara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313122.jpeg",
+      "simplified": "西塔琴",
+      "traditional": "西塔琴",
+      "pinyin": "xītǎ qín"
+    },
+    {
+      "id": 227165,
+      "translation": {
+        "en": {
+          "short": "cittern",
+          "long": "a stringed instrument that was popular during the Renaissance with a pear-shaped body and a neck that was thicker under the treble strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cittern",
+          "long": "instrumen senar yang populer selama kebangkitan dengan tubuh berbentuk pir dan leher yang lebih tebal di bawah senar treble",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227165.jpeg",
+      "simplified": "柑橘",
+      "traditional": "柑橘",
+      "pinyin": "gānjú"
+    },
+    {
+      "id": 313139,
+      "translation": {
+        "en": {
+          "short": "tanpura",
+          "long": "a traditional Indian stringed instrument used for providing a continuous drone in Indian classical music, known for its rich and meditative sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanpura",
+          "long": "Instrumen goreng tradisional India yang digunakan untuk menyediakan drone berkelanjutan dalam musik klasik India, yang dikenal karena suara yang kaya dan meditatif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313139.jpeg",
+      "simplified": "坦普拉",
+      "traditional": "坦普拉",
+      "pinyin": "tǎn Pǔlā"
+    },
+    {
+      "id": 313140,
+      "translation": {
+        "en": {
+          "short": "ukulele",
+          "long": "a small, four-stringed musical instrument resembling a guitar, originating from Hawaii",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar kecil",
+          "long": "Alat musik kecil dan empat senar menyerupai gitar, berasal dari Hawaii",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313140.jpeg",
+      "simplified": "尤克里里琴",
+      "traditional": "尤克里裡琴",
+      "pinyin": "yóukè lǐ lǐ qín"
+    },
+    {
+      "id": 313143,
+      "translation": {
+        "en": {
+          "short": "veena",
+          "long": "a traditional Indian plucked string instrument with a long neck and resonating body, known for its rich and melodic sound, commonly used in Indian classical music",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Veena",
+          "long": "Instrumen string tradisional India yang dipetik dengan leher panjang dan tubuh yang beresonansi, dikenal karena suara yang kaya dan melodik, yang biasa digunakan dalam musik klasik India",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313143.jpeg",
+      "simplified": "维纳",
+      "traditional": "維納",
+      "pinyin": "Wéi Nà"
+    },
+    {
+      "id": 313174,
+      "translation": {
+        "en": {
+          "short": "viola",
+          "long": "a string instrument that is slightly larger than a violin, tuned a fifth lower and producing deeper sounds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biola",
+          "long": "instrumen string yang sedikit lebih besar dari biola, disetel lebih rendah kelima dan menghasilkan suara yang lebih dalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313174.jpeg",
+      "simplified": "中提琴",
+      "traditional": "中提琴",
+      "pinyin": "zhōngtí qín"
+    },
+    {
+      "id": 313176,
+      "translation": {
+        "en": {
+          "short": "violin",
+          "long": "a musical instrument that we play by holding it under our chin and moving a bow across its strings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biola",
+          "long": "alat musik yang kami mainkan dengan memegangnya di bawah dagu kami dan menggerakkan busur di senarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313176.jpeg",
+      "simplified": "小提琴",
+      "traditional": "小提琴",
+      "pinyin": "xiǎotí qín"
+    },
+    {
+      "id": 313178,
+      "translation": {
+        "en": {
+          "short": "zither",
+          "long": "a stringed instrument used in folk music consisting of a flat thin body and many strings stretched across that is played by fingers or a plectrum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sitar",
+          "long": "Instrumen senar yang digunakan dalam musik rakyat yang terdiri dari tubuh tipis yang datar dan banyak senar yang membentang yang dimainkan dengan jari atau plektrum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313178.jpeg",
+      "simplified": "筝",
+      "traditional": "箏",
+      "pinyin": "zhēng"
+    },
+    {
+      "id": 313179,
+      "translation": {
+        "en": {
+          "short": "hurdy-gurdy",
+          "long": "a musical instrument played by turning a handle and pressing keys that make a wheel turn against the strings and create a tune",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hurdy-Gurdy",
+          "long": "alat musik yang dimainkan dengan memutar pegangan dan menekan tombol yang membuat roda berbalik melawan senar dan membuat nada",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313179.jpeg",
+      "simplified": "赫迪古迪",
+      "traditional": "赫迪古迪",
+      "pinyin": "Hè dí Gǔ dí"
+    },
+    {
+      "id": 313180,
+      "translation": {
+        "en": {
+          "short": "kora",
+          "long": "a West African string instrument with a round body and 21 strings that is played like a harp and is similar to the lute",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kora",
+          "long": "Instrumen tali Afrika Barat dengan tubuh bundar dan 21 string yang dimainkan seperti harpa dan mirip dengan kecapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313180.jpeg",
+      "simplified": "科拉",
+      "traditional": "科拉",
+      "pinyin": "kē lā"
+    },
+    {
+      "id": 313193,
+      "translation": {
+        "en": {
+          "short": "lyre",
+          "long": "a small U-shaped string instrument similar to the harp originated in ancient Greece",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Conre",
+          "long": "Instrumen string kecil berbentuk U yang mirip dengan harpa berasal dari Yunani kuno",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313193.jpeg",
+      "simplified": "七弦琴",
+      "traditional": "七弦琴",
+      "pinyin": "qīxián qín"
+    },
+    {
+      "id": 313219,
+      "translation": {
+        "en": {
+          "short": "thumb piano",
+          "long": "any of the group of African musical instruments with a row of narrow metal pieces that is hold in the hands and played with the thumbs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piano jempol",
+          "long": "Kelompok alat musik Afrika mana pun dengan deretan potongan logam sempit yang dipegang di tangan dan dimainkan dengan jempol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313219.jpeg",
+      "simplified": "拇指钢琴",
+      "traditional": "拇指鋼琴",
+      "pinyin": "mǔzhǐ gāngqín"
+    },
+    {
+      "id": 313224,
+      "translation": {
+        "en": {
+          "short": "viol",
+          "long": "an early string instrument similar to a violin, typically featuring six strings and played with a bow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "biola",
+          "long": "Instrumen string awal yang mirip dengan biola, biasanya menampilkan enam senar dan bermain dengan busur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313224.jpeg",
+      "simplified": "维奥尔",
+      "traditional": "維奧爾",
+      "pinyin": "Wéi Aò ěr"
+    },
+    {
+      "id": 313229,
+      "translation": {
+        "en": {
+          "short": "violoncello",
+          "long": "a large musical instrument of the violin family, with four strings that are tuned in perfect fifths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selo",
+          "long": "alat musik besar dari keluarga biola, dengan empat senar yang disetel di urutan kelima yang sempurna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313229.jpeg",
+      "simplified": "大提琴",
+      "traditional": "大提琴",
+      "pinyin": "dàtí qín"
+    },
+    {
+      "id": 227177,
+      "translation": {
+        "en": {
+          "short": "double bass",
+          "long": "the largest member of the violin family in the modern symphony orchestra that produces the lowest pitch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bas",
+          "long": "Anggota terbesar keluarga biola di orkestra simfoni modern yang menghasilkan nada terendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227177.jpeg",
+      "simplified": "低音提琴",
+      "traditional": "低音提琴",
+      "pinyin": "dīyīn tí qín"
+    },
+    {
+      "id": 313249,
+      "translation": {
+        "en": {
+          "short": "guitar",
+          "long": "a musical instrument, usually with six strings, that we play by pulling the strings with our fingers or with a plectrum",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar",
+          "long": "alat musik, biasanya dengan enam senar, yang kami mainkan dengan menarik string dengan jari kami atau dengan plectrum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313249.jpeg",
+      "simplified": "吉他",
+      "traditional": "吉他",
+      "pinyin": "jítā"
+    },
+    {
+      "id": 313257,
+      "translation": {
+        "en": {
+          "short": "electric guitar",
+          "long": "a guitar capable of converting the vibration of its strings into electrical impulses using a pickup",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar elektrik",
+          "long": "gitar yang mampu mengubah getaran stringnya menjadi impuls listrik menggunakan pickup",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/313257.jpeg",
+      "simplified": "电吉他",
+      "traditional": "電吉他",
+      "pinyin": "diànjí tā"
+    },
+    {
+      "id": 227181,
+      "translation": {
+        "en": {
+          "short": "dulcimer",
+          "long": "a stringed musical instrument with a trapezoidal board or box that is played by hitting the metal strings with a pair of light hammers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dulcimer",
+          "long": "alat musik senar dengan papan atau kotak trapesium yang dimainkan dengan memukul string logam dengan sepasang palu ringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/227181.jpeg",
+      "simplified": "洋琴",
+      "traditional": "洋琴",
+      "pinyin": "yángqín"
+    },
+    {
+      "id": 314493,
+      "translation": {
+        "en": {
+          "short": "marxophone",
+          "long": "a unique, vintage musical instrument with a small keyboard and metal strings that are struck with hammers, producing a tinkling and bell-like sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Marxophone",
+          "long": "Alat musik vintage yang unik dengan keyboard kecil dan string logam yang dipukul dengan palu, menghasilkan suara yang bergemuruh dan seperti lonceng",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/314493.jpeg",
+      "simplified": "马克思电话",
+      "traditional": "馬克思電話",
+      "pinyin": "Mǎkè sī diànhuà"
+    },
+    {
+      "id": 315136,
+      "translation": {
+        "en": {
+          "short": "crwth",
+          "long": "a historical, bowed musical instrument from Wales, characterized by its boxy shape, multiple strings, and unique playing technique",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "crwth",
+          "long": "Alat musik historis dan tertunduk dari Wales, ditandai dengan bentuk kotaknya, banyak senar, dan teknik bermain yang unik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315136.jpeg",
+      "simplified": "克鲁斯",
+      "traditional": "克魯斯",
+      "pinyin": "Kè Lǔ Sī"
+    },
+    {
+      "id": 315139,
+      "translation": {
+        "en": {
+          "short": "Pikasso guitar",
+          "long": "a unique multi-neck guitar with intricate string arrangements, designed by luthier Linda Manzer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gitar pikasso",
+          "long": "Gitar multi-neck unik dengan pengaturan string strategi, dirancang oleh luthier linda manzer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315139.jpeg",
+      "simplified": "皮卡索吉他",
+      "traditional": "皮卡索吉他",
+      "pinyin": "píkǎ Suǒ jítā"
+    },
+    {
+      "id": 315145,
+      "translation": {
+        "en": {
+          "short": "musical saw",
+          "long": "a saw that is used as a musical instrument, played by a bow and bent to produce different notes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gergaji musik",
+          "long": "Gergaji yang digunakan sebagai alat musik, dimainkan oleh busur dan bengkok untuk menghasilkan nada yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/315145.jpeg",
+      "simplified": "音乐锯",
+      "traditional": "音樂鋸",
+      "pinyin": "yīnyuè jū"
+    },
+    {
+      "id": 318667,
+      "translation": {
+        "en": {
+          "short": "musical saw",
+          "long": "a saw that is used as a musical instrument, played by a bow and bent to produce different notes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gergaji musik",
+          "long": "Gergaji yang digunakan sebagai alat musik, dimainkan oleh busur dan bengkok untuk menghasilkan nada yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/318667.jpeg",
+      "simplified": "音乐锯",
+      "traditional": "音樂鋸",
+      "pinyin": "yīnyuè jū"
+    },
+    {
+      "id": 333660,
+      "translation": {
+        "en": {
+          "short": "rubab",
+          "long": "a traditional plucked musical instrument from Afghanistan, known for its pear-shaped body, resonant sound, and intricate melodies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rubab",
+          "long": "alat musik tradisional yang dipetik dari Afghanistan, yang dikenal karena tubuhnya yang berbentuk pir, suara resonansi, dan melodi yang rumit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/333660.jpeg",
+      "simplified": "鲁巴布",
+      "traditional": "魯巴布",
+      "pinyin": "Lǔ Bā bù"
+    },
+    {
+      "id": 391045,
+      "translation": {
+        "en": {
+          "short": "steel guitar",
+          "long": "a type of guitar played horizontally, typically with a metal slide or bar to fret the strings, producing a characteristic sliding sound",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gitar baja",
+          "long": "Jenis gitar yang diputar secara horizontal, biasanya dengan slide logam atau batang untuk resah senar, menghasilkan suara geser yang khas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/391045.jpeg",
+      "simplified": "钢吉他",
+      "traditional": "鋼吉他",
+      "pinyin": "gāng jítā"
+    }
+  ]
+}

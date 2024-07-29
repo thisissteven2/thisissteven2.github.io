@@ -1,0 +1,374 @@
+{
+  "id": 4533,
+  "title": {
+    "en": "Internet",
+    "id": "Internet"
+  },
+  "description": {
+    "en": "Here, you will learn some English words related to Internet that are necessary for the Academic IELTS exam.",
+    "id": "Di sini, Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan internet yang diperlukan untuk ujian IELTS akademik."
+  },
+  "cards": [
+    {
+      "id": 364763,
+      "translation": {
+        "en": {
+          "short": "application programming interface",
+          "long": "a set of protocols and tools that allows different software applications to communicate with each other",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Antarmuka Pemrograman Aplikasi",
+          "long": "satu set protokol dan alat yang memungkinkan aplikasi perangkat lunak yang berbeda untuk berkomunikasi satu sama lain",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364763.jpeg",
+      "simplified": "应用程序接口",
+      "traditional": "應用程序接口",
+      "pinyin": "yìngyòng chéng xù jiē kǒu"
+    },
+    {
+      "id": 364764,
+      "translation": {
+        "en": {
+          "short": "IP address",
+          "long": "(computing) a set of numbers separated by dots that a computer with an active internet connection is identified with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alamat IP",
+          "long": "(Komputasi) Satu set angka yang dipisahkan oleh titik -titik yang diidentifikasi oleh komputer dengan koneksi internet aktif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364764.jpeg",
+      "simplified": "IP地址",
+      "traditional": "IP地址",
+      "pinyin": "IP dìzhǐ"
+    },
+    {
+      "id": 364765,
+      "translation": {
+        "en": {
+          "short": "URL",
+          "long": "the address of a resource on the Internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Url",
+          "long": "alamat sumber daya di internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364765.jpeg",
+      "simplified": "网址",
+      "traditional": "網址",
+      "pinyin": "wǎngzhǐ"
+    },
+    {
+      "id": 364766,
+      "translation": {
+        "en": {
+          "short": "HTTP",
+          "long": "the system in HTML in which data is being sent and received on World Wide Web",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Http",
+          "long": "Sistem di HTML di mana data dikirim dan diterima di World Wide Web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364766.jpeg",
+      "simplified": "HTTP协议",
+      "traditional": "HTTP協議",
+      "pinyin": "T T P xiéyì"
+    },
+    {
+      "id": 364767,
+      "translation": {
+        "en": {
+          "short": "bandwidth",
+          "long": "the maximum rate of data transfer of an electronic communication system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bandwidth",
+          "long": "Tingkat maksimum transfer data sistem komunikasi elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364767.jpeg",
+      "simplified": "带宽",
+      "traditional": "帶寬",
+      "pinyin": "dàikuān"
+    },
+    {
+      "id": 364768,
+      "translation": {
+        "en": {
+          "short": "local area network",
+          "long": "a network for communication between computers, usually within a building",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Jaringan Area Lokal",
+          "long": "jaringan untuk komunikasi antar komputer, biasanya di dalam gedung",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364768.jpeg",
+      "simplified": "局域网",
+      "traditional": "局域網",
+      "pinyin": "júyù wǎng"
+    },
+    {
+      "id": 364769,
+      "translation": {
+        "en": {
+          "short": "to ping",
+          "long": "to send a signal to a computer and wait for a reply as a way to test the connection",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ping",
+          "long": "untuk mengirim sinyal ke komputer dan menunggu balasan sebagai cara untuk menguji koneksi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364769.jpeg",
+      "simplified": "测试 ping",
+      "traditional": "測試 ping",
+      "pinyin": "cèshì"
+    },
+    {
+      "id": 364770,
+      "translation": {
+        "en": {
+          "short": "Domain Name System",
+          "long": "a decentralized naming system used on the internet to translate human-readable domain names into numerical IP addresses that computers can understand, enabling the proper routing of data between devices and servers",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Sistem Nama Domain",
+          "long": "Sistem penamaan terdesentralisasi yang digunakan di Internet untuk menerjemahkan nama domain yang dapat dibaca manusia ke dalam alamat IP numerik yang dapat dipahami komputer, memungkinkan perutean data yang tepat antara perangkat dan server",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364770.jpeg",
+      "simplified": "域名系统",
+      "traditional": "域名系統",
+      "pinyin": "yùmíng xìtǒng"
+    },
+    {
+      "id": 364771,
+      "translation": {
+        "en": {
+          "short": "proxy server",
+          "long": "a server that acts as an intermediary between a user's device and the internet, forwarding requests and responses to enhance security, privacy, or performance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "server proxy",
+          "long": "Server yang bertindak sebagai perantara antara perangkat pengguna dan internet, permintaan penerusan dan tanggapan untuk meningkatkan keamanan, privasi, atau kinerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364771.jpeg",
+      "simplified": "代理服务器",
+      "traditional": "代理服務器",
+      "pinyin": "dàilǐ fúwù qì"
+    },
+    {
+      "id": 364772,
+      "translation": {
+        "en": {
+          "short": "portal",
+          "long": "(computing) a website that serves as a point of entry to other websites, with a collection of links categorized based on topic through which the user can search",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pintu gerbang",
+          "long": "(komputasi) Situs web yang berfungsi sebagai titik masuk ke situs web lain, dengan kumpulan tautan yang dikategorikan berdasarkan topik yang dapat dicari pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364772.jpeg",
+      "simplified": "门户网站",
+      "traditional": "門戶網站",
+      "pinyin": "ménhù wǎng zhàn"
+    },
+    {
+      "id": 364773,
+      "translation": {
+        "en": {
+          "short": "HTML",
+          "long": "(computing) a markup language used for the documents that are supposed to be displayed on the World Wide Web",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Html",
+          "long": "(komputasi) Bahasa markup yang digunakan untuk dokumen yang seharusnya ditampilkan di World Wide Web",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364773.jpeg",
+      "simplified": "超文本标记语言",
+      "traditional": "超文本標記語言",
+      "pinyin": "chāowén běn biāo jì yǔ yán"
+    },
+    {
+      "id": 364774,
+      "translation": {
+        "en": {
+          "short": "host",
+          "long": "a computer or device on a network that provides services, resources, or data to other computers or devices, known as clients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuan rumah",
+          "long": "komputer atau perangkat di jaringan yang menyediakan layanan, sumber daya, atau data ke komputer atau perangkat lain, yang dikenal sebagai klien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364774.jpeg",
+      "simplified": "主机（网络）",
+      "traditional": "主機（網絡）",
+      "pinyin": "zhǔjī Wǎngluò"
+    },
+    {
+      "id": 364775,
+      "translation": {
+        "en": {
+          "short": "back end",
+          "long": "a part of a computer responsible for storing and controlling data where users cannot easily access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Back End",
+          "long": "Bagian dari komputer yang bertanggung jawab untuk menyimpan dan mengendalikan data di mana pengguna tidak dapat dengan mudah mengakses",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364775.jpeg",
+      "simplified": "用户不直接访问的系统处理",
+      "traditional": "用戶不直接訪問的系統處理",
+      "pinyin": "yònghù bù zhíjiē fǎngwèn de xìtǒng chǔlǐ"
+    },
+    {
+      "id": 364776,
+      "translation": {
+        "en": {
+          "short": "front end",
+          "long": "a part of a computer that is easily accessible and one uses constantly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paling depan",
+          "long": "bagian dari komputer yang mudah diakses dan seseorang menggunakannya terus -menerus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364776.jpeg",
+      "simplified": "用户直接与之交互的系统的一部分",
+      "traditional": "用戶直接與之交互的系統的一部分",
+      "pinyin": "yònghù zhíjiē yú zhī jiāohù de xìtǒng de yībù fen"
+    },
+    {
+      "id": 364778,
+      "translation": {
+        "en": {
+          "short": "courseware",
+          "long": "a type of educational software or online materials designed for teaching specific subjects or skills",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "courseware",
+          "long": "Jenis perangkat lunak pendidikan atau materi online yang dirancang untuk mengajar mata pelajaran atau keterampilan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364778.jpeg",
+      "simplified": "教育课程的在线材料",
+      "traditional": "教育課程的在線材料",
+      "pinyin": "jiàoyù kèchéng de zàixiàn cáiliào"
+    },
+    {
+      "id": 364779,
+      "translation": {
+        "en": {
+          "short": "cracker",
+          "long": "an individual who engages in unauthorized attempts to access computer systems, networks, or software, often with malicious intent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cracker",
+          "long": "Seorang individu yang terlibat dalam upaya yang tidak sah untuk mengakses sistem komputer, jaringan, atau perangkat lunak, seringkali dengan niat jahat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364779.jpeg",
+      "simplified": "饼干",
+      "traditional": "餅乾",
+      "pinyin": "bǐnggān"
+    },
+    {
+      "id": 364780,
+      "translation": {
+        "en": {
+          "short": "trojan horse",
+          "long": "a harmful program that pretends to be legitimate and can give unauthorized access to a device",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuda Troya",
+          "long": "Program berbahaya yang berpura -pura sah dan dapat memberikan akses yang tidak sah ke perangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/364780.jpeg",
+      "simplified": "特洛伊木马（计算机和信息技术）",
+      "traditional": "特洛伊木馬（計算機和信息技術）",
+      "pinyin": "Tèluò yī Mù mǎ jìsuàn jī hé xìnxī jì shù"
+    },
+    {
+      "id": 390997,
+      "translation": {
+        "en": {
+          "short": "augmented reality",
+          "long": "a technology that overlays computer-generated information, such as images or data, onto the real world, enhancing the user's perception and interaction with their environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "augmented reality",
+          "long": "Teknologi yang menutupi informasi yang dihasilkan komputer, seperti gambar atau data, ke dunia nyata, meningkatkan persepsi dan interaksi pengguna dengan lingkungan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390997.jpeg",
+      "simplified": "虚拟现实",
+      "traditional": "虛擬現實",
+      "pinyin": "xūnǐ xiàn shí"
+    },
+    {
+      "id": 390999,
+      "translation": {
+        "en": {
+          "short": "cyberbullying",
+          "long": "the use of electronic communication to harass, intimidate, or harm others, typically through social media, messaging apps, or online platforms",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perundungan siber",
+          "long": "Penggunaan komunikasi elektronik untuk melecehkan, mengintimidasi, atau menyakiti orang lain, biasanya melalui media sosial, aplikasi pesan, atau platform online",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/390999.jpeg",
+      "simplified": "网络欺凌",
+      "traditional": "網絡欺凌",
+      "pinyin": "Wǎngluò qīlíng"
+    }
+  ]
+}

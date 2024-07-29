@@ -1,0 +1,545 @@
+{
+  "id": 3985,
+  "title": {
+    "en": "Home Technology",
+    "id": "Teknologi rumah"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to home technology such as \"smart plug\", \"cable box\", and \"fire alarm\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan teknologi rumah seperti \"Smart Plug\", \"Cable Box\", dan \"Fire Alarm\"."
+  },
+  "cards": [
+    {
+      "id": 345859,
+      "translation": {
+        "en": {
+          "short": "smart door lock",
+          "long": "an electronic lock that can be locked and unlocked through various methods such as keyless entry, biometric verification, or remote control using a smartphone app",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kunci pintu pintar",
+          "long": "Kunci elektronik yang dapat dikunci dan dibuka melalui berbagai metode seperti entri tanpa kunci, verifikasi biometrik, atau remote control menggunakan aplikasi ponsel cerdas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345859.jpeg",
+      "simplified": "智能门锁",
+      "traditional": "智能門鎖",
+      "pinyin": "zhìnéng ménsuǒ"
+    },
+    {
+      "id": 345878,
+      "translation": {
+        "en": {
+          "short": "smart thermostat",
+          "long": "a device that can be controlled remotely and programmed to automatically adjust the temperature of a home or building based on the user's preferences and behavior patterns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "termostat pintar",
+          "long": "Perangkat yang dapat dikendalikan dari jarak jauh dan diprogram untuk secara otomatis menyesuaikan suhu rumah atau bangunan berdasarkan preferensi dan pola perilaku pengguna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345878.jpeg",
+      "simplified": "智能恒温器",
+      "traditional": "智能恆溫器",
+      "pinyin": "zhìnéng héngwēn qì"
+    },
+    {
+      "id": 345879,
+      "translation": {
+        "en": {
+          "short": "home assistant device",
+          "long": "a smart electronic device that uses voice recognition and natural language processing to enable users to control their smart home devices, answer questions, and perform other tasks through voice commands",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perangkat Asisten Rumah",
+          "long": "Perangkat elektronik pintar yang menggunakan pengenalan suara dan pemrosesan bahasa alami untuk memungkinkan pengguna mengendalikan perangkat rumah pintar mereka, menjawab pertanyaan, dan melakukan tugas -tugas lain melalui perintah suara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345879.jpeg",
+      "simplified": "家庭助理设备",
+      "traditional": "家庭助理設備",
+      "pinyin": "jiātíng zhùlǐ shèbèi"
+    },
+    {
+      "id": 345880,
+      "translation": {
+        "en": {
+          "short": "smart plug",
+          "long": "an electronic device that plugs into a wall outlet and allows you to control the power supply to another device that is plugged into it through a mobile app or voice assistant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "steker pintar",
+          "long": "Perangkat elektronik yang dihubungkan ke outlet dinding dan memungkinkan Anda untuk mengontrol catu daya ke perangkat lain yang terhubung ke dalamnya melalui aplikasi seluler atau asisten suara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345880.jpeg",
+      "simplified": "智能插头",
+      "traditional": "智能插頭",
+      "pinyin": "zhìnéng chātóu"
+    },
+    {
+      "id": 345881,
+      "translation": {
+        "en": {
+          "short": "smoke alarm",
+          "long": "a device or alarm that starts beeping if it detects smoke or fire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alarm asap",
+          "long": "perangkat atau alarm yang dimulai bip jika mendeteksi asap atau api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345881.jpeg",
+      "simplified": "烟雾探测器",
+      "traditional": "煙霧探測器",
+      "pinyin": "yānwù tàncè qì"
+    },
+    {
+      "id": 345882,
+      "translation": {
+        "en": {
+          "short": "home theater system",
+          "long": "a set of audio and visual equipment designed to provide an immersive movie theater experience in a private residence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sistem Home Theatre",
+          "long": "Satu set peralatan audio dan visual yang dirancang untuk memberikan pengalaman bioskop yang mendalam di kediaman pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345882.jpeg",
+      "simplified": "家庭影院系统",
+      "traditional": "家庭影院系統",
+      "pinyin": "jiātíng yǐngyuàn xìtǒng"
+    },
+    {
+      "id": 345883,
+      "translation": {
+        "en": {
+          "short": "wireless speaker",
+          "long": "a type of speaker that connects to audio sources without the need for cables or wires",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "speaker nirkabel",
+          "long": "Jenis speaker yang terhubung ke sumber audio tanpa perlu kabel atau kabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345883.jpeg",
+      "simplified": "无线音箱",
+      "traditional": "無線音箱",
+      "pinyin": "wúxiàn yīnxiāng"
+    },
+    {
+      "id": 345884,
+      "translation": {
+        "en": {
+          "short": "wi-fi router",
+          "long": "a device that enables wireless communication between multiple devices and provides internet access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Router Wi-Fi",
+          "long": "Perangkat yang memungkinkan komunikasi nirkabel antara beberapa perangkat dan menyediakan akses internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345884.jpeg",
+      "simplified": "无线路由器",
+      "traditional": "無線路由器",
+      "pinyin": "wúxiàn lùyóu qì"
+    },
+    {
+      "id": 345885,
+      "translation": {
+        "en": {
+          "short": "video doorbell",
+          "long": "a smart device that allows homeowners to see and communicate with visitors remotely via a mobile app, while also providing motion detection and other security features",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Batas video",
+          "long": "Perangkat pintar yang memungkinkan pemilik rumah untuk melihat dan berkomunikasi dengan pengunjung dari jarak jauh melalui aplikasi seluler, sementara juga menyediakan deteksi gerak dan fitur keamanan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345885.jpeg",
+      "simplified": "可视门铃",
+      "traditional": "可視門鈴",
+      "pinyin": "kě shì ménlíng"
+    },
+    {
+      "id": 345886,
+      "translation": {
+        "en": {
+          "short": "robot vacuum cleaner",
+          "long": "a self-contained, programmable device that uses sensors and brushes to clean floors autonomously",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "robot vacuum cleaner",
+          "long": "Perangkat mandiri dan dapat diprogram yang menggunakan sensor dan sikat untuk membersihkan lantai secara mandiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345886.jpeg",
+      "simplified": "机器人吸尘器",
+      "traditional": "機器人吸塵器",
+      "pinyin": "jīqì rén xīchén qì"
+    },
+    {
+      "id": 345887,
+      "translation": {
+        "en": {
+          "short": "smart outlet",
+          "long": "an electrical outlet that can be controlled remotely using a smartphone app, voice command, or automated schedule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "outlet pintar",
+          "long": "Outlet listrik yang dapat dikendalikan dari jarak jauh menggunakan aplikasi ponsel pintar, perintah suara, atau jadwal otomatis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345887.jpeg",
+      "simplified": "智能插座",
+      "traditional": "智能插座",
+      "pinyin": "zhìnéng chāzuò"
+    },
+    {
+      "id": 345888,
+      "translation": {
+        "en": {
+          "short": "smart TV",
+          "long": "an internet-connected television with built-in software for accessing online content and apps without external devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Televisi pintar",
+          "long": "Televisi yang terhubung dengan internet dengan perangkat lunak bawaan untuk mengakses konten dan aplikasi online tanpa perangkat eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345888.jpeg",
+      "simplified": "智能电视",
+      "traditional": "智能電視",
+      "pinyin": "zhìnéng diànshì"
+    },
+    {
+      "id": 345889,
+      "translation": {
+        "en": {
+          "short": "gaming console",
+          "long": "a specialized computer system designed for playing video games on a TV or other display screen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Konsol Gaming",
+          "long": "Sistem komputer khusus yang dirancang untuk bermain video game di TV atau layar tampilan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345889.jpeg",
+      "simplified": "游戏机",
+      "traditional": "遊戲機",
+      "pinyin": "yóuxì jī"
+    },
+    {
+      "id": 345891,
+      "translation": {
+        "en": {
+          "short": "personal computer",
+          "long": "a compact electronic device designed for individual use, capable of performing various tasks such as word processing, internet browsing, and multimedia applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "komputer pribadi",
+          "long": "Perangkat elektronik kompak yang dirancang untuk penggunaan individu, mampu melakukan berbagai tugas seperti pengolah kata, penelusuran internet, dan aplikasi multimedia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345891.jpeg",
+      "simplified": "个人电脑",
+      "traditional": "個人電腦",
+      "pinyin": "gèrén diàn nǎo"
+    },
+    {
+      "id": 345892,
+      "translation": {
+        "en": {
+          "short": "sound system",
+          "long": "a piece of equipment used for playing recorded music, making a live performance, or turning up sound through speakers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sistem suara",
+          "long": "Sepotong peralatan yang digunakan untuk memutar musik rekaman, membuat pertunjukan live, atau menaikkan suara melalui speaker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345892.jpeg",
+      "simplified": "音响系统",
+      "traditional": "音響系統",
+      "pinyin": "yīnxiǎng xìtǒng"
+    },
+    {
+      "id": 345893,
+      "translation": {
+        "en": {
+          "short": "remote control",
+          "long": "a small device that lets you control electrical or electronic devices like TVs from a distance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kendali jarak jauh",
+          "long": "Perangkat kecil yang memungkinkan Anda mengontrol perangkat listrik atau elektronik seperti TV dari kejauhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345893.jpeg",
+      "simplified": "遥控",
+      "traditional": "遙控",
+      "pinyin": "yáokòng"
+    },
+    {
+      "id": 345894,
+      "translation": {
+        "en": {
+          "short": "cable box",
+          "long": "a device provided by a cable TV provider that receives cable signals and delivers TV programming to a connected television set",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kotak kabel",
+          "long": "Perangkat yang disediakan oleh penyedia TV kabel yang menerima sinyal kabel dan memberikan pemrograman TV ke set televisi yang terhubung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345894.jpeg",
+      "simplified": "电缆盒",
+      "traditional": "電纜盒",
+      "pinyin": "diànlǎn hé"
+    },
+    {
+      "id": 345895,
+      "translation": {
+        "en": {
+          "short": "streaming device",
+          "long": "a device that enables the streaming of digital media, such as movies, TV shows, and music, from online platforms directly to a television or other display",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat streaming",
+          "long": "Perangkat yang memungkinkan streaming media digital, seperti film, acara TV, dan musik, dari platform online langsung ke televisi atau tampilan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345895.jpeg",
+      "simplified": "流媒体设备",
+      "traditional": "流媒體設備",
+      "pinyin": "liúméi tǐ shèbèi"
+    },
+    {
+      "id": 345896,
+      "translation": {
+        "en": {
+          "short": "DVD player",
+          "long": "a device that plays content such as movies or shows from flat discs called DVDs on your TV or other display",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemutar DVD",
+          "long": "Perangkat yang memainkan konten seperti film atau acara dari cakram datar yang disebut DVD di TV Anda atau tampilan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345896.jpeg",
+      "simplified": "DVD播放机",
+      "traditional": "DVD播放機",
+      "pinyin": "bōfàng jī"
+    },
+    {
+      "id": 345897,
+      "translation": {
+        "en": {
+          "short": "stereo system",
+          "long": "an audio equipment setup that includes two or more speakers and an amplifier that produces sound that is typically intended for music or entertainment purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem stereo",
+          "long": "pengaturan peralatan audio yang mencakup dua atau lebih speaker dan amplifier yang menghasilkan suara yang biasanya dimaksudkan untuk tujuan musik atau hiburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345897.jpeg",
+      "simplified": "立体声系统",
+      "traditional": "立體聲系統",
+      "pinyin": "lìtǐ shēng xìtǒng"
+    },
+    {
+      "id": 345899,
+      "translation": {
+        "en": {
+          "short": "smart smoke alarm",
+          "long": "a device that uses advanced technology to detect smoke and fire and send alerts to the homeowner's smartphone or other smart devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alarm asap pintar",
+          "long": "Perangkat yang menggunakan teknologi canggih untuk mendeteksi asap dan menembak dan mengirim peringatan ke smartphone pemilik rumah atau perangkat pintar lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345899.jpeg",
+      "simplified": "智能烟雾报警器",
+      "traditional": "智能煙霧報警器",
+      "pinyin": "zhìnéng yānwù bàojǐng qì"
+    },
+    {
+      "id": 345900,
+      "translation": {
+        "en": {
+          "short": "burglar alarm",
+          "long": "an electronic piece of equipment that once switched on, prevents unauthorized entry to a house, building, or other premises by producing a loud noise",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat tanda bahaya",
+          "long": "Sepotong peralatan elektronik yang pernah dinyalakan, mencegah masuknya tidak sah ke rumah, bangunan, atau tempat lain dengan menghasilkan suara keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345900.jpeg",
+      "simplified": "防盗报警器",
+      "traditional": "防盜報警器",
+      "pinyin": "fángdào bàojǐng qì"
+    },
+    {
+      "id": 345902,
+      "translation": {
+        "en": {
+          "short": "fire alarm",
+          "long": "a device that gives warning of a fire, by making a loud noise",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alarm kebakaran",
+          "long": "perangkat yang memberikan peringatan kebakaran, dengan membuat suara keras",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345902.jpeg",
+      "simplified": "火警",
+      "traditional": "火警",
+      "pinyin": "huǒjǐng"
+    },
+    {
+      "id": 345903,
+      "translation": {
+        "en": {
+          "short": "intercom system",
+          "long": "a communication system that allows people in different parts of a plane, office, etc. to speak to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem interkom",
+          "long": "Sistem komunikasi yang memungkinkan orang di berbagai bagian pesawat, kantor, dll. Untuk berbicara satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345903.jpeg",
+      "simplified": "对讲系统",
+      "traditional": "對講系統",
+      "pinyin": "duì jiǎng xìtǒng"
+    },
+    {
+      "id": 345904,
+      "translation": {
+        "en": {
+          "short": "carbon monoxide detector",
+          "long": "an electronic device that detects the presence of carbon monoxide gas and sounds an alarm to alert occupants in case of high levels of the gas, which is poisonous and can be lethal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Detektor karbon monoksida",
+          "long": "Perangkat elektronik yang mendeteksi keberadaan gas karbon monoksida dan membunyikan alarm untuk mengingatkan penghuni jika terjadi kadar gas yang tinggi, yang beracun dan bisa mematikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345904.jpeg",
+      "simplified": "一氧化碳探测器",
+      "traditional": "一氧化碳探測器",
+      "pinyin": "yīyǎng huà tàn tàncè qì"
+    },
+    {
+      "id": 345905,
+      "translation": {
+        "en": {
+          "short": "motion detector",
+          "long": "a device that detects the presence of movement within a specific area and can trigger an alarm or other action as a result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Detektor Gerak",
+          "long": "Perangkat yang mendeteksi keberadaan pergerakan dalam area tertentu dan dapat memicu alarm atau tindakan lainnya sebagai hasilnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345905.jpeg",
+      "simplified": "运动探测器",
+      "traditional": "運動探測器",
+      "pinyin": "yùndòng tàncè qì"
+    },
+    {
+      "id": 345907,
+      "translation": {
+        "en": {
+          "short": "smart home hub",
+          "long": "a central device that connects and controls multiple smart home devices and allows them to work together seamlessly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pusat Rumah Cerdas",
+          "long": "Perangkat pusat yang menghubungkan dan mengontrol beberapa perangkat rumah pintar dan memungkinkan mereka untuk bekerja bersama dengan mulus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345907.jpeg",
+      "simplified": "智能家居中心",
+      "traditional": "智能家居中心",
+      "pinyin": "zhìnéng jiājū zhōngxīn"
+    },
+    {
+      "id": 384917,
+      "translation": {
+        "en": {
+          "short": "television",
+          "long": "an electronic device with a screen that receives television signals, on which we can watch programs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "televisi",
+          "long": "Perangkat elektronik dengan layar yang menerima sinyal televisi, tempat kami dapat menonton program",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384917.jpeg",
+      "simplified": "电视",
+      "traditional": "電視",
+      "pinyin": "diànshì"
+    }
+  ]
+}

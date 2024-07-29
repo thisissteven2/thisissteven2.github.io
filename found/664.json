@@ -1,0 +1,564 @@
+{
+  "id": 664,
+  "title": {
+    "en": "Streaming Media",
+    "id": "Media streaming"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to streaming media such as \"podcasting\", \"buffering\", and \"watchlist\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan media streaming seperti \"podcasting\", \"buffering\", dan \"watchlist\"."
+  },
+  "cards": [
+    {
+      "id": 355146,
+      "translation": {
+        "en": {
+          "short": "streaming",
+          "long": "the real-time delivery and playback of multimedia content over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalir",
+          "long": "Pengiriman waktu nyata dan pemutaran konten multimedia melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355146.jpeg",
+      "simplified": "流媒体",
+      "traditional": "流媒體",
+      "pinyin": "liúméi tǐ"
+    },
+    {
+      "id": 355147,
+      "translation": {
+        "en": {
+          "short": "podcasting",
+          "long": "the activity of posting a series of digital media files available for download over the internet on regular basis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Podcasting",
+          "long": "Aktivitas memposting serangkaian file media digital yang tersedia untuk diunduh melalui internet secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355147.jpeg",
+      "simplified": "播客",
+      "traditional": "podcast",
+      "pinyin": "bōkè"
+    },
+    {
+      "id": 355148,
+      "translation": {
+        "en": {
+          "short": "podcast",
+          "long": "a digital audio program that is available for download or streaming on the internet, typically produced in a series format covering a wide range of topics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siniar",
+          "long": "Program audio digital yang tersedia untuk diunduh atau streaming di internet, biasanya diproduksi dalam format seri yang mencakup berbagai topik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355148.jpeg",
+      "simplified": "播客",
+      "traditional": "podcast",
+      "pinyin": "bōkè"
+    },
+    {
+      "id": 355149,
+      "translation": {
+        "en": {
+          "short": "subtitle",
+          "long": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who do not understand the language",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subtitle",
+          "long": "kata -kata narasi atau dialog yang diterjemahkan atau diterjemahkan dari film atau acara TV, muncul di bagian bawah layar untuk membantu orang tuli atau mereka yang tidak memahami bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355149.jpeg",
+      "simplified": "电影字幕",
+      "traditional": "電影字幕",
+      "pinyin": "diànyǐng zìmù"
+    },
+    {
+      "id": 355151,
+      "translation": {
+        "en": {
+          "short": "live stream",
+          "long": "the act of broadcasting or transmitting live video or audio content over the internet, allowing viewers to watch the content in real time as it is happening",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "siaran langsung",
+          "long": "Tindakan penyiaran atau mengirimkan video langsung atau konten audio melalui internet, memungkinkan pemirsa untuk menonton konten secara real time saat itu terjadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355151.jpeg",
+      "simplified": "现场直播",
+      "traditional": "現場直播",
+      "pinyin": "xiànchǎng zhí bō"
+    },
+    {
+      "id": 355153,
+      "translation": {
+        "en": {
+          "short": "video on demand",
+          "long": "a system or service that allows users to access and watch video content at their convenience, enabling them to choose and play videos whenever they want rather than following a fixed broadcasting schedule",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Video on Demand",
+          "long": "Sistem atau layanan yang memungkinkan pengguna untuk mengakses dan menonton konten video sesuai keinginan mereka, memungkinkan mereka untuk memilih dan memutar video kapan pun mereka mau daripada mengikuti jadwal penyiaran yang tetap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355153.jpeg",
+      "simplified": "视频点播",
+      "traditional": "視頻點播",
+      "pinyin": "shìpín diǎn bō"
+    },
+    {
+      "id": 355155,
+      "translation": {
+        "en": {
+          "short": "OTT",
+          "long": "the delivery of video, audio, and other media content over the Internet directly to users, bypassing traditional distribution channels such as cable or satellite television providers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ott",
+          "long": "Pengiriman video, audio, dan konten media lainnya melalui internet langsung ke pengguna, melewati saluran distribusi tradisional seperti penyedia televisi kabel atau satelit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355155.jpeg",
+      "simplified": "奥特",
+      "traditional": "奧特",
+      "pinyin": "Aò tè"
+    },
+    {
+      "id": 355157,
+      "translation": {
+        "en": {
+          "short": "adaptive streaming",
+          "long": "a technique used in multimedia delivery over the internet that dynamically adjusts the quality and resolution of the streaming content based on the viewer's network conditions and device capabilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "streaming adaptif",
+          "long": "Teknik yang digunakan dalam pengiriman multimedia melalui internet yang secara dinamis menyesuaikan kualitas dan resolusi konten streaming berdasarkan kondisi jaringan pemirsa dan kemampuan perangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355157.jpeg",
+      "simplified": "自适应流媒体",
+      "traditional": "自適應流媒體",
+      "pinyin": "zìshì yìng liúméi tǐ"
+    },
+    {
+      "id": 355159,
+      "translation": {
+        "en": {
+          "short": "streaming service",
+          "long": "a platform or service that allows users to stream and access a wide range of audio, video, or other media content over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Layanan Streaming",
+          "long": "Platform atau layanan yang memungkinkan pengguna untuk melakukan streaming dan mengakses berbagai konten audio, video, atau media lainnya melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355159.jpeg",
+      "simplified": "流媒体服务",
+      "traditional": "流媒體服務",
+      "pinyin": "liúméi tǐ fúwù"
+    },
+    {
+      "id": 355161,
+      "translation": {
+        "en": {
+          "short": "buffering",
+          "long": "the process of temporarily storing and preloading data to ensure uninterrupted playback of streaming media",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buffering",
+          "long": "Proses Data Menyimpan dan Memuat sementara untuk memastikan pemutaran media streaming yang tidak terputus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355161.jpeg",
+      "simplified": "缓冲",
+      "traditional": "緩衝",
+      "pinyin": "huǎnchōng"
+    },
+    {
+      "id": 355162,
+      "translation": {
+        "en": {
+          "short": "audio",
+          "long": "the sound or audible content in the form of music, speech, or other types of sound that can be recorded, played, or transmitted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "audio",
+          "long": "Suara atau konten yang terdengar dalam bentuk musik, ucapan, atau jenis suara lain yang dapat direkam, diputar, atau ditransmisikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355162.jpeg",
+      "simplified": "声音的",
+      "traditional": "聲音的",
+      "pinyin": "shēngyīn de"
+    },
+    {
+      "id": 355163,
+      "translation": {
+        "en": {
+          "short": "video",
+          "long": "a recording of sounds and images that are moving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "video",
+          "long": "perekaman suara dan gambar yang bergerak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355163.jpeg",
+      "simplified": "视频",
+      "traditional": "影片",
+      "pinyin": "shìpín"
+    },
+    {
+      "id": 355165,
+      "translation": {
+        "en": {
+          "short": "watchlist",
+          "long": "a personalized collection of media that allows individuals to keep track of movies, TV shows, or other content they intend to watch in the future",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "WatchList",
+          "long": "Koleksi media yang dipersonalisasi yang memungkinkan individu melacak film, acara TV, atau konten lain yang ingin mereka tonton di masa mendatang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355165.jpeg",
+      "simplified": "监视列表",
+      "traditional": "監視列表",
+      "pinyin": "jiānshì lièbiǎo"
+    },
+    {
+      "id": 355167,
+      "translation": {
+        "en": {
+          "short": "forward",
+          "long": "the action of advancing or moving ahead through a recorded media file, such as a video or audio track, to a later point in the content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maju",
+          "long": "Tindakan memajukan atau bergerak maju melalui file media yang direkam, seperti video atau trek audio, ke titik selanjutnya dalam konten",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355167.jpeg",
+      "simplified": "前锋",
+      "traditional": "前鋒",
+      "pinyin": "qiánfēng"
+    },
+    {
+      "id": 355169,
+      "translation": {
+        "en": {
+          "short": "fast-forward",
+          "long": "a function or action that allows you to quickly advance or skip forward through a recorded media file, such as a video or audio track, at a faster speed than normal playback",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Maju cepat",
+          "long": "Fungsi atau tindakan yang memungkinkan Anda untuk dengan cepat maju atau melompat ke depan melalui file media yang direkam, seperti video atau trek audio, dengan kecepatan yang lebih cepat dari pemutaran normal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355169.jpeg",
+      "simplified": "快进",
+      "traditional": "快轉",
+      "pinyin": "kuàijìn"
+    },
+    {
+      "id": 355170,
+      "translation": {
+        "en": {
+          "short": "playback",
+          "long": "the process of reproducing or playing back recorded media, such as audio or video content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemutaran",
+          "long": "Proses mereproduksi atau memutar media yang direkam kembali, seperti konten audio atau video",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355170.jpeg",
+      "simplified": "回放",
+      "traditional": "回放",
+      "pinyin": "huífàng"
+    },
+    {
+      "id": 355172,
+      "translation": {
+        "en": {
+          "short": "streaming radio",
+          "long": "the online delivery of live or pre-recorded radio broadcasts over the internet, allowing users to listen to a wide range of radio stations and programs using their connected devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Radio streaming",
+          "long": "Pengiriman online siaran radio langsung atau pra-rekaman melalui internet, memungkinkan pengguna untuk mendengarkan berbagai stasiun radio dan program menggunakan perangkat yang terhubung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355172.jpeg",
+      "simplified": "流媒体广播",
+      "traditional": "流媒體廣播",
+      "pinyin": "liúméi tǐ guǎngbō"
+    },
+    {
+      "id": 355174,
+      "translation": {
+        "en": {
+          "short": "pause",
+          "long": "the action of temporarily stopping the playback of a media file, allowing users to resume from where they left off",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berhenti sebentar",
+          "long": "Tindakan sementara menghentikan pemutaran file media, memungkinkan pengguna untuk melanjutkan dari mana mereka tinggalkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355174.jpeg",
+      "simplified": "停顿",
+      "traditional": "停頓",
+      "pinyin": "tíngdùn"
+    },
+    {
+      "id": 355176,
+      "translation": {
+        "en": {
+          "short": "play",
+          "long": "the function or action of starting or initiating the playback of a media file",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bermain",
+          "long": "fungsi atau tindakan memulai atau memulai pemutaran file media",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355176.jpeg",
+      "simplified": "玩",
+      "traditional": "玩",
+      "pinyin": "wán"
+    },
+    {
+      "id": 355178,
+      "translation": {
+        "en": {
+          "short": "resolution",
+          "long": "the quality and clarity of an image or video display",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resolusi",
+          "long": "Kualitas dan kejelasan tampilan gambar atau video",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355178.jpeg",
+      "simplified": "决议",
+      "traditional": "決議",
+      "pinyin": "juéyì"
+    },
+    {
+      "id": 355180,
+      "translation": {
+        "en": {
+          "short": "channel",
+          "long": "a specific platform or service that offers a collection of content, such as movies, TV shows, or live broadcasts, for streaming over the internet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saluran",
+          "long": "Platform atau layanan tertentu yang menawarkan kumpulan konten, seperti film, acara TV, atau siaran langsung, untuk streaming melalui internet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355180.jpeg",
+      "simplified": "渠道",
+      "traditional": "渠道",
+      "pinyin": "qúdào"
+    },
+    {
+      "id": 355182,
+      "translation": {
+        "en": {
+          "short": "autoplay",
+          "long": "the automatic and continuous playback of content without requiring the user to manually start each item",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Autoplay",
+          "long": "pemutaran konten otomatis dan berkelanjutan tanpa mengharuskan pengguna untuk memulai setiap item secara manual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355182.jpeg",
+      "simplified": "自动播放",
+      "traditional": "自動播放",
+      "pinyin": "zìdòng bōfàng"
+    },
+    {
+      "id": 355186,
+      "translation": {
+        "en": {
+          "short": "display mode",
+          "long": "the available options for how the content is presented on the screen, such as full screen, theater mode, picture-in-picture, and windowed mode",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mode tampilan",
+          "long": "Opsi yang tersedia untuk bagaimana konten disajikan di layar, seperti layar penuh, mode teater, gambar-dalam-gambar, dan mode berjendela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355186.jpeg",
+      "simplified": "显示模式",
+      "traditional": "顯示模式",
+      "pinyin": "xiǎnshì móshì"
+    },
+    {
+      "id": 355184,
+      "translation": {
+        "en": {
+          "short": "full screen",
+          "long": "the display mode where the video or content occupies the entire screen of the device, maximizing the viewing experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "layar penuh",
+          "long": "Mode tampilan tempat video atau konten menempati seluruh layar perangkat, memaksimalkan pengalaman menonton",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355184.jpeg",
+      "simplified": "全屏",
+      "traditional": "全螢幕",
+      "pinyin": "quánpíng"
+    },
+    {
+      "id": 355188,
+      "translation": {
+        "en": {
+          "short": "theater mode",
+          "long": "a display setting that provides a larger and more immersive viewing experience by maximizing the video content and removing distractions from the screen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mode teater",
+          "long": "Pengaturan tampilan yang memberikan pengalaman menonton yang lebih besar dan lebih mendalam dengan memaksimalkan konten video dan menghapus gangguan dari layar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355188.jpeg",
+      "simplified": "剧场模式",
+      "traditional": "劇場模式",
+      "pinyin": "jùchǎng móshì"
+    },
+    {
+      "id": 355190,
+      "translation": {
+        "en": {
+          "short": "picture-in-picture",
+          "long": "a feature that allows users to watch a video or content in a small window while simultaneously performing other tasks or browsing through different applications on the device",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambar di dalam gambar",
+          "long": "Fitur yang memungkinkan pengguna untuk menonton video atau konten di jendela kecil sambil secara bersamaan melakukan tugas -tugas lain atau menjelajah melalui berbagai aplikasi pada perangkat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355190.jpeg",
+      "simplified": "画中画",
+      "traditional": "畫中畫",
+      "pinyin": "huà Zhōng huà"
+    },
+    {
+      "id": 355192,
+      "translation": {
+        "en": {
+          "short": "windowed mode",
+          "long": "a display setting that allows the video or content to be viewed in a resizable window, similar to other applications, enabling users to multitask and have better control over the viewing experience",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mode Windowed",
+          "long": "Pengaturan tampilan yang memungkinkan video atau konten dilihat di jendela yang dapat diatur ulang, mirip dengan aplikasi lain, memungkinkan pengguna untuk melakukan multitask dan memiliki kontrol yang lebih baik atas pengalaman menonton",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355192.jpeg",
+      "simplified": "窗口模式",
+      "traditional": "窗口模式",
+      "pinyin": "chuāngkǒu móshì"
+    },
+    {
+      "id": 355278,
+      "translation": {
+        "en": {
+          "short": "subscription",
+          "long": "an agreement or arrangement where an individual or entity pays a recurring fee or provides their contact information in exchange for access to content, services, or updates from a specific source, such as a website, online platform, or digital publication",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berlangganan",
+          "long": "perjanjian atau pengaturan di mana individu atau entitas membayar biaya berulang atau memberikan informasi kontak mereka dengan imbalan akses ke konten, layanan, atau pembaruan dari sumber tertentu, seperti situs web, platform online, atau publikasi digital",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355278.jpeg",
+      "simplified": "订阅",
+      "traditional": "訂閱",
+      "pinyin": "dìngyuè"
+    },
+    {
+      "id": 355556,
+      "translation": {
+        "en": {
+          "short": "podcaster",
+          "long": "someone who posts a series of digital media files available for download over the Internet on a regular basis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "podcaster",
+          "long": "Seseorang yang memposting serangkaian file media digital yang tersedia untuk diunduh melalui internet secara teratur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/355556.jpeg",
+      "simplified": "播客",
+      "traditional": "podcast",
+      "pinyin": "bōkè"
+    }
+  ]
+}

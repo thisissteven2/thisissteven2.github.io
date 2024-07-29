@@ -1,0 +1,963 @@
+{
+  "id": 3229,
+  "title": {
+    "en": "Types of Food or Drink",
+    "id": "Jenis makanan atau minuman"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the different types of food or drink such as \"savory\", \"wholefood\", and \"delicacy\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan berbagai jenis makanan atau minuman seperti \"gurih\", \"Wholefood\", dan \"kelezatan\"."
+  },
+  "cards": [
+    {
+      "id": 321970,
+      "translation": {
+        "en": {
+          "short": "all-dressed",
+          "long": "topped or garnished with a variety of different ingredients",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "semua berpakaian",
+          "long": "di atas atau dihiasi dengan berbagai bahan yang berbeda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321970.jpeg",
+      "simplified": "盛装打扮",
+      "traditional": "盛裝打扮",
+      "pinyin": "chéngzhuāng dǎban"
+    },
+    {
+      "id": 321973,
+      "translation": {
+        "en": {
+          "short": "delicacy",
+          "long": "a rare or expensive food item that is considered particularly desirable or unique",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelezatan",
+          "long": "makanan langka atau mahal yang dianggap sangat diinginkan atau unik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321973.jpeg",
+      "simplified": "美味",
+      "traditional": "美味",
+      "pinyin": "měiwèi"
+    },
+    {
+      "id": 321981,
+      "translation": {
+        "en": {
+          "short": "iron rations",
+          "long": "a type of food or meal that is designed for emergency or survival situations, typically containing non-perishable, long-lasting foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ransum besi",
+          "long": "Jenis makanan atau makanan yang dirancang untuk situasi darurat atau kelangsungan hidup, biasanya mengandung makanan yang tidak mudah busuk dan tahan lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321981.jpeg",
+      "simplified": "铁口粮",
+      "traditional": "鐵口糧",
+      "pinyin": "Tiě kǒuliáng"
+    },
+    {
+      "id": 321985,
+      "translation": {
+        "en": {
+          "short": "functional food",
+          "long": "a type of food that is fortified or enriched with additional nutrients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan fungsional",
+          "long": "Jenis makanan yang diperkaya atau diperkaya dengan nutrisi tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321985.jpeg",
+      "simplified": "功能性食品",
+      "traditional": "功能性食品",
+      "pinyin": "gōngnéng xìng shípǐn"
+    },
+    {
+      "id": 321988,
+      "translation": {
+        "en": {
+          "short": "perishable",
+          "long": "food that can spoil or decay quickly and requires proper storage to prevent deterioration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fana",
+          "long": "Makanan yang dapat merusak atau membusuk dengan cepat dan membutuhkan penyimpanan yang tepat untuk mencegah kerusakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321988.jpeg",
+      "simplified": "易腐烂的",
+      "traditional": "易腐爛的",
+      "pinyin": "Yì fǔlàn de"
+    },
+    {
+      "id": 321989,
+      "translation": {
+        "en": {
+          "short": "produce",
+          "long": "products grown or made on a farm, such as fruits, vegetables, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menghasilkan",
+          "long": "Produk yang ditanam atau dibuat di pertanian, seperti buah -buahan, sayuran, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321989.jpeg",
+      "simplified": "产品",
+      "traditional": "產品",
+      "pinyin": "chǎnpǐn"
+    },
+    {
+      "id": 321991,
+      "translation": {
+        "en": {
+          "short": "savory",
+          "long": "a small piece of food with a salty taste, that is often served at parties, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gurih",
+          "long": "Sepotong kecil makanan dengan rasa asin, yang sering disajikan di pesta, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321991.jpeg",
+      "simplified": "胃的菜肴",
+      "traditional": "胃的菜餚",
+      "pinyin": "wèi de càiyáo"
+    },
+    {
+      "id": 321992,
+      "translation": {
+        "en": {
+          "short": "seafood",
+          "long": "any sea creature that is eaten as food such as fish, shrimp, seaweed, and shellfish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan laut",
+          "long": "makhluk laut apa pun yang dimakan sebagai makanan seperti ikan, udang, rumput laut, dan kerang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321992.jpeg",
+      "simplified": "海鲜",
+      "traditional": "海鮮",
+      "pinyin": "hǎixiān"
+    },
+    {
+      "id": 321995,
+      "translation": {
+        "en": {
+          "short": "slop",
+          "long": "unappetizing and poorly prepared food, often in a liquid or semi-liquid form",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air kotor",
+          "long": "Makanan yang tidak menggembirakan dan tidak siap, seringkali dalam bentuk cair atau semi-cair",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321995.jpeg",
+      "simplified": "泥浆",
+      "traditional": "泥漿",
+      "pinyin": "níjiāng"
+    },
+    {
+      "id": 321999,
+      "translation": {
+        "en": {
+          "short": "slow food",
+          "long": "the use of locally-sourced, sustainable, and traditional ingredients, as well as a slower pace of eating and appreciation for food culture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan lambat",
+          "long": "Penggunaan bahan-bahan yang bersumber secara lokal, berkelanjutan, dan tradisional, serta laju makan dan apresiasi yang lebih lambat untuk budaya makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/321999.jpeg",
+      "simplified": "慢食",
+      "traditional": "慢食",
+      "pinyin": "màn shí"
+    },
+    {
+      "id": 322001,
+      "translation": {
+        "en": {
+          "short": "snackable",
+          "long": "easy to consume in small, convenient portions",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "snackable",
+          "long": "mudah dikonsumsi dalam porsi kecil dan nyaman",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322001.jpeg",
+      "simplified": "可以吃零食的",
+      "traditional": "可以吃零食的",
+      "pinyin": "kěyǐ chī língshí de"
+    },
+    {
+      "id": 322002,
+      "translation": {
+        "en": {
+          "short": "soul food",
+          "long": "a flavorful cuisine rooted in African American culture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan jiwa",
+          "long": "Masakan beraroma yang berakar pada budaya Afrika -Amerika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322002.jpeg",
+      "simplified": "灵魂食物",
+      "traditional": "靈魂食物",
+      "pinyin": "línghún shíwù"
+    },
+    {
+      "id": 322003,
+      "translation": {
+        "en": {
+          "short": "stodge",
+          "long": "a food that is heavy and filling, but often uninspiring or dull",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memadati",
+          "long": "makanan yang berat dan terisi, tetapi seringkali tidak menarik atau kusam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322003.jpeg",
+      "simplified": "斯托奇",
+      "traditional": "斯托奇",
+      "pinyin": "Sī tuō jī"
+    },
+    {
+      "id": 322007,
+      "translation": {
+        "en": {
+          "short": "superfood",
+          "long": "foods that are nutrient-rich and believed to have health benefits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan super",
+          "long": "Makanan yang kaya nutrisi dan diyakini memiliki manfaat kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322007.jpeg",
+      "simplified": "超级食物",
+      "traditional": "超級食物",
+      "pinyin": "chāojí shíwù"
+    },
+    {
+      "id": 322008,
+      "translation": {
+        "en": {
+          "short": "wholefood",
+          "long": "food that contains little or no artificial substance and is considered healthy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semua makanan",
+          "long": "makanan yang mengandung sedikit atau tidak ada zat buatan dan dianggap sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322008.jpeg",
+      "simplified": "整个食物",
+      "traditional": "整個食物",
+      "pinyin": "zhěnggè shíwù"
+    },
+    {
+      "id": 322009,
+      "translation": {
+        "en": {
+          "short": "foodstuff",
+          "long": "any substance that can be used for consumption as food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan makanan",
+          "long": "zat apa pun yang dapat digunakan untuk dikonsumsi sebagai makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322009.jpeg",
+      "simplified": "食品",
+      "traditional": "食品",
+      "pinyin": "shípǐn"
+    },
+    {
+      "id": 322012,
+      "translation": {
+        "en": {
+          "short": "baby food",
+          "long": "food that is specially prepared for infants and young children to transition to solid foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan bayi",
+          "long": "makanan yang disiapkan khusus untuk bayi dan anak kecil untuk beralih ke makanan padat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322012.jpeg",
+      "simplified": "婴儿食品",
+      "traditional": "嬰兒食品",
+      "pinyin": "yīngér shípǐn"
+    },
+    {
+      "id": 322016,
+      "translation": {
+        "en": {
+          "short": "comfort food",
+          "long": "the type of food that makes one feel happy, because of containing a lot of carbohydrates or sugar, or reminds one of home",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan yang menenangkan",
+          "long": "Jenis makanan yang membuat seseorang merasa bahagia, karena mengandung banyak karbohidrat atau gula, atau mengingatkan salah satu rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322016.jpeg",
+      "simplified": "安慰食物",
+      "traditional": "安慰食物",
+      "pinyin": "ānwèi shíwù"
+    },
+    {
+      "id": 322017,
+      "translation": {
+        "en": {
+          "short": "convenience food",
+          "long": "any type of food that is pre-prepared and can be cooked quickly",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan nyaman",
+          "long": "semua jenis makanan yang sudah disiapkan sebelumnya dan dapat dimasak dengan cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322017.jpeg",
+      "simplified": "方便食品",
+      "traditional": "方便食品",
+      "pinyin": "fāngbiàn shípǐn"
+    },
+    {
+      "id": 322018,
+      "translation": {
+        "en": {
+          "short": "fast food",
+          "long": "food that is quickly prepared and served, such as hamburgers, pizzas, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan cepat saji",
+          "long": "Makanan yang dengan cepat disiapkan dan disajikan, seperti hamburger, pizza, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322018.jpeg",
+      "simplified": "快餐",
+      "traditional": "速食",
+      "pinyin": "kuàicān"
+    },
+    {
+      "id": 322021,
+      "translation": {
+        "en": {
+          "short": "frankenfood",
+          "long": "a colloquial term used to describe genetically modified or genetically engineered food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Frankenfood",
+          "long": "Istilah sehari -hari yang digunakan untuk menggambarkan makanan yang dimodifikasi secara genetik atau direkayasa secara genetik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322021.jpeg",
+      "simplified": "弗兰肯食品",
+      "traditional": "弗蘭肯食品",
+      "pinyin": "fú Lán kěn shípǐn"
+    },
+    {
+      "id": 322023,
+      "translation": {
+        "en": {
+          "short": "health food",
+          "long": "the type of food that is considered to be good for the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan sehat",
+          "long": "jenis makanan yang dianggap baik untuk tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322023.jpeg",
+      "simplified": "健康食品",
+      "traditional": "健康食品",
+      "pinyin": "jiànkāng shí pǐn"
+    },
+    {
+      "id": 322024,
+      "translation": {
+        "en": {
+          "short": "junk food",
+          "long": "unhealthy food, containing a lot of fat, sugar, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan cepat saji",
+          "long": "Makanan yang tidak sehat, mengandung banyak lemak, gula, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322024.jpeg",
+      "simplified": "垃圾食品",
+      "traditional": "垃圾食品",
+      "pinyin": "lājī shí pǐn"
+    },
+    {
+      "id": 322028,
+      "translation": {
+        "en": {
+          "short": "novel food",
+          "long": "new or unusual food that may require regulatory approval before being sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan baru",
+          "long": "makanan baru atau tidak biasa yang mungkin memerlukan persetujuan peraturan sebelum dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322028.jpeg",
+      "simplified": "新奇食物",
+      "traditional": "新奇食物",
+      "pinyin": "xīnqí shíwù"
+    },
+    {
+      "id": 322032,
+      "translation": {
+        "en": {
+          "short": "munchies",
+          "long": "snack-type foods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kudapan",
+          "long": "Makanan tipe camilan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322032.jpeg",
+      "simplified": "零食",
+      "traditional": "零食",
+      "pinyin": "língshí"
+    },
+    {
+      "id": 322034,
+      "translation": {
+        "en": {
+          "short": "nibble",
+          "long": "a small bite of food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menggigit",
+          "long": "gigitan kecil makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322034.jpeg",
+      "simplified": "蚕食",
+      "traditional": "蠶食",
+      "pinyin": "cánshí"
+    },
+    {
+      "id": 322038,
+      "translation": {
+        "en": {
+          "short": "halal",
+          "long": "(of food) prepared according to Islamic law",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "halal",
+          "long": "(makanan) disiapkan menurut hukum Islam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322038.jpeg",
+      "simplified": "清真",
+      "traditional": "清真",
+      "pinyin": "qīngzhēn"
+    },
+    {
+      "id": 322039,
+      "translation": {
+        "en": {
+          "short": "kosher",
+          "long": "(of food) prepared according to Jewish law",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "halal",
+          "long": "(makanan) disiapkan menurut hukum Yahudi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322039.jpeg",
+      "simplified": "犹太洁食",
+      "traditional": "猶太潔食",
+      "pinyin": "Yóutài jiéshí"
+    },
+    {
+      "id": 322057,
+      "translation": {
+        "en": {
+          "short": "street food",
+          "long": "ready-to-eat food or beverages that are sold by vendors in public places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan jalanan",
+          "long": "makanan siap saji atau minuman yang dijual oleh vendor di tempat umum",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322057.jpeg",
+      "simplified": "街头食品",
+      "traditional": "街頭食品",
+      "pinyin": "jiētóu shípǐn"
+    },
+    {
+      "id": 322059,
+      "translation": {
+        "en": {
+          "short": "food",
+          "long": "things that people and animals eat, such as meat or vegetables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan",
+          "long": "hal -hal yang dimakan manusia dan hewan, seperti daging atau sayuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322059.jpeg",
+      "simplified": "食物",
+      "traditional": "食物",
+      "pinyin": "shíwù"
+    },
+    {
+      "id": 322061,
+      "translation": {
+        "en": {
+          "short": "meal",
+          "long": "the food that we eat regularly during different times of day, such as breakfast, lunch, or dinner",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan",
+          "long": "Makanan yang kami makan secara teratur selama waktu yang berbeda dalam sehari, seperti sarapan, makan siang, atau makan malam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322061.jpeg",
+      "simplified": "膳食",
+      "traditional": "膳食",
+      "pinyin": "shànshí"
+    },
+    {
+      "id": 322063,
+      "translation": {
+        "en": {
+          "short": "nutrition",
+          "long": "food that is essential to one's growth and health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nutrisi",
+          "long": "makanan yang penting untuk pertumbuhan dan kesehatan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322063.jpeg",
+      "simplified": "营养",
+      "traditional": "營養",
+      "pinyin": "yíngyǎng"
+    },
+    {
+      "id": 322064,
+      "translation": {
+        "en": {
+          "short": "nourishment",
+          "long": "the food that is needed in order to grow, live, and maintain health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan",
+          "long": "makanan yang dibutuhkan untuk tumbuh, hidup, dan menjaga kesehatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322064.jpeg",
+      "simplified": "营养",
+      "traditional": "營養",
+      "pinyin": "yíngyǎng"
+    },
+    {
+      "id": 322065,
+      "translation": {
+        "en": {
+          "short": "sustenance",
+          "long": "the nourishing substances or food that provide the necessary nutrients and energy to sustain life",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rezeki",
+          "long": "zat atau makanan bergizi yang menyediakan nutrisi dan energi yang diperlukan untuk mempertahankan kehidupan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322065.jpeg",
+      "simplified": "营养",
+      "traditional": "營養",
+      "pinyin": "yíngyǎng"
+    },
+    {
+      "id": 322066,
+      "translation": {
+        "en": {
+          "short": "grocery",
+          "long": "(typically plural) food and other items, typically household goods, that we buy at a supermarket such as eggs, flour, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebutuhan sehari-hari",
+          "long": "Makanan (biasanya jamak) dan barang -barang lainnya, biasanya barang -barang rumah tangga, yang kami beli di supermarket seperti telur, tepung, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322066.jpeg",
+      "simplified": "杂货店的东西",
+      "traditional": "雜貨店的東西",
+      "pinyin": "záhuò diàn de dōngxī"
+    },
+    {
+      "id": 322067,
+      "translation": {
+        "en": {
+          "short": "fare",
+          "long": "a selection or variety of food or drink, often of a particular type or from a certain region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tarif",
+          "long": "pilihan atau variasi makanan atau minuman, seringkali dari jenis tertentu atau dari wilayah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322067.jpeg",
+      "simplified": "票价",
+      "traditional": "票價",
+      "pinyin": "piàojià"
+    },
+    {
+      "id": 322068,
+      "translation": {
+        "en": {
+          "short": "specialty",
+          "long": "a type of food or drink or other product that a place is known for because it is delivered in high quality",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spesialisasi",
+          "long": "Jenis makanan atau minuman atau produk lain yang dikenal sebagai tempat karena dikirim dalam kualitas tinggi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322068.jpeg",
+      "simplified": "特殊食品",
+      "traditional": "特殊食品",
+      "pinyin": "tèshū shípǐn"
+    },
+    {
+      "id": 322069,
+      "translation": {
+        "en": {
+          "short": "chow",
+          "long": "a food or a meal, especially in an informal or casual setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan",
+          "long": "makanan atau makanan, terutama dalam suasana informal atau santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322069.jpeg",
+      "simplified": "粻",
+      "traditional": "粻",
+      "pinyin": "zhāng"
+    },
+    {
+      "id": 322070,
+      "translation": {
+        "en": {
+          "short": "concoction",
+          "long": "a mixture of various ingredients, often created with skill and creativity like a blend of flavors in a drink",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ramuan",
+          "long": "campuran berbagai bahan, sering dibuat dengan keterampilan dan kreativitas seperti campuran rasa dalam minuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322070.jpeg",
+      "simplified": "混合物",
+      "traditional": "混合物",
+      "pinyin": "hùnhé wù"
+    },
+    {
+      "id": 322071,
+      "translation": {
+        "en": {
+          "short": "eats",
+          "long": "a food or meal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makan",
+          "long": "Makanan atau Makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322071.jpeg",
+      "simplified": "吃",
+      "traditional": "吃",
+      "pinyin": "chī"
+    },
+    {
+      "id": 322072,
+      "translation": {
+        "en": {
+          "short": "grub",
+          "long": "basic and hearty food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "grub",
+          "long": "Makanan Dasar dan Lezat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322072.jpeg",
+      "simplified": "蝤",
+      "traditional": "蝤",
+      "pinyin": "qiú"
+    },
+    {
+      "id": 322073,
+      "translation": {
+        "en": {
+          "short": "nosh",
+          "long": "a light snack or bite to eat, especially one enjoyed casually",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Nosh",
+          "long": "camilan ringan atau gigitan untuk dimakan, terutama yang dinikmati dengan santai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322073.jpeg",
+      "simplified": "小吃",
+      "traditional": "小吃",
+      "pinyin": "xiǎochī"
+    },
+    {
+      "id": 322077,
+      "translation": {
+        "en": {
+          "short": "repast",
+          "long": "the food served and consumed during a single meal or occasion, especially in a formal or festive setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "santapan",
+          "long": "makanan yang disajikan dan dikonsumsi selama satu kali makan atau kesempatan, terutama dalam suasana formal atau meriah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322077.jpeg",
+      "simplified": "餐饮",
+      "traditional": "餐飲",
+      "pinyin": "cānyǐn"
+    },
+    {
+      "id": 322079,
+      "translation": {
+        "en": {
+          "short": "viands",
+          "long": "a collection or variety of different food items available for consumption especially as a part of a meal or banquet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan makanan",
+          "long": "Koleksi atau berbagai item makanan berbeda yang tersedia untuk dikonsumsi terutama sebagai bagian dari makan atau jamuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322079.jpeg",
+      "simplified": "食物",
+      "traditional": "食物",
+      "pinyin": "shíwù"
+    },
+    {
+      "id": 322080,
+      "translation": {
+        "en": {
+          "short": "provender",
+          "long": "a supply of feed or fodder for livestock or other animals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan hewan",
+          "long": "Pasokan pakan atau pakan ternak atau hewan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322080.jpeg",
+      "simplified": "粮草",
+      "traditional": "糧草",
+      "pinyin": "liángcǎo"
+    },
+    {
+      "id": 322084,
+      "translation": {
+        "en": {
+          "short": "victuals",
+          "long": "food or provisions, especially when prepared for human consumption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kemenangan",
+          "long": "makanan atau ketentuan, terutama saat disiapkan untuk konsumsi manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322084.jpeg",
+      "simplified": "粻",
+      "traditional": "粻",
+      "pinyin": "zhāng"
+    },
+    {
+      "id": 322041,
+      "translation": {
+        "en": {
+          "short": "probiotic",
+          "long": "containing beneficial bacteria or microorganisms, often used to promote digestive health or balance within the body",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "probiotik",
+          "long": "mengandung bakteri bermanfaat atau mikroorganisme, sering digunakan untuk meningkatkan kesehatan atau keseimbangan pencernaan di dalam tubuh",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322041.jpeg",
+      "simplified": "益生菌",
+      "traditional": "益生菌",
+      "pinyin": "yìshēng jūn"
+    },
+    {
+      "id": 322042,
+      "translation": {
+        "en": {
+          "short": "finger food",
+          "long": "small, bite-sized food items that are designed to be eaten with the hands, without the need for utensils, and are often served at parties or gatherings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cemilan",
+          "long": "Item makanan kecil berukuran gigitan yang dirancang untuk dimakan dengan tangan, tanpa perlu peralatan, dan sering disajikan di pesta atau pertemuan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322042.jpeg",
+      "simplified": "小点心",
+      "traditional": "小點心",
+      "pinyin": "xiǎo diǎnxin"
+    },
+    {
+      "id": 322043,
+      "translation": {
+        "en": {
+          "short": "dehydrated food",
+          "long": "food that has had all its water removed to make it last longer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Makanan Dehidrasi",
+          "long": "makanan yang telah menghilangkan semua airnya untuk membuatnya bertahan lebih lama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322043.jpeg",
+      "simplified": "脱水食品",
+      "traditional": "脫水食品",
+      "pinyin": "tuōshuǐ shípǐn"
+    },
+    {
+      "id": 322045,
+      "translation": {
+        "en": {
+          "short": "solid food",
+          "long": "any edible substance that is not in a liquid or semi-liquid form and can be chewed and swallowed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan padat",
+          "long": "zat apa pun yang dapat dimakan yang tidak dalam bentuk cair atau semi-cair dan dapat dikunyah dan ditelan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/322045.jpeg",
+      "simplified": "固体食物",
+      "traditional": "固體食物",
+      "pinyin": "gùtǐ shí wù"
+    }
+  ]
+}

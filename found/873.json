@@ -1,0 +1,716 @@
+{
+  "id": 873,
+  "title": {
+    "en": "Food and Restaurant",
+    "id": "Makanan dan Restoran"
+  },
+  "description": {
+    "en": "Here you will learn some English words about food and restaurant, such as \"bitter\", \"supper\", \"stir\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang makanan dan restoran, seperti \"pahit\", \"makan malam\", \"aduk\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 239080,
+      "translation": {
+        "en": {
+          "short": "flavor",
+          "long": "the specific taste that a type of food or drink has",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rasa",
+          "long": "rasa spesifik yang dimiliki jenis makanan atau minuman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239080.jpeg",
+      "simplified": "味道",
+      "traditional": "味道",
+      "pinyin": "wèidao"
+    },
+    {
+      "id": 239081,
+      "translation": {
+        "en": {
+          "short": "sour",
+          "long": "having a sharp acidic taste like lemon",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kecut",
+          "long": "memiliki rasa asam yang tajam seperti lemon",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239081.jpeg",
+      "simplified": "酸的",
+      "traditional": "酸的",
+      "pinyin": "suān de"
+    },
+    {
+      "id": 239082,
+      "translation": {
+        "en": {
+          "short": "bitter",
+          "long": "having a strong taste that is unpleasant and not sweet",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pahit",
+          "long": "memiliki rasa yang kuat yang tidak menyenangkan dan tidak manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239082.jpeg",
+      "simplified": "苦的",
+      "traditional": "苦的",
+      "pinyin": "kǔ de"
+    },
+    {
+      "id": 239083,
+      "translation": {
+        "en": {
+          "short": "stale",
+          "long": "(of food, particularly cake and bread) not fresh anymore, due to exposure to air or prolonged storage",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "basi",
+          "long": "(makanan, terutama kue dan roti) tidak segar lagi, karena paparan udara atau penyimpanan yang berkepanjangan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239083.jpeg",
+      "simplified": "食物不新鲜",
+      "traditional": "食物不新鮮",
+      "pinyin": "shíwù bù xīnxiān"
+    },
+    {
+      "id": 239084,
+      "translation": {
+        "en": {
+          "short": "crispy",
+          "long": "(of food) having a pleasant, dry, and hard texture or surface that is easily broken or crushed",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "renyah",
+          "long": "(makanan) Memiliki tekstur atau permukaan yang menyenangkan, kering, dan keras yang mudah rusak atau dihancurkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239084.jpeg",
+      "simplified": "脆的",
+      "traditional": "脆的",
+      "pinyin": "cuì de"
+    },
+    {
+      "id": 239123,
+      "translation": {
+        "en": {
+          "short": "chunky",
+          "long": "(of food) having large pieces",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Chunky",
+          "long": "(makanan) Memiliki potongan besar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239123.jpeg",
+      "simplified": "（食物）成分大的",
+      "traditional": "（食物）成分大的",
+      "pinyin": "shíwù chéngfèn dà de"
+    },
+    {
+      "id": 239085,
+      "translation": {
+        "en": {
+          "short": "omelet",
+          "long": "a dish that consists of eggs mixed together and cooked in a frying pan",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telur dadar",
+          "long": "Hidangan yang terdiri dari telur dicampur dan dimasak dalam wajan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239085.jpeg",
+      "simplified": "炒蛋",
+      "traditional": "炒蛋",
+      "pinyin": "chǎodàn"
+    },
+    {
+      "id": 239086,
+      "translation": {
+        "en": {
+          "short": "baguette",
+          "long": "a loaf of bread that is narrow and long",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baguette",
+          "long": "sepotong roti yang sempit dan panjang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239086.jpeg",
+      "simplified": "法国面包",
+      "traditional": "法國麵包",
+      "pinyin": "Fǎguó miànbāo"
+    },
+    {
+      "id": 239088,
+      "translation": {
+        "en": {
+          "short": "topping",
+          "long": "a layer of food that is spread over the top of a dish to make it taste or look better",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambahan",
+          "long": "satu lapisan makanan yang tersebar di atas hidangan untuk membuatnya rasanya atau terlihat lebih baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239088.jpeg",
+      "simplified": "髦",
+      "traditional": "髦",
+      "pinyin": "máo"
+    },
+    {
+      "id": 239087,
+      "translation": {
+        "en": {
+          "short": "supper",
+          "long": "a meal eaten in the evening, typically lighter than dinner and often the last meal of the day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makan malam",
+          "long": "Makanan yang dimakan di malam hari, biasanya lebih ringan dari makan malam dan sering kali makan terakhir hari itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239087.jpeg",
+      "simplified": "晚餐",
+      "traditional": "晚餐",
+      "pinyin": "wǎncān"
+    },
+    {
+      "id": 239090,
+      "translation": {
+        "en": {
+          "short": "appetizer",
+          "long": "a small dish that is eaten before the main part of a meal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hidangan pembuka",
+          "long": "hidangan kecil yang dimakan sebelum bagian utama dari makan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239090.jpeg",
+      "simplified": "开胃菜",
+      "traditional": "開胃菜",
+      "pinyin": "kāiwèi cài"
+    },
+    {
+      "id": 239091,
+      "translation": {
+        "en": {
+          "short": "self-service",
+          "long": "(of a restaurant, store, etc.) providing customers with the chance to serve themselves and then pay for it",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "swalayan",
+          "long": "(dari restoran, toko, dll.) Memberikan kesempatan kepada pelanggan untuk melayani diri mereka sendiri dan kemudian membayarnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239091.jpeg",
+      "simplified": "自助服务",
+      "traditional": "自助服務",
+      "pinyin": "zìzhù fúwù"
+    },
+    {
+      "id": 239092,
+      "translation": {
+        "en": {
+          "short": "buffet",
+          "long": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prasmanan",
+          "long": "makan dengan banyak hidangan dari mana orang melayani diri mereka sendiri di meja dan kemudian makan di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239092.jpeg",
+      "simplified": "自助餐",
+      "traditional": "自助餐",
+      "pinyin": "zìzhù cān"
+    },
+    {
+      "id": 239093,
+      "translation": {
+        "en": {
+          "short": "takeaway",
+          "long": "a meal bought from a restaurant or store to be eaten somewhere else",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "membawa pergi",
+          "long": "Makanan yang dibeli dari restoran atau toko untuk dimakan di tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239093.jpeg",
+      "simplified": "带走",
+      "traditional": "帶走",
+      "pinyin": "dàizǒu"
+    },
+    {
+      "id": 239094,
+      "translation": {
+        "en": {
+          "short": "side dish",
+          "long": "an extra amount of food that is served with the main course, such as salad",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "makanan pendamping",
+          "long": "Sejumlah tambahan makanan yang disajikan dengan hidangan utama, seperti salad",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239094.jpeg",
+      "simplified": "小菜",
+      "traditional": "小菜",
+      "pinyin": "xiǎocài"
+    },
+    {
+      "id": 239089,
+      "translation": {
+        "en": {
+          "short": "brunch",
+          "long": "a meal served late in the morning, as a combination of breakfast and lunch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sarapan siang",
+          "long": "Makanan yang disajikan larut malam, sebagai kombinasi sarapan dan makan siang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239089.jpeg",
+      "simplified": "早吃的午餐",
+      "traditional": "早吃的午餐",
+      "pinyin": "zǎo chīde wǔcān"
+    },
+    {
+      "id": 239095,
+      "translation": {
+        "en": {
+          "short": "portion",
+          "long": "an amount of food served to one person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bagian",
+          "long": "Sejumlah makanan yang disajikan untuk satu orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239095.jpeg",
+      "simplified": "部分",
+      "traditional": "部分",
+      "pinyin": "bùfen"
+    },
+    {
+      "id": 239096,
+      "translation": {
+        "en": {
+          "short": "savory",
+          "long": "pleasing or agreeable to the sense of smell or taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "gurih",
+          "long": "Menyenangkan atau menyenangkan bagi indera penciuman atau rasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239096.jpeg",
+      "simplified": "咸味的",
+      "traditional": "鹹味的",
+      "pinyin": "Xián wèi de"
+    },
+    {
+      "id": 239097,
+      "translation": {
+        "en": {
+          "short": "cuisine",
+          "long": "a method or style of cooking that is specific to a country or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Masakan",
+          "long": "metode atau gaya memasak yang khusus untuk suatu negara atau wilayah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239097.jpeg",
+      "simplified": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn"
+    },
+    {
+      "id": 239098,
+      "translation": {
+        "en": {
+          "short": "to beat",
+          "long": "to repeatedly mix something using a spoon, fork, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengalahkan",
+          "long": "berulang kali mencampur sesuatu menggunakan sendok, garpu, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239098.jpeg",
+      "simplified": "搅拌（使用勺子、叉子等）",
+      "traditional": "攪拌（使用勺子、叉子等）",
+      "pinyin": "jiǎobàn shǐyòng sháozi chāzi děng"
+    },
+    {
+      "id": 239099,
+      "translation": {
+        "en": {
+          "short": "to stir",
+          "long": "to move a spoon, etc. around in a liquid or other substance to completely mix it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "aduk",
+          "long": "untuk memindahkan sendok, dll. Di sekitar dalam cairan atau zat lain untuk sepenuhnya mencampurnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239099.jpeg",
+      "simplified": "搅拌（使用勺子、叉子等）",
+      "traditional": "攪拌（使用勺子、叉子等）",
+      "pinyin": "jiǎobàn shǐyòng sháozi chāzi děng"
+    },
+    {
+      "id": 239100,
+      "translation": {
+        "en": {
+          "short": "vinegar",
+          "long": "a sour liquid that is commonly used in cooking, cleaning, or to preserve food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cuka",
+          "long": "cairan asam yang biasa digunakan dalam memasak, membersihkan, atau untuk menyimpan makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239100.jpeg",
+      "simplified": "醋",
+      "traditional": "醋",
+      "pinyin": "cù"
+    },
+    {
+      "id": 239101,
+      "translation": {
+        "en": {
+          "short": "herb",
+          "long": "a plant with seeds, leaves, or flowers used for cooking or medicine, such as mint and parsley",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "herba",
+          "long": "Tanaman dengan biji, daun, atau bunga yang digunakan untuk memasak atau obat -obatan, seperti mint dan peterseli",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239101.jpeg",
+      "simplified": "草本植物",
+      "traditional": "草本植物",
+      "pinyin": "cǎoběn zhí wù"
+    },
+    {
+      "id": 239103,
+      "translation": {
+        "en": {
+          "short": "chili",
+          "long": "the red or green fruit of a particular type of pepper plant, used in cooking for its hot taste",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cabai",
+          "long": "buah merah atau hijau dari jenis lada tertentu, digunakan dalam memasak untuk rasanya yang panas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239103.jpeg",
+      "simplified": "辣椒",
+      "traditional": "辣椒",
+      "pinyin": "làjiāo"
+    },
+    {
+      "id": 239104,
+      "translation": {
+        "en": {
+          "short": "zucchini",
+          "long": "a long and thin vegetable with dark green skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "timun Jepang",
+          "long": "Sayuran panjang dan tipis dengan kulit hijau gelap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239104.jpeg",
+      "simplified": "绿皮西葫芦",
+      "traditional": "綠皮西葫蘆",
+      "pinyin": "lǜ Pí xīhú lu"
+    },
+    {
+      "id": 239109,
+      "translation": {
+        "en": {
+          "short": "skim milk",
+          "long": "milk from which almost all the fat content has been removed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "susu skim",
+          "long": "susu dari mana hampir semua kandungan lemak telah dihapus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239109.jpeg",
+      "simplified": "脱脂牛奶",
+      "traditional": "脫脂牛奶",
+      "pinyin": "tuōzhī niúnǎi"
+    },
+    {
+      "id": 239106,
+      "translation": {
+        "en": {
+          "short": "margarine",
+          "long": "a type of food similar to butter, made from vegetable oils or animal fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "margarin",
+          "long": "Jenis makanan yang mirip dengan mentega, terbuat dari minyak nabati atau lemak hewani",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239106.jpeg",
+      "simplified": "人造黄油",
+      "traditional": "人造黃油",
+      "pinyin": "rénzào huáng yóu"
+    },
+    {
+      "id": 239107,
+      "translation": {
+        "en": {
+          "short": "cereal",
+          "long": "food made from grain, eaten with milk particularly in the morning",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sereal",
+          "long": "Makanan yang terbuat dari biji -bijian, dimakan dengan susu terutama di pagi hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239107.jpeg",
+      "simplified": "早餐麦片",
+      "traditional": "早餐麥片",
+      "pinyin": "zǎocān màipiàn"
+    },
+    {
+      "id": 239108,
+      "translation": {
+        "en": {
+          "short": "beverage",
+          "long": "a drink that is not water",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "minuman",
+          "long": "minuman yang bukan air",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239108.jpeg",
+      "simplified": "除水外的任何饮料",
+      "traditional": "除水外的任何飲料",
+      "pinyin": "chú Shuǐ wài de rènhé yǐnliào"
+    },
+    {
+      "id": 239110,
+      "translation": {
+        "en": {
+          "short": "cocktail",
+          "long": "an alcoholic drink made by mixing several drinks together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koktail",
+          "long": "minuman beralkohol yang dibuat dengan mencampur beberapa minuman bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239110.jpeg",
+      "simplified": "鸡尾酒",
+      "traditional": "雞尾酒",
+      "pinyin": "jīwěi jiǔ"
+    },
+    {
+      "id": 239111,
+      "translation": {
+        "en": {
+          "short": "Tonic",
+          "long": "a type of fizzy water that can be mixed with other drinks such as gin or vodka",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tonik",
+          "long": "Jenis air bersoda yang dapat dicampur dengan minuman lain seperti gin atau vodka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239111.jpeg",
+      "simplified": "汤力水",
+      "traditional": "湯力水",
+      "pinyin": "tānglì shuǐ"
+    },
+    {
+      "id": 239112,
+      "translation": {
+        "en": {
+          "short": "sparkling",
+          "long": "(of drinks) containing bubbles or carbonation",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berkilau",
+          "long": "(minuman) yang mengandung gelembung atau karbonasi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239112.jpeg",
+      "simplified": "闪闪发光",
+      "traditional": "閃閃發光",
+      "pinyin": "shǎnshǎn fāguāng"
+    },
+    {
+      "id": 239113,
+      "translation": {
+        "en": {
+          "short": "still",
+          "long": "(of a drink) not having bubbles in it",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tetap",
+          "long": "(dari minuman) tidak memiliki gelembung di dalamnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239113.jpeg",
+      "simplified": "非碳酸饮料",
+      "traditional": "非碳酸飲料",
+      "pinyin": "Fēi tànsuān yǐnliào"
+    },
+    {
+      "id": 239114,
+      "translation": {
+        "en": {
+          "short": "flat",
+          "long": "(of a fizzy drink) not having bubbles anymore",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "datar",
+          "long": "(dari minuman bersoda) tidak memiliki gelembung lagi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239114.jpeg",
+      "simplified": "平坦的",
+      "traditional": "平坦的",
+      "pinyin": "píngtǎn de"
+    },
+    {
+      "id": 239115,
+      "translation": {
+        "en": {
+          "short": "neat",
+          "long": "(particularly of alcoholic drinks) not mixed with anything",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rapi",
+          "long": "(terutama minuman beralkohol) tidak dicampur dengan apapun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239115.jpeg",
+      "simplified": "整洁的",
+      "traditional": "整潔的",
+      "pinyin": "zhěngjié de"
+    },
+    {
+      "id": 239116,
+      "translation": {
+        "en": {
+          "short": "to sip",
+          "long": "to drink a liquid by taking a small amount each time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyesap",
+          "long": "untuk minum cairan dengan mengambil jumlah kecil setiap kali",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239116.jpeg",
+      "simplified": "啜饮",
+      "traditional": "啜飲",
+      "pinyin": "chuòyǐn"
+    },
+    {
+      "id": 239117,
+      "translation": {
+        "en": {
+          "short": "corkscrew",
+          "long": "a small tool with a pointy spiral metal for pulling out corks from bottles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotrek",
+          "long": "Alat kecil dengan logam spiral runcing untuk mengeluarkan gabus dari botol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239117.jpeg",
+      "simplified": "螺丝锥",
+      "traditional": "螺絲錐",
+      "pinyin": "luósī zhuī"
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "id": 790,
+  "title": {
+    "en": "Types of Doctors",
+    "id": "Jenis dokter"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the different types of doctors, such as \"podiatrist\", \"surgeon\", and \"pharmacist\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan berbagai jenis dokter, seperti \"ahli penyakit kaki\", \"ahli bedah\", dan \"apoteker\"."
+  },
+  "cards": [
+    {
+      "id": 235326,
+      "translation": {
+        "en": {
+          "short": "dental surgeon",
+          "long": "a dentist who is capable of performing surgical operations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Bedah Gigi",
+          "long": "seorang dokter gigi yang mampu melakukan operasi bedah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235326.jpeg",
+      "simplified": "牙科医生",
+      "traditional": "牙科醫生",
+      "pinyin": "yákē yī shēng"
+    },
+    {
+      "id": 235327,
+      "translation": {
+        "en": {
+          "short": "dentist",
+          "long": "someone who is licensed to fix and care for our teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter gigi",
+          "long": "seseorang yang berlisensi untuk memperbaiki dan merawat gigi kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235327.jpeg",
+      "simplified": "牙科医生",
+      "traditional": "牙科醫生",
+      "pinyin": "yákē yī shēng"
+    },
+    {
+      "id": 235328,
+      "translation": {
+        "en": {
+          "short": "dermatologist",
+          "long": "a medical practitioner who specializes in treating the skin, nails, and hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dermatolog",
+          "long": "Seorang praktisi medis yang berspesialisasi dalam merawat kulit, kuku, dan rambut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235328.jpeg",
+      "simplified": "皮肤科医生",
+      "traditional": "皮膚科醫生",
+      "pinyin": "pífū kē yīshēng"
+    },
+    {
+      "id": 235329,
+      "translation": {
+        "en": {
+          "short": "dietician",
+          "long": "someone who is an expert in the field of diet and nutrition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli diet",
+          "long": "seseorang yang ahli dalam bidang diet dan nutrisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235329.jpeg",
+      "simplified": "营养师",
+      "traditional": "營養師",
+      "pinyin": "yíngyǎng shī"
+    },
+    {
+      "id": 235332,
+      "translation": {
+        "en": {
+          "short": "druggist",
+          "long": "a health professional trained to prepare and dispense drugs and medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "apoteker",
+          "long": "Seorang profesional kesehatan yang dilatih untuk mempersiapkan dan mengeluarkan obat -obatan dan kedokteran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235332.jpeg",
+      "simplified": "药剂师",
+      "traditional": "藥劑師",
+      "pinyin": "yàojì shī"
+    },
+    {
+      "id": 235333,
+      "translation": {
+        "en": {
+          "short": "family doctor",
+          "long": "a general practitioner who treats patients with minor or chronic illnesses in a local community rather than at a hospital",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter keluarga",
+          "long": "Seorang dokter umum yang merawat pasien dengan penyakit ringan atau kronis di komunitas lokal daripada di rumah sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235333.jpeg",
+      "simplified": "家庭医生",
+      "traditional": "家庭醫生",
+      "pinyin": "jiātíng yīshēng"
+    },
+    {
+      "id": 291055,
+      "translation": {
+        "en": {
+          "short": "anesthesiologist",
+          "long": "a doctor who specializes in giving anesthesia to patients and managing pain during surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Anestesi",
+          "long": "Seorang dokter yang berspesialisasi dalam memberikan anestesi kepada pasien dan mengelola rasa sakit selama operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291055.jpeg",
+      "simplified": "麻醉师",
+      "traditional": "麻醉師",
+      "pinyin": "mázuì shī"
+    },
+    {
+      "id": 291056,
+      "translation": {
+        "en": {
+          "short": "cardiologist",
+          "long": "a medical doctor who specializes in the diagnosis and treatment of heart-related conditions and diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli jantung",
+          "long": "seorang dokter medis yang berspesialisasi dalam diagnosis dan perawatan kondisi dan penyakit yang berkaitan dengan jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291056.jpeg",
+      "simplified": "心脏病专家",
+      "traditional": "心髒病專家",
+      "pinyin": "xīnzàng bìng zhuānjiā"
+    },
+    {
+      "id": 291057,
+      "translation": {
+        "en": {
+          "short": "coroner",
+          "long": "a licensed physician responsible for examining and determining the cause of death in cases that fall under their jurisdiction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koroner",
+          "long": "seorang dokter berlisensi yang bertanggung jawab untuk memeriksa dan menentukan penyebab kematian dalam kasus -kasus yang berada di bawah yurisdiksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291057.jpeg",
+      "simplified": "验尸官",
+      "traditional": "驗屍官",
+      "pinyin": "yànshī guān"
+    },
+    {
+      "id": 291058,
+      "translation": {
+        "en": {
+          "short": "obstetrician",
+          "long": "a doctor who specializes in pregnancy, childbirth, and women's reproductive health",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obstetri",
+          "long": "seorang dokter yang berspesialisasi dalam kehamilan, persalinan, dan kesehatan reproduksi wanita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291058.jpeg",
+      "simplified": "产科医生",
+      "traditional": "產科醫生",
+      "pinyin": "chǎnkē yīshēng"
+    },
+    {
+      "id": 235334,
+      "translation": {
+        "en": {
+          "short": "general practitioner",
+          "long": "a physician who is not a specialist but treats people with acute and chronic illnesses who live in a particular area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Praktisi Umum",
+          "long": "seorang dokter yang bukan spesialis tetapi merawat orang dengan penyakit akut dan kronis yang tinggal di daerah tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235334.jpeg",
+      "simplified": "全科医生",
+      "traditional": "全科醫生",
+      "pinyin": "quánkē yī shēng"
+    },
+    {
+      "id": 235335,
+      "translation": {
+        "en": {
+          "short": "gynecologist",
+          "long": "a physician or surgeon specializing in gynecology",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ginekolog",
+          "long": "seorang dokter atau ahli bedah yang berspesialisasi dalam ginekologi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235335.jpeg",
+      "simplified": "妇科医生",
+      "traditional": "婦科醫生",
+      "pinyin": "fùkē yīshēng"
+    },
+    {
+      "id": 291059,
+      "translation": {
+        "en": {
+          "short": "ophthalmologist",
+          "long": "a physician who specializes in the and treatment and study of diseases of the eye",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter mata",
+          "long": "seorang dokter yang berspesialisasi dalam dan perawatan dan studi tentang penyakit mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291059.jpeg",
+      "simplified": "眼科医生",
+      "traditional": "眼科醫生",
+      "pinyin": "yǎnkē yī shēng"
+    },
+    {
+      "id": 291060,
+      "translation": {
+        "en": {
+          "short": "orthopedist",
+          "long": "a doctor specializing in the treatment and correction of bones and muscles, especially the issues and deformities in children's skeletal systems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli ortopedi",
+          "long": "Seorang dokter yang berspesialisasi dalam perawatan dan koreksi tulang dan otot, terutama masalah dan kelainan bentuk dalam sistem kerangka anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291060.jpeg",
+      "simplified": "骨科医生",
+      "traditional": "骨科醫生",
+      "pinyin": "gǔkē yīshēng"
+    },
+    {
+      "id": 291061,
+      "translation": {
+        "en": {
+          "short": "osteopath",
+          "long": "a licensed physician who speializes in treating injuries to bones and muscles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Osteopath",
+          "long": "seorang dokter berlisensi yang berspesialisasi dalam mengobati cedera pada tulang dan otot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291061.jpeg",
+      "simplified": "整骨师",
+      "traditional": "整骨師",
+      "pinyin": "zhěng gǔ Shī"
+    },
+    {
+      "id": 291062,
+      "translation": {
+        "en": {
+          "short": "pediatrician",
+          "long": "a doctor who specializes in the treatment of children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dokter anak",
+          "long": "seorang dokter yang berspesialisasi dalam perawatan anak -anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291062.jpeg",
+      "simplified": "儿科医师",
+      "traditional": "兒科醫師",
+      "pinyin": "érkē yīshī"
+    },
+    {
+      "id": 291063,
+      "translation": {
+        "en": {
+          "short": "physician",
+          "long": "a medical doctor who specializes in general medicine, not in surgery",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dokter",
+          "long": "seorang dokter medis yang berspesialisasi dalam pengobatan umum, bukan dalam operasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291063.jpeg",
+      "simplified": "医生",
+      "traditional": "醫生",
+      "pinyin": "yīshēng"
+    },
+    {
+      "id": 291064,
+      "translation": {
+        "en": {
+          "short": "resident",
+          "long": "a physician or an intern who lives in a hospital and cares for the sick or infirm under the supervision of the medical staff",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penduduk",
+          "long": "seorang dokter atau pekerja magang yang tinggal di rumah sakit dan merawat orang sakit atau lemah di bawah pengawasan staf medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291064.jpeg",
+      "simplified": "居民",
+      "traditional": "居民",
+      "pinyin": "jūmín"
+    },
+    {
+      "id": 291065,
+      "translation": {
+        "en": {
+          "short": "surgeon",
+          "long": "a doctor who performs medical operation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli bedah",
+          "long": "seorang dokter yang melakukan operasi medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291065.jpeg",
+      "simplified": "外科医生",
+      "traditional": "外科醫生",
+      "pinyin": "wàikē yī shēng"
+    },
+    {
+      "id": 291066,
+      "translation": {
+        "en": {
+          "short": "pharmacist",
+          "long": "a healthcare professional whose job is to prepare and sell medications, and works in various places",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "apoteker",
+          "long": "seorang profesional perawatan kesehatan yang tugasnya adalah mempersiapkan dan menjual obat -obatan, dan bekerja di berbagai tempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291066.jpeg",
+      "simplified": "药剂师",
+      "traditional": "藥劑師",
+      "pinyin": "yàojì shī"
+    },
+    {
+      "id": 291067,
+      "translation": {
+        "en": {
+          "short": "medical officer",
+          "long": "a qualified healthcare professional responsible for providing and overseeing medical care in a specific organization or setting like a military unit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Petugas Medis",
+          "long": "seorang profesional kesehatan yang berkualifikasi yang bertanggung jawab untuk menyediakan dan mengawasi perawatan medis di organisasi tertentu atau pengaturan seperti unit militer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291067.jpeg",
+      "simplified": "医务人员",
+      "traditional": "醫務人員",
+      "pinyin": "yīwù rén yuán"
+    },
+    {
+      "id": 291068,
+      "translation": {
+        "en": {
+          "short": "immunologist",
+          "long": "an expert who studies the immune system and its role in fighting diseases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli imunologi",
+          "long": "seorang ahli yang mempelajari sistem kekebalan tubuh dan perannya dalam memerangi penyakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291068.jpeg",
+      "simplified": "免疫学家",
+      "traditional": "免疫學家",
+      "pinyin": "miǎnyì xué jiā"
+    },
+    {
+      "id": 291069,
+      "translation": {
+        "en": {
+          "short": "endocrinologist",
+          "long": "a medical specialist who focuses on diagnosing and treating disorders related to the endocrine system, which involves hormones and their impact on bodily functions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Endokrin",
+          "long": "Seorang spesialis medis yang berfokus pada mendiagnosis dan mengobati gangguan yang terkait dengan sistem endokrin, yang melibatkan hormon dan dampaknya pada fungsi tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291069.jpeg",
+      "simplified": "内分泌学家",
+      "traditional": "內分泌學家",
+      "pinyin": "nèifēn mì xué jiā"
+    },
+    {
+      "id": 235340,
+      "translation": {
+        "en": {
+          "short": "hospitalist",
+          "long": "a licensed physician who provides care for patients in a hospital",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "RUMAH SAKIT",
+          "long": "seorang dokter berlisensi yang menyediakan perawatan untuk pasien di rumah sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235340.jpeg",
+      "simplified": "住院医师",
+      "traditional": "住院醫師",
+      "pinyin": "zhùyuàn yī shī"
+    },
+    {
+      "id": 235341,
+      "translation": {
+        "en": {
+          "short": "intern",
+          "long": "an advanced student or graduate, usually in a medical field, who is being given practical training under supervision",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "magang",
+          "long": "seorang siswa atau lulusan tingkat lanjut, biasanya di bidang medis, yang diberi pelatihan praktis di bawah pengawasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235341.jpeg",
+      "simplified": "实习生",
+      "traditional": "實習生",
+      "pinyin": "shíxí sheng"
+    },
+    {
+      "id": 235342,
+      "translation": {
+        "en": {
+          "short": "locum",
+          "long": "a person, particularly a physician or clergyman, who fulfills the duties of another member of the same profession",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "locum",
+          "long": "seseorang, khususnya seorang dokter atau pendeta, yang memenuhi tugas anggota lain dari profesi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235342.jpeg",
+      "simplified": "代理",
+      "traditional": "代理",
+      "pinyin": "dàilǐ"
+    },
+    {
+      "id": 235343,
+      "translation": {
+        "en": {
+          "short": "medic",
+          "long": "a medical practitioner responsible for providing emergency medical treatment in both combat and humanitarian situations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "medis",
+          "long": "Seorang praktisi medis yang bertanggung jawab untuk menyediakan perawatan medis darurat baik dalam situasi pertempuran dan kemanusiaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235343.jpeg",
+      "simplified": "军医",
+      "traditional": "軍醫",
+      "pinyin": "jūnyī"
+    },
+    {
+      "id": 235346,
+      "translation": {
+        "en": {
+          "short": "neurologist",
+          "long": "a trained physician who specializes in treating diseases of the nervous system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli saraf",
+          "long": "seorang dokter terlatih yang berspesialisasi dalam mengobati penyakit pada sistem saraf",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235346.jpeg",
+      "simplified": "神经科医生",
+      "traditional": "神經科醫生",
+      "pinyin": "shénjīng kē yīshēng"
+    },
+    {
+      "id": 235347,
+      "translation": {
+        "en": {
+          "short": "neurosurgeon",
+          "long": "a physician who specializes in performing surgical operations involving the nervous system, particularly the spinal cord and the brain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli bedah saraf",
+          "long": "Seorang dokter yang berspesialisasi dalam melakukan operasi bedah yang melibatkan sistem saraf, terutama sumsum tulang belakang dan otak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235347.jpeg",
+      "simplified": "神经外科医生",
+      "traditional": "神經外科醫生",
+      "pinyin": "shénjīng wài kē yīshēng"
+    },
+    {
+      "id": 291072,
+      "translation": {
+        "en": {
+          "short": "gerontologist",
+          "long": "a professional who specializes in the study of aging, focusing on the physical, mental, and social aspects of older adults",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Gerontologi",
+          "long": "Seorang profesional yang berspesialisasi dalam studi penuaan, fokus pada aspek fisik, mental, dan sosial dari orang dewasa yang lebih tua",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291072.jpeg",
+      "simplified": "老年学家",
+      "traditional": "老年學家",
+      "pinyin": "lǎonián xué jiā"
+    },
+    {
+      "id": 291073,
+      "translation": {
+        "en": {
+          "short": "hematologist",
+          "long": "a doctor who specializes in blood-related disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli hematologi",
+          "long": "seorang dokter yang berspesialisasi dalam gangguan terkait darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291073.jpeg",
+      "simplified": "血液学学者",
+      "traditional": "血液學學者",
+      "pinyin": "xuèyè xué xuézhě"
+    },
+    {
+      "id": 291071,
+      "translation": {
+        "en": {
+          "short": "gastroenterologist",
+          "long": "a medical specialist who focuses on the diagnosis and treatment of disorders related to the digestive system, including the stomach, intestines, liver, and pancreas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gastroenterologi",
+          "long": "Seorang spesialis medis yang berfokus pada diagnosis dan pengobatan gangguan yang terkait dengan sistem pencernaan, termasuk lambung, usus, hati, dan pankreas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291071.jpeg",
+      "simplified": "胃肠病学家",
+      "traditional": "胃腸病學家",
+      "pinyin": "wèi cháng bìng xué jiā"
+    },
+    {
+      "id": 291146,
+      "translation": {
+        "en": {
+          "short": "nephrologist",
+          "long": "a medical specialist who deals with diseases and conditions of the kidneys, including kidney diseases, kidney failure, transplantation, and other kidney-related disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli nefrologi",
+          "long": "Seorang spesialis medis yang berurusan dengan penyakit dan kondisi ginjal, termasuk penyakit ginjal, gagal ginjal, transplantasi, dan gangguan terkait ginjal lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291146.jpeg",
+      "simplified": "肾病专家",
+      "traditional": "腎病專家",
+      "pinyin": "shèn bìng zhuānjiā"
+    },
+    {
+      "id": 291160,
+      "translation": {
+        "en": {
+          "short": "urologist",
+          "long": "a doctor who helps with problems in the urinary tract and male reproductive system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli urologi",
+          "long": "seorang dokter yang membantu masalah dalam saluran kemih dan sistem reproduksi pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291160.jpeg",
+      "simplified": "泌尿科医师",
+      "traditional": "泌尿科醫師",
+      "pinyin": "mìniào kē yīshī"
+    },
+    {
+      "id": 291164,
+      "translation": {
+        "en": {
+          "short": "rheumatologist",
+          "long": "a doctor who specializes in joint and muscle problems",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rheumatologist",
+          "long": "seorang dokter yang berspesialisasi dalam masalah sendi dan otot",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291164.jpeg",
+      "simplified": "风湿病学家",
+      "traditional": "風濕病學家",
+      "pinyin": "fēngshī bìng xué jiā"
+    },
+    {
+      "id": 291166,
+      "translation": {
+        "en": {
+          "short": "radiologist",
+          "long": "a medical specialist who specializes in diagnosing and treating injuries using radioactive substances and X-rays",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radiolog",
+          "long": "Seorang spesialis medis yang berspesialisasi dalam mendiagnosis dan mengobati cedera menggunakan zat radioaktif dan rontgen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291166.jpeg",
+      "simplified": "放射科医生",
+      "traditional": "放射科醫生",
+      "pinyin": "fàngshè kē yīshēng"
+    },
+    {
+      "id": 291182,
+      "translation": {
+        "en": {
+          "short": "pulmonologist",
+          "long": "a medical specialist who treats respiratory diseases and conditions, such as asthma, COPD, pneumonia, and lung cancer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Pulmonologi",
+          "long": "Seorang spesialis medis yang mengobati penyakit dan kondisi pernapasan, seperti asma, COPD, pneumonia, dan kanker paru -paru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291182.jpeg",
+      "simplified": "肺科医生",
+      "traditional": "肺科醫生",
+      "pinyin": "fèi kē yīshēng"
+    },
+    {
+      "id": 291210,
+      "translation": {
+        "en": {
+          "short": "psychiatrist",
+          "long": "a medical doctor who specializes in the treatment of mental illnesses or behavioral disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "psikiater",
+          "long": "seorang dokter medis yang berspesialisasi dalam perawatan penyakit mental atau gangguan perilaku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291210.jpeg",
+      "simplified": "精神科医生",
+      "traditional": "精神科醫生",
+      "pinyin": "jīngshén kē yī shēng"
+    },
+    {
+      "id": 291225,
+      "translation": {
+        "en": {
+          "short": "physiatrist",
+          "long": "a doctor who specializes in helping patients with physical and functional impairments related to muscles, nerves, and other conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli fisioterius",
+          "long": "Seorang dokter yang berspesialisasi dalam membantu pasien dengan gangguan fisik dan fungsional yang terkait dengan otot, saraf, dan kondisi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291225.jpeg",
+      "simplified": "生理医生",
+      "traditional": "生理醫生",
+      "pinyin": "shēnglǐ yīshēng"
+    },
+    {
+      "id": 291227,
+      "translation": {
+        "en": {
+          "short": "podiatrist",
+          "long": "a physician who specializes in treating the feet and their ailments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli penyakit kaki",
+          "long": "seorang dokter yang berspesialisasi dalam merawat kaki dan penyakit mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291227.jpeg",
+      "simplified": "足病医生",
+      "traditional": "足病醫生",
+      "pinyin": "jù bìng yīshēng"
+    },
+    {
+      "id": 291240,
+      "translation": {
+        "en": {
+          "short": "otolaryngologist",
+          "long": "a doctor who specializes in treating ear, nose, and throat issues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli otolaring",
+          "long": "Seorang dokter yang berspesialisasi dalam mengobati masalah telinga, hidung, dan tenggorokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291240.jpeg",
+      "simplified": "耳鼻喉科学医生",
+      "traditional": "耳鼻喉科學醫生",
+      "pinyin": "ěr bí hóu kēxué yīshēng"
+    },
+    {
+      "id": 291241,
+      "translation": {
+        "en": {
+          "short": "oncologist",
+          "long": "a doctor who specializes in treating cancer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli onkologi",
+          "long": "seorang dokter yang berspesialisasi dalam mengobati kanker",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291241.jpeg",
+      "simplified": "肿瘤学家",
+      "traditional": "腫瘤學家",
+      "pinyin": "zhǒngliú xué jiā"
+    },
+    {
+      "id": 291249,
+      "translation": {
+        "en": {
+          "short": "proctologist",
+          "long": "a medical specialist who focuses on the diagnosis and treatment of disorders related to the rectum and anus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Proktologi",
+          "long": "seorang spesialis medis yang berfokus pada diagnosis dan pengobatan gangguan yang terkait dengan rektum dan anus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291249.jpeg",
+      "simplified": "直肠科医生",
+      "traditional": "直腸科醫生",
+      "pinyin": "zhícháng kē yīshēng"
+    },
+    {
+      "id": 291251,
+      "translation": {
+        "en": {
+          "short": "plastic surgeon",
+          "long": "a doctor who performs medical operations to repair body parts or make them look more attractive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi plastik",
+          "long": "seorang dokter yang melakukan operasi medis untuk memperbaiki bagian tubuh atau membuatnya terlihat lebih menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291251.jpeg",
+      "simplified": "整形外科医生",
+      "traditional": "整形外科醫生",
+      "pinyin": "zhěngxíng wài kē yī shēng"
+    },
+    {
+      "id": 291255,
+      "translation": {
+        "en": {
+          "short": "pathologist",
+          "long": "a medical professional who specializes in studying and diagnosing diseases by examining tissues, cells, and bodily fluids",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ahli patologi",
+          "long": "Seorang profesional medis yang berspesialisasi dalam mempelajari dan mendiagnosis penyakit dengan memeriksa jaringan, sel, dan cairan tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291255.jpeg",
+      "simplified": "病理学家",
+      "traditional": "病理學家",
+      "pinyin": "bìnglǐ xué jiā"
+    },
+    {
+      "id": 291306,
+      "translation": {
+        "en": {
+          "short": "oral surgeon",
+          "long": "a dental specialist who performs surgical procedures in the mouth, jaw, face, and neck, such as extractions, implants, and jaw surgeries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ahli Bedah Lisan",
+          "long": "Seorang spesialis gigi yang melakukan prosedur bedah di mulut, rahang, wajah, dan leher, seperti ekstraksi, implan, dan operasi rahang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291306.jpeg",
+      "simplified": "口腔外科医生",
+      "traditional": "口腔外科醫生",
+      "pinyin": "kǒuqiāng wàikē yī shēng"
+    },
+    {
+      "id": 291307,
+      "translation": {
+        "en": {
+          "short": "orthodontist",
+          "long": "a dentist who specializes in the correction, etc. of the position of teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ortodontis",
+          "long": "seorang dokter gigi yang berspesialisasi dalam koreksi, dll. Dari posisi gigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291307.jpeg",
+      "simplified": "正牙医生",
+      "traditional": "正牙醫生",
+      "pinyin": "zhēng yáyī shēng"
+    },
+    {
+      "id": 291312,
+      "translation": {
+        "en": {
+          "short": "practitioner",
+          "long": "someone who is involved in a profession, particularly medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "praktisi",
+          "long": "seseorang yang terlibat dalam suatu profesi, terutama obat -obatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291312.jpeg",
+      "simplified": "健康专业人士",
+      "traditional": "健康專業人士",
+      "pinyin": "jiànkāng zhuānyè rén shì"
+    },
+    {
+      "id": 291357,
+      "translation": {
+        "en": {
+          "short": "specialist",
+          "long": "a doctor who is highly trained in a particular area of medicine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "spesialis",
+          "long": "seorang dokter yang sangat terlatih di bidang kedokteran tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291357.jpeg",
+      "simplified": "专家",
+      "traditional": "專家",
+      "pinyin": "zhuānjiā"
+    },
+    {
+      "id": 385290,
+      "translation": {
+        "en": {
+          "short": "primary care physician",
+          "long": "a general medical doctor who provides routine healthcare, preventive services, and manages common medical conditions for patients",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dokter Perawatan Primer",
+          "long": "Dokter medis umum yang menyediakan perawatan kesehatan rutin, layanan preventif, dan mengelola kondisi medis umum untuk pasien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385290.jpeg",
+      "simplified": "初级保健医师",
+      "traditional": "初級保健醫師",
+      "pinyin": "chūjí bǎojiàn yīshī"
+    },
+    {
+      "id": 300813,
+      "translation": {
+        "en": {
+          "short": "residency",
+          "long": "the period of specialized training that doctors undergo after completing medical school, allowing them to gain practical experience and expertise in their chosen medical field or specialty",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat tinggal",
+          "long": "Periode pelatihan khusus yang dialami dokter setelah menyelesaikan sekolah kedokteran, memungkinkan mereka untuk mendapatkan pengalaman praktis dan keahlian dalam bidang medis atau spesialisasi yang dipilih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300813.jpeg",
+      "simplified": "居住权",
+      "traditional": "居住權",
+      "pinyin": "jūzhù Quán"
+    }
+  ]
+}

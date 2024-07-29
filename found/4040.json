@@ -1,0 +1,545 @@
+{
+  "id": 4040,
+  "title": {
+    "en": "Electrical System",
+    "id": "Sistem listrik"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to the electrical system such as \"outlet\", \"receptacle\", and \"switch\".",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan sistem listrik seperti \"outlet\", \"wadah\", dan \"sakelar\"."
+  },
+  "cards": [
+    {
+      "id": 350341,
+      "translation": {
+        "en": {
+          "short": "outlet",
+          "long": "a place where we can plug in electric devices to connect them to the electricity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko",
+          "long": "tempat di mana kita dapat mencolokkan perangkat listrik untuk menghubungkannya ke listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350341.jpeg",
+      "simplified": "出口",
+      "traditional": "出口",
+      "pinyin": "chūkǒu"
+    },
+    {
+      "id": 350342,
+      "translation": {
+        "en": {
+          "short": "outlet box",
+          "long": "a protective enclosure used to house electrical connections, outlets, switches, or other electrical devices, providing a safe and organized method for electrical wiring in buildings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak outlet",
+          "long": "Kandang pelindung yang digunakan untuk menampung koneksi listrik, outlet, sakelar, atau perangkat listrik lainnya, memberikan metode yang aman dan terorganisir untuk kabel listrik di dalam bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350342.jpeg",
+      "simplified": "出口盒",
+      "traditional": "出口盒",
+      "pinyin": "chūkǒu hé"
+    },
+    {
+      "id": 350344,
+      "translation": {
+        "en": {
+          "short": "junction box",
+          "long": "a general-purpose electrical box used to house wire connections and protect them from external elements",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak persimpangan",
+          "long": "Kotak listrik tujuan umum yang digunakan untuk menampung koneksi kawat dan melindunginya dari elemen eksternal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350344.jpeg",
+      "simplified": "接线盒",
+      "traditional": "接線盒",
+      "pinyin": "jiēxiàn hé"
+    },
+    {
+      "id": 350345,
+      "translation": {
+        "en": {
+          "short": "plug",
+          "long": "an device consisted of two or three metal pins that can connect a piece of electrical equipment to a power supply when fitted into the holes of an electric outlet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "steker",
+          "long": "Perangkat terdiri dari dua atau tiga pin logam yang dapat menghubungkan sepotong peralatan listrik ke catu daya saat dipasang ke dalam lubang outlet listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350345.jpeg",
+      "simplified": "插头",
+      "traditional": "插頭",
+      "pinyin": "chātóu"
+    },
+    {
+      "id": 350346,
+      "translation": {
+        "en": {
+          "short": "receptacle",
+          "long": "an electrical device installed in a building that provides a point of connection for electrical plugs to access the power supply",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "wadah",
+          "long": "Perangkat listrik yang dipasang di gedung yang menyediakan titik koneksi untuk colokan listrik untuk mengakses catu daya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350346.jpeg",
+      "simplified": "容器",
+      "traditional": "容器",
+      "pinyin": "róngqì"
+    },
+    {
+      "id": 350347,
+      "translation": {
+        "en": {
+          "short": "dimmer switch",
+          "long": "a type of electrical switch that allows users to adjust the brightness or intensity of a light fixture or lamp by controlling the amount of electrical power supplied to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sakelar dimmer",
+          "long": "Jenis sakelar listrik yang memungkinkan pengguna untuk menyesuaikan kecerahan atau intensitas lampu atau lampu dengan mengontrol jumlah tenaga listrik yang disediakan padanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350347.jpeg",
+      "simplified": "调光开关",
+      "traditional": "調光開關",
+      "pinyin": "diào guāng kāiguān"
+    },
+    {
+      "id": 350348,
+      "translation": {
+        "en": {
+          "short": "switch",
+          "long": "something such as a button or key that turns a machine, lamp, etc. on or off",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengalihkan",
+          "long": "sesuatu seperti tombol atau kunci yang memutar mesin, lampu, dll. ON atau OFF",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350348.jpeg",
+      "simplified": "开关按钮",
+      "traditional": "開關按鈕",
+      "pinyin": "kāiguān ànniǔ"
+    },
+    {
+      "id": 350379,
+      "translation": {
+        "en": {
+          "short": "circuit breaker",
+          "long": "a protective device that automatically interrupts the flow of electricity in an electrical circuit when it detects an overload, short circuit, or other electrical fault, thereby preventing damage to the circuit and reducing the risk of electrical hazards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemutus arus",
+          "long": "Perangkat pelindung yang secara otomatis mengganggu aliran listrik dalam sirkuit listrik ketika mendeteksi kelebihan beban, sirkuit pendek, atau kesalahan listrik lainnya, sehingga mencegah kerusakan pada sirkuit dan mengurangi risiko bahaya listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350379.jpeg",
+      "simplified": "断路器",
+      "traditional": "斷路器",
+      "pinyin": "duànlù qì"
+    },
+    {
+      "id": 350358,
+      "translation": {
+        "en": {
+          "short": "cable",
+          "long": "a wire for transmitting electricity that is protected within a rubber case",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel",
+          "long": "Kawat untuk mentransmisikan listrik yang dilindungi dalam wadah karet",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350358.jpeg",
+      "simplified": "电缆",
+      "traditional": "電纜",
+      "pinyin": "diànlǎn"
+    },
+    {
+      "id": 350378,
+      "translation": {
+        "en": {
+          "short": "wiring",
+          "long": "the system of electrical conductors, cables, and connections used to transmit electricity and provide power to electrical devices and fixtures within a building or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel",
+          "long": "Sistem konduktor listrik, kabel, dan koneksi yang digunakan untuk mentransmisikan listrik dan menyediakan daya ke perangkat listrik dan perlengkapan di dalam bangunan atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350378.jpeg",
+      "simplified": "接线",
+      "traditional": "接線",
+      "pinyin": "jiēxiàn"
+    },
+    {
+      "id": 350349,
+      "translation": {
+        "en": {
+          "short": "fuse box",
+          "long": "a container that houses several fuses related to the electrical system of a single building or house",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak sekering",
+          "long": "sebuah wadah yang menampung beberapa sekering yang terkait dengan sistem listrik dari satu bangunan atau rumah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350349.jpeg",
+      "simplified": "保险丝箱子",
+      "traditional": "保險絲箱子",
+      "pinyin": "bǎoxiǎn sī xiāngzi"
+    },
+    {
+      "id": 350350,
+      "translation": {
+        "en": {
+          "short": "electrical panel",
+          "long": "a distribution board or control panel that houses electrical circuit breakers, fuses, and other components to control and distribute electricity throughout a building or structure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panel listrik",
+          "long": "papan distribusi atau panel kontrol yang menampung pemutus sirkuit listrik, sekering, dan komponen lainnya untuk mengontrol dan mendistribusikan listrik di seluruh bangunan atau struktur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350350.jpeg",
+      "simplified": "电气面板",
+      "traditional": "電氣面板",
+      "pinyin": "diànqì miànbǎn"
+    },
+    {
+      "id": 350352,
+      "translation": {
+        "en": {
+          "short": "cable television",
+          "long": "a system of delivering television programming to subscribers, using wires under the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "televisi kabel",
+          "long": "Sistem memberikan pemrograman televisi kepada pelanggan, menggunakan kabel di bawah tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350352.jpeg",
+      "simplified": "有线电视",
+      "traditional": "有線電視",
+      "pinyin": "yǒuxiàn diàn shì"
+    },
+    {
+      "id": 350353,
+      "translation": {
+        "en": {
+          "short": "coaxial cable",
+          "long": "a special type of wire that carries signals, like TV or internet, using a central wire surrounded by a layer called insulation along with a metal covering to protect the signals from interference",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat koaksial",
+          "long": "Jenis kawat khusus yang membawa sinyal, seperti TV atau internet, menggunakan kawat pusat yang dikelilingi oleh lapisan yang disebut isolasi bersama dengan penutup logam untuk melindungi sinyal dari gangguan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350353.jpeg",
+      "simplified": "同轴电缆",
+      "traditional": "同軸電纜",
+      "pinyin": "tóngzhóu diàn lǎn"
+    },
+    {
+      "id": 350359,
+      "translation": {
+        "en": {
+          "short": "wire",
+          "long": "a long and thin piece of metal that carries an electric current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel",
+          "long": "sepotong logam panjang dan tipis yang membawa arus listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350359.jpeg",
+      "simplified": "线",
+      "traditional": "線",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 350355,
+      "translation": {
+        "en": {
+          "short": "underground feeder cable",
+          "long": "a type of electrical cable specifically designed for direct burial underground, featuring a moisture-resistant jacket and insulation to ensure safe and reliable power distribution in outdoor or underground applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kabel Pengumpan Bawah Tanah",
+          "long": "Jenis kabel listrik yang dirancang khusus untuk pemakaman langsung di bawah tanah, menampilkan jaket dan isolasi tahan kelembaban untuk memastikan distribusi daya yang aman dan andal di aplikasi luar ruangan atau bawah tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350355.jpeg",
+      "simplified": "地下馈电电缆",
+      "traditional": "地下饋電電纜",
+      "pinyin": "dìxià kuì diàn diànlǎn"
+    },
+    {
+      "id": 350357,
+      "translation": {
+        "en": {
+          "short": "armored cable",
+          "long": "a type of electrical cable that has a protective metal armor layer surrounding the insulated conductors, providing additional mechanical and electrical protection against damage, moisture, and other hazards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kabel lapis baja",
+          "long": "Jenis kabel listrik yang memiliki lapisan pelindung logam pelindung yang mengelilingi konduktor terisolasi, memberikan perlindungan mekanik dan listrik tambahan terhadap kerusakan, kelembaban, dan bahaya lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350357.jpeg",
+      "simplified": "铠装电缆",
+      "traditional": "鎧裝電纜",
+      "pinyin": "kǎi zhuāng diànlǎn"
+    },
+    {
+      "id": 350361,
+      "translation": {
+        "en": {
+          "short": "low-voltage wire",
+          "long": "electrical wiring that is designed to carry low voltage signals, typically below 50 volts, such as those used in telecommunications, security systems, audiovisual installations, and low-power lighting applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat tegangan rendah",
+          "long": "Pengkabelan listrik yang dirancang untuk membawa sinyal tegangan rendah, biasanya di bawah 50 volt, seperti yang digunakan dalam telekomunikasi, sistem keamanan, instalasi audiovisual, dan aplikasi pencahayaan daya rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350361.jpeg",
+      "simplified": "低压电线",
+      "traditional": "低壓電線",
+      "pinyin": "dīyā diànxiàn"
+    },
+    {
+      "id": 350362,
+      "translation": {
+        "en": {
+          "short": "live wire",
+          "long": "a wire that carries electrical current and has the potential to cause electric shock or injury if touched",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat listrik",
+          "long": "Kawat yang membawa arus listrik dan berpotensi menyebabkan sengatan listrik atau cedera jika disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350362.jpeg",
+      "simplified": "火线",
+      "traditional": "火線",
+      "pinyin": "Huǒxiàn"
+    },
+    {
+      "id": 350364,
+      "translation": {
+        "en": {
+          "short": "neutral wire",
+          "long": "an electrical conductor in an electrical system that carries current back from the load to the source, completing the circuit and providing a return path for the electrical current",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat netral",
+          "long": "konduktor listrik dalam sistem listrik yang membawa arus kembali dari beban ke sumber, menyelesaikan sirkuit dan menyediakan jalur pengembalian untuk arus listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350364.jpeg",
+      "simplified": "中性线",
+      "traditional": "中性線",
+      "pinyin": "zhōngxìng xiàn"
+    },
+    {
+      "id": 350366,
+      "translation": {
+        "en": {
+          "short": "earth wire",
+          "long": "a safety conductor in an electrical system that provides a path for electrical current to flow into the ground, preventing electric shock and protecting against electrical faults",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kawat bumi",
+          "long": "Konduktor keamanan dalam sistem listrik yang menyediakan jalur untuk arus listrik mengalir ke tanah, mencegah sengatan listrik dan melindungi terhadap kesalahan listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350366.jpeg",
+      "simplified": "地线",
+      "traditional": "地線",
+      "pinyin": "dìxiàn"
+    },
+    {
+      "id": 350369,
+      "translation": {
+        "en": {
+          "short": "emergency power system",
+          "long": "a backup electrical system designed to provide electricity in the event of a power outage or emergency situation, ensuring the operation of critical equipment or essential services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sistem Daya Darurat",
+          "long": "Sistem listrik cadangan yang dirancang untuk menyediakan listrik jika terjadi pemadaman listrik atau situasi darurat, memastikan pengoperasian peralatan kritis atau layanan penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350369.jpeg",
+      "simplified": "应急电源系统",
+      "traditional": "應急電源系統",
+      "pinyin": "yìngjí diànyuán xìtǒng"
+    },
+    {
+      "id": 350370,
+      "translation": {
+        "en": {
+          "short": "surge protector",
+          "long": "a device that helps protect electrical and electronic devices from voltage spikes and surges by diverting excess electrical energy to the ground, safeguarding against potential damage or data loss",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pelindung lonjakan",
+          "long": "Perangkat yang membantu melindungi perangkat listrik dan elektronik dari lonjakan tegangan dan lonjakan dengan mengalihkan energi listrik berlebih ke tanah, melindungi terhadap potensi kerusakan atau kehilangan data",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350370.jpeg",
+      "simplified": "电涌保护器",
+      "traditional": "電湧保護器",
+      "pinyin": "diàn chōng bǎohù qì"
+    },
+    {
+      "id": 350372,
+      "translation": {
+        "en": {
+          "short": "arc-fault circuit interrupter",
+          "long": "an electrical safety device designed to detect and mitigate the risk of arc faults in electrical circuits, which can lead to electrical fires",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Interrupter Sirkuit Fault Arc",
+          "long": "Perangkat keamanan listrik yang dirancang untuk mendeteksi dan mengurangi risiko kesalahan busur di sirkuit listrik, yang dapat menyebabkan kebakaran listrik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350372.jpeg",
+      "simplified": "电弧故障断路器",
+      "traditional": "電弧故障斷路器",
+      "pinyin": "diànhú gùzhàng duànlù qì"
+    },
+    {
+      "id": 350375,
+      "translation": {
+        "en": {
+          "short": "subpanel",
+          "long": "an additional electrical panel that is connected to the main electrical panel and used to distribute power to specific areas or circuits within a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Subpanel",
+          "long": "Panel listrik tambahan yang terhubung ke panel listrik utama dan digunakan untuk mendistribusikan daya ke area atau sirkuit tertentu di dalam gedung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350375.jpeg",
+      "simplified": "子面板",
+      "traditional": "子麵板",
+      "pinyin": "zǐ miànbǎn"
+    },
+    {
+      "id": 350377,
+      "translation": {
+        "en": {
+          "short": "grounding system",
+          "long": "an integral part of an electrical installation that provides a safe path for electrical current to flow into the ground in the event of a fault or electrical surge, reducing the risk of electrical shock, equipment damage, and fire hazards",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem pentanahan",
+          "long": "Bagian integral dari instalasi listrik yang menyediakan jalur yang aman untuk arus listrik mengalir ke tanah jika terjadi kesalahan atau lonjakan listrik, mengurangi risiko sengatan listrik, kerusakan peralatan, dan bahaya kebakaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350377.jpeg",
+      "simplified": "接地系统",
+      "traditional": "接地系統",
+      "pinyin": "jiēdì xìtǒng"
+    },
+    {
+      "id": 350381,
+      "translation": {
+        "en": {
+          "short": "service entrance",
+          "long": "the point of entry for electrical power into a building, consisting of the main electrical panel, metering equipment, and associated components",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pintu masuk layanan",
+          "long": "Titik masuk untuk tenaga listrik ke dalam bangunan, yang terdiri dari panel listrik utama, peralatan pengukuran, dan komponen terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350381.jpeg",
+      "simplified": "服务入口",
+      "traditional": "服務入口",
+      "pinyin": "fúwù rùkǒu"
+    },
+    {
+      "id": 350404,
+      "translation": {
+        "en": {
+          "short": "meter base",
+          "long": "a device that houses the electrical meter and provides a secure connection point for the utility company to measure and monitor the electrical usage of a building",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dasar meter",
+          "long": "Perangkat yang menampung meteran listrik dan menyediakan titik koneksi yang aman bagi perusahaan utilitas untuk mengukur dan memantau penggunaan listrik sebuah bangunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/350404.jpeg",
+      "simplified": "米基数",
+      "traditional": "米基數",
+      "pinyin": "Mǐ jīshù"
+    }
+  ]
+}

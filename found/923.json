@@ -1,0 +1,716 @@
+{
+  "id": 923,
+  "title": {
+    "en": "The Environment and Weather",
+    "id": "Lingkungan dan cuaca"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the environment and weather, such as \"ecology\", \"refine\", \"toxic\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang lingkungan dan cuaca, seperti \"ekologi\", \"perbaikan\", \"beracun\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 240887,
+      "translation": {
+        "en": {
+          "short": "ecosystem",
+          "long": "a community of living organisms together with their physical environment, interacting as a system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekosistem",
+          "long": "Komunitas organisme hidup bersama dengan lingkungan fisik mereka, berinteraksi sebagai sebuah sistem",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240887.jpeg",
+      "simplified": "生态系统",
+      "traditional": "生態系統",
+      "pinyin": "shēngtài xì tǒng"
+    },
+    {
+      "id": 240888,
+      "translation": {
+        "en": {
+          "short": "ecology",
+          "long": "the scientific study of the environment or the interrelation of living creatures and the way they affect each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekologi",
+          "long": "studi ilmiah tentang lingkungan atau keterkaitan makhluk hidup dan cara mereka saling mempengaruhi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240888.jpeg",
+      "simplified": "生态",
+      "traditional": "生態",
+      "pinyin": "shēngtài"
+    },
+    {
+      "id": 240899,
+      "translation": {
+        "en": {
+          "short": "sanctuary",
+          "long": "an area for birds and animals to live and to be protected from dangerous conditions and being hunted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suaka",
+          "long": "Area bagi burung dan hewan untuk hidup dan dilindungi dari kondisi berbahaya dan diburu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240899.jpeg",
+      "simplified": "避难所",
+      "traditional": "避難所",
+      "pinyin": "bìnàn suǒ"
+    },
+    {
+      "id": 240904,
+      "translation": {
+        "en": {
+          "short": "green belt",
+          "long": "a strip of open land around a city where construction is prohibited in order to protect the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sabuk hijau",
+          "long": "sebidang tanah terbuka di sekitar kota di mana konstruksi dilarang untuk melindungi lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240904.jpeg",
+      "simplified": "绿化带",
+      "traditional": "綠化帶",
+      "pinyin": "lǜhuà dài"
+    },
+    {
+      "id": 240902,
+      "translation": {
+        "en": {
+          "short": "reserve",
+          "long": "an area in which animals, etc. are protected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyimpan",
+          "long": "Area di mana hewan, dll. Dilindungi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240902.jpeg",
+      "simplified": "后备",
+      "traditional": "後備",
+      "pinyin": "hòubèi"
+    },
+    {
+      "id": 240889,
+      "translation": {
+        "en": {
+          "short": "environmentalism",
+          "long": "provision of care for the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkungan",
+          "long": "Penyediaan Perawatan untuk Lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240889.jpeg",
+      "simplified": "环境保护论",
+      "traditional": "環境保護論",
+      "pinyin": "huánjìng bǎo hù Lún"
+    },
+    {
+      "id": 240890,
+      "translation": {
+        "en": {
+          "short": "fossil fuel",
+          "long": "a fuel that is found in nature and obtained from the remains of plants and animals that died millions of years ago, such as coal and gas",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan bakar fosil",
+          "long": "bahan bakar yang ditemukan di alam dan diperoleh dari sisa -sisa tumbuhan dan hewan yang mati jutaan tahun yang lalu, seperti batubara dan gas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240890.jpeg",
+      "simplified": "化石燃料",
+      "traditional": "化石燃料",
+      "pinyin": "huàshí rán liào"
+    },
+    {
+      "id": 240893,
+      "translation": {
+        "en": {
+          "short": "alternative fuel",
+          "long": "any fuel that can be used instead of fossil fuels",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bahan bakar alternatif",
+          "long": "bahan bakar apa pun yang dapat digunakan sebagai pengganti bahan bakar fosil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240893.jpeg",
+      "simplified": "替代燃料",
+      "traditional": "替代燃料",
+      "pinyin": "tìdài rán liào"
+    },
+    {
+      "id": 240897,
+      "translation": {
+        "en": {
+          "short": "sustainable",
+          "long": "using natural resources in a way that causes no harm to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berkelanjutan",
+          "long": "menggunakan sumber daya alam dengan cara yang tidak menimbulkan kerusakan pada lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240897.jpeg",
+      "simplified": "可持续的",
+      "traditional": "可持續的",
+      "pinyin": "kěchí xù de"
+    },
+    {
+      "id": 240895,
+      "translation": {
+        "en": {
+          "short": "zero-emission",
+          "long": "(of a vehicle) not producing gases harmful to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "emisi nol",
+          "long": "(kendaraan) yang tidak menghasilkan gas yang berbahaya bagi lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240895.jpeg",
+      "simplified": "无污染",
+      "traditional": "無污染",
+      "pinyin": "wú wūrǎn"
+    },
+    {
+      "id": 240906,
+      "translation": {
+        "en": {
+          "short": "environmentally friendly",
+          "long": "(of products) having no harmful impact on the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ramah lingkungan",
+          "long": "(produk) tidak memiliki dampak berbahaya pada lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240906.jpeg",
+      "simplified": "环保",
+      "traditional": "環保",
+      "pinyin": "huánbǎo"
+    },
+    {
+      "id": 240909,
+      "translation": {
+        "en": {
+          "short": "biodegradable",
+          "long": "(of an object) able to be broken down by living organisms such as bacteria, which is then safe for the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Biodegradable",
+          "long": "(dari suatu objek) yang dapat dipecah oleh organisme hidup seperti bakteri, yang kemudian aman untuk lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240909.jpeg",
+      "simplified": "可被细菌分解",
+      "traditional": "可被細菌分解",
+      "pinyin": "kě bèi xìjūn fēnjiě"
+    },
+    {
+      "id": 240921,
+      "translation": {
+        "en": {
+          "short": "eco-friendly",
+          "long": "causing or having little to no harm to the environment",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ramah lingkungan",
+          "long": "menyebabkan atau memiliki sedikit atau tidak ada salahnya bagi lingkungan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240921.jpeg",
+      "simplified": "环保的",
+      "traditional": "環保的",
+      "pinyin": "huánbǎo de"
+    },
+    {
+      "id": 240903,
+      "translation": {
+        "en": {
+          "short": "to refine",
+          "long": "to remove unwanted or harmful substances from another substance",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memperbaiki",
+          "long": "untuk menghilangkan zat yang tidak diinginkan atau berbahaya dari zat lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240903.jpeg",
+      "simplified": "净化（水等）",
+      "traditional": "淨化（水等）",
+      "pinyin": "jìnghuà Shuǐ děng"
+    },
+    {
+      "id": 240907,
+      "translation": {
+        "en": {
+          "short": "preservation",
+          "long": "the action of keeping something the way it is or in good condition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelestarian",
+          "long": "tindakan menjaga sesuatu seperti itu atau dalam kondisi baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240907.jpeg",
+      "simplified": "保存",
+      "traditional": "保存",
+      "pinyin": "bǎocún"
+    },
+    {
+      "id": 240919,
+      "translation": {
+        "en": {
+          "short": "nonrenewable",
+          "long": "(of a natural resource or source of energy) existing in limited amounts and not replaceable after being used",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak terbarukan",
+          "long": "(dari sumber daya alam atau sumber energi) yang ada dalam jumlah terbatas dan tidak dapat diganti setelah digunakan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240919.jpeg",
+      "simplified": "不可再生的",
+      "traditional": "不可再生的",
+      "pinyin": "bùkě zàishēng de"
+    },
+    {
+      "id": 240924,
+      "translation": {
+        "en": {
+          "short": "conservation",
+          "long": "the protection of the natural environment and resources from wasteful human activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konservasi",
+          "long": "Perlindungan lingkungan alam dan sumber daya dari aktivitas manusia yang boros",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240924.jpeg",
+      "simplified": "保护",
+      "traditional": "保護",
+      "pinyin": "bǎohù"
+    },
+    {
+      "id": 240908,
+      "translation": {
+        "en": {
+          "short": "acid rain",
+          "long": "rain containing a great deal of acidic chemicals, caused by air pollution, which can harm the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hujan asam",
+          "long": "Hujan yang mengandung banyak bahan kimia asam, disebabkan oleh polusi udara, yang dapat membahayakan lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240908.jpeg",
+      "simplified": "酸雨",
+      "traditional": "酸雨",
+      "pinyin": "suānyǔ"
+    },
+    {
+      "id": 240910,
+      "translation": {
+        "en": {
+          "short": "carbon footprint",
+          "long": "the amount of carbon dioxide that an organization or person releases into the atmosphere",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jejak karbon",
+          "long": "Jumlah karbon dioksida yang dilepaskan oleh suatu organisasi atau orang ke atmosfer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240910.jpeg",
+      "simplified": "碳足迹",
+      "traditional": "碳足跡",
+      "pinyin": "tànzú jì"
+    },
+    {
+      "id": 240911,
+      "translation": {
+        "en": {
+          "short": "climate change",
+          "long": "a permanent change in global or regional climate patterns, including temperature, wind, and rainfall",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perubahan iklim",
+          "long": "Perubahan permanen dalam pola iklim global atau regional, termasuk suhu, angin, dan curah hujan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240911.jpeg",
+      "simplified": "气候变化",
+      "traditional": "氣候變化",
+      "pinyin": "qìhòu biàn huà"
+    },
+    {
+      "id": 240912,
+      "translation": {
+        "en": {
+          "short": "wildfire",
+          "long": "a large fire that spreads fast and causes much destruction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebakaran",
+          "long": "api besar yang menyebar dengan cepat dan menyebabkan banyak kehancuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240912.jpeg",
+      "simplified": "大火",
+      "traditional": "大火",
+      "pinyin": "dàhuǒ"
+    },
+    {
+      "id": 240913,
+      "translation": {
+        "en": {
+          "short": "tsunami",
+          "long": "a very high wave or series of waves caused by an undersea earthquake or volcanic eruption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tsunami",
+          "long": "Gelombang yang sangat tinggi atau serangkaian gelombang yang disebabkan oleh gempa bumi bawah laut atau letusan gunung berapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240913.jpeg",
+      "simplified": "海啸",
+      "traditional": "海嘯",
+      "pinyin": "hǎixiào"
+    },
+    {
+      "id": 240914,
+      "translation": {
+        "en": {
+          "short": "toxic",
+          "long": "consisting of poisonous substances",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "beracun",
+          "long": "terdiri dari zat beracun",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240914.jpeg",
+      "simplified": "有毒的",
+      "traditional": "有毒的",
+      "pinyin": "yǒudú de"
+    },
+    {
+      "id": 240915,
+      "translation": {
+        "en": {
+          "short": "pollutant",
+          "long": "any substance that is harmful to the environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polutan",
+          "long": "zat apa pun yang berbahaya bagi lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240915.jpeg",
+      "simplified": "污染物",
+      "traditional": "污染物",
+      "pinyin": "wūrǎn wù"
+    },
+    {
+      "id": 240916,
+      "translation": {
+        "en": {
+          "short": "greenhouse effect",
+          "long": "a global problem that is caused by the increase of harmful gases such as carbon dioxide which results in gradual warming of the earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "efek rumah kaca",
+          "long": "Masalah global yang disebabkan oleh peningkatan gas berbahaya seperti karbon dioksida yang mengakibatkan pemanasan secara bertahap di bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240916.jpeg",
+      "simplified": "温室效应",
+      "traditional": "溫室效應",
+      "pinyin": "wēnshì xiào yìng"
+    },
+    {
+      "id": 240917,
+      "translation": {
+        "en": {
+          "short": "smog",
+          "long": "a combination of smoke and fog that is considered a form of air pollution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asbut",
+          "long": "Kombinasi asap dan kabut yang dianggap sebagai bentuk polusi udara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240917.jpeg",
+      "simplified": "烟雾",
+      "traditional": "煙霧",
+      "pinyin": "yānwù"
+    },
+    {
+      "id": 240918,
+      "translation": {
+        "en": {
+          "short": "ozone layer",
+          "long": "a layer of gases in the earth's atmosphere that does not let the sun's ultraviolet radiation pass through",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lapisan ozon",
+          "long": "Lapisan gas di atmosfer bumi yang tidak membiarkan radiasi ultraviolet matahari melintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240918.jpeg",
+      "simplified": "臭氧层",
+      "traditional": "臭氧層",
+      "pinyin": "chòuyǎng céng"
+    },
+    {
+      "id": 240920,
+      "translation": {
+        "en": {
+          "short": "eruption",
+          "long": "the sudden outburst of lava and steam from a volcanic mountain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "letusan",
+          "long": "ledakan lava dan uap yang tiba -tiba dari gunung vulkanik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240920.jpeg",
+      "simplified": "火山爆发",
+      "traditional": "火山爆發",
+      "pinyin": "huǒshān bào fā"
+    },
+    {
+      "id": 240922,
+      "translation": {
+        "en": {
+          "short": "deforestation",
+          "long": "the extensive removal of forests, typically causing environmental damage",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penggundulan hutan",
+          "long": "pemindahan hutan yang luas, biasanya menyebabkan kerusakan lingkungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240922.jpeg",
+      "simplified": "砍伐森林",
+      "traditional": "砍伐森林",
+      "pinyin": "kǎnfá sēnlín"
+    },
+    {
+      "id": 240923,
+      "translation": {
+        "en": {
+          "short": "to contaminate",
+          "long": "to make a place, substance, etc. dirty or harmful by adding dangerous material",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencemari",
+          "long": "Untuk membuat tempat, zat, dll. Kotor atau berbahaya dengan menambahkan bahan berbahaya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240923.jpeg",
+      "simplified": "污染",
+      "traditional": "污染",
+      "pinyin": "wūrǎn"
+    },
+    {
+      "id": 240927,
+      "translation": {
+        "en": {
+          "short": "consumption",
+          "long": "the action or process of using a resource such as energy or food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konsumsi",
+          "long": "tindakan atau proses menggunakan sumber daya seperti energi atau makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240927.jpeg",
+      "simplified": "消费",
+      "traditional": "消費",
+      "pinyin": "xiāofèi"
+    },
+    {
+      "id": 240937,
+      "translation": {
+        "en": {
+          "short": "blizzard",
+          "long": "a storm with heavy snowfall and strong winds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "badai salju",
+          "long": "badai dengan salju deras dan angin kencang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240937.jpeg",
+      "simplified": "暴风雪",
+      "traditional": "暴風雪",
+      "pinyin": "bàofēng xuě"
+    },
+    {
+      "id": 240941,
+      "translation": {
+        "en": {
+          "short": "Fahrenheit",
+          "long": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Fahrenheit",
+          "long": "terkait atau menggunakan skala suhu di mana air mendidih pada 212 ° dan membeku pada 32 °",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240941.jpeg",
+      "simplified": "华氏度",
+      "traditional": "華氏度",
+      "pinyin": "Huáshì dù"
+    },
+    {
+      "id": 240938,
+      "translation": {
+        "en": {
+          "short": "centigrade",
+          "long": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "Celcius",
+          "long": "terkait atau menggunakan skala suhu di mana air mendidih pada 100 ° dan membeku pada 0 °",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240938.jpeg",
+      "simplified": "摄氏",
+      "traditional": "攝氏",
+      "pinyin": "Shèshì"
+    },
+    {
+      "id": 240940,
+      "translation": {
+        "en": {
+          "short": "humid",
+          "long": "(of the climate) having a lot of moisture in the air, causing an uncomfortable and sticky feeling",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lembab",
+          "long": "(dari iklim) memiliki banyak kelembaban di udara, menyebabkan perasaan tidak nyaman dan lengket",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240940.jpeg",
+      "simplified": "湿",
+      "traditional": "濕",
+      "pinyin": "shī"
+    },
+    {
+      "id": 240942,
+      "translation": {
+        "en": {
+          "short": "monsoon",
+          "long": "a period in the summer during which wind blows and rain falls in India or other hot South Asian countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "musim",
+          "long": "Suatu periode di musim panas di mana angin bertiup dan hujan turun di India atau negara -negara Asia Selatan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240942.jpeg",
+      "simplified": "季风雨",
+      "traditional": "季風雨",
+      "pinyin": "jìfēng yǔ"
+    },
+    {
+      "id": 240943,
+      "translation": {
+        "en": {
+          "short": "thunder",
+          "long": "the loud crackling noise that is heard from the sky during a storm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "guruh",
+          "long": "suara berderak keras yang terdengar dari langit selama badai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240943.jpeg",
+      "simplified": "雷",
+      "traditional": "雷",
+      "pinyin": "Léi"
+    }
+  ]
+}

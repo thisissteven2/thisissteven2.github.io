@@ -1,0 +1,678 @@
+{
+  "id": 787,
+  "title": {
+    "en": "Health Facilities",
+    "id": "Fasilitas kesehatan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to health facilities, such as \"pharmacy\", \"hospice\", and \"day room\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan fasilitas kesehatan, seperti \"farmasi\", \"hospice\", dan \"ruang hari\"."
+  },
+  "cards": [
+    {
+      "id": 235212,
+      "translation": {
+        "en": {
+          "short": "critical care unit",
+          "long": "a part of a hospital that provides round-the-clock care for patients with severe medical conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Unit Perawatan Kritis",
+          "long": "Bagian dari rumah sakit yang menyediakan perawatan sepanjang waktu untuk pasien dengan kondisi medis yang parah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235212.jpeg",
+      "simplified": "重症监护病房",
+      "traditional": "重症監護病房",
+      "pinyin": "zhòngzhèng jiān hù bìngfáng"
+    },
+    {
+      "id": 235213,
+      "translation": {
+        "en": {
+          "short": "clinic",
+          "long": "a part of a hospital or a healthcare facility that provides care for patients who do not require an overnight stay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "klinik",
+          "long": "Bagian dari rumah sakit atau fasilitas perawatan kesehatan yang menyediakan perawatan untuk pasien yang tidak memerlukan menginap semalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235213.jpeg",
+      "simplified": "诊所",
+      "traditional": "診所",
+      "pinyin": "zhěnsuǒ"
+    },
+    {
+      "id": 235215,
+      "translation": {
+        "en": {
+          "short": "community hospital",
+          "long": "‌a small hospital that is accessible to the local community",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rumah Sakit Komunitas",
+          "long": "Rumah sakit kecil yang dapat diakses oleh masyarakat setempat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235215.jpeg",
+      "simplified": "社区医院",
+      "traditional": "社區醫院",
+      "pinyin": "shèqū yīyuàn"
+    },
+    {
+      "id": 235216,
+      "translation": {
+        "en": {
+          "short": "to discharge",
+          "long": "to allow a patient to leave the hospital because they have recovered and no longer need to receive inpatient care",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk keluar",
+          "long": "untuk memungkinkan pasien meninggalkan rumah sakit karena mereka telah pulih dan tidak perlu lagi menerima perawatan rawat inap",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235216.jpeg",
+      "simplified": "卸货",
+      "traditional": "卸貨",
+      "pinyin": "xièhuò"
+    },
+    {
+      "id": 235217,
+      "translation": {
+        "en": {
+          "short": "dispensary",
+          "long": "a clinic that provides medicine and medical supplies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "apotek",
+          "long": "sebuah klinik yang menyediakan persediaan obat dan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235217.jpeg",
+      "simplified": "药房",
+      "traditional": "藥房",
+      "pinyin": "yàofáng"
+    },
+    {
+      "id": 235218,
+      "translation": {
+        "en": {
+          "short": "emergency room",
+          "long": "a room in a hospital or clinic equipped to provide emergency care to people in need of immediate medical treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang gawat darurat",
+          "long": "Kamar di rumah sakit atau klinik yang diperlengkapi untuk memberikan perawatan darurat kepada orang yang membutuhkan perawatan medis segera",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235218.jpeg",
+      "simplified": "急诊室",
+      "traditional": "急診室",
+      "pinyin": "jízhěn shì"
+    },
+    {
+      "id": 235222,
+      "translation": {
+        "en": {
+          "short": "hospice",
+          "long": "a healthcare facility for people who are terminally ill, where their emotional and practical needs are met",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hospice",
+          "long": "Fasilitas perawatan kesehatan untuk orang -orang yang sakit parah, di mana kebutuhan emosional dan praktis mereka terpenuhi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235222.jpeg",
+      "simplified": "临终关怀",
+      "traditional": "臨終關懷",
+      "pinyin": "línzhōng guān huái"
+    },
+    {
+      "id": 291766,
+      "translation": {
+        "en": {
+          "short": "care home",
+          "long": "a facility that provides residential care and support for individuals who need assistance with daily activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah perawatan",
+          "long": "Fasilitas yang menyediakan perawatan dan dukungan perumahan untuk individu yang membutuhkan bantuan dengan kegiatan sehari -hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291766.jpeg",
+      "simplified": "护理之家",
+      "traditional": "護理之家",
+      "pinyin": "hùlǐ zhī jiā"
+    },
+    {
+      "id": 291774,
+      "translation": {
+        "en": {
+          "short": "field hospital",
+          "long": "a temporary medical facility used in emergencies or during conflicts to provide urgent healthcare services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah Sakit lapang",
+          "long": "Fasilitas medis sementara yang digunakan dalam keadaan darurat atau selama konflik untuk menyediakan layanan perawatan kesehatan yang mendesak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291774.jpeg",
+      "simplified": "野战医院",
+      "traditional": "野戰醫院",
+      "pinyin": "yězhàn yīyuàn"
+    },
+    {
+      "id": 291776,
+      "translation": {
+        "en": {
+          "short": "halfway house",
+          "long": "a transitional living facility where individuals who are recovering from addiction, mental illness, or other challenging situations can reside temporarily as they transition back into the community",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah singgah",
+          "long": "Fasilitas hidup transisi di mana individu yang pulih dari kecanduan, penyakit mental, atau situasi menantang lainnya dapat berada sementara waktu saat mereka bertransisi kembali ke komunitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291776.jpeg",
+      "simplified": "中途之家",
+      "traditional": "中途之家",
+      "pinyin": "zhōngtú zhī jiā"
+    },
+    {
+      "id": 291777,
+      "translation": {
+        "en": {
+          "short": "institution",
+          "long": "a facility that cares for individuals with mental health disorders or disabilities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lembaga",
+          "long": "fasilitas yang merawat individu dengan gangguan kesehatan mental atau cacat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291777.jpeg",
+      "simplified": "机构",
+      "traditional": "機構",
+      "pinyin": "jīgòu"
+    },
+    {
+      "id": 291778,
+      "translation": {
+        "en": {
+          "short": "psychiatric hospital",
+          "long": "a medical facility focused on diagnosing and treating severe mental health disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah sakit jiwa",
+          "long": "Fasilitas medis yang berfokus pada mendiagnosis dan mengobati gangguan kesehatan mental yang parah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291778.jpeg",
+      "simplified": "精神病医院",
+      "traditional": "精神病醫院",
+      "pinyin": "jīngshén bìng yī yuàn"
+    },
+    {
+      "id": 291781,
+      "translation": {
+        "en": {
+          "short": "teaching hospital",
+          "long": "a medical facility that provides clinical education and training to healthcare professionals while also offering patient care services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah sakit pendidikan",
+          "long": "Fasilitas medis yang menyediakan pendidikan klinis dan pelatihan bagi para profesional kesehatan sambil juga menawarkan layanan perawatan pasien",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291781.jpeg",
+      "simplified": "教学医院",
+      "traditional": "教學醫院",
+      "pinyin": "jiāoxué yīyuàn"
+    },
+    {
+      "id": 291783,
+      "translation": {
+        "en": {
+          "short": "day room",
+          "long": "a communal space in a residential or healthcare facility for relaxation and socialization during the day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kamar Day",
+          "long": "Ruang komunal di fasilitas perumahan atau perawatan kesehatan untuk relaksasi dan sosialisasi di siang hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291783.jpeg",
+      "simplified": "日间",
+      "traditional": "日間",
+      "pinyin": "rìjiān"
+    },
+    {
+      "id": 291790,
+      "translation": {
+        "en": {
+          "short": "high dependency unit",
+          "long": "a hospital unit that provides extra care and attention to patients who are not critically ill but still need more support than a regular hospital ward can provide",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unit ketergantungan tinggi",
+          "long": "unit rumah sakit yang memberikan perawatan ekstra dan perhatian pada pasien yang tidak sakit kritis tetapi masih membutuhkan lebih banyak dukungan daripada yang dapat disediakan oleh bangsal rumah sakit biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291790.jpeg",
+      "simplified": "高依赖单元",
+      "traditional": "高依賴單元",
+      "pinyin": "Gāo yīlài dānyuán"
+    },
+    {
+      "id": 291793,
+      "translation": {
+        "en": {
+          "short": "housekeeping",
+          "long": "the department tasked with cleaning rooms, etc. in a hotel, hospital, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pembenahan",
+          "long": "Departemen bertugas di kamar pembersih, dll. Di hotel, rumah sakit, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291793.jpeg",
+      "simplified": "家政",
+      "traditional": "家政",
+      "pinyin": "jiāzhèng"
+    },
+    {
+      "id": 291794,
+      "translation": {
+        "en": {
+          "short": "operating room",
+          "long": "a sterile space in a hospital where surgeries are performed using specialized equipment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang operasi",
+          "long": "Ruang steril di rumah sakit tempat operasi dilakukan dengan menggunakan peralatan khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291794.jpeg",
+      "simplified": "手术室",
+      "traditional": "手術室",
+      "pinyin": "shǒushù shì"
+    },
+    {
+      "id": 291796,
+      "translation": {
+        "en": {
+          "short": "padded cell",
+          "long": "a specialized room in a mental health or correctional facility that is lined with padded walls and flooring to prevent self-harm or injury to the occupant",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sel empuk",
+          "long": "Kamar khusus dalam kesehatan mental atau fasilitas pemasyarakatan yang dilapisi dengan dinding empuk dan lantai untuk mencegah melukai diri sendiri atau cedera pada penghuni",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291796.jpeg",
+      "simplified": "填充的单元",
+      "traditional": "填充的單元",
+      "pinyin": "tiánchōng de dānyuán"
+    },
+    {
+      "id": 291798,
+      "translation": {
+        "en": {
+          "short": "pharmacy",
+          "long": "a shop where medicines are sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "farmasi",
+          "long": "toko tempat obat dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291798.jpeg",
+      "simplified": "药店",
+      "traditional": "藥店",
+      "pinyin": "yàodiàn"
+    },
+    {
+      "id": 291799,
+      "translation": {
+        "en": {
+          "short": "sickroom",
+          "long": "a designated space for unwell individuals to rest and receive care",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar sakit",
+          "long": "ruang yang ditunjuk untuk individu yang tidak sehat untuk beristirahat dan menerima perawatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291799.jpeg",
+      "simplified": "病房",
+      "traditional": "病房",
+      "pinyin": "bìngfáng"
+    },
+    {
+      "id": 291800,
+      "translation": {
+        "en": {
+          "short": "surgery",
+          "long": "a doctor's office or clinic where patients can receive medical treatment or advice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "operasi",
+          "long": "Kantor atau klinik dokter di mana pasien dapat menerima perawatan atau nasihat medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291800.jpeg",
+      "simplified": "手术",
+      "traditional": "手術",
+      "pinyin": "shǒushù"
+    },
+    {
+      "id": 235226,
+      "translation": {
+        "en": {
+          "short": "intensive care unit",
+          "long": "a treatment unit in a hospital that provides continuous monitoring and intensive care for the critically ill or injured",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unit perawatan intensif",
+          "long": "unit perawatan di rumah sakit yang menyediakan pemantauan berkelanjutan dan perawatan intensif untuk orang yang sakit atau terluka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235226.jpeg",
+      "simplified": "重症监护室",
+      "traditional": "重症監護室",
+      "pinyin": "zhòngzhèng jiān hù shì"
+    },
+    {
+      "id": 291817,
+      "translation": {
+        "en": {
+          "short": "labor room",
+          "long": "the room in the hospital where a woman in labor stays before going to the delivery room",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang kerja",
+          "long": "Kamar di rumah sakit tempat seorang wanita dalam persalinan tetap sebelum pergi ke ruang bersalin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291817.jpeg",
+      "simplified": "劳动室",
+      "traditional": "勞動室",
+      "pinyin": "láodòng Shì"
+    },
+    {
+      "id": 291827,
+      "translation": {
+        "en": {
+          "short": "delivery room",
+          "long": "a designated facility where pregnant individuals give birth, typically located in a hospital or birth center, with the support of medical professionals and equipment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang pengiriman",
+          "long": "fasilitas yang ditunjuk di mana orang hamil melahirkan, biasanya berlokasi di rumah sakit atau pusat kelahiran, dengan dukungan profesional dan peralatan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/291827.jpeg",
+      "simplified": "产房",
+      "traditional": "產房",
+      "pinyin": "chǎnfáng"
+    },
+    {
+      "id": 235227,
+      "translation": {
+        "en": {
+          "short": "infirmary",
+          "long": "a facility within an institution, such as a school or hospital, where medical treatment and care are provided to patients who are ill or injured",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah sakit",
+          "long": "Fasilitas dalam suatu lembaga, seperti sekolah atau rumah sakit, di mana perawatan dan perawatan medis diberikan kepada pasien yang sakit atau terluka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235227.jpeg",
+      "simplified": "医务室",
+      "traditional": "醫務室",
+      "pinyin": "yīwù shì"
+    },
+    {
+      "id": 235230,
+      "translation": {
+        "en": {
+          "short": "maternity ward",
+          "long": "a hospital department that provides care for pregnant women and newborn infants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bangsal bersalin",
+          "long": "departemen rumah sakit yang menyediakan perawatan untuk wanita hamil dan bayi yang baru lahir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235230.jpeg",
+      "simplified": "产房",
+      "traditional": "產房",
+      "pinyin": "chǎnfáng"
+    },
+    {
+      "id": 235231,
+      "translation": {
+        "en": {
+          "short": "mortuary",
+          "long": "a building or a room, often in a hospital, where dead bodies are temporarily kept before burial or cremation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamar mayat",
+          "long": "Sebuah bangunan atau kamar, sering di rumah sakit, di mana mayat untuk sementara disimpan sebelum penguburan atau kremasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235231.jpeg",
+      "simplified": "停尸间",
+      "traditional": "停屍間",
+      "pinyin": "tíngshī jiān"
+    },
+    {
+      "id": 235239,
+      "translation": {
+        "en": {
+          "short": "recovery room",
+          "long": "a specialized area where patients are monitored and cared for after surgery until they regain consciousness and stability",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang pemulihan",
+          "long": "Area khusus di mana pasien dipantau dan dirawat setelah operasi sampai mereka mendapatkan kembali kesadaran dan stabilitas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235239.jpeg",
+      "simplified": "恢复室",
+      "traditional": "恢復室",
+      "pinyin": "huīfù Shì"
+    },
+    {
+      "id": 235241,
+      "translation": {
+        "en": {
+          "short": "sanitarium",
+          "long": "an establishment or facility that treats people who have a chronic illness",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sanatorium",
+          "long": "perusahaan atau fasilitas yang merawat orang yang memiliki penyakit kronis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235241.jpeg",
+      "simplified": "疗养院",
+      "traditional": "療養院",
+      "pinyin": "liáoyǎng yuàn"
+    },
+    {
+      "id": 300830,
+      "translation": {
+        "en": {
+          "short": "detox",
+          "long": "the hospital ward or clinic in which patients are detoxified from harmful substances",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "detoksifikasi",
+          "long": "bangsal rumah sakit atau klinik di mana pasien didetoksifikasi dari zat berbahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300830.jpeg",
+      "simplified": "排毒",
+      "traditional": "排毒",
+      "pinyin": "páidú"
+    },
+    {
+      "id": 399148,
+      "translation": {
+        "en": {
+          "short": "ENT department",
+          "long": "a hospital unit specializing in the diagnosis and treatment of ear, nose, and throat disorders",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Departemen ent",
+          "long": "Unit rumah sakit yang berspesialisasi dalam diagnosis dan perawatan gangguan telinga, hidung, dan tenggorokan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/399148.jpeg",
+      "simplified": "Ent部门",
+      "traditional": "Ent部門",
+      "pinyin": "bùmén"
+    },
+    {
+      "id": 235244,
+      "translation": {
+        "en": {
+          "short": "unit",
+          "long": "a department, especially in a hospital, that provides a particular type of care or treatment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "satuan",
+          "long": "Departemen, terutama di rumah sakit, yang menyediakan jenis perawatan atau perawatan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235244.jpeg",
+      "simplified": "单元",
+      "traditional": "單元",
+      "pinyin": "dānyuán"
+    },
+    {
+      "id": 300832,
+      "translation": {
+        "en": {
+          "short": "hospital",
+          "long": "a large building where sick or injured people receive medical treatment and care",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "RSUD",
+          "long": "sebuah bangunan besar di mana orang sakit atau terluka menerima perawatan dan perawatan medis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/300832.jpeg",
+      "simplified": "医院",
+      "traditional": "醫院",
+      "pinyin": "yīyuàn"
+    },
+    {
+      "id": 399319,
+      "translation": {
+        "en": {
+          "short": "cardiac care unit",
+          "long": "a part of a hospital that  provides specialized care for patients with heart conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "unit perawatan jantung",
+          "long": "Bagian dari rumah sakit yang menyediakan perawatan khusus untuk pasien dengan kondisi jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/399319.jpeg",
+      "simplified": "心脏监护病房",
+      "traditional": "心臟監護病房",
+      "pinyin": "xīnzàng jiānhù bìngfáng"
+    },
+    {
+      "id": 235245,
+      "translation": {
+        "en": {
+          "short": "ward",
+          "long": "a separate area in a hospital for patients with similar conditions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bangsal",
+          "long": "Area terpisah di rumah sakit untuk pasien dengan kondisi yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235245.jpeg",
+      "simplified": "医院病房",
+      "traditional": "醫院病房",
+      "pinyin": "yīyuàn bìngfáng"
+    }
+  ]
+}

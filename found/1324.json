@@ -1,0 +1,659 @@
+{
+  "id": 1324,
+  "title": {
+    "en": "Garden",
+    "id": "Kebun"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to gardens such as \"sprinkler\", \"gnome\", and \"birdhouse\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan taman seperti \"sprinkler\", \"gnome\", dan \"Birdhouse\"."
+  },
+  "cards": [
+    {
+      "id": 258589,
+      "translation": {
+        "en": {
+          "short": "bird table",
+          "long": "a wooden platform that is located in a garden on which one can put food for birds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meja burung",
+          "long": "platform kayu yang terletak di taman di mana seseorang dapat meletakkan makanan untuk burung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258589.jpeg",
+      "simplified": "鸟桌",
+      "traditional": "鳥桌",
+      "pinyin": "diǎo zhuō"
+    },
+    {
+      "id": 258591,
+      "translation": {
+        "en": {
+          "short": "border",
+          "long": "a long and narrow bed of soil on which flowers, bushes, etc. can be planted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbatasan",
+          "long": "Tanah yang panjang dan sempit di mana bunga, semak, dll. Dapat ditanam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258591.jpeg",
+      "simplified": "边界",
+      "traditional": "邊界",
+      "pinyin": "biānjiè"
+    },
+    {
+      "id": 258595,
+      "translation": {
+        "en": {
+          "short": "compost pile",
+          "long": "a place in a garden where leaves, plants, etc. are stored, so that they can be turned to compost after they decay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tumpukan kompos",
+          "long": "Tempat di taman tempat daun, tanaman, dll disimpan, sehingga dapat diubah menjadi kompos setelah mereka membusuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258595.jpeg",
+      "simplified": "堆肥堆",
+      "traditional": "堆肥堆",
+      "pinyin": "duīféi duī"
+    },
+    {
+      "id": 258597,
+      "translation": {
+        "en": {
+          "short": "flowerpot",
+          "long": "a container, made of plastic or clay, in which one can grow a wide variety of plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pot bunga",
+          "long": "wadah, terbuat dari plastik atau tanah liat, di mana seseorang dapat menumbuhkan berbagai macam tanaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258597.jpeg",
+      "simplified": "花盆",
+      "traditional": "花盆",
+      "pinyin": "huāpén"
+    },
+    {
+      "id": 258605,
+      "translation": {
+        "en": {
+          "short": "flower bed",
+          "long": "an area of ground planted with flowers or plants, often arranged in a decorative or artistic pattern",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hamparan bunga",
+          "long": "Area tanah yang ditanam dengan bunga atau tanaman, sering diatur dalam pola dekoratif atau artistik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258605.jpeg",
+      "simplified": "花坛",
+      "traditional": "花壇",
+      "pinyin": "Huātán"
+    },
+    {
+      "id": 345408,
+      "translation": {
+        "en": {
+          "short": "sprinkler",
+          "long": "a small device with holes that is put on the end of a hose, used for watering soil or lawns; a piece of equipment that is utilized in case a building is on fire",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat penyiram",
+          "long": "Perangkat kecil dengan lubang yang diletakkan di ujung selang, digunakan untuk menyirami tanah atau rumput; sepotong peralatan yang digunakan jika ada bangunan yang terbakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345408.jpeg",
+      "simplified": "洒水车",
+      "traditional": "灑水車",
+      "pinyin": "sǎshuǐ chē"
+    },
+    {
+      "id": 345409,
+      "translation": {
+        "en": {
+          "short": "shrub",
+          "long": "a large woody plant with several main stems emerging from the ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belukar",
+          "long": "tanaman kayu besar dengan beberapa batang utama muncul dari tanah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345409.jpeg",
+      "simplified": "灌木",
+      "traditional": "灌木",
+      "pinyin": "guànmù"
+    },
+    {
+      "id": 345411,
+      "translation": {
+        "en": {
+          "short": "garden bed",
+          "long": "a defined area of soil, typically raised and enclosed, that is used for planting and growing plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petak",
+          "long": "Area tanah yang ditentukan, biasanya dinaikkan dan tertutup, yang digunakan untuk menanam dan menanam tanaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345411.jpeg",
+      "simplified": "花园床",
+      "traditional": "花園床",
+      "pinyin": "huāyuán chuáng"
+    },
+    {
+      "id": 345412,
+      "translation": {
+        "en": {
+          "short": "watering can",
+          "long": "a portable vessel with a long tube and a handle, used for sprinkling water on plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyiram",
+          "long": "kapal portabel dengan tabung panjang dan pegangan, digunakan untuk menaburkan air pada tanaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345412.jpeg",
+      "simplified": "喷壶",
+      "traditional": "噴壺",
+      "pinyin": "pēnhú"
+    },
+    {
+      "id": 258606,
+      "translation": {
+        "en": {
+          "short": "fountain",
+          "long": "a structure, often placed in a pool or lake, that pumps a long, narrow stream of water up into the air for decorative purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air mancur",
+          "long": "Struktur, sering ditempatkan di kolam atau danau, yang memompa aliran air yang panjang dan sempit ke udara untuk tujuan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258606.jpeg",
+      "simplified": "喷泉",
+      "traditional": "噴泉",
+      "pinyin": "pēnquán"
+    },
+    {
+      "id": 258611,
+      "translation": {
+        "en": {
+          "short": "gnome",
+          "long": "a decorative stone or plastic figure of a dwarfish creature with a pointed hat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gnome",
+          "long": "Batu dekoratif atau sosok plastik makhluk kerdil dengan topi runcing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258611.jpeg",
+      "simplified": "金言",
+      "traditional": "金言",
+      "pinyin": "Jīn yán"
+    },
+    {
+      "id": 345413,
+      "translation": {
+        "en": {
+          "short": "sprinkler system",
+          "long": "an automated network of pipes and sprinkler heads used to water plants and vegetation in a designated area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem sprinkler",
+          "long": "Jaringan pipa dan kepala sprinkler otomatis digunakan untuk menyirami tanaman dan vegetasi di area yang ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345413.jpeg",
+      "simplified": "喷水灭火系统",
+      "traditional": "噴水滅火系統",
+      "pinyin": "pēn Shuǐ mièhuǒ xìtǒng"
+    },
+    {
+      "id": 345414,
+      "translation": {
+        "en": {
+          "short": "raised bed",
+          "long": "a raised area in a garden surrounded by a wooden or stone frame, used for growing plants in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tempat tidur yang terangkat",
+          "long": "Area terangkat di taman yang dikelilingi oleh bingkai kayu atau batu, digunakan untuk menanam tanaman di",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345414.jpeg",
+      "simplified": "高架床",
+      "traditional": "高架床",
+      "pinyin": "gāojià chuáng"
+    },
+    {
+      "id": 345417,
+      "translation": {
+        "en": {
+          "short": "garden pest",
+          "long": "any organism, such as insects, rodents, or other animals, that causes damage or harm to plants or crops in a garden or agricultural setting",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hama Taman",
+          "long": "Organisme apa pun, seperti serangga, hewan pengerat, atau hewan lain, yang menyebabkan kerusakan atau kerusakan pada tanaman atau tanaman di taman atau pengaturan pertanian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345417.jpeg",
+      "simplified": "园林害虫",
+      "traditional": "園林害蟲",
+      "pinyin": "yuánlín hàichóng"
+    },
+    {
+      "id": 345418,
+      "translation": {
+        "en": {
+          "short": "garden stake",
+          "long": "a long, thin, pointed rod, usually made of wood or metal, that is used to support and train plants, such as tomato plants or climbing vines, to grow in a certain direction or stay upright",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pasak taman",
+          "long": "Batang yang panjang, tipis, runcing, biasanya terbuat dari kayu atau logam, yang digunakan untuk menopang dan melatih tanaman, seperti tanaman tomat atau tanaman merambat, untuk tumbuh ke arah tertentu atau tetap tegak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345418.jpeg",
+      "simplified": "花园桩",
+      "traditional": "花園樁",
+      "pinyin": "huāyuán zhuāng"
+    },
+    {
+      "id": 258613,
+      "translation": {
+        "en": {
+          "short": "grass",
+          "long": "a grass-covered area of ground",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumput",
+          "long": "Area tanah yang tertutup rumput",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258613.jpeg",
+      "simplified": "草",
+      "traditional": "草",
+      "pinyin": "cǎo"
+    },
+    {
+      "id": 258614,
+      "translation": {
+        "en": {
+          "short": "gravel",
+          "long": "a mix of sand and small pebbles that cover that surface of some roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kerikil",
+          "long": "campuran pasir dan kerikil kecil yang menutupi permukaan beberapa jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258614.jpeg",
+      "simplified": "碎石",
+      "traditional": "碎石",
+      "pinyin": "suìshí"
+    },
+    {
+      "id": 258617,
+      "translation": {
+        "en": {
+          "short": "hedge",
+          "long": "a row of closely-planted bushes or small trees that form a boundary, particularly on the edge of a garden, road, or field",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pagar",
+          "long": "Sederetan semak yang ditanam erat atau pohon kecil yang membentuk batas, terutama di tepi taman, jalan, atau ladang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258617.jpeg",
+      "simplified": "树篱",
+      "traditional": "樹籬",
+      "pinyin": "shùlí"
+    },
+    {
+      "id": 345419,
+      "translation": {
+        "en": {
+          "short": "shrubbery",
+          "long": "an area, often in a garden, where a large number of shrubs are thickly planted",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "semak",
+          "long": "sebuah area, sering di taman, di mana sejumlah besar semak ditanam dengan tebal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345419.jpeg",
+      "simplified": "灌木",
+      "traditional": "灌木",
+      "pinyin": "guànmù"
+    },
+    {
+      "id": 345420,
+      "translation": {
+        "en": {
+          "short": "water feature",
+          "long": "an artificial pond or a fountain that is placed in some parks or gardens to provide decoration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fitur air",
+          "long": "kolam buatan atau air mancur yang ditempatkan di beberapa taman atau taman untuk memberikan dekorasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345420.jpeg",
+      "simplified": "水景",
+      "traditional": "水景",
+      "pinyin": "Shuǐ Jǐng"
+    },
+    {
+      "id": 345421,
+      "translation": {
+        "en": {
+          "short": "birdhouse",
+          "long": "a small, man-made structure designed to provide a nesting place for birds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah burung",
+          "long": "Struktur kecil buatan manusia yang dirancang untuk menyediakan tempat bersarang bagi burung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345421.jpeg",
+      "simplified": "鸟巢",
+      "traditional": "鳥巢",
+      "pinyin": "niǎocháo"
+    },
+    {
+      "id": 258618,
+      "translation": {
+        "en": {
+          "short": "hose",
+          "long": "a lengthy, flexible tube, made of plastic or rubber, often used in firefighting and gardening, that can direct the flow of water to the direction it is pointed at",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "selang",
+          "long": "Tabung yang panjang dan fleksibel, terbuat dari plastik atau karet, sering digunakan dalam pemadam kebakaran dan berkebun, yang dapat mengarahkan aliran air ke arah yang ditunjuknya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258618.jpeg",
+      "simplified": "软管",
+      "traditional": "軟管",
+      "pinyin": "ruǎnguǎn"
+    },
+    {
+      "id": 258620,
+      "translation": {
+        "en": {
+          "short": "lawn",
+          "long": "an area of grass, typically in a yard or garden, that is cut and maintained at a short length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman rumput",
+          "long": "Area rumput, biasanya di halaman atau kebun, yang dipotong dan dipelihara dengan panjang pendek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/258620.jpeg",
+      "simplified": "草坪",
+      "traditional": "草坪",
+      "pinyin": "cǎopíng"
+    },
+    {
+      "id": 345422,
+      "translation": {
+        "en": {
+          "short": "bee house",
+          "long": "a man-made structure that provides a safe habitat for solitary bee species to nest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rumah lebah",
+          "long": "Struktur buatan manusia yang menyediakan habitat yang aman untuk spesies lebah soliter bersarang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345422.jpeg",
+      "simplified": "蜜蜂之家",
+      "traditional": "蜜蜂之家",
+      "pinyin": "mìfēng zhī jiā"
+    },
+    {
+      "id": 345426,
+      "translation": {
+        "en": {
+          "short": "garden ornament",
+          "long": "a decorative object or structure that is placed in a garden or outdoor area to enhance its aesthetic appeal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ornamen Taman",
+          "long": "objek atau struktur dekoratif yang ditempatkan di taman atau area luar untuk meningkatkan daya tarik estetika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345426.jpeg",
+      "simplified": "花园装饰品",
+      "traditional": "花園裝飾品",
+      "pinyin": "huāyuán zhuāngshì pǐn"
+    },
+    {
+      "id": 345427,
+      "translation": {
+        "en": {
+          "short": "rain barrel",
+          "long": "a large outdoor container that can collect and store rainwater running off rooftops",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barel hujan",
+          "long": "wadah luar besar yang dapat mengumpulkan dan menyimpan air hujan yang mengalir di atap",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345427.jpeg",
+      "simplified": "雨桶",
+      "traditional": "雨桶",
+      "pinyin": "yǔ tǒng"
+    },
+    {
+      "id": 345428,
+      "translation": {
+        "en": {
+          "short": "compost bin",
+          "long": "a container placed in an outdoor garden for storing organic waste so it can be turned to compost later",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bin Kompos",
+          "long": "sebuah wadah yang ditempatkan di taman luar ruangan untuk menyimpan limbah organik sehingga dapat diubah menjadi kompos nanti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345428.jpeg",
+      "simplified": "堆肥箱",
+      "traditional": "堆肥箱",
+      "pinyin": "duīféi xiāng"
+    },
+    {
+      "id": 345429,
+      "translation": {
+        "en": {
+          "short": "vegetable garden",
+          "long": "an area of land where edible plants, such as vegetables and herbs, are grown for personal use or sale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kebun sayur",
+          "long": "Area tanah tempat tanaman yang dapat dimakan, seperti sayuran dan rempah -rempah, ditanam untuk penggunaan atau penjualan pribadi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345429.jpeg",
+      "simplified": "菜园",
+      "traditional": "菜園",
+      "pinyin": "càiyuán"
+    },
+    {
+      "id": 345430,
+      "translation": {
+        "en": {
+          "short": "picket",
+          "long": "a line of pointed wooden strip that is fixed in the ground to form a fence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piket",
+          "long": "Garis strip kayu runcing yang dipasang di tanah untuk membentuk pagar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345430.jpeg",
+      "simplified": "纠察队",
+      "traditional": "糾察隊",
+      "pinyin": "jiūchá duì"
+    },
+    {
+      "id": 345446,
+      "translation": {
+        "en": {
+          "short": "post",
+          "long": "a sturdy pole made of metal or timber that is dug into the ground to be used as a marker or support something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pos",
+          "long": "tiang kokoh yang terbuat dari logam atau kayu yang digali ke tanah untuk digunakan sebagai penanda atau mendukung sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345446.jpeg",
+      "simplified": "邮",
+      "traditional": "郵",
+      "pinyin": "yóu"
+    },
+    {
+      "id": 345447,
+      "translation": {
+        "en": {
+          "short": "trellis",
+          "long": "a framework made of metal or wood bars for supporting climbing plants or fruit trees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terali",
+          "long": "kerangka kerja yang terbuat dari logam atau kayu untuk mendukung tanaman panjat atau pohon buah -buahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345447.jpeg",
+      "simplified": "格子",
+      "traditional": "格子",
+      "pinyin": "gézi"
+    },
+    {
+      "id": 345953,
+      "translation": {
+        "en": {
+          "short": "outdoor shower",
+          "long": "a plumbing fixture designed for use outdoors, typically found in gardens, near pools, or in beach houses, that allows people to shower outside, often using natural light and air",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mandi luar ruangan",
+          "long": "Perlengkapan pipa yang dirancang untuk digunakan di luar ruangan, biasanya ditemukan di taman, dekat kolam renang, atau di rumah pantai, yang memungkinkan orang untuk mandi di luar, sering menggunakan cahaya dan udara alami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345953.jpeg",
+      "simplified": "室外淋浴",
+      "traditional": "室外淋浴",
+      "pinyin": "shìwài línyù"
+    },
+    {
+      "id": 348704,
+      "translation": {
+        "en": {
+          "short": "garden shed",
+          "long": "a small structure typically located in a backyard or garden area, used for storing gardening tools, equipment, supplies, and other items related to gardening or outdoor activities",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gudang taman",
+          "long": "Struktur kecil biasanya terletak di halaman belakang atau area taman, digunakan untuk menyimpan alat berkebun, peralatan, persediaan, dan barang -barang lainnya yang terkait dengan aktivitas berkebun atau di luar ruangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/348704.jpeg",
+      "simplified": "花园棚",
+      "traditional": "花園棚",
+      "pinyin": "huāyuán péng"
+    },
+    {
+      "id": 345967,
+      "translation": {
+        "en": {
+          "short": "arbor",
+          "long": "a shelter in a park or garden, that is surrounded by plants, such as climbing shrubs or vines, that people can sit under and relax",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "punjung",
+          "long": "tempat berlindung di taman atau taman, yang dikelilingi oleh tanaman, seperti memanjat semak atau tanaman merambat, bahwa orang dapat duduk di bawah dan bersantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/345967.jpeg",
+      "simplified": "乔木",
+      "traditional": "喬木",
+      "pinyin": "qiáomù"
+    }
+  ]
+}

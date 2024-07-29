@@ -1,0 +1,583 @@
+{
+  "id": 919,
+  "title": {
+    "en": "Language Components",
+    "id": "Komponen bahasa"
+  },
+  "description": {
+    "en": "Here you will learn some English words about language components, such as \"infinitive\", \"gerund\", \"number\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang komponen bahasa, seperti \"infinitif\", \"gerund\", \"angka\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 240756,
+      "translation": {
+        "en": {
+          "short": "linguistic",
+          "long": "related to the science of language, including its structure, usage, and evolution",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "linguistik",
+          "long": "terkait dengan ilmu bahasa, termasuk struktur, penggunaan, dan evolusi",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240756.jpeg",
+      "simplified": "语言学的",
+      "traditional": "語言學的",
+      "pinyin": "yǔyán xué de"
+    },
+    {
+      "id": 241124,
+      "translation": {
+        "en": {
+          "short": "infinitive",
+          "long": "(grammar) the root form of a verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "infinitif",
+          "long": "(tata bahasa) Bentuk akar dari kata kerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241124.jpeg",
+      "simplified": "不定词",
+      "traditional": "不定詞",
+      "pinyin": "bùdìng cí"
+    },
+    {
+      "id": 241125,
+      "translation": {
+        "en": {
+          "short": "gerund",
+          "long": "(grammar) a form of a verb that functions as a noun and is formed by adding the suffix -ing to the base form of the verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gerund",
+          "long": "(tata bahasa) Bentuk kata kerja yang berfungsi sebagai kata benda dan dibentuk dengan menambahkan akhiran -ing ke bentuk dasar kata kerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241125.jpeg",
+      "simplified": "动名词",
+      "traditional": "動名詞",
+      "pinyin": "dòngmíng cí"
+    },
+    {
+      "id": 240754,
+      "translation": {
+        "en": {
+          "short": "transitive verb",
+          "long": "(grammar) a verb that needs a direct object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata kerja transitif",
+          "long": "(tata bahasa) Kata kerja yang membutuhkan objek langsung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240754.jpeg",
+      "simplified": "及物动词",
+      "traditional": "及物動詞",
+      "pinyin": "jíwù dòng cí"
+    },
+    {
+      "id": 240755,
+      "translation": {
+        "en": {
+          "short": "intransitive verb",
+          "long": "(grammar) a verb without a direct object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata kerja intransitif",
+          "long": "(tata bahasa) Kata kerja tanpa objek langsung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240755.jpeg",
+      "simplified": "不及物动词",
+      "traditional": "不及物動詞",
+      "pinyin": "bùjí wù dòng cí"
+    },
+    {
+      "id": 240763,
+      "translation": {
+        "en": {
+          "short": "number",
+          "long": "(grammar) the form of a word that indicates whether one, two, or more things or people are being referred to",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nomor",
+          "long": "(tata bahasa) Bentuk kata yang menunjukkan apakah satu, dua, atau lebih hal atau orang dirujuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240763.jpeg",
+      "simplified": "单复数（语法）",
+      "traditional": "單複數（語法）",
+      "pinyin": "Shàn fùshù yǔfǎ"
+    },
+    {
+      "id": 240767,
+      "translation": {
+        "en": {
+          "short": "person",
+          "long": "(grammar) each of the three classes of pronouns that refers to who is speaking, who is being spoken to, or others that are not present during the conversation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "orang",
+          "long": "(tata bahasa) Masing -masing dari tiga kelas kata ganti yang mengacu pada siapa yang berbicara, siapa yang sedang diajak bicara, atau orang lain yang tidak hadir selama percakapan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240767.jpeg",
+      "simplified": "人",
+      "traditional": "人",
+      "pinyin": "rén"
+    },
+    {
+      "id": 240784,
+      "translation": {
+        "en": {
+          "short": "voice",
+          "long": "(grammar) the form of a verb that indicates whether the subject does something or something is done to it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suara",
+          "long": "(tata bahasa) Bentuk kata kerja yang menunjukkan apakah subjek melakukan sesuatu atau sesuatu dilakukan padanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240784.jpeg",
+      "simplified": "嗓音",
+      "traditional": "嗓音",
+      "pinyin": "sǎngyīn"
+    },
+    {
+      "id": 240760,
+      "translation": {
+        "en": {
+          "short": "gender",
+          "long": "(grammar) a class of words indicating whether they are feminine, masculine, or neuter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jenis kelamin",
+          "long": "(tata bahasa) Kelas kata yang menunjukkan apakah mereka feminin, maskulin, atau netral",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240760.jpeg",
+      "simplified": "性别（语法）",
+      "traditional": "性別（語法）",
+      "pinyin": "xìngbié yǔfǎ"
+    },
+    {
+      "id": 240761,
+      "translation": {
+        "en": {
+          "short": "feminine",
+          "long": "(of a class of words) referring to females",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "wanita",
+          "long": "(dari kelas kata) mengacu pada wanita",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240761.jpeg",
+      "simplified": "女性（词）",
+      "traditional": "女性（詞）",
+      "pinyin": "nǚxìng cí"
+    },
+    {
+      "id": 240762,
+      "translation": {
+        "en": {
+          "short": "masculine",
+          "long": "(of a class of words) referring to males",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "maskulin",
+          "long": "(dari kelas kata) mengacu pada pria",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240762.jpeg",
+      "simplified": "男性",
+      "traditional": "男性",
+      "pinyin": "nánxìng"
+    },
+    {
+      "id": 240783,
+      "translation": {
+        "en": {
+          "short": "subjunctive",
+          "long": "(grammar) related to verbs that express wishes, possibility, or doubt",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "subjungtif",
+          "long": "(tata bahasa) terkait dengan kata kerja yang menyatakan keinginan, kemungkinan, atau keraguan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240783.jpeg",
+      "simplified": "虚拟语气",
+      "traditional": "虛擬語氣",
+      "pinyin": "xūnǐ yǔ qì"
+    },
+    {
+      "id": 240779,
+      "translation": {
+        "en": {
+          "short": "phonetics",
+          "long": "the science and study of speech sounds and their production",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "fonetik",
+          "long": "sains dan studi suara bicara dan produksinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240779.jpeg",
+      "simplified": "语音",
+      "traditional": "語音",
+      "pinyin": "yǔyīn"
+    },
+    {
+      "id": 241126,
+      "translation": {
+        "en": {
+          "short": "intonation",
+          "long": "(phonetics) the rising and falling of the voice when speaking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "intonasi",
+          "long": "(fonetik) The Rising and Falling of the Voice Saat Berbicara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241126.jpeg",
+      "simplified": "语调（语音学）",
+      "traditional": "語調（語音學）",
+      "pinyin": "yǔdiào yǔyīn xué"
+    },
+    {
+      "id": 240757,
+      "translation": {
+        "en": {
+          "short": "dialect",
+          "long": "the spoken form of a language specific to a certain region or people which is slightly different from the standard form in words and grammar",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dialek",
+          "long": "Bentuk bahasa yang diucapkan khusus untuk wilayah tertentu atau orang -orang yang sedikit berbeda dari bentuk standar dalam kata -kata dan tata bahasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240757.jpeg",
+      "simplified": "方言",
+      "traditional": "方言",
+      "pinyin": "Fāngyán"
+    },
+    {
+      "id": 240768,
+      "translation": {
+        "en": {
+          "short": "proverb",
+          "long": "a well-known statement or phrase that expresses a general truth or gives advice",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pepatah",
+          "long": "pernyataan atau frasa terkenal yang mengungkapkan kebenaran umum atau memberikan nasihat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240768.jpeg",
+      "simplified": "谚语",
+      "traditional": "諺語",
+      "pinyin": "yànyǔ"
+    },
+    {
+      "id": 240774,
+      "translation": {
+        "en": {
+          "short": "idiom",
+          "long": "a group of words or a phrase that has a meaning different from the literal interpretation of its individual words, often specific to a particular language or culture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "idiom",
+          "long": "sekelompok kata atau frasa yang memiliki makna berbeda dari interpretasi literal kata -kata individualnya, seringkali spesifik untuk bahasa atau budaya tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240774.jpeg",
+      "simplified": "成语",
+      "traditional": "成語",
+      "pinyin": "chéngyǔ"
+    },
+    {
+      "id": 240778,
+      "translation": {
+        "en": {
+          "short": "jargon",
+          "long": "words, phrases, and expressions used by a specific group or profession, which are incomprehensible to others",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jargon",
+          "long": "kata -kata, frasa, dan ekspresi yang digunakan oleh kelompok atau profesi tertentu, yang tidak dapat dipahami oleh orang lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240778.jpeg",
+      "simplified": "行话",
+      "traditional": "行話",
+      "pinyin": "hánghuà"
+    },
+    {
+      "id": 240770,
+      "translation": {
+        "en": {
+          "short": "slang",
+          "long": "words or expressions that are very informal and more common in spoken form, used especially by a particular group of people, such as criminals, children, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "slang",
+          "long": "kata atau ekspresi yang sangat informal dan lebih umum dalam bentuk lisan, digunakan terutama oleh sekelompok orang tertentu, seperti penjahat, anak -anak, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240770.jpeg",
+      "simplified": "俚语",
+      "traditional": "俚語",
+      "pinyin": "lǐyǔ"
+    },
+    {
+      "id": 240759,
+      "translation": {
+        "en": {
+          "short": "euphemism",
+          "long": "a word or expression that is used instead of a harsh or insulting one in order to be more tactful and polite",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eufemisme",
+          "long": "kata atau ekspresi yang digunakan alih -alih yang keras atau menghina agar lebih bijaksana dan sopan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240759.jpeg",
+      "simplified": "婉辞",
+      "traditional": "婉辭",
+      "pinyin": "wǎncí"
+    },
+    {
+      "id": 240780,
+      "translation": {
+        "en": {
+          "short": "to punctuate",
+          "long": "to use punctuation marks in a text in order to make it more understandable",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menusuk",
+          "long": "untuk menggunakan tanda baca dalam teks untuk membuatnya lebih bisa dimengerti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240780.jpeg",
+      "simplified": "圈点",
+      "traditional": "圈點",
+      "pinyin": "quāndiǎn"
+    },
+    {
+      "id": 240764,
+      "translation": {
+        "en": {
+          "short": "colon",
+          "long": "the punctuation mark : used to introduce a quotation, explanation, or list of items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus besar",
+          "long": "tanda baca: digunakan untuk memperkenalkan kutipan, penjelasan, atau daftar item",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240764.jpeg",
+      "simplified": "冒号（书写）",
+      "traditional": "冒號（書寫）",
+      "pinyin": "màohào shūxiě"
+    },
+    {
+      "id": 240781,
+      "translation": {
+        "en": {
+          "short": "semicolon",
+          "long": "the punctuation mark ; used to separate the items in a list or to indicate a pause between two main clauses in a compound sentence",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titik koma",
+          "long": "tanda baca; digunakan untuk memisahkan item dalam daftar atau untuk menunjukkan jeda antara dua klausa utama dalam kalimat majemuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240781.jpeg",
+      "simplified": "分号",
+      "traditional": "分號",
+      "pinyin": "fēnhào"
+    },
+    {
+      "id": 240765,
+      "translation": {
+        "en": {
+          "short": "parenthesis",
+          "long": "either of the symbols ( ) used in writing to enclose extra information that is given or to group a symbolic unit in logic or mathematics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kurung",
+          "long": "Salah satu simbol () yang digunakan secara tertulis untuk melampirkan informasi tambahan yang diberikan atau untuk mengelompokkan unit simbolis dalam logika atau matematika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240765.jpeg",
+      "simplified": "插入语",
+      "traditional": "插入語",
+      "pinyin": "chārù yǔ"
+    },
+    {
+      "id": 240775,
+      "translation": {
+        "en": {
+          "short": "hyphen",
+          "long": "a small line used to connect words or parts of words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda penghubung",
+          "long": "Garis kecil yang digunakan untuk menghubungkan kata atau bagian kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240775.jpeg",
+      "simplified": "连字符号",
+      "traditional": "連字符號",
+      "pinyin": "liánzì fú hào"
+    },
+    {
+      "id": 240782,
+      "translation": {
+        "en": {
+          "short": "slash",
+          "long": "the symbol / used in print or writing to indicate alternatives or fractions, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memotong",
+          "long": "Simbol / digunakan dalam cetakan atau tulisan untuk menunjukkan alternatif atau pecahan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240782.jpeg",
+      "simplified": "斜线符号（书写）",
+      "traditional": "斜線符號（書寫）",
+      "pinyin": "xiéxiàn fúhào shūxiě"
+    },
+    {
+      "id": 240777,
+      "translation": {
+        "en": {
+          "short": "interjection",
+          "long": "(grammar) a phrase or word used suddenly to express a particular emotion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata seru",
+          "long": "(tata bahasa) Sebuah frasa atau kata tiba -tiba digunakan untuk mengekspresikan emosi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240777.jpeg",
+      "simplified": "欹",
+      "traditional": "欹",
+      "pinyin": "yī"
+    },
+    {
+      "id": 240766,
+      "translation": {
+        "en": {
+          "short": "particle",
+          "long": "(grammar) an adverb or preposition that is used with a verb to form a phrasal verb",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "partikel",
+          "long": "(Tata Bahasa) Kata keterangan atau preposisi yang digunakan dengan kata kerja untuk membentuk kata kerja phrasal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240766.jpeg",
+      "simplified": "粒子",
+      "traditional": "粒子",
+      "pinyin": "lìzǐ"
+    },
+    {
+      "id": 302869,
+      "translation": {
+        "en": {
+          "short": "e.g.",
+          "long": "used before providing an example",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "misalnya",
+          "long": "digunakan sebelum memberikan contoh",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/302869.jpeg",
+      "simplified": "例如",
+      "traditional": "例如",
+      "pinyin": "lìrú"
+    },
+    {
+      "id": 240771,
+      "translation": {
+        "en": {
+          "short": "ungrammatical",
+          "long": "not conforming with the rules of grammar",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tidak kuas",
+          "long": "tidak sesuai dengan aturan tata bahasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240771.jpeg",
+      "simplified": "不合语法的",
+      "traditional": "不合語法的",
+      "pinyin": "bùhé yǔfǎ de"
+    }
+  ]
+}

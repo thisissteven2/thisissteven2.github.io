@@ -1,0 +1,146 @@
+{
+  "id": 5476,
+  "title": {
+    "en": "Cardinal Numbers Greater than 99",
+    "id": "Bilangan kardinal lebih besar dari 99"
+  },
+  "description": {
+    "en": "This category includes numbers with three or more digits.",
+    "id": "Kategori ini mencakup angka dengan tiga angka atau lebih."
+  },
+  "cards": [
+    {
+      "id": 385593,
+      "translation": {
+        "en": {
+          "short": "hundred",
+          "long": "being ten more than ninety",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "ratus",
+          "long": "menjadi sepuluh lebih dari sembilan puluh",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385593.jpeg",
+      "simplified": "百",
+      "traditional": "百",
+      "pinyin": "Bǎi"
+    },
+    {
+      "id": 385594,
+      "translation": {
+        "en": {
+          "short": "thousand",
+          "long": "denoting a quantity consisting of 1,000 items or units",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "ribu",
+          "long": "menunjukkan jumlah yang terdiri dari 1.000 item atau unit",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385594.jpeg",
+      "simplified": "千",
+      "traditional": "千",
+      "pinyin": "qiān"
+    },
+    {
+      "id": 385595,
+      "translation": {
+        "en": {
+          "short": "million",
+          "long": "(in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "juta",
+          "long": "(Dalam angka Romawi, m ditulis dengan macron di atasnya) menunjukkan jumlah yang terdiri dari 1.000.000 item atau unit",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385595.jpeg",
+      "simplified": "百万",
+      "traditional": "百萬",
+      "pinyin": "bǎiwàn"
+    },
+    {
+      "id": 385596,
+      "translation": {
+        "en": {
+          "short": "billion",
+          "long": "denoting a quantity consisting of one thousand million items or units in the United States",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "miliar",
+          "long": "menunjukkan jumlah yang terdiri dari seribu juta item atau unit di Amerika Serikat",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385596.jpeg",
+      "simplified": "万亿",
+      "traditional": "萬億",
+      "pinyin": "wànyì"
+    },
+    {
+      "id": 385597,
+      "translation": {
+        "en": {
+          "short": "trillion",
+          "long": "one million million in the United States",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "triliun",
+          "long": "satu juta juta di Amerika Serikat",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385597.jpeg",
+      "simplified": "兆",
+      "traditional": "百萬",
+      "pinyin": "Zhào"
+    },
+    {
+      "id": 385598,
+      "translation": {
+        "en": {
+          "short": "quadrillion",
+          "long": "the number that is represented as a one followed by 15 zeros",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "milion lipat empat",
+          "long": "Angka yang direpresentasikan sebagai satu diikuti oleh 15 nol",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385598.jpeg",
+      "simplified": "千万亿",
+      "traditional": "千萬億",
+      "pinyin": "qiānwàn yì"
+    },
+    {
+      "id": 385599,
+      "translation": {
+        "en": {
+          "short": "quintillion",
+          "long": "the number that is represented as a one followed by 18 zeros",
+          "partOfSpeech": "determiner"
+        },
+        "id": {
+          "short": "Quintillion",
+          "long": "Angka yang direpresentasikan sebagai satu diikuti oleh 18 nol",
+          "partOfSpeech": "penentu"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385599.jpeg",
+      "simplified": "五亿",
+      "traditional": "五億",
+      "pinyin": "wǔ yì"
+    }
+  ]
+}

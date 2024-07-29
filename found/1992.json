@@ -1,0 +1,469 @@
+{
+  "id": 1992,
+  "title": {
+    "en": "Polygons",
+    "id": "Poligon"
+  },
+  "description": {
+    "en": "Read this lesson to learn the names of polygons in English, such as \"convex polygon\", \"heptagon\" and \"hendecagon\".",
+    "id": "Baca pelajaran ini untuk mempelajari nama -nama poligon dalam bahasa Inggris, seperti \"cembung poligon\", \"heptagon\" dan \"hendecagon\"."
+  },
+  "cards": [
+    {
+      "id": 285697,
+      "translation": {
+        "en": {
+          "short": "regular polygon",
+          "long": "a two-dimensional closed shape with straight sides and equal angles between adjacent sides, and all sides have the same length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "poligon beraturan",
+          "long": "Bentuk tertutup dua dimensi dengan sisi lurus dan sudut yang sama di antara sisi yang berdekatan, dan semua sisi memiliki panjang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285697.jpeg",
+      "simplified": "正多边形",
+      "traditional": "正多邊形",
+      "pinyin": "zhēng duōbiān xíng"
+    },
+    {
+      "id": 285700,
+      "translation": {
+        "en": {
+          "short": "irregular polygon",
+          "long": "a polygon that does not have all sides or angles equal in size or measure, making it non-regular and lacking symmetry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poligon tidak teratur",
+          "long": "poligon yang tidak memiliki semua sisi atau sudut dalam ukuran atau ukuran yang sama, membuatnya tidak teratur dan kurang simetri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285700.jpeg",
+      "simplified": "不规则多边形",
+      "traditional": "不規則多邊形",
+      "pinyin": "bùguī zé duōbiān xíng"
+    },
+    {
+      "id": 285695,
+      "translation": {
+        "en": {
+          "short": "convex polygon",
+          "long": "a geometric shape that has all its interior angles measuring less than 180 degrees, causing the polygon to curve outward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poligon Cembung",
+          "long": "Bentuk geometris yang memiliki semua sudut interiornya berukuran kurang dari 180 derajat, menyebabkan poligon melengkung ke luar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285695.jpeg",
+      "simplified": "凸多边形",
+      "traditional": "凸多邊形",
+      "pinyin": "tūduō biān xíng"
+    },
+    {
+      "id": 285696,
+      "translation": {
+        "en": {
+          "short": "concave polygon",
+          "long": "a geometric shape that has at least one angle measuring greater than 180 degrees, causing the polygon to curve inward",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Poligon cekung",
+          "long": "Bentuk geometris yang memiliki setidaknya satu sudut berukuran lebih besar dari 180 derajat, menyebabkan poligon melengkung ke dalam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285696.jpeg",
+      "simplified": "凹多边形",
+      "traditional": "凹多邊形",
+      "pinyin": "āo duōbiān xíng"
+    },
+    {
+      "id": 285732,
+      "translation": {
+        "en": {
+          "short": "quadrilateral",
+          "long": "(geometry) a flat figure with four straight sides and four angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbentuk persegi",
+          "long": "(Geometri) Sosok datar dengan empat sisi lurus dan empat sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285732.jpeg",
+      "simplified": "四边形",
+      "traditional": "四邊形",
+      "pinyin": "sìbiān xíng"
+    },
+    {
+      "id": 285737,
+      "translation": {
+        "en": {
+          "short": "pentagon",
+          "long": "a geometric shape with five angles and five straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi lima",
+          "long": "bentuk geometris dengan lima sudut dan lima sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285737.jpeg",
+      "simplified": "五角形",
+      "traditional": "五角形",
+      "pinyin": "wǔjiǎo xíng"
+    },
+    {
+      "id": 285741,
+      "translation": {
+        "en": {
+          "short": "hexagon",
+          "long": "(geometry) a closed shape with six straight sides and six angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi enam",
+          "long": "(Geometri) Bentuk tertutup dengan enam sisi lurus dan enam sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285741.jpeg",
+      "simplified": "六边形",
+      "traditional": "六邊形",
+      "pinyin": "liùbiān xíng"
+    },
+    {
+      "id": 285742,
+      "translation": {
+        "en": {
+          "short": "heptagon",
+          "long": "a seven-sided plane shape consisting of seven line segments or edges that meet at seven interior angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi tujuh",
+          "long": "Bentuk pesawat tujuh sisi yang terdiri dari tujuh segmen atau tepi garis yang bertemu pada tujuh sudut interior",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285742.jpeg",
+      "simplified": "七边形",
+      "traditional": "七邊形",
+      "pinyin": "qībiān xíng"
+    },
+    {
+      "id": 285743,
+      "translation": {
+        "en": {
+          "short": "octagon",
+          "long": "(geometry) a polygon consisting of eight straight sides and eight angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi delapan",
+          "long": "(Geometri) Poligon yang terdiri dari delapan sisi lurus dan delapan sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285743.jpeg",
+      "simplified": "八角形",
+      "traditional": "八角形",
+      "pinyin": "bājiǎo xíng"
+    },
+    {
+      "id": 285745,
+      "translation": {
+        "en": {
+          "short": "nonagon",
+          "long": "(geometry) a flat shape consisting of nine straight sides and nine angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nonagon",
+          "long": "(Geometri) Bentuk datar yang terdiri dari sembilan sisi lurus dan sembilan sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285745.jpeg",
+      "simplified": "九角形",
+      "traditional": "九角形",
+      "pinyin": "jiǔ Jué xíng"
+    },
+    {
+      "id": 285749,
+      "translation": {
+        "en": {
+          "short": "decagon",
+          "long": "(geometry) a flat polygon with ten straight sides and ten angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "decagon",
+          "long": "(Geometri) Poligon datar dengan sepuluh sisi lurus dan sepuluh sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285749.jpeg",
+      "simplified": "十边形",
+      "traditional": "十邊形",
+      "pinyin": "shíbiān xíng"
+    },
+    {
+      "id": 285968,
+      "translation": {
+        "en": {
+          "short": "hendecagon",
+          "long": "(geometry) a flat figure consisting of eleven straight sides and eleven angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hendecagon",
+          "long": "(Geometri) Sosok datar yang terdiri dari sebelas sisi lurus dan sebelas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285968.jpeg",
+      "simplified": "十一角形",
+      "traditional": "十一角形",
+      "pinyin": "ShíYī Jué xíng"
+    },
+    {
+      "id": 285971,
+      "translation": {
+        "en": {
+          "short": "dodecagon",
+          "long": "(geometry) a flat figure that consists of twelve sides and twelve angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pigura berduabelas sudut",
+          "long": "(Geometri) Sosok datar yang terdiri dari dua belas sisi dan dua belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285971.jpeg",
+      "simplified": "十二国",
+      "traditional": "十二國",
+      "pinyin": "shíèr Guó"
+    },
+    {
+      "id": 285787,
+      "translation": {
+        "en": {
+          "short": "tetradecagon",
+          "long": "a polygon with fourteen sides and fourteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tetradecagon",
+          "long": "poligon dengan empat belas sisi dan empat belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285787.jpeg",
+      "simplified": "十四方",
+      "traditional": "十四方",
+      "pinyin": "shísì Fāng"
+    },
+    {
+      "id": 285774,
+      "translation": {
+        "en": {
+          "short": "tridecagon",
+          "long": "a polygon with thirteen sides and thirteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tridecagon",
+          "long": "poligon dengan tiga belas sisi dan tiga belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285774.jpeg",
+      "simplified": "十三边形",
+      "traditional": "十三邊形",
+      "pinyin": "shísān biān xíng"
+    },
+    {
+      "id": 285798,
+      "translation": {
+        "en": {
+          "short": "pentadecagon",
+          "long": "a polygon with fifteen sides and fifteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pentadecagon",
+          "long": "poligon dengan lima belas sisi dan lima belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285798.jpeg",
+      "simplified": "十五边形",
+      "traditional": "十五邊形",
+      "pinyin": "shíwǔ biān xíng"
+    },
+    {
+      "id": 285805,
+      "translation": {
+        "en": {
+          "short": "hexadecagon",
+          "long": "a polygon with sixteen sides and sixteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hexadecagon",
+          "long": "poligon dengan enam belas sisi dan enam belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285805.jpeg",
+      "simplified": "十六边形",
+      "traditional": "十六邊形",
+      "pinyin": "shíliù biān xíng"
+    },
+    {
+      "id": 285820,
+      "translation": {
+        "en": {
+          "short": "heptadecagon",
+          "long": "a polygon with seventeen sides and seventeen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Heptadecagon",
+          "long": "poligon dengan tujuh belas sisi dan tujuh belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285820.jpeg",
+      "simplified": "十七边形",
+      "traditional": "十七邊形",
+      "pinyin": "shíqī biān xíng"
+    },
+    {
+      "id": 285826,
+      "translation": {
+        "en": {
+          "short": "octadecagon",
+          "long": "a polygon with eighteen sides and eighteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "octadecagon",
+          "long": "poligon dengan delapan belas sisi dan delapan belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285826.jpeg",
+      "simplified": "十八边形",
+      "traditional": "十八邊形",
+      "pinyin": "shíbā biān xíng"
+    },
+    {
+      "id": 285835,
+      "translation": {
+        "en": {
+          "short": "enneadecagon",
+          "long": "a polygon with nineteen sides and nineteen angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Enneadecagon",
+          "long": "poligon dengan sembilan belas sisi dan sembilan belas sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285835.jpeg",
+      "simplified": "九角形",
+      "traditional": "九角形",
+      "pinyin": "jiǔ Jué xíng"
+    },
+    {
+      "id": 285838,
+      "translation": {
+        "en": {
+          "short": "icosagon",
+          "long": "a polygon with twenty sides and twenty angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Icosagon",
+          "long": "poligon dengan dua puluh sisi dan dua puluh sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/285838.jpeg",
+      "simplified": "二十角形",
+      "traditional": "二十角形",
+      "pinyin": "èrshí Jué xíng"
+    },
+    {
+      "id": 286111,
+      "translation": {
+        "en": {
+          "short": "pentagram",
+          "long": "a five-pointed star",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pentagram",
+          "long": "bintang berujung lima",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286111.jpeg",
+      "simplified": "五角星",
+      "traditional": "五角星",
+      "pinyin": "wǔjiǎo xīng"
+    },
+    {
+      "id": 286114,
+      "translation": {
+        "en": {
+          "short": "hexagram",
+          "long": "(geometry) a flat star-shaped figure with six points that can be formed by making equilateral triangles on each side of a regular hexagon",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hexagram",
+          "long": "(Geometri) Sosok berbentuk bintang datar dengan enam titik yang dapat dibentuk dengan membuat segitiga sama sisi di setiap sisi segi enam biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/286114.jpeg",
+      "simplified": "hexagram",
+      "traditional": "hexagram",
+      "pinyin": ""
+    },
+    {
+      "id": 388537,
+      "translation": {
+        "en": {
+          "short": "trilateral",
+          "long": "a three-sided geometric shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trilateral",
+          "long": "bentuk geometris tiga sisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/388537.jpeg",
+      "simplified": "三边的",
+      "traditional": "三邊的",
+      "pinyin": "Sān biān de"
+    }
+  ]
+}

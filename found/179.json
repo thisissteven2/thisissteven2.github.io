@@ -1,0 +1,754 @@
+{
+  "id": 179,
+  "title": {
+    "en": "Money",
+    "id": "Uang"
+  },
+  "description": {
+    "en": "Here you will learn some English words about money, such as \"credit\", \"economy\", \"accounting\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang uang, seperti \"kredit\", \"ekonomi\", \"akuntansi\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 239623,
+      "translation": {
+        "en": {
+          "short": "to credit",
+          "long": "to add a sum of money to a bank account",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kredit",
+          "long": "untuk menambahkan sejumlah uang ke rekening bank",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239623.jpeg",
+      "simplified": "信用",
+      "traditional": "信用",
+      "pinyin": "xìnyòng"
+    },
+    {
+      "id": 213840,
+      "translation": {
+        "en": {
+          "short": "economy",
+          "long": "the system in which money, goods, and services are produced or distributed within a country or region",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekonomi",
+          "long": "Sistem di mana uang, barang, dan jasa diproduksi atau didistribusikan di suatu negara atau wilayah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213840.jpeg",
+      "simplified": "经济",
+      "traditional": "經濟",
+      "pinyin": "jīngjì"
+    },
+    {
+      "id": 213841,
+      "translation": {
+        "en": {
+          "short": "economic",
+          "long": "relating to the production, distribution, and management of wealth and resources within a society or country",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ekonomis",
+          "long": "berkaitan dengan produksi, distribusi, dan pengelolaan kekayaan dan sumber daya dalam suatu masyarakat atau negara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213841.jpeg",
+      "simplified": "经济的",
+      "traditional": "經濟的",
+      "pinyin": "jīngjì de"
+    },
+    {
+      "id": 213853,
+      "translation": {
+        "en": {
+          "short": "accounting",
+          "long": "a systematic process of recording, summarizing, analyzing, and reporting financial transactions and information of an organization or individual",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akuntansi",
+          "long": "Proses sistematis perekaman, meringkas, menganalisis, dan melaporkan transaksi keuangan dan informasi suatu organisasi atau individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213853.jpeg",
+      "simplified": "会计",
+      "traditional": "會計",
+      "pinyin": "kuàijì"
+    },
+    {
+      "id": 213854,
+      "translation": {
+        "en": {
+          "short": "asset",
+          "long": "a valuable resource or quality owned by an individual, organization, or entity, typically with economic value and the potential to provide future benefits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aset",
+          "long": "Sumber daya atau kualitas berharga yang dimiliki oleh individu, organisasi, atau entitas, biasanya dengan nilai ekonomi dan potensi untuk memberikan manfaat di masa depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213854.jpeg",
+      "simplified": "财富",
+      "traditional": "財富",
+      "pinyin": "cáifù"
+    },
+    {
+      "id": 213846,
+      "translation": {
+        "en": {
+          "short": "budget",
+          "long": "the sum of money that is available to a person, an organization, etc. for a particular purpose and the plan according to which it will be spent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anggaran",
+          "long": "Jumlah uang yang tersedia untuk seseorang, organisasi, dll. Untuk tujuan tertentu dan rencana yang sesuai dengan yang akan dibelanjakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213846.jpeg",
+      "simplified": "预算",
+      "traditional": "預算",
+      "pinyin": "yùsuàn"
+    },
+    {
+      "id": 237694,
+      "translation": {
+        "en": {
+          "short": "capital",
+          "long": "money or property owned by a person or company that is used for investment or starting a business",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "modal",
+          "long": "uang atau properti yang dimiliki oleh orang atau perusahaan yang digunakan untuk investasi atau memulai bisnis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237694.jpeg",
+      "simplified": "资本",
+      "traditional": "資本",
+      "pinyin": "zīběn"
+    },
+    {
+      "id": 213842,
+      "translation": {
+        "en": {
+          "short": "debit",
+          "long": "an entry indicating an increase in assets or an expense, and a decrease in debts or income",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "debet",
+          "long": "entri yang menunjukkan peningkatan aset atau biaya, dan penurunan hutang atau pendapatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213842.jpeg",
+      "simplified": "借方",
+      "traditional": "借方",
+      "pinyin": "jièfāng"
+    },
+    {
+      "id": 213835,
+      "translation": {
+        "en": {
+          "short": "finance",
+          "long": "the act of managing large sums of money, especially by governments or corporations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keuangan",
+          "long": "tindakan mengelola sejumlah besar uang, terutama oleh pemerintah atau perusahaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213835.jpeg",
+      "simplified": "金融",
+      "traditional": "金融",
+      "pinyin": "jīnróng"
+    },
+    {
+      "id": 213867,
+      "translation": {
+        "en": {
+          "short": "investment",
+          "long": "the act or process of putting money into something to gain profit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "investasi",
+          "long": "tindakan atau proses memasukkan uang ke dalam sesuatu untuk mendapatkan keuntungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213867.jpeg",
+      "simplified": "投资",
+      "traditional": "投資",
+      "pinyin": "tóuzī"
+    },
+    {
+      "id": 237696,
+      "translation": {
+        "en": {
+          "short": "financing",
+          "long": "the act of providing a sum of money for running a business, activity, project, or individual needs, typically through loans, investments, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembiayaan",
+          "long": "Tindakan menyediakan sejumlah uang untuk menjalankan bisnis, aktivitas, proyek, atau kebutuhan individu, biasanya melalui pinjaman, investasi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237696.jpeg",
+      "simplified": "融资",
+      "traditional": "融資",
+      "pinyin": "róngzī"
+    },
+    {
+      "id": 213858,
+      "translation": {
+        "en": {
+          "short": "borrowing",
+          "long": "the act of getting money from a person or an organization with the agreement to repay the borrowed amount along with any related interest or fees within a specified period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "peminjaman",
+          "long": "Tindakan mendapatkan uang dari seseorang atau organisasi dengan perjanjian untuk membayar jumlah pinjaman bersama dengan bunga atau biaya terkait dalam periode tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213858.jpeg",
+      "simplified": "借用",
+      "traditional": "借用",
+      "pinyin": "jièyòng"
+    },
+    {
+      "id": 213836,
+      "translation": {
+        "en": {
+          "short": "debt",
+          "long": "the situation of owing money, usually when it is not easy to pay it back",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "utang",
+          "long": "situasi berutang uang, biasanya ketika tidak mudah untuk membayarnya kembali",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213836.jpeg",
+      "simplified": "债务",
+      "traditional": "債務",
+      "pinyin": "zhàiwù"
+    },
+    {
+      "id": 213837,
+      "translation": {
+        "en": {
+          "short": "grant",
+          "long": "an amount of money given by the government or another organization for a specific purpose",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menganugerahkan",
+          "long": "sejumlah uang yang diberikan oleh pemerintah atau organisasi lain untuk tujuan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213837.jpeg",
+      "simplified": "诰",
+      "traditional": "誥",
+      "pinyin": "gào"
+    },
+    {
+      "id": 237277,
+      "translation": {
+        "en": {
+          "short": "loan",
+          "long": "a sum of money that is borrowed from a bank which should be returned with a certain rate of interest",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meminjamkan",
+          "long": "sejumlah uang yang dipinjam dari bank yang harus dikembalikan dengan tingkat bunga tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237277.jpeg",
+      "simplified": "贷款",
+      "traditional": "貸款",
+      "pinyin": "dàikuǎn"
+    },
+    {
+      "id": 239685,
+      "translation": {
+        "en": {
+          "short": "to possess",
+          "long": "to have something as one's own",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memiliki",
+          "long": "untuk memiliki sesuatu sebagai miliknya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239685.jpeg",
+      "simplified": "具有",
+      "traditional": "具有",
+      "pinyin": "jùyǒu"
+    },
+    {
+      "id": 237695,
+      "translation": {
+        "en": {
+          "short": "distribution",
+          "long": "the process of supplying shops and other businesses with products to be sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "distribusi",
+          "long": "Proses memasok toko dan bisnis lain dengan produk yang akan dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237695.jpeg",
+      "simplified": "分配",
+      "traditional": "分配",
+      "pinyin": "fēnpèi"
+    },
+    {
+      "id": 213866,
+      "translation": {
+        "en": {
+          "short": "inflation",
+          "long": "the ongoing increase in the general price level of goods and services in an economy over a period of time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "inflasi",
+          "long": "Peningkatan Tingkat Harga Umum Barang dan Jasa dalam Ekonomi selama periode waktu tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213866.jpeg",
+      "simplified": "通货膨胀",
+      "traditional": "通貨膨脹",
+      "pinyin": "tōnghuò péng zhàng"
+    },
+    {
+      "id": 213857,
+      "translation": {
+        "en": {
+          "short": "welfare",
+          "long": "a financial aid provided by the government for people who are sick, unemployed, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kesejahteraan",
+          "long": "Bantuan keuangan yang disediakan oleh pemerintah untuk orang -orang yang sakit, menganggur, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213857.jpeg",
+      "simplified": "政府财政援助",
+      "traditional": "政府財政援助",
+      "pinyin": "zhèngfǔ cáizhèng yuánzhù"
+    },
+    {
+      "id": 213847,
+      "translation": {
+        "en": {
+          "short": "profit",
+          "long": "the sum of money that is gained after all expenses and taxes are paid",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laba",
+          "long": "jumlah uang yang diperoleh setelah semua biaya dan pajak dibayar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213847.jpeg",
+      "simplified": "利润",
+      "traditional": "利潤",
+      "pinyin": "lìrùn"
+    },
+    {
+      "id": 213848,
+      "translation": {
+        "en": {
+          "short": "standard of living",
+          "long": "the level of wealth, welfare, comfort, and necessities available to an individual, group, country, etc.",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "taraf hidup",
+          "long": "Tingkat kekayaan, kesejahteraan, kenyamanan, dan kebutuhan yang tersedia untuk individu, kelompok, negara, dll.",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213848.jpeg",
+      "simplified": "生活水平",
+      "traditional": "生活水平",
+      "pinyin": "shēnghuó shuǐ píng"
+    },
+    {
+      "id": 213845,
+      "translation": {
+        "en": {
+          "short": "balance",
+          "long": "the number showing the difference between the debit and credit sums of an account",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keseimbangan",
+          "long": "Jumlah yang menunjukkan perbedaan antara jumlah debit dan kredit dari suatu akun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213845.jpeg",
+      "simplified": "财务平衡",
+      "traditional": "財務平衡",
+      "pinyin": "cáiwù pínghéng"
+    },
+    {
+      "id": 213856,
+      "translation": {
+        "en": {
+          "short": "bank statement",
+          "long": "a document given by a bank to an account holder, providing a summary of all financial transactions within a specified period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernyataan bank",
+          "long": "Dokumen yang diberikan oleh bank kepada pemegang akun, memberikan ringkasan semua transaksi keuangan dalam periode tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213856.jpeg",
+      "simplified": "银行对帐单",
+      "traditional": "銀行對帳單",
+      "pinyin": "yínháng duìzhàng Shàn"
+    },
+    {
+      "id": 213861,
+      "translation": {
+        "en": {
+          "short": "collapse",
+          "long": "a sudden decrease in something's value, such as a price or stock",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "runtuh",
+          "long": "penurunan nilai sesuatu yang tiba -tiba, seperti harga atau stok",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213861.jpeg",
+      "simplified": "倒闭",
+      "traditional": "倒閉",
+      "pinyin": "dǎobì"
+    },
+    {
+      "id": 213862,
+      "translation": {
+        "en": {
+          "short": "to collapse",
+          "long": "(of prices, shares, etc.) to suddenly decrease in terms of amount or value",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk runtuh",
+          "long": "(harga, saham, dll.) Tiba -tiba menurun dalam hal jumlah atau nilai",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213862.jpeg",
+      "simplified": "崩溃（价值）",
+      "traditional": "崩潰（價值）",
+      "pinyin": "bēngkuì jiàzhí"
+    },
+    {
+      "id": 213863,
+      "translation": {
+        "en": {
+          "short": "decrease",
+          "long": "the amount by which something becomes less or smaller",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengurangi",
+          "long": "jumlah sesuatu menjadi kurang atau lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213863.jpeg",
+      "simplified": "减少",
+      "traditional": "減少",
+      "pinyin": "jiǎnshǎo"
+    },
+    {
+      "id": 213870,
+      "translation": {
+        "en": {
+          "short": "loss",
+          "long": "money that is lost by a company, organization, or individual",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kehilangan",
+          "long": "uang yang hilang oleh perusahaan, organisasi, atau individu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/213870.jpeg",
+      "simplified": "亏损",
+      "traditional": "虧損",
+      "pinyin": "kuīsǔn"
+    },
+    {
+      "id": 237693,
+      "translation": {
+        "en": {
+          "short": "analyst",
+          "long": "a trained individual who evaluates information and data to provide insights and make informed decisions in various fields such as finance, economics, business, technology, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "analis",
+          "long": "Seorang individu terlatih yang mengevaluasi informasi dan data untuk memberikan wawasan dan membuat keputusan berdasarkan informasi di berbagai bidang seperti keuangan, ekonomi, bisnis, teknologi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237693.jpeg",
+      "simplified": "分析师",
+      "traditional": "分析師",
+      "pinyin": "fēnxī shī"
+    },
+    {
+      "id": 237692,
+      "translation": {
+        "en": {
+          "short": "banker",
+          "long": "a person who possesses or has a high rank in a bank or any other financial institution",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bankir",
+          "long": "seseorang yang memiliki atau memiliki peringkat tinggi di bank atau lembaga keuangan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237692.jpeg",
+      "simplified": "银行家",
+      "traditional": "銀行家",
+      "pinyin": "yínháng jiā"
+    },
+    {
+      "id": 239696,
+      "translation": {
+        "en": {
+          "short": "to price",
+          "long": "to set an amount that is needed as payment for a product or a service",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk harga",
+          "long": "untuk menetapkan jumlah yang diperlukan sebagai pembayaran untuk suatu produk atau layanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239696.jpeg",
+      "simplified": "价钱",
+      "traditional": "價錢",
+      "pinyin": "jiàqian"
+    },
+    {
+      "id": 239704,
+      "translation": {
+        "en": {
+          "short": "to purchase",
+          "long": "to get goods or services in exchange for money or other forms of payment",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membeli",
+          "long": "untuk mendapatkan barang atau jasa dengan imbalan uang atau bentuk pembayaran lainnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239704.jpeg",
+      "simplified": "买东西",
+      "traditional": "買東西",
+      "pinyin": "mǎidōng xi"
+    },
+    {
+      "id": 246746,
+      "translation": {
+        "en": {
+          "short": "rate",
+          "long": "a specified amount of money charged or paid for something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecepatan",
+          "long": "Jumlah uang yang ditentukan atau dibayar untuk sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/246746.jpeg",
+      "simplified": "率",
+      "traditional": "率",
+      "pinyin": "lǜ"
+    },
+    {
+      "id": 257631,
+      "translation": {
+        "en": {
+          "short": "to rip off",
+          "long": "to take advantage of someone by charging them too much money or selling them a defective product",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merobek",
+          "long": "untuk memanfaatkan seseorang dengan menagih mereka terlalu banyak uang atau menjual produk yang rusak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/257631.jpeg",
+      "simplified": "撕掉",
+      "traditional": "撕掉",
+      "pinyin": "sīdiào"
+    },
+    {
+      "id": 257632,
+      "translation": {
+        "en": {
+          "short": "rip-off",
+          "long": "something that costs a lot more than its real value",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "meretas",
+          "long": "sesuatu yang harganya jauh lebih mahal daripada nilai sebenarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/257632.jpeg",
+      "simplified": "昂贵的商品或服务",
+      "traditional": "昂貴的商品或服務",
+      "pinyin": "ángguì de shāngpǐn huò fúwù"
+    },
+    {
+      "id": 343594,
+      "translation": {
+        "en": {
+          "short": "bull",
+          "long": "someone who buys or holds a certain asset or market expecting that their prices will increase, allowing them to sell at a profit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "banteng",
+          "long": "Seseorang yang membeli atau memegang aset atau pasar tertentu yang mengharapkan harga mereka akan meningkat, memungkinkan mereka untuk menjual dengan untung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343594.jpeg",
+      "simplified": "等待价格上涨来获利的人",
+      "traditional": "等待價格上漲來獲利的人",
+      "pinyin": "děngdài jiàgé shàngzhǎng lái huòlì de rén"
+    },
+    {
+      "id": 343593,
+      "translation": {
+        "en": {
+          "short": "bear",
+          "long": "someone who sells financial instruments expecting that their prices will fall, allowing them to repurchase them later at a lower price and make a profit",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "beruang",
+          "long": "Seseorang yang menjual instrumen keuangan yang berharap harga mereka akan turun, memungkinkan mereka untuk membeli kembali nanti dengan harga lebih murah dan menghasilkan keuntungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343593.jpeg",
+      "simplified": "熊",
+      "traditional": "熊",
+      "pinyin": "Xióng"
+    },
+    {
+      "id": 357196,
+      "translation": {
+        "en": {
+          "short": "to [run] out of {sth}",
+          "long": "to finish all of something and not have anymore",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "untuk [lari] dari {sth}",
+          "long": "untuk menyelesaikan semua sesuatu dan tidak ada lagi",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/357196.jpeg",
+      "simplified": "耗尽某物",
+      "traditional": "耗盡某物",
+      "pinyin": "hàojìn mǒuwù"
+    },
+    {
+      "id": 384982,
+      "translation": {
+        "en": {
+          "short": "automated teller machine",
+          "long": "a machine that allows customers to perform financial transactions such as withdrawals, deposits, transfers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anjungan Tunai Mandiri",
+          "long": "Mesin yang memungkinkan pelanggan untuk melakukan transaksi keuangan seperti penarikan, setoran, transfer, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384982.jpeg",
+      "simplified": "自动取款机",
+      "traditional": "自動取款機",
+      "pinyin": "zìdòng qǔ kuǎn jī"
+    },
+    {
+      "id": 404713,
+      "translation": {
+        "en": {
+          "short": "refund",
+          "long": "an amount of money that is paid back because of returning goods to a store or one is not satisfied with the goods or services",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengembalian dana",
+          "long": "Sejumlah uang yang dibayar kembali karena mengembalikan barang ke toko atau yang tidak puas dengan barang atau jasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/404713.jpeg",
+      "simplified": "退款",
+      "traditional": "退款",
+      "pinyin": "tuìkuǎn"
+    }
+  ]
+}

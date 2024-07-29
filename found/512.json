@@ -1,0 +1,507 @@
+{
+  "id": 512,
+  "title": {
+    "en": "Food",
+    "id": "Makanan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about food, such as \"taste\", \"leftovers\", and \"beef\", prepared for A2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang makanan, seperti \"rasa\", \"sisa\", dan \"daging sapi\", disiapkan untuk pelajar A2."
+  },
+  "cards": [
+    {
+      "id": 235982,
+      "translation": {
+        "en": {
+          "short": "to taste",
+          "long": "to have a specific flavor",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merasakan",
+          "long": "untuk memiliki rasa tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235982.jpeg",
+      "simplified": "去尝尝",
+      "traditional": "去嚐嚐",
+      "pinyin": "qù cháng cháng"
+    },
+    {
+      "id": 221255,
+      "translation": {
+        "en": {
+          "short": "pork",
+          "long": "meat from a pig, eaten as food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "babi",
+          "long": "daging dari babi, dimakan sebagai makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221255.jpeg",
+      "simplified": "猪肉",
+      "traditional": "豬肉",
+      "pinyin": "zhūròu"
+    },
+    {
+      "id": 221254,
+      "translation": {
+        "en": {
+          "short": "beef",
+          "long": "meat that is from a cow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daging sapi",
+          "long": "daging yang berasal dari seekor sapi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221254.jpeg",
+      "simplified": "牛肉",
+      "traditional": "牛肉",
+      "pinyin": "niúròu"
+    },
+    {
+      "id": 221256,
+      "translation": {
+        "en": {
+          "short": "lamb",
+          "long": "meat that is from a young sheep",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "domba",
+          "long": "daging yang berasal dari seekor domba muda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221256.jpeg",
+      "simplified": "羊肉",
+      "traditional": "羊肉",
+      "pinyin": "yángròu"
+    },
+    {
+      "id": 221239,
+      "translation": {
+        "en": {
+          "short": "tuna",
+          "long": "the meat of a large fish named tuna that lives in warm waters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tuna",
+          "long": "Daging ikan besar bernama tuna yang hidup di perairan hangat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221239.jpeg",
+      "simplified": "金枪鱼",
+      "traditional": "鮪魚",
+      "pinyin": "jīnqiāng yú"
+    },
+    {
+      "id": 221240,
+      "translation": {
+        "en": {
+          "short": "omelet",
+          "long": "a dish that consists of eggs mixed together and cooked in a frying pan",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "telur dadar",
+          "long": "Hidangan yang terdiri dari telur dicampur dan dimasak dalam wajan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221240.jpeg",
+      "simplified": "炒蛋",
+      "traditional": "炒蛋",
+      "pinyin": "chǎodàn"
+    },
+    {
+      "id": 221241,
+      "translation": {
+        "en": {
+          "short": "cookbook",
+          "long": "a book that explains how a dish is cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "buku masak",
+          "long": "sebuah buku yang menjelaskan bagaimana hidangan dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221241.jpeg",
+      "simplified": "食谱",
+      "traditional": "食譜",
+      "pinyin": "shípǔ"
+    },
+    {
+      "id": 221242,
+      "translation": {
+        "en": {
+          "short": "grocery",
+          "long": "(typically plural) food and other items, typically household goods, that we buy at a supermarket such as eggs, flour, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kebutuhan sehari-hari",
+          "long": "Makanan (biasanya jamak) dan barang -barang lainnya, biasanya barang -barang rumah tangga, yang kami beli di supermarket seperti telur, tepung, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221242.jpeg",
+      "simplified": "杂货店的东西",
+      "traditional": "雜貨店的東西",
+      "pinyin": "záhuò diàn de dōngxī"
+    },
+    {
+      "id": 221243,
+      "translation": {
+        "en": {
+          "short": "tip",
+          "long": "the additional money we give someone such as a waiter, driver, etc. to thank them for the services they have given us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tip",
+          "long": "Uang tambahan yang kami berikan kepada seseorang seperti pelayan, pengemudi, dll. Untuk berterima kasih kepada mereka atas layanan yang telah mereka berikan kepada kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221243.jpeg",
+      "simplified": "小费",
+      "traditional": "小費",
+      "pinyin": "xiǎofèi"
+    },
+    {
+      "id": 221245,
+      "translation": {
+        "en": {
+          "short": "rest",
+          "long": "a part of something that is left",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "istirahat",
+          "long": "bagian dari sesuatu yang tersisa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221245.jpeg",
+      "simplified": "残羹剩饭",
+      "traditional": "殘羹剩飯",
+      "pinyin": "cángēng shèng fàn"
+    },
+    {
+      "id": 221246,
+      "translation": {
+        "en": {
+          "short": "leftovers",
+          "long": "the amount of food that remains uneaten after a meal and is typically saved for later consumption",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sisa",
+          "long": "Jumlah makanan yang tetap tidak dimakan setelah makan dan biasanya disimpan untuk konsumsi nanti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221246.jpeg",
+      "simplified": "残羹剩饭",
+      "traditional": "殘羹剩飯",
+      "pinyin": "cángēng shèng fàn"
+    },
+    {
+      "id": 221247,
+      "translation": {
+        "en": {
+          "short": "steak",
+          "long": "a large piece of meat or fish cut into thick slices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daging panggang",
+          "long": "Sepotong besar daging atau ikan yang dipotong menjadi irisan tebal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221247.jpeg",
+      "simplified": "牛排",
+      "traditional": "牛排",
+      "pinyin": "niúpái"
+    },
+    {
+      "id": 221249,
+      "translation": {
+        "en": {
+          "short": "well-done",
+          "long": "(of meat) completely cooked in a way that there is not any pink flesh inside",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bagus sekali",
+          "long": "(daging) benar -benar dimasak sedemikian rupa sehingga tidak ada daging merah muda di dalamnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221249.jpeg",
+      "simplified": "完全煮熟",
+      "traditional": "完全煮熟",
+      "pinyin": "wánquán zhǔshóu"
+    },
+    {
+      "id": 221250,
+      "translation": {
+        "en": {
+          "short": "medium",
+          "long": "(of meat) cooked in a way that there is only a small amount of pink flesh inside",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sedang",
+          "long": "(daging) dimasak sedemikian rupa sehingga hanya ada sedikit daging merah muda di dalamnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221250.jpeg",
+      "simplified": "半熟",
+      "traditional": "半熟",
+      "pinyin": "bàn shú"
+    },
+    {
+      "id": 221251,
+      "translation": {
+        "en": {
+          "short": "rare",
+          "long": "(of meat) cooked for a short time in a way that the flesh is still red inside",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "langka",
+          "long": "(daging) dimasak untuk waktu yang singkat dengan cara yang dagingnya masih merah di dalam",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221251.jpeg",
+      "simplified": "生",
+      "traditional": "生",
+      "pinyin": "shēng"
+    },
+    {
+      "id": 221248,
+      "translation": {
+        "en": {
+          "short": "watery",
+          "long": "having too much water and little taste",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "berair",
+          "long": "memiliki terlalu banyak air dan sedikit rasa",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221248.jpeg",
+      "simplified": "水汪汪的",
+      "traditional": "水汪汪的",
+      "pinyin": "shuǐwāng wāng de"
+    },
+    {
+      "id": 221262,
+      "translation": {
+        "en": {
+          "short": "spicy",
+          "long": "having a strong taste that gives your mouth a pleasant burning feeling",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pedas",
+          "long": "memiliki selera yang kuat yang memberi mulut Anda perasaan yang membara yang menyenangkan",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221262.jpeg",
+      "simplified": "辛辣的",
+      "traditional": "辛辣的",
+      "pinyin": "xīnlà de"
+    },
+    {
+      "id": 235983,
+      "translation": {
+        "en": {
+          "short": "bitter",
+          "long": "having a strong taste that is unpleasant and not sweet",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "pahit",
+          "long": "memiliki rasa yang kuat yang tidak menyenangkan dan tidak manis",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/235983.jpeg",
+      "simplified": "苦的",
+      "traditional": "苦的",
+      "pinyin": "kǔ de"
+    },
+    {
+      "id": 221252,
+      "translation": {
+        "en": {
+          "short": "vegetarian",
+          "long": "someone who avoids eating meat or fish",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "vegetarian",
+          "long": "seseorang yang menghindari makan daging atau ikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221252.jpeg",
+      "simplified": "素食者",
+      "traditional": "素食者",
+      "pinyin": "sùshí zhě"
+    },
+    {
+      "id": 221253,
+      "translation": {
+        "en": {
+          "short": "vegan",
+          "long": "someone who does not consume or use anything that is produced from animals, such as meat, milk, or eggs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Vegan",
+          "long": "seseorang yang tidak mengkonsumsi atau menggunakan apa pun yang dihasilkan dari hewan, seperti daging, susu, atau telur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221253.jpeg",
+      "simplified": "素食主义者",
+      "traditional": "素食主義者",
+      "pinyin": "sùshí zhǔ yì zhě"
+    },
+    {
+      "id": 221257,
+      "translation": {
+        "en": {
+          "short": "broccoli",
+          "long": "a vegetable from the cabbage family with a thick stem and a compact head of dense florets that are usually green in color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Brokoli",
+          "long": "Sayuran dari keluarga kol dengan batang tebal dan kepala kempa padat yang biasanya berwarna hijau",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221257.jpeg",
+      "simplified": "花椰菜",
+      "traditional": "花椰菜",
+      "pinyin": "huāyē cài"
+    },
+    {
+      "id": 221258,
+      "translation": {
+        "en": {
+          "short": "celery",
+          "long": "a green vegetable that people eat raw or use in cooking",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seledri",
+          "long": "sayuran hijau yang orang makan mentah atau digunakan dalam memasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221258.jpeg",
+      "simplified": "芹菜",
+      "traditional": "芹菜",
+      "pinyin": "qíncài"
+    },
+    {
+      "id": 221259,
+      "translation": {
+        "en": {
+          "short": "eggplant",
+          "long": "a vegetable with dark purple skin, which is eaten cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "terong",
+          "long": "sayuran dengan kulit ungu gelap, yang dimakan dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221259.jpeg",
+      "simplified": "茄子",
+      "traditional": "茄子",
+      "pinyin": "qiézi"
+    },
+    {
+      "id": 221260,
+      "translation": {
+        "en": {
+          "short": "cabbage",
+          "long": "a large round vegetable with thick white, green or purple leaves, eaten raw or cooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kubis",
+          "long": "Sayuran bundar besar dengan daun putih tebal, hijau atau ungu, dimakan mentah atau dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221260.jpeg",
+      "simplified": "卷心菜",
+      "traditional": "高麗菜",
+      "pinyin": "juǎnxīn cài"
+    },
+    {
+      "id": 221261,
+      "translation": {
+        "en": {
+          "short": "spinach",
+          "long": "dark and wide green leaves of an Asian plant that can be eaten cooked or uncooked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bayam",
+          "long": "Daun hijau gelap dan lebar dari tanaman Asia yang bisa dimakan dimasak atau tidak dimasak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221261.jpeg",
+      "simplified": "菠菜",
+      "traditional": "菠菜",
+      "pinyin": "bōcài"
+    },
+    {
+      "id": 221244,
+      "translation": {
+        "en": {
+          "short": "to tip",
+          "long": "to give a small amount of money to a waiter, driver, etc. to thank them for their services",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memberi tip",
+          "long": "untuk memberikan sedikit uang kepada pelayan, pengemudi, dll. Untuk berterima kasih atas layanan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/221244.jpeg",
+      "simplified": "给小费",
+      "traditional": "給小費",
+      "pinyin": "gěi xiǎofèi"
+    }
+  ]
+}

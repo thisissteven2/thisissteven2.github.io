@@ -1,0 +1,659 @@
+{
+  "id": 924,
+  "title": {
+    "en": "Shopping",
+    "id": "Belanja"
+  },
+  "description": {
+    "en": "Here you will learn some English words about shopping, such as \"barcode\", \"boutique\", \"bargain\", etc. prepared for C1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang berbelanja, seperti \"barcode\", \"butik\", \"tawar -menawar\", dll. Disiapkan untuk pelajar C1."
+  },
+  "cards": [
+    {
+      "id": 240925,
+      "translation": {
+        "en": {
+          "short": "barcode",
+          "long": "a row of black and white lines printed on a product that contain information such as its price, readable only by a computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Barcode",
+          "long": "Sederetan garis hitam dan putih dicetak pada produk yang berisi informasi seperti harganya, hanya dapat dibaca oleh komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240925.jpeg",
+      "simplified": "产品条码",
+      "traditional": "產品條碼",
+      "pinyin": "chǎnpǐn tiáomǎ"
+    },
+    {
+      "id": 240950,
+      "translation": {
+        "en": {
+          "short": "price tag",
+          "long": "a label on an item that shows how much it costs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "label harga",
+          "long": "label pada item yang menunjukkan berapa biayanya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240950.jpeg",
+      "simplified": "价格标签",
+      "traditional": "價格標籤",
+      "pinyin": "jiàgé biāo qiān"
+    },
+    {
+      "id": 240929,
+      "translation": {
+        "en": {
+          "short": "boutique",
+          "long": "a small store in which fashionable clothes or accessories are sold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "butik",
+          "long": "Toko kecil di mana pakaian atau aksesori modis dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240929.jpeg",
+      "simplified": "精品店",
+      "traditional": "精品店",
+      "pinyin": "jīngpǐn diàn"
+    },
+    {
+      "id": 240963,
+      "translation": {
+        "en": {
+          "short": "dressing room",
+          "long": "a room in a clothing store where people can try on items of clothing before buying them",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruang ganti",
+          "long": "Kamar di toko pakaian tempat orang dapat mencoba barang -barang pakaian sebelum membelinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240963.jpeg",
+      "simplified": "更衣室",
+      "traditional": "更衣室",
+      "pinyin": "gēngyī shì"
+    },
+    {
+      "id": 240955,
+      "translation": {
+        "en": {
+          "short": "rack",
+          "long": "a shelf or frame with hooks or bars, etc. on which things can be put or hung",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rak",
+          "long": "rak atau bingkai dengan kait atau batang, dll. Di mana hal -hal yang dapat diletakkan atau digantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240955.jpeg",
+      "simplified": "架",
+      "traditional": "架",
+      "pinyin": "jià"
+    },
+    {
+      "id": 240931,
+      "translation": {
+        "en": {
+          "short": "cash-back",
+          "long": "money that a person can get in cash when buying something from a store with their debit card, which is then added to the bill they are paying",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uang kembali",
+          "long": "Uang yang bisa dimiliki seseorang saat membeli sesuatu dari toko dengan kartu debit mereka, yang kemudian ditambahkan ke tagihan yang mereka bayar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240931.jpeg",
+      "simplified": "返现",
+      "traditional": "返現",
+      "pinyin": "fǎnxiàn"
+    },
+    {
+      "id": 240932,
+      "translation": {
+        "en": {
+          "short": "register",
+          "long": "a machine used in restaurants, stores, etc. in which the received money is kept and each transaction is recorded",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daftar",
+          "long": "Mesin yang digunakan di restoran, toko, dll. Di mana uang yang diterima disimpan dan setiap transaksi dicatat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240932.jpeg",
+      "simplified": "寄存器",
+      "traditional": "寄存器",
+      "pinyin": "jìcún qì"
+    },
+    {
+      "id": 240959,
+      "translation": {
+        "en": {
+          "short": "safe",
+          "long": "a strong durable box that has a complex lock, in which people keep their valuable items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "aman",
+          "long": "Kotak tahan lama yang kuat yang memiliki kunci yang kompleks, di mana orang menyimpan barang -barang berharga mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240959.jpeg",
+      "simplified": "保险箱",
+      "traditional": "保險箱",
+      "pinyin": "bǎoxiǎn xiāng"
+    },
+    {
+      "id": 240933,
+      "translation": {
+        "en": {
+          "short": "closed-circuit television",
+          "long": "a system in which a number of cameras send their feed to television sets to protect a place and its occupants from crime",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "televisi sirkuit tertutup",
+          "long": "Suatu sistem di mana sejumlah kamera mengirim feed mereka ke televisi untuk melindungi tempat dan penghuninya dari kejahatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240933.jpeg",
+      "simplified": "闭路摄像机",
+      "traditional": "閉路攝像機",
+      "pinyin": "bì Lù shèxiàng jī"
+    },
+    {
+      "id": 240926,
+      "translation": {
+        "en": {
+          "short": "to bargain",
+          "long": "to negotiate the terms of a contract, sale, or similar arrangement for a better agreement, price, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menawar",
+          "long": "Untuk menegosiasikan ketentuan kontrak, penjualan, atau pengaturan serupa untuk kesepakatan yang lebih baik, harga, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240926.jpeg",
+      "simplified": "讨价还价",
+      "traditional": "討價還價",
+      "pinyin": "tǎojià huán jià"
+    },
+    {
+      "id": 240928,
+      "translation": {
+        "en": {
+          "short": "to barter",
+          "long": "to exchange goods or services without using money",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk barter",
+          "long": "untuk bertukar barang atau jasa tanpa menggunakan uang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240928.jpeg",
+      "simplified": "物物交换",
+      "traditional": "物物交換",
+      "pinyin": "wùwù jiāo huàn"
+    },
+    {
+      "id": 240930,
+      "translation": {
+        "en": {
+          "short": "to browse",
+          "long": "to casually look at different products in a store with no intention of making a purchase",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menelusuri",
+          "long": "untuk dengan santai melihat berbagai produk di toko tanpa niat melakukan pembelian",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240930.jpeg",
+      "simplified": "逛商店而不买任何东西",
+      "traditional": "逛商店而不買任何東西",
+      "pinyin": "guàng shāngdiàn ér bù mǎi rènhé dōngxī"
+    },
+    {
+      "id": 240935,
+      "translation": {
+        "en": {
+          "short": "to comparison-shop",
+          "long": "to visit different stores to compare the price of a particular product or products before buying",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke perbandingan-shop",
+          "long": "untuk mengunjungi toko yang berbeda untuk membandingkan harga produk atau produk tertentu sebelum membeli",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240935.jpeg",
+      "simplified": "比较价格",
+      "traditional": "比較價格",
+      "pinyin": "bǐjiào jiàgé"
+    },
+    {
+      "id": 240956,
+      "translation": {
+        "en": {
+          "short": "to retail",
+          "long": "to sell small quantities of goods directly to customers",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk ritel",
+          "long": "untuk menjual sejumlah kecil barang langsung ke pelanggan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240956.jpeg",
+      "simplified": "零售",
+      "traditional": "零售",
+      "pinyin": "língshòu"
+    },
+    {
+      "id": 240957,
+      "translation": {
+        "en": {
+          "short": "to wholesale",
+          "long": "to sell products in large quantities at lower prices to other stores, rather than to the public directly",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk grosir",
+          "long": "untuk menjual produk dalam jumlah besar dengan harga lebih murah ke toko lain, bukan ke publik secara langsung",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240957.jpeg",
+      "simplified": "批发",
+      "traditional": "批發",
+      "pinyin": "pīfā"
+    },
+    {
+      "id": 240972,
+      "translation": {
+        "en": {
+          "short": "to sell out",
+          "long": "(of an event) to completely sell all available tickets, seats, leaving none remaining for further purchase",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjual",
+          "long": "(dari suatu acara) untuk sepenuhnya menjual semua tiket yang tersedia, kursi, tidak ada yang tersisa untuk pembelian lebih lanjut",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240972.jpeg",
+      "simplified": "出卖",
+      "traditional": "出賣",
+      "pinyin": "chūmài"
+    },
+    {
+      "id": 240934,
+      "translation": {
+        "en": {
+          "short": "chain store",
+          "long": "one of a series of stores that are all owned by the same company or person",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko rantai",
+          "long": "salah satu dari serangkaian toko yang semuanya dimiliki oleh perusahaan atau orang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240934.jpeg",
+      "simplified": "连锁店",
+      "traditional": "連鎖店",
+      "pinyin": "liánsuǒ diàn"
+    },
+    {
+      "id": 240962,
+      "translation": {
+        "en": {
+          "short": "convenience store",
+          "long": "a store that sells food, publications, alcohol, etc., often open 24 hours every day",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko serba-ada",
+          "long": "Toko yang menjual makanan, publikasi, alkohol, dll., Seringkali buka 24 jam setiap hari",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240962.jpeg",
+      "simplified": "便利店",
+      "traditional": "便利商店",
+      "pinyin": "biànlì diàn"
+    },
+    {
+      "id": 240936,
+      "translation": {
+        "en": {
+          "short": "deli",
+          "long": "a store that sells cheese, cooked meat, and foreign food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deli",
+          "long": "toko yang menjual keju, daging yang dimasak, dan makanan asing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240936.jpeg",
+      "simplified": "熟食店",
+      "traditional": "熟食店",
+      "pinyin": "shúshí diàn"
+    },
+    {
+      "id": 240946,
+      "translation": {
+        "en": {
+          "short": "kiosk",
+          "long": "a small store with an open front selling newspapers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kios",
+          "long": "Toko kecil dengan front terbuka yang menjual koran, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240946.jpeg",
+      "simplified": "亭",
+      "traditional": "亭",
+      "pinyin": "tíng"
+    },
+    {
+      "id": 240948,
+      "translation": {
+        "en": {
+          "short": "outlet",
+          "long": "a store or organization where the products of a particular company are sold at a lower price",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko",
+          "long": "toko atau organisasi tempat produk dari perusahaan tertentu dijual dengan harga lebih murah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240948.jpeg",
+      "simplified": "出口",
+      "traditional": "出口",
+      "pinyin": "chūkǒu"
+    },
+    {
+      "id": 240944,
+      "translation": {
+        "en": {
+          "short": "florist",
+          "long": "a store that sells flowers and plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjual bunga",
+          "long": "toko yang menjual bunga dan tanaman",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240944.jpeg",
+      "simplified": "花店",
+      "traditional": "花店",
+      "pinyin": "huādiàn"
+    },
+    {
+      "id": 240945,
+      "translation": {
+        "en": {
+          "short": "grocer",
+          "long": "someone who sells food and other everyday products",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjual bahan makanan",
+          "long": "seseorang yang menjual makanan dan produk sehari -hari lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240945.jpeg",
+      "simplified": "杂货商",
+      "traditional": "雜貨商",
+      "pinyin": "záhuò shāng"
+    },
+    {
+      "id": 240954,
+      "translation": {
+        "en": {
+          "short": "stationer",
+          "long": "someone who sells writing materials, such as pens, pencils, paper, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat tulis",
+          "long": "Seseorang yang menjual bahan penulisan, seperti pena, pensil, kertas, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240954.jpeg",
+      "simplified": "文具商",
+      "traditional": "文具商",
+      "pinyin": "wénjù shāng"
+    },
+    {
+      "id": 241581,
+      "translation": {
+        "en": {
+          "short": "consumerism",
+          "long": "the idea or belief that personal well-being and happiness depend on the purchase of material goods",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "konsumerisme",
+          "long": "Gagasan atau keyakinan bahwa kesejahteraan dan kebahagiaan pribadi tergantung pada pembelian barang material",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241581.jpeg",
+      "simplified": "消费主义",
+      "traditional": "消費主義",
+      "pinyin": "xiāofèi zhǔyì"
+    },
+    {
+      "id": 240951,
+      "translation": {
+        "en": {
+          "short": "shopaholic",
+          "long": "someone who spends a lot of time shopping, often buying unnecessary things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gemar belanja",
+          "long": "seseorang yang menghabiskan banyak waktu berbelanja, sering membeli barang -barang yang tidak perlu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240951.jpeg",
+      "simplified": "购物狂",
+      "traditional": "購物狂",
+      "pinyin": "gòuwù kuáng"
+    },
+    {
+      "id": 240939,
+      "translation": {
+        "en": {
+          "short": "duty-free",
+          "long": "(of goods) able to be imported without paying tax on them",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bebas pajak",
+          "long": "(barang) dapat diimpor tanpa membayar pajak atasnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240939.jpeg",
+      "simplified": "免税",
+      "traditional": "免稅",
+      "pinyin": "miǎnshuì"
+    },
+    {
+      "id": 240960,
+      "translation": {
+        "en": {
+          "short": "transaction",
+          "long": "the general process of purchasing or selling something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "transaksi",
+          "long": "proses umum pembelian atau menjual sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240960.jpeg",
+      "simplified": "交易",
+      "traditional": "交易",
+      "pinyin": "jiāoyì"
+    },
+    {
+      "id": 240947,
+      "translation": {
+        "en": {
+          "short": "on sale",
+          "long": "available for purchase",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "di jual",
+          "long": "tersedia untuk pembelian",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240947.jpeg",
+      "simplified": "出售",
+      "traditional": "出售",
+      "pinyin": "chūshòu"
+    },
+    {
+      "id": 240949,
+      "translation": {
+        "en": {
+          "short": "pre-order",
+          "long": "an order placed before the product is available for sale",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesan terlebih dahulu",
+          "long": "pesanan yang dilakukan sebelum produk tersedia untuk dijual",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240949.jpeg",
+      "simplified": "预购",
+      "traditional": "預購",
+      "pinyin": "yùgòu"
+    },
+    {
+      "id": 240953,
+      "translation": {
+        "en": {
+          "short": "promotion",
+          "long": "the activity of drawing public attention to a service or product in order to help it sell more",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "promosi",
+          "long": "aktivitas menarik perhatian publik ke layanan atau produk untuk membantunya menjual lebih banyak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240953.jpeg",
+      "simplified": "做广告的东西",
+      "traditional": "做廣告的東西",
+      "pinyin": "zuò guǎnggào de dōngxī"
+    },
+    {
+      "id": 240961,
+      "translation": {
+        "en": {
+          "short": "voucher",
+          "long": "a digital code or a printed piece of paper that can be used instead of money when making a purchase or used to receive a discount",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "voucher",
+          "long": "kode digital atau selembar kertas cetak yang dapat digunakan sebagai pengganti uang saat melakukan pembelian atau digunakan untuk menerima diskon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240961.jpeg",
+      "simplified": "优惠券",
+      "traditional": "優惠券",
+      "pinyin": "yōuhuì quàn"
+    },
+    {
+      "id": 262668,
+      "translation": {
+        "en": {
+          "short": "half-price",
+          "long": "reduced to half the previous price of something",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "setengah harga",
+          "long": "dikurangi menjadi setengah dari harga sebelumnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262668.jpeg",
+      "simplified": "半价",
+      "traditional": "半價",
+      "pinyin": "bànjià"
+    },
+    {
+      "id": 266270,
+      "translation": {
+        "en": {
+          "short": "foot traffic",
+          "long": "the number of visitors or tourists to a shop or place during a specific period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lalu lintas pejalan kaki",
+          "long": "jumlah pengunjung atau wisatawan ke toko atau tempat selama periode tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/266270.jpeg",
+      "simplified": "人流量",
+      "traditional": "人流量",
+      "pinyin": "rénliú liáng"
+    }
+  ]
+}

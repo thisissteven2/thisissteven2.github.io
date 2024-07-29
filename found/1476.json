@@ -1,0 +1,906 @@
+{
+  "id": 1476,
+  "title": {
+    "en": "Making Clothes",
+    "id": "Membuat pakaian"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to making clothes such as \"thread\", \"trim\" and \"tailor\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan membuat pakaian seperti \"benang\", \"trim\" dan \"penjahit\"."
+  },
+  "cards": [
+    {
+      "id": 269226,
+      "translation": {
+        "en": {
+          "short": "dressmaker",
+          "long": "a person who creates custom-made clothing, specializing in the design and construction of dresses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penjahit",
+          "long": "Seseorang yang membuat pakaian buatan khusus, berspesialisasi dalam desain dan konstruksi gaun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269226.jpeg",
+      "simplified": "裁缝",
+      "traditional": "裁縫",
+      "pinyin": "cáiféng"
+    },
+    {
+      "id": 269227,
+      "translation": {
+        "en": {
+          "short": "dressmaker's model",
+          "long": "a three-dimensional model of the human body used by dressmakers and designers for fitting and designing clothing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Model penjahit",
+          "long": "Model tiga dimensi tubuh manusia yang digunakan oleh pembuat pakaian dan desainer untuk pas dan merancang pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269227.jpeg",
+      "simplified": "裁缝的模型",
+      "traditional": "裁縫的模型",
+      "pinyin": "cáiféng de móxíng"
+    },
+    {
+      "id": 269230,
+      "translation": {
+        "en": {
+          "short": "tailor",
+          "long": "a person whose job is making clothes, especially for men",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Penjahit",
+          "long": "seseorang yang pekerjaannya membuat pakaian, terutama untuk pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269230.jpeg",
+      "simplified": "裁缝",
+      "traditional": "裁縫",
+      "pinyin": "cáiféng"
+    },
+    {
+      "id": 269235,
+      "translation": {
+        "en": {
+          "short": "thread",
+          "long": "a thin strand of material, such as cotton, nylon, or silk, used for sewing or weaving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benang",
+          "long": "Untai bahan tipis, seperti kapas, nilon, atau sutra, digunakan untuk menjahit atau menenun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269235.jpeg",
+      "simplified": "线",
+      "traditional": "線",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 269240,
+      "translation": {
+        "en": {
+          "short": "pin",
+          "long": "a slender, elongated object typically made of metal, that has a sharp point at one end and a flat or rounded head at the other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pin",
+          "long": "Objek ramping dan memanjang biasanya terbuat dari logam, yang memiliki titik tajam di satu ujung dan kepala datar atau bulat di ujung lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269240.jpeg",
+      "simplified": "销",
+      "traditional": "銷",
+      "pinyin": "xiāo"
+    },
+    {
+      "id": 269241,
+      "translation": {
+        "en": {
+          "short": "pincushion",
+          "long": "a small pad used to hold and store sewing pins and needles during sewing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bantalan",
+          "long": "Bantalan kecil digunakan untuk menahan dan menyimpan pin dan jarum jahit saat menjahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269241.jpeg",
+      "simplified": "枕形",
+      "traditional": "枕形",
+      "pinyin": "zhěn xíng"
+    },
+    {
+      "id": 269242,
+      "translation": {
+        "en": {
+          "short": "safety pin",
+          "long": "a type of pin that has a simple spring-loaded mechanism and is used to fasten or secure items temporarily",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pin pengaman",
+          "long": "Jenis pin yang memiliki mekanisme pegas sederhana dan digunakan untuk mengikat atau mengamankan item sementara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269242.jpeg",
+      "simplified": "安全别针",
+      "traditional": "安全別針",
+      "pinyin": "ānquán biézhēn"
+    },
+    {
+      "id": 269244,
+      "translation": {
+        "en": {
+          "short": "thimble",
+          "long": "a small protective cap worn on the finger to prevent injury while pushing a needle through fabric when sewing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bidal",
+          "long": "tutup pelindung kecil yang dikenakan di jari untuk mencegah cedera sambil mendorong jarum melalui kain saat menjahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269244.jpeg",
+      "simplified": "顶针",
+      "traditional": "頂針",
+      "pinyin": "dǐngzhēn"
+    },
+    {
+      "id": 269247,
+      "translation": {
+        "en": {
+          "short": "seam",
+          "long": "a line of stitching that joins two or more pieces of fabric together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lapisan",
+          "long": "garis jahitan yang bergabung dengan dua atau lebih kain atau lebih",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269247.jpeg",
+      "simplified": "诽",
+      "traditional": "誹",
+      "pinyin": "fěi"
+    },
+    {
+      "id": 269250,
+      "translation": {
+        "en": {
+          "short": "applique",
+          "long": "a decorative design made by cutting out and stitching a different piece of fabric or material onto a larger piece to create a pattern or picture",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "applique",
+          "long": "Desain dekoratif yang dibuat dengan memotong dan menjahit sepotong kain atau bahan yang berbeda ke bagian yang lebih besar untuk membuat pola atau gambar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269250.jpeg",
+      "simplified": "贴花",
+      "traditional": "貼花",
+      "pinyin": "tiēhuā"
+    },
+    {
+      "id": 269251,
+      "translation": {
+        "en": {
+          "short": "to applique",
+          "long": "to sew a decorative piece of fabric or material onto a larger piece of fabric",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk applique",
+          "long": "untuk menjahit sepotong kain atau bahan dekoratif ke atas kain yang lebih besar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269251.jpeg",
+      "simplified": "贴花",
+      "traditional": "貼花",
+      "pinyin": "tiēhuā"
+    },
+    {
+      "id": 269253,
+      "translation": {
+        "en": {
+          "short": "hook and eye",
+          "long": "a small metal fastener that is used to hold two pieces of material together, consisting of a hook that catches onto a small loop or eyelet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hook and Eye",
+          "long": "pengikat logam kecil yang digunakan untuk menyatukan dua potong bahan, terdiri dari kait yang menarik ke loop atau lubang kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269253.jpeg",
+      "simplified": "钩眼",
+      "traditional": "鉤眼",
+      "pinyin": "gōu yǎn"
+    },
+    {
+      "id": 269256,
+      "translation": {
+        "en": {
+          "short": "to trim",
+          "long": "to make something, like clothing, look better by adding decorative elements",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "Untuk membuat sesuatu, seperti pakaian, terlihat lebih baik dengan menambahkan elemen dekoratif",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269256.jpeg",
+      "simplified": "装饰",
+      "traditional": "裝飾",
+      "pinyin": "zhuāngshì"
+    },
+    {
+      "id": 269259,
+      "translation": {
+        "en": {
+          "short": "snap",
+          "long": "a small fastener made of two interlocking discs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "patah",
+          "long": "pengikat kecil yang terbuat dari dua cakram yang saling terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269259.jpeg",
+      "simplified": "谩骂",
+      "traditional": "謾罵",
+      "pinyin": "mànmà"
+    },
+    {
+      "id": 269262,
+      "translation": {
+        "en": {
+          "short": "fringe",
+          "long": "a decorative border made of hanging threads, cords, or strips, often used to embellish clothing or accessories",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinggir",
+          "long": "Perbatasan dekoratif yang terbuat dari benang gantung, kabel, atau strip, sering digunakan untuk memperindah pakaian atau aksesoris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269262.jpeg",
+      "simplified": "边缘",
+      "traditional": "邊緣",
+      "pinyin": "biānyuán"
+    },
+    {
+      "id": 269266,
+      "translation": {
+        "en": {
+          "short": "bead",
+          "long": "a small, round, decorative object made from various materials, pierced with a hole and sewn onto clothing or jewelry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titisan",
+          "long": "Objek dekoratif kecil, bundar, terbuat dari berbagai bahan, ditusuk dengan lubang dan dijahit ke pakaian atau perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269266.jpeg",
+      "simplified": "珠子",
+      "traditional": "珠子",
+      "pinyin": "zhūzi"
+    },
+    {
+      "id": 269268,
+      "translation": {
+        "en": {
+          "short": "to bead",
+          "long": "to string or decorate with beads",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk manik",
+          "long": "untuk merangkai atau mendekorasi dengan manik -manik",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269268.jpeg",
+      "simplified": "起泡",
+      "traditional": "起泡",
+      "pinyin": "qǐpào"
+    },
+    {
+      "id": 269270,
+      "translation": {
+        "en": {
+          "short": "to sew",
+          "long": "to create clothing by joining pieces of fabric together using a needle and thread",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menjahit",
+          "long": "untuk membuat pakaian dengan menyatukan potongan -potongan kain bersama -sama menggunakan jarum dan benang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269270.jpeg",
+      "simplified": "缝",
+      "traditional": "縫",
+      "pinyin": "féng"
+    },
+    {
+      "id": 269271,
+      "translation": {
+        "en": {
+          "short": "sewing machine",
+          "long": "a machine used to sew fabric and other materials together with thread",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin jahit",
+          "long": "mesin yang digunakan untuk menjahit kain dan bahan lainnya bersama -sama dengan benang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269271.jpeg",
+      "simplified": "缝纫机",
+      "traditional": "縫紉機",
+      "pinyin": "féngrèn jī"
+    },
+    {
+      "id": 269273,
+      "translation": {
+        "en": {
+          "short": "sewing needle",
+          "long": "a slender, pointed tool used for sewing fabrics and other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jarum jahit",
+          "long": "Alat ramping, runcing digunakan untuk kain jahit dan bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269273.jpeg",
+      "simplified": "缝纫针",
+      "traditional": "縫紉針",
+      "pinyin": "féngrèn zhēn"
+    },
+    {
+      "id": 269280,
+      "translation": {
+        "en": {
+          "short": "bobbin",
+          "long": "a small cylinder that holds thread, which is used in a sewing machine or a hand-held sewing tool",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelendong",
+          "long": "Silinder kecil yang menampung benang, yang digunakan dalam mesin jahit atau alat jahit genggam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269280.jpeg",
+      "simplified": "梭芯",
+      "traditional": "梭芯",
+      "pinyin": "suō xīn"
+    },
+    {
+      "id": 269281,
+      "translation": {
+        "en": {
+          "short": "velcro",
+          "long": "(trademark) a material with two different surfaces one of which sticks to the other by some small hooks, when pressed, used as a fastener",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "velcro",
+          "long": "(merek dagang) Bahan dengan dua permukaan berbeda yang salah satunya menempel pada yang lain oleh beberapa kait kecil, ketika ditekan, digunakan sebagai pengikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269281.jpeg",
+      "simplified": "尼龙搭扣",
+      "traditional": "尼龍搭扣",
+      "pinyin": "nílóng dā kòu"
+    },
+    {
+      "id": 269284,
+      "translation": {
+        "en": {
+          "short": "to velcro",
+          "long": "to attach something with velcro fasteners",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke velcro",
+          "long": "untuk memasang sesuatu dengan pengencang velcro",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269284.jpeg",
+      "simplified": "维可牢尼龙搭扣",
+      "traditional": "維可牢尼龍搭扣",
+      "pinyin": "Wéi kě láo nílóng dā kòu"
+    },
+    {
+      "id": 269285,
+      "translation": {
+        "en": {
+          "short": "running stitch",
+          "long": "a simple, straight stitch used for basic sewing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Menjalankan tusukan",
+          "long": "Jahitan sederhana dan lurus digunakan untuk menjahit dasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269285.jpeg",
+      "simplified": "行针",
+      "traditional": "行針",
+      "pinyin": "háng zhēn"
+    },
+    {
+      "id": 269291,
+      "translation": {
+        "en": {
+          "short": "to knit",
+          "long": "to create clothing, fabric, etc., typically from wool or thread, using a machine or a pair of long and thin needles",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merajut",
+          "long": "Untuk membuat pakaian, kain, dll., Biasanya dari wol atau benang, menggunakan mesin atau sepasang jarum panjang dan tipis",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269291.jpeg",
+      "simplified": "针织",
+      "traditional": "針織",
+      "pinyin": "zhēnzhī"
+    },
+    {
+      "id": 269292,
+      "translation": {
+        "en": {
+          "short": "knit",
+          "long": "a type of fabric construction where a single yarn is looped continuously to create interlocking rows of stitches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "merajut",
+          "long": "Jenis Konstruksi Kain di mana satu benang dililitkan terus menerus untuk membuat baris jahitan yang saling terkait",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269292.jpeg",
+      "simplified": "针织品",
+      "traditional": "針織品",
+      "pinyin": "zhēnzhī pǐn"
+    },
+    {
+      "id": 269294,
+      "translation": {
+        "en": {
+          "short": "knit stitch",
+          "long": "a basic stitch used in knitting where the working yarn is passed through a loop on the knitting needle, creating a new stitch",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jahitan rajut",
+          "long": "Jahitan dasar yang digunakan dalam rajutan di mana benang yang bekerja dilewatkan melalui lingkaran pada jarum rajut, membuat jahitan baru",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269294.jpeg",
+      "simplified": "针织针迹",
+      "traditional": "針織針跡",
+      "pinyin": "zhēnzhī zhēn jì"
+    },
+    {
+      "id": 269295,
+      "translation": {
+        "en": {
+          "short": "knitted",
+          "long": "describing something that has been made by interlocking loops of yarn with knitting needles",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rajutan",
+          "long": "menggambarkan sesuatu yang telah dibuat dengan mengunci loop benang dengan jarum rajut",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269295.jpeg",
+      "simplified": "针织的",
+      "traditional": "針織的",
+      "pinyin": "zhēnzhī de"
+    },
+    {
+      "id": 269301,
+      "translation": {
+        "en": {
+          "short": "presser foot",
+          "long": "a detachable sewing machine part used to hold fabric in place while sewing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kaki presser",
+          "long": "Bagian mesin jahit yang dapat dilepas digunakan untuk menahan kain di tempatnya saat menjahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269301.jpeg",
+      "simplified": "压脚",
+      "traditional": "壓腳",
+      "pinyin": "yā jiǎo"
+    },
+    {
+      "id": 269302,
+      "translation": {
+        "en": {
+          "short": "dummy",
+          "long": "a replica figure used for displaying or fitting clothes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "contoh",
+          "long": "Sosok replika yang digunakan untuk menampilkan atau memasang pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269302.jpeg",
+      "simplified": "假人",
+      "traditional": "假人",
+      "pinyin": "jiǎrén"
+    },
+    {
+      "id": 269437,
+      "translation": {
+        "en": {
+          "short": "garment worker",
+          "long": "a person who works in the clothing manufacturing industry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pekerja garmen",
+          "long": "seseorang yang bekerja di industri manufaktur pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269437.jpeg",
+      "simplified": "服装工人",
+      "traditional": "服裝工人",
+      "pinyin": "fúzhuāng gōngrén"
+    },
+    {
+      "id": 269729,
+      "translation": {
+        "en": {
+          "short": "bolt",
+          "long": "a roll of fabric or cloth that is typically sold in a store and can vary in length depending on the manufacturer or supplier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "gulungan kain atau kain yang biasanya dijual di toko dan dapat bervariasi panjangnya tergantung pada produsen atau pemasok",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269729.jpeg",
+      "simplified": "螺栓",
+      "traditional": "螺栓",
+      "pinyin": "luóshuān"
+    },
+    {
+      "id": 269731,
+      "translation": {
+        "en": {
+          "short": "feed dog",
+          "long": "a component of a sewing machine that moves the fabric under the needle during sewing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memberi makan anjing",
+          "long": "komponen mesin jahit yang menggerakkan kain di bawah jarum saat menjahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269731.jpeg",
+      "simplified": "喂狗",
+      "traditional": "餵狗",
+      "pinyin": "wéi gǒu"
+    },
+    {
+      "id": 269739,
+      "translation": {
+        "en": {
+          "short": "hook-and-loop fastener",
+          "long": "a type of fastening system consisting of hooks on one side and loops on the other, which adhere when pressed together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pengikat kait-dan-loop",
+          "long": "Jenis sistem pengikat yang terdiri dari kait di satu sisi dan loop di sisi lain, yang menempel saat ditekan bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269739.jpeg",
+      "simplified": "钩环紧固件",
+      "traditional": "鉤環緊固件",
+      "pinyin": "gōuhuán jǐn gùjiàn"
+    },
+    {
+      "id": 269741,
+      "translation": {
+        "en": {
+          "short": "needle plate",
+          "long": "the metal plate with holes through which the needle passes to create stitches in sewing machines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piring jarum",
+          "long": "pelat logam dengan lubang di mana jarum lewat untuk membuat jahitan di mesin jahit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269741.jpeg",
+      "simplified": "针板",
+      "traditional": "針板",
+      "pinyin": "zhēn bǎn"
+    },
+    {
+      "id": 270138,
+      "translation": {
+        "en": {
+          "short": "hand-knit",
+          "long": "knitted by hand, not machine-produced",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "rajutan tangan",
+          "long": "rajutan dengan tangan, bukan diproduksi mesin",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/270138.jpeg",
+      "simplified": "手工编织",
+      "traditional": "手工編織",
+      "pinyin": "shǒugōng biānzhī"
+    },
+    {
+      "id": 269776,
+      "translation": {
+        "en": {
+          "short": "straight pin",
+          "long": "a thin, pointed metal or plastic rod with a head on one end, used in sewing to hold fabric together temporarily",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jarum pentul",
+          "long": "Batang logam tipis, runcing atau plastik dengan kepala di salah satu ujungnya, digunakan dalam menjahit untuk menahan kain untuk sementara waktu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269776.jpeg",
+      "simplified": "直销",
+      "traditional": "直銷",
+      "pinyin": "zhíxiāo"
+    },
+    {
+      "id": 274400,
+      "translation": {
+        "en": {
+          "short": "knitting yarn",
+          "long": "yarn used for hand-knitting projects, typically made of various fibers and colors, and used with knitting needles or other tools to create knitted fabric",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Benang rajut",
+          "long": "Benang yang digunakan untuk proyek-proyek rajutan tangan, biasanya terbuat dari berbagai serat dan warna, dan digunakan dengan jarum rajut atau alat lain untuk membuat kain rajutan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274400.jpeg",
+      "simplified": "针织纱",
+      "traditional": "針織紗",
+      "pinyin": "zhēnzhī shā"
+    },
+    {
+      "id": 274402,
+      "translation": {
+        "en": {
+          "short": "knitting needle",
+          "long": "a long, thin, pointed tool used in knitting to hold stitches and manipulate yarn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jarum rajut",
+          "long": "Alat panjang, tipis, runcing digunakan dalam rajutan untuk menahan jahitan dan memanipulasi benang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274402.jpeg",
+      "simplified": "织针",
+      "traditional": "織針",
+      "pinyin": "zhī zhēn"
+    },
+    {
+      "id": 274404,
+      "translation": {
+        "en": {
+          "short": "rotary cutter",
+          "long": "a cutting tool with a circular blade that rotates, typically used in sewing, quilting, and other crafts to cut fabric or other materials with precision",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemotong putar",
+          "long": "Alat pemotongan dengan bilah melingkar yang berputar, biasanya digunakan dalam menjahit, merajut, dan kerajinan lainnya untuk memotong kain atau bahan lainnya dengan presisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274404.jpeg",
+      "simplified": "旋转切刀",
+      "traditional": "旋轉切刀",
+      "pinyin": "xuánzhuǎn qiēdāo"
+    },
+    {
+      "id": 269784,
+      "translation": {
+        "en": {
+          "short": "seam ripper",
+          "long": "a small tool used in sewing to remove stitches or seams, typically with a sharp blade and a pointed end for cutting and unpicking threads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jahitan ripper",
+          "long": "Alat kecil yang digunakan dalam menjahit untuk menghilangkan jahitan atau jahitan, biasanya dengan pisau tajam dan ujung runcing untuk memotong dan membongkar benang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269784.jpeg",
+      "simplified": "拆缝器",
+      "traditional": "拆縫器",
+      "pinyin": "chāi féng qì"
+    },
+    {
+      "id": 274541,
+      "translation": {
+        "en": {
+          "short": "sewing chalk",
+          "long": "a chalk-like tool used in sewing to mark fabric for cutting, sewing, or other adjustments",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jahit Kapur",
+          "long": "Alat seperti kapur yang digunakan dalam menjahit untuk menandai kain untuk memotong, menjahit, atau penyesuaian lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274541.jpeg",
+      "simplified": "缝纫粉笔",
+      "traditional": "縫紉粉筆",
+      "pinyin": "féngrèn fěnbǐ"
+    },
+    {
+      "id": 274542,
+      "translation": {
+        "en": {
+          "short": "sewing roulette",
+          "long": "a sewing tool with a wheel used to create patterns or markings on fabric",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jahit Roulette",
+          "long": "Alat menjahit dengan roda yang digunakan untuk membuat pola atau tanda pada kain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274542.jpeg",
+      "simplified": "缝纫轮盘赌",
+      "traditional": "縫紉輪盤賭",
+      "pinyin": "féngrèn lúnpán dǔ"
+    },
+    {
+      "id": 274543,
+      "translation": {
+        "en": {
+          "short": "pinking shears",
+          "long": "scissors with serrated blades used in sewing to create zigzag edges on fabric to prevent fraying",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shear merah muda",
+          "long": "Gunting dengan bilah bergerigi yang digunakan dalam menjahit untuk membuat tepi zigzag pada kain untuk mencegah keributan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274543.jpeg",
+      "simplified": "粉剪",
+      "traditional": "粉剪",
+      "pinyin": "fěn Jiǎn"
+    },
+    {
+      "id": 274544,
+      "translation": {
+        "en": {
+          "short": "bent scissors",
+          "long": "scissors with angled blades for cutting fabric, thread, or other materials at an ergonomic angle for improved comfort and precision",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gunting bengkok",
+          "long": "Gunting dengan bilah miring untuk memotong kain, benang, atau bahan lainnya pada sudut ergonomis untuk meningkatkan kenyamanan dan presisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274544.jpeg",
+      "simplified": "弯剪刀",
+      "traditional": "彎剪刀",
+      "pinyin": "wān jiǎndāo"
+    },
+    {
+      "id": 274545,
+      "translation": {
+        "en": {
+          "short": "tailor's scissors",
+          "long": "specialized scissors designed for cutting fabric, with long blades and sharp points for precise and clean cuts, often used by tailors and dressmakers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Gunting penjahit",
+          "long": "Gunting khusus yang dirancang untuk memotong kain, dengan bilah panjang dan titik tajam untuk potongan yang tepat dan bersih, sering digunakan oleh penjahit dan pembuat pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/274545.jpeg",
+      "simplified": "裁缝剪刀",
+      "traditional": "裁縫剪刀",
+      "pinyin": "cáiféng jiǎndāo"
+    },
+    {
+      "id": 339840,
+      "translation": {
+        "en": {
+          "short": "hand-knit",
+          "long": "an item of clothing that has been created using a technique of knitting by hand rather than by machine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rajutan tangan",
+          "long": "Item pakaian yang telah dibuat menggunakan teknik rajutan dengan tangan daripada dengan mesin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/339840.jpeg",
+      "simplified": "手工编织",
+      "traditional": "手工編織",
+      "pinyin": "shǒugōng biānzhī"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "id": 595,
+  "title": {
+    "en": "Jewelry",
+    "id": "Perhiasan"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to jewelry such as \"chain\", \"bangle\" and \"anklet\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang berkaitan dengan perhiasan seperti \"rantai\", \"bangle\" dan \"pergelangan kaki\"."
+  },
+  "cards": [
+    {
+      "id": 224810,
+      "translation": {
+        "en": {
+          "short": "amulet",
+          "long": "a piece of jewelry that some wear around their neck and consider as a form of protection against evil, disease, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jimat",
+          "long": "Sepotong perhiasan yang dikenakan beberapa orang di leher mereka dan dianggap sebagai bentuk perlindungan terhadap kejahatan, penyakit, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224810.jpeg",
+      "simplified": "护身符",
+      "traditional": "護身符",
+      "pinyin": "hùshēn fú"
+    },
+    {
+      "id": 224811,
+      "translation": {
+        "en": {
+          "short": "ankh",
+          "long": "an object or design similar to a cross with a loop on top, considered to be the sign of life in ancient Egypt",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ankh",
+          "long": "objek atau desain yang mirip dengan salib dengan loop di atas, dianggap sebagai tanda kehidupan di Mesir kuno",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224811.jpeg",
+      "simplified": "安赫",
+      "traditional": "安赫",
+      "pinyin": "An1 Hè"
+    },
+    {
+      "id": 224812,
+      "translation": {
+        "en": {
+          "short": "anklet",
+          "long": "a piece of jewelry that is worn around the ankle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelang kaki",
+          "long": "sepotong perhiasan yang dikenakan di sekitar pergelangan kaki",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224812.jpeg",
+      "simplified": "脚镣",
+      "traditional": "腳鐐",
+      "pinyin": "jiǎoliào"
+    },
+    {
+      "id": 224814,
+      "translation": {
+        "en": {
+          "short": "bangle",
+          "long": "a rigid piece of jewelry in a circular shape worn around the wrist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelang",
+          "long": "sepotong perhiasan yang kaku dalam bentuk melingkar yang dikenakan di sekitar pergelangan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224814.jpeg",
+      "simplified": "镯",
+      "traditional": "鐲",
+      "pinyin": "zhuó"
+    },
+    {
+      "id": 224815,
+      "translation": {
+        "en": {
+          "short": "bauble",
+          "long": "a showy piece of jewelry, low in artistic value or price",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "soal yg sepele",
+          "long": "sepotong perhiasan yang mencolok, nilai atau harga artistik rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224815.jpeg",
+      "simplified": "玩具",
+      "traditional": "玩具",
+      "pinyin": "wánjù"
+    },
+    {
+      "id": 224816,
+      "translation": {
+        "en": {
+          "short": "bead",
+          "long": "one of a series of small balls of wood, glass, etc. with a hole in the middle that a string can go through to make a rosary or necklace, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "titisan",
+          "long": "Salah satu serangkaian bola kayu kecil, kaca, dll. Dengan lubang di tengah yang dapat dilalui tali untuk membuat rosario atau kalung, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224816.jpeg",
+      "simplified": "珠子",
+      "traditional": "珠子",
+      "pinyin": "zhūzi"
+    },
+    {
+      "id": 224817,
+      "translation": {
+        "en": {
+          "short": "bling",
+          "long": "showy and shiny piece of jewelry or similar expensive accessory worn to attract attention",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Bling",
+          "long": "perhiasan yang mencolok dan mengkilap atau aksesori mahal serupa yang dikenakan untuk menarik perhatian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224817.jpeg",
+      "simplified": "金光闪闪",
+      "traditional": "金光閃閃",
+      "pinyin": "Jīn guāng shǎnshǎn"
+    },
+    {
+      "id": 224819,
+      "translation": {
+        "en": {
+          "short": "bracelet",
+          "long": "a decorative item, worn around the wrist or arm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelang",
+          "long": "barang dekoratif, dikenakan di sekitar pergelangan tangan atau lengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224819.jpeg",
+      "simplified": "手镯",
+      "traditional": "手鐲",
+      "pinyin": "shǒuzhuó"
+    },
+    {
+      "id": 224820,
+      "translation": {
+        "en": {
+          "short": "brooch",
+          "long": "a piece of jewelry that is pinned to the garment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bros",
+          "long": "sepotong perhiasan yang disematkan ke pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224820.jpeg",
+      "simplified": "胸针",
+      "traditional": "胸針",
+      "pinyin": "xiōngzhēn"
+    },
+    {
+      "id": 224821,
+      "translation": {
+        "en": {
+          "short": "cameo",
+          "long": "a piece of jewelry oval in shape with a portrait of a woman's head carved into a background with a different color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cameo",
+          "long": "Sepotong perhiasan berbentuk oval dengan potret kepala wanita yang diukir menjadi latar belakang dengan warna yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224821.jpeg",
+      "simplified": "具有凸起设计的物体或珠宝",
+      "traditional": "具有凸起設計的物體或珠寶",
+      "pinyin": "jùyǒu tūqǐ shèjì de wùtǐ huò zhūbǎo"
+    },
+    {
+      "id": 224822,
+      "translation": {
+        "en": {
+          "short": "chain",
+          "long": "a stylish necklace made of linked metal rings that is worn around the neck as jewelry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rantai",
+          "long": "Kalung bergaya yang terbuat dari cincin logam terkait yang dikenakan di sekitar leher sebagai perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224822.jpeg",
+      "simplified": "装饰链",
+      "traditional": "裝飾鏈",
+      "pinyin": "zhuāngshì liàn"
+    },
+    {
+      "id": 224823,
+      "translation": {
+        "en": {
+          "short": "charm",
+          "long": "a small object worn on a necklace or bracelet, mostly as a form of decoration, which some believe might bring good luck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pesona",
+          "long": "Objek kecil yang dikenakan di kalung atau gelang, sebagian besar sebagai bentuk dekorasi, yang beberapa orang percaya mungkin membawa keberuntungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224823.jpeg",
+      "simplified": "魅力",
+      "traditional": "魅力",
+      "pinyin": "mèilì"
+    },
+    {
+      "id": 224824,
+      "translation": {
+        "en": {
+          "short": "clasp",
+          "long": "a metal device such as a hook that is used to fasten a belt, piece of jewelry, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gesper",
+          "long": "Perangkat logam seperti kait yang digunakan untuk mengikat ikat pinggang, perhiasan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224824.jpeg",
+      "simplified": "抱住",
+      "traditional": "抱住",
+      "pinyin": "bào zhù"
+    },
+    {
+      "id": 224827,
+      "translation": {
+        "en": {
+          "short": "cufflink",
+          "long": "each of the pair of decorative buttons linked to a man's shirt cuff",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kancing manset",
+          "long": "Masing -masing sepasang kancing dekoratif yang dihubungkan dengan manset kemeja pria",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224827.jpeg",
+      "simplified": "袖扣",
+      "traditional": "袖扣",
+      "pinyin": "xiùkòu"
+    },
+    {
+      "id": 224829,
+      "translation": {
+        "en": {
+          "short": "earring",
+          "long": "a piece of jewelry worn on the ear",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "subang",
+          "long": "Sepotong perhiasan yang dikenakan di telinga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224829.jpeg",
+      "simplified": "耳环",
+      "traditional": "耳環",
+      "pinyin": "ěrhuán"
+    },
+    {
+      "id": 224831,
+      "translation": {
+        "en": {
+          "short": "engagement ring",
+          "long": "a ring that someone gives their partner after agreeing to marry each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin pertunangan",
+          "long": "cincin yang diberikan seseorang kepada pasangan mereka setelah setuju untuk menikah satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224831.jpeg",
+      "simplified": "订婚戒指",
+      "traditional": "訂婚戒指",
+      "pinyin": "dìnghūn jièzhi"
+    },
+    {
+      "id": 224833,
+      "translation": {
+        "en": {
+          "short": "gold",
+          "long": "a valuable yellow-colored metal that is used for making jewelry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "emas",
+          "long": "logam berwarna kuning berharga yang digunakan untuk membuat perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224833.jpeg",
+      "simplified": "金",
+      "traditional": "金",
+      "pinyin": "Jīn"
+    },
+    {
+      "id": 224834,
+      "translation": {
+        "en": {
+          "short": "hoop",
+          "long": "a circular earing made of metal or other material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "simpai",
+          "long": "telinga melingkar yang terbuat dari logam atau bahan lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224834.jpeg",
+      "simplified": "箍",
+      "traditional": "箍",
+      "pinyin": "gū"
+    },
+    {
+      "id": 267840,
+      "translation": {
+        "en": {
+          "short": "choker",
+          "long": "a close-fitting necklace or band worn around the neck",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seorang yg mencekik",
+          "long": "Kalung atau pita yang pas di leher",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/267840.jpeg",
+      "simplified": "项鍊",
+      "traditional": "項鍊",
+      "pinyin": "Xiàng liàn"
+    },
+    {
+      "id": 267841,
+      "translation": {
+        "en": {
+          "short": "band",
+          "long": "a narrow strip of material that can encircle, bind, or adorn various objects or parts of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita",
+          "long": "strip bahan sempit yang dapat melingkari, mengikat, atau menghiasi berbagai benda atau bagian tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/267841.jpeg",
+      "simplified": "带",
+      "traditional": "帶",
+      "pinyin": "dài"
+    },
+    {
+      "id": 267842,
+      "translation": {
+        "en": {
+          "short": "pin",
+          "long": "a small, decorative item designed to be attached to clothing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pin",
+          "long": "Barang kecil dan dekoratif yang dirancang untuk melekat pada pakaian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/267842.jpeg",
+      "simplified": "销",
+      "traditional": "銷",
+      "pinyin": "xiāo"
+    },
+    {
+      "id": 267845,
+      "translation": {
+        "en": {
+          "short": "nose ring",
+          "long": "a ring worn in a person's nose as decoration or put in an animal's nose to lead it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin hidung",
+          "long": "Cincin yang dikenakan di hidung seseorang sebagai dekorasi atau dimasukkan ke dalam hidung hewan untuk memimpinnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/267845.jpeg",
+      "simplified": "鼻环",
+      "traditional": "鼻環",
+      "pinyin": "bíhuán"
+    },
+    {
+      "id": 290094,
+      "translation": {
+        "en": {
+          "short": "toe ring",
+          "long": "a small ring worn on the toe, typically on the second or third toe, as a form of jewelry or adornment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin jari kaki",
+          "long": "Cincin kecil yang dikenakan di ujung kaki, biasanya pada kaki kedua atau ketiga, sebagai bentuk perhiasan atau perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/290094.jpeg",
+      "simplified": "趾环",
+      "traditional": "趾環",
+      "pinyin": "zhǐ Huán"
+    },
+    {
+      "id": 267857,
+      "translation": {
+        "en": {
+          "short": "clip-on earring",
+          "long": "an earring that clips onto the earlobe or other parts of the ear, without requiring piercing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Anting-anting klip-on",
+          "long": "Anting -anting yang klip ke daun telinga atau bagian lain dari telinga, tanpa memerlukan tindik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/267857.jpeg",
+      "simplified": "夹式耳环",
+      "traditional": "夾式耳環",
+      "pinyin": "jiā shì ěrhuán"
+    },
+    {
+      "id": 224838,
+      "translation": {
+        "en": {
+          "short": "karat",
+          "long": "a unit to measure the purity of gold, the purest gold being 24 karats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "karat",
+          "long": "unit untuk mengukur kemurnian emas, emas paling murni menjadi 24 karat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224838.jpeg",
+      "simplified": "开",
+      "traditional": "開",
+      "pinyin": "kāi"
+    },
+    {
+      "id": 224839,
+      "translation": {
+        "en": {
+          "short": "locket",
+          "long": "a small decorative case, usually made of valuable metal, which a memento can be kept inside and is worn around the neck on a chain or necklace",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liontin",
+          "long": "Kasing dekoratif kecil, biasanya terbuat dari logam berharga, yang dapat disimpan oleh kenang -kenangan di dalam dan dikenakan di sekitar leher di atas rantai atau kalung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224839.jpeg",
+      "simplified": "挂坠盒",
+      "traditional": "挂墜盒",
+      "pinyin": "guàzhuì hé"
+    },
+    {
+      "id": 224840,
+      "translation": {
+        "en": {
+          "short": "medallion",
+          "long": "a piece of jewelry that is round and flat, which is worn around the neck on a chain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "medali",
+          "long": "sepotong perhiasan yang bundar dan rata, yang dikenakan di leher di atas rantai",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224840.jpeg",
+      "simplified": "奖章",
+      "traditional": "獎章",
+      "pinyin": "jiǎngzhāng"
+    },
+    {
+      "id": 224841,
+      "translation": {
+        "en": {
+          "short": "necklace",
+          "long": "a piece of jewelry, consisting of a chain, string of beads, etc. worn around the neck as decoration",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kalung",
+          "long": "sepotong perhiasan, yang terdiri dari rantai, serangkaian manik -manik, dll. Dipakai di sekitar leher sebagai dekorasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224841.jpeg",
+      "simplified": "项链",
+      "traditional": "項鍊",
+      "pinyin": "xiàngliàn"
+    },
+    {
+      "id": 224857,
+      "translation": {
+        "en": {
+          "short": "trinket",
+          "long": "a small decorative object worn as jewelry that is not much valuable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perhiasan kecil",
+          "long": "Objek dekoratif kecil yang dikenakan sebagai perhiasan yang tidak terlalu berharga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224857.jpeg",
+      "simplified": "小饰品",
+      "traditional": "小飾品",
+      "pinyin": "xiǎo shìpǐn"
+    },
+    {
+      "id": 268085,
+      "translation": {
+        "en": {
+          "short": "wristlet",
+          "long": "a bracelet or bangle that is designed to be worn around the wrist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gelang",
+          "long": "gelang atau gelang yang dirancang untuk dikenakan di sekitar pergelangan tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/268085.jpeg",
+      "simplified": "镯子",
+      "traditional": "鐲子",
+      "pinyin": "zhuózi"
+    },
+    {
+      "id": 269475,
+      "translation": {
+        "en": {
+          "short": "jeweled headdress",
+          "long": "a decorative headpiece worn as a symbol of royalty or ceremonial significance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Headdress permata",
+          "long": "topi baja dekoratif yang dikenakan sebagai simbol royalti atau signifikansi upacara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269475.jpeg",
+      "simplified": "珠宝头饰",
+      "traditional": "珠寶頭飾",
+      "pinyin": "zhūbǎo tóushì"
+    },
+    {
+      "id": 269596,
+      "translation": {
+        "en": {
+          "short": "jeweler",
+          "long": "a person who buys, makes, repairs, or sells jewelry and watches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jauhari",
+          "long": "seseorang yang membeli, membuat, memperbaiki, atau menjual perhiasan dan jam tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269596.jpeg",
+      "simplified": "珠宝商",
+      "traditional": "珠寶商",
+      "pinyin": "zhūbǎo Shāng"
+    },
+    {
+      "id": 269597,
+      "translation": {
+        "en": {
+          "short": "jewelry store",
+          "long": "a retail business establishment that specializes in selling various types of jewelry",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "toko perhiasan",
+          "long": "Sebuah perusahaan ritel yang berspesialisasi dalam menjual berbagai jenis perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269597.jpeg",
+      "simplified": "首饰商店",
+      "traditional": "首飾商店",
+      "pinyin": "shǒushì shāngdiàn"
+    },
+    {
+      "id": 269787,
+      "translation": {
+        "en": {
+          "short": "pierced earring",
+          "long": "an earring worn by piercing the ear, typically made of metal, plastic, or other materials, used as jewelry or adornment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Anting -anting yang ditusuk",
+          "long": "Anting -anting yang dikenakan dengan menusuk telinga, biasanya terbuat dari logam, plastik, atau bahan lainnya, digunakan sebagai perhiasan atau perhiasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/269787.jpeg",
+      "simplified": "穿孔耳环",
+      "traditional": "穿孔耳環",
+      "pinyin": "chuānkǒng ěrhuán"
+    },
+    {
+      "id": 270141,
+      "translation": {
+        "en": {
+          "short": "jewelry maker",
+          "long": "a person or business that creates, designs, and produces jewelry pieces using various materials and techniques",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuat perhiasan",
+          "long": "seseorang atau bisnis yang menciptakan, merancang, dan menghasilkan perhiasan menggunakan berbagai bahan dan teknik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/270141.jpeg",
+      "simplified": "珠宝制造商",
+      "traditional": "珠寶製造商",
+      "pinyin": "zhūbǎo zhìzào shāng"
+    },
+    {
+      "id": 224846,
+      "translation": {
+        "en": {
+          "short": "piercing",
+          "long": "a piece of jewelry that is attached to a part of the body that has been pierced",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tajam",
+          "long": "sepotong perhiasan yang melekat pada bagian tubuh yang telah ditusuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224846.jpeg",
+      "simplified": "冲孔",
+      "traditional": "沖孔",
+      "pinyin": "chōng Kǒng"
+    },
+    {
+      "id": 224847,
+      "translation": {
+        "en": {
+          "short": "platinum",
+          "long": "a valuable silver-gray heavy metal that is highly unreactive and ductile, used in jewelry making, medicine and a range of other industries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "platinum",
+          "long": "Logam berat abu-abu perak yang berharga yang sangat tidak reaktif dan ulet, digunakan dalam pembuatan perhiasan, obat-obatan dan berbagai industri lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224847.jpeg",
+      "simplified": "铂",
+      "traditional": "鉑",
+      "pinyin": "bó"
+    },
+    {
+      "id": 224850,
+      "translation": {
+        "en": {
+          "short": "ring",
+          "long": "a small, round band of metal such as gold, silver, etc. that we wear on our finger, and is often decorated with precious stones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cincin",
+          "long": "sekelompok kecil logam bundar seperti emas, perak, dll. Yang kita pakai di jari kita, dan sering dihiasi dengan batu berharga",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224850.jpeg",
+      "simplified": "装饰环",
+      "traditional": "裝飾環",
+      "pinyin": "zhuāngshì Huán"
+    },
+    {
+      "id": 224853,
+      "translation": {
+        "en": {
+          "short": "silver",
+          "long": "a shiny grayish-white metal of high value that heat and electricity can move through it and is used in jewelry making, electronics, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perak",
+          "long": "Logam putih keabu-abuan yang berkilau bernilai tinggi yang dapat dipindahkan oleh panas dan listrik dan digunakan dalam pembuatan perhiasan, elektronik, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224853.jpeg",
+      "simplified": "银",
+      "traditional": "銀",
+      "pinyin": "yín"
+    }
+  ]
+}

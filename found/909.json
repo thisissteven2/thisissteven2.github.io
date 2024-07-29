@@ -1,0 +1,678 @@
+{
+  "id": 909,
+  "title": {
+    "en": "The Computer World",
+    "id": "Dunia komputer"
+  },
+  "description": {
+    "en": "Here you will learn some English words about the computer world, such as \"hardware\", \"input\", \"crash\", etc. that are needed for the TOEFL exam.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris tentang dunia komputer, seperti \"perangkat keras\", \"input\", \"crash\", dll. Yang diperlukan untuk ujian TOEFL."
+  },
+  "cards": [
+    {
+      "id": 240444,
+      "translation": {
+        "en": {
+          "short": "software",
+          "long": "the programs that a computer uses to perform specific tasks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat lunak",
+          "long": "Program yang digunakan komputer untuk melakukan tugas tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240444.jpeg",
+      "simplified": "软件",
+      "traditional": "軟體",
+      "pinyin": "ruǎnjiàn"
+    },
+    {
+      "id": 240445,
+      "translation": {
+        "en": {
+          "short": "hardware",
+          "long": "the physical and electronic parts of a computer or other similar system",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perangkat keras",
+          "long": "Bagian fisik dan elektronik komputer atau sistem serupa lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240445.jpeg",
+      "simplified": "系统硬件",
+      "traditional": "系統硬件",
+      "pinyin": "xìtǒng yìngjiàn"
+    },
+    {
+      "id": 240446,
+      "translation": {
+        "en": {
+          "short": "operating system",
+          "long": "the most fundamental software that manages a computer, cell phone, etc., hardware and provides a platform for running applications",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sistem operasi",
+          "long": "Perangkat lunak paling mendasar yang mengelola komputer, ponsel, dll., Perangkat keras dan menyediakan platform untuk menjalankan aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240446.jpeg",
+      "simplified": "操作系统",
+      "traditional": "作業系統",
+      "pinyin": "cāozuò xì tǒng"
+    },
+    {
+      "id": 240448,
+      "translation": {
+        "en": {
+          "short": "flash drive",
+          "long": "a small device used for storing data or transferring data between electronic devices",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Flash Drive",
+          "long": "Perangkat kecil yang digunakan untuk menyimpan data atau mentransfer data antar perangkat elektronik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240448.jpeg",
+      "simplified": "闪存盘",
+      "traditional": "隨身碟",
+      "pinyin": "shǎncún pán"
+    },
+    {
+      "id": 240449,
+      "translation": {
+        "en": {
+          "short": "to install",
+          "long": "to add a piece of software to a computer system",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memasang",
+          "long": "untuk menambahkan sepotong perangkat lunak ke sistem komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240449.jpeg",
+      "simplified": "安装",
+      "traditional": "安裝",
+      "pinyin": "ānzhuāng"
+    },
+    {
+      "id": 240450,
+      "translation": {
+        "en": {
+          "short": "input",
+          "long": "(computing) the act of inserting information into a computer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memasukkan",
+          "long": "(Komputasi) Tindakan memasukkan informasi ke dalam komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240450.jpeg",
+      "simplified": "输入",
+      "traditional": "輸入",
+      "pinyin": "shūrù"
+    },
+    {
+      "id": 240451,
+      "translation": {
+        "en": {
+          "short": "to load",
+          "long": "to move data or a program from a local storage device into the memory of a computer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memuat",
+          "long": "untuk memindahkan data atau program dari perangkat penyimpanan lokal ke dalam memori komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240451.jpeg",
+      "simplified": "加载",
+      "traditional": "載入",
+      "pinyin": "jiāzài"
+    },
+    {
+      "id": 240452,
+      "translation": {
+        "en": {
+          "short": "to refresh",
+          "long": "(computing) to update a display, internet page, etc. and make the most recent information appear",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menyegarkan",
+          "long": "(komputasi) Untuk memperbarui tampilan, halaman internet, dll. Dan membuat informasi terbaru muncul",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240452.jpeg",
+      "simplified": "提神",
+      "traditional": "提神",
+      "pinyin": "tíshén"
+    },
+    {
+      "id": 240453,
+      "translation": {
+        "en": {
+          "short": "server",
+          "long": "a computer that gives other computers access to files and information in a network",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "server",
+          "long": "komputer yang memberikan komputer akses ke file dan informasi dalam jaringan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240453.jpeg",
+      "simplified": "计算机服务器",
+      "traditional": "計算機服務器",
+      "pinyin": "jìsuàn jī fúwù qì"
+    },
+    {
+      "id": 240454,
+      "translation": {
+        "en": {
+          "short": "database",
+          "long": "a large structure of data stored in a computer that makes accessing necessary information easier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "database",
+          "long": "Struktur besar data yang disimpan di komputer yang membuat mengakses informasi yang diperlukan lebih mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240454.jpeg",
+      "simplified": "数据库",
+      "traditional": "資料庫",
+      "pinyin": "shùjù kù"
+    },
+    {
+      "id": 240455,
+      "translation": {
+        "en": {
+          "short": "desktop",
+          "long": "an area on a computer where the icons of programs are displayed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Desktop",
+          "long": "Area di komputer tempat ikon program ditampilkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240455.jpeg",
+      "simplified": "桌面",
+      "traditional": "桌面",
+      "pinyin": "zhuōmiàn"
+    },
+    {
+      "id": 240482,
+      "translation": {
+        "en": {
+          "short": "cursor",
+          "long": "a movable mark on a computer screen that indicates where the user is working",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kursor",
+          "long": "tanda yang dapat dipindahkan pada layar komputer yang menunjukkan di mana pengguna bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240482.jpeg",
+      "simplified": "鼠标光标",
+      "traditional": "鼠標光標",
+      "pinyin": "shǔbiāo guāngbiāo"
+    },
+    {
+      "id": 240457,
+      "translation": {
+        "en": {
+          "short": "to upgrade",
+          "long": "to improve a machine, computer system, etc. in terms of efficiency, standards, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk meningkatkan",
+          "long": "Untuk meningkatkan mesin, sistem komputer, dll. Dalam hal efisiensi, standar, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240457.jpeg",
+      "simplified": "升级一些东西",
+      "traditional": "升級一些東西",
+      "pinyin": "shēngjí yīxiē dōngxī"
+    },
+    {
+      "id": 240458,
+      "translation": {
+        "en": {
+          "short": "compatible",
+          "long": "having the ability to work with different devices, machines, etc.",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kompatibel",
+          "long": "Memiliki kemampuan untuk bekerja dengan perangkat yang berbeda, mesin, dll.",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240458.jpeg",
+      "simplified": "兼容的",
+      "traditional": "相容的",
+      "pinyin": "jiānróng de"
+    },
+    {
+      "id": 240459,
+      "translation": {
+        "en": {
+          "short": "to crash",
+          "long": "(computing) to suddenly stop working",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menabrak",
+          "long": "(komputasi) tiba -tiba berhenti bekerja",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240459.jpeg",
+      "simplified": "祸",
+      "traditional": "禍",
+      "pinyin": "huò"
+    },
+    {
+      "id": 240460,
+      "translation": {
+        "en": {
+          "short": "down",
+          "long": "(of a computer system) not working temporarily or properly",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "turun",
+          "long": "(dari sistem komputer) tidak berfungsi sementara atau benar",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240460.jpeg",
+      "simplified": "中止服务",
+      "traditional": "中止服務",
+      "pinyin": "zhōngzhǐ fúwù"
+    },
+    {
+      "id": 240461,
+      "translation": {
+        "en": {
+          "short": "to run",
+          "long": "(of computer programs) to function and execute its tasks",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlari",
+          "long": "(program komputer) untuk berfungsi dan menjalankan tugasnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240461.jpeg",
+      "simplified": "运行",
+      "traditional": "運行",
+      "pinyin": "yùnxíng"
+    },
+    {
+      "id": 240462,
+      "translation": {
+        "en": {
+          "short": "to scroll",
+          "long": "to move what is being displayed on a computer or smartphone screen up or down to see different parts of it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menggulir",
+          "long": "untuk memindahkan apa yang ditampilkan di komputer atau layar ponsel pintar ke atas atau ke bawah untuk melihat bagian yang berbeda dari itu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240462.jpeg",
+      "simplified": "向上或向下滚动",
+      "traditional": "向上或向下滾動",
+      "pinyin": "xiàngshàng huò xiàngxià gǔndòng"
+    },
+    {
+      "id": 240464,
+      "translation": {
+        "en": {
+          "short": "to cut",
+          "long": "to remove part of a digital text in order to put it elsewhere",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "untuk menghapus bagian dari teks digital untuk menempatkannya di tempat lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240464.jpeg",
+      "simplified": "切",
+      "traditional": "切",
+      "pinyin": "qiē"
+    },
+    {
+      "id": 240465,
+      "translation": {
+        "en": {
+          "short": "command",
+          "long": "an instruction that tells a computer to perform a specific task or function",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memerintah",
+          "long": "instruksi yang memberitahu komputer untuk melakukan tugas atau fungsi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240465.jpeg",
+      "simplified": "计算机命令",
+      "traditional": "計算機命令",
+      "pinyin": "jìsuàn jī mìnglìng"
+    },
+    {
+      "id": 240466,
+      "translation": {
+        "en": {
+          "short": "to code",
+          "long": "to write a computer program using specific instructions",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk kode",
+          "long": "untuk menulis program komputer menggunakan instruksi tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240466.jpeg",
+      "simplified": "计算机编码",
+      "traditional": "計算機編碼",
+      "pinyin": "jìsuàn jī biānmǎ"
+    },
+    {
+      "id": 240467,
+      "translation": {
+        "en": {
+          "short": "to computerize",
+          "long": "to use computers to perform a task or do a particular job",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengkomputerisasi",
+          "long": "untuk menggunakan komputer untuk melakukan tugas atau melakukan pekerjaan tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240467.jpeg",
+      "simplified": "计算机化",
+      "traditional": "計算機化",
+      "pinyin": "jìsuàn jī huā"
+    },
+    {
+      "id": 240468,
+      "translation": {
+        "en": {
+          "short": "to back up",
+          "long": "to make a copy of computer digital data",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk cadangan",
+          "long": "untuk membuat salinan data digital komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240468.jpeg",
+      "simplified": "进行备份",
+      "traditional": "進行備份",
+      "pinyin": "jìnxíng bèifèn"
+    },
+    {
+      "id": 240469,
+      "translation": {
+        "en": {
+          "short": "data processing",
+          "long": "a set of actions done on data by a computer to have a certain result",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengolahan data",
+          "long": "serangkaian tindakan yang dilakukan pada data oleh komputer untuk memiliki hasil tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240469.jpeg",
+      "simplified": "数据处理",
+      "traditional": "數據處理",
+      "pinyin": "shùjù chǔ lǐ"
+    },
+    {
+      "id": 240471,
+      "translation": {
+        "en": {
+          "short": "artificial intelligence",
+          "long": "a field of science that deals with creating programs able to learn or copy human behavior",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kecerdasan buatan",
+          "long": "bidang sains yang berurusan dengan menciptakan program yang dapat mempelajari atau menyalin perilaku manusia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240471.jpeg",
+      "simplified": "仿制",
+      "traditional": "仿製",
+      "pinyin": "fǎngzhì"
+    },
+    {
+      "id": 240472,
+      "translation": {
+        "en": {
+          "short": "firewall",
+          "long": "(computing) a computer program whose task is providing protection against cyber attacks by limiting outside access of data",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Firewall",
+          "long": "(Komputasi) Program komputer yang tugasnya memberikan perlindungan terhadap serangan cyber dengan membatasi akses data luar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240472.jpeg",
+      "simplified": "防火墙（计算机）",
+      "traditional": "防火牆（計算機）",
+      "pinyin": "fánghuǒ qiáng jìsuàn jī"
+    },
+    {
+      "id": 240481,
+      "translation": {
+        "en": {
+          "short": "antivirus",
+          "long": "having the ability to protect a system from viruses by finding and destroying them",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "anti Virus",
+          "long": "memiliki kemampuan untuk melindungi sistem dari virus dengan menemukan dan menghancurkannya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240481.jpeg",
+      "simplified": "防病毒软件",
+      "traditional": "防病毒軟件",
+      "pinyin": "fáng bìngdú ruǎnjiàn"
+    },
+    {
+      "id": 240474,
+      "translation": {
+        "en": {
+          "short": "machine learning",
+          "long": "a branch of artificial intelligence where computers learn how to perform specific operations without previous instructions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembelajaran mesin",
+          "long": "cabang kecerdasan buatan di mana komputer belajar bagaimana melakukan operasi tertentu tanpa instruksi sebelumnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240474.jpeg",
+      "simplified": "机器学习",
+      "traditional": "機器學習",
+      "pinyin": "jīqì xuéxí"
+    },
+    {
+      "id": 240475,
+      "translation": {
+        "en": {
+          "short": "programming",
+          "long": "the process of writing a computer program",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pemrograman",
+          "long": "Proses Menulis Program Komputer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240475.jpeg",
+      "simplified": "设计",
+      "traditional": "設計",
+      "pinyin": "shèjì"
+    },
+    {
+      "id": 240477,
+      "translation": {
+        "en": {
+          "short": "to process",
+          "long": "to handle and work with data by operating on them in a computer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "proses",
+          "long": "untuk menangani dan bekerja dengan data dengan mengoperasikannya di komputer",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240477.jpeg",
+      "simplified": "处理数据",
+      "traditional": "處理數據",
+      "pinyin": "chǔlǐ shùjù"
+    },
+    {
+      "id": 240478,
+      "translation": {
+        "en": {
+          "short": "virtual reality",
+          "long": "an artificial environment generated by a computer that makes the user think what they are seeing or hearing is real, by using a special headphone and a helmet that displays the generated environment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "realitas maya",
+          "long": "Lingkungan buatan yang dihasilkan oleh komputer yang membuat pengguna berpikir apa yang mereka lihat atau dengar itu nyata, dengan menggunakan headphone khusus dan helm yang menampilkan lingkungan yang dihasilkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240478.jpeg",
+      "simplified": "虚拟现实",
+      "traditional": "虛擬現實",
+      "pinyin": "xūnǐ xiàn shí"
+    },
+    {
+      "id": 240480,
+      "translation": {
+        "en": {
+          "short": "passcode",
+          "long": "a specific group of letters, numbers, etc. that one needs to enter in order to access a computer or smartphone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kode sandi",
+          "long": "sekelompok huruf, angka, dll. Yang perlu dimasukkan untuk mengakses komputer atau smartphone",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/240480.jpeg",
+      "simplified": "密码",
+      "traditional": "密碼",
+      "pinyin": "mìmǎ"
+    },
+    {
+      "id": 385802,
+      "translation": {
+        "en": {
+          "short": "application program",
+          "long": "a piece of software programed to perform a specific task",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "program aplikasi",
+          "long": "Sepotong perangkat lunak yang diprogram untuk melakukan tugas tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385802.jpeg",
+      "simplified": "应用程序",
+      "traditional": "應用程式",
+      "pinyin": "yìngyòng chéng xù"
+    },
+    {
+      "id": 385036,
+      "translation": {
+        "en": {
+          "short": "random-access memory",
+          "long": "a type of computer memory tasked with temporarily storing data for a quicker access",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memori akses acak",
+          "long": "Jenis memori komputer yang ditugaskan untuk menyimpan data sementara untuk akses yang lebih cepat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385036.jpeg",
+      "simplified": "随机存取存储器",
+      "traditional": "隨機存取存儲器",
+      "pinyin": "suíjī cún qǔ cún chǔ qì"
+    },
+    {
+      "id": 241693,
+      "translation": {
+        "en": {
+          "short": "developer",
+          "long": "someone or something that designs and produces applications, video games, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengembang",
+          "long": "seseorang atau sesuatu yang merancang dan menghasilkan aplikasi, video game, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/241693.jpeg",
+      "simplified": "开发人员",
+      "traditional": "開發人員",
+      "pinyin": "kāifā rén yuán"
+    }
+  ]
+}

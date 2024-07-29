@@ -1,0 +1,602 @@
+{
+  "id": 43,
+  "title": {
+    "en": "Travel",
+    "id": "Bepergian"
+  },
+  "description": {
+    "en": "Here you will learn some English words about travel, such as \"abroad\", \"sightseeing\", \"suite\", etc. that are needed for the IELTS exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perjalanan, seperti \"luar negeri\", \"tamasya\", \"suite\", dll. Yang diperlukan untuk ujian IELTS."
+  },
+  "cards": [
+    {
+      "id": 209382,
+      "translation": {
+        "en": {
+          "short": "abroad",
+          "long": "in or to a foreign country",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "luar negeri",
+          "long": "di atau ke negara asing",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209382.jpeg",
+      "simplified": "国外",
+      "traditional": "國外",
+      "pinyin": "guówài"
+    },
+    {
+      "id": 209383,
+      "translation": {
+        "en": {
+          "short": "adventure",
+          "long": "an exciting or unusual experience, often involving risk or physical activity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "petualangan",
+          "long": "pengalaman yang menarik atau tidak biasa, seringkali melibatkan risiko atau aktivitas fisik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209383.jpeg",
+      "simplified": "一次令人兴奋和难忘的经历",
+      "traditional": "一次令人興奮和難忘的經歷",
+      "pinyin": "yīcì lìngrén xīngfèn hé nánwàng de jīnglì"
+    },
+    {
+      "id": 209384,
+      "translation": {
+        "en": {
+          "short": "camping",
+          "long": "the activity of ‌living outdoors in a tent, camper, etc. on a vacation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berkemah",
+          "long": "aktivitas ‌living di luar ruangan di tenda, kemping, dll. Saat liburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209384.jpeg",
+      "simplified": "露营",
+      "traditional": "露營",
+      "pinyin": "lùyíng"
+    },
+    {
+      "id": 209385,
+      "translation": {
+        "en": {
+          "short": "tourism",
+          "long": "‌the business of providing accommodation, services and entertainment for people who are visiting a place for pleasure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pariwisata",
+          "long": "‌ Bisnis menyediakan akomodasi, layanan, dan hiburan bagi orang -orang yang mengunjungi tempat untuk kesenangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209385.jpeg",
+      "simplified": "旅游",
+      "traditional": "旅遊",
+      "pinyin": "lǚyóu"
+    },
+    {
+      "id": 209386,
+      "translation": {
+        "en": {
+          "short": "suitcase",
+          "long": "a case with a handle, used for carrying clothes, etc. when we are traveling",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "koper",
+          "long": "Kasing dengan pegangan, digunakan untuk membawa pakaian, dll. Saat kami bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209386.jpeg",
+      "simplified": "手提箱",
+      "traditional": "手提箱",
+      "pinyin": "shǒutí xiāng"
+    },
+    {
+      "id": 209387,
+      "translation": {
+        "en": {
+          "short": "souvenir",
+          "long": "something that we usually buy and bring back for other people from a place that we have visited on vacation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "suvenir",
+          "long": "sesuatu yang biasanya kami beli dan bawa kembali untuk orang lain dari tempat yang telah kami kunjungi saat liburan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209387.jpeg",
+      "simplified": "纪念品",
+      "traditional": "紀念品",
+      "pinyin": "jìniàn pǐn"
+    },
+    {
+      "id": 209388,
+      "translation": {
+        "en": {
+          "short": "sightseeing",
+          "long": "the activity of visiting interesting places in a particular location as a tourist",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melihat-lihat",
+          "long": "aktivitas mengunjungi tempat -tempat menarik di lokasi tertentu sebagai turis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209388.jpeg",
+      "simplified": "观光",
+      "traditional": "觀光",
+      "pinyin": "guānguāng"
+    },
+    {
+      "id": 209389,
+      "translation": {
+        "en": {
+          "short": "accommodation",
+          "long": "a place where people live, stay, or work in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "akomodasi",
+          "long": "tempat di mana orang tinggal, tinggal, atau bekerja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209389.jpeg",
+      "simplified": "住宿",
+      "traditional": "住宿",
+      "pinyin": "zhùsù"
+    },
+    {
+      "id": 209390,
+      "translation": {
+        "en": {
+          "short": "destination",
+          "long": "the place where someone or something is headed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tujuan",
+          "long": "tempat di mana seseorang atau sesuatu menuju",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209390.jpeg",
+      "simplified": "目的地",
+      "traditional": "目的地",
+      "pinyin": "mùdì dì"
+    },
+    {
+      "id": 209391,
+      "translation": {
+        "en": {
+          "short": "safari",
+          "long": "a journey, typically for observing and photographing wild animals in their natural habitat, especially in African countries",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "safari",
+          "long": "Perjalanan, biasanya untuk mengamati dan memotret hewan liar di habitat alami mereka, terutama di negara -negara Afrika",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209391.jpeg",
+      "simplified": "苹果浏览器",
+      "traditional": "蘋果瀏覽器",
+      "pinyin": "píngguǒ liúlǎn qì"
+    },
+    {
+      "id": 209392,
+      "translation": {
+        "en": {
+          "short": "theme park",
+          "long": "a large park, with machines and games that are all related to a single concept, designed for public entertainment",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Taman hiburan",
+          "long": "Taman besar, dengan mesin dan permainan yang semuanya terkait dengan satu konsep, yang dirancang untuk hiburan publik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209392.jpeg",
+      "simplified": "主题公园",
+      "traditional": "主題公園",
+      "pinyin": "zhǔtí gōngyuán"
+    },
+    {
+      "id": 209393,
+      "translation": {
+        "en": {
+          "short": "voyage",
+          "long": "a long journey taken on a ship or spacecraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "Perjalanan panjang yang dilakukan di atas kapal atau pesawat ruang angkasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209393.jpeg",
+      "simplified": "航程",
+      "traditional": "航程",
+      "pinyin": "hángchéng"
+    },
+    {
+      "id": 209394,
+      "translation": {
+        "en": {
+          "short": "travel agency",
+          "long": "a business that makes arrangements for people who want to travel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "agen Perjalanan",
+          "long": "bisnis yang membuat pengaturan untuk orang yang ingin bepergian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209394.jpeg",
+      "simplified": "旅行社",
+      "traditional": "旅行社",
+      "pinyin": "lǚxíng shè"
+    },
+    {
+      "id": 209395,
+      "translation": {
+        "en": {
+          "short": "package tour",
+          "long": "a vacation arranged by a travel agent or a company at a fixed price including the cost of transport, accommodations, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tur paket",
+          "long": "Liburan yang diatur oleh agen perjalanan atau perusahaan dengan harga tetap termasuk biaya transportasi, akomodasi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209395.jpeg",
+      "simplified": "旅行团",
+      "traditional": "旅行團",
+      "pinyin": "lǚxíng tuán"
+    },
+    {
+      "id": 224135,
+      "translation": {
+        "en": {
+          "short": "front desk",
+          "long": "a specific area in a building, like a hotel or office, where one checks in, gets help, or asks questions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resepsionis",
+          "long": "Area tertentu di gedung, seperti hotel atau kantor, di mana seseorang check -in, mendapat bantuan, atau mengajukan pertanyaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224135.jpeg",
+      "simplified": "前台",
+      "traditional": "前台",
+      "pinyin": "qiántái"
+    },
+    {
+      "id": 209396,
+      "translation": {
+        "en": {
+          "short": "all-inclusive",
+          "long": "including everyone or everything, particularly for a single price",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "semua termasuk",
+          "long": "termasuk semua orang atau segalanya, terutama dengan harga tunggal",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209396.jpeg",
+      "simplified": "综合的",
+      "traditional": "綜合的",
+      "pinyin": "zōnghé de"
+    },
+    {
+      "id": 209397,
+      "translation": {
+        "en": {
+          "short": "suite",
+          "long": "a series of rooms, particularly in a hotel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rangkaian",
+          "long": "serangkaian kamar, terutama di hotel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209397.jpeg",
+      "simplified": "酒店套房",
+      "traditional": "酒店套房",
+      "pinyin": "jiǔdiàn tàofáng"
+    },
+    {
+      "id": 224131,
+      "translation": {
+        "en": {
+          "short": "en suite",
+          "long": "a bathroom that is directly connected to a bedroom",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "en suite",
+          "long": "kamar mandi yang terhubung langsung ke kamar tidur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/224131.jpeg",
+      "simplified": "套房",
+      "traditional": "套房",
+      "pinyin": "tàofáng"
+    },
+    {
+      "id": 209398,
+      "translation": {
+        "en": {
+          "short": "vacationer",
+          "long": "a person who is on vacation or holiday, typically traveling away from home for leisure or relaxation",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "liburan",
+          "long": "Seseorang yang sedang berlibur atau liburan, biasanya bepergian jauh dari rumah untuk bersantai atau relaksasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209398.jpeg",
+      "simplified": "游客",
+      "traditional": "遊客",
+      "pinyin": "yóukè"
+    },
+    {
+      "id": 209399,
+      "translation": {
+        "en": {
+          "short": "housekeeper",
+          "long": "a person whose job is to do the cleaning and cooking in a house or hotel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengurus rumah",
+          "long": "Seseorang yang tugasnya melakukan pembersihan dan memasak di rumah atau hotel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209399.jpeg",
+      "simplified": "管家",
+      "traditional": "管家",
+      "pinyin": "guǎnjiā"
+    },
+    {
+      "id": 209400,
+      "translation": {
+        "en": {
+          "short": "cancelation",
+          "long": "the act of stopping a planned event from happening or an order for something from being completed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembatalan",
+          "long": "tindakan menghentikan peristiwa yang direncanakan terjadi atau pesanan untuk sesuatu yang tidak diselesaikan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209400.jpeg",
+      "simplified": "取消",
+      "traditional": "取消",
+      "pinyin": "qǔxiāo"
+    },
+    {
+      "id": 209401,
+      "translation": {
+        "en": {
+          "short": "itinerary",
+          "long": "a plan of the route and the places that one will visit on a journey",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rencana perjalanan",
+          "long": "rencana rute dan tempat -tempat yang akan dikunjungi seseorang dalam perjalanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209401.jpeg",
+      "simplified": "行程",
+      "traditional": "行程",
+      "pinyin": "xíngchéng"
+    },
+    {
+      "id": 209402,
+      "translation": {
+        "en": {
+          "short": "motel",
+          "long": "a hotel near the road suitable for people who are on a road trip, usually with rooms arranged in a row and parking places outside",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "motel",
+          "long": "Sebuah hotel di dekat jalan yang cocok untuk orang -orang yang sedang dalam perjalanan, biasanya dengan kamar yang diatur berturut -turut dan tempat parkir di luar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209402.jpeg",
+      "simplified": "汽车旅馆",
+      "traditional": "汽車旅館",
+      "pinyin": "qìchē lǚ guǎn"
+    },
+    {
+      "id": 209403,
+      "translation": {
+        "en": {
+          "short": "booking",
+          "long": "the arrangement made in advance to reserve a hotel room, ticket, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemesanan",
+          "long": "Pengaturan dibuat terlebih dahulu untuk memesan kamar hotel, tiket, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209403.jpeg",
+      "simplified": "预订",
+      "traditional": "預訂",
+      "pinyin": "yùdìng"
+    },
+    {
+      "id": 209404,
+      "translation": {
+        "en": {
+          "short": "checkout",
+          "long": "the time when a guest should leave a hotel room, pay the bills, and return the key",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Periksa",
+          "long": "Waktu ketika seorang tamu harus meninggalkan kamar hotel, membayar tagihan, dan mengembalikan kunci",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209404.jpeg",
+      "simplified": "从酒店退房",
+      "traditional": "從酒店退房",
+      "pinyin": "cóng jiǔdiàn tuìfáng"
+    },
+    {
+      "id": 209405,
+      "translation": {
+        "en": {
+          "short": "excursion",
+          "long": "a short trip taken for pleasure, particularly one arranged for a group of people",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tamasya",
+          "long": "Perjalanan singkat yang dilakukan untuk kesenangan, terutama yang diatur untuk sekelompok orang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209405.jpeg",
+      "simplified": "短暂的悠闲旅行",
+      "traditional": "短暫的悠閒旅行",
+      "pinyin": "duǎnzàn de yōuxián lǚxíng"
+    },
+    {
+      "id": 209406,
+      "translation": {
+        "en": {
+          "short": "to cruise",
+          "long": "to go on vacation by a ship or boat",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlayar",
+          "long": "untuk pergi berlibur dengan kapal atau kapal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209406.jpeg",
+      "simplified": "巡航",
+      "traditional": "巡航",
+      "pinyin": "xúnháng"
+    },
+    {
+      "id": 209407,
+      "translation": {
+        "en": {
+          "short": "resort",
+          "long": "an establishment that provides vacationers with lodging, food, entertainment, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "resor",
+          "long": "Sebuah tempat yang memberi para wisatawan dengan penginapan, makanan, hiburan, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209407.jpeg",
+      "simplified": "休闲住宿",
+      "traditional": "休閒住宿",
+      "pinyin": "xiūxián zhùsù"
+    },
+    {
+      "id": 209409,
+      "translation": {
+        "en": {
+          "short": "hostel",
+          "long": "a place or building that provides cheap food and accommodations for visitors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asrama",
+          "long": "tempat atau bangunan yang menyediakan makanan dan akomodasi murah bagi pengunjung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209409.jpeg",
+      "simplified": "宿舍住宿",
+      "traditional": "宿舍住宿",
+      "pinyin": "sùshè zhùsù"
+    },
+    {
+      "id": 209410,
+      "translation": {
+        "en": {
+          "short": "to unpack",
+          "long": "to open a suitcase, box, etc. and remove the objects inside",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membongkar",
+          "long": "Untuk membuka koper, kotak, dll. Dan lepaskan benda di dalamnya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209410.jpeg",
+      "simplified": "打包",
+      "traditional": "打包",
+      "pinyin": "dǎbāo"
+    },
+    {
+      "id": 209411,
+      "translation": {
+        "en": {
+          "short": "currency",
+          "long": "the type or system of money that is used by a country",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mata uang",
+          "long": "jenis atau sistem uang yang digunakan oleh suatu negara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/209411.jpeg",
+      "simplified": "货币",
+      "traditional": "貨幣",
+      "pinyin": "huòbì"
+    }
+  ]
+}

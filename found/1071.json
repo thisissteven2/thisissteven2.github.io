@@ -1,0 +1,773 @@
+{
+  "id": 1071,
+  "title": {
+    "en": "Anatomy of Human Body",
+    "id": "Anatomi Tubuh Manusia"
+  },
+  "description": {
+    "en": "Here you will learn some English words about anatomy, such as \"bowel\", \"diaphragm\", \"trachea\", etc. that are needed for the GRE exam.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang anatomi, seperti \"usus\", \"diafragma\", \"trakea\", dll. Yang diperlukan untuk ujian GRE."
+  },
+  "cards": [
+    {
+      "id": 247580,
+      "translation": {
+        "en": {
+          "short": "anatomy",
+          "long": "the branch of science that is concerned with the physical structure of humans, animals, or plants",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ilmu urai",
+          "long": "cabang sains yang berkaitan dengan struktur fisik manusia, hewan, atau tumbuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247580.jpeg",
+      "simplified": "解剖学",
+      "traditional": "解剖學",
+      "pinyin": "jiěpōu xué"
+    },
+    {
+      "id": 247554,
+      "translation": {
+        "en": {
+          "short": "torso",
+          "long": "the upper part of the human body, excluding the arms and the head",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batang tubuh",
+          "long": "Bagian atas tubuh manusia, tidak termasuk lengan dan kepala",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247554.jpeg",
+      "simplified": "躯干",
+      "traditional": "軀幹",
+      "pinyin": "qūgàn"
+    },
+    {
+      "id": 247555,
+      "translation": {
+        "en": {
+          "short": "vertebra",
+          "long": "(anatomy) any of the bony segments and cartilages of the spinal column",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ruas",
+          "long": "(Anatomi) Segmen dan tulang rawan tulang belakang mana pun",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247555.jpeg",
+      "simplified": "椎骨",
+      "traditional": "椎骨",
+      "pinyin": "zhuīgǔ"
+    },
+    {
+      "id": 247585,
+      "translation": {
+        "en": {
+          "short": "artery",
+          "long": "any blood vessel, carrying the blood to different organs of body from the heart",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembuluh darah",
+          "long": "setiap pembuluh darah, membawa darah ke organ tubuh yang berbeda dari jantung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247585.jpeg",
+      "simplified": "动脉",
+      "traditional": "動脈",
+      "pinyin": "dòngmài"
+    },
+    {
+      "id": 247557,
+      "translation": {
+        "en": {
+          "short": "tissue",
+          "long": "a group of cells in the body of living things, forming their different parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaringan",
+          "long": "sekelompok sel dalam tubuh makhluk hidup, membentuk bagian yang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247557.jpeg",
+      "simplified": "组织",
+      "traditional": "組織",
+      "pinyin": "zǔzhī"
+    },
+    {
+      "id": 247560,
+      "translation": {
+        "en": {
+          "short": "spinal cord",
+          "long": "the inner part of the spine containing a mass of nerves that connects the brain to almost all the body parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumsum tulang belakang",
+          "long": "bagian dalam tulang belakang yang mengandung massa saraf yang menghubungkan otak ke hampir semua bagian tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247560.jpeg",
+      "simplified": "脊髓",
+      "traditional": "脊髓",
+      "pinyin": "jǐsuǐ"
+    },
+    {
+      "id": 247564,
+      "translation": {
+        "en": {
+          "short": "ribcage",
+          "long": "(anatomy) the bony structure in the chest formed by the ribs which protects organs in the thoracic cavity",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tulang rusuk",
+          "long": "(Anatomi) Struktur tulang di dada yang dibentuk oleh tulang rusuk yang melindungi organ di rongga toraks",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247564.jpeg",
+      "simplified": "肋骨",
+      "traditional": "肋骨",
+      "pinyin": "lèigǔ"
+    },
+    {
+      "id": 247599,
+      "translation": {
+        "en": {
+          "short": "cranium",
+          "long": "(anatomy) the bone structure that surrounds and protects the brain",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tengkorak",
+          "long": "(Anatomi) Struktur tulang yang mengelilingi dan melindungi otak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247599.jpeg",
+      "simplified": "颅骨",
+      "traditional": "顱骨",
+      "pinyin": "lúgǔ"
+    },
+    {
+      "id": 247595,
+      "translation": {
+        "en": {
+          "short": "cortex",
+          "long": "(anatomy) the outer layer of the anterior part of the brain, called cerebrum, containing gray matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "korteks",
+          "long": "(Anatomi) Lapisan luar bagian anterior otak, yang disebut otak besar, mengandung materi abu -abu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247595.jpeg",
+      "simplified": "皮质",
+      "traditional": "皮質",
+      "pinyin": "pízhì"
+    },
+    {
+      "id": 247593,
+      "translation": {
+        "en": {
+          "short": "brow",
+          "long": "the part in someone's face that is below the hair and above the eyes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alis",
+          "long": "Bagian di wajah seseorang yang ada di bawah rambut dan di atas mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247593.jpeg",
+      "simplified": "眉头",
+      "traditional": "眉頭",
+      "pinyin": "méitóu"
+    },
+    {
+      "id": 247553,
+      "translation": {
+        "en": {
+          "short": "womb",
+          "long": "the part of the body of a woman or female mammal where the baby develops before birth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rahim",
+          "long": "bagian dari tubuh seorang wanita atau mamalia wanita di mana bayi itu berkembang sebelum lahir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247553.jpeg",
+      "simplified": "子宫",
+      "traditional": "子宮",
+      "pinyin": "zǐgōng"
+    },
+    {
+      "id": 247578,
+      "translation": {
+        "en": {
+          "short": "uterus",
+          "long": "(anatomy) the organ in the female body where the fetus is conceived and grown before being born",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rahim",
+          "long": "(Anatomi) Organ dalam tubuh wanita tempat janin dikandung dan ditanam sebelum dilahirkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247578.jpeg",
+      "simplified": "子宫",
+      "traditional": "子宮",
+      "pinyin": "zǐgōng"
+    },
+    {
+      "id": 247562,
+      "translation": {
+        "en": {
+          "short": "shin",
+          "long": "the front part of the leg that is between the foot and the knee",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Shin",
+          "long": "bagian depan kaki yang antara kaki dan lutut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247562.jpeg",
+      "simplified": "胫",
+      "traditional": "脛",
+      "pinyin": "jìng"
+    },
+    {
+      "id": 247586,
+      "translation": {
+        "en": {
+          "short": "biceps",
+          "long": "the large muscle at the front of the upper part of the arm, which flexes the forearm",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bisep",
+          "long": "otot besar di bagian depan bagian atas lengan, yang melenturkan lengan bawah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247586.jpeg",
+      "simplified": "二头肌",
+      "traditional": "二頭肌",
+      "pinyin": "èrtóu jī"
+    },
+    {
+      "id": 247584,
+      "translation": {
+        "en": {
+          "short": "armpit",
+          "long": "the part under the shoulder that is hollow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ketiak",
+          "long": "bagian di bawah bahu yang kosong",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247584.jpeg",
+      "simplified": "腋窝",
+      "traditional": "腋窩",
+      "pinyin": "yèwō"
+    },
+    {
+      "id": 247600,
+      "translation": {
+        "en": {
+          "short": "eardrum",
+          "long": "a thin piece of skin in the middle ear that vibrates by sound waves and enables one to hear sounds, also known as tympanic membrane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gendang pendengar",
+          "long": "Sepotong kulit tipis di telinga tengah yang bergetar oleh gelombang suara dan memungkinkan seseorang untuk mendengar suara, juga dikenal sebagai membran timpani",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247600.jpeg",
+      "simplified": "鼓膜",
+      "traditional": "鼓膜",
+      "pinyin": "gǔmó"
+    },
+    {
+      "id": 247572,
+      "translation": {
+        "en": {
+          "short": "pharynx",
+          "long": "(anatomy) the passage in the throat that connects the mouth to the gullet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tekak",
+          "long": "(Anatomi) Bagian di tenggorokan yang menghubungkan mulut ke kerongkongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247572.jpeg",
+      "simplified": "咽",
+      "traditional": "咽",
+      "pinyin": "yān"
+    },
+    {
+      "id": 247579,
+      "translation": {
+        "en": {
+          "short": "trachea",
+          "long": "(anatomy) the membranous tube in the body that carries air from the throat to the bronchi",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batang tenggorok",
+          "long": "(Anatomi) Tabung membran dalam tubuh yang membawa udara dari tenggorokan ke bronkus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247579.jpeg",
+      "simplified": "气管",
+      "traditional": "氣管",
+      "pinyin": "qìguǎn"
+    },
+    {
+      "id": 247563,
+      "translation": {
+        "en": {
+          "short": "saliva",
+          "long": "the liquid produced in the mouth to make chewing and swallowing easier and to prepare food for digestion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "air liur",
+          "long": "cairan yang diproduksi di mulut untuk membuat mengunyah dan menelan lebih mudah dan menyiapkan makanan untuk pencernaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247563.jpeg",
+      "simplified": "唾液",
+      "traditional": "唾液",
+      "pinyin": "tuòyè"
+    },
+    {
+      "id": 247571,
+      "translation": {
+        "en": {
+          "short": "phlegm",
+          "long": "the thick mucus that is formed in the nasal and throat cavities, usually secreted in excessive amounts as a result of common cold",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dahak",
+          "long": "lendir tebal yang terbentuk di rongga hidung dan tenggorokan, biasanya disekresikan dalam jumlah yang berlebihan sebagai akibat dari pilek biasa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247571.jpeg",
+      "simplified": "痰",
+      "traditional": "痰",
+      "pinyin": "tán"
+    },
+    {
+      "id": 247601,
+      "translation": {
+        "en": {
+          "short": "enamel",
+          "long": "the hard white external layer that covers the crown of a tooth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "email",
+          "long": "lapisan eksternal putih keras yang menutupi mahkota gigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247601.jpeg",
+      "simplified": "牙釉质",
+      "traditional": "牙釉質",
+      "pinyin": "yáyòu zhì"
+    },
+    {
+      "id": 247566,
+      "translation": {
+        "en": {
+          "short": "respiration",
+          "long": "(anatomy) the act or process of breathing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pernafasan",
+          "long": "(Anatomi) Tindakan atau proses pernapasan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247566.jpeg",
+      "simplified": "呼吸",
+      "traditional": "呼吸",
+      "pinyin": "hūxī"
+    },
+    {
+      "id": 247565,
+      "translation": {
+        "en": {
+          "short": "retina",
+          "long": "(anatomy) the sensory membrane at the back of the eye that transmits light signals to the brain through optic nerves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Retina",
+          "long": "(Anatomi) Membran sensorik di bagian belakang mata yang mentransmisikan sinyal cahaya ke otak melalui saraf optik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247565.jpeg",
+      "simplified": "视网膜",
+      "traditional": "視網膜",
+      "pinyin": "shìwǎng mó"
+    },
+    {
+      "id": 247596,
+      "translation": {
+        "en": {
+          "short": "cornea",
+          "long": "(anatomy) the transparent layer that covers the outside of the eyeball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kornea",
+          "long": "(Anatomi) Lapisan transparan yang menutupi bagian luar bola mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247596.jpeg",
+      "simplified": "角膜",
+      "traditional": "角膜",
+      "pinyin": "jiǎomó"
+    },
+    {
+      "id": 247570,
+      "translation": {
+        "en": {
+          "short": "pupil",
+          "long": "(anatomy) the small round black area in the center of the eye, through which light enters",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "murid",
+          "long": "(Anatomi) Area hitam bundar kecil di tengah mata, di mana cahaya masuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247570.jpeg",
+      "simplified": "瞳孔",
+      "traditional": "瞳孔",
+      "pinyin": "tóngkǒng"
+    },
+    {
+      "id": 247567,
+      "translation": {
+        "en": {
+          "short": "renal",
+          "long": "relating to the kidneys or their function",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "ginjal",
+          "long": "berkaitan dengan ginjal atau fungsinya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247567.jpeg",
+      "simplified": "肾脏相关的",
+      "traditional": "腎臟相關的",
+      "pinyin": "shènzàng xiāngguān de"
+    },
+    {
+      "id": 247581,
+      "translation": {
+        "en": {
+          "short": "abdomen",
+          "long": "the lower part of the body below the chest that contains the digestive and reproductive organs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perut",
+          "long": "Bagian bawah tubuh di bawah dada yang mengandung organ pencernaan dan reproduksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247581.jpeg",
+      "simplified": "腹部",
+      "traditional": "腹部",
+      "pinyin": "fùbù"
+    },
+    {
+      "id": 247597,
+      "translation": {
+        "en": {
+          "short": "diaphragm",
+          "long": "(anatomy) the muscular body partition that separates the chest and abdomen",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diafragma",
+          "long": "(Anatomi) Partisi tubuh berotot yang memisahkan dada dan perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247597.jpeg",
+      "simplified": "光圈",
+      "traditional": "光圈",
+      "pinyin": "guāngquān"
+    },
+    {
+      "id": 247573,
+      "translation": {
+        "en": {
+          "short": "pancreas",
+          "long": "a large gland in the body that produces insulin and glucagon and substances that help the body digest food",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pankreas",
+          "long": "Kelenjar besar di dalam tubuh yang menghasilkan insulin dan glukagon dan zat yang membantu tubuh mencerna makanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247573.jpeg",
+      "simplified": "胰腺",
+      "traditional": "胰腺",
+      "pinyin": "yíxiàn"
+    },
+    {
+      "id": 247559,
+      "translation": {
+        "en": {
+          "short": "spleen",
+          "long": "(anatomy) an abdominal organ that controls the quality of the blood cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "limpa",
+          "long": "(Anatomi) Organ perut yang mengontrol kualitas sel darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247559.jpeg",
+      "simplified": "脾",
+      "traditional": "脾",
+      "pinyin": "pí"
+    },
+    {
+      "id": 247574,
+      "translation": {
+        "en": {
+          "short": "pelvis",
+          "long": "(anatomy) the large round bone structure that the limbs and the spine are joined to, which also protects the abdominal organs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "panggul",
+          "long": "(Anatomi) Struktur tulang bundar besar tempat tungkai dan tulang belakang bergabung, yang juga melindungi organ perut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247574.jpeg",
+      "simplified": "骨盆",
+      "traditional": "骨盆",
+      "pinyin": "gǔpén"
+    },
+    {
+      "id": 247583,
+      "translation": {
+        "en": {
+          "short": "appendix",
+          "long": "a sack of tissue that is attached to the large intestine and is surgically removed if infected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampiran",
+          "long": "sekarung jaringan yang melekat pada usus besar dan diangkat dengan pembedahan jika terinfeksi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247583.jpeg",
+      "simplified": "附录",
+      "traditional": "附錄",
+      "pinyin": "fùlù"
+    },
+    {
+      "id": 247588,
+      "translation": {
+        "en": {
+          "short": "bladder",
+          "long": "a sac-like organ inside the body where urine is stored before being passed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kandung kemih",
+          "long": "organ seperti kantung di dalam tubuh tempat urin disimpan sebelum dilewati",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247588.jpeg",
+      "simplified": "膀胱",
+      "traditional": "膀胱",
+      "pinyin": "pángguāng"
+    },
+    {
+      "id": 247592,
+      "translation": {
+        "en": {
+          "short": "bowel",
+          "long": "(usually plural) the tube in the body through which digested food passes from the stomach to the anus",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "usus",
+          "long": "(biasanya jamak) Tabung dalam tubuh yang melaluinya makanan yang dicerna melewati lambung ke anus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247592.jpeg",
+      "simplified": "肠",
+      "traditional": "腸",
+      "pinyin": "cháng"
+    },
+    {
+      "id": 247589,
+      "translation": {
+        "en": {
+          "short": "bone marrow",
+          "long": "the soft substance that fills the cavities of bones, which is either yellowish and consists of fat cells or reddish and makes blood cells",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sumsum tulang",
+          "long": "Zat lunak yang mengisi rongga tulang, yang kekuningan dan terdiri dari sel -sel lemak atau kemerahan dan membuat sel darah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247589.jpeg",
+      "simplified": "骨髓",
+      "traditional": "骨髓",
+      "pinyin": "gǔsuǐ"
+    },
+    {
+      "id": 247558,
+      "translation": {
+        "en": {
+          "short": "tendon",
+          "long": "(anatomy) an elastic cord or band that connects a muscle to a bone",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "urat daging",
+          "long": "(Anatomi) Tali atau pita elastis yang menghubungkan otot ke tulang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247558.jpeg",
+      "simplified": "肌腱",
+      "traditional": "肌腱",
+      "pinyin": "jījiàn"
+    },
+    {
+      "id": 247594,
+      "translation": {
+        "en": {
+          "short": "cartilage",
+          "long": "an elastic tissue that supports or connects joints in an infant and turns into skeleton during growth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tulang rawan",
+          "long": "Jaringan elastis yang mendukung atau menghubungkan sendi pada bayi dan berubah menjadi kerangka selama pertumbuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247594.jpeg",
+      "simplified": "软骨",
+      "traditional": "軟骨",
+      "pinyin": "ruǎngǔ"
+    },
+    {
+      "id": 247582,
+      "translation": {
+        "en": {
+          "short": "antibody",
+          "long": "a blood protein produced to fight diseases or infections, or in response to foreign substances in the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "antibodi",
+          "long": "protein darah yang dihasilkan untuk melawan penyakit atau infeksi, atau sebagai respons terhadap zat asing dalam tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247582.jpeg",
+      "simplified": "抗体",
+      "traditional": "抗體",
+      "pinyin": "kàngtǐ"
+    },
+    {
+      "id": 247602,
+      "translation": {
+        "en": {
+          "short": "gland",
+          "long": "an organ in the body that produces certain chemical substances to be used in the body or to be discharged into the surroundings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kelenjar",
+          "long": "organ dalam tubuh yang menghasilkan zat kimia tertentu untuk digunakan dalam tubuh atau dibuang ke sekitar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247602.jpeg",
+      "simplified": "腺",
+      "traditional": "腺",
+      "pinyin": "xiàn"
+    },
+    {
+      "id": 247587,
+      "translation": {
+        "en": {
+          "short": "bile",
+          "long": "a greenish-brown alkaline fluid that is produced by the liver in order to help the body digest fats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "empedu",
+          "long": "Cairan alkali coklat kehijauan yang diproduksi oleh hati untuk membantu tubuh mencerna lemak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/247587.jpeg",
+      "simplified": "胆汁",
+      "traditional": "膽汁",
+      "pinyin": "dǎnzhī"
+    }
+  ]
+}

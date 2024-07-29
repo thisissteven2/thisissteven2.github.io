@@ -1,0 +1,1020 @@
+{
+  "id": 6020,
+  "title": {
+    "en": "Geometry",
+    "id": "Geometri"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to geometry, such as \"tangent\", \"vertex\", \"ellipse\", etc. that will help you ace your ACTs.",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan geometri, seperti \"tangen\", \"vertex\", \"elips\", dll. Itu akan membantu Anda melakukan tindakan Anda."
+  },
+  "cards": [
+    {
+      "id": 402094,
+      "translation": {
+        "en": {
+          "short": "slope",
+          "long": "the measure of how steep a line is, found by dividing the change in height by the change in horizontal distance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lereng",
+          "long": "Ukuran seberapa curam garis, ditemukan dengan membagi perubahan tinggi dengan perubahan jarak horizontal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402094.jpeg",
+      "simplified": "坡",
+      "traditional": "坡",
+      "pinyin": "pō"
+    },
+    {
+      "id": 402095,
+      "translation": {
+        "en": {
+          "short": "arc",
+          "long": "(geometry) a part of a circle, which is curved",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busur",
+          "long": "(Geometri) Bagian dari lingkaran, yang melengkung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402095.jpeg",
+      "simplified": "弧（几何）",
+      "traditional": "弧（幾何）",
+      "pinyin": "hú jǐhé"
+    },
+    {
+      "id": 402102,
+      "translation": {
+        "en": {
+          "short": "radian",
+          "long": "a unit for measuring angles, defined by the angle made when the radius of a circle is laid along its edge",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Radian",
+          "long": "Unit untuk mengukur sudut, ditentukan oleh sudut yang dibuat ketika jari -jari lingkaran diletakkan di sepanjang tepinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402102.jpeg",
+      "simplified": "弧度",
+      "traditional": "弧度",
+      "pinyin": "húdù"
+    },
+    {
+      "id": 402128,
+      "translation": {
+        "en": {
+          "short": "radius",
+          "long": "the length of a straight line drawn from the center of a circle to any point on its outer boundary",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "radius",
+          "long": "Panjang garis lurus yang ditarik dari pusat lingkaran ke titik mana pun di batas luarnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402128.jpeg",
+      "simplified": "半径",
+      "traditional": "半徑",
+      "pinyin": "bànjìng"
+    },
+    {
+      "id": 402126,
+      "translation": {
+        "en": {
+          "short": "diameter",
+          "long": "a straight line from one side of a round object, particularly a circle, passing through the center and joining the other side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diameter",
+          "long": "Garis lurus dari satu sisi objek bundar, terutama lingkaran, melewati tengah dan bergabung dengan sisi lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402126.jpeg",
+      "simplified": "直径",
+      "traditional": "直徑",
+      "pinyin": "zhíjìng"
+    },
+    {
+      "id": 402130,
+      "translation": {
+        "en": {
+          "short": "perimeter",
+          "long": "the total length of the external boundary of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perimeter",
+          "long": "panjang total batas eksternal dari sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402130.jpeg",
+      "simplified": "周长（几何）",
+      "traditional": "周長（幾何）",
+      "pinyin": "zhōucháng jǐhé"
+    },
+    {
+      "id": 402131,
+      "translation": {
+        "en": {
+          "short": "circumference",
+          "long": "(geometry) the length of the external boundary of a curved shape, especially a circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lingkar",
+          "long": "(Geometri) Panjang batas eksternal dari bentuk melengkung, terutama lingkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402131.jpeg",
+      "simplified": "圆周",
+      "traditional": "圓周",
+      "pinyin": "yuánzhōu"
+    },
+    {
+      "id": 402132,
+      "translation": {
+        "en": {
+          "short": "area",
+          "long": "the measurement of a piece of land or a flat surface",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daerah",
+          "long": "pengukuran sebidang tanah atau permukaan yang rata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402132.jpeg",
+      "simplified": "周长（数学）",
+      "traditional": "周長（數學）",
+      "pinyin": "zhōucháng shùxué"
+    },
+    {
+      "id": 402133,
+      "translation": {
+        "en": {
+          "short": "volume",
+          "long": "the amount of space that a substance or object takes or the amount of space inside an object",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "volume",
+          "long": "Jumlah ruang yang diambil suatu zat atau objek atau jumlah ruang di dalam suatu objek",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402133.jpeg",
+      "simplified": "卷",
+      "traditional": "卷",
+      "pinyin": "juǎn"
+    },
+    {
+      "id": 402096,
+      "translation": {
+        "en": {
+          "short": "angle",
+          "long": "the space between two lines or surfaces that are joined, measured in degrees or radians",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut",
+          "long": "Ruang antara dua garis atau permukaan yang bergabung, diukur dalam derajat atau radian",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402096.jpeg",
+      "simplified": "角度",
+      "traditional": "角度",
+      "pinyin": "jiǎodù"
+    },
+    {
+      "id": 402097,
+      "translation": {
+        "en": {
+          "short": "right angle",
+          "long": "an angle measuring exactly 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut kanan",
+          "long": "Sudut yang mengukur tepat 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402097.jpeg",
+      "simplified": "直角",
+      "traditional": "直角",
+      "pinyin": "zhíjiǎo"
+    },
+    {
+      "id": 402098,
+      "translation": {
+        "en": {
+          "short": "vertical angle",
+          "long": "one of a pair of opposite angles made by two intersecting lines, which are always equal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut vertikal",
+          "long": "Salah satu dari sepasang sudut berlawanan yang dibuat oleh dua garis berpotongan, yang selalu sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402098.jpeg",
+      "simplified": "垂直角",
+      "traditional": "垂直角",
+      "pinyin": "chuízhí Jué"
+    },
+    {
+      "id": 402148,
+      "translation": {
+        "en": {
+          "short": "interior angle",
+          "long": "an angle formed between two sides of a polygon that lies inside the shape",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut interior",
+          "long": "sudut terbentuk di antara dua sisi poligon yang terletak di dalam bentuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402148.jpeg",
+      "simplified": "内角",
+      "traditional": "內角",
+      "pinyin": "nèi Jué"
+    },
+    {
+      "id": 402143,
+      "translation": {
+        "en": {
+          "short": "acute angle",
+          "long": "an angle that measures between 0 and 90 degrees, which is less than a right angle (90 degrees)",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut lancip",
+          "long": "Sudut yang berukuran antara 0 dan 90 derajat, yang kurang dari sudut kanan (90 derajat)",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402143.jpeg",
+      "simplified": "锐角",
+      "traditional": "銳角",
+      "pinyin": "ruìjiǎo"
+    },
+    {
+      "id": 402149,
+      "translation": {
+        "en": {
+          "short": "consecutive angle",
+          "long": "pairs of angles that share a common side and vertex in a polygon or between intersecting lines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut berurutan",
+          "long": "Pasangan sudut yang memiliki sisi umum dan simpul dalam poligon atau di antara garis -garis berpotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402149.jpeg",
+      "simplified": "连续角",
+      "traditional": "連續角",
+      "pinyin": "liánxù Jué"
+    },
+    {
+      "id": 402150,
+      "translation": {
+        "en": {
+          "short": "obtuse",
+          "long": "(of angle) greater than 90 degrees but less than 180 degrees",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tumpul",
+          "long": "(sudut) lebih besar dari 90 derajat tetapi kurang dari 180 derajat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402150.jpeg",
+      "simplified": "钝",
+      "traditional": "鈍",
+      "pinyin": "dùn"
+    },
+    {
+      "id": 402139,
+      "translation": {
+        "en": {
+          "short": "protractor",
+          "long": "a measuring instrument used to measure and draw angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "busur derajat",
+          "long": "instrumen pengukur yang digunakan untuk mengukur dan menggambar sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402139.jpeg",
+      "simplified": "量角器",
+      "traditional": "量角器",
+      "pinyin": "liángjiǎo qì"
+    },
+    {
+      "id": 402100,
+      "translation": {
+        "en": {
+          "short": "perpendicular",
+          "long": "(of lines or planes) intersecting each other at a 90 degree angle",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tegak lurus",
+          "long": "(dari garis atau pesawat) saling bersinggungan pada sudut 90 derajat",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402100.jpeg",
+      "simplified": "垂直",
+      "traditional": "垂直",
+      "pinyin": "chuízhí"
+    },
+    {
+      "id": 402103,
+      "translation": {
+        "en": {
+          "short": "polygon",
+          "long": "(geometry) a flat shape consisting of three or more straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "poligon",
+          "long": "(Geometri) Bentuk datar yang terdiri dari tiga atau lebih sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402103.jpeg",
+      "simplified": "多边形",
+      "traditional": "多邊形",
+      "pinyin": "duōbiān xíng"
+    },
+    {
+      "id": 402108,
+      "translation": {
+        "en": {
+          "short": "parallelogram",
+          "long": "(geometry) any flat shape with four straight sides, the opposite sides of which are equal and parallel to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "genjang",
+          "long": "(Geometri) Bentuk datar apa pun dengan empat sisi lurus, sisi yang berlawanan yang sama dan sejajar satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402108.jpeg",
+      "simplified": "平行四边形",
+      "traditional": "平行四邊形",
+      "pinyin": "píngxíng sì biān xíng"
+    },
+    {
+      "id": 402117,
+      "translation": {
+        "en": {
+          "short": "tetrahedral",
+          "long": "characterized by or resembling a tetrahedron, which has four triangular faces",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "tetrahedral",
+          "long": "ditandai dengan atau menyerupai tetrahedron, yang memiliki empat wajah segitiga",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402117.jpeg",
+      "simplified": "四面体",
+      "traditional": "四面體",
+      "pinyin": "sìmiàn tǐ"
+    },
+    {
+      "id": 402121,
+      "translation": {
+        "en": {
+          "short": "trapezoid",
+          "long": "(geometry) a flat shape with four flat sides, two of which are parallel",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "trapesium",
+          "long": "(Geometri) Bentuk datar dengan empat sisi datar, dua di antaranya paralel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402121.jpeg",
+      "simplified": "梯形",
+      "traditional": "梯形",
+      "pinyin": "tīxíng"
+    },
+    {
+      "id": 402124,
+      "translation": {
+        "en": {
+          "short": "pentagon",
+          "long": "a geometric shape with five angles and five straight sides",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segi lima",
+          "long": "bentuk geometris dengan lima sudut dan lima sisi lurus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402124.jpeg",
+      "simplified": "五角形",
+      "traditional": "五角形",
+      "pinyin": "wǔjiǎo xíng"
+    },
+    {
+      "id": 402112,
+      "translation": {
+        "en": {
+          "short": "quadrilateral",
+          "long": "(geometry) a flat figure with four straight sides and four angles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "berbentuk persegi",
+          "long": "(Geometri) Sosok datar dengan empat sisi lurus dan empat sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402112.jpeg",
+      "simplified": "四边形",
+      "traditional": "四邊形",
+      "pinyin": "sìbiān xíng"
+    },
+    {
+      "id": 402153,
+      "translation": {
+        "en": {
+          "short": "rhombus",
+          "long": "(geometry) a flat shape with four equal sides in which opposite angles are equal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "belah ketupat",
+          "long": "(Geometri) Bentuk datar dengan empat sisi yang sama di mana sudut yang berlawanan sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402153.jpeg",
+      "simplified": "菱形",
+      "traditional": "菱形",
+      "pinyin": "língxíng"
+    },
+    {
+      "id": 402122,
+      "translation": {
+        "en": {
+          "short": "epicycle",
+          "long": "a small circle whose center moves around the circumference of a larger circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Epicycle",
+          "long": "Lingkaran kecil yang tengahnya bergerak di sekitar lingkar lingkaran yang lebih besar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402122.jpeg",
+      "simplified": "本轮",
+      "traditional": "本輪",
+      "pinyin": "běn lún"
+    },
+    {
+      "id": 402113,
+      "translation": {
+        "en": {
+          "short": "hyperbola",
+          "long": "a geometric curve formed by the intersection of a plane with two cones, resulting in two symmetrical branches",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hiperbola",
+          "long": "Kurva geometris yang dibentuk oleh persimpangan bidang dengan dua kerucut, menghasilkan dua cabang simetris",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402113.jpeg",
+      "simplified": "双曲线",
+      "traditional": "雙曲線",
+      "pinyin": "shuāngqū xiàn"
+    },
+    {
+      "id": 402116,
+      "translation": {
+        "en": {
+          "short": "parabola",
+          "long": "(geometry) a symmetrical open curve that is similar to the path of an object thrown into the air passes till it falls back to earth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "parabola",
+          "long": "(Geometri) Kurva terbuka simetris yang mirip dengan jalur objek yang dilemparkan ke udara melewati sampai jatuh kembali ke bumi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402116.jpeg",
+      "simplified": "抛物线",
+      "traditional": "拋物線",
+      "pinyin": "pāowù xiàn"
+    },
+    {
+      "id": 402152,
+      "translation": {
+        "en": {
+          "short": "ellipse",
+          "long": "(geometry) a closed plane curve that has two focal points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "elips",
+          "long": "(Geometri) Kurva bidang tertutup yang memiliki dua titik fokus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402152.jpeg",
+      "simplified": "椭圆",
+      "traditional": "橢圓",
+      "pinyin": "tuǒyuán"
+    },
+    {
+      "id": 402104,
+      "translation": {
+        "en": {
+          "short": "right triangle",
+          "long": "a flat geometric shape consisting of three straight sides and one right angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga siku-siku",
+          "long": "Bentuk geometris datar yang terdiri dari tiga sisi lurus dan satu sudut kanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402104.jpeg",
+      "simplified": "直角三角形",
+      "traditional": "直角三角形",
+      "pinyin": "zhíjiǎo sān jiǎo xíng"
+    },
+    {
+      "id": 402119,
+      "translation": {
+        "en": {
+          "short": "acute triangle",
+          "long": "a triangle in which all three interior angles are less than 90 degrees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Akut",
+          "long": "segitiga di mana ketiga sudut interior kurang dari 90 derajat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402119.jpeg",
+      "simplified": "锐角三角形",
+      "traditional": "銳角三角形",
+      "pinyin": "ruìjiǎo sānjiǎo xíng"
+    },
+    {
+      "id": 402105,
+      "translation": {
+        "en": {
+          "short": "equilateral triangle",
+          "long": "a type of triangle with all three sides of equal length",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "segitiga sama sisi",
+          "long": "Jenis segitiga dengan ketiga sisi dengan panjang yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402105.jpeg",
+      "simplified": "等边三角形",
+      "traditional": "等邊三角形",
+      "pinyin": "děngbiān sān jiǎo xíng"
+    },
+    {
+      "id": 402120,
+      "translation": {
+        "en": {
+          "short": "scalene triangle",
+          "long": "a type of triangle that has all three sides of different lengths",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Scalene",
+          "long": "Jenis segitiga yang memiliki ketiga sisi dengan panjang berbeda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402120.jpeg",
+      "simplified": "不等边三角形",
+      "traditional": "不等邊三角形",
+      "pinyin": "bùděng biān sān jiǎo xíng"
+    },
+    {
+      "id": 402111,
+      "translation": {
+        "en": {
+          "short": "isosceles",
+          "long": "describing a triangle with at least two sides of equal length",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sama kaki",
+          "long": "menggambarkan segitiga dengan setidaknya dua sisi dengan panjang yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402111.jpeg",
+      "simplified": "等腰",
+      "traditional": "等腰",
+      "pinyin": "děng yāo"
+    },
+    {
+      "id": 402109,
+      "translation": {
+        "en": {
+          "short": "hypotenuse",
+          "long": "the longest side of a right-angled triangle, opposite the right angle, and defined as the side opposite the right angle in a right-angled triangle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sisi miring",
+          "long": "Sisi terpanjang dari segitiga siku-siku, berlawanan dengan sudut kanan, dan didefinisikan sebagai sisi yang berlawanan dengan sudut kanan dalam segitiga siku-siku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402109.jpeg",
+      "simplified": "斜边",
+      "traditional": "斜邊",
+      "pinyin": "xiébiān"
+    },
+    {
+      "id": 402107,
+      "translation": {
+        "en": {
+          "short": "right circular cylinder",
+          "long": "a three-dimensional geometric shape with two parallel circular bases connected by a curved surface at a right angle to the bases",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "silinder melingkar kanan",
+          "long": "Bentuk geometris tiga dimensi dengan dua basa melingkar paralel yang dihubungkan oleh permukaan melengkung pada sudut kanan ke basa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402107.jpeg",
+      "simplified": "直圆柱体",
+      "traditional": "直圓柱體",
+      "pinyin": "Zhí yuánzhù tǐ"
+    },
+    {
+      "id": 402114,
+      "translation": {
+        "en": {
+          "short": "rectangular pyramid",
+          "long": "a three-dimensional geometric shape that has a rectangular base and four triangular faces that meet at a single point called the apex",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "piramida persegi panjang",
+          "long": "Bentuk geometris tiga dimensi yang memiliki basis persegi panjang dan empat wajah segitiga yang bertemu pada satu titik yang disebut apex",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402114.jpeg",
+      "simplified": "矩形金字塔",
+      "traditional": "矩形金字塔",
+      "pinyin": "jǔxíng jīnzì tǎ"
+    },
+    {
+      "id": 402125,
+      "translation": {
+        "en": {
+          "short": "asymmetry",
+          "long": "(geometry) a lack of symmetry or equivalence in shape or size between the two sides or parts of something",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asimetri",
+          "long": "(Geometri) Kurangnya simetri atau kesetaraan dalam bentuk atau ukuran antara kedua sisi atau bagian dari sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402125.jpeg",
+      "simplified": "不对称",
+      "traditional": "不對稱",
+      "pinyin": "bùduì chèn"
+    },
+    {
+      "id": 402129,
+      "translation": {
+        "en": {
+          "short": "vertex",
+          "long": "a point where two or more lines, edges, or rays meet to form an angle, or the point at which the sides of a polygon intersect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "puncak",
+          "long": "titik di mana dua atau lebih garis, tepi, atau sinar bertemu untuk membentuk sudut, atau titik di mana sisi poligon berpotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402129.jpeg",
+      "simplified": "顶点",
+      "traditional": "頂點",
+      "pinyin": "dǐngdiǎn"
+    },
+    {
+      "id": 402134,
+      "translation": {
+        "en": {
+          "short": "diagonal",
+          "long": "(geometry) a straight line that joins the opposite corners of a flat shape at an angle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "diagonal",
+          "long": "(Geometri) Garis lurus yang bergabung dengan sudut berlawanan dari bentuk datar pada sudut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402134.jpeg",
+      "simplified": "对角线",
+      "traditional": "對角線",
+      "pinyin": "duìjiǎo xiàn"
+    },
+    {
+      "id": 402135,
+      "translation": {
+        "en": {
+          "short": "congruent",
+          "long": "(in geometry) describing shapes of the same size and form",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "kongruen",
+          "long": "(dalam geometri) menggambarkan bentuk dengan ukuran dan bentuk yang sama",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402135.jpeg",
+      "simplified": "全等",
+      "traditional": "全等",
+      "pinyin": "quánděng"
+    },
+    {
+      "id": 402136,
+      "translation": {
+        "en": {
+          "short": "base",
+          "long": "the side of a geometric shape, usually the one considered as the bottom, from which the height is measured",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "basis",
+          "long": "sisi bentuk geometris, biasanya yang dianggap sebagai bagian bawah, dari mana tinggi diukur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402136.jpeg",
+      "simplified": "基础",
+      "traditional": "基礎",
+      "pinyin": "jīchǔ"
+    },
+    {
+      "id": 402137,
+      "translation": {
+        "en": {
+          "short": "parallel",
+          "long": "(mathematics) any of the pair of geometric figures such as lines or planes which do not meet or intersect",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paralel",
+          "long": "(Matematika) Pasangan salah satu angka geometrik seperti baris atau pesawat yang tidak memenuhi atau berpotongan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402137.jpeg",
+      "simplified": "纬线",
+      "traditional": "緯線",
+      "pinyin": "wěixiàn"
+    },
+    {
+      "id": 402141,
+      "translation": {
+        "en": {
+          "short": "line of symmetry",
+          "long": "a line that divides a shape into two congruent parts",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Garis simetri",
+          "long": "garis yang membagi bentuk menjadi dua bagian kongruen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402141.jpeg",
+      "simplified": "对称线",
+      "traditional": "對稱線",
+      "pinyin": "duìchèn xiàn"
+    },
+    {
+      "id": 402142,
+      "translation": {
+        "en": {
+          "short": "geometric series",
+          "long": "a series of numbers in which each term after the first is found by multiplying the previous term by a fixed, non-zero number",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Seri geometris",
+          "long": "serangkaian angka di mana setiap istilah setelah yang pertama ditemukan dengan mengalikan istilah sebelumnya dengan angka yang tidak ditetapkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402142.jpeg",
+      "simplified": "几何系列",
+      "traditional": "幾何系列",
+      "pinyin": "jǐhé xìliè"
+    },
+    {
+      "id": 402145,
+      "translation": {
+        "en": {
+          "short": "surface area",
+          "long": "the total area that the surface of a three-dimensional object occupies",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "luas permukaan",
+          "long": "Total area yang ditempati oleh permukaan objek tiga dimensi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402145.jpeg",
+      "simplified": "表面积",
+      "traditional": "表面積",
+      "pinyin": "biǎomiàn jī"
+    },
+    {
+      "id": 402146,
+      "translation": {
+        "en": {
+          "short": "transversal",
+          "long": "(of a line) intersecting two or more other lines at different points",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "lintang",
+          "long": "(dari garis) memotong dua atau lebih garis lain di titik yang berbeda",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402146.jpeg",
+      "simplified": "横向的",
+      "traditional": "橫向的",
+      "pinyin": "héngxiàng de"
+    },
+    {
+      "id": 402147,
+      "translation": {
+        "en": {
+          "short": "quadrant",
+          "long": "one-fourth of a circle, formed by two perpendicular radii and the connecting arc",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kuadran",
+          "long": "seperempat lingkaran, dibentuk oleh dua jari-jari tegak lurus dan busur penghubung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402147.jpeg",
+      "simplified": "象限",
+      "traditional": "象限",
+      "pinyin": "xiàngxiàn"
+    },
+    {
+      "id": 402151,
+      "translation": {
+        "en": {
+          "short": "asymptote",
+          "long": "a straight line that a curve approaches indefinitely but never intersects, characterizing the limiting behavior of the curve",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "asimtot",
+          "long": "garis lurus yang kurva mendekati tanpa batas tetapi tidak pernah berpotongan, mengkarakterisasi perilaku pembatas kurva",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402151.jpeg",
+      "simplified": "渐近线",
+      "traditional": "漸近線",
+      "pinyin": "jiànjìn xiàn"
+    },
+    {
+      "id": 402154,
+      "translation": {
+        "en": {
+          "short": "to bisect",
+          "long": "to divide something into two equal parts",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membagi dua",
+          "long": "untuk membagi sesuatu menjadi dua bagian yang sama",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402154.jpeg",
+      "simplified": "对分",
+      "traditional": "對分",
+      "pinyin": "duì fēn"
+    },
+    {
+      "id": 402155,
+      "translation": {
+        "en": {
+          "short": "tangent",
+          "long": "a straight line that touches a curve or surface at exactly one point, known as the point of tangency",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garis singgung",
+          "long": "Garis lurus yang menyentuh kurva atau permukaan tepat pada satu titik, yang dikenal sebagai titik singgung",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402155.jpeg",
+      "simplified": "切线",
+      "traditional": "切線",
+      "pinyin": "qiēxiàn"
+    },
+    {
+      "id": 402156,
+      "translation": {
+        "en": {
+          "short": "chord",
+          "long": "a straight line segment that connects two points on the edge of a circle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Chord",
+          "long": "segmen garis lurus yang menghubungkan dua titik di tepi lingkaran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402156.jpeg",
+      "simplified": "弦",
+      "traditional": "弦",
+      "pinyin": "xián"
+    },
+    {
+      "id": 402157,
+      "translation": {
+        "en": {
+          "short": "to translate",
+          "long": "(geometry) to move a shape or figure from one position to another without rotating, resizing, or otherwise altering its shape",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menerjemahkan",
+          "long": "(Geometri) untuk memindahkan bentuk atau gambar dari satu posisi ke posisi lain tanpa memutar, mengubah ukuran, atau mengubah bentuknya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/402157.jpeg",
+      "simplified": "翻译",
+      "traditional": "翻譯",
+      "pinyin": "fānyì"
+    }
+  ]
+}

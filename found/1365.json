@@ -1,0 +1,317 @@
+{
+  "id": 1365,
+  "title": {
+    "en": "Family & Friends",
+    "id": "Keluarga & Teman"
+  },
+  "description": {
+    "en": "Here you will learn some English words about family and friends, such as \"mother\", \"brother\", and \"boyfriend\", prepared for starter level students.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang keluarga dan teman, seperti \"ibu\", \"saudara\", dan \"pacar\", siap untuk siswa tingkat starter."
+  },
+  "cards": [
+    {
+      "id": 265801,
+      "translation": {
+        "en": {
+          "short": "father",
+          "long": "a child's male parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah",
+          "long": "orang tua laki -laki seorang anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265801.jpeg",
+      "simplified": "父亲",
+      "traditional": "父親",
+      "pinyin": "fùqīn"
+    },
+    {
+      "id": 265802,
+      "translation": {
+        "en": {
+          "short": "mother",
+          "long": "a child's female parent",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ibu",
+          "long": "Orang Tua Wanita Seorang Anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265802.jpeg",
+      "simplified": "母亲",
+      "traditional": "母親",
+      "pinyin": "mǔqīn"
+    },
+    {
+      "id": 265803,
+      "translation": {
+        "en": {
+          "short": "dad",
+          "long": "an informal way of calling our father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ayah",
+          "long": "cara informal untuk memanggil ayah kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265803.jpeg",
+      "simplified": "爸",
+      "traditional": "爸",
+      "pinyin": "bà"
+    },
+    {
+      "id": 265804,
+      "translation": {
+        "en": {
+          "short": "mom",
+          "long": "a woman who has given birth to a child or someone who cares for and raises a child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Mama",
+          "long": "Seorang wanita yang telah melahirkan seorang anak atau seseorang yang peduli dan membesarkan anak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265804.jpeg",
+      "simplified": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "māma"
+    },
+    {
+      "id": 265805,
+      "translation": {
+        "en": {
+          "short": "son",
+          "long": "a person's male child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "putra",
+          "long": "anak laki -laki seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265805.jpeg",
+      "simplified": "儿子",
+      "traditional": "兒子",
+      "pinyin": "érzi"
+    },
+    {
+      "id": 265806,
+      "translation": {
+        "en": {
+          "short": "daughter",
+          "long": "a person's female child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak perempuan",
+          "long": "anak perempuan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265806.jpeg",
+      "simplified": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚér"
+    },
+    {
+      "id": 265807,
+      "translation": {
+        "en": {
+          "short": "sister",
+          "long": "a lady who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudari",
+          "long": "seorang wanita yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265807.jpeg",
+      "simplified": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèimei"
+    },
+    {
+      "id": 265808,
+      "translation": {
+        "en": {
+          "short": "brother",
+          "long": "a man who shares a mother and father with us",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "saudara laki-laki",
+          "long": "Seorang pria yang berbagi ibu dan ayah dengan kami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265808.jpeg",
+      "simplified": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gēge"
+    },
+    {
+      "id": 265809,
+      "translation": {
+        "en": {
+          "short": "grandfather",
+          "long": "the man who is our mom or dad's father",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kakek",
+          "long": "Pria yang merupakan ayah atau ayah ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265809.jpeg",
+      "simplified": "祖父",
+      "traditional": "祖父",
+      "pinyin": "zǔfù"
+    },
+    {
+      "id": 265811,
+      "translation": {
+        "en": {
+          "short": "grandmother",
+          "long": "the woman who is our mom or dad's mother",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nenek",
+          "long": "wanita yang merupakan ibu atau ibu ayah kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265811.jpeg",
+      "simplified": "祖母",
+      "traditional": "祖母",
+      "pinyin": "zǔmǔ"
+    },
+    {
+      "id": 265812,
+      "translation": {
+        "en": {
+          "short": "grandchild",
+          "long": "your daughter or son's child",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cucu",
+          "long": "putri atau anak putra Anda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265812.jpeg",
+      "simplified": "孙子",
+      "traditional": "孫子",
+      "pinyin": "Sūnzǐ"
+    },
+    {
+      "id": 265813,
+      "translation": {
+        "en": {
+          "short": "family",
+          "long": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "keluarga",
+          "long": "Orang yang berhubungan satu sama lain dengan darah atau pernikahan, biasanya terdiri dari ayah, ibu, dan anak -anak mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265813.jpeg",
+      "simplified": "家庭",
+      "traditional": "家庭",
+      "pinyin": "jiātíng"
+    },
+    {
+      "id": 265814,
+      "translation": {
+        "en": {
+          "short": "friend",
+          "long": "someone we know well and trust, but normally they are not part of our family",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "teman",
+          "long": "seseorang yang kita kenal dengan baik dan percaya, tetapi biasanya mereka bukan bagian dari keluarga kita",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265814.jpeg",
+      "simplified": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péngyou"
+    },
+    {
+      "id": 265815,
+      "translation": {
+        "en": {
+          "short": "girlfriend",
+          "long": "‌a lady that you love and are in a relationship with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pacar perempuan",
+          "long": "Wanita yang Anda sukai dan menjalin hubungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265815.jpeg",
+      "simplified": "女朋友",
+      "traditional": "女朋友",
+      "pinyin": "nǚpéng you"
+    },
+    {
+      "id": 265816,
+      "translation": {
+        "en": {
+          "short": "boyfriend",
+          "long": "a man that you love and are in a relationship with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pacar",
+          "long": "seorang pria yang Anda cintai dan menjalin hubungan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/265816.jpeg",
+      "simplified": "男朋友",
+      "traditional": "男朋友",
+      "pinyin": "nánpéng you"
+    },
+    {
+      "id": 275607,
+      "translation": {
+        "en": {
+          "short": "child",
+          "long": "a son or daughter of any age",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "anak",
+          "long": "seorang putra atau putri dari segala usia",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/275607.jpeg",
+      "simplified": "儿童",
+      "traditional": "兒童",
+      "pinyin": "értóng"
+    }
+  ]
+}

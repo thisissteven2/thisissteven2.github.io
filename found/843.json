@@ -1,0 +1,621 @@
+{
+  "id": 843,
+  "title": {
+    "en": "Self-care Products",
+    "id": "Produk perawatan diri"
+  },
+  "description": {
+    "en": "Here you will learn some English words about self-care products, such as \"shaver\", \"shampoo\", \"sunscreen\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang produk perawatan diri, seperti \"Shaver\", \"Shampoo\", \"tabir surya\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 237819,
+      "translation": {
+        "en": {
+          "short": "electric razor",
+          "long": "an electric device that is used for shaving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pisau cukur listrik",
+          "long": "perangkat listrik yang digunakan untuk mencukur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237819.jpeg",
+      "simplified": "电动剃须刀",
+      "traditional": "電動剃須刀",
+      "pinyin": "diàndòng tìxū dāo"
+    },
+    {
+      "id": 237830,
+      "translation": {
+        "en": {
+          "short": "shaver",
+          "long": "an electric tool used for shaving",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat cukur",
+          "long": "Alat listrik yang digunakan untuk mencukur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237830.jpeg",
+      "simplified": "电动剃具",
+      "traditional": "電動剃具",
+      "pinyin": "diàndòng tì jù"
+    },
+    {
+      "id": 237852,
+      "translation": {
+        "en": {
+          "short": "sunscreen",
+          "long": "a cream that is applied to the skin to protect it from the harmful rays of the sun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tabir surya",
+          "long": "krim yang diaplikasikan pada kulit untuk melindunginya dari sinar matahari yang berbahaya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237852.jpeg",
+      "simplified": "防晒霜",
+      "traditional": "防曬霜",
+      "pinyin": "fángshài shuāng"
+    },
+    {
+      "id": 237827,
+      "translation": {
+        "en": {
+          "short": "shampoo",
+          "long": "a liquid used to wash one's hair",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampo",
+          "long": "cairan yang digunakan untuk mencuci rambut seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237827.jpeg",
+      "simplified": "洗头",
+      "traditional": "洗頭",
+      "pinyin": "xǐtóu"
+    },
+    {
+      "id": 237828,
+      "translation": {
+        "en": {
+          "short": "conditioner",
+          "long": "a liquid or cream applied to the hair after shampooing in order to make it softer and easier to style",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kondisioner",
+          "long": "cairan atau krim yang dioleskan pada rambut setelah keramas untuk membuatnya lebih lembut dan lebih mudah untuk ditata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237828.jpeg",
+      "simplified": "调节器",
+      "traditional": "調節器",
+      "pinyin": "tiáojié qì"
+    },
+    {
+      "id": 237826,
+      "translation": {
+        "en": {
+          "short": "balm",
+          "long": "a healing or soothing substance with a nice smell applied to the skin in order to relieve pain, irritation, or discomfort",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "balsem",
+          "long": "zat penyembuhan atau menenangkan dengan aroma harum yang dioleskan pada kulit untuk menghilangkan rasa sakit, iritasi, atau ketidaknyamanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237826.jpeg",
+      "simplified": "润唇膏或润肤膏",
+      "traditional": "潤唇膏或潤膚膏",
+      "pinyin": "rùnchún gāo huò rùnfū gāo"
+    },
+    {
+      "id": 237846,
+      "translation": {
+        "en": {
+          "short": "lotion",
+          "long": "any type of liquid that is put on the skin to protect or clean it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "losion",
+          "long": "Semua jenis cairan yang diletakkan di kulit untuk melindungi atau membersihkannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237846.jpeg",
+      "simplified": "洗剂",
+      "traditional": "洗劑",
+      "pinyin": "xǐ jì"
+    },
+    {
+      "id": 237825,
+      "translation": {
+        "en": {
+          "short": "cosmetics",
+          "long": "any type of substance that one puts on one's skin, particularly the face, to make it look more attractive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kosmetik",
+          "long": "Segala jenis zat yang diletakkan seseorang di kulit seseorang, terutama wajahnya, agar terlihat lebih menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237825.jpeg",
+      "simplified": "化妆品",
+      "traditional": "化妝品",
+      "pinyin": "huàzhuāng pǐn"
+    },
+    {
+      "id": 237820,
+      "translation": {
+        "en": {
+          "short": "gel",
+          "long": "a clear and jelly-like substance used in cosmetic or medicinal products for the hair or skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gel",
+          "long": "Zat yang jernih dan seperti jeli digunakan dalam produk kosmetik atau obat untuk rambut atau kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237820.jpeg",
+      "simplified": "头发或皮肤凝胶",
+      "traditional": "頭髮或皮膚凝膠",
+      "pinyin": "tóufa huò pífū níngjiāo"
+    },
+    {
+      "id": 237829,
+      "translation": {
+        "en": {
+          "short": "hairspray",
+          "long": "a cosmetic product that is sprayed on the hair in order to make it fixed in its position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Hairspray",
+          "long": "produk kosmetik yang disemprotkan pada rambut untuk membuatnya diperbaiki di posisinya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237829.jpeg",
+      "simplified": "发雾",
+      "traditional": "發霧",
+      "pinyin": "fā wù"
+    },
+    {
+      "id": 237832,
+      "translation": {
+        "en": {
+          "short": "eyeliner",
+          "long": "a usually black cosmetic that is worn at the edges of the eyes to make them appear more attractive or noticeable",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eyeliner",
+          "long": "A biasanya kosmetik hitam yang dikenakan di tepi mata untuk membuatnya tampak lebih menarik atau terlihat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237832.jpeg",
+      "simplified": "眼线",
+      "traditional": "眼線",
+      "pinyin": "yǎnxiàn"
+    },
+    {
+      "id": 237833,
+      "translation": {
+        "en": {
+          "short": "eyeshadow",
+          "long": "a colored cosmetic cream or powder applied to the eyelids or around the eyes to make them stand out or appear more attractive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "eyeshadow",
+          "long": "Krim kosmetik berwarna atau bubuk yang dioleskan pada kelopak mata atau di sekitar mata untuk membuatnya menonjol atau tampak lebih menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237833.jpeg",
+      "simplified": "眼影",
+      "traditional": "眼影",
+      "pinyin": "yǎnyǐng"
+    },
+    {
+      "id": 237840,
+      "translation": {
+        "en": {
+          "short": "blush",
+          "long": "the powder or cream that is put on the cheeks to make them look attractive by giving them color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "blush",
+          "long": "bubuk atau krim yang diletakkan di pipi agar terlihat menarik dengan memberi mereka warna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237840.jpeg",
+      "simplified": "脸红",
+      "traditional": "臉紅",
+      "pinyin": "liǎnhóng"
+    },
+    {
+      "id": 237834,
+      "translation": {
+        "en": {
+          "short": "concealer",
+          "long": "a skin-toned cosmetic, typically in cream or liquid form, used to hide dark circles around the eyes or other imperfections on the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "concealer",
+          "long": "Kosmetik berkencing di kulit, biasanya dalam bentuk krim atau cair, digunakan untuk menyembunyikan lingkaran hitam di sekitar mata atau ketidaksempurnaan lainnya pada kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237834.jpeg",
+      "simplified": "遮瑕膏",
+      "traditional": "遮瑕膏",
+      "pinyin": "zhēxiá gāo"
+    },
+    {
+      "id": 237836,
+      "translation": {
+        "en": {
+          "short": "face powder",
+          "long": "a skin-toned cosmetic powder applied to the face to make it less shiny and hide any imperfections on the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bedak wajah",
+          "long": "bubuk kosmetik berkencing pada wajah yang dioleskan pada wajah untuk membuatnya kurang mengkilap dan menyembunyikan ketidaksempurnaan pada kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237836.jpeg",
+      "simplified": "香粉",
+      "traditional": "香粉",
+      "pinyin": "xiāngfěn"
+    },
+    {
+      "id": 237841,
+      "translation": {
+        "en": {
+          "short": "foundation",
+          "long": "a substance in the form of cream, powder, or liquid applied to facial skin to cover imperfections and prepare it for other cosmetics",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dasar",
+          "long": "Suatu zat dalam bentuk krim, bubuk, atau cairan yang diaplikasikan pada kulit wajah untuk menutupi ketidaksempurnaan dan menyiapkannya untuk kosmetik lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237841.jpeg",
+      "simplified": "化妆品霜或粉",
+      "traditional": "化妝品霜或粉",
+      "pinyin": "huàzhuāng pǐn shuāng huò fěn"
+    },
+    {
+      "id": 237838,
+      "translation": {
+        "en": {
+          "short": "lip gloss",
+          "long": "a cosmetic substance in liquid or gel form applied to the lips to give them a shiny effect and often a bit of color",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lip gloss",
+          "long": "zat kosmetik dalam bentuk cairan atau gel yang diaplikasikan pada bibir untuk memberi mereka efek mengkilap dan seringkali sedikit warna",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237838.jpeg",
+      "simplified": "唇彩",
+      "traditional": "唇彩",
+      "pinyin": "chúncǎi"
+    },
+    {
+      "id": 237822,
+      "translation": {
+        "en": {
+          "short": "lipstick",
+          "long": "a waxy colored make-up that is worn on the lips",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lipstik",
+          "long": "make-up berwarna lilin yang dikenakan di bibir",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237822.jpeg",
+      "simplified": "口红",
+      "traditional": "口紅",
+      "pinyin": "kǒuhóng"
+    },
+    {
+      "id": 237831,
+      "translation": {
+        "en": {
+          "short": "mascara",
+          "long": "a black make-up used to lengthen or darken the eyelashes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maskara",
+          "long": "make-up hitam yang digunakan untuk memperpanjang atau menggelapkan bulu mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237831.jpeg",
+      "simplified": "睫毛膏",
+      "traditional": "睫毛膏",
+      "pinyin": "jiémáo gāo"
+    },
+    {
+      "id": 237835,
+      "translation": {
+        "en": {
+          "short": "nail polish",
+          "long": "a cosmetic liquid that is put on the nails to color them and make them look attractive",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "cat kuku",
+          "long": "cairan kosmetik yang diletakkan di atas kuku untuk mewarnainya dan membuatnya terlihat menarik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237835.jpeg",
+      "simplified": "指甲油",
+      "traditional": "指甲油",
+      "pinyin": "zhǐjia yóu"
+    },
+    {
+      "id": 237842,
+      "translation": {
+        "en": {
+          "short": "face mask",
+          "long": "a substance that the face is covered with temporarily and is then removed in order to soothe or heal the skin",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "masker",
+          "long": "zat yang ditutupi oleh wajah untuk sementara dan kemudian dihilangkan untuk menenangkan atau menyembuhkan kulit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237842.jpeg",
+      "simplified": "面膜",
+      "traditional": "面膜",
+      "pinyin": "miànmó"
+    },
+    {
+      "id": 237837,
+      "translation": {
+        "en": {
+          "short": "dye",
+          "long": "a colored substance used to impart or alter the color of materials such as fabric, yarn, or other items through immersion or application",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pewarna",
+          "long": "zat berwarna yang digunakan untuk memberikan atau mengubah warna bahan seperti kain, benang, atau item lainnya melalui perendaman atau aplikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237837.jpeg",
+      "simplified": "染料",
+      "traditional": "染料",
+      "pinyin": "rǎnliào"
+    },
+    {
+      "id": 237839,
+      "translation": {
+        "en": {
+          "short": "tweezers",
+          "long": "a small tool with two long parts that are joined at one end, used for gripping and plucking small objects, particularly hairs",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pinset",
+          "long": "Alat kecil dengan dua bagian panjang yang bergabung di satu ujung, digunakan untuk mencengkeram dan memetik benda kecil, terutama rambut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237839.jpeg",
+      "simplified": "镊子",
+      "traditional": "鑷子",
+      "pinyin": "nièzi"
+    },
+    {
+      "id": 237843,
+      "translation": {
+        "en": {
+          "short": "cologne",
+          "long": "a liquid that people put on some parts of their skin or clothes to smell better",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Cologne",
+          "long": "cairan yang diletakkan orang di beberapa bagian kulit atau pakaian mereka untuk berbau lebih baik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237843.jpeg",
+      "simplified": "香水",
+      "traditional": "香水",
+      "pinyin": "xiāngshuǐ"
+    },
+    {
+      "id": 237850,
+      "translation": {
+        "en": {
+          "short": "deodorant",
+          "long": "a substance that people put on their skin to make it smell better or to hide bad ones",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "deodoran",
+          "long": "zat yang diletakkan orang di kulit mereka untuk membuatnya lebih baik atau menyembunyikan yang buruk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237850.jpeg",
+      "simplified": "除臭剂",
+      "traditional": "除臭劑",
+      "pinyin": "chúchòu jì"
+    },
+    {
+      "id": 237845,
+      "translation": {
+        "en": {
+          "short": "mouthwash",
+          "long": "a liquid with antibacterial ingredients that the mouth and teeth are rinsed with in order to become fresh and healthy",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "obat kumur",
+          "long": "Cairan dengan bahan antibakteri yang dibilas oleh mulut dan gigi untuk menjadi segar dan sehat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237845.jpeg",
+      "simplified": "漱口水",
+      "traditional": "漱口水",
+      "pinyin": "shùkǒu shuǐ"
+    },
+    {
+      "id": 237849,
+      "translation": {
+        "en": {
+          "short": "dental floss",
+          "long": "a soft and silky thread used to clean between the teeth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "benang gigi",
+          "long": "Benang yang lembut dan halus digunakan untuk membersihkan di antara gigi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237849.jpeg",
+      "simplified": "牙缝拉线",
+      "traditional": "牙縫拉線",
+      "pinyin": "yáfèng lā xiàn"
+    },
+    {
+      "id": 237848,
+      "translation": {
+        "en": {
+          "short": "nail file",
+          "long": "a metal rough surface used for shaping and evening rough fingernails and toenails",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "file kuku",
+          "long": "Permukaan kasar logam yang digunakan untuk membentuk dan kuku kuku dan kuku kaki malam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237848.jpeg",
+      "simplified": "指甲锉",
+      "traditional": "指甲銼",
+      "pinyin": "zhǐjia cuò"
+    },
+    {
+      "id": 237851,
+      "translation": {
+        "en": {
+          "short": "cotton swab",
+          "long": "a small stick with round pieces of cotton at each end used for hygienic or cosmetic purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapas",
+          "long": "Tongkat kecil dengan potongan kapas bundar di setiap ujung yang digunakan untuk tujuan higienis atau kosmetik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237851.jpeg",
+      "simplified": "棉签",
+      "traditional": "棉籤",
+      "pinyin": "miánqiān"
+    },
+    {
+      "id": 384816,
+      "translation": {
+        "en": {
+          "short": "makeup",
+          "long": "any type of substance that one uses to add more color or definition to one's face in order to alter or enhance one's appearance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dandan",
+          "long": "Segala jenis zat yang digunakan seseorang untuk menambahkan lebih banyak warna atau definisi ke wajah seseorang untuk mengubah atau meningkatkan penampilan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384816.jpeg",
+      "simplified": "化妆",
+      "traditional": "化妝",
+      "pinyin": "huàzhuāng"
+    },
+    {
+      "id": 400596,
+      "translation": {
+        "en": {
+          "short": "nail clippers",
+          "long": "the object that people use to cut and shorten their nails",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gunting kuku",
+          "long": "objek yang digunakan orang untuk memotong dan mempersingkat kuku mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/400596.jpeg",
+      "simplified": "指甲刀",
+      "traditional": "指甲刀",
+      "pinyin": "zhǐjia dāo"
+    },
+    {
+      "id": 237853,
+      "translation": {
+        "en": {
+          "short": "tampon",
+          "long": "a piece of cotton material that a woman inserts into her vagina to stop blood from coming out during her period",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tampon",
+          "long": "sepotong bahan katun yang dimasukkan seorang wanita ke dalam vaginanya untuk menghentikan darah keluar selama menstruasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237853.jpeg",
+      "simplified": "棉塞",
+      "traditional": "棉塞",
+      "pinyin": "mián Sāi"
+    }
+  ]
+}

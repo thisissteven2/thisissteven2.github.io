@@ -1,0 +1,602 @@
+{
+  "id": 4389,
+  "title": {
+    "en": "Sports",
+    "id": "Olahraga"
+  },
+  "description": {
+    "en": "Here, you will learn some English words related to Sport that are necessary for the General Training IELTS exam.",
+    "id": "Di sini, Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan olahraga yang diperlukan untuk ujian pelatihan umum IELTS."
+  },
+  "cards": [
+    {
+      "id": 361233,
+      "translation": {
+        "en": {
+          "short": "athletics",
+          "long": "any sport involving running, jumping, throwing and other forms of exertion, typically performed competitively",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "atletik",
+          "long": "Olahraga apa pun yang melibatkan berlari, melompat, melempar dan bentuk tenaga lainnya, biasanya dilakukan secara kompetitif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361233.jpeg",
+      "simplified": "竞技",
+      "traditional": "競技",
+      "pinyin": "jìngjì"
+    },
+    {
+      "id": 361234,
+      "translation": {
+        "en": {
+          "short": "diving",
+          "long": "‌the activity or sport of jumping into water from a diving board, with the head and arms first",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyelam",
+          "long": "‌ Aktivitas atau olahraga melompat ke air dari papan selam, dengan kepala dan lengan terlebih dahulu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361234.jpeg",
+      "simplified": "潜入水中",
+      "traditional": "潛入水中",
+      "pinyin": "qiánrù Shuǐ Zhōng"
+    },
+    {
+      "id": 361235,
+      "translation": {
+        "en": {
+          "short": "gymnastics",
+          "long": "a sport that develops and displays one's agility, balance, coordination, and strength",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "olahraga senam",
+          "long": "Olahraga yang mengembangkan dan menampilkan kelincahan, keseimbangan, koordinasi, dan kekuatan seseorang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361235.jpeg",
+      "simplified": "体操",
+      "traditional": "體操",
+      "pinyin": "tǐcāo"
+    },
+    {
+      "id": 361236,
+      "translation": {
+        "en": {
+          "short": "boxing",
+          "long": "a sport in which fighters wear special gloves and use only their fists to hit each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinju",
+          "long": "Olahraga di mana para pejuang mengenakan sarung tangan khusus dan hanya menggunakan tinju mereka untuk saling memukul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361236.jpeg",
+      "simplified": "拳击",
+      "traditional": "拳擊",
+      "pinyin": "quánjī"
+    },
+    {
+      "id": 361237,
+      "translation": {
+        "en": {
+          "short": "chess",
+          "long": "a strategic two-player board game where players move pieces with different abilities across a board with the objective of capturing the opponent's king",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "catur",
+          "long": "Permainan papan dua pemain yang strategis di mana pemain memindahkan potongan dengan kemampuan yang berbeda di seluruh papan dengan tujuan menangkap raja lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361237.jpeg",
+      "simplified": "棋",
+      "traditional": "棋",
+      "pinyin": "qí"
+    },
+    {
+      "id": 361238,
+      "translation": {
+        "en": {
+          "short": "skiing",
+          "long": "the activity or sport of moving over snow on skis",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Ski",
+          "long": "aktivitas atau olahraga bergerak di atas salju di atas ski",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361238.jpeg",
+      "simplified": "滑雪",
+      "traditional": "滑雪",
+      "pinyin": "huáxuě"
+    },
+    {
+      "id": 361239,
+      "translation": {
+        "en": {
+          "short": "ice skating",
+          "long": "the sport or activity of moving on ice with ice skates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "seluncur es",
+          "long": "Olahraga atau aktivitas bergerak di atas es dengan sepatu es",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361239.jpeg",
+      "simplified": "溜冰",
+      "traditional": "溜冰",
+      "pinyin": "liūbīng"
+    },
+    {
+      "id": 361240,
+      "translation": {
+        "en": {
+          "short": "horse racing",
+          "long": "a sport in which riders race against each other with their horses",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pacuan kuda",
+          "long": "olahraga di mana pengendara berlomba melawan satu sama lain dengan kuda mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361240.jpeg",
+      "simplified": "跑马",
+      "traditional": "跑馬",
+      "pinyin": "pǎomǎ"
+    },
+    {
+      "id": 361241,
+      "translation": {
+        "en": {
+          "short": "football",
+          "long": "a sport played with a round ball between two teams of eleven players each, aiming to score goals by kicking the ball into the opponent's goalpost",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepak bola",
+          "long": "Olahraga bermain dengan bola bundar di antara dua tim masing -masing dari sebelas pemain, bertujuan untuk mencetak gol dengan menendang bola ke tiang gawang lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361241.jpeg",
+      "simplified": "足球",
+      "traditional": "足球",
+      "pinyin": "zúqiú"
+    },
+    {
+      "id": 361242,
+      "translation": {
+        "en": {
+          "short": "basketball",
+          "long": "a type of sport where two teams, with often five players each, try to throw a ball through a net that is hanging from a ring and gain points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola basket",
+          "long": "Jenis olahraga di mana dua tim, dengan masing -masing lima pemain, cobalah untuk melempar bola melalui jaring yang tergantung dari cincin dan mendapatkan poin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361242.jpeg",
+      "simplified": "篮球",
+      "traditional": "籃球",
+      "pinyin": "lánqiú"
+    },
+    {
+      "id": 361243,
+      "translation": {
+        "en": {
+          "short": "baseball",
+          "long": "a game played with a bat and ball by two teams of 9 players who try to hit the ball and then run around four bases before the other team can return the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baseball",
+          "long": "Sebuah permainan dimainkan dengan kelelawar dan bola oleh dua tim yang terdiri dari 9 pemain yang mencoba memukul bola dan kemudian berlari di sekitar empat pangkalan sebelum tim lain dapat mengembalikan bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361243.jpeg",
+      "simplified": "棒球",
+      "traditional": "棒球",
+      "pinyin": "bàngqiú"
+    },
+    {
+      "id": 361244,
+      "translation": {
+        "en": {
+          "short": "volleyball",
+          "long": "a type of sport in which two teams of 6 players try to hit a ball over a net and into the other team's side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola voli",
+          "long": "Jenis olahraga di mana dua tim yang terdiri dari 6 pemain mencoba memukul bola di atas jaring dan ke sisi tim lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361244.jpeg",
+      "simplified": "排球",
+      "traditional": "排球",
+      "pinyin": "páiqiú"
+    },
+    {
+      "id": 361245,
+      "translation": {
+        "en": {
+          "short": "tennis",
+          "long": "a sport in which two or four players use rackets to hit a small ball backward and forward over a net",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tenis",
+          "long": "Olahraga di mana dua atau empat pemain menggunakan raket untuk memukul bola kecil ke belakang dan maju di atas jaring",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361245.jpeg",
+      "simplified": "网球",
+      "traditional": "網球",
+      "pinyin": "wǎngqiú"
+    },
+    {
+      "id": 361246,
+      "translation": {
+        "en": {
+          "short": "rugby",
+          "long": "a game played by two teams of thirteen or fifteen players, who kick or carry an oval ball over the other team’s line to score points",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ragbi",
+          "long": "Sebuah pertandingan yang dimainkan oleh dua tim yang terdiri dari tiga belas atau lima belas pemain, yang menendang atau membawa bola oval di atas garis tim lain untuk mencetak poin",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361246.jpeg",
+      "simplified": "橄榄球比赛",
+      "traditional": "橄欖球比賽",
+      "pinyin": "gǎnlǎn qiú bǐsài"
+    },
+    {
+      "id": 361247,
+      "translation": {
+        "en": {
+          "short": "Ping-Pong",
+          "long": "a game also called tennis, played by two or four players who aim to hit a small plastic ball back and forth on a table across a net placed in the middle using special bats",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pingpong",
+          "long": "Sebuah permainan juga disebut tenis, dimainkan oleh dua atau empat pemain yang bertujuan untuk menabrak bola plastik kecil bolak -balik di atas meja melintasi jaring yang ditempatkan di tengah menggunakan kelelawar khusus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361247.jpeg",
+      "simplified": "乒乓球",
+      "traditional": "乒乓球",
+      "pinyin": "pīngpāng qiú"
+    },
+    {
+      "id": 361248,
+      "translation": {
+        "en": {
+          "short": "cricket",
+          "long": "a game played by two teams of eleven players who try to get points by hitting the ball with a wooden bat and running between two sets of vertical wooden sticks",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jangkrik",
+          "long": "Sebuah permainan yang dimainkan oleh dua tim dari sebelas pemain yang mencoba mendapatkan poin dengan memukul bola dengan kelelawar kayu dan berlari di antara dua set tongkat kayu vertikal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361248.jpeg",
+      "simplified": "板球比赛",
+      "traditional": "板球比賽",
+      "pinyin": "bǎnqiú bǐsài"
+    },
+    {
+      "id": 361249,
+      "translation": {
+        "en": {
+          "short": "golf",
+          "long": "a game that is mostly played outside where each person uses a special stick to hit a small white ball into a number of holes with the least number of swings",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "golf",
+          "long": "Sebuah permainan yang sebagian besar dimainkan di luar di mana setiap orang menggunakan tongkat khusus untuk memukul bola putih kecil ke sejumlah lubang dengan sedikit ayunan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361249.jpeg",
+      "simplified": "高尔夫球",
+      "traditional": "高爾夫球",
+      "pinyin": "gāoěr fū qiú"
+    },
+    {
+      "id": 361250,
+      "translation": {
+        "en": {
+          "short": "bowling",
+          "long": "a sport or game in which a player rolls a ball down a lane with the aim of knocking over as many pins as possible at the other end of the lane",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bowling",
+          "long": "Olahraga atau permainan di mana seorang pemain menggulung bola menyusuri jalur dengan tujuan menjatuhkan sebanyak mungkin pin di ujung lain jalur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361250.jpeg",
+      "simplified": "保龄球",
+      "traditional": "保齡球",
+      "pinyin": "bǎolíng qiú"
+    },
+    {
+      "id": 361251,
+      "translation": {
+        "en": {
+          "short": "handball",
+          "long": "an indoor game for two teams of players each trying to throw a ball with their hands to the opponent's goal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola tangan",
+          "long": "Permainan dalam ruangan untuk dua tim pemain masing -masing mencoba melempar bola dengan tangan mereka ke gawang lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361251.jpeg",
+      "simplified": "手球",
+      "traditional": "手球",
+      "pinyin": "shǒuqiú"
+    },
+    {
+      "id": 361252,
+      "translation": {
+        "en": {
+          "short": "water polo",
+          "long": "a team sport played in water, combining elements of swimming and soccer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "polo air",
+          "long": "Olahraga tim bermain di air, menggabungkan unsur -unsur berenang dan sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361252.jpeg",
+      "simplified": "水球",
+      "traditional": "水球",
+      "pinyin": "shuǐqiú"
+    },
+    {
+      "id": 361253,
+      "translation": {
+        "en": {
+          "short": "billiards",
+          "long": "a table game in which two players compete by trying to direct balls into holes around the table using special long sticks called cues",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bilyar",
+          "long": "permainan meja di mana dua pemain bersaing dengan mencoba mengarahkan bola ke lubang di sekitar meja menggunakan tongkat panjang khusus yang disebut isyarat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361253.jpeg",
+      "simplified": "台球",
+      "traditional": "英式撞球",
+      "pinyin": "táiqiú"
+    },
+    {
+      "id": 361254,
+      "translation": {
+        "en": {
+          "short": "snooker",
+          "long": "a variation of pool played on a special green table with 1 white ball, 15 red balls, and 6 balls of other colors",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Snooker",
+          "long": "Variasi kolam diputar di meja hijau khusus dengan 1 bola putih, 15 bola merah, dan 6 bola warna lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361254.jpeg",
+      "simplified": "斯诺克",
+      "traditional": "斯諾克",
+      "pinyin": "sīnuò kè"
+    },
+    {
+      "id": 361255,
+      "translation": {
+        "en": {
+          "short": "pool",
+          "long": "a game played on a table with two players, in which the players use special sticks to hit 16 numbered balls into the holes at the edge of the table",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kolam",
+          "long": "Sebuah permainan yang dimainkan di atas meja dengan dua pemain, di mana para pemain menggunakan tongkat khusus untuk memukul 16 bola bernomor ke dalam lubang di tepi meja",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361255.jpeg",
+      "simplified": "类似于台球的游戏",
+      "traditional": "類似於台球的遊戲",
+      "pinyin": "lèisì Yú táiqiú de yóuxì"
+    },
+    {
+      "id": 361256,
+      "translation": {
+        "en": {
+          "short": "hockey",
+          "long": "a game played by two teams of eleven players on grass or a field, using long sticks to put a hard ball in the opposite team's goal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "hoki",
+          "long": "Sebuah permainan yang dimainkan oleh dua tim dari sebelas pemain di rumput atau lapangan, menggunakan tongkat panjang untuk menempatkan bola keras di gawang tim yang berlawanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361256.jpeg",
+      "simplified": "曲棍球",
+      "traditional": "曲棍球",
+      "pinyin": "qūgùn qiú"
+    },
+    {
+      "id": 361257,
+      "translation": {
+        "en": {
+          "short": "dodgeball",
+          "long": "a game in which two teams of players form circles and aim to hit their opponents with a ball in order to eliminate them while avoiding getting hit themselves",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dodgeball",
+          "long": "Sebuah permainan di mana dua tim pemain membentuk lingkaran dan bertujuan untuk memukul lawan mereka dengan bola untuk menghilangkannya sambil menghindari pukulan sendiri",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361257.jpeg",
+      "simplified": "躲避球",
+      "traditional": "躲避球",
+      "pinyin": "duǒbì qiú"
+    },
+    {
+      "id": 361259,
+      "translation": {
+        "en": {
+          "short": "futsal",
+          "long": "a fast-paced variant of indoor soccer played with a smaller ball and on a smaller court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "futsal",
+          "long": "Varian sepak bola indoor yang serba cepat dimainkan dengan bola yang lebih kecil dan di lapangan yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361259.jpeg",
+      "simplified": "五人制足球",
+      "traditional": "五人制足球",
+      "pinyin": "wǔ rén zhì zúqiú"
+    },
+    {
+      "id": 361261,
+      "translation": {
+        "en": {
+          "short": "squash",
+          "long": "a game that involves two or more players, hitting a rubber ball against the walls of a closed court by a racket",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "labu",
+          "long": "Permainan yang melibatkan dua atau lebih pemain, memukul bola karet di dinding lapangan tertutup oleh raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361261.jpeg",
+      "simplified": "壁球",
+      "traditional": "壁球",
+      "pinyin": "bìqiú"
+    },
+    {
+      "id": 361262,
+      "translation": {
+        "en": {
+          "short": "racquetball",
+          "long": "a game for two or four people who play with a hollow rubber ball and special rackets on a court with four walls",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Racquetball",
+          "long": "Permainan untuk dua atau empat orang yang bermain dengan bola karet berlubang dan raket khusus di lapangan dengan empat dinding",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361262.jpeg",
+      "simplified": "壁球",
+      "traditional": "壁球",
+      "pinyin": "bìqiú"
+    },
+    {
+      "id": 361263,
+      "translation": {
+        "en": {
+          "short": "badminton",
+          "long": "a sport played by two or four players who hit a lightweight object called a shuttle back and forth over a tall net using rackets",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bulu tangkis",
+          "long": "Olahraga yang dimainkan oleh dua atau empat pemain yang menabrak benda ringan yang disebut pesawat ulang -alik bolak -balik di atas jaring tinggi menggunakan raket",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361263.jpeg",
+      "simplified": "羽毛球",
+      "traditional": "羽毛球",
+      "pinyin": "yǔmáo qiú"
+    },
+    {
+      "id": 361264,
+      "translation": {
+        "en": {
+          "short": "paddleball",
+          "long": "a game where a small rubber ball is attached to a wooden paddle with an elastic string, and players hit the ball with the paddle to keep it in motion",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Paddleball",
+          "long": "Sebuah permainan di mana bola karet kecil melekat pada dayung kayu dengan tali elastis, dan pemain memukul bola dengan dayung agar tetap bergerak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/361264.jpeg",
+      "simplified": "板球",
+      "traditional": "板球",
+      "pinyin": "bǎnqiú"
+    },
+    {
+      "id": 371571,
+      "translation": {
+        "en": {
+          "short": "skating",
+          "long": "the sport or activity of moving around quickly on skates",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "skating",
+          "long": "Olahraga atau aktivitas bergerak dengan cepat di sepatu roda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/371571.jpeg",
+      "simplified": "溜冰",
+      "traditional": "溜冰",
+      "pinyin": "liūbīng"
+    }
+  ]
+}

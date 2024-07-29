@@ -1,0 +1,583 @@
+{
+  "id": 7,
+  "title": {
+    "en": "Basic Verbs",
+    "id": "Kata kerja dasar"
+  },
+  "description": {
+    "en": "Here you will learn some basic English verbs, such as \"wake up\", \"read\", and \"sleep\", prepared for A1 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata kerja bahasa Inggris dasar, seperti \"bangun\", \"baca\", dan \"tidur\", disiapkan untuk pelajar A1."
+  },
+  "cards": [
+    {
+      "id": 250140,
+      "translation": {
+        "en": {
+          "short": "to be",
+          "long": "to have an existence",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menjadi",
+          "long": "untuk memiliki keberadaan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/250140.jpeg",
+      "simplified": "是",
+      "traditional": "是",
+      "pinyin": "shì"
+    },
+    {
+      "id": 208493,
+      "translation": {
+        "en": {
+          "short": "to wake up",
+          "long": "to no longer be asleep",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bangun",
+          "long": "untuk tidak lagi tertidur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208493.jpeg",
+      "simplified": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐlai"
+    },
+    {
+      "id": 208495,
+      "translation": {
+        "en": {
+          "short": "to sleep",
+          "long": "to rest our mind and body, with our eyes closed",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "tidur",
+          "long": "untuk mengistirahatkan pikiran dan tubuh kita, dengan mata tertutup",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208495.jpeg",
+      "simplified": "睡眠",
+      "traditional": "睡眠",
+      "pinyin": "shuìmián"
+    },
+    {
+      "id": 208497,
+      "translation": {
+        "en": {
+          "short": "to work",
+          "long": "to do a job or task, usually for a company or organization, in order to receive money",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bekerja",
+          "long": "Untuk melakukan pekerjaan atau tugas, biasanya untuk perusahaan atau organisasi, untuk menerima uang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208497.jpeg",
+      "simplified": "工作",
+      "traditional": "工作",
+      "pinyin": "gōngzuò"
+    },
+    {
+      "id": 208502,
+      "translation": {
+        "en": {
+          "short": "to drive",
+          "long": "to control the movement and the speed of a car, bus, truck, etc. when it is moving",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengemudi",
+          "long": "untuk mengontrol gerakan dan kecepatan mobil, bus, truk, dll. Saat bergerak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208502.jpeg",
+      "simplified": "驾车",
+      "traditional": "駕車",
+      "pinyin": "jiàchē"
+    },
+    {
+      "id": 208498,
+      "translation": {
+        "en": {
+          "short": "to buy",
+          "long": "to get something in exchange for paying money",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membeli",
+          "long": "untuk mendapatkan sesuatu dengan imbalan membayar uang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208498.jpeg",
+      "simplified": "买",
+      "traditional": "買",
+      "pinyin": "mǎi"
+    },
+    {
+      "id": 220757,
+      "translation": {
+        "en": {
+          "short": "to sell",
+          "long": "to give something to someone in exchange for money",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjual",
+          "long": "untuk memberikan sesuatu kepada seseorang dengan imbalan uang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220757.jpeg",
+      "simplified": "卖东西",
+      "traditional": "賣東西",
+      "pinyin": "mài dōngxī"
+    },
+    {
+      "id": 208499,
+      "translation": {
+        "en": {
+          "short": "to read",
+          "long": "to look at written or printed words or symbols and understand their meaning",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membaca",
+          "long": "untuk melihat kata atau simbol tertulis atau dicetak dan memahami maknanya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208499.jpeg",
+      "simplified": "读",
+      "traditional": "讀",
+      "pinyin": "dòu"
+    },
+    {
+      "id": 208500,
+      "translation": {
+        "en": {
+          "short": "to write",
+          "long": "to make letters, words, or numbers on a surface, usually on a piece of paper, with a pen or pencil",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menulis",
+          "long": "Untuk membuat huruf, kata, atau angka di permukaan, biasanya di selembar kertas, dengan pena atau pensil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208500.jpeg",
+      "simplified": "写",
+      "traditional": "寫",
+      "pinyin": "xiě"
+    },
+    {
+      "id": 208501,
+      "translation": {
+        "en": {
+          "short": "to play",
+          "long": "to take part in a game or activity for fun",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bermain",
+          "long": "untuk mengambil bagian dalam permainan atau aktivitas untuk bersenang -senang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208501.jpeg",
+      "simplified": "玩",
+      "traditional": "玩",
+      "pinyin": "wán"
+    },
+    {
+      "id": 208503,
+      "translation": {
+        "en": {
+          "short": "to pay",
+          "long": "to give someone money in exchange for goods or services",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "membayar",
+          "long": "untuk memberi seseorang uang dengan imbalan barang atau jasa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208503.jpeg",
+      "simplified": "付出某物的代价",
+      "traditional": "付出某物的代價",
+      "pinyin": "fùchū mǒuwù de dàijià"
+    },
+    {
+      "id": 208504,
+      "translation": {
+        "en": {
+          "short": "to rest",
+          "long": "to stop working, moving, or doing an activity for a period of time and sit or lie down to relax",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "beristirahat",
+          "long": "untuk berhenti bekerja, bergerak, atau melakukan kegiatan untuk jangka waktu tertentu dan duduk atau berbaring untuk bersantai",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208504.jpeg",
+      "simplified": "休息",
+      "traditional": "休息",
+      "pinyin": "xiūxi"
+    },
+    {
+      "id": 208508,
+      "translation": {
+        "en": {
+          "short": "to wash",
+          "long": "to clean someone or something with water, often with a type of soap",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mencuci",
+          "long": "untuk membersihkan seseorang atau sesuatu dengan air, seringkali dengan jenis sabun",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208508.jpeg",
+      "simplified": "洗东西",
+      "traditional": "洗東西",
+      "pinyin": "xǐ dōngxī"
+    },
+    {
+      "id": 208509,
+      "translation": {
+        "en": {
+          "short": "to drink",
+          "long": "to put water, coffee, or other type of liquid inside of our body through our mouth",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk minum",
+          "long": "untuk meletakkan air, kopi, atau jenis cairan lain di dalam tubuh kita melalui mulut kita",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208509.jpeg",
+      "simplified": "喝点东西",
+      "traditional": "喝點東西",
+      "pinyin": "hē diǎn dōngxī"
+    },
+    {
+      "id": 208511,
+      "translation": {
+        "en": {
+          "short": "to cook",
+          "long": "to make food with heat",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memasak",
+          "long": "untuk membuat makanan dengan panas",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208511.jpeg",
+      "simplified": "煮食物",
+      "traditional": "煮食物",
+      "pinyin": "zhǔ shíwù"
+    },
+    {
+      "id": 208510,
+      "translation": {
+        "en": {
+          "short": "to eat",
+          "long": "to put food into the mouth, then chew and swallow it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk makan",
+          "long": "untuk memasukkan makanan ke dalam mulut, lalu mengunyah dan menelannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/208510.jpeg",
+      "simplified": "吃",
+      "traditional": "吃",
+      "pinyin": "chī"
+    },
+    {
+      "id": 220700,
+      "translation": {
+        "en": {
+          "short": "to have",
+          "long": "to eat or drink something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memiliki",
+          "long": "untuk makan atau minum sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220700.jpeg",
+      "simplified": "吃或喝",
+      "traditional": "吃或喝",
+      "pinyin": "chī huò hē"
+    },
+    {
+      "id": 220702,
+      "translation": {
+        "en": {
+          "short": "to make",
+          "long": "to form, produce, or prepare something, by putting parts together or by combining materials",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membuat",
+          "long": "untuk membentuk, memproduksi, atau menyiapkan sesuatu, dengan menyatukan bagian -bagiannya atau dengan menggabungkan bahan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220702.jpeg",
+      "simplified": "做某事",
+      "traditional": "做某事",
+      "pinyin": "zuò mǒushì"
+    },
+    {
+      "id": 220707,
+      "translation": {
+        "en": {
+          "short": "to wear",
+          "long": "to have something such as clothes, shoes, etc. on your body",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk dipakai",
+          "long": "untuk memiliki sesuatu seperti pakaian, sepatu, dll di tubuh Anda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220707.jpeg",
+      "simplified": "穿着某事",
+      "traditional": "穿著某事",
+      "pinyin": "chuānzhuó mǒushì"
+    },
+    {
+      "id": 220711,
+      "translation": {
+        "en": {
+          "short": "to clean",
+          "long": "to make something have no bacteria, marks, or dirt",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membersihkan",
+          "long": "untuk membuat sesuatu tidak memiliki bakteri, tanda, atau kotoran",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/220711.jpeg",
+      "simplified": "清洁某物",
+      "traditional": "清潔某物",
+      "pinyin": "qīngjié mǒuwù"
+    },
+    {
+      "id": 236847,
+      "translation": {
+        "en": {
+          "short": "to think",
+          "long": "to have a type of belief or idea about a person or thing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berpikir",
+          "long": "untuk memiliki jenis keyakinan atau ide tentang seseorang atau benda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236847.jpeg",
+      "simplified": "沉思",
+      "traditional": "沉思",
+      "pinyin": "chénsī"
+    },
+    {
+      "id": 236849,
+      "translation": {
+        "en": {
+          "short": "to take",
+          "long": "to reach for something and hold it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengambil",
+          "long": "untuk meraih sesuatu dan menahannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236849.jpeg",
+      "simplified": "采取",
+      "traditional": "採取",
+      "pinyin": "cǎiqǔ"
+    },
+    {
+      "id": 236850,
+      "translation": {
+        "en": {
+          "short": "to stand",
+          "long": "to be upright on one's feet",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berdiri",
+          "long": "untuk tegak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236850.jpeg",
+      "simplified": "站立",
+      "traditional": "站立",
+      "pinyin": "zhànlì"
+    },
+    {
+      "id": 236851,
+      "translation": {
+        "en": {
+          "short": "to speak",
+          "long": "to use one's voice to express a particular feeling or thought",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "berbicara",
+          "long": "untuk menggunakan suara seseorang untuk mengekspresikan perasaan atau pemikiran tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236851.jpeg",
+      "simplified": "说话",
+      "traditional": "說話",
+      "pinyin": "shuōhuà"
+    },
+    {
+      "id": 236853,
+      "translation": {
+        "en": {
+          "short": "to spell",
+          "long": "to write or say the letters that form a word one by one in the right order",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengeja",
+          "long": "untuk menulis atau mengatakan huruf yang membentuk kata satu per satu dalam urutan yang benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236853.jpeg",
+      "simplified": "拼写",
+      "traditional": "拼寫",
+      "pinyin": "pīnxiě"
+    },
+    {
+      "id": 266030,
+      "translation": {
+        "en": {
+          "short": "to dislike",
+          "long": "to not like a person or thing",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "tidak suka",
+          "long": "untuk tidak menyukai seseorang atau benda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/266030.jpeg",
+      "simplified": "反感",
+      "traditional": "反感",
+      "pinyin": "fǎngǎn"
+    },
+    {
+      "id": 236865,
+      "translation": {
+        "en": {
+          "short": "to add",
+          "long": "to put things together to make them bigger in size or quantity",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "menambahkan",
+          "long": "untuk menyatukan semuanya agar ukuran atau kuantitasnya lebih besar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236865.jpeg",
+      "simplified": "加",
+      "traditional": "加",
+      "pinyin": "Jiā"
+    },
+    {
+      "id": 236866,
+      "translation": {
+        "en": {
+          "short": "to call",
+          "long": "to give a name or title to someone or something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "memanggil",
+          "long": "untuk memberikan nama atau judul kepada seseorang atau sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236866.jpeg",
+      "simplified": "称呼某人某事",
+      "traditional": "稱呼某人某事",
+      "pinyin": "chēnghu mǒurén mǒushì"
+    },
+    {
+      "id": 236868,
+      "translation": {
+        "en": {
+          "short": "to create",
+          "long": "to bring something into existence or make something happen",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk membuat",
+          "long": "untuk membawa sesuatu ke dalam keberadaan atau membuat sesuatu terjadi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236868.jpeg",
+      "simplified": "创建",
+      "traditional": "創建",
+      "pinyin": "chuàngjiàn"
+    },
+    {
+      "id": 236869,
+      "translation": {
+        "en": {
+          "short": "to cut",
+          "long": "to divide a thing into smaller pieces using a sharp object",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "Untuk membagi sesuatu menjadi potongan -potongan kecil menggunakan objek yang tajam",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/236869.jpeg",
+      "simplified": "切东西",
+      "traditional": "切東西",
+      "pinyin": "qiē dōngxī"
+    }
+  ]
+}

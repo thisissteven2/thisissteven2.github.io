@@ -1,0 +1,602 @@
+{
+  "id": 845,
+  "title": {
+    "en": "Tools",
+    "id": "Peralatan"
+  },
+  "description": {
+    "en": "Here you will learn some English words about tools, such as \"ax\", \"bolt\", \"hammer\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang alat, seperti \"kapak\", \"baut\", \"palu\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 237887,
+      "translation": {
+        "en": {
+          "short": "hammer",
+          "long": "a tool with a metal head and a handle, used for striking nails, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Palu",
+          "long": "Alat dengan kepala logam dan pegangan, digunakan untuk kuku yang menyerang, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237887.jpeg",
+      "simplified": "锤",
+      "traditional": "錘",
+      "pinyin": "chuí"
+    },
+    {
+      "id": 237900,
+      "translation": {
+        "en": {
+          "short": "mallet",
+          "long": "a hammer-like tool with a large wooden or rubber head used for striking or directing objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "martil",
+          "long": "Alat seperti palu dengan kayu besar atau kepala karet yang digunakan untuk menyerang atau mengarahkan benda",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237900.jpeg",
+      "simplified": "槌",
+      "traditional": "槌",
+      "pinyin": "chuí"
+    },
+    {
+      "id": 237888,
+      "translation": {
+        "en": {
+          "short": "saw",
+          "long": "a metal tool with a toothed blade that is used for cutting wood, metal, etc. by moving back and forth",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gergaji",
+          "long": "Alat logam dengan bilah bergigi yang digunakan untuk memotong kayu, logam, dll. Dengan bergerak bolak -balik",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237888.jpeg",
+      "simplified": "锯",
+      "traditional": "鋸",
+      "pinyin": "jū"
+    },
+    {
+      "id": 237890,
+      "translation": {
+        "en": {
+          "short": "chainsaw",
+          "long": "a tool with a toothed chain inside that is powered by a small engine, used for cutting wood",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gergaji",
+          "long": "Alat dengan rantai bergigi di dalam yang ditenagai oleh mesin kecil, digunakan untuk memotong kayu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237890.jpeg",
+      "simplified": "电锯",
+      "traditional": "電鋸",
+      "pinyin": "diànjù"
+    },
+    {
+      "id": 237889,
+      "translation": {
+        "en": {
+          "short": "drill",
+          "long": "a handheld tool that uses rotational force to create holes or drive screws in various materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengebor",
+          "long": "Alat genggam yang menggunakan gaya rotasi untuk membuat lubang atau sekrup penggerak dalam berbagai bahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237889.jpeg",
+      "simplified": "钻头",
+      "traditional": "鑽頭",
+      "pinyin": "zuàntóu"
+    },
+    {
+      "id": 237894,
+      "translation": {
+        "en": {
+          "short": "wrench",
+          "long": "a hand tool with a handle and a jaw or jaws designed to grip, turn, or hold objects such as nuts, bolts, or pipes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kunci",
+          "long": "alat tangan dengan pegangan dan rahang atau rahang yang dirancang untuk menggenggam, memutar, atau menahan benda seperti mur, baut, atau pipa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237894.jpeg",
+      "simplified": "扳手",
+      "traditional": "扳手",
+      "pinyin": "bānshǒu"
+    },
+    {
+      "id": 237891,
+      "translation": {
+        "en": {
+          "short": "screw",
+          "long": "a small pointy piece of metal that can be fasten into wooden or metal objects using a screwdriver to hold things together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "Sepotong kecil logam runcing yang dapat diikat menjadi benda kayu atau logam menggunakan obeng untuk menyatukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237891.jpeg",
+      "simplified": "拧",
+      "traditional": "擰",
+      "pinyin": "níng"
+    },
+    {
+      "id": 237892,
+      "translation": {
+        "en": {
+          "short": "screwdriver",
+          "long": "a small tool with a metal part by which screws can be turned",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Obeng",
+          "long": "Alat kecil dengan bagian logam dimana sekrup dapat diputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237892.jpeg",
+      "simplified": "螺丝刀",
+      "traditional": "螺絲刀",
+      "pinyin": "luósī dāo"
+    },
+    {
+      "id": 237893,
+      "translation": {
+        "en": {
+          "short": "nail",
+          "long": "a small strong pointy metal that is inserted into walls or wooden objects using a hammer to hang things from or fasten them together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "paku",
+          "long": "Logam runcing kecil yang kuat yang dimasukkan ke dalam dinding atau benda kayu menggunakan palu untuk menggantung sesuatu atau mengencangkannya bersama -sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237893.jpeg",
+      "simplified": "金属钉",
+      "traditional": "金屬釘",
+      "pinyin": "jīnshǔ dīng"
+    },
+    {
+      "id": 237896,
+      "translation": {
+        "en": {
+          "short": "glue",
+          "long": "a substance that is used to stick things to each other",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lem",
+          "long": "zat yang digunakan untuk menempelkan sesuatu satu sama lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237896.jpeg",
+      "simplified": "胶",
+      "traditional": "膠",
+      "pinyin": "jiāo"
+    },
+    {
+      "id": 237898,
+      "translation": {
+        "en": {
+          "short": "file",
+          "long": "a metal tool with a rough surface that is used to smooth wooden or metal rough edges",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengajukan",
+          "long": "Alat logam dengan permukaan kasar yang digunakan untuk menghaluskan tepi kayu atau logam kasar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237898.jpeg",
+      "simplified": "擦菜板",
+      "traditional": "擦菜板",
+      "pinyin": "cā càibǎn"
+    },
+    {
+      "id": 237899,
+      "translation": {
+        "en": {
+          "short": "chisel",
+          "long": "a metal tool with a handle and a strong flat-edged blade that is used to shape hard objects, such as wood, metal, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pahat",
+          "long": "Alat logam dengan pegangan dan bilah datar yang kuat yang digunakan untuk membentuk benda keras, seperti kayu, logam, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237899.jpeg",
+      "simplified": "金属凿子",
+      "traditional": "金屬鑿子",
+      "pinyin": "jīnshǔ záozi"
+    },
+    {
+      "id": 237901,
+      "translation": {
+        "en": {
+          "short": "bolt",
+          "long": "a piece of metal like a thick nail without a point that used to secure assembled parts by passing through holes and tightening with a nut",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "baut",
+          "long": "Sepotong logam seperti kuku tebal tanpa titik yang digunakan untuk mengamankan bagian yang dirakit dengan melewati lubang dan mengencang dengan kacang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237901.jpeg",
+      "simplified": "螺栓",
+      "traditional": "螺栓",
+      "pinyin": "luóshuān"
+    },
+    {
+      "id": 237902,
+      "translation": {
+        "en": {
+          "short": "nut",
+          "long": "a flat piece of metal with a hole in the middle through which a bolt is put to secure or fasten objects together",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kacang",
+          "long": "sepotong logam datar dengan lubang di tengah di mana baut diletakkan untuk mengamankan atau mengikat benda bersama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237902.jpeg",
+      "simplified": "坚果",
+      "traditional": "堅果",
+      "pinyin": "jiānguǒ"
+    },
+    {
+      "id": 237916,
+      "translation": {
+        "en": {
+          "short": "washer",
+          "long": "a flat rubber, plastic, or metal ring which is small and acts as a seal or is put between a nut and a bolt to tighten their connection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mesin cuci",
+          "long": "karet datar, plastik, atau cincin logam yang kecil dan bertindak sebagai segel atau diletakkan di antara mur dan baut untuk mengencangkan koneksi mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237916.jpeg",
+      "simplified": "垫圈",
+      "traditional": "墊圈",
+      "pinyin": "diànjuàn"
+    },
+    {
+      "id": 237906,
+      "translation": {
+        "en": {
+          "short": "fork",
+          "long": "a gardening tool with a handle and three or four sharp points, used for digging or moving hay",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "garpu",
+          "long": "alat berkebun dengan pegangan dan tiga atau empat titik tajam, digunakan untuk menggali atau memindahkan jerami",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237906.jpeg",
+      "simplified": "挖掘叉",
+      "traditional": "挖掘叉",
+      "pinyin": "wājué chā"
+    },
+    {
+      "id": 237903,
+      "translation": {
+        "en": {
+          "short": "shovel",
+          "long": "a tool that has a long handle with a broad curved metal end, used for moving snow, soil, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sekop",
+          "long": "Alat yang memiliki pegangan panjang dengan ujung logam melengkung yang luas, digunakan untuk menggerakkan salju, tanah, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237903.jpeg",
+      "simplified": "铲",
+      "traditional": "鏟",
+      "pinyin": "chǎn"
+    },
+    {
+      "id": 237905,
+      "translation": {
+        "en": {
+          "short": "wheelbarrow",
+          "long": "an object with two handles and one wheel, used for carrying things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kereta sorong",
+          "long": "objek dengan dua pegangan dan satu roda, digunakan untuk membawa barang -barang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237905.jpeg",
+      "simplified": "独轮车",
+      "traditional": "獨輪車",
+      "pinyin": "dúlún chē"
+    },
+    {
+      "id": 237908,
+      "translation": {
+        "en": {
+          "short": "toolbox",
+          "long": "a portable, often metal box for organizing and keeping tools in",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kotak alat",
+          "long": "kotak portabel, seringkali logam untuk mengatur dan menjaga alat masuk",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237908.jpeg",
+      "simplified": "工具箱",
+      "traditional": "工具箱",
+      "pinyin": "gōngjù xiāng"
+    },
+    {
+      "id": 237907,
+      "translation": {
+        "en": {
+          "short": "pliers",
+          "long": "a small metal tool with two jaws used for gripping, bending, or cutting materials such as wires, pipes, or small objects",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tang",
+          "long": "Alat logam kecil dengan dua rahang yang digunakan untuk mencengkeram, menekuk, atau memotong bahan seperti kabel, pipa, atau benda kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237907.jpeg",
+      "simplified": "钳",
+      "traditional": "鉗",
+      "pinyin": "qián"
+    },
+    {
+      "id": 237913,
+      "translation": {
+        "en": {
+          "short": "wire cutter",
+          "long": "a hand tool specifically designed for cutting wires and cables",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "alat pemotong kawat",
+          "long": "Alat tangan yang dirancang khusus untuk memotong kabel dan kabel",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237913.jpeg",
+      "simplified": "钢丝钳",
+      "traditional": "鋼絲鉗",
+      "pinyin": "gāngsī qián"
+    },
+    {
+      "id": 237914,
+      "translation": {
+        "en": {
+          "short": "duct tape",
+          "long": "a silver-colored object that is sticky on one side and is used for fixing things",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lakban",
+          "long": "objek berwarna perak yang lengket di satu sisi dan digunakan untuk memperbaiki sesuatu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237914.jpeg",
+      "simplified": "管道胶带",
+      "traditional": "管道膠帶",
+      "pinyin": "guǎndào jiāodài"
+    },
+    {
+      "id": 237915,
+      "translation": {
+        "en": {
+          "short": "plunger",
+          "long": "a tool with a rubber cup fixed to a handle, used for clearing blocked pipes or drains",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penyelam",
+          "long": "alat dengan cangkir karet yang dipasang pada pegangan, digunakan untuk membersihkan pipa atau saluran pembuangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237915.jpeg",
+      "simplified": "柱塞",
+      "traditional": "柱塞",
+      "pinyin": "zhùsāi"
+    },
+    {
+      "id": 237917,
+      "translation": {
+        "en": {
+          "short": "crowbar",
+          "long": "an iron bar with one end curved that is used as a lever",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "linggis",
+          "long": "batang besi dengan satu ujung melengkung yang digunakan sebagai tuas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237917.jpeg",
+      "simplified": "撬棍",
+      "traditional": "撬棍",
+      "pinyin": "qiàogùn"
+    },
+    {
+      "id": 237918,
+      "translation": {
+        "en": {
+          "short": "staple gun",
+          "long": "a metal tool that uses staples to fix paper or wood to other materials",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pistol Staples",
+          "long": "alat logam yang menggunakan staples untuk memperbaiki kertas atau kayu ke bahan lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237918.jpeg",
+      "simplified": "订书机",
+      "traditional": "訂書機",
+      "pinyin": "dìngshū jī"
+    },
+    {
+      "id": 237919,
+      "translation": {
+        "en": {
+          "short": "box cutter",
+          "long": "a small razor with an adjustable blade used for cutting cardboard boxes, packaging materials, and other items",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pemotong kotak",
+          "long": "Pisau cukur kecil dengan bilah yang dapat disesuaikan yang digunakan untuk memotong kotak kardus, bahan pengemasan, dan barang -barang lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/237919.jpeg",
+      "simplified": "开箱刀",
+      "traditional": "開箱刀",
+      "pinyin": "kāixiāng Dāo"
+    },
+    {
+      "id": 239647,
+      "translation": {
+        "en": {
+          "short": "to function",
+          "long": "to work or perform properly",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berfungsi",
+          "long": "untuk bekerja atau berkinerja dengan benar",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239647.jpeg",
+      "simplified": "活动",
+      "traditional": "活動",
+      "pinyin": "huódòng"
+    },
+    {
+      "id": 257514,
+      "translation": {
+        "en": {
+          "short": "adjustable wrench",
+          "long": "a type of wrench with a movable part that can turn or hold things of different sizes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kunci pas yang bisa disesuaikan",
+          "long": "Suatu jenis kunci pas dengan bagian yang dapat dipindahkan yang dapat mengubah atau menahan berbagai ukuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/257514.jpeg",
+      "simplified": "活动扳手",
+      "traditional": "活動扳手",
+      "pinyin": "huódòng bān shǒu"
+    },
+    {
+      "id": 389134,
+      "translation": {
+        "en": {
+          "short": "tape measure",
+          "long": "a flexible measuring tool consisting of a long strip of metal, cloth, or plastic with measurement markings, used to measure lengths and distances accurately",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pita pengukur",
+          "long": "Alat pengukur fleksibel yang terdiri dari strip panjang logam, kain, atau plastik dengan tanda pengukuran, digunakan untuk mengukur panjang dan jarak secara akurat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/389134.jpeg",
+      "simplified": "卷尺",
+      "traditional": "捲尺",
+      "pinyin": "juǎnchǐ"
+    },
+    {
+      "id": 264101,
+      "translation": {
+        "en": {
+          "short": "sledgehammer",
+          "long": "a large tool consisted of a long handle with a heavy metal block at its end, used with both hands to break a stone, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sledgehammer",
+          "long": "Alat besar terdiri dari pegangan panjang dengan blok logam berat di ujungnya, digunakan dengan kedua tangan untuk mematahkan batu, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/264101.jpeg",
+      "simplified": "大锤",
+      "traditional": "大錘",
+      "pinyin": "dàchuí"
+    },
+    {
+      "id": 384728,
+      "translation": {
+        "en": {
+          "short": "ax",
+          "long": "a tool with a long wooden handle attached to a heavy steel or iron blade, primarily used for chopping wood and cutting down trees",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapak",
+          "long": "Alat dengan pegangan kayu panjang yang melekat pada baja berat atau bilah besi, terutama digunakan untuk memotong kayu dan menebang pohon",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/384728.jpeg",
+      "simplified": "斧头",
+      "traditional": "斧頭",
+      "pinyin": "fǔtóu"
+    }
+  ]
+}

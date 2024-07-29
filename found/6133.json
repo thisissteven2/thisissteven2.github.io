@@ -1,0 +1,925 @@
+{
+  "id": 6133,
+  "title": {
+    "en": "Traffic Signs",
+    "id": "Rambu lalu lintas"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to traffic signs such as \"regulatory sign\", \"warning sign\", and \"guide sign.\"",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan tanda -tanda lalu lintas seperti \"tanda peraturan\", \"tanda peringatan\", dan \"tanda panduan.\""
+  },
+  "cards": [
+    {
+      "id": 407216,
+      "translation": {
+        "en": {
+          "short": "traffic sign",
+          "long": "a sign placed along roads or highways to convey information, instructions, or warnings for regulating traffic and ensuring road safety",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rambu lalu lintas",
+          "long": "Tanda ditempatkan di sepanjang jalan atau jalan raya untuk menyampaikan informasi, instruksi, atau peringatan untuk mengatur lalu lintas dan memastikan keselamatan jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407216.jpeg",
+      "simplified": "交通标志",
+      "traditional": "交通標誌",
+      "pinyin": "jiāotōng biāo zhì"
+    },
+    {
+      "id": 407217,
+      "translation": {
+        "en": {
+          "short": "road sign",
+          "long": "a sign that shows warnings or information to drivers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rambu lalulintas",
+          "long": "Tanda yang menunjukkan peringatan atau informasi kepada pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407217.jpeg",
+      "simplified": "路标",
+      "traditional": "路標",
+      "pinyin": "lùbiāo"
+    },
+    {
+      "id": 407219,
+      "translation": {
+        "en": {
+          "short": "variable-message sign",
+          "long": "a digital display board that shows different information depending on the situation or need",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda pesan variabel",
+          "long": "papan tampilan digital yang menunjukkan informasi berbeda tergantung pada situasi atau kebutuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407219.jpeg",
+      "simplified": "可变消息符号",
+      "traditional": "可變消息符號",
+      "pinyin": "kěbiàn xiāoxi fúhào"
+    },
+    {
+      "id": 407221,
+      "translation": {
+        "en": {
+          "short": "regulatory sign",
+          "long": "a type of traffic sign that provides specific instructions or regulations to road users, typically in the form of symbols or words",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda peraturan",
+          "long": "Jenis tanda lalu lintas yang memberikan instruksi atau peraturan khusus kepada pengguna jalan, biasanya dalam bentuk simbol atau kata -kata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407221.jpeg",
+      "simplified": "监管标志",
+      "traditional": "監管標誌",
+      "pinyin": "jiānguǎn biāozhì"
+    },
+    {
+      "id": 407226,
+      "translation": {
+        "en": {
+          "short": "stop sign",
+          "long": "a red, octagonal traffic sign that indicates vehicles must come to a complete stop",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda berhenti",
+          "long": "Tanda lalu lintas oktagonal merah yang menunjukkan kendaraan harus berhenti total",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407226.jpeg",
+      "simplified": "停止标志",
+      "traditional": "停止標誌",
+      "pinyin": "tíngzhǐ biāozhì"
+    },
+    {
+      "id": 407228,
+      "translation": {
+        "en": {
+          "short": "yield sign",
+          "long": "a traffic sign that indicates drivers must give the right of way to vehicles from another direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda hasil",
+          "long": "Tanda lalu lintas yang menunjukkan pengemudi harus memberikan hak jalan bagi kendaraan dari arah lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407228.jpeg",
+      "simplified": "产量标志",
+      "traditional": "產量標誌",
+      "pinyin": "chǎnliàng biāozhì"
+    },
+    {
+      "id": 407230,
+      "translation": {
+        "en": {
+          "short": "no right turn sign",
+          "long": "a traffic symbol indicating that vehicles are not permitted to turn to the right at a specified location",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada tanda belok kanan",
+          "long": "Simbol lalu lintas yang menunjukkan bahwa kendaraan tidak diizinkan untuk berbelok ke kanan di lokasi yang ditentukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407230.jpeg",
+      "simplified": "没有右转标牌",
+      "traditional": "沒有右轉標牌",
+      "pinyin": "méiyǒu yòuzhuǎn biāopái"
+    },
+    {
+      "id": 407232,
+      "translation": {
+        "en": {
+          "short": "no left turn sign",
+          "long": "a traffic sign that prohibits vehicles from turning left at a specific intersection or location",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada tanda belok kiri",
+          "long": "Tanda lalu lintas yang melarang kendaraan belok kiri di persimpangan atau lokasi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407232.jpeg",
+      "simplified": "没有左转标志",
+      "traditional": "沒有左轉標誌",
+      "pinyin": "méiyǒu zuǒzhuǎn biāozhì"
+    },
+    {
+      "id": 407234,
+      "translation": {
+        "en": {
+          "short": "no turns sign",
+          "long": "a traffic sign indicating that vehicles are not permitted to make turns at a specific location",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada tanda belokan",
+          "long": "Tanda lalu lintas yang menunjukkan bahwa kendaraan tidak diizinkan berbelok di lokasi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407234.jpeg",
+      "simplified": "没有转弯符号",
+      "traditional": "沒有轉彎符號",
+      "pinyin": "méiyǒu zhuǎnwān fúhào"
+    },
+    {
+      "id": 407236,
+      "translation": {
+        "en": {
+          "short": "no U-turn sign",
+          "long": "a traffic signal indicating that vehicles are prohibited from reversing direction at that point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada tanda putar u",
+          "long": "sinyal lalu lintas yang menunjukkan bahwa kendaraan dilarang membalikkan arah pada saat itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407236.jpeg",
+      "simplified": "没有掉头标志",
+      "traditional": "沒有掉頭標誌",
+      "pinyin": "méiyǒu diàotóu biāozhì"
+    },
+    {
+      "id": 407238,
+      "translation": {
+        "en": {
+          "short": "no parking sign",
+          "long": "a notice indicating where parking is prohibited",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada tanda parkir",
+          "long": "pemberitahuan yang menunjukkan di mana parkir dilarang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407238.jpeg",
+      "simplified": "没有停车标志",
+      "traditional": "沒有停車標誌",
+      "pinyin": "méiyǒu tíngchē biāozhì"
+    },
+    {
+      "id": 407240,
+      "translation": {
+        "en": {
+          "short": "do not enter sign",
+          "long": "a red and white sign indicating that entry is prohibited",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Jangan masuk ke tanda",
+          "long": "Tanda merah dan putih yang menunjukkan bahwa entri dilarang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407240.jpeg",
+      "simplified": "不要输入标志",
+      "traditional": "不要輸入標誌",
+      "pinyin": "bùyào shūrù biāozhì"
+    },
+    {
+      "id": 407242,
+      "translation": {
+        "en": {
+          "short": "no pedestrians crossing",
+          "long": "a sign that indicates pedestrians are not allowed to cross the road at that point",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tidak ada pejalan kaki yang menyeberang",
+          "long": "Tanda yang menunjukkan pejalan kaki tidak diizinkan untuk menyeberang jalan pada saat itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407242.jpeg",
+      "simplified": "没有行人穿越",
+      "traditional": "沒有行人穿越",
+      "pinyin": "méiyǒu xíngrén chuānyuè"
+    },
+    {
+      "id": 407244,
+      "translation": {
+        "en": {
+          "short": "speed limit sign",
+          "long": "a sign that shows the maximum speed allowed on a road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda batas kecepatan",
+          "long": "Tanda yang menunjukkan kecepatan maksimum yang diizinkan di jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407244.jpeg",
+      "simplified": "速度限制标志",
+      "traditional": "速度限制標誌",
+      "pinyin": "sùdù xiànzhì biāozhì"
+    },
+    {
+      "id": 407246,
+      "translation": {
+        "en": {
+          "short": "left turn only sign",
+          "long": "a traffic signal indicating that vehicles must turn left at an intersection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda belok kiri hanya",
+          "long": "sinyal lalu lintas yang menunjukkan bahwa kendaraan harus belok kiri di persimpangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407246.jpeg",
+      "simplified": "左转只有标志",
+      "traditional": "左轉只有標誌",
+      "pinyin": "zuǒzhuǎn zhǐyǒu biāozhì"
+    },
+    {
+      "id": 407248,
+      "translation": {
+        "en": {
+          "short": "right turn only sign",
+          "long": "a traffic sign that instructs drivers to turn only to their right at an intersection",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Giliran Kanan Hanya",
+          "long": "Tanda lalu lintas yang menginstruksikan pengemudi untuk hanya berbelok ke kanan di persimpangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407248.jpeg",
+      "simplified": "右转只标志",
+      "traditional": "右轉只標誌",
+      "pinyin": "yòuzhuǎn zhī biāozhì"
+    },
+    {
+      "id": 407251,
+      "translation": {
+        "en": {
+          "short": "straight through only sign",
+          "long": "a sign that shows drivers they can only go straight and not turn",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Langsung melalui tanda hanya",
+          "long": "Tanda yang menunjukkan kepada pengemudi mereka hanya bisa lurus dan tidak berputar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407251.jpeg",
+      "simplified": "直通符号",
+      "traditional": "直通符號",
+      "pinyin": "zhítōng fúhào"
+    },
+    {
+      "id": 407253,
+      "translation": {
+        "en": {
+          "short": "roundabout circulation sign",
+          "long": "a traffic sign that tells drivers to go around a circular intersection in one direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Sirkulasi Bundaran",
+          "long": "Tanda lalu lintas yang memberi tahu pengemudi untuk berkeliling persimpangan melingkar dalam satu arah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407253.jpeg",
+      "simplified": "回旋处的循环标志",
+      "traditional": "迴旋處的循環標誌",
+      "pinyin": "huíxuán chù de xúnhuán biāozhì"
+    },
+    {
+      "id": 407255,
+      "translation": {
+        "en": {
+          "short": "crossbuck",
+          "long": "a sign shaped like an X that marks a railroad crossing",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Crossbuck",
+          "long": "Tanda berbentuk seperti X yang menandai persimpangan kereta api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407255.jpeg",
+      "simplified": "Crossbuck",
+      "traditional": "Crossbuck",
+      "pinyin": ""
+    },
+    {
+      "id": 407258,
+      "translation": {
+        "en": {
+          "short": "warning sign",
+          "long": "a traffic sign that tells drivers about possible danger or changes in the road ahead",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda peringatan",
+          "long": "Tanda lalu lintas yang memberi tahu pengemudi tentang kemungkinan bahaya atau perubahan di jalan di depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407258.jpeg",
+      "simplified": "警告牌",
+      "traditional": "警告牌",
+      "pinyin": "jǐnggào pái"
+    },
+    {
+      "id": 407290,
+      "translation": {
+        "en": {
+          "short": "crossroad sign",
+          "long": "a road sign that shows where two or more roads meet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Crossroad",
+          "long": "tanda jalan yang menunjukkan di mana dua atau lebih jalan bertemu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407290.jpeg",
+      "simplified": "十字路口标志",
+      "traditional": "十字路口標誌",
+      "pinyin": "shízì lù kǒu biāozhì"
+    },
+    {
+      "id": 407261,
+      "translation": {
+        "en": {
+          "short": "two-way traffic sign",
+          "long": "a road sign that shows cars go in both directions on the same road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda lalu lintas dua arah",
+          "long": "tanda jalan yang menunjukkan mobil pergi ke kedua arah di jalan yang sama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407261.jpeg",
+      "simplified": "双向交通标志",
+      "traditional": "雙向交通標誌",
+      "pinyin": "shuāngxiàng jiāotōng biāo zhì"
+    },
+    {
+      "id": 407263,
+      "translation": {
+        "en": {
+          "short": "pedestrian crossing sign",
+          "long": "a sign that shows people where they can safely cross the road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Persimpangan Pejalan Kaki",
+          "long": "Tanda yang menunjukkan kepada orang -orang di mana mereka dapat dengan aman menyeberang jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407263.jpeg",
+      "simplified": "行人交叉标志",
+      "traditional": "行人交叉標誌",
+      "pinyin": "xíngrén jiāochā biāozhì"
+    },
+    {
+      "id": 407265,
+      "translation": {
+        "en": {
+          "short": "wildlife crossing sign",
+          "long": "a road sign that shows animals might cross the road there",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Persimpangan Satwa Liar",
+          "long": "Tanda jalan yang menunjukkan hewan mungkin menyeberang jalan di sana",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407265.jpeg",
+      "simplified": "野生动植物交叉标志",
+      "traditional": "野生動植物交叉標誌",
+      "pinyin": "yěshēng dòngzhí wù jiāochā biāozhì"
+    },
+    {
+      "id": 407291,
+      "translation": {
+        "en": {
+          "short": "slippery when wet sign",
+          "long": "a warning sign that tells people the ground might be slippery when it is wet",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "licin saat tanda basah",
+          "long": "Tanda peringatan yang memberi tahu orang -orang bahwa tanah mungkin licin saat basah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407291.jpeg",
+      "simplified": "湿迹象时滑",
+      "traditional": "濕跡象時滑",
+      "pinyin": "shī jìxiàng shí Huá"
+    },
+    {
+      "id": 407268,
+      "translation": {
+        "en": {
+          "short": "men working sign",
+          "long": "a traffic indication that alerts drivers to ongoing construction or maintenance work ahead on the road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pria bekerja tanda",
+          "long": "Indikasi lalu lintas yang memberi tahu pengemudi untuk konstruksi yang berkelanjutan atau pekerjaan pemeliharaan di depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407268.jpeg",
+      "simplified": "男人在工作标志",
+      "traditional": "男人在工作標誌",
+      "pinyin": "nánrén zài gōngzuò biāozhì"
+    },
+    {
+      "id": 407270,
+      "translation": {
+        "en": {
+          "short": "roundabout sign",
+          "long": "a traffic sign that indicates the presence of a circular intersection where traffic flows in a counter-clockwise direction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Bundaran",
+          "long": "Tanda lalu lintas yang menunjukkan adanya persimpangan melingkar di mana lalu lintas mengalir ke arah berlawanan arah jarum jam",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407270.jpeg",
+      "simplified": "回旋处的标志",
+      "traditional": "迴旋處的標誌",
+      "pinyin": "huíxuán chù de biāozhì"
+    },
+    {
+      "id": 407272,
+      "translation": {
+        "en": {
+          "short": "flagger ahead sign",
+          "long": "a traffic signal indicating that a person directing traffic is up ahead",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Depan Depan",
+          "long": "sinyal lalu lintas yang menunjukkan bahwa seseorang yang mengarahkan lalu lintas di depan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407272.jpeg",
+      "simplified": "弗拉格（Flagger）前面的标志",
+      "traditional": "弗拉格（Flagger）前面的標誌",
+      "pinyin": "fú lā gé qiánmiàn de biāozhì"
+    },
+    {
+      "id": 407275,
+      "translation": {
+        "en": {
+          "short": "guide sign",
+          "long": "a type of sign that provides directions or information to travelers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda panduan",
+          "long": "Jenis tanda yang memberikan arahan atau informasi kepada wisatawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407275.jpeg",
+      "simplified": "指南标志",
+      "traditional": "指南標誌",
+      "pinyin": "zhǐnán biāozhì"
+    },
+    {
+      "id": 407277,
+      "translation": {
+        "en": {
+          "short": "exit sign",
+          "long": "a marker placed along roads and highways to indicate the location where vehicles can leave or exit from the main road or freeway",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda keluar",
+          "long": "Penanda ditempatkan di sepanjang jalan dan jalan raya untuk menunjukkan lokasi di mana kendaraan dapat pergi atau keluar dari jalan utama atau jalan bebas hambatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407277.jpeg",
+      "simplified": "出口指示牌",
+      "traditional": "出口指示牌",
+      "pinyin": "chūkǒu zhǐshì pái"
+    },
+    {
+      "id": 407279,
+      "translation": {
+        "en": {
+          "short": "hospital sign",
+          "long": "a notice or symbol indicating the presence or location of a hospital",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Rumah Sakit",
+          "long": "pemberitahuan atau simbol yang menunjukkan keberadaan atau lokasi rumah sakit",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407279.jpeg",
+      "simplified": "医院标志",
+      "traditional": "醫院標誌",
+      "pinyin": "yīyuàn biāozhì"
+    },
+    {
+      "id": 407281,
+      "translation": {
+        "en": {
+          "short": "gas station sign",
+          "long": "a traffic sign that indicates the location or direction to a fueling station",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda pompa bensin",
+          "long": "Tanda Lalu Lintas yang menunjukkan lokasi atau arah ke stasiun pengisian bahan bakar",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407281.jpeg",
+      "simplified": "加油站标志",
+      "traditional": "加油站標誌",
+      "pinyin": "jiāyóu zhàn biāozhì"
+    },
+    {
+      "id": 407283,
+      "translation": {
+        "en": {
+          "short": "bus station sign",
+          "long": "a traffic sign that indicates the location or direction to a bus station",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Stasiun Bus",
+          "long": "Tanda lalu lintas yang menunjukkan lokasi atau arah ke stasiun bus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407283.jpeg",
+      "simplified": "巴士站标志",
+      "traditional": "巴士站標誌",
+      "pinyin": "bāshì zhàn biāozhì"
+    },
+    {
+      "id": 407285,
+      "translation": {
+        "en": {
+          "short": "train station sign",
+          "long": "a traffic sign that provides directions and information for railway passengers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Stasiun Kereta",
+          "long": "Tanda Lalu Lintas yang memberikan arahan dan informasi untuk penumpang kereta api",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407285.jpeg",
+      "simplified": "火车站标志",
+      "traditional": "火車站標誌",
+      "pinyin": "huǒchē zhàn biāozhì"
+    },
+    {
+      "id": 407287,
+      "translation": {
+        "en": {
+          "short": "logo sign",
+          "long": "a traffic sign is a road sign displaying symbols or logos to indicate nearby services or facilities for drivers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda logo",
+          "long": "Tanda Lalu Lintas adalah tanda jalan yang menampilkan simbol atau logo untuk menunjukkan layanan atau fasilitas terdekat untuk pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407287.jpeg",
+      "simplified": "徽标标志",
+      "traditional": "徽標標誌",
+      "pinyin": "huībiāo biāozhì"
+    },
+    {
+      "id": 407289,
+      "translation": {
+        "en": {
+          "short": "school zone sign",
+          "long": "a traffic sign that indicates an area near a school where drivers should exercise caution and adhere to reduced speed limits",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Zona Sekolah",
+          "long": "Tanda lalu lintas yang menunjukkan area di dekat sekolah di mana pengemudi harus berhati -hati dan mematuhi batas kecepatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407289.jpeg",
+      "simplified": "学校区域标志",
+      "traditional": "學校區域標誌",
+      "pinyin": "xuéxiào qūyù biāozhì"
+    },
+    {
+      "id": 407296,
+      "translation": {
+        "en": {
+          "short": "street name sign",
+          "long": "a traffic sign that displays the name of a particular road or street",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Nama Jalan",
+          "long": "Tanda lalu lintas yang menampilkan nama jalan atau jalan tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407296.jpeg",
+      "simplified": "街道名称标志",
+      "traditional": "街道名稱標誌",
+      "pinyin": "jiēdào míngchēng biāozhì"
+    },
+    {
+      "id": 407298,
+      "translation": {
+        "en": {
+          "short": "dynamic message sign",
+          "long": "an electronic traffic sign that displays real-time information about road conditions or alerts to drivers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tanda Pesan Dinamis",
+          "long": "Tanda lalu lintas elektronik yang menampilkan informasi waktu nyata tentang kondisi jalan atau peringatan kepada pengemudi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407298.jpeg",
+      "simplified": "动态消息标志",
+      "traditional": "動態消息標誌",
+      "pinyin": "dòngtài xiāoxi biāozhì"
+    },
+    {
+      "id": 407299,
+      "translation": {
+        "en": {
+          "short": "milepost",
+          "long": "a maker along a road that indicates the distance from a specific starting point or reference point, typically in miles",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "milepost",
+          "long": "Pembuat di sepanjang jalan yang menunjukkan jarak dari titik awal atau titik referensi tertentu, biasanya dalam mil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407299.jpeg",
+      "simplified": "里程碑",
+      "traditional": "里程碑",
+      "pinyin": "lǐchéng bēi"
+    },
+    {
+      "id": 407306,
+      "translation": {
+        "en": {
+          "short": "milestone",
+          "long": "a marker or sign along a road that indicates a specific point or achievement, such as a significant distance traveled or a historical event",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tonggak pencapaian",
+          "long": "penanda atau tanda di sepanjang jalan yang menunjukkan titik atau pencapaian tertentu, seperti jarak yang ditempuh atau peristiwa sejarah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407306.jpeg",
+      "simplified": "里程碑",
+      "traditional": "里程碑",
+      "pinyin": "lǐchéng bēi"
+    },
+    {
+      "id": 407300,
+      "translation": {
+        "en": {
+          "short": "signpost",
+          "long": "a sign that provides information such as the distance to a certain place or its direction, usually found at the side of a road",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "plang",
+          "long": "Tanda yang memberikan informasi seperti jarak ke tempat tertentu atau arahnya, biasanya ditemukan di sisi jalan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407300.jpeg",
+      "simplified": "路标",
+      "traditional": "路標",
+      "pinyin": "lùbiāo"
+    },
+    {
+      "id": 407293,
+      "translation": {
+        "en": {
+          "short": "control city",
+          "long": "a destination displayed on traffic signs to guide drivers towards their desired routes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Kota kontrol",
+          "long": "Tujuan yang ditampilkan pada rambu lalu lintas untuk memandu pengemudi menuju rute yang diinginkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407293.jpeg",
+      "simplified": "控制城",
+      "traditional": "控制城",
+      "pinyin": "kòngzhì chéng"
+    },
+    {
+      "id": 407303,
+      "translation": {
+        "en": {
+          "short": "reassurance marker",
+          "long": "a traffic sign that provides confirmation and direction along a route",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "penanda jaminan",
+          "long": "Tanda lalu lintas yang memberikan konfirmasi dan arah di sepanjang rute",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407303.jpeg",
+      "simplified": "放心标记",
+      "traditional": "放心標記",
+      "pinyin": "fàngxīn biāojì"
+    },
+    {
+      "id": 407305,
+      "translation": {
+        "en": {
+          "short": "highway shield",
+          "long": "a traffic sign that indicates the route number and direction on major roads",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perisai Jalan Raya",
+          "long": "Tanda Lalu Lintas yang menunjukkan nomor rute dan arah di jalan utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407305.jpeg",
+      "simplified": "公路盾牌",
+      "traditional": "公路盾牌",
+      "pinyin": "gōnglù dùnpái"
+    },
+    {
+      "id": 407308,
+      "translation": {
+        "en": {
+          "short": "road surface marking",
+          "long": "a painted line or symbol on a road that guides drivers and helps organize traffic flow",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda permukaan jalan",
+          "long": "Garis atau simbol yang dicat di jalan yang memandu pengemudi dan membantu mengatur arus lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407308.jpeg",
+      "simplified": "路面标记",
+      "traditional": "路面標記",
+      "pinyin": "lùmiàn biāojì"
+    },
+    {
+      "id": 407310,
+      "translation": {
+        "en": {
+          "short": "demountable copy",
+          "long": "a type of traffic sign that can be easily removed or relocated as needed",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "salinan yang dapat diturunkan",
+          "long": "Jenis tanda lalu lintas yang dapat dengan mudah dilepas atau dipindahkan sesuai kebutuhan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407310.jpeg",
+      "simplified": "可降低的副本",
+      "traditional": "可降低的副本",
+      "pinyin": "kě jiàngdī de fùběn"
+    },
+    {
+      "id": 407312,
+      "translation": {
+        "en": {
+          "short": "button copy",
+          "long": "the text or wording displayed on a traffic sign",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Salinan tombol",
+          "long": "teks atau kata -kata yang ditampilkan pada tanda lalu lintas",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407312.jpeg",
+      "simplified": "按钮副本",
+      "traditional": "按鈕副本",
+      "pinyin": "ànniǔ fùběn"
+    },
+    {
+      "id": 407314,
+      "translation": {
+        "en": {
+          "short": "emergency triangle",
+          "long": "a reflective road sign used to warn other drivers of a stopped vehicle ahead due to a breakdown or accident",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Segitiga Darurat",
+          "long": "Tanda jalan reflektif yang digunakan untuk memperingatkan pengemudi lain dari kendaraan yang berhenti di depan karena kerusakan atau kecelakaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407314.jpeg",
+      "simplified": "紧急三角",
+      "traditional": "緊急三角",
+      "pinyin": "jǐnjí sānjiǎo"
+    }
+  ]
+}

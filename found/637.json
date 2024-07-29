@@ -1,0 +1,944 @@
+{
+  "id": 637,
+  "title": {
+    "en": "Book Contents",
+    "id": "Isi buku"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to book contents such as \"acknowledgment\", \"blurb\", and \"epilogue\".",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris yang terkait dengan konten buku seperti \"pengakuan\", \"uraian\", dan \"epilog\"."
+  },
+  "cards": [
+    {
+      "id": 343932,
+      "translation": {
+        "en": {
+          "short": "acknowledgment",
+          "long": "a section of a book or academic paper where the author expresses gratitude towards individuals or organizations who contributed to their work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengakuan",
+          "long": "Bagian dari buku atau makalah akademik di mana penulis mengucapkan terima kasih kepada individu atau organisasi yang berkontribusi pada pekerjaan mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343932.jpeg",
+      "simplified": "承认",
+      "traditional": "承認",
+      "pinyin": "chéngrèn"
+    },
+    {
+      "id": 343933,
+      "translation": {
+        "en": {
+          "short": "addendum",
+          "long": "a section of additional material that is usually added at the end of a book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tambahan",
+          "long": "bagian dari bahan tambahan yang biasanya ditambahkan di akhir buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343933.jpeg",
+      "simplified": "附录",
+      "traditional": "附錄",
+      "pinyin": "fùlù"
+    },
+    {
+      "id": 343934,
+      "translation": {
+        "en": {
+          "short": "afterword",
+          "long": "a part at the end of a book including some final words that may not be written by the author",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata penutup",
+          "long": "bagian di akhir buku termasuk beberapa kata terakhir yang mungkin tidak ditulis oleh penulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343934.jpeg",
+      "simplified": "后记",
+      "traditional": "後記",
+      "pinyin": "hòujì"
+    },
+    {
+      "id": 343935,
+      "translation": {
+        "en": {
+          "short": "appendix",
+          "long": "a separate part at the end of a book that gives further information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lampiran",
+          "long": "bagian terpisah di akhir buku yang memberikan informasi lebih lanjut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343935.jpeg",
+      "simplified": "本书附录",
+      "traditional": "本書附錄",
+      "pinyin": "běn Shū fùlù"
+    },
+    {
+      "id": 343937,
+      "translation": {
+        "en": {
+          "short": "back cover",
+          "long": "the outermost cover of a book that typically includes a brief summary or blurb of the book's content, as well as other promotional information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampul belakang",
+          "long": "Sampul terluar buku yang biasanya mencakup ringkasan singkat atau uraian konten buku, serta informasi promosi lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343937.jpeg",
+      "simplified": "封底",
+      "traditional": "封底",
+      "pinyin": "fēngdǐ"
+    },
+    {
+      "id": 343938,
+      "translation": {
+        "en": {
+          "short": "back matter",
+          "long": "the pages at the end of a book that come after the main text, such as the index, glossary, bibliography, and author bio",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "materi belakang",
+          "long": "Halaman -halaman di akhir buku yang muncul setelah teks utama, seperti indeks, glosarium, bibliografi, dan bio penulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343938.jpeg",
+      "simplified": "后事",
+      "traditional": "後事",
+      "pinyin": "hòushì"
+    },
+    {
+      "id": 343939,
+      "translation": {
+        "en": {
+          "short": "bibliography",
+          "long": "a list of books and articles used by an author to support or reference their written work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bibliografi",
+          "long": "daftar buku dan artikel yang digunakan oleh penulis untuk mendukung atau merujuk karya tertulis mereka",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343939.jpeg",
+      "simplified": "参考书目",
+      "traditional": "參考書目",
+      "pinyin": "cānkǎo shū mù"
+    },
+    {
+      "id": 343940,
+      "translation": {
+        "en": {
+          "short": "blurb",
+          "long": "a short promotional description of a book, motion picture, etc. published on the cover of a book or in an advertisement",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "uraian",
+          "long": "Deskripsi promosi singkat tentang buku, film, dll. Diterbitkan di sampul buku atau dalam iklan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343940.jpeg",
+      "simplified": "书籍封面或广告中的简短摘要",
+      "traditional": "書籍封面或廣告中的簡短摘要",
+      "pinyin": "shūjí fēngmiàn huò guǎnggào zhòngdì jiǎnduǎn zhāiyào"
+    },
+    {
+      "id": 343942,
+      "translation": {
+        "en": {
+          "short": "body",
+          "long": "the main portion of the book where the text and illustrations are presented, excluding the front matter and back matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tubuh",
+          "long": "Bagian utama dari buku di mana teks dan ilustrasi disajikan, tidak termasuk materi depan dan materi belakang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343942.jpeg",
+      "simplified": "体",
+      "traditional": "體",
+      "pinyin": "tǐ"
+    },
+    {
+      "id": 343944,
+      "translation": {
+        "en": {
+          "short": "book cover",
+          "long": "the protective outer covering of a book, which usually includes the title, author, and artwork or design that reflects the content of the book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampul buku",
+          "long": "Penutup luar pelindung buku, yang biasanya mencakup judul, penulis, dan karya seni atau desain yang mencerminkan konten buku ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343944.jpeg",
+      "simplified": "封面",
+      "traditional": "封面",
+      "pinyin": "fēngmiàn"
+    },
+    {
+      "id": 343945,
+      "translation": {
+        "en": {
+          "short": "colophon",
+          "long": "a brief statement located typically at the end of a book, providing information on the publication aspects of the book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tanda penerbit",
+          "long": "Pernyataan singkat yang terletak biasanya di akhir buku, memberikan informasi tentang aspek publikasi buku ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343945.jpeg",
+      "simplified": "版权页",
+      "traditional": "版權頁",
+      "pinyin": "bǎnquán xié"
+    },
+    {
+      "id": 343947,
+      "translation": {
+        "en": {
+          "short": "copyright page",
+          "long": "a page usually found at the beginning or end of a book that contains important legal and bibliographic information",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman hak cipta",
+          "long": "Halaman yang biasanya ditemukan di awal atau akhir buku yang berisi informasi hukum dan bibliografi yang penting",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343947.jpeg",
+      "simplified": "版权页",
+      "traditional": "版權頁",
+      "pinyin": "bǎnquán xié"
+    },
+    {
+      "id": 343948,
+      "translation": {
+        "en": {
+          "short": "corrigenda",
+          "long": "a list of errors or corrections in a printed work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daftar kesalahan dlm tulisan",
+          "long": "daftar kesalahan atau koreksi dalam karya cetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343948.jpeg",
+      "simplified": "勘误表",
+      "traditional": "勘誤表",
+      "pinyin": "kānwù biǎo"
+    },
+    {
+      "id": 343949,
+      "translation": {
+        "en": {
+          "short": "dedication",
+          "long": "a statement that indicates to whom the book is dedicated, usually located in the front matter",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "dedikasi",
+          "long": "Pernyataan yang menunjukkan kepada siapa buku itu didedikasikan, biasanya terletak di depan materi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343949.jpeg",
+      "simplified": "奉献",
+      "traditional": "奉獻",
+      "pinyin": "fèngxiàn"
+    },
+    {
+      "id": 343950,
+      "translation": {
+        "en": {
+          "short": "dust jacket",
+          "long": "a removable paper or plastic cover that is wrapped around the outside of a hardcover book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "jaket debu",
+          "long": "kertas atau penutup plastik yang dapat dilepas yang melilit bagian luar buku hardcover",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343950.jpeg",
+      "simplified": "防尘套",
+      "traditional": "防塵套",
+      "pinyin": "fáng chén tào"
+    },
+    {
+      "id": 343952,
+      "translation": {
+        "en": {
+          "short": "endpaper",
+          "long": "sheets of paper pasted onto the inner covers of a book and often used for decorative or informational purposes",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "endpaper",
+          "long": "Lembar kertas yang ditempelkan ke sampul dalam buku dan sering digunakan untuk tujuan dekoratif atau informasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343952.jpeg",
+      "simplified": "端纸",
+      "traditional": "端紙",
+      "pinyin": "duān zhǐ"
+    },
+    {
+      "id": 343953,
+      "translation": {
+        "en": {
+          "short": "epigraph",
+          "long": "a short quotation or phrase that is written at the beginning of a book or any chapter of it, suggesting the theme",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prasasti",
+          "long": "Kutipan atau frasa pendek yang ditulis di awal buku atau bab apa pun, menyarankan tema",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343953.jpeg",
+      "simplified": "题词",
+      "traditional": "題詞",
+      "pinyin": "tící"
+    },
+    {
+      "id": 343955,
+      "translation": {
+        "en": {
+          "short": "epilogue",
+          "long": "a concluding part added at the end of a novel, play, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Epilog",
+          "long": "Bagian penutup ditambahkan di akhir novel, drama, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343955.jpeg",
+      "simplified": "结语",
+      "traditional": "結語",
+      "pinyin": "jiéyǔ"
+    },
+    {
+      "id": 343956,
+      "translation": {
+        "en": {
+          "short": "erratum",
+          "long": "an error in a written or printed document",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ralat",
+          "long": "Kesalahan dalam dokumen tertulis atau dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343956.jpeg",
+      "simplified": "误排",
+      "traditional": "誤排",
+      "pinyin": "wù pái"
+    },
+    {
+      "id": 343957,
+      "translation": {
+        "en": {
+          "short": "flyleaf",
+          "long": "a blank or decorated page that is glued to the inside front and back covers of a book, serving as a protective and decorative element",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "flyleaf",
+          "long": "Halaman kosong atau dihiasi yang direkatkan ke bagian depan dan belakang sampul buku, berfungsi sebagai elemen pelindung dan dekoratif",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343957.jpeg",
+      "simplified": "蝇叶",
+      "traditional": "蠅葉",
+      "pinyin": "yíng xié"
+    },
+    {
+      "id": 343959,
+      "translation": {
+        "en": {
+          "short": "fore-edge painting",
+          "long": "a technique of painting or illustration on the edges of the pages of a book that is visible when the book is closed and the pages are fanned out",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Lukisan tepi depan",
+          "long": "Teknik lukisan atau ilustrasi di tepi halaman buku yang terlihat saat buku ditutup dan halaman -halamannya dikipasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343959.jpeg",
+      "simplified": "前沿绘画",
+      "traditional": "前沿繪畫",
+      "pinyin": "qiányán huìhuà"
+    },
+    {
+      "id": 343960,
+      "translation": {
+        "en": {
+          "short": "foreword",
+          "long": "a short introductory section at the beginning of a book, usually written by someone other than the author",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata pengantar",
+          "long": "Bagian pengantar singkat di awal buku, biasanya ditulis oleh orang lain selain penulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343960.jpeg",
+      "simplified": "前言",
+      "traditional": "前言",
+      "pinyin": "qiányán"
+    },
+    {
+      "id": 343962,
+      "translation": {
+        "en": {
+          "short": "front cover",
+          "long": "the first page that a reader sees, typically containing the book title, author's name, and cover art or design",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sampul depan",
+          "long": "Halaman pertama yang dilihat seorang pembaca, biasanya berisi judul buku, nama penulis, dan seni sampul atau desain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343962.jpeg",
+      "simplified": "封面",
+      "traditional": "封面",
+      "pinyin": "fēngmiàn"
+    },
+    {
+      "id": 343964,
+      "translation": {
+        "en": {
+          "short": "front matter",
+          "long": "the introductory section of a book that comes before the main content, which may include a title page, copyright page, table of contents, preface, and introduction",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "materi depan",
+          "long": "Bagian pengantar buku yang datang sebelum konten utama, yang mungkin termasuk halaman judul, halaman hak cipta, Daftar Isi, Kata Pengantar, dan Pendahuluan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343964.jpeg",
+      "simplified": "头条新闻",
+      "traditional": "頭條新聞",
+      "pinyin": "tóutiáo xīn wén"
+    },
+    {
+      "id": 343965,
+      "translation": {
+        "en": {
+          "short": "frontispiece",
+          "long": "an illustration at the beginning of a book, on the page that is facing the title page",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "gambar muka",
+          "long": "Ilustrasi di awal buku, di halaman yang menghadap ke halaman judul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343965.jpeg",
+      "simplified": "卷首插画",
+      "traditional": "卷首插畫",
+      "pinyin": "juǎn shǒu chāhuà"
+    },
+    {
+      "id": 343966,
+      "translation": {
+        "en": {
+          "short": "glossary",
+          "long": "a list of technical terms or jargons of a particular field or text, provided in alphabetical order with an explanation for each one",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Glosarium",
+          "long": "Daftar istilah teknis atau jargon bidang atau teks tertentu, disediakan dalam urutan abjad dengan penjelasan untuk masing -masing",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343966.jpeg",
+      "simplified": "词汇表",
+      "traditional": "詞彙表",
+      "pinyin": "cíhuì biǎo"
+    },
+    {
+      "id": 343967,
+      "translation": {
+        "en": {
+          "short": "half title",
+          "long": "a page in a book that only displays the title of the book, author's name, and perhaps a subtitle, without any other details",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "setengah judul",
+          "long": "halaman dalam buku yang hanya menampilkan judul buku, nama penulis, dan mungkin subtitle, tanpa detail lainnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343967.jpeg",
+      "simplified": "半标题",
+      "traditional": "半標題",
+      "pinyin": "bàn biāotí"
+    },
+    {
+      "id": 343968,
+      "translation": {
+        "en": {
+          "short": "illustration",
+          "long": "a picture or drawing in a book, or other publication, particularly one that makes the understanding of something easier",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ilustrasi",
+          "long": "gambar atau gambar dalam buku, atau publikasi lain, terutama yang membuat pemahaman tentang sesuatu lebih mudah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343968.jpeg",
+      "simplified": "插图",
+      "traditional": "插圖",
+      "pinyin": "chātú"
+    },
+    {
+      "id": 343969,
+      "translation": {
+        "en": {
+          "short": "index",
+          "long": "an alphabetical list of subjects, names, etc. along with the page numbers each of them occurs, coming at the end of a book",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "indeks",
+          "long": "Daftar alfabet dari subjek, nama, dll. Bersama dengan nomor halaman masing -masing terjadi, datang di akhir buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343969.jpeg",
+      "simplified": "指数",
+      "traditional": "指數",
+      "pinyin": "zhǐshù"
+    },
+    {
+      "id": 343970,
+      "translation": {
+        "en": {
+          "short": "ink",
+          "long": "a black or colored liquid used for drawing, writing, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tinta",
+          "long": "Cairan hitam atau berwarna yang digunakan untuk menggambar, menulis, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343970.jpeg",
+      "simplified": "墨水",
+      "traditional": "墨水",
+      "pinyin": "mòshuǐ"
+    },
+    {
+      "id": 343971,
+      "translation": {
+        "en": {
+          "short": "interleaf",
+          "long": "a blank leaf inserted between two printed or written pages for various purposes such as annotation, correction, or additional content",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Interleaf",
+          "long": "Daun kosong yang dimasukkan antara dua halaman tercetak atau tertulis untuk berbagai keperluan seperti anotasi, koreksi, atau konten tambahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343971.jpeg",
+      "simplified": "插页",
+      "traditional": "插頁",
+      "pinyin": "chā xié"
+    },
+    {
+      "id": 343973,
+      "translation": {
+        "en": {
+          "short": "introduction",
+          "long": "the part of a book or speech that provides a brief explanation of what it is about",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkenalan",
+          "long": "bagian dari buku atau pidato yang memberikan penjelasan singkat tentang apa itu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343973.jpeg",
+      "simplified": "介绍",
+      "traditional": "介紹",
+      "pinyin": "jièshào"
+    },
+    {
+      "id": 343974,
+      "translation": {
+        "en": {
+          "short": "leaf",
+          "long": "a sheet of printed material, especially a book, with a page on each side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "daun",
+          "long": "selembar bahan cetak, terutama buku, dengan halaman di setiap sisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343974.jpeg",
+      "simplified": "叶",
+      "traditional": "葉",
+      "pinyin": "xié"
+    },
+    {
+      "id": 343975,
+      "translation": {
+        "en": {
+          "short": "margin",
+          "long": "the blank space at the edge of a written or printed page",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "batas",
+          "long": "Ruang kosong di tepi halaman tertulis atau dicetak",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343975.jpeg",
+      "simplified": "利润",
+      "traditional": "利潤",
+      "pinyin": "lìrùn"
+    },
+    {
+      "id": 343976,
+      "translation": {
+        "en": {
+          "short": "page",
+          "long": "one side or both sides of a sheet of paper in a newspaper, magazine, book, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "halaman",
+          "long": "Satu sisi atau kedua sisi selembar kertas di koran, majalah, buku, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343976.jpeg",
+      "simplified": "页",
+      "traditional": "頁",
+      "pinyin": "xié"
+    },
+    {
+      "id": 343977,
+      "translation": {
+        "en": {
+          "short": "paper",
+          "long": "the thin sheets on which one can write, draw, or print things, also used as wrapping material",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kertas",
+          "long": "Lembar tipis yang dapat ditulis, menggambar, atau mencetak barang -barang, juga digunakan sebagai bahan pembungkus",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343977.jpeg",
+      "simplified": "纸",
+      "traditional": "紙",
+      "pinyin": "zhǐ"
+    },
+    {
+      "id": 343978,
+      "translation": {
+        "en": {
+          "short": "parchment",
+          "long": "a writing material made from animal skin that has been scraped and dried to remove all hair, and which has been historically used for writing on",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perkamen",
+          "long": "bahan penulisan yang terbuat dari kulit hewani yang telah dikikis dan dikeringkan untuk menghilangkan semua rambut, dan yang secara historis digunakan untuk menulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343978.jpeg",
+      "simplified": "羊皮纸",
+      "traditional": "羊皮紙",
+      "pinyin": "yángpí zhǐ"
+    },
+    {
+      "id": 343979,
+      "translation": {
+        "en": {
+          "short": "postscript",
+          "long": "brief additional note added to the end of a letter or document, usually after the signature, often containing information that the writer forgot to include",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "nota bene",
+          "long": "Catatan tambahan singkat ditambahkan ke akhir surat atau dokumen, biasanya setelah tanda tangan, sering kali berisi informasi yang dilupakan penulis",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343979.jpeg",
+      "simplified": "后记",
+      "traditional": "後記",
+      "pinyin": "hòujì"
+    },
+    {
+      "id": 343980,
+      "translation": {
+        "en": {
+          "short": "preface",
+          "long": "an introductory piece written by the author of a book explaining its subject, scope, or aims",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kata pengantar",
+          "long": "karya pengantar yang ditulis oleh penulis buku yang menjelaskan subjek, ruang lingkup, atau tujuannya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343980.jpeg",
+      "simplified": "前言",
+      "traditional": "前言",
+      "pinyin": "qiányán"
+    },
+    {
+      "id": 343981,
+      "translation": {
+        "en": {
+          "short": "prelims",
+          "long": "the pages at the beginning of a book that come before the main text",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "prelims",
+          "long": "halaman di awal buku yang datang sebelum teks utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343981.jpeg",
+      "simplified": "预赛",
+      "traditional": "預賽",
+      "pinyin": "yùsài"
+    },
+    {
+      "id": 343983,
+      "translation": {
+        "en": {
+          "short": "proem",
+          "long": "a preface or introductory section of a book or other written work that often sets the tone for the rest of the work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendahuluan",
+          "long": "bagian kata pengantar atau pengantar buku atau karya tertulis lainnya yang sering mengatur nada untuk sisa pekerjaan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343983.jpeg",
+      "simplified": "Proem",
+      "traditional": "Proem",
+      "pinyin": "P"
+    },
+    {
+      "id": 343984,
+      "translation": {
+        "en": {
+          "short": "prolegomenon",
+          "long": "an introduction or a preliminary discussion that comes before a larger work, usually dealing with the principles, assumptions, or methodology of the main work",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pendahuluan",
+          "long": "Pendahuluan atau diskusi awal yang datang sebelum pekerjaan yang lebih besar, biasanya berurusan dengan prinsip, asumsi, atau metodologi pekerjaan utama",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343984.jpeg",
+      "simplified": "前言",
+      "traditional": "前言",
+      "pinyin": "qiányán"
+    },
+    {
+      "id": 343985,
+      "translation": {
+        "en": {
+          "short": "rubric",
+          "long": "red text or decorations used to indicate headings, important passages, or instructions for the manuscript's production",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rubrik",
+          "long": "Teks atau dekorasi merah yang digunakan untuk menunjukkan judul, bagian -bagian penting, atau instruksi untuk produksi naskah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343985.jpeg",
+      "simplified": "标题",
+      "traditional": "標題",
+      "pinyin": "biāotí"
+    },
+    {
+      "id": 343986,
+      "translation": {
+        "en": {
+          "short": "running head",
+          "long": "a short title or phrase that is printed at the top of each page of a book or document",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kepala berjalan",
+          "long": "judul atau frasa pendek yang dicetak di bagian atas setiap halaman buku atau dokumen",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343986.jpeg",
+      "simplified": "跑步头",
+      "traditional": "跑步頭",
+      "pinyin": "pǎobù tóu"
+    },
+    {
+      "id": 343988,
+      "translation": {
+        "en": {
+          "short": "slipcase",
+          "long": "a protective box or cover that holds a book or a set of books",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "slipcase",
+          "long": "kotak pelindung atau sampul yang memegang buku atau satu set buku",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343988.jpeg",
+      "simplified": "滑箱",
+      "traditional": "滑箱",
+      "pinyin": "Huá xiāng"
+    },
+    {
+      "id": 343989,
+      "translation": {
+        "en": {
+          "short": "table of contents",
+          "long": "a list of the sections, chapters, or other parts of a book or document, organized in the order in which they appear",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Daftar isi",
+          "long": "daftar bagian, bab, atau bagian lain dari buku atau dokumen, yang diatur dalam urutan yang muncul",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343989.jpeg",
+      "simplified": "目录",
+      "traditional": "目錄",
+      "pinyin": "mùlù"
+    },
+    {
+      "id": 343991,
+      "translation": {
+        "en": {
+          "short": "tail",
+          "long": "the bottom edge of the book's pages or the lower part of the book's spine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "ekor",
+          "long": "tepi bawah halaman buku atau bagian bawah tulang belakang buku ini",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343991.jpeg",
+      "simplified": "尾",
+      "traditional": "尾",
+      "pinyin": "wěi"
+    },
+    {
+      "id": 343992,
+      "translation": {
+        "en": {
+          "short": "title page",
+          "long": "the page at the front of a book that the names of the book, its author, and publisher are printed on it",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Judul Halaman",
+          "long": "Halaman di depan buku yang nama buku, penulisnya, dan penerbit dicetak di atasnya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343992.jpeg",
+      "simplified": "封面",
+      "traditional": "封面",
+      "pinyin": "fēngmiàn"
+    },
+    {
+      "id": 343994,
+      "translation": {
+        "en": {
+          "short": "wrapper",
+          "long": "a detachable cover or paper surrounding a book or magazine",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pembungkus",
+          "long": "Sampul atau kertas yang dapat dilepas di sekitar buku atau majalah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343994.jpeg",
+      "simplified": "包装纸",
+      "traditional": "包裝紙",
+      "pinyin": "bāozhuāng zhǐ"
+    }
+  ]
+}

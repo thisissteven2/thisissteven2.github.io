@@ -1,0 +1,563 @@
+{
+  "id": 5843,
+  "title": {
+    "en": "Soccer",
+    "id": "Sepak bola"
+  },
+  "description": {
+    "en": ""
+  },
+  "cards": [
+    {
+      "id": 394542,
+      "translation": {
+        "en": {
+          "short": "indoor soccer",
+          "long": "a variation of association football played indoors on a smaller field with walls instead of sidelines",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepak bola dalam ruangan",
+          "long": "Variasi sepak bola asosiasi dimainkan di dalam ruangan di lapangan yang lebih kecil dengan dinding, bukan sela -sela",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394542.jpeg",
+      "simplified": "室内足球",
+      "traditional": "室內足球",
+      "pinyin": "shìnèi zúqiú"
+    },
+    {
+      "id": 394544,
+      "translation": {
+        "en": {
+          "short": "futsal",
+          "long": "a fast-paced variant of indoor soccer played with a smaller ball and on a smaller court",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "futsal",
+          "long": "Varian sepak bola indoor yang serba cepat dimainkan dengan bola yang lebih kecil dan di lapangan yang lebih kecil",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394544.jpeg",
+      "simplified": "五人制足球",
+      "traditional": "五人制足球",
+      "pinyin": "wǔ rén zhì zúqiú"
+    },
+    {
+      "id": 394545,
+      "translation": {
+        "en": {
+          "short": "beach soccer",
+          "long": "a variant of soccer played on sandy beaches with smaller teams and modified rules",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepak bola pantai",
+          "long": "Varian sepak bola yang dimainkan di pantai berpasir dengan tim yang lebih kecil dan aturan yang dimodifikasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394545.jpeg",
+      "simplified": "沙滩足球",
+      "traditional": "沙灘足球",
+      "pinyin": "shātān zúqiú"
+    },
+    {
+      "id": 394546,
+      "translation": {
+        "en": {
+          "short": "Paralympic soccer",
+          "long": "a modified version of soccer specifically designed for athletes with physical disabilities, played according to adapted rules and regulations",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sepak Bola Paralimpik",
+          "long": "Versi yang dimodifikasi dari sepak bola yang dirancang khusus untuk atlet dengan cacat fisik, dimainkan sesuai dengan aturan dan peraturan yang diadaptasi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394546.jpeg",
+      "simplified": "残奥会足球",
+      "traditional": "殘奧會足球",
+      "pinyin": "CánAò huì zúqiú"
+    },
+    {
+      "id": 394547,
+      "translation": {
+        "en": {
+          "short": "blind soccer",
+          "long": "a variation of soccer specifically designed for visually impaired athletes, played with a ball containing rattles and with players wearing blindfolds",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sepak bola buta",
+          "long": "Variasi sepak bola yang dirancang khusus untuk atlet tunanetra, dimainkan dengan bola yang berisi kerusakan dan dengan pemain yang mengenakan penutup mata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394547.jpeg",
+      "simplified": "盲人足球",
+      "traditional": "盲人足球",
+      "pinyin": "mángrén zúqiú"
+    },
+    {
+      "id": 394548,
+      "translation": {
+        "en": {
+          "short": "powerchair soccer",
+          "long": "competitive team sport played by individuals using power wheelchairs, involving maneuvering the ball to score goals",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Sepak Bola Powerchair",
+          "long": "Olahraga tim kompetitif dimainkan oleh orang -orang yang menggunakan kursi roda listrik, yang melibatkan manuver bola untuk mencetak gol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394548.jpeg",
+      "simplified": "电动椅足球",
+      "traditional": "電動椅足球",
+      "pinyin": "diàndòng yǐ zúqiú"
+    },
+    {
+      "id": 394549,
+      "translation": {
+        "en": {
+          "short": "cross",
+          "long": "a pass sent from the side of the field to the area near the opponent's goal",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyeberang",
+          "long": "Sebuah umpan yang dikirim dari sisi lapangan ke daerah dekat gawang lawan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394549.jpeg",
+      "simplified": "十字架",
+      "traditional": "十字架",
+      "pinyin": "shízì jià"
+    },
+    {
+      "id": 394551,
+      "translation": {
+        "en": {
+          "short": "back pass",
+          "long": "a pass made by a player to a teammate positioned behind them, often directed to the goalkeeper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Back Pass",
+          "long": "Pass yang dibuat oleh pemain ke rekan setim yang diposisikan di belakang mereka, sering diarahkan ke penjaga gawang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394551.jpeg",
+      "simplified": "回传",
+      "traditional": "回傳",
+      "pinyin": "huí chuán"
+    },
+    {
+      "id": 394553,
+      "translation": {
+        "en": {
+          "short": "push pass",
+          "long": "a short, controlled pass in soccer using the side of the foot to accurately move the ball to a teammate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Push Pass",
+          "long": "Pass pendek dan terkontrol dalam sepak bola menggunakan sisi kaki untuk secara akurat memindahkan bola ke rekan satu tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394553.jpeg",
+      "simplified": "推传",
+      "traditional": "推傳",
+      "pinyin": "tuī chuán"
+    },
+    {
+      "id": 394556,
+      "translation": {
+        "en": {
+          "short": "sideways pass",
+          "long": "pass made to a teammate positioned horizontally or laterally from the passer, typically to maintain possession or create space",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pass Sideways",
+          "long": "Pass dibuat ke rekan setim yang diposisikan secara horizontal atau lateral dari pelintas, biasanya untuk mempertahankan kepemilikan atau menciptakan ruang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394556.jpeg",
+      "simplified": "侧向传球",
+      "traditional": "側向傳球",
+      "pinyin": "cè Xiàng chuánqiú"
+    },
+    {
+      "id": 394561,
+      "translation": {
+        "en": {
+          "short": "backheel pass",
+          "long": "a move in soccer where a player uses the heel of their foot to pass the ball backward to a teammate",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Pass backheel",
+          "long": "Langkah dalam sepak bola di mana seorang pemain menggunakan tumit kaki mereka untuk mengoper bola ke belakang ke rekan satu tim",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394561.jpeg",
+      "simplified": "后跟传球",
+      "traditional": "後跟傳球",
+      "pinyin": "hòugēn chuánqiú"
+    },
+    {
+      "id": 394563,
+      "translation": {
+        "en": {
+          "short": "through pass",
+          "long": "a forward pass that goes between or past defenders to reach a teammate in an attacking position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Melalui Pass",
+          "long": "Pass Forward yang melintas di antara atau bek masa lalu untuk mencapai rekan satu tim dalam posisi menyerang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394563.jpeg",
+      "simplified": "经过通道",
+      "traditional": "經過通道",
+      "pinyin": "jīngguò Tōngdào"
+    },
+    {
+      "id": 394567,
+      "translation": {
+        "en": {
+          "short": "ball",
+          "long": "the act of passing the ball in a particular direction or style to a teammate in soccer",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "bola",
+          "long": "tindakan mengoper bola ke arah atau gaya tertentu ke rekan setimnya di sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394567.jpeg",
+      "simplified": "球",
+      "traditional": "球",
+      "pinyin": "qiú"
+    },
+    {
+      "id": 394569,
+      "translation": {
+        "en": {
+          "short": "onside kick",
+          "long": "a strategic soccer kickoff aimed at quickly recovering the ball before it travels the necessary distance",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan di samping",
+          "long": "Kickoff sepak bola strategis yang ditujukan untuk dengan cepat memulihkan bola sebelum menempuh jarak yang diperlukan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394569.jpeg",
+      "simplified": "越位球",
+      "traditional": "越位球",
+      "pinyin": "yuèwèi qiú"
+    },
+    {
+      "id": 394571,
+      "translation": {
+        "en": {
+          "short": "toe kick",
+          "long": "(soccer) the act of striking the ball with the tip of the foot rather than the instep or side",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Tendangan kaki",
+          "long": "(sepak bola) Tindakan memukul bola dengan ujung kaki daripada punggung atau sisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394571.jpeg",
+      "simplified": "脚尖踢",
+      "traditional": "腳尖踢",
+      "pinyin": "jiǎojiān tī"
+    },
+    {
+      "id": 394573,
+      "translation": {
+        "en": {
+          "short": "volley kick",
+          "long": "the act of striking the ball while it is in the air, without letting it touch the ground first",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan voli",
+          "long": "tindakan memukul bola saat berada di udara, tanpa membiarkannya menyentuh tanah terlebih dahulu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394573.jpeg",
+      "simplified": "凌空踢",
+      "traditional": "凌空踢",
+      "pinyin": "língkōng tī"
+    },
+    {
+      "id": 394574,
+      "translation": {
+        "en": {
+          "short": "corner kick",
+          "long": "(soccer) a free kick awarded to the attacking team when the ball goes out of play over the defending team's goal line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan sudut",
+          "long": "(Sepak Bola) Tendangan bebas yang diberikan kepada tim penyerang saat bola keluar dari permainan di atas garis gawang tim yang bertahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394574.jpeg",
+      "simplified": "角球",
+      "traditional": "角球",
+      "pinyin": "jiǎoqiú"
+    },
+    {
+      "id": 394576,
+      "translation": {
+        "en": {
+          "short": "goal kick",
+          "long": "(soccer) a free kick taken from the goal area when the ball crosses the goal line, last touched by an attacker",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan gol",
+          "long": "(sepak bola) Tendangan bebas yang diambil dari area gawang ketika bola melintasi garis gawang, terakhir disentuh oleh penyerang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394576.jpeg",
+      "simplified": "球门球",
+      "traditional": "球門球",
+      "pinyin": "qiúmén qiú"
+    },
+    {
+      "id": 394579,
+      "translation": {
+        "en": {
+          "short": "penalty kick",
+          "long": "a direct free kick taken from the penalty spot, awarded after a foul in the penalty area",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tendangan penalti",
+          "long": "tendangan bebas langsung yang diambil dari tempat penalti, diberikan setelah melakukan pelanggaran di area penalti",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394579.jpeg",
+      "simplified": "罚球",
+      "traditional": "罰球",
+      "pinyin": "fáqiú"
+    },
+    {
+      "id": 394581,
+      "translation": {
+        "en": {
+          "short": "rabona",
+          "long": "(soccer) a trick where a player crosses one leg behind the other to kick the ball",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rabona",
+          "long": "(sepak bola) Trik di mana seorang pemain menyilangkan satu kaki di belakang yang lain untuk menendang bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394581.jpeg",
+      "simplified": "拉博纳",
+      "traditional": "拉博納",
+      "pinyin": "lā bó Nà"
+    },
+    {
+      "id": 394583,
+      "translation": {
+        "en": {
+          "short": "to head",
+          "long": "to strike the ball with the head, usually to pass or score in soccer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke kepala",
+          "long": "untuk menyerang bola dengan kepala, biasanya untuk lulus atau mencetak gol dalam sepak bola",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394583.jpeg",
+      "simplified": "为首",
+      "traditional": "為首",
+      "pinyin": "wéishǒu"
+    },
+    {
+      "id": 394588,
+      "translation": {
+        "en": {
+          "short": "to chest",
+          "long": "to control or redirect the ball using the chest in soccer",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke dada",
+          "long": "untuk mengontrol atau mengarahkan kembali bola menggunakan dada dalam sepak bola",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394588.jpeg",
+      "simplified": "胸部",
+      "traditional": "胸部",
+      "pinyin": "xiōngbù"
+    },
+    {
+      "id": 394603,
+      "translation": {
+        "en": {
+          "short": "penalty shoot-out",
+          "long": "a tiebreaker method where players take turns shooting penalty kicks to determine the winner of a match that remains undecided after regular play and extra time",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "adu penalti",
+          "long": "Metode tiebreak di mana pemain bergiliran menembak tendangan penalti untuk menentukan pemenang pertandingan yang tetap ragu -ragu setelah bermain reguler dan waktu ekstra",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394603.jpeg",
+      "simplified": "点球大战",
+      "traditional": "點球大戰",
+      "pinyin": "diǎnqiú dàzhàn"
+    },
+    {
+      "id": 394608,
+      "translation": {
+        "en": {
+          "short": "chip shot",
+          "long": "(soccer) a kick that lightly lifts the ball over an opponent, usually the goalkeeper",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembakan chip",
+          "long": "(sepak bola) Tendangan yang dengan ringan mengangkat bola di atas lawan, biasanya kiper",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/394608.jpeg",
+      "simplified": "切球",
+      "traditional": "切球",
+      "pinyin": "qiē qiú"
+    },
+    {
+      "id": 403246,
+      "translation": {
+        "en": {
+          "short": "corner",
+          "long": "(soccer) a kick awarded to the attacking team when the ball goes out of play over the defending team's goal line",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sudut",
+          "long": "(Sepak Bola) Tendangan yang diberikan kepada tim penyerang saat bola keluar dari permainan di atas garis gawang tim yang bertahan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403246.jpeg",
+      "simplified": "角",
+      "traditional": "角",
+      "pinyin": "Jué"
+    },
+    {
+      "id": 403318,
+      "translation": {
+        "en": {
+          "short": "to punt",
+          "long": "to kick the ball a long distance in soccer in an attempt to change field position",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyepak bola",
+          "long": "untuk menendang bola jarak jauh dalam sepak bola dalam upaya mengubah posisi lapangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403318.jpeg",
+      "simplified": "平底锅",
+      "traditional": "平底鍋",
+      "pinyin": "píngdǐ guō"
+    },
+    {
+      "id": 403361,
+      "translation": {
+        "en": {
+          "short": "goal difference",
+          "long": "(soccer) the difference between the total number of goals scored and conceded by a team in a competition",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Perbedaan sasaran",
+          "long": "(sepak bola) Perbedaan antara jumlah total gol yang dicetak dan kebobolan oleh tim dalam kompetisi",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403361.jpeg",
+      "simplified": "净胜球",
+      "traditional": "淨胜球",
+      "pinyin": "jìng shèng qiú"
+    },
+    {
+      "id": 403495,
+      "translation": {
+        "en": {
+          "short": "diving",
+          "long": "the act of deliberately falling to the ground to deceive the referee into awarding a foul in a soccer match",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "menyelam",
+          "long": "tindakan sengaja jatuh ke tanah untuk menipu wasit agar memberikan pelanggaran dalam pertandingan sepak bola",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/403495.jpeg",
+      "simplified": "潜水",
+      "traditional": "潛水",
+      "pinyin": "qiánshuǐ"
+    },
+    {
+      "id": 408192,
+      "translation": {
+        "en": {
+          "short": "to nutmeg",
+          "long": "(soccer) to skillfully pass or kick the ball through the opponent's legs and regain possession of it on the other side",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke pala",
+          "long": "(sepak bola) untuk menguntungkan atau menendang bola melalui kaki lawan dan mendapatkan kembali kepemilikannya di sisi lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/408192.jpeg",
+      "simplified": "肉豆蔻",
+      "traditional": "肉荳蔻",
+      "pinyin": "ròudòu kòu"
+    }
+  ]
+}

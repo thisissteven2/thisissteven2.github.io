@@ -1,0 +1,849 @@
+{
+  "id": 876,
+  "title": {
+    "en": "War and Peace",
+    "id": "Perang dan damai"
+  },
+  "description": {
+    "en": "Here you will learn some English words about war and peace, such as \"arms\", \"military\", \"navy\", etc. prepared for B2 learners.",
+    "id": "Di sini Anda akan belajar beberapa kata bahasa Inggris tentang perang dan perdamaian, seperti \"senjata\", \"militer\", \"Angkatan Laut\", dll. Disiapkan untuk pelajar B2."
+  },
+  "cards": [
+    {
+      "id": 239147,
+      "translation": {
+        "en": {
+          "short": "action",
+          "long": "the act of fighting a war or battle",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tindakan",
+          "long": "tindakan berperang atau pertempuran",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239147.jpeg",
+      "simplified": "行动",
+      "traditional": "行動",
+      "pinyin": "xíngdòng"
+    },
+    {
+      "id": 239148,
+      "translation": {
+        "en": {
+          "short": "advance",
+          "long": "a forward movement by soldiers",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "maju",
+          "long": "gerakan maju oleh tentara",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239148.jpeg",
+      "simplified": "向前移动",
+      "traditional": "向前移動",
+      "pinyin": "xiàngqián yídòng"
+    },
+    {
+      "id": 239153,
+      "translation": {
+        "en": {
+          "short": "camp",
+          "long": "a temporary place of residence for people provided by a government, typically used by soldiers, refugees, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kamp",
+          "long": "Tempat tinggal sementara untuk orang yang disediakan oleh pemerintah, biasanya digunakan oleh tentara, pengungsi, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239153.jpeg",
+      "simplified": "军营",
+      "traditional": "軍營",
+      "pinyin": "jūnyíng"
+    },
+    {
+      "id": 239163,
+      "translation": {
+        "en": {
+          "short": "military",
+          "long": "related to the armed forces or soldiers",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "militer",
+          "long": "terkait dengan angkatan bersenjata atau tentara",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239163.jpeg",
+      "simplified": "军队",
+      "traditional": "軍隊",
+      "pinyin": "jūnduì"
+    },
+    {
+      "id": 239149,
+      "translation": {
+        "en": {
+          "short": "air force",
+          "long": "the branch of the armed forces that operates in the air using fighter aircraft",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Angkatan Udara",
+          "long": "Cabang angkatan bersenjata yang beroperasi di udara menggunakan pesawat tempur",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239149.jpeg",
+      "simplified": "空军",
+      "traditional": "空軍",
+      "pinyin": "kōngjūn"
+    },
+    {
+      "id": 239164,
+      "translation": {
+        "en": {
+          "short": "navy",
+          "long": "the branch of the armed forces that operates at sea using warships, destroyers, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "angkatan laut",
+          "long": "Cabang angkatan bersenjata yang beroperasi di laut menggunakan kapal perang, perusak, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239164.jpeg",
+      "simplified": "海军",
+      "traditional": "海軍",
+      "pinyin": "hǎijūn"
+    },
+    {
+      "id": 239175,
+      "translation": {
+        "en": {
+          "short": "strategy",
+          "long": "a field of military science that deals with the planning of an attack or defense",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "strategi",
+          "long": "bidang ilmu militer yang berurusan dengan perencanaan serangan atau pertahanan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239175.jpeg",
+      "simplified": "军事战略",
+      "traditional": "軍事戰略",
+      "pinyin": "jūnshì zhànlüè"
+    },
+    {
+      "id": 239151,
+      "translation": {
+        "en": {
+          "short": "arms",
+          "long": "weapons in general, especially those used by the military",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "lengan",
+          "long": "senjata secara umum, terutama yang digunakan oleh militer",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239151.jpeg",
+      "simplified": "武器",
+      "traditional": "武器",
+      "pinyin": "wǔqì"
+    },
+    {
+      "id": 239152,
+      "translation": {
+        "en": {
+          "short": "grenade",
+          "long": "a small bomb that explodes in a few seconds, can be thrown by hand or fired from a gun",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "granat",
+          "long": "Bom kecil yang meledak dalam beberapa detik, dapat dilemparkan dengan tangan atau ditembakkan dari pistol",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239152.jpeg",
+      "simplified": "手榴弹",
+      "traditional": "手榴彈",
+      "pinyin": "shǒuliú dàn"
+    },
+    {
+      "id": 239160,
+      "translation": {
+        "en": {
+          "short": "handgun",
+          "long": "a gun that can be used with one hand",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pistol",
+          "long": "senjata yang dapat digunakan dengan satu tangan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239160.jpeg",
+      "simplified": "手枪",
+      "traditional": "手槍",
+      "pinyin": "shǒuqiāng"
+    },
+    {
+      "id": 239162,
+      "translation": {
+        "en": {
+          "short": "mine",
+          "long": "a piece of military equipment that is put on or just under the ground or in the sea, which explodes when it is touched",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "milikku",
+          "long": "sepotong peralatan militer yang diletakkan atau tepat di bawah tanah atau di laut, yang meledak saat disentuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239162.jpeg",
+      "simplified": "矿",
+      "traditional": "礦",
+      "pinyin": "kuàng"
+    },
+    {
+      "id": 239154,
+      "translation": {
+        "en": {
+          "short": "campaign",
+          "long": "a series of operations carried out to achieve a certain military objective",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kampanye",
+          "long": "serangkaian operasi yang dilakukan untuk mencapai tujuan militer tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239154.jpeg",
+      "simplified": "竞选活动",
+      "traditional": "競選活動",
+      "pinyin": "jìngxuǎn huó dòng"
+    },
+    {
+      "id": 239155,
+      "translation": {
+        "en": {
+          "short": "to command",
+          "long": "to have authority over or be in charge of a unit in the army",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memerintah",
+          "long": "untuk memiliki otoritas atas atau bertanggung jawab atas unit di ketentaraan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239155.jpeg",
+      "simplified": "指挥",
+      "traditional": "指揮",
+      "pinyin": "zhǐhuī"
+    },
+    {
+      "id": 239157,
+      "translation": {
+        "en": {
+          "short": "to desert",
+          "long": "to leave the army, navy, etc. without permission or without fulfilling one's obligations",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke gurun",
+          "long": "untuk meninggalkan Angkatan Darat, Angkatan Laut, dll. Tanpa izin atau tanpa memenuhi kewajiban seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239157.jpeg",
+      "simplified": "未经许可离开",
+      "traditional": "未經許可離開",
+      "pinyin": "wèijīng xǔkě líkāi"
+    },
+    {
+      "id": 239631,
+      "translation": {
+        "en": {
+          "short": "to dominate",
+          "long": "to have the power to completely or partially control someone or something",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendominasi",
+          "long": "untuk memiliki kekuatan untuk sepenuhnya atau sebagian mengendalikan seseorang atau sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239631.jpeg",
+      "simplified": "支配",
+      "traditional": "支配",
+      "pinyin": "zhīpèi"
+    },
+    {
+      "id": 239161,
+      "translation": {
+        "en": {
+          "short": "to invade",
+          "long": "to enter a territory using armed forces in order to occupy or take control of it",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerang",
+          "long": "untuk memasuki suatu wilayah menggunakan angkatan bersenjata untuk menempati atau mengendalikannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239161.jpeg",
+      "simplified": "入侵",
+      "traditional": "入侵",
+      "pinyin": "rùqīn"
+    },
+    {
+      "id": 239171,
+      "translation": {
+        "en": {
+          "short": "to recruit",
+          "long": "to find people to join the armed forces",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk merekrut",
+          "long": "untuk menemukan orang bergabung dengan angkatan bersenjata",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239171.jpeg",
+      "simplified": "招募士兵",
+      "traditional": "招募士兵",
+      "pinyin": "zhāomù shìbīng"
+    },
+    {
+      "id": 239174,
+      "translation": {
+        "en": {
+          "short": "to strike",
+          "long": "to hit using hands or weapons",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menyerang",
+          "long": "untuk memukul menggunakan tangan atau senjata",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239174.jpeg",
+      "simplified": "罢工",
+      "traditional": "罷工",
+      "pinyin": "bàgōng"
+    },
+    {
+      "id": 239159,
+      "translation": {
+        "en": {
+          "short": "gunfight",
+          "long": "a fight in which two or more individuals or groups use guns",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tembak -menembak",
+          "long": "pertarungan di mana dua atau lebih individu atau kelompok menggunakan senjata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239159.jpeg",
+      "simplified": "枪战",
+      "traditional": "槍戰",
+      "pinyin": "qiāngzhàn"
+    },
+    {
+      "id": 239150,
+      "translation": {
+        "en": {
+          "short": "armed",
+          "long": "equipped with weapons or firearms",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "bersenjata",
+          "long": "dilengkapi dengan senjata atau senjata api",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239150.jpeg",
+      "simplified": "武装的",
+      "traditional": "武裝的",
+      "pinyin": "wǔzhuāng de"
+    },
+    {
+      "id": 239813,
+      "translation": {
+        "en": {
+          "short": "civil",
+          "long": "involving ordinary people who are not part of the armed forces",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sipil",
+          "long": "melibatkan orang biasa yang bukan bagian dari angkatan bersenjata",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239813.jpeg",
+      "simplified": "非军事的",
+      "traditional": "非軍事的",
+      "pinyin": "Fēi jūnshì de"
+    },
+    {
+      "id": 239167,
+      "translation": {
+        "en": {
+          "short": "occupied",
+          "long": "(of a city, country, etc.) captured and under the control, authority, or presence of foreign military forces or other entities",
+          "partOfSpeech": "adjective"
+        },
+        "id": {
+          "short": "sibuk",
+          "long": "(dari kota, negara, dll.) Ditangkap dan di bawah kendali, otoritas, atau keberadaan pasukan militer asing atau entitas lainnya",
+          "partOfSpeech": "kata sifat"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239167.jpeg",
+      "simplified": "被俘或包围",
+      "traditional": "被俘或包圍",
+      "pinyin": "bèi fú huò bāowéi"
+    },
+    {
+      "id": 239168,
+      "translation": {
+        "en": {
+          "short": "parade",
+          "long": "a military event where military units, personnel, and equipment are displayed or marched in formation to display power or be inspected",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Parade",
+          "long": "Peristiwa militer di mana unit militer, personel, dan peralatan ditampilkan atau berbaris dalam formasi untuk menampilkan kekuatan atau diperiksa",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239168.jpeg",
+      "simplified": "游行",
+      "traditional": "遊行",
+      "pinyin": "yóuxíng"
+    },
+    {
+      "id": 239169,
+      "translation": {
+        "en": {
+          "short": "prisoner of war",
+          "long": "someone who is captured by the enemy during a war",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "tawanan perang",
+          "long": "seseorang yang ditangkap oleh musuh selama perang",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239169.jpeg",
+      "simplified": "战俘",
+      "traditional": "戰俘",
+      "pinyin": "zhànfú"
+    },
+    {
+      "id": 239170,
+      "translation": {
+        "en": {
+          "short": "rank",
+          "long": "members of the armed forces involving those who have a lower position",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pangkat",
+          "long": "anggota angkatan bersenjata yang melibatkan mereka yang memiliki posisi yang lebih rendah",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239170.jpeg",
+      "simplified": "士兵",
+      "traditional": "士兵",
+      "pinyin": "shìbīng"
+    },
+    {
+      "id": 239172,
+      "translation": {
+        "en": {
+          "short": "refugee",
+          "long": "a person who is forced to leave their own country because of war, natural disaster, etc.",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "pengungsi",
+          "long": "Seseorang yang terpaksa meninggalkan negara mereka sendiri karena perang, bencana alam, dll.",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239172.jpeg",
+      "simplified": "难民",
+      "traditional": "難民",
+      "pinyin": "nànmín"
+    },
+    {
+      "id": 239178,
+      "translation": {
+        "en": {
+          "short": "volunteer",
+          "long": "someone who enlists in the armed forces without being forced",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sukarelawan",
+          "long": "seseorang yang mendaftar di angkatan bersenjata tanpa dipaksakan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239178.jpeg",
+      "simplified": "军事志愿者",
+      "traditional": "軍事志願者",
+      "pinyin": "jūnshì zhìyuàn zhě"
+    },
+    {
+      "id": 239173,
+      "translation": {
+        "en": {
+          "short": "service",
+          "long": "a division of the armed forces such as the army, navy, air force, or marines, that performs specific duties and missions",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "melayani",
+          "long": "Divisi angkatan bersenjata seperti Angkatan Darat, Angkatan Laut, Angkatan Udara, atau Marinir, yang melakukan tugas dan misi tertentu",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239173.jpeg",
+      "simplified": "武装部队部门",
+      "traditional": "武裝部隊部門",
+      "pinyin": "wǔzhuāng bù duì bùmén"
+    },
+    {
+      "id": 239176,
+      "translation": {
+        "en": {
+          "short": "tank",
+          "long": "a heavily armored military vehicle with tracks and a large gun, used in ground combat",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "tangki",
+          "long": "Kendaraan militer yang sangat lapis baja dengan trek dan pistol besar, digunakan dalam pertempuran darat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239176.jpeg",
+      "simplified": "坦克",
+      "traditional": "坦克",
+      "pinyin": "tǎnkè"
+    },
+    {
+      "id": 239180,
+      "translation": {
+        "en": {
+          "short": "warship",
+          "long": "a ship that is made for war and has weapons",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal perang",
+          "long": "kapal yang dibuat untuk perang dan memiliki senjata",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239180.jpeg",
+      "simplified": "军舰",
+      "traditional": "軍艦",
+      "pinyin": "jūnjiàn"
+    },
+    {
+      "id": 239179,
+      "translation": {
+        "en": {
+          "short": "war crime",
+          "long": "an inhuman act that is done during a war, which is against the rules of war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kejahatan perang",
+          "long": "tindakan tidak manusiawi yang dilakukan selama perang, yang bertentangan dengan aturan perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239179.jpeg",
+      "simplified": "战争罪",
+      "traditional": "戰爭罪",
+      "pinyin": "zhànzhēng zuì"
+    },
+    {
+      "id": 262743,
+      "translation": {
+        "en": {
+          "short": "nuclear submarine",
+          "long": "a ship moving above and below the sea, which is powered by nuclear energy and is usually armed with weapons such as missile",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "kapal selam nuklir",
+          "long": "Kapal yang bergerak di atas dan di bawah laut, yang ditenagai oleh energi nuklir dan biasanya dipersenjatai dengan senjata seperti rudal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262743.jpeg",
+      "simplified": "核潜艇",
+      "traditional": "核潛艇",
+      "pinyin": "hé qiántǐng"
+    },
+    {
+      "id": 239177,
+      "translation": {
+        "en": {
+          "short": "target",
+          "long": "a person, building, or area marked to be attacked",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "target",
+          "long": "seseorang, bangunan, atau area yang ditandai untuk diserang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239177.jpeg",
+      "simplified": "目标",
+      "traditional": "目標",
+      "pinyin": "mùbiāo"
+    },
+    {
+      "id": 245575,
+      "translation": {
+        "en": {
+          "short": "to wreck",
+          "long": "to damage or destroy something severely",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menghancurkan",
+          "long": "untuk merusak atau menghancurkan sesuatu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/245575.jpeg",
+      "simplified": "破坏",
+      "traditional": "破壞",
+      "pinyin": "pòhuài"
+    },
+    {
+      "id": 343290,
+      "translation": {
+        "en": {
+          "short": "spoil",
+          "long": "valuable items that are taken by force, especially during a war",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "memanjakan",
+          "long": "Barang berharga yang diambil dengan paksa, terutama selama perang",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343290.jpeg",
+      "simplified": "战利品",
+      "traditional": "戰利品",
+      "pinyin": "zhànlì pǐn"
+    },
+    {
+      "id": 239181,
+      "translation": {
+        "en": {
+          "short": "to wound",
+          "long": "to cause physical harm or injury to someone",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk melukai",
+          "long": "menyebabkan kerusakan fisik atau cedera pada seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/239181.jpeg",
+      "simplified": "创",
+      "traditional": "創",
+      "pinyin": "chuàng"
+    },
+    {
+      "id": 262751,
+      "translation": {
+        "en": {
+          "short": "ground-to-air missile",
+          "long": "a missile aimed at an aircraft from the ground or a ship",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "rudal darat-ke-udara",
+          "long": "Rudal yang ditujukan untuk sebuah pesawat dari tanah atau kapal",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262751.jpeg",
+      "simplified": "地对空导弹",
+      "traditional": "地對空導彈",
+      "pinyin": "dìduì kōng dǎo dàn"
+    },
+    {
+      "id": 292850,
+      "translation": {
+        "en": {
+          "short": "air-to-ground missile",
+          "long": "a missile that is aimed from an aircraft at a surface on the ground or sea",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Rudal udara-ke-darat",
+          "long": "sebuah rudal yang ditujukan dari pesawat terbang di permukaan di tanah atau laut",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/292850.jpeg",
+      "simplified": "空对地导弹",
+      "traditional": "空對地導彈",
+      "pinyin": "kōngduì dì dǎodàn"
+    },
+    {
+      "id": 262273,
+      "translation": {
+        "en": {
+          "short": "brass knuckles",
+          "long": "a metal weapon that is consisted of a group of connected rings, which is worn on one's fingers in order to hit someone with",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Knuckles kuningan",
+          "long": "Senjata logam yang terdiri dari sekelompok cincin yang terhubung, yang dikenakan di jari seseorang untuk memukul seseorang dengan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262273.jpeg",
+      "simplified": "指节铜环",
+      "traditional": "指節銅環",
+      "pinyin": "zhǐ jiē tónghuán"
+    },
+    {
+      "id": 262446,
+      "translation": {
+        "en": {
+          "short": "dogfight",
+          "long": "an aerial combat in which two or more fighter aircraft are engaged",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "Dogfight",
+          "long": "pertempuran udara di mana dua atau lebih pesawat tempur dilibatkan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/262446.jpeg",
+      "simplified": "空战",
+      "traditional": "空戰",
+      "pinyin": "kōngzhàn"
+    },
+    {
+      "id": 263423,
+      "translation": {
+        "en": {
+          "short": "marine",
+          "long": "a member of one of the armed forces who can engage in operations taking place both on land and at sea, particularly a member of Royal Marines or United States Marine Corps",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "laut",
+          "long": "Seorang anggota salah satu angkatan bersenjata yang dapat terlibat dalam operasi yang berlangsung baik di darat maupun di laut, khususnya anggota Royal Marines atau Korps Marinir Amerika Serikat",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263423.jpeg",
+      "simplified": "陆战队",
+      "traditional": "陸戰隊",
+      "pinyin": "Lù zhàn duì"
+    },
+    {
+      "id": 263738,
+      "translation": {
+        "en": {
+          "short": "to gun down",
+          "long": "to seriously injure or kill a person by shooting them, particularly someone who is defenseless",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menembak",
+          "long": "untuk secara serius melukai atau membunuh seseorang dengan menembak mereka, terutama seseorang yang tidak berdaya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/263738.jpeg",
+      "simplified": "开枪",
+      "traditional": "開槍",
+      "pinyin": "kāiqiāng"
+    },
+    {
+      "id": 385468,
+      "translation": {
+        "en": {
+          "short": "United States Marine Corps",
+          "long": "an armed force of the United States trained for conducting specific military operations such as fighting from the sea",
+          "partOfSpeech": "phrase"
+        },
+        "id": {
+          "short": "Korps Marinir Amerika Serikat",
+          "long": "Pasukan bersenjata Amerika Serikat yang dilatih untuk melakukan operasi militer tertentu seperti pertempuran dari laut",
+          "partOfSpeech": "frasa"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/385468.jpeg",
+      "simplified": "美国海军陆战队",
+      "traditional": "美國海軍陸戰隊",
+      "pinyin": "Měiguó hǎijūn lù zhàn duì"
+    },
+    {
+      "id": 343264,
+      "translation": {
+        "en": {
+          "short": "sidearm",
+          "long": "a weapon, such as a gun or knife, that is carried on the side of the body",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "sidearm",
+          "long": "senjata, seperti senjata atau pisau, yang dibawa di sisi tubuh",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/343264.jpeg",
+      "simplified": "侧臂",
+      "traditional": "側臂",
+      "pinyin": "cè bì"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "id": 6126,
+  "title": {
+    "en": "Transit Actions",
+    "id": "Tindakan transit"
+  },
+  "description": {
+    "en": "Here you will learn some English words related to transit actions such as \"drive\", \"commute\", and \"board.\"",
+    "id": "Di sini Anda akan mempelajari beberapa kata bahasa Inggris yang terkait dengan tindakan transit seperti \"drive\", \"bepergian\", dan \"papan.\""
+  },
+  "cards": [
+    {
+      "id": 406914,
+      "translation": {
+        "en": {
+          "short": "to drive",
+          "long": "to control the movement and the speed of a car, bus, truck, etc. when it is moving",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengemudi",
+          "long": "untuk mengontrol gerakan dan kecepatan mobil, bus, truk, dll. Saat bergerak",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406914.jpeg",
+      "simplified": "驾车",
+      "traditional": "駕車",
+      "pinyin": "jiàchē"
+    },
+    {
+      "id": 406917,
+      "translation": {
+        "en": {
+          "short": "to bike",
+          "long": "to use a bicycle to reach one's destination",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "bersepeda",
+          "long": "untuk menggunakan sepeda untuk mencapai tujuan seseorang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406917.jpeg",
+      "simplified": "自行车",
+      "traditional": "自行車",
+      "pinyin": "zìxíng chē"
+    },
+    {
+      "id": 406918,
+      "translation": {
+        "en": {
+          "short": "to ride",
+          "long": "to sit on open-spaced vehicles like motorcycles or bicycles and be in control of their movements",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mengendarai",
+          "long": "untuk duduk di atas kendaraan spasi terbuka seperti sepeda motor atau sepeda dan mengendalikan gerakan mereka",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406918.jpeg",
+      "simplified": "骑",
+      "traditional": "騎",
+      "pinyin": "jì"
+    },
+    {
+      "id": 406919,
+      "translation": {
+        "en": {
+          "short": "to motor",
+          "long": "to move or travel using a motor or engine-powered vehicle",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke motor",
+          "long": "untuk pindah atau bepergian menggunakan motor atau kendaraan bertenaga mesin",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406919.jpeg",
+      "simplified": "乘汽车旅",
+      "traditional": "乘汽車旅",
+      "pinyin": "Chéng qìchē lǚ"
+    },
+    {
+      "id": 406920,
+      "translation": {
+        "en": {
+          "short": "to truck",
+          "long": "to transport or convey goods by truck or a similar vehicle",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke truk",
+          "long": "untuk mengangkut atau menyampaikan barang dengan truk atau kendaraan serupa",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406920.jpeg",
+      "simplified": "卡车",
+      "traditional": "卡車",
+      "pinyin": "kǎchē"
+    },
+    {
+      "id": 406922,
+      "translation": {
+        "en": {
+          "short": "to run",
+          "long": "(of means of transportation) to make a scheduled and regular journey along a specific route",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk berlari",
+          "long": "(alat transportasi) untuk melakukan perjalanan yang dijadwalkan dan reguler di sepanjang rute tertentu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406922.jpeg",
+      "simplified": "运行",
+      "traditional": "運行",
+      "pinyin": "yùnxíng"
+    },
+    {
+      "id": 406923,
+      "translation": {
+        "en": {
+          "short": "lift",
+          "long": "a ride in a vehicle that takes someone from one place to another",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "mengangkat",
+          "long": "Perjalanan dengan kendaraan yang membawa seseorang dari satu tempat ke tempat lain",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406923.jpeg",
+      "simplified": "电梯",
+      "traditional": "電梯",
+      "pinyin": "diàntī"
+    },
+    {
+      "id": 406924,
+      "translation": {
+        "en": {
+          "short": "to pick up",
+          "long": "to let a person waiting by a road or street to get inside one's vehicle and give them a ride",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengambil",
+          "long": "untuk membiarkan seseorang menunggu di jalan atau jalan untuk masuk ke dalam kendaraan seseorang dan memberi mereka tumpangan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406924.jpeg",
+      "simplified": "拾取",
+      "traditional": "拾取",
+      "pinyin": "shíqǔ"
+    },
+    {
+      "id": 406925,
+      "translation": {
+        "en": {
+          "short": "to drop",
+          "long": "to release or unload people or cargo from a vehicle, allowing them to come to rest on the ground or another surface",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menjatuhkan",
+          "long": "Untuk melepaskan atau menurunkan orang atau kargo dari kendaraan, memungkinkan mereka untuk beristirahat di tanah atau permukaan lain",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406925.jpeg",
+      "simplified": "下降",
+      "traditional": "下降",
+      "pinyin": "xiàjiàng"
+    },
+    {
+      "id": 406926,
+      "translation": {
+        "en": {
+          "short": "to commute",
+          "long": "to regularly travel to one's place of work and home by different means",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk bepergian",
+          "long": "untuk secara teratur bepergian ke tempat kerja dan rumah dengan cara yang berbeda",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406926.jpeg",
+      "simplified": "定期通勤",
+      "traditional": "定期通勤",
+      "pinyin": "dìngqī tōngqín"
+    },
+    {
+      "id": 407056,
+      "translation": {
+        "en": {
+          "short": "to bypass",
+          "long": "to navigate around or avoid something by taking an alternative route or direction",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memotong",
+          "long": "untuk menavigasi atau menghindari sesuatu dengan mengambil rute atau arah alternatif",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407056.jpeg",
+      "simplified": "绕行",
+      "traditional": "繞行",
+      "pinyin": "ràoxíng"
+    },
+    {
+      "id": 406927,
+      "translation": {
+        "en": {
+          "short": "to hitchhike",
+          "long": "to travel by getting free rides in passing vehicles, typically by standing at the side of the road and signaling drivers to stop",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menumpang",
+          "long": "untuk bepergian dengan mendapatkan wahana gratis di kendaraan yang lewat, biasanya dengan berdiri di sisi jalan dan memberi sinyal pengemudi untuk berhenti",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406927.jpeg",
+      "simplified": "搭脚儿",
+      "traditional": "搭腳兒",
+      "pinyin": "dā jiǎo rén"
+    },
+    {
+      "id": 406928,
+      "translation": {
+        "en": {
+          "short": "to carpool",
+          "long": "to share a vehicle ride with one or more people, especially for commuting",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke Carpool",
+          "long": "untuk berbagi perjalanan kendaraan dengan satu atau lebih orang, terutama untuk bepergian",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406928.jpeg",
+      "simplified": "停车场",
+      "traditional": "停車場",
+      "pinyin": "tíngchē chǎng"
+    },
+    {
+      "id": 406929,
+      "translation": {
+        "en": {
+          "short": "to alight",
+          "long": "to get off or out of a vehicle or conveyance, especially after a journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk turun",
+          "long": "untuk turun atau keluar dari kendaraan atau alat angkut, terutama setelah perjalanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406929.jpeg",
+      "simplified": "落",
+      "traditional": "落",
+      "pinyin": "là"
+    },
+    {
+      "id": 406930,
+      "translation": {
+        "en": {
+          "short": "to board",
+          "long": "to get on a means of transportation such as a train, bus, aircraft, ship, etc.",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk naik",
+          "long": "Untuk mendapatkan alat transportasi seperti kereta api, bus, pesawat terbang, kapal, dll.",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406930.jpeg",
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shǎng"
+    },
+    {
+      "id": 406931,
+      "translation": {
+        "en": {
+          "short": "to catch",
+          "long": "to reach and get on a bus, aircraft, or train in time",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk menangkap",
+          "long": "untuk mencapai dan naik bus, pesawat terbang, atau berlatih tepat waktu",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406931.jpeg",
+      "simplified": "及时到达公共汽车、飞机等",
+      "traditional": "及時到達公共汽車、飛機等",
+      "pinyin": "jíshí dàodá gōnggòng qì chē fēijī děng"
+    },
+    {
+      "id": 406932,
+      "translation": {
+        "en": {
+          "short": "to change",
+          "long": "to move from a vehicle, airplane, etc. to another in order to continue a journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk mengganti",
+          "long": "untuk pindah dari kendaraan, pesawat terbang, dll. Ke yang lain untuk melanjutkan perjalanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406932.jpeg",
+      "simplified": "改变",
+      "traditional": "改變",
+      "pinyin": "gǎibiàn"
+    },
+    {
+      "id": 406933,
+      "translation": {
+        "en": {
+          "short": "to get",
+          "long": "to use a taxi, bus, train, plane, etc. for transportation",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "mendapatkan",
+          "long": "untuk menggunakan taksi, bus, kereta api, pesawat, dll. Untuk transportasi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406933.jpeg",
+      "simplified": "得到",
+      "traditional": "得到",
+      "pinyin": "dédào"
+    },
+    {
+      "id": 406934,
+      "translation": {
+        "en": {
+          "short": "to hail",
+          "long": "to signal an approaching taxi or bus to stop",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk Salam",
+          "long": "untuk menandakan taksi atau bus yang mendekat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406934.jpeg",
+      "simplified": "欢呼",
+      "traditional": "歡呼",
+      "pinyin": "huānhū"
+    },
+    {
+      "id": 406935,
+      "translation": {
+        "en": {
+          "short": "to hop",
+          "long": "to take a short and usually informal trip, often by using public transportation or a small aircraft",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "melompat",
+          "long": "Untuk melakukan perjalanan singkat dan biasanya informal, seringkali dengan menggunakan transportasi umum atau pesawat kecil",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406935.jpeg",
+      "simplified": "跳",
+      "traditional": "跳",
+      "pinyin": "tiào"
+    },
+    {
+      "id": 406936,
+      "translation": {
+        "en": {
+          "short": "to take",
+          "long": "to use a particular route or means of transport in order to go somewhere",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengambil",
+          "long": "untuk menggunakan rute atau alat transportasi tertentu untuk pergi ke suatu tempat",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406936.jpeg",
+      "simplified": "采取",
+      "traditional": "採取",
+      "pinyin": "cǎiqǔ"
+    },
+    {
+      "id": 406938,
+      "translation": {
+        "en": {
+          "short": "to terminate",
+          "long": "(of a vehicle) to come to a complete stop at the end of its journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengakhiri",
+          "long": "(kendaraan) untuk berhenti total di akhir perjalanannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406938.jpeg",
+      "simplified": "办到",
+      "traditional": "辦到",
+      "pinyin": "bàndào"
+    },
+    {
+      "id": 407000,
+      "translation": {
+        "en": {
+          "short": "to change",
+          "long": "to move from a vehicle, airplane, etc. to another in order to continue a journey",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "Untuk mengganti",
+          "long": "untuk pindah dari kendaraan, pesawat terbang, dll. Ke yang lain untuk melanjutkan perjalanan",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/407000.jpeg",
+      "simplified": "改变",
+      "traditional": "改變",
+      "pinyin": "gǎibiàn"
+    },
+    {
+      "id": 406939,
+      "translation": {
+        "en": {
+          "short": "to get in",
+          "long": "to physically enter a vehicle, such as a car or taxi",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "masuk",
+          "long": "untuk secara fisik memasuki kendaraan, seperti mobil atau taksi",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406939.jpeg",
+      "simplified": "进",
+      "traditional": "進",
+      "pinyin": "jìn"
+    },
+    {
+      "id": 406940,
+      "translation": {
+        "en": {
+          "short": "to detrain",
+          "long": "to get off a train",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk mengurangi",
+          "long": "untuk turun dari kereta",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406940.jpeg",
+      "simplified": "下火车",
+      "traditional": "下火車",
+      "pinyin": "xià huǒchē"
+    },
+    {
+      "id": 406941,
+      "translation": {
+        "en": {
+          "short": "to ply",
+          "long": "to travel along a specific path on a regular basis",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "ke ply",
+          "long": "untuk melakukan perjalanan sepanjang jalur tertentu secara teratur",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406941.jpeg",
+      "simplified": "定期旅行的路线",
+      "traditional": "定期旅行的路線",
+      "pinyin": "dìngqī lǚxíng de lùxiàn"
+    },
+    {
+      "id": 406942,
+      "translation": {
+        "en": {
+          "short": "to transport",
+          "long": "to take people, goods, etc. from one place to another using a vehicle, ship, or aircraft",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk transportasi",
+          "long": "untuk membawa orang, barang, dll. Dari satu tempat ke tempat lain menggunakan kendaraan, kapal, atau pesawat terbang",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406942.jpeg",
+      "simplified": "运输",
+      "traditional": "運輸",
+      "pinyin": "yùnshū"
+    },
+    {
+      "id": 406943,
+      "translation": {
+        "en": {
+          "short": "to embark",
+          "long": "to board a plane or ship",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk memulai",
+          "long": "untuk naik pesawat atau kapal",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406943.jpeg",
+      "simplified": "从事",
+      "traditional": "從事",
+      "pinyin": "cóngshì"
+    },
+    {
+      "id": 406944,
+      "translation": {
+        "en": {
+          "short": "to disembark",
+          "long": "to take off the cargo or passengers of a plane, train, or ship once it has reached its destination",
+          "partOfSpeech": "verb"
+        },
+        "id": {
+          "short": "untuk turun",
+          "long": "untuk melepas kargo atau penumpang pesawat, melatih, atau mengirim setelah mencapai tujuannya",
+          "partOfSpeech": "kata kerja"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406944.jpeg",
+      "simplified": "登陆",
+      "traditional": "登陸",
+      "pinyin": "dēnglù"
+    },
+    {
+      "id": 406945,
+      "translation": {
+        "en": {
+          "short": "aboard",
+          "long": "on or into a vehicle such as a bus, train, plane, etc.",
+          "partOfSpeech": "adverb"
+        },
+        "id": {
+          "short": "naik",
+          "long": "Pada atau ke dalam kendaraan seperti bus, kereta api, pesawat, dll.",
+          "partOfSpeech": "kata keterangan"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406945.jpeg",
+      "simplified": "船上",
+      "traditional": "船上",
+      "pinyin": "chuán shǎng"
+    },
+    {
+      "id": 406946,
+      "translation": {
+        "en": {
+          "short": "road trip",
+          "long": "a trip taken by car, typically for leisure or vacation purposes, where the primary mode of transportation is driving on roads and highways",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan",
+          "long": "Perjalanan yang dilakukan dengan mobil, biasanya untuk tujuan liburan atau liburan, di mana moda transportasi utama mengemudi di jalan dan jalan raya",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406946.jpeg",
+      "simplified": "公路旅行",
+      "traditional": "公路旅行",
+      "pinyin": "gōnglù lǚxíng"
+    },
+    {
+      "id": 406947,
+      "translation": {
+        "en": {
+          "short": "round trip",
+          "long": "a journey to a destination and back to the point of departure",
+          "partOfSpeech": "noun"
+        },
+        "id": {
+          "short": "perjalanan pulang pergi",
+          "long": "Perjalanan ke tujuan dan kembali ke titik keberangkatan",
+          "partOfSpeech": "kata benda"
+        }
+      },
+      "image": "https://content.hanzi.id/langeek/images/406947.jpeg",
+      "simplified": "往返",
+      "traditional": "往返",
+      "pinyin": "wǎngfǎn"
+    }
+  ]
+}
