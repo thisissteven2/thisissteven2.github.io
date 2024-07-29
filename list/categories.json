@@ -2,925 +2,1585 @@
   {
     "id": 15,
     "urlId": "animals",
-    "photo": "https://cdn.langeek.co/photo/26591/original/animals?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26591/thumb/animals?type=png",
-    "title": "Animals"
+    "photo": "https://cdn.langeek.co/photo/26591/original/animals?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26591/thumb/animals?type=jpeg",
+    "title": {
+      "en": "Animals",
+      "id": "Hewan"
+    },
+    "original": "https://dictionary.hanzi.id/images/26591-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26591-thumbnail.jpeg"
   },
   {
     "id": 16,
     "urlId": "appearance",
-    "photo": "https://cdn.langeek.co/photo/26593/original/appearance?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26593/thumb/appearance?type=png",
-    "title": "Appearance"
+    "photo": "https://cdn.langeek.co/photo/26593/original/appearance?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26593/thumb/appearance?type=jpeg",
+    "title": {
+      "en": "Appearance",
+      "id": "Penampilan"
+    },
+    "original": "https://dictionary.hanzi.id/images/26593-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26593-thumbnail.jpeg"
   },
   {
     "id": 17,
     "urlId": "body",
-    "photo": "https://cdn.langeek.co/photo/26586/original/body?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26586/thumb/body?type=png",
-    "title": "Body"
+    "photo": "https://cdn.langeek.co/photo/26586/original/body?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26586/thumb/body?type=jpeg",
+    "title": {
+      "en": "Body",
+      "id": "Tubuh"
+    },
+    "original": "https://dictionary.hanzi.id/images/26586-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26586-thumbnail.jpeg"
   },
   {
     "id": 18,
     "urlId": "colors-and-shapes",
-    "photo": "https://cdn.langeek.co/photo/26596/original/colors-and-shapes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26596/thumb/colors-and-shapes?type=png",
-    "title": "Colors and Shapes"
+    "photo": "https://cdn.langeek.co/photo/26596/original/colors-and-shapes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26596/thumb/colors-and-shapes?type=jpeg",
+    "title": {
+      "en": "Colors and Shapes",
+      "id": "Warna dan bentuk"
+    },
+    "original": "https://dictionary.hanzi.id/images/26596-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26596-thumbnail.jpeg"
   },
   {
     "id": 19,
     "urlId": "clothes-and-fashion",
-    "photo": "https://cdn.langeek.co/photo/26592/original/clothes-and-fashion?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26592/thumb/clothes-and-fashion?type=png",
-    "title": "Clothes and Fashion"
+    "photo": "https://cdn.langeek.co/photo/26592/original/clothes-and-fashion?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26592/thumb/clothes-and-fashion?type=jpeg",
+    "title": {
+      "en": "Clothes and Fashion",
+      "id": "Pakaian dan mode"
+    },
+    "original": "https://dictionary.hanzi.id/images/26592-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26592-thumbnail.jpeg"
   },
   {
     "id": 21,
     "urlId": "words-related-to-linguistics",
-    "photo": "https://cdn.langeek.co/photo/41365/original/words-related-to-linguistics?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41365/thumb/words-related-to-linguistics?type=png",
-    "title": "Linguistics"
+    "photo": "https://cdn.langeek.co/photo/41365/original/words-related-to-linguistics?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41365/thumb/words-related-to-linguistics?type=jpeg",
+    "title": {
+      "en": "Linguistics",
+      "id": "Ilmu bahasa"
+    },
+    "original": "https://dictionary.hanzi.id/images/41365-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41365-thumbnail.jpeg"
   },
   {
     "id": 22,
     "urlId": "art",
-    "photo": "https://cdn.langeek.co/photo/41361/original/art?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41361/thumb/art?type=png",
-    "title": "Arts and Crafts"
+    "photo": "https://cdn.langeek.co/photo/41361/original/art?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41361/thumb/art?type=jpeg",
+    "title": {
+      "en": "Arts and Crafts",
+      "id": "Seni dan kerajinan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41361-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41361-thumbnail.jpeg"
   },
   {
     "id": 23,
     "urlId": "cinema-and-theater",
-    "photo": "https://cdn.langeek.co/photo/26600/original/cinema-and-theater?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26600/thumb/cinema-and-theater?type=png",
-    "title": "Cinema and Theater"
+    "photo": "https://cdn.langeek.co/photo/26600/original/cinema-and-theater?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26600/thumb/cinema-and-theater?type=jpeg",
+    "title": {
+      "en": "Cinema and Theater",
+      "id": "Bioskop dan teater"
+    },
+    "original": "https://dictionary.hanzi.id/images/26600-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26600-thumbnail.jpeg"
   },
   {
     "id": 24,
     "urlId": "literature",
-    "photo": "https://cdn.langeek.co/photo/26599/original/literature?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26599/thumb/literature?type=png",
-    "title": "Literature"
+    "photo": "https://cdn.langeek.co/photo/26599/original/literature?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26599/thumb/literature?type=jpeg",
+    "title": {
+      "en": "Literature",
+      "id": "literatur"
+    },
+    "original": "https://dictionary.hanzi.id/images/26599-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26599-thumbnail.jpeg"
   },
   {
     "id": 25,
     "urlId": "music",
-    "photo": "https://cdn.langeek.co/photo/26595/original/music?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26595/thumb/music?type=png",
-    "title": "Music"
+    "photo": "https://cdn.langeek.co/photo/26595/original/music?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26595/thumb/music?type=jpeg",
+    "title": {
+      "en": "Music",
+      "id": "Musik"
+    },
+    "original": "https://dictionary.hanzi.id/images/26595-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26595-thumbnail.jpeg"
   },
   {
     "id": 26,
     "urlId": "words-related-to-media-and-communication",
-    "photo": "https://cdn.langeek.co/photo/26601/original/words-related-to-media-and-communication?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26601/thumb/words-related-to-media-and-communication?type=png",
-    "title": "Media and Communication"
+    "photo": "https://cdn.langeek.co/photo/26601/original/words-related-to-media-and-communication?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26601/thumb/words-related-to-media-and-communication?type=jpeg",
+    "title": {
+      "en": "Media and Communication",
+      "id": "Media dan komunikasi"
+    },
+    "original": "https://dictionary.hanzi.id/images/26601-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26601-thumbnail.jpeg"
   },
   {
     "id": 27,
     "urlId": "food-and-drinks",
-    "photo": "https://cdn.langeek.co/photo/41357/original/food-and-drinks?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41357/thumb/food-and-drinks?type=png",
-    "title": "Foods and Drinks"
+    "photo": "https://cdn.langeek.co/photo/41357/original/food-and-drinks?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41357/thumb/food-and-drinks?type=jpeg",
+    "title": {
+      "en": "Foods and Drinks",
+      "id": "Makanan dan minuman"
+    },
+    "original": "https://dictionary.hanzi.id/images/41357-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41357-thumbnail.jpeg"
   },
   {
     "id": 28,
     "urlId": "agreement-and-disagreement",
-    "photo": "https://cdn.langeek.co/photo/26598/original/agreement-and-disagreement?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26598/thumb/agreement-and-disagreement?type=png",
-    "title": "Agreement and Disagreement"
+    "photo": "https://cdn.langeek.co/photo/26598/original/agreement-and-disagreement?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26598/thumb/agreement-and-disagreement?type=jpeg",
+    "title": {
+      "en": "Agreement and Disagreement",
+      "id": "Perjanjian dan ketidaksepakatan"
+    },
+    "original": "https://dictionary.hanzi.id/images/26598-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26598-thumbnail.jpeg"
   },
   {
     "id": 29,
     "urlId": "opinion-and-argument",
-    "photo": "https://cdn.langeek.co/photo/26580/original/opinion-and-argument?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26580/thumb/opinion-and-argument?type=png",
-    "title": "Opinion and Argument"
+    "photo": "https://cdn.langeek.co/photo/26580/original/opinion-and-argument?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26580/thumb/opinion-and-argument?type=jpeg",
+    "title": {
+      "en": "Opinion and Argument",
+      "id": "Opini dan Argumen"
+    },
+    "original": "https://dictionary.hanzi.id/images/26580-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26580-thumbnail.jpeg"
   },
   {
     "id": 30,
     "urlId": "certainty-and-doubt",
-    "photo": "https://cdn.langeek.co/photo/26582/original/certainty-and-doubt?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26582/thumb/certainty-and-doubt?type=png",
-    "title": "Certainty and Doubt"
+    "photo": "https://cdn.langeek.co/photo/26582/original/certainty-and-doubt?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26582/thumb/certainty-and-doubt?type=jpeg",
+    "title": {
+      "en": "Certainty and Doubt",
+      "id": "Kepastian dan keraguan"
+    },
+    "original": "https://dictionary.hanzi.id/images/26582-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26582-thumbnail.jpeg"
   },
   {
     "id": 31,
     "urlId": "decision-suggestion-obligation",
-    "photo": "https://cdn.langeek.co/photo/26581/original/decision-suggestion-obligation?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26581/thumb/decision-suggestion-obligation?type=png",
-    "title": "Decision, Suggestion, and Obligation"
+    "photo": "https://cdn.langeek.co/photo/26581/original/decision-suggestion-obligation?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26581/thumb/decision-suggestion-obligation?type=jpeg",
+    "title": {
+      "en": "Decision, Suggestion, and Obligation",
+      "id": "Keputusan, saran, dan kewajiban"
+    },
+    "original": "https://dictionary.hanzi.id/images/26581-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26581-thumbnail.jpeg"
   },
   {
     "id": 32,
     "urlId": "health-and-sickness",
-    "photo": "https://cdn.langeek.co/photo/26583/original/health-and-sickness?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26583/thumb/health-and-sickness?type=png",
-    "title": "Health and Sickness"
+    "photo": "https://cdn.langeek.co/photo/26583/original/health-and-sickness?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26583/thumb/health-and-sickness?type=jpeg",
+    "title": {
+      "en": "Health and Sickness",
+      "id": "Kesehatan dan penyakit"
+    },
+    "original": "https://dictionary.hanzi.id/images/26583-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26583-thumbnail.jpeg"
   },
   {
     "id": 33,
     "urlId": "words-related-to-medical-science",
-    "photo": "https://cdn.langeek.co/photo/41360/original/words-related-to-medical-science?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41360/thumb/words-related-to-medical-science?type=png",
-    "title": "Medical Science"
+    "photo": "https://cdn.langeek.co/photo/41360/original/words-related-to-medical-science?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41360/thumb/words-related-to-medical-science?type=jpeg",
+    "title": {
+      "en": "Medical Science",
+      "id": "Ilmu kedokteran"
+    },
+    "original": "https://dictionary.hanzi.id/images/41360-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41360-thumbnail.jpeg"
   },
   {
     "id": 39,
     "urlId": "words-related-to-architecture-and-construction",
-    "photo": "https://cdn.langeek.co/photo/41364/original/words-related-to-architecture-and-construction?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41364/thumb/words-related-to-architecture-and-construction?type=png",
-    "title": "Architecture and Construction"
+    "photo": "https://cdn.langeek.co/photo/41364/original/words-related-to-architecture-and-construction?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41364/thumb/words-related-to-architecture-and-construction?type=jpeg",
+    "title": {
+      "en": "Architecture and Construction",
+      "id": "Arsitektur dan Konstruksi"
+    },
+    "original": "https://dictionary.hanzi.id/images/41364-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41364-thumbnail.jpeg"
   },
   {
     "id": 42,
     "urlId": "hobbies-games",
-    "photo": "https://cdn.langeek.co/photo/26588/original/hobbies-games?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26588/thumb/hobbies-games?type=png",
-    "title": "Games"
+    "photo": "https://cdn.langeek.co/photo/26588/original/hobbies-games?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26588/thumb/hobbies-games?type=jpeg",
+    "title": {
+      "en": "Games",
+      "id": "permainan"
+    },
+    "original": "https://dictionary.hanzi.id/images/26588-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26588-thumbnail.jpeg"
   },
   {
     "id": 45,
     "urlId": "most-common-verbs",
-    "photo": "https://cdn.langeek.co/photo/26573/original/most-common-verbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26573/thumb/most-common-verbs?type=png",
-    "title": "500 Most Common English Verbs"
+    "photo": "https://cdn.langeek.co/photo/26573/original/most-common-verbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26573/thumb/most-common-verbs?type=jpeg",
+    "title": {
+      "en": "500 Most Common English Verbs",
+      "id": "500 kata kerja bahasa Inggris yang paling umum"
+    },
+    "original": "https://dictionary.hanzi.id/images/26573-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26573-thumbnail.jpeg"
   },
   {
     "id": 46,
     "urlId": "most-common-phrasal-verbs",
-    "photo": "https://cdn.langeek.co/photo/26574/original/most-common-phrasal-verbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26574/thumb/most-common-phrasal-verbs?type=png",
-    "title": "250 Most Common English Phrasal Verbs"
+    "photo": "https://cdn.langeek.co/photo/26574/original/most-common-phrasal-verbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26574/thumb/most-common-phrasal-verbs?type=jpeg",
+    "title": {
+      "en": "250 Most Common English Phrasal Verbs",
+      "id": "250 kata kerja phrasal bahasa Inggris yang paling umum"
+    },
+    "original": "https://dictionary.hanzi.id/images/26574-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26574-thumbnail.jpeg"
   },
   {
     "id": 47,
     "urlId": "most-common-adjectives",
-    "photo": "https://cdn.langeek.co/photo/26575/original/most-common-adjectives?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26575/thumb/most-common-adjectives?type=png",
-    "title": "500 Most Common English Adjectives"
+    "photo": "https://cdn.langeek.co/photo/26575/original/most-common-adjectives?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26575/thumb/most-common-adjectives?type=jpeg",
+    "title": {
+      "en": "500 Most Common English Adjectives",
+      "id": "500 kata sifat bahasa Inggris yang paling umum"
+    },
+    "original": "https://dictionary.hanzi.id/images/26575-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26575-thumbnail.jpeg"
   },
   {
     "id": 48,
     "urlId": "most-common-adverbs",
-    "photo": "https://cdn.langeek.co/photo/26576/original/most-common-adverbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26576/thumb/most-common-adverbs?type=png",
-    "title": "500 Most Common English Adverbs"
+    "photo": "https://cdn.langeek.co/photo/26576/original/most-common-adverbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26576/thumb/most-common-adverbs?type=jpeg",
+    "title": {
+      "en": "500 Most Common English Adverbs",
+      "id": "500 kata keterangan bahasa Inggris yang paling umum"
+    },
+    "original": "https://dictionary.hanzi.id/images/26576-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26576-thumbnail.jpeg"
   },
   {
     "id": 49,
     "urlId": "most-common-nouns",
-    "photo": "https://cdn.langeek.co/photo/26577/original/most-common-nouns?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/26577/thumb/most-common-nouns?type=png",
-    "title": "500 Most Common English Nouns"
+    "photo": "https://cdn.langeek.co/photo/26577/original/most-common-nouns?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/26577/thumb/most-common-nouns?type=jpeg",
+    "title": {
+      "en": "500 Most Common English Nouns",
+      "id": "500 kata benda bahasa Inggris yang paling umum"
+    },
+    "original": "https://dictionary.hanzi.id/images/26577-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/26577-thumbnail.jpeg"
   },
   {
     "id": 52,
     "urlId": "words-related-to-home-and-garden",
-    "photo": "https://cdn.langeek.co/photo/41363/original/words-related-to-home-and-garden?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41363/thumb/words-related-to-home-and-garden?type=png",
-    "title": "Home and Garden"
+    "photo": "https://cdn.langeek.co/photo/41363/original/words-related-to-home-and-garden?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41363/thumb/words-related-to-home-and-garden?type=jpeg",
+    "title": {
+      "en": "Home and Garden",
+      "id": "Rumah dan taman"
+    },
+    "original": "https://dictionary.hanzi.id/images/41363-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41363-thumbnail.jpeg"
   },
   {
     "id": 59,
     "urlId": "describing-people",
-    "photo": "https://cdn.langeek.co/photo/41281/original/describing-people?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41281/thumb/describing-people?type=png",
-    "title": "Describing People"
+    "photo": "https://cdn.langeek.co/photo/41281/original/describing-people?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41281/thumb/describing-people?type=jpeg",
+    "title": {
+      "en": "Describing People",
+      "id": "Mendeskripsikan orang"
+    },
+    "original": "https://dictionary.hanzi.id/images/41281-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41281-thumbnail.jpeg"
   },
   {
     "id": 60,
     "urlId": "relationship",
-    "photo": "https://cdn.langeek.co/photo/33749/original/relationship?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/33749/thumb/relationship?type=png",
-    "title": "Relationship"
+    "photo": "https://cdn.langeek.co/photo/33749/original/relationship?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/33749/thumb/relationship?type=jpeg",
+    "title": {
+      "en": "Relationship",
+      "id": "Hubungan"
+    },
+    "original": "https://dictionary.hanzi.id/images/33749-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/33749-thumbnail.jpeg"
   },
   {
     "id": 61,
     "urlId": "success",
-    "photo": "https://cdn.langeek.co/photo/33750/original/success?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/33750/thumb/success?type=png",
-    "title": "Success"
+    "photo": "https://cdn.langeek.co/photo/33750/original/success?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/33750/thumb/success?type=jpeg",
+    "title": {
+      "en": "Success",
+      "id": "Kesuksesan"
+    },
+    "original": "https://dictionary.hanzi.id/images/33750-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/33750-thumbnail.jpeg"
   },
   {
     "id": 71,
     "urlId": "personal-care",
-    "photo": "https://cdn.langeek.co/photo/41355/original/personal-care?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41355/thumb/personal-care?type=png",
-    "title": "Personal Care"
+    "photo": "https://cdn.langeek.co/photo/41355/original/personal-care?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41355/thumb/personal-care?type=jpeg",
+    "title": {
+      "en": "Personal Care",
+      "id": "Perawatan Pribadi"
+    },
+    "original": "https://dictionary.hanzi.id/images/41355-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41355-thumbnail.jpeg"
   },
   {
     "id": 72,
     "urlId": "failure",
-    "photo": "https://cdn.langeek.co/photo/41282/original/failure?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41282/thumb/failure?type=png",
-    "title": "Failure"
+    "photo": "https://cdn.langeek.co/photo/41282/original/failure?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41282/thumb/failure?type=jpeg",
+    "title": {
+      "en": "Failure",
+      "id": "Kegagalan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41282-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41282-thumbnail.jpeg"
   },
   {
     "id": 73,
     "urlId": "interactions",
-    "photo": "https://cdn.langeek.co/photo/37023/original/interactions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37023/thumb/interactions?type=png",
-    "title": "Interactions"
+    "photo": "https://cdn.langeek.co/photo/37023/original/interactions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37023/thumb/interactions?type=jpeg",
+    "title": {
+      "en": "Interactions",
+      "id": "Interaksi"
+    },
+    "original": "https://dictionary.hanzi.id/images/37023-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37023-thumbnail.jpeg"
   },
   {
     "id": 75,
     "urlId": "personality",
-    "photo": "https://cdn.langeek.co/photo/41284/original/personality?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41284/thumb/personality?type=png",
-    "title": "Personality"
+    "photo": "https://cdn.langeek.co/photo/41284/original/personality?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41284/thumb/personality?type=jpeg",
+    "title": {
+      "en": "Personality",
+      "id": "Kepribadian"
+    },
+    "original": "https://dictionary.hanzi.id/images/41284-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41284-thumbnail.jpeg"
   },
   {
     "id": 77,
     "urlId": "feelings",
-    "photo": "https://cdn.langeek.co/photo/41283/original/feelings?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41283/thumb/feelings?type=png",
-    "title": "Feelings"
+    "photo": "https://cdn.langeek.co/photo/41283/original/feelings?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41283/thumb/feelings?type=jpeg",
+    "title": {
+      "en": "Feelings",
+      "id": "Perasaan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41283-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41283-thumbnail.jpeg"
   },
   {
     "id": 79,
     "urlId": "work-money",
-    "photo": "https://cdn.langeek.co/photo/33850/original/work-money?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/33850/thumb/work-money?type=png",
-    "title": "Work & Money"
+    "photo": "https://cdn.langeek.co/photo/33850/original/work-money?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/33850/thumb/work-money?type=jpeg",
+    "title": {
+      "en": "Work & Money",
+      "id": "Bekerja & Uang"
+    },
+    "original": "https://dictionary.hanzi.id/images/33850-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/33850-thumbnail.jpeg"
   },
   {
     "id": 81,
     "urlId": "food-ingredients",
-    "photo": "https://cdn.langeek.co/photo/41356/original/food-ingredients?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41356/thumb/food-ingredients?type=png",
-    "title": "Food Ingredients"
+    "photo": "https://cdn.langeek.co/photo/41356/original/food-ingredients?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41356/thumb/food-ingredients?type=jpeg",
+    "title": {
+      "en": "Food Ingredients",
+      "id": "Bahan makanan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41356-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41356-thumbnail.jpeg"
   },
   {
     "id": 82,
     "urlId": "perseverance",
-    "photo": "https://cdn.langeek.co/photo/41322/original/perseverance?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41322/thumb/perseverance?type=png",
-    "title": "Perseverance"
+    "photo": "https://cdn.langeek.co/photo/41322/original/perseverance?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41322/thumb/perseverance?type=jpeg",
+    "title": {
+      "en": "Perseverance",
+      "id": "Kegigihan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41322-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41322-thumbnail.jpeg"
   },
   {
     "id": 85,
     "urlId": "society-law-politics",
-    "photo": "https://cdn.langeek.co/photo/41287/original/society-law-politics?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41287/thumb/society-law-politics?type=png",
-    "title": "Society, Law & Politics"
+    "photo": "https://cdn.langeek.co/photo/41287/original/society-law-politics?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41287/thumb/society-law-politics?type=jpeg",
+    "title": {
+      "en": "Society, Law & Politics",
+      "id": "Masyarakat, Hukum & Politik"
+    },
+    "original": "https://dictionary.hanzi.id/images/41287-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41287-thumbnail.jpeg"
   },
   {
     "id": 86,
     "urlId": "decision-control",
-    "photo": "https://cdn.langeek.co/photo/41289/original/decision-control?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41289/thumb/decision-control?type=png",
-    "title": "Decision & Control"
+    "photo": "https://cdn.langeek.co/photo/41289/original/decision-control?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41289/thumb/decision-control?type=jpeg",
+    "title": {
+      "en": "Decision & Control",
+      "id": "Keputusan & Kontrol"
+    },
+    "original": "https://dictionary.hanzi.id/images/41289-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41289-thumbnail.jpeg"
   },
   {
     "id": 87,
     "urlId": "time",
-    "photo": "https://cdn.langeek.co/photo/34134/original/time?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/34134/thumb/time?type=png",
-    "title": "Time"
+    "photo": "https://cdn.langeek.co/photo/34134/original/time?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/34134/thumb/time?type=jpeg",
+    "title": {
+      "en": "Time",
+      "id": "Waktu"
+    },
+    "original": "https://dictionary.hanzi.id/images/34134-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/34134-thumbnail.jpeg"
   },
   {
     "id": 91,
     "urlId": "knowledge-understanding",
-    "photo": "https://cdn.langeek.co/photo/34244/original/knowledge-understanding?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/34244/thumb/knowledge-understanding?type=png",
-    "title": "Knowledge & Understanding"
+    "photo": "https://cdn.langeek.co/photo/34244/original/knowledge-understanding?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/34244/thumb/knowledge-understanding?type=jpeg",
+    "title": {
+      "en": "Knowledge & Understanding",
+      "id": "Pengetahuan & Pemahaman"
+    },
+    "original": "https://dictionary.hanzi.id/images/34244-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/34244-thumbnail.jpeg"
   },
   {
     "id": 97,
     "urlId": "amounts",
-    "photo": "https://cdn.langeek.co/photo/41285/original/amounts?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41285/thumb/amounts?type=png",
-    "title": "Amounts"
+    "photo": "https://cdn.langeek.co/photo/41285/original/amounts?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41285/thumb/amounts?type=jpeg",
+    "title": {
+      "en": "Amounts",
+      "id": "Jumlah"
+    },
+    "original": "https://dictionary.hanzi.id/images/41285-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41285-thumbnail.jpeg"
   },
   {
     "id": 102,
     "urlId": "behavior-approach",
-    "photo": "https://cdn.langeek.co/photo/37024/original/behavior-approach?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37024/thumb/behavior-approach?type=png",
-    "title": "Behavior & Approach"
+    "photo": "https://cdn.langeek.co/photo/37024/original/behavior-approach?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37024/thumb/behavior-approach?type=jpeg",
+    "title": {
+      "en": "Behavior & Approach",
+      "id": "Perilaku & pendekatan"
+    },
+    "original": "https://dictionary.hanzi.id/images/37024-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37024-thumbnail.jpeg"
   },
   {
     "id": 109,
     "urlId": "difficulty",
-    "photo": "https://cdn.langeek.co/photo/34543/original/difficulty?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/34543/thumb/difficulty?type=png",
-    "title": "Difficulty"
+    "photo": "https://cdn.langeek.co/photo/34543/original/difficulty?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/34543/thumb/difficulty?type=jpeg",
+    "title": {
+      "en": "Difficulty",
+      "id": "Kesulitan"
+    },
+    "original": "https://dictionary.hanzi.id/images/34543-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/34543-thumbnail.jpeg"
   },
   {
     "id": 115,
     "urlId": "certainty-possibility",
-    "photo": "https://cdn.langeek.co/photo/41288/original/certainty-possibility?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41288/thumb/certainty-possibility?type=png",
-    "title": "Certainty & Possibility"
+    "photo": "https://cdn.langeek.co/photo/41288/original/certainty-possibility?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41288/thumb/certainty-possibility?type=jpeg",
+    "title": {
+      "en": "Certainty & Possibility",
+      "id": "Kepastian dan kemungkinan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41288-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41288-thumbnail.jpeg"
   },
   {
     "id": 117,
     "urlId": "danger",
-    "photo": "https://cdn.langeek.co/photo/35064/original/danger?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/35064/thumb/danger?type=png",
-    "title": "Danger"
+    "photo": "https://cdn.langeek.co/photo/35064/original/danger?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/35064/thumb/danger?type=jpeg",
+    "title": {
+      "en": "Danger",
+      "id": "Bahaya"
+    },
+    "original": "https://dictionary.hanzi.id/images/35064-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/35064-thumbnail.jpeg"
   },
   {
     "id": 120,
     "urlId": "everyday-life",
-    "photo": "https://cdn.langeek.co/photo/37026/original/everyday-life?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37026/thumb/everyday-life?type=png",
-    "title": "Everyday Life"
+    "photo": "https://cdn.langeek.co/photo/37026/original/everyday-life?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37026/thumb/everyday-life?type=jpeg",
+    "title": {
+      "en": "Everyday Life",
+      "id": "Kehidupan sehari-hari"
+    },
+    "original": "https://dictionary.hanzi.id/images/37026-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37026-thumbnail.jpeg"
   },
   {
     "id": 121,
     "urlId": "food-and-drink-preparation",
-    "photo": "https://cdn.langeek.co/photo/41358/original/food-and-drink-preparation?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41358/thumb/food-and-drink-preparation?type=png",
-    "title": "Food and Drink Preparation"
+    "photo": "https://cdn.langeek.co/photo/41358/original/food-and-drink-preparation?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41358/thumb/food-and-drink-preparation?type=jpeg",
+    "title": {
+      "en": "Food and Drink Preparation",
+      "id": "Persiapan Makanan dan Minuman"
+    },
+    "original": "https://dictionary.hanzi.id/images/41358-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41358-thumbnail.jpeg"
   },
   {
     "id": 124,
     "urlId": "influence-involvement",
-    "photo": "https://cdn.langeek.co/photo/37027/original/influence-involvement?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37027/thumb/influence-involvement?type=png",
-    "title": "Influence & Involvement"
+    "photo": "https://cdn.langeek.co/photo/37027/original/influence-involvement?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37027/thumb/influence-involvement?type=jpeg",
+    "title": {
+      "en": "Influence & Involvement",
+      "id": "Pengaruh dan keterlibatan"
+    },
+    "original": "https://dictionary.hanzi.id/images/37027-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37027-thumbnail.jpeg"
   },
   {
     "id": 125,
     "urlId": "opinion",
-    "photo": "https://cdn.langeek.co/photo/35686/original/opinion?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/35686/thumb/opinion?type=png",
-    "title": "Opinion"
+    "photo": "https://cdn.langeek.co/photo/35686/original/opinion?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/35686/thumb/opinion?type=jpeg",
+    "title": {
+      "en": "Opinion",
+      "id": "Pendapat"
+    },
+    "original": "https://dictionary.hanzi.id/images/35686-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/35686-thumbnail.jpeg"
   },
   {
     "id": 126,
     "urlId": "truth-secrecy-deception",
-    "photo": "https://cdn.langeek.co/photo/37029/original/truth-secrecy-deception?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37029/thumb/truth-secrecy-deception?type=png",
-    "title": "Truth, Secrecy, & Deception"
+    "photo": "https://cdn.langeek.co/photo/37029/original/truth-secrecy-deception?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37029/thumb/truth-secrecy-deception?type=jpeg",
+    "title": {
+      "en": "Truth, Secrecy, & Deception",
+      "id": "Kebenaran, kerahasiaan, dan penipuan"
+    },
+    "original": "https://dictionary.hanzi.id/images/37029-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37029-thumbnail.jpeg"
   },
   {
     "id": 129,
     "urlId": "describing-qualities",
-    "photo": "https://cdn.langeek.co/photo/37028/original/describing-qualities?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/37028/thumb/describing-qualities?type=png",
-    "title": "Describing Qualities"
+    "photo": "https://cdn.langeek.co/photo/37028/original/describing-qualities?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/37028/thumb/describing-qualities?type=jpeg",
+    "title": {
+      "en": "Describing Qualities",
+      "id": "Menggambarkan kualitas"
+    },
+    "original": "https://dictionary.hanzi.id/images/37028-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/37028-thumbnail.jpeg"
   },
   {
     "id": 148,
     "urlId": "eating-drinking-and-serving",
-    "photo": "https://cdn.langeek.co/photo/41359/original/eating-drinking-and-serving?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41359/thumb/eating-drinking-and-serving?type=png",
-    "title": "Eating, Drinking, and Serving Food"
+    "photo": "https://cdn.langeek.co/photo/41359/original/eating-drinking-and-serving?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41359/thumb/eating-drinking-and-serving?type=jpeg",
+    "title": {
+      "en": "Eating, Drinking, and Serving Food",
+      "id": "Makan, minum, dan menyajikan makanan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41359-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41359-thumbnail.jpeg"
   },
   {
     "id": 156,
     "urlId": "words-related-to-performing-arts",
-    "photo": "https://cdn.langeek.co/photo/41362/original/words-related-to-performing-arts?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41362/thumb/words-related-to-performing-arts?type=png",
-    "title": "Performing Arts"
+    "photo": "https://cdn.langeek.co/photo/41362/original/words-related-to-performing-arts?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41362/thumb/words-related-to-performing-arts?type=jpeg",
+    "title": {
+      "en": "Performing Arts",
+      "id": "Pentas seni"
+    },
+    "original": "https://dictionary.hanzi.id/images/41362-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41362-thumbnail.jpeg"
   },
   {
     "id": 163,
     "urlId": "notions-feelings",
-    "photo": "https://cdn.langeek.co/photo/41267/original/notions-feelings?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41267/thumb/notions-feelings?type=png",
-    "title": "Notions & Feelings"
+    "photo": "https://cdn.langeek.co/photo/41267/original/notions-feelings?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41267/thumb/notions-feelings?type=jpeg",
+    "title": {
+      "en": "Notions & Feelings",
+      "id": "Gagasan & perasaan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41267-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41267-thumbnail.jpeg"
   },
   {
     "id": 164,
     "urlId": "knowledge-wisdom",
-    "photo": "https://cdn.langeek.co/photo/41268/original/knowledge-wisdom?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41268/thumb/knowledge-wisdom?type=png",
-    "title": "Knowledge & Wisdom"
+    "photo": "https://cdn.langeek.co/photo/41268/original/knowledge-wisdom?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41268/thumb/knowledge-wisdom?type=jpeg",
+    "title": {
+      "en": "Knowledge & Wisdom",
+      "id": "Pengetahuan & Kebijaksanaan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41268-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41268-thumbnail.jpeg"
   },
   {
     "id": 165,
     "urlId": "situations-states",
-    "photo": "https://cdn.langeek.co/photo/41269/original/situations-states?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41269/thumb/situations-states?type=png",
-    "title": "Situations & States"
+    "photo": "https://cdn.langeek.co/photo/41269/original/situations-states?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41269/thumb/situations-states?type=jpeg",
+    "title": {
+      "en": "Situations & States",
+      "id": "Situasi & Negara"
+    },
+    "original": "https://dictionary.hanzi.id/images/41269-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41269-thumbnail.jpeg"
   },
   {
     "id": 166,
     "urlId": "qualities",
-    "photo": "https://cdn.langeek.co/photo/41270/original/qualities?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41270/thumb/qualities?type=png",
-    "title": "Qualities"
+    "photo": "https://cdn.langeek.co/photo/41270/original/qualities?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41270/thumb/qualities?type=jpeg",
+    "title": {
+      "en": "Qualities",
+      "id": "Kualitas"
+    },
+    "original": "https://dictionary.hanzi.id/images/41270-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41270-thumbnail.jpeg"
   },
   {
     "id": 167,
     "urlId": "outcome-impact",
-    "photo": "https://cdn.langeek.co/photo/41271/original/outcome-impact?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41271/thumb/outcome-impact?type=png",
-    "title": "Outcome & Impact"
+    "photo": "https://cdn.langeek.co/photo/41271/original/outcome-impact?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41271/thumb/outcome-impact?type=jpeg",
+    "title": {
+      "en": "Outcome & Impact",
+      "id": "Hasil & Dampak"
+    },
+    "original": "https://dictionary.hanzi.id/images/41271-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41271-thumbnail.jpeg"
   },
   {
     "id": 168,
     "urlId": "perseverance",
-    "photo": "https://cdn.langeek.co/photo/41272/original/perseverance?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41272/thumb/perseverance?type=png",
-    "title": "Perseverance"
+    "photo": "https://cdn.langeek.co/photo/41272/original/perseverance?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41272/thumb/perseverance?type=jpeg",
+    "title": {
+      "en": "Perseverance",
+      "id": "Kegigihan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41272-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41272-thumbnail.jpeg"
   },
   {
     "id": 171,
     "urlId": "wealth-success",
-    "photo": "https://cdn.langeek.co/photo/41273/original/wealth-success?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41273/thumb/wealth-success?type=png",
-    "title": "Wealth & Success"
+    "photo": "https://cdn.langeek.co/photo/41273/original/wealth-success?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41273/thumb/wealth-success?type=jpeg",
+    "title": {
+      "en": "Wealth & Success",
+      "id": "Kekayaan & Sukses"
+    },
+    "original": "https://dictionary.hanzi.id/images/41273-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41273-thumbnail.jpeg"
   },
   {
     "id": 172,
     "urlId": "society-law-politics",
-    "photo": "https://cdn.langeek.co/photo/41274/original/society-law-politics?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41274/thumb/society-law-politics?type=png",
-    "title": "Society, Law, & Politics"
+    "photo": "https://cdn.langeek.co/photo/41274/original/society-law-politics?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41274/thumb/society-law-politics?type=jpeg",
+    "title": {
+      "en": "Society, Law, & Politics",
+      "id": "Masyarakat, Hukum, & Politik"
+    },
+    "original": "https://dictionary.hanzi.id/images/41274-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41274-thumbnail.jpeg"
   },
   {
     "id": 173,
     "urlId": "behavior-attitude-approach",
-    "photo": "https://cdn.langeek.co/photo/41275/original/behavior-attitude-approach?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41275/thumb/behavior-attitude-approach?type=png",
-    "title": "Behavior, Attitude, & Approach"
+    "photo": "https://cdn.langeek.co/photo/41275/original/behavior-attitude-approach?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41275/thumb/behavior-attitude-approach?type=jpeg",
+    "title": {
+      "en": "Behavior, Attitude, & Approach",
+      "id": "Perilaku, sikap, dan pendekatan"
+    },
+    "original": "https://dictionary.hanzi.id/images/41275-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41275-thumbnail.jpeg"
   },
   {
     "id": 174,
     "urlId": "social-interaction",
-    "photo": "https://cdn.langeek.co/photo/41276/original/social-interaction?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41276/thumb/social-interaction?type=png",
-    "title": "Social Interaction"
+    "photo": "https://cdn.langeek.co/photo/41276/original/social-interaction?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41276/thumb/social-interaction?type=jpeg",
+    "title": {
+      "en": "Social Interaction",
+      "id": "Interaksi sosial"
+    },
+    "original": "https://dictionary.hanzi.id/images/41276-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41276-thumbnail.jpeg"
   },
   {
     "id": 175,
     "urlId": "human-relationships",
-    "photo": "https://cdn.langeek.co/photo/41277/original/human-relationships?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41277/thumb/human-relationships?type=png",
-    "title": "Human Relationships"
+    "photo": "https://cdn.langeek.co/photo/41277/original/human-relationships?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41277/thumb/human-relationships?type=jpeg",
+    "title": {
+      "en": "Human Relationships",
+      "id": "Hubungan manusia"
+    },
+    "original": "https://dictionary.hanzi.id/images/41277-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41277-thumbnail.jpeg"
   },
   {
     "id": 176,
     "urlId": "human-traits-qualities",
-    "photo": "https://cdn.langeek.co/photo/41278/original/human-traits-qualities?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41278/thumb/human-traits-qualities?type=png",
-    "title": "Human Traits & Qualities"
+    "photo": "https://cdn.langeek.co/photo/41278/original/human-traits-qualities?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41278/thumb/human-traits-qualities?type=jpeg",
+    "title": {
+      "en": "Human Traits & Qualities",
+      "id": "Sifat & kualitas manusia"
+    },
+    "original": "https://dictionary.hanzi.id/images/41278-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41278-thumbnail.jpeg"
   },
   {
     "id": 177,
     "urlId": "virtue-vice",
-    "photo": "https://cdn.langeek.co/photo/41279/original/virtue-vice?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41279/thumb/virtue-vice?type=png",
-    "title": "Virtue & Vice"
+    "photo": "https://cdn.langeek.co/photo/41279/original/virtue-vice?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41279/thumb/virtue-vice?type=jpeg",
+    "title": {
+      "en": "Virtue & Vice",
+      "id": "Kebajikan & Wakil"
+    },
+    "original": "https://dictionary.hanzi.id/images/41279-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41279-thumbnail.jpeg"
   },
   {
     "id": 178,
     "urlId": "daily-life",
-    "photo": "https://cdn.langeek.co/photo/41280/original/daily-life?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/41280/thumb/daily-life?type=png",
-    "title": "Daily Life"
+    "photo": "https://cdn.langeek.co/photo/41280/original/daily-life?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/41280/thumb/daily-life?type=jpeg",
+    "title": {
+      "en": "Daily Life",
+      "id": "Kehidupan sehari-hari"
+    },
+    "original": "https://dictionary.hanzi.id/images/41280-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/41280-thumbnail.jpeg"
   },
   {
     "id": 179,
     "urlId": "adjectives-abstract-attributes",
-    "photo": "https://cdn.langeek.co/photo/45714/original/adjectives-abstract-attributes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45714/thumb/adjectives-abstract-attributes?type=png",
-    "title": "Adjectives of Abstract Human Attributes"
+    "photo": "https://cdn.langeek.co/photo/45714/original/adjectives-abstract-attributes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45714/thumb/adjectives-abstract-attributes?type=jpeg",
+    "title": {
+      "en": "Adjectives of Abstract Human Attributes",
+      "id": "Kata sifat atribut manusia abstrak"
+    },
+    "original": "https://dictionary.hanzi.id/images/45714-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45714-thumbnail.jpeg"
   },
   {
     "id": 186,
     "urlId": "verbs-existence-action",
-    "photo": "https://cdn.langeek.co/photo/45727/original/verbs-existence-action?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45727/thumb/verbs-existence-action?type=png",
-    "title": "Verbs of Existence and Action"
+    "photo": "https://cdn.langeek.co/photo/45727/original/verbs-existence-action?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45727/thumb/verbs-existence-action?type=jpeg",
+    "title": {
+      "en": "Verbs of Existence and Action",
+      "id": "Kata kerja keberadaan dan tindakan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45727-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45727-thumbnail.jpeg"
   },
   {
     "id": 187,
     "urlId": "adverbs-time-place",
-    "photo": "https://cdn.langeek.co/photo/46044/original/adverbs-time-place?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46044/thumb/adverbs-time-place?type=png",
-    "title": "Adverbs of Time and Place"
+    "photo": "https://cdn.langeek.co/photo/46044/original/adverbs-time-place?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46044/thumb/adverbs-time-place?type=jpeg",
+    "title": {
+      "en": "Adverbs of Time and Place",
+      "id": "Kata keterangan waktu dan tempat"
+    },
+    "original": "https://dictionary.hanzi.id/images/46044-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46044-thumbnail.jpeg"
   },
   {
     "id": 188,
     "urlId": "adverbs-evaluation-emotion",
-    "photo": "https://cdn.langeek.co/photo/46046/original/adverbs-evaluation-emotion?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46046/thumb/adverbs-evaluation-emotion?type=png",
-    "title": "Adverbs of Evaluation and Emotion"
+    "photo": "https://cdn.langeek.co/photo/46046/original/adverbs-evaluation-emotion?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46046/thumb/adverbs-evaluation-emotion?type=jpeg",
+    "title": {
+      "en": "Adverbs of Evaluation and Emotion",
+      "id": "Kata keterangan evaluasi dan emosi"
+    },
+    "original": "https://dictionary.hanzi.id/images/46046-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46046-thumbnail.jpeg"
   },
   {
     "id": 190,
     "urlId": "human-adverbs-manner",
-    "photo": "https://cdn.langeek.co/photo/46047/original/human-adverbs-manner?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46047/thumb/human-adverbs-manner?type=png",
-    "title": "Adverbs of Manner Related to Humans"
+    "photo": "https://cdn.langeek.co/photo/46047/original/human-adverbs-manner?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46047/thumb/human-adverbs-manner?type=jpeg",
+    "title": {
+      "en": "Adverbs of Manner Related to Humans",
+      "id": "Kata keterangan cara yang terkait dengan manusia"
+    },
+    "original": "https://dictionary.hanzi.id/images/46047-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46047-thumbnail.jpeg"
   },
   {
     "id": 191,
     "urlId": "things-adverbs-manner",
-    "photo": "https://cdn.langeek.co/photo/46048/original/things-adverbs-manner?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46048/thumb/things-adverbs-manner?type=png",
-    "title": "Adverbs of Manner Related to Things"
+    "photo": "https://cdn.langeek.co/photo/46048/original/things-adverbs-manner?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46048/thumb/things-adverbs-manner?type=jpeg",
+    "title": {
+      "en": "Adverbs of Manner Related to Things",
+      "id": "Kata keterangan cara yang terkait dengan hal -hal"
+    },
+    "original": "https://dictionary.hanzi.id/images/46048-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46048-thumbnail.jpeg"
   },
   {
     "id": 192,
     "urlId": "adverbs-result-viewpoint",
-    "photo": "https://cdn.langeek.co/photo/46049/original/adverbs-result-viewpoint?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46049/thumb/adverbs-result-viewpoint?type=png",
-    "title": "Adverbs of Result and Viewpoint"
+    "photo": "https://cdn.langeek.co/photo/46049/original/adverbs-result-viewpoint?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46049/thumb/adverbs-result-viewpoint?type=jpeg",
+    "title": {
+      "en": "Adverbs of Result and Viewpoint",
+      "id": "Kata keterangan hasil dan sudut pandang"
+    },
+    "original": "https://dictionary.hanzi.id/images/46049-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46049-thumbnail.jpeg"
   },
   {
     "id": 193,
     "urlId": "relational-adverbs",
-    "photo": "https://cdn.langeek.co/photo/46050/original/relational-adverbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46050/thumb/relational-adverbs?type=png",
-    "title": "Relational Adverbs"
+    "photo": "https://cdn.langeek.co/photo/46050/original/relational-adverbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46050/thumb/relational-adverbs?type=jpeg",
+    "title": {
+      "en": "Relational Adverbs",
+      "id": "Kata keterangan relasional"
+    },
+    "original": "https://dictionary.hanzi.id/images/46050-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46050-thumbnail.jpeg"
   },
   {
     "id": 194,
     "urlId": "verbs-movement",
-    "photo": "https://cdn.langeek.co/photo/45696/original/verbs-movement?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45696/thumb/verbs-movement?type=png",
-    "title": "Verbs of Movement"
+    "photo": "https://cdn.langeek.co/photo/45696/original/verbs-movement?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45696/thumb/verbs-movement?type=jpeg",
+    "title": {
+      "en": "Verbs of Movement",
+      "id": "Kata kerja gerakan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45696-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45696-thumbnail.jpeg"
   },
   {
     "id": 195,
     "urlId": "verbs-causing-movement",
-    "photo": "https://cdn.langeek.co/photo/45702/original/verbs-causing-movement?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45702/thumb/verbs-causing-movement?type=png",
-    "title": "Verbs of Causing Movement"
+    "photo": "https://cdn.langeek.co/photo/45702/original/verbs-causing-movement?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45702/thumb/verbs-causing-movement?type=jpeg",
+    "title": {
+      "en": "Verbs of Causing Movement",
+      "id": "Kata kerja penyebab gerakan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45702-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45702-thumbnail.jpeg"
   },
   {
     "id": 196,
     "urlId": "verbs-manual-action",
-    "photo": "https://cdn.langeek.co/photo/45703/original/verbs-manual-action?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45703/thumb/verbs-manual-action?type=png",
-    "title": "Verbs of Manual Action"
+    "photo": "https://cdn.langeek.co/photo/45703/original/verbs-manual-action?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45703/thumb/verbs-manual-action?type=jpeg",
+    "title": {
+      "en": "Verbs of Manual Action",
+      "id": "Kata kerja tindakan manual"
+    },
+    "original": "https://dictionary.hanzi.id/images/45703-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45703-thumbnail.jpeg"
   },
   {
     "id": 197,
     "urlId": "verbs-making-changing",
-    "photo": "https://cdn.langeek.co/photo/45698/original/verbs-making-changing?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45698/thumb/verbs-making-changing?type=png",
-    "title": "Verbs of Making and Changing"
+    "photo": "https://cdn.langeek.co/photo/45698/original/verbs-making-changing?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45698/thumb/verbs-making-changing?type=jpeg",
+    "title": {
+      "en": "Verbs of Making and Changing",
+      "id": "Kata kerja pembuatan dan perubahan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45698-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45698-thumbnail.jpeg"
   },
   {
     "id": 198,
     "urlId": "verbs-attachment-separation-piercing",
-    "photo": "https://cdn.langeek.co/photo/45728/original/verbs-attachment-separation-piercing?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45728/thumb/verbs-attachment-separation-piercing?type=png",
-    "title": "Verbs of Attachment and Separation"
+    "photo": "https://cdn.langeek.co/photo/45728/original/verbs-attachment-separation-piercing?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45728/thumb/verbs-attachment-separation-piercing?type=jpeg",
+    "title": {
+      "en": "Verbs of Attachment and Separation",
+      "id": "Kata kerja lampiran dan pemisahan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45728-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45728-thumbnail.jpeg"
   },
   {
     "id": 199,
     "urlId": "verbs-senses-emotions",
-    "photo": "https://cdn.langeek.co/photo/45699/original/verbs-senses-emotions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45699/thumb/verbs-senses-emotions?type=png",
-    "title": "Verbs of Senses and Emotions"
+    "photo": "https://cdn.langeek.co/photo/45699/original/verbs-senses-emotions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45699/thumb/verbs-senses-emotions?type=jpeg",
+    "title": {
+      "en": "Verbs of Senses and Emotions",
+      "id": "Kata kerja indera dan emosi"
+    },
+    "original": "https://dictionary.hanzi.id/images/45699-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45699-thumbnail.jpeg"
   },
   {
     "id": 200,
     "urlId": "verbs-physical-and-social-life",
-    "photo": "https://cdn.langeek.co/photo/45704/original/verbs-physical-and-social-life?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45704/thumb/verbs-physical-and-social-life?type=png",
-    "title": "Verbs of Physical and Social Lifestyle"
+    "photo": "https://cdn.langeek.co/photo/45704/original/verbs-physical-and-social-life?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45704/thumb/verbs-physical-and-social-life?type=jpeg",
+    "title": {
+      "en": "Verbs of Physical and Social Lifestyle",
+      "id": "Kata kerja gaya hidup fisik dan sosial"
+    },
+    "original": "https://dictionary.hanzi.id/images/45704-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45704-thumbnail.jpeg"
   },
   {
     "id": 201,
     "urlId": "verbs-helping-hurting",
-    "photo": "https://cdn.langeek.co/photo/45705/original/verbs-helping-hurting?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45705/thumb/verbs-helping-hurting?type=png",
-    "title": "Verbs of Helping and Hurting"
+    "photo": "https://cdn.langeek.co/photo/45705/original/verbs-helping-hurting?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45705/thumb/verbs-helping-hurting?type=jpeg",
+    "title": {
+      "en": "Verbs of Helping and Hurting",
+      "id": "Kata kerja membantu dan sakit"
+    },
+    "original": "https://dictionary.hanzi.id/images/45705-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45705-thumbnail.jpeg"
   },
   {
     "id": 202,
     "urlId": "verbs-managing-information-and-objects",
-    "photo": "https://cdn.langeek.co/photo/45706/original/verbs-managing-information-and-objects?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45706/thumb/verbs-managing-information-and-objects?type=png",
-    "title": "Verbs of Managing Information and Objects"
+    "photo": "https://cdn.langeek.co/photo/45706/original/verbs-managing-information-and-objects?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45706/thumb/verbs-managing-information-and-objects?type=jpeg",
+    "title": {
+      "en": "Verbs of Managing Information and Objects",
+      "id": "Kata kerja mengelola informasi dan objek"
+    },
+    "original": "https://dictionary.hanzi.id/images/45706-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45706-thumbnail.jpeg"
   },
   {
     "id": 203,
     "urlId": "verbs-mental-processes",
-    "photo": "https://cdn.langeek.co/photo/45707/original/verbs-mental-processes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45707/thumb/verbs-mental-processes?type=png",
-    "title": "Verbs of Mental Processes"
+    "photo": "https://cdn.langeek.co/photo/45707/original/verbs-mental-processes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45707/thumb/verbs-mental-processes?type=jpeg",
+    "title": {
+      "en": "Verbs of Mental Processes",
+      "id": "Kata kerja proses mental"
+    },
+    "original": "https://dictionary.hanzi.id/images/45707-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45707-thumbnail.jpeg"
   },
   {
     "id": 204,
     "urlId": "verbs-course-of-events",
-    "photo": "https://cdn.langeek.co/photo/45708/original/verbs-course-of-events?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45708/thumb/verbs-course-of-events?type=png",
-    "title": "Verbs of Course of Events"
+    "photo": "https://cdn.langeek.co/photo/45708/original/verbs-course-of-events?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45708/thumb/verbs-course-of-events?type=jpeg",
+    "title": {
+      "en": "Verbs of Course of Events",
+      "id": "Kata kerja acara"
+    },
+    "original": "https://dictionary.hanzi.id/images/45708-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45708-thumbnail.jpeg"
   },
   {
     "id": 205,
     "urlId": "verbs-challenge-competition",
-    "photo": "https://cdn.langeek.co/photo/45709/original/verbs-challenge-competition?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45709/thumb/verbs-challenge-competition?type=png",
-    "title": "Verbs of Challenge and Competition"
+    "photo": "https://cdn.langeek.co/photo/45709/original/verbs-challenge-competition?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45709/thumb/verbs-challenge-competition?type=jpeg",
+    "title": {
+      "en": "Verbs of Challenge and Competition",
+      "id": "Kata kerja tantangan dan persaingan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45709-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45709-thumbnail.jpeg"
   },
   {
     "id": 206,
     "urlId": "verbs-evoking-and-feeling-emotions",
-    "photo": "https://cdn.langeek.co/photo/45710/original/verbs-evoking-and-feeling-emotions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45710/thumb/verbs-evoking-and-feeling-emotions?type=png",
-    "title": "Verbs of Evoking and Feeling Emotions"
+    "photo": "https://cdn.langeek.co/photo/45710/original/verbs-evoking-and-feeling-emotions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45710/thumb/verbs-evoking-and-feeling-emotions?type=jpeg",
+    "title": {
+      "en": "Verbs of Evoking and Feeling Emotions",
+      "id": "Kata kerja membangkitkan dan merasakan emosi"
+    },
+    "original": "https://dictionary.hanzi.id/images/45710-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45710-thumbnail.jpeg"
   },
   {
     "id": 207,
     "urlId": "verbs-power-relations",
-    "photo": "https://cdn.langeek.co/photo/45711/original/verbs-power-relations?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45711/thumb/verbs-power-relations?type=png",
-    "title": "Verbs of Power Relations"
+    "photo": "https://cdn.langeek.co/photo/45711/original/verbs-power-relations?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45711/thumb/verbs-power-relations?type=jpeg",
+    "title": {
+      "en": "Verbs of Power Relations",
+      "id": "Kata kerja hubungan kekuasaan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45711-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45711-thumbnail.jpeg"
   },
   {
     "id": 208,
     "urlId": "topic-related-verbs",
-    "photo": "https://cdn.langeek.co/photo/45712/original/topic-related-verbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45712/thumb/topic-related-verbs?type=png",
-    "title": "Topic-Related Verbs"
+    "photo": "https://cdn.langeek.co/photo/45712/original/topic-related-verbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45712/thumb/topic-related-verbs?type=jpeg",
+    "title": {
+      "en": "Topic-Related Verbs",
+      "id": "Kata kerja terkait topik"
+    },
+    "original": "https://dictionary.hanzi.id/images/45712-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45712-thumbnail.jpeg"
   },
   {
     "id": 209,
     "urlId": "verbs-topic-related-human-actions",
-    "photo": "https://cdn.langeek.co/photo/45713/original/verbs-topic-related-human-actions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45713/thumb/verbs-topic-related-human-actions?type=png",
-    "title": "Topic-Related Verbs of Human Actions"
+    "photo": "https://cdn.langeek.co/photo/45713/original/verbs-topic-related-human-actions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45713/thumb/verbs-topic-related-human-actions?type=jpeg",
+    "title": {
+      "en": "Topic-Related Verbs of Human Actions",
+      "id": "Kata kerja aksi manusia terkait topik"
+    },
+    "original": "https://dictionary.hanzi.id/images/45713-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45713-thumbnail.jpeg"
   },
   {
     "id": 210,
     "urlId": "verbs-verbal-action",
-    "photo": "https://cdn.langeek.co/photo/45697/original/verbs-verbal-action?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45697/thumb/verbs-verbal-action?type=png",
-    "title": "Verbs of Verbal Action"
+    "photo": "https://cdn.langeek.co/photo/45697/original/verbs-verbal-action?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45697/thumb/verbs-verbal-action?type=jpeg",
+    "title": {
+      "en": "Verbs of Verbal Action",
+      "id": "Kata kerja tindakan verbal"
+    },
+    "original": "https://dictionary.hanzi.id/images/45697-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45697-thumbnail.jpeg"
   },
   {
     "id": 211,
     "urlId": "adjectives-physical-attributes",
-    "photo": "https://cdn.langeek.co/photo/45715/original/adjectives-physical-attributes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45715/thumb/adjectives-physical-attributes?type=png",
-    "title": "Adjectives of Physical Human Attributes"
+    "photo": "https://cdn.langeek.co/photo/45715/original/adjectives-physical-attributes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45715/thumb/adjectives-physical-attributes?type=jpeg",
+    "title": {
+      "en": "Adjectives of Physical Human Attributes",
+      "id": "Kata sifat atribut fisik manusia"
+    },
+    "original": "https://dictionary.hanzi.id/images/45715-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45715-thumbnail.jpeg"
   },
   {
     "id": 212,
     "urlId": "adjectives-social-attributes",
-    "photo": "https://cdn.langeek.co/photo/45716/original/adjectives-social-attributes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45716/thumb/adjectives-social-attributes?type=png",
-    "title": "Adjectives of Social Human Attributes"
+    "photo": "https://cdn.langeek.co/photo/45716/original/adjectives-social-attributes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45716/thumb/adjectives-social-attributes?type=jpeg",
+    "title": {
+      "en": "Adjectives of Social Human Attributes",
+      "id": "Kata sifat atribut manusia sosial"
+    },
+    "original": "https://dictionary.hanzi.id/images/45716-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45716-thumbnail.jpeg"
   },
   {
     "id": 213,
     "urlId": "adjectives-attributes-of-things",
-    "photo": "https://cdn.langeek.co/photo/45717/original/adjectives-attributes-of-things?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45717/thumb/adjectives-attributes-of-things?type=png",
-    "title": "Adjectives of Attributes of Things"
+    "photo": "https://cdn.langeek.co/photo/45717/original/adjectives-attributes-of-things?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45717/thumb/adjectives-attributes-of-things?type=jpeg",
+    "title": {
+      "en": "Adjectives of Attributes of Things",
+      "id": "Kata sifat atribut hal"
+    },
+    "original": "https://dictionary.hanzi.id/images/45717-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45717-thumbnail.jpeg"
   },
   {
     "id": 214,
     "urlId": "adjectives-size-quantity",
-    "photo": "https://cdn.langeek.co/photo/45718/original/adjectives-size-quantity?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45718/thumb/adjectives-size-quantity?type=png",
-    "title": "Adjectives of Size and Quantity"
+    "photo": "https://cdn.langeek.co/photo/45718/original/adjectives-size-quantity?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45718/thumb/adjectives-size-quantity?type=jpeg",
+    "title": {
+      "en": "Adjectives of Size and Quantity",
+      "id": "Kata sifat ukuran dan kuantitas"
+    },
+    "original": "https://dictionary.hanzi.id/images/45718-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45718-thumbnail.jpeg"
   },
   {
     "id": 215,
     "urlId": "adjectives-sensory-experiences",
-    "photo": "https://cdn.langeek.co/photo/45719/original/adjectives-sensory-experiences?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45719/thumb/adjectives-sensory-experiences?type=png",
-    "title": "Adjectives Describing Sensory Experiences"
+    "photo": "https://cdn.langeek.co/photo/45719/original/adjectives-sensory-experiences?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45719/thumb/adjectives-sensory-experiences?type=jpeg",
+    "title": {
+      "en": "Adjectives Describing Sensory Experiences",
+      "id": "Kata sifat yang menggambarkan pengalaman sensorik"
+    },
+    "original": "https://dictionary.hanzi.id/images/45719-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45719-thumbnail.jpeg"
   },
   {
     "id": 216,
     "urlId": "adjectives-time-place",
-    "photo": "https://cdn.langeek.co/photo/45720/original/adjectives-time-place?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45720/thumb/adjectives-time-place?type=png",
-    "title": "Adjectives of Time and Place"
+    "photo": "https://cdn.langeek.co/photo/45720/original/adjectives-time-place?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45720/thumb/adjectives-time-place?type=jpeg",
+    "title": {
+      "en": "Adjectives of Time and Place",
+      "id": "Kata sifat waktu dan tempat"
+    },
+    "original": "https://dictionary.hanzi.id/images/45720-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45720-thumbnail.jpeg"
   },
   {
     "id": 217,
     "urlId": "adjectives-abstract-attributes",
-    "photo": "https://cdn.langeek.co/photo/45721/original/adjectives-abstract-attributes?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45721/thumb/adjectives-abstract-attributes?type=png",
-    "title": "Adjectives of Abstract Attributes"
+    "photo": "https://cdn.langeek.co/photo/45721/original/adjectives-abstract-attributes?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45721/thumb/adjectives-abstract-attributes?type=jpeg",
+    "title": {
+      "en": "Adjectives of Abstract Attributes",
+      "id": "Kata sifat atribut abstrak"
+    },
+    "original": "https://dictionary.hanzi.id/images/45721-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45721-thumbnail.jpeg"
   },
   {
     "id": 218,
     "urlId": "adjectives-value-significance",
-    "photo": "https://cdn.langeek.co/photo/45722/original/adjectives-value-significance?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45722/thumb/adjectives-value-significance?type=png",
-    "title": "Adjectives of Value and Significance"
+    "photo": "https://cdn.langeek.co/photo/45722/original/adjectives-value-significance?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45722/thumb/adjectives-value-significance?type=jpeg",
+    "title": {
+      "en": "Adjectives of Value and Significance",
+      "id": "Kata sifat nilai dan signifikansi"
+    },
+    "original": "https://dictionary.hanzi.id/images/45722-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45722-thumbnail.jpeg"
   },
   {
     "id": 219,
     "urlId": "adjectives-evoking-feeling-emotions",
-    "photo": "https://cdn.langeek.co/photo/45723/original/adjectives-evoking-feeling-emotions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45723/thumb/adjectives-evoking-feeling-emotions?type=png",
-    "title": "Adjectives of Evoking and Feeling Emotions"
+    "photo": "https://cdn.langeek.co/photo/45723/original/adjectives-evoking-feeling-emotions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45723/thumb/adjectives-evoking-feeling-emotions?type=jpeg",
+    "title": {
+      "en": "Adjectives of Evoking and Feeling Emotions",
+      "id": "Kata sifat membangkitkan dan merasakan emosi"
+    },
+    "original": "https://dictionary.hanzi.id/images/45723-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45723-thumbnail.jpeg"
   },
   {
     "id": 220,
     "urlId": "adjectives-evaluation-comparison",
-    "photo": "https://cdn.langeek.co/photo/45726/original/adjectives-evaluation-comparison?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45726/thumb/adjectives-evaluation-comparison?type=png",
-    "title": "Adjectives of Evaluation and Comparison"
+    "photo": "https://cdn.langeek.co/photo/45726/original/adjectives-evaluation-comparison?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45726/thumb/adjectives-evaluation-comparison?type=jpeg",
+    "title": {
+      "en": "Adjectives of Evaluation and Comparison",
+      "id": "Kata sifat evaluasi dan perbandingan"
+    },
+    "original": "https://dictionary.hanzi.id/images/45726-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45726-thumbnail.jpeg"
   },
   {
     "id": 221,
     "urlId": "adjectives-cause-result",
-    "photo": "https://cdn.langeek.co/photo/45724/original/adjectives-cause-result?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45724/thumb/adjectives-cause-result?type=png",
-    "title": "Adjectives of Cause and Result"
+    "photo": "https://cdn.langeek.co/photo/45724/original/adjectives-cause-result?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45724/thumb/adjectives-cause-result?type=jpeg",
+    "title": {
+      "en": "Adjectives of Cause and Result",
+      "id": "Kata sifat sebab dan akibat"
+    },
+    "original": "https://dictionary.hanzi.id/images/45724-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45724-thumbnail.jpeg"
   },
   {
     "id": 222,
     "urlId": "relational-adjectives",
-    "photo": "https://cdn.langeek.co/photo/45725/original/relational-adjectives?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/45725/thumb/relational-adjectives?type=png",
-    "title": "Relational Adjectives"
+    "photo": "https://cdn.langeek.co/photo/45725/original/relational-adjectives?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/45725/thumb/relational-adjectives?type=jpeg",
+    "title": {
+      "en": "Relational Adjectives",
+      "id": "Kata sifat relasional"
+    },
+    "original": "https://dictionary.hanzi.id/images/45725-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/45725-thumbnail.jpeg"
   },
   {
     "id": 223,
     "urlId": "adverbs-degree",
-    "photo": "https://cdn.langeek.co/photo/46045/original/adverbs-degree?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46045/thumb/adverbs-degree?type=png",
-    "title": "Adverbs of Degree"
+    "photo": "https://cdn.langeek.co/photo/46045/original/adverbs-degree?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46045/thumb/adverbs-degree?type=jpeg",
+    "title": {
+      "en": "Adverbs of Degree",
+      "id": "Kata keterangan gelar"
+    },
+    "original": "https://dictionary.hanzi.id/images/46045-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46045-thumbnail.jpeg"
   },
   {
     "id": 225,
     "urlId": "compound-prepositions",
-    "photo": "https://cdn.langeek.co/photo/49050/original/compound-prepositions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49050/thumb/compound-prepositions?type=png",
-    "title": "Compound Prepositions"
+    "photo": "https://cdn.langeek.co/photo/49050/original/compound-prepositions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49050/thumb/compound-prepositions?type=jpeg",
+    "title": {
+      "en": "Compound Prepositions",
+      "id": "Preposisi majemuk"
+    },
+    "original": "https://dictionary.hanzi.id/images/49050-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49050-thumbnail.jpeg"
   },
   {
     "id": 226,
     "urlId": "compound-adverbs",
-    "photo": "https://cdn.langeek.co/photo/49049/original/compound-adverbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49049/thumb/compound-adverbs?type=png",
-    "title": "Compound Adverbs"
+    "photo": "https://cdn.langeek.co/photo/49049/original/compound-adverbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49049/thumb/compound-adverbs?type=jpeg",
+    "title": {
+      "en": "Compound Adverbs",
+      "id": "Kata keterangan majemuk"
+    },
+    "original": "https://dictionary.hanzi.id/images/49049-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49049-thumbnail.jpeg"
   },
   {
     "id": 227,
     "urlId": "collocations-of-make-take-have",
-    "photo": "https://cdn.langeek.co/photo/49051/original/collocations-of-make-take-have?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49051/thumb/collocations-of-make-take-have?type=png",
-    "title": "Collocations of 'Make- Take- Have'"
+    "photo": "https://cdn.langeek.co/photo/49051/original/collocations-of-make-take-have?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49051/thumb/collocations-of-make-take-have?type=jpeg",
+    "title": {
+      "en": "Collocations of 'Make- Take- Have'",
+      "id": "Collocations of 'Make- Take- have'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49051-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49051-thumbnail.jpeg"
   },
   {
     "id": 228,
     "urlId": "collocations-of-do-set-go",
-    "photo": "https://cdn.langeek.co/photo/49052/original/collocations-of-do-set-go?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49052/thumb/collocations-of-do-set-go?type=png",
-    "title": "Collocations of 'Do- Set- Go'"
+    "photo": "https://cdn.langeek.co/photo/49052/original/collocations-of-do-set-go?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49052/thumb/collocations-of-do-set-go?type=jpeg",
+    "title": {
+      "en": "Collocations of 'Do- Set- Go'",
+      "id": "Collocations of 'do-set- go'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49052-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49052-thumbnail.jpeg"
   },
   {
     "id": 229,
     "urlId": "collocations-of-give-keep-come",
-    "photo": "https://cdn.langeek.co/photo/49053/original/collocations-of-give-keep-come?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49053/thumb/collocations-of-give-keep-come?type=png",
-    "title": "Collocations of 'Give- Keep- Come'"
+    "photo": "https://cdn.langeek.co/photo/49053/original/collocations-of-give-keep-come?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49053/thumb/collocations-of-give-keep-come?type=jpeg",
+    "title": {
+      "en": "Collocations of 'Give- Keep- Come'",
+      "id": "Collocations of 'Give- Keep- Come'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49053-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49053-thumbnail.jpeg"
   },
   {
     "id": 231,
     "urlId": "collocations-of-be-place-put-and-more",
-    "photo": "https://cdn.langeek.co/photo/49054/original/collocations-of-be-place-put-and-more?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49054/thumb/collocations-of-be-place-put-and-more?type=png",
-    "title": "Collocations of 'Be- Place- Put' & more"
+    "photo": "https://cdn.langeek.co/photo/49054/original/collocations-of-be-place-put-and-more?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49054/thumb/collocations-of-be-place-put-and-more?type=jpeg",
+    "title": {
+      "en": "Collocations of 'Be- Place- Put' & more",
+      "id": "Kolokasi 'be- place- put' & lainnya"
+    },
+    "original": "https://dictionary.hanzi.id/images/49054-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49054-thumbnail.jpeg"
   },
   {
     "id": 234,
     "urlId": "collocations-of-pay-run-break-and-more",
-    "photo": "https://cdn.langeek.co/photo/49056/original/collocations-of-pay-run-break-and-more?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49056/thumb/collocations-of-pay-run-break-and-more?type=png",
-    "title": "Collocations of 'Pay- Run- Break' & more"
+    "photo": "https://cdn.langeek.co/photo/49056/original/collocations-of-pay-run-break-and-more?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49056/thumb/collocations-of-pay-run-break-and-more?type=jpeg",
+    "title": {
+      "en": "Collocations of 'Pay- Run- Break' & more",
+      "id": "Collocations of 'Pay- run-break' & More"
+    },
+    "original": "https://dictionary.hanzi.id/images/49056-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49056-thumbnail.jpeg"
   },
   {
     "id": 235,
     "urlId": "collocations-with-other-verbs",
-    "photo": "https://cdn.langeek.co/photo/49057/original/collocations-with-other-verbs?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49057/thumb/collocations-with-other-verbs?type=png",
-    "title": "Collocations With Other Verbs"
+    "photo": "https://cdn.langeek.co/photo/49057/original/collocations-with-other-verbs?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49057/thumb/collocations-with-other-verbs?type=jpeg",
+    "title": {
+      "en": "Collocations With Other Verbs",
+      "id": "Kolokasi dengan kata kerja lainnya"
+    },
+    "original": "https://dictionary.hanzi.id/images/49057-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49057-thumbnail.jpeg"
   },
   {
     "id": 236,
     "urlId": "prepositions",
-    "photo": "https://cdn.langeek.co/photo/47754/original/prepositions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/47754/thumb/prepositions?type=png",
-    "title": "Prepositions"
+    "photo": "https://cdn.langeek.co/photo/47754/original/prepositions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/47754/thumb/prepositions?type=jpeg",
+    "title": {
+      "en": "Prepositions",
+      "id": "Preposisi"
+    },
+    "original": "https://dictionary.hanzi.id/images/47754-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/47754-thumbnail.jpeg"
   },
   {
     "id": 237,
     "urlId": "english-nouns",
-    "photo": "https://cdn.langeek.co/photo/46043/original/english-nouns?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/46043/thumb/english-nouns?type=png",
-    "title": "Basic Nouns"
+    "photo": "https://cdn.langeek.co/photo/46043/original/english-nouns?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/46043/thumb/english-nouns?type=jpeg",
+    "title": {
+      "en": "Basic Nouns",
+      "id": "Kata benda dasar"
+    },
+    "original": "https://dictionary.hanzi.id/images/46043-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/46043-thumbnail.jpeg"
   },
   {
     "id": 238,
     "urlId": "pronouns-determiners",
-    "photo": "https://cdn.langeek.co/photo/47753/original/pronouns-determiners?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/47753/thumb/pronouns-determiners?type=png",
-    "title": "Pronouns and Determiners"
+    "photo": "https://cdn.langeek.co/photo/47753/original/pronouns-determiners?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/47753/thumb/pronouns-determiners?type=jpeg",
+    "title": {
+      "en": "Pronouns and Determiners",
+      "id": "Kata ganti dan penentu"
+    },
+    "original": "https://dictionary.hanzi.id/images/47753-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/47753-thumbnail.jpeg"
   },
   {
     "id": 239,
     "urlId": "conjunctions",
-    "photo": "https://cdn.langeek.co/photo/47755/original/conjunctions?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/47755/thumb/conjunctions?type=png",
-    "title": "Conjunctions"
+    "photo": "https://cdn.langeek.co/photo/47755/original/conjunctions?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/47755/thumb/conjunctions?type=jpeg",
+    "title": {
+      "en": "Conjunctions",
+      "id": "Konjungsi"
+    },
+    "original": "https://dictionary.hanzi.id/images/47755-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/47755-thumbnail.jpeg"
   },
   {
     "id": 240,
     "urlId": "quantifiers",
-    "photo": "https://cdn.langeek.co/photo/47756/original/quantifiers?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/47756/thumb/quantifiers?type=png",
-    "title": "Quantifiers"
+    "photo": "https://cdn.langeek.co/photo/47756/original/quantifiers?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/47756/thumb/quantifiers?type=jpeg",
+    "title": {
+      "en": "Quantifiers",
+      "id": "Kuantifikasi"
+    },
+    "original": "https://dictionary.hanzi.id/images/47756-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/47756-thumbnail.jpeg"
   },
   {
     "id": 241,
     "urlId": "interjections",
-    "photo": "https://cdn.langeek.co/photo/47757/original/interjections?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/47757/thumb/interjections?type=png",
-    "title": "Interjections"
+    "photo": "https://cdn.langeek.co/photo/47757/original/interjections?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/47757/thumb/interjections?type=jpeg",
+    "title": {
+      "en": "Interjections",
+      "id": "Interjections"
+    },
+    "original": "https://dictionary.hanzi.id/images/47757-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/47757-thumbnail.jpeg"
   },
   {
     "id": 242,
     "urlId": "phrasal-verbs-using-up",
-    "photo": "https://cdn.langeek.co/photo/49012/original/phrasal-verbs-using-up?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49012/thumb/phrasal-verbs-using-up?type=png",
-    "title": "Phrasal Verbs Using 'Up'"
+    "photo": "https://cdn.langeek.co/photo/49012/original/phrasal-verbs-using-up?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49012/thumb/phrasal-verbs-using-up?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Up'",
+      "id": "Kata kerja phrasal menggunakan 'up'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49012-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49012-thumbnail.jpeg"
   },
   {
     "id": 243,
     "urlId": "phrasal-verbs-using-out",
-    "photo": "https://cdn.langeek.co/photo/49013/original/phrasal-verbs-using-out?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49013/thumb/phrasal-verbs-using-out?type=png",
-    "title": "Phrasal Verbs Using 'Out'"
+    "photo": "https://cdn.langeek.co/photo/49013/original/phrasal-verbs-using-out?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49013/thumb/phrasal-verbs-using-out?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Out'",
+      "id": "Kata kerja phrasal menggunakan 'out'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49013-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49013-thumbnail.jpeg"
   },
   {
     "id": 244,
     "urlId": "phrasal-verbs-using-off-in",
-    "photo": "https://cdn.langeek.co/photo/49014/original/phrasal-verbs-using-off-in?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49014/thumb/phrasal-verbs-using-off-in?type=png",
-    "title": "Phrasal Verbs Using 'Off' & 'In'"
+    "photo": "https://cdn.langeek.co/photo/49014/original/phrasal-verbs-using-off-in?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49014/thumb/phrasal-verbs-using-off-in?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Off' & 'In'",
+      "id": "Kata kerja phrasal menggunakan 'off' dan 'in'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49014-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49014-thumbnail.jpeg"
   },
   {
     "id": 245,
     "urlId": "phrasal-verbs-using-on-upon",
-    "photo": "https://cdn.langeek.co/photo/49015/original/phrasal-verbs-using-on-upon?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49015/thumb/phrasal-verbs-using-on-upon?type=png",
-    "title": "Phrasal Verbs Using 'On' & 'Upon'"
+    "photo": "https://cdn.langeek.co/photo/49015/original/phrasal-verbs-using-on-upon?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49015/thumb/phrasal-verbs-using-on-upon?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'On' & 'Upon'",
+      "id": "Kata kerja phrasal menggunakan 'on' & 'up'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49015-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49015-thumbnail.jpeg"
   },
   {
     "id": 246,
     "urlId": "phrasal-verbs-using-down-away",
-    "photo": "https://cdn.langeek.co/photo/49016/original/phrasal-verbs-using-down-away?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49016/thumb/phrasal-verbs-using-down-away?type=png",
-    "title": "Phrasal Verbs Using 'Down' & 'Away'"
+    "photo": "https://cdn.langeek.co/photo/49016/original/phrasal-verbs-using-down-away?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49016/thumb/phrasal-verbs-using-down-away?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Down' & 'Away'",
+      "id": "Kata kerja phrasal menggunakan 'down' & 'Away'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49016-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49016-thumbnail.jpeg"
   },
   {
     "id": 247,
     "urlId": "phrasal-verbs-using-around-over-along",
-    "photo": "https://cdn.langeek.co/photo/49017/original/phrasal-verbs-using-around-over-along?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49017/thumb/phrasal-verbs-using-around-over-along?type=png",
-    "title": "Phrasal Verbs Using 'Around', 'Over', & 'Along'"
+    "photo": "https://cdn.langeek.co/photo/49017/original/phrasal-verbs-using-around-over-along?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49017/thumb/phrasal-verbs-using-around-over-along?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Around', 'Over', & 'Along'",
+      "id": "Kata kerja phrasal menggunakan 'sekitar', 'lebih', dan 'sepanjang'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49017-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49017-thumbnail.jpeg"
   },
   {
     "id": 248,
     "urlId": "phrasal-verbs-using-back-through-with-at-by",
-    "photo": "https://cdn.langeek.co/photo/49018/original/phrasal-verbs-using-back-through-with-at-by?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49018/thumb/phrasal-verbs-using-back-through-with-at-by?type=png",
-    "title": "Phrasal Verbs Using 'Back', 'Through', 'With', 'At', & 'By'"
+    "photo": "https://cdn.langeek.co/photo/49018/original/phrasal-verbs-using-back-through-with-at-by?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49018/thumb/phrasal-verbs-using-back-through-with-at-by?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Back', 'Through', 'With', 'At', & 'By'",
+      "id": "Kata kerja phrasal menggunakan 'back', 'through', 'with', 'at', dan 'by'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49018-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49018-thumbnail.jpeg"
   },
   {
     "id": 249,
     "urlId": "phrasal-verbs-using-into-to-about-for",
-    "photo": "https://cdn.langeek.co/photo/49019/original/phrasal-verbs-using-into-to-about-for?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49019/thumb/phrasal-verbs-using-into-to-about-for?type=png",
-    "title": "Phrasal Verbs Using 'Into', 'To', 'About', & 'For'"
+    "photo": "https://cdn.langeek.co/photo/49019/original/phrasal-verbs-using-into-to-about-for?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49019/thumb/phrasal-verbs-using-into-to-about-for?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Into', 'To', 'About', & 'For'",
+      "id": "Kata kerja phrasal menggunakan 'ke', 'untuk', 'tentang', & 'untuk'"
+    },
+    "original": "https://dictionary.hanzi.id/images/49019-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49019-thumbnail.jpeg"
   },
   {
     "id": 250,
     "urlId": "phrasal-verbs-using-together-against-apart-others",
-    "photo": "https://cdn.langeek.co/photo/49020/original/phrasal-verbs-using-together-against-apart-others?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/49020/thumb/phrasal-verbs-using-together-against-apart-others?type=png",
-    "title": "Phrasal Verbs Using 'Together', 'Against', 'Apart', & others"
+    "photo": "https://cdn.langeek.co/photo/49020/original/phrasal-verbs-using-together-against-apart-others?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/49020/thumb/phrasal-verbs-using-together-against-apart-others?type=jpeg",
+    "title": {
+      "en": "Phrasal Verbs Using 'Together', 'Against', 'Apart', & others",
+      "id": "Kata kerja phrasal menggunakan 'bersama', 'melawan', 'apart', & lainnya"
+    },
+    "original": "https://dictionary.hanzi.id/images/49020-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/49020-thumbnail.jpeg"
   },
   {
     "id": 252,
     "urlId": "education",
-    "photo": "https://cdn.langeek.co/photo/52527/original/education?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/52527/thumb/education?type=png",
-    "title": "Education"
+    "photo": "https://cdn.langeek.co/photo/52527/original/education?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/52527/thumb/education?type=jpeg",
+    "title": {
+      "en": "Education",
+      "id": "Pendidikan"
+    },
+    "original": "https://dictionary.hanzi.id/images/52527-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/52527-thumbnail.jpeg"
   },
   {
     "id": 255,
     "urlId": "sports",
-    "photo": "https://cdn.langeek.co/photo/52610/original/sports?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/52610/thumb/sports?type=png",
-    "title": "Sports"
+    "photo": "https://cdn.langeek.co/photo/52610/original/sports?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/52610/thumb/sports?type=jpeg",
+    "title": {
+      "en": "Sports",
+      "id": "Olahraga"
+    },
+    "original": "https://dictionary.hanzi.id/images/52610-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/52610-thumbnail.jpeg"
   },
   {
     "id": 265,
     "urlId": "land-transportation",
-    "photo": "https://cdn.langeek.co/photo/52529/original/land-transportation?type=png",
-    "photoThumbnail": "https://cdn.langeek.co/photo/52529/thumb/land-transportation?type=png",
-    "title": "Land Transportation"
+    "photo": "https://cdn.langeek.co/photo/52529/original/land-transportation?type=jpeg",
+    "photoThumbnail": "https://cdn.langeek.co/photo/52529/thumb/land-transportation?type=jpeg",
+    "title": {
+      "en": "Land Transportation",
+      "id": "Transportasi darat"
+    },
+    "original": "https://dictionary.hanzi.id/images/52529-original.jpeg",
+    "thumbnail": "https://dictionary.hanzi.id/images/52529-thumbnail.jpeg"
   }
 ]
