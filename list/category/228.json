@@ -10,43 +10,64 @@
   "list": [
     {
       "id": "5123",
-      "adverbTitle": "Academic, Actions, or Activities (Do)",
+      "adverbTitle": {
+        "en": "Academic, Actions, or Activities (Do)",
+        "id": "Akademik, tindakan, atau kegiatan (lakukan)"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "5124",
-      "adverbTitle": "Housework, Exercise, or Recreation (Do)",
+      "adverbTitle": {
+        "en": "Housework, Exercise, or Recreation (Do)",
+        "id": "Pekerjaan rumah tangga, olahraga, atau rekreasi (lakukan)"
+      },
       "words": "17",
       "time": "9"
     },
     {
       "id": "5125",
-      "adverbTitle": "Preparation & Arrangement (Set)",
+      "adverbTitle": {
+        "en": "Preparation & Arrangement (Set)",
+        "id": "Persiapan & Pengaturan (Set)"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "5126",
-      "adverbTitle": "Influence & Control (Set)",
+      "adverbTitle": {
+        "en": "Influence & Control (Set)",
+        "id": "Pengaruh & Kontrol (Set)"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "5127",
-      "adverbTitle": "Limitations & Planning (Set)",
+      "adverbTitle": {
+        "en": "Limitations & Planning (Set)",
+        "id": "Batasan & Perencanaan (Set)"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "5128",
-      "adverbTitle": "Negative or Neutral Changes (Go)",
+      "adverbTitle": {
+        "en": "Negative or Neutral Changes (Go)",
+        "id": "Perubahan negatif atau netral (GO)"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "5130",
-      "adverbTitle": "Actions & Activities (Go)",
+      "adverbTitle": {
+        "en": "Actions & Activities (Go)",
+        "id": "Tindakan & Kegiatan (GO)"
+      },
       "words": "23",
       "time": "12"
     }

@@ -10,229 +10,343 @@
   "list": [
     {
       "id": "6112",
-      "adverbTitle": "Vehicle Terms and Types",
+      "adverbTitle": {
+        "en": "Vehicle Terms and Types",
+        "id": "Istilah dan Jenis Kendaraan"
+      },
       "words": "45",
       "time": "23"
     },
     {
       "id": "6113",
-      "adverbTitle": "Vehicle Body Types",
+      "adverbTitle": {
+        "en": "Vehicle Body Types",
+        "id": "Tipe tubuh kendaraan"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "6115",
-      "adverbTitle": "Utility Vehicles",
+      "adverbTitle": {
+        "en": "Utility Vehicles",
+        "id": "Kendaraan utilitas"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "6114",
-      "adverbTitle": "Personal and Performance Vehicles",
+      "adverbTitle": {
+        "en": "Personal and Performance Vehicles",
+        "id": "Kendaraan pribadi dan kinerja"
+      },
       "words": "36",
       "time": "19"
     },
     {
       "id": "6116",
-      "adverbTitle": "Historical Vehicles and Carriages",
+      "adverbTitle": {
+        "en": "Historical Vehicles and Carriages",
+        "id": "Kendaraan dan gerbong historis"
+      },
       "words": "25",
       "time": "13"
     },
     {
       "id": "6118",
-      "adverbTitle": "Emergency Vehicles and Transportation Services",
+      "adverbTitle": {
+        "en": "Emergency Vehicles and Transportation Services",
+        "id": "Kendaraan darurat dan layanan transportasi"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "6119",
-      "adverbTitle": "Public Transportation",
+      "adverbTitle": {
+        "en": "Public Transportation",
+        "id": "Kendaraan umum"
+      },
       "words": "60",
       "time": "31"
     },
     {
       "id": "6120",
-      "adverbTitle": "Vehicle Undercarriage and Main Structure",
+      "adverbTitle": {
+        "en": "Vehicle Undercarriage and Main Structure",
+        "id": "Undercarriage kendaraan dan struktur utama"
+      },
       "words": "25",
       "time": "13"
     },
     {
       "id": "6121",
-      "adverbTitle": "Vehicle Systems",
+      "adverbTitle": {
+        "en": "Vehicle Systems",
+        "id": "Sistem Kendaraan"
+      },
       "words": "27",
       "time": "14"
     },
     {
       "id": "6122",
-      "adverbTitle": "Vehicle Interior",
+      "adverbTitle": {
+        "en": "Vehicle Interior",
+        "id": "Interior kendaraan"
+      },
       "words": "46",
       "time": "24"
     },
     {
       "id": "6123",
-      "adverbTitle": "Vehicle Exterior and Accessories",
+      "adverbTitle": {
+        "en": "Vehicle Exterior and Accessories",
+        "id": "Eksterior dan aksesori kendaraan"
+      },
       "words": "47",
       "time": "24"
     },
     {
       "id": "6124",
-      "adverbTitle": "Engine Components and Additives",
+      "adverbTitle": {
+        "en": "Engine Components and Additives",
+        "id": "Komponen dan aditif mesin"
+      },
       "words": "18",
       "time": "10"
     },
     {
       "id": "6125",
-      "adverbTitle": "Vehicle Users",
+      "adverbTitle": {
+        "en": "Vehicle Users",
+        "id": "Pengguna Kendaraan"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "6126",
-      "adverbTitle": "Transit Actions",
+      "adverbTitle": {
+        "en": "Transit Actions",
+        "id": "Tindakan transit"
+      },
       "words": "32",
       "time": "17"
     },
     {
       "id": "6127",
-      "adverbTitle": "Driving Operations and Terms",
+      "adverbTitle": {
+        "en": "Driving Operations and Terms",
+        "id": "Mengemudi Operasi dan Ketentuan"
+      },
       "words": "47",
       "time": "24"
     },
     {
       "id": "6128",
-      "adverbTitle": "Driving Techniques",
+      "adverbTitle": {
+        "en": "Driving Techniques",
+        "id": "Teknik mengemudi"
+      },
       "words": "21",
       "time": "11"
     },
     {
       "id": "6129",
-      "adverbTitle": "Fueling Terms",
+      "adverbTitle": {
+        "en": "Fueling Terms",
+        "id": "Persyaratan pengisian bahan bakar"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "6130",
-      "adverbTitle": "Road Accidents and Conditions",
+      "adverbTitle": {
+        "en": "Road Accidents and Conditions",
+        "id": "Kecelakaan dan kondisi jalan"
+      },
       "words": "30",
       "time": "16"
     },
     {
       "id": "6131",
-      "adverbTitle": "Driving Offences and Crimes",
+      "adverbTitle": {
+        "en": "Driving Offences and Crimes",
+        "id": "Mengemudi pelanggaran dan kejahatan"
+      },
       "words": "18",
       "time": "10"
     },
     {
       "id": "6132",
-      "adverbTitle": "Traffic Terminology and Regulation",
+      "adverbTitle": {
+        "en": "Traffic Terminology and Regulation",
+        "id": "Terminologi dan Peraturan Lalu Lintas"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "6133",
-      "adverbTitle": "Traffic Signs",
+      "adverbTitle": {
+        "en": "Traffic Signs",
+        "id": "Rambu lalu lintas"
+      },
       "words": "48",
       "time": "25"
     },
     {
       "id": "6134",
-      "adverbTitle": "Documentation and Charges",
+      "adverbTitle": {
+        "en": "Documentation and Charges",
+        "id": "Dokumentasi dan Biaya"
+      },
       "words": "21",
       "time": "11"
     },
     {
       "id": "6135",
-      "adverbTitle": "Vehicle Maintenance and Restoration",
+      "adverbTitle": {
+        "en": "Vehicle Maintenance and Restoration",
+        "id": "Pemeliharaan dan Pemulihan Kendaraan"
+      },
       "words": "34",
       "time": "18"
     },
     {
       "id": "6136",
-      "adverbTitle": "Automotive Industry",
+      "adverbTitle": {
+        "en": "Automotive Industry",
+        "id": "Industri otomotif"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "6137",
-      "adverbTitle": "Infrastructure",
+      "adverbTitle": {
+        "en": "Infrastructure",
+        "id": "Infrastruktur"
+      },
       "words": "49",
       "time": "25"
     },
     {
       "id": "6138",
-      "adverbTitle": "Road Design and Features",
+      "adverbTitle": {
+        "en": "Road Design and Features",
+        "id": "Desain dan fitur jalan"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "6139",
-      "adverbTitle": "Urban Roads and Spaces",
+      "adverbTitle": {
+        "en": "Urban Roads and Spaces",
+        "id": "Jalan dan Ruang Perkotaan"
+      },
       "words": "39",
       "time": "20"
     },
     {
       "id": "6140",
-      "adverbTitle": "Residential and Rural Spaces",
+      "adverbTitle": {
+        "en": "Residential and Rural Spaces",
+        "id": "Ruang perumahan dan pedesaan"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "6141",
-      "adverbTitle": "Highway Infrastructure and Intersections",
+      "adverbTitle": {
+        "en": "Highway Infrastructure and Intersections",
+        "id": "Infrastruktur dan persimpangan jalan raya"
+      },
       "words": "38",
       "time": "20"
     },
     {
       "id": "6142",
-      "adverbTitle": "Road Construction and Maintenance",
+      "adverbTitle": {
+        "en": "Road Construction and Maintenance",
+        "id": "Konstruksi dan pemeliharaan jalan"
+      },
       "words": "29",
       "time": "15"
     },
     {
       "id": "6143",
-      "adverbTitle": "Road Barriers and Safety Elements",
+      "adverbTitle": {
+        "en": "Road Barriers and Safety Elements",
+        "id": "Penghalang jalan dan elemen keselamatan"
+      },
       "words": "36",
       "time": "19"
     },
     {
       "id": "6144",
-      "adverbTitle": "Rolling Stock",
+      "adverbTitle": {
+        "en": "Rolling Stock",
+        "id": "Rolling stock"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "6145",
-      "adverbTitle": "Train and Locomotive Parts",
+      "adverbTitle": {
+        "en": "Train and Locomotive Parts",
+        "id": "Melatih dan bagian lokomotif"
+      },
       "words": "26",
       "time": "14"
     },
     {
       "id": "6146",
-      "adverbTitle": "Passenger Accomadations",
+      "adverbTitle": {
+        "en": "Passenger Accomadations",
+        "id": "Akomadasi penumpang"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "6147",
-      "adverbTitle": "Railroad Infrastructure",
+      "adverbTitle": {
+        "en": "Railroad Infrastructure",
+        "id": "Infrastruktur kereta api"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "6148",
-      "adverbTitle": "Railroad Operations and Safety Control",
+      "adverbTitle": {
+        "en": "Railroad Operations and Safety Control",
+        "id": "Operasi Kereta Api dan Kontrol Keselamatan"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "6149",
-      "adverbTitle": "Railroad Personnel",
+      "adverbTitle": {
+        "en": "Railroad Personnel",
+        "id": "Personel kereta api"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "6150",
-      "adverbTitle": "Railroad Signals and Maintenance",
+      "adverbTitle": {
+        "en": "Railroad Signals and Maintenance",
+        "id": "Sinyal dan pemeliharaan kereta api"
+      },
       "words": "25",
       "time": "13"
     }

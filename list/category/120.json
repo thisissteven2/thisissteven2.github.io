@@ -10,79 +10,118 @@
   "list": [
     {
       "id": "2343",
-      "adverbTitle": "Appetite",
+      "adverbTitle": {
+        "en": "Appetite",
+        "id": "Nafsu makan"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "2344",
-      "adverbTitle": "Drinking & Smoking",
+      "adverbTitle": {
+        "en": "Drinking & Smoking",
+        "id": "Minum & Merokok"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "2346",
-      "adverbTitle": "Food & Hunger",
+      "adverbTitle": {
+        "en": "Food & Hunger",
+        "id": "Makanan & Kelaparan"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "2347",
-      "adverbTitle": "Relieving Oneself",
+      "adverbTitle": {
+        "en": "Relieving Oneself",
+        "id": "Membebaskan diri"
+      },
       "words": "7",
       "time": "4"
     },
     {
       "id": "2348",
-      "adverbTitle": "Resting & Relaxing",
+      "adverbTitle": {
+        "en": "Resting & Relaxing",
+        "id": "Beristirahat & santai"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "2349",
-      "adverbTitle": "Sleep",
+      "adverbTitle": {
+        "en": "Sleep",
+        "id": "Tidur"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "2350",
-      "adverbTitle": "Fun & Entertainment",
+      "adverbTitle": {
+        "en": "Fun & Entertainment",
+        "id": "Menyenangkan & hiburan"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "2445",
-      "adverbTitle": "Smile & Laughter",
+      "adverbTitle": {
+        "en": "Smile & Laughter",
+        "id": "Senyum & tawa"
+      },
       "words": "9",
       "time": "5"
     },
     {
       "id": "2448",
-      "adverbTitle": "Communication",
+      "adverbTitle": {
+        "en": "Communication",
+        "id": "Komunikasi"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "2470",
-      "adverbTitle": "Socializing",
+      "adverbTitle": {
+        "en": "Socializing",
+        "id": "Bersosialisasi"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "3812",
-      "adverbTitle": "Experiment & Exploration",
+      "adverbTitle": {
+        "en": "Experiment & Exploration",
+        "id": "Eksperimen & Eksplorasi"
+      },
       "words": "6",
       "time": "4"
     },
     {
       "id": "3814",
-      "adverbTitle": "Habit & Routine",
+      "adverbTitle": {
+        "en": "Habit & Routine",
+        "id": "Kebiasaan & Rutin"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "3815",
-      "adverbTitle": "Leisure & Fun",
+      "adverbTitle": {
+        "en": "Leisure & Fun",
+        "id": "Waktu luang & menyenangkan"
+      },
       "words": "13",
       "time": "7"
     }

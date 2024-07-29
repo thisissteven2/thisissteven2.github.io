@@ -10,163 +10,244 @@
   "list": [
     {
       "id": "3997",
-      "adverbTitle": "Art Elements and Principles",
+      "adverbTitle": {
+        "en": "Art Elements and Principles",
+        "id": "Elemen dan Prinsip Seni"
+      },
       "words": "38",
       "time": "20"
     },
     {
       "id": "3998",
-      "adverbTitle": "Painting Materials",
+      "adverbTitle": {
+        "en": "Painting Materials",
+        "id": "Bahan lukisan"
+      },
       "words": "47",
       "time": "24"
     },
     {
       "id": "620",
-      "adverbTitle": "Art Equipment",
+      "adverbTitle": {
+        "en": "Art Equipment",
+        "id": "Peralatan seni"
+      },
       "words": "63",
       "time": "32"
     },
     {
       "id": "621",
-      "adverbTitle": "Types of Visual Arts",
+      "adverbTitle": {
+        "en": "Types of Visual Arts",
+        "id": "Jenis Seni Visual"
+      },
       "words": "42",
       "time": "22"
     },
     {
       "id": "622",
-      "adverbTitle": "Art Techniques",
+      "adverbTitle": {
+        "en": "Art Techniques",
+        "id": "Teknik seni"
+      },
       "words": "51",
       "time": "26"
     },
     {
       "id": "623",
-      "adverbTitle": "Visual Artists",
+      "adverbTitle": {
+        "en": "Visual Artists",
+        "id": "Artis Visual"
+      },
       "words": "38",
       "time": "20"
     },
     {
       "id": "4000",
-      "adverbTitle": "Aesthetics and Creative Processes",
+      "adverbTitle": {
+        "en": "Aesthetics and Creative Processes",
+        "id": "Estetika dan proses kreatif"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "4001",
-      "adverbTitle": "Art Industry",
+      "adverbTitle": {
+        "en": "Art Industry",
+        "id": "Industri Seni"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "3999",
-      "adverbTitle": "Nouns Related to Art",
+      "adverbTitle": {
+        "en": "Nouns Related to Art",
+        "id": "Kata benda yang terkait dengan seni"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "4002",
-      "adverbTitle": "Verbs Related to Art",
+      "adverbTitle": {
+        "en": "Verbs Related to Art",
+        "id": "Kata kerja yang terkait dengan seni"
+      },
       "words": "43",
       "time": "22"
     },
     {
       "id": "4004",
-      "adverbTitle": "Art Movements: 19th Century",
+      "adverbTitle": {
+        "en": "Art Movements: 19th Century",
+        "id": "Gerakan Seni: Abad ke -19"
+      },
       "words": "35",
       "time": "18"
     },
     {
       "id": "4005",
-      "adverbTitle": "Art Movements: 1901-1945",
+      "adverbTitle": {
+        "en": "Art Movements: 1901-1945",
+        "id": "Gerakan Seni: 1901-1945"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "4007",
-      "adverbTitle": "Art Movements: 1946-1999",
+      "adverbTitle": {
+        "en": "Art Movements: 1946-1999",
+        "id": "Gerakan Seni: 1946-1999"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "4008",
-      "adverbTitle": "Art Movements: 21st Century",
+      "adverbTitle": {
+        "en": "Art Movements: 21st Century",
+        "id": "Gerakan Seni: Abad ke -21"
+      },
       "words": "23",
       "time": "12"
     },
     {
       "id": "4010",
-      "adverbTitle": "Printmaking",
+      "adverbTitle": {
+        "en": "Printmaking",
+        "id": "PRINTMAKING"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "4013",
-      "adverbTitle": "Sculpture",
+      "adverbTitle": {
+        "en": "Sculpture",
+        "id": "Patung"
+      },
       "words": "30",
       "time": "16"
     },
     {
       "id": "4015",
-      "adverbTitle": "Ceramics and Glass Crafts",
+      "adverbTitle": {
+        "en": "Ceramics and Glass Crafts",
+        "id": "Keramik dan kerajinan kaca"
+      },
       "words": "42",
       "time": "22"
     },
     {
       "id": "4017",
-      "adverbTitle": "Fiber and Textile Crafts",
+      "adverbTitle": {
+        "en": "Fiber and Textile Crafts",
+        "id": "Kerajinan serat dan tekstil"
+      },
       "words": "42",
       "time": "22"
     },
     {
       "id": "4019",
-      "adverbTitle": "Needlework",
+      "adverbTitle": {
+        "en": "Needlework",
+        "id": "Sulaman"
+      },
       "words": "48",
       "time": "25"
     },
     {
       "id": "4021",
-      "adverbTitle": "Paper and Plant Crafts",
+      "adverbTitle": {
+        "en": "Paper and Plant Crafts",
+        "id": "Kerajinan kertas dan tanaman"
+      },
       "words": "35",
       "time": "18"
     },
     {
       "id": "4023",
-      "adverbTitle": "Wood, Stone, and Metal Crafts",
+      "adverbTitle": {
+        "en": "Wood, Stone, and Metal Crafts",
+        "id": "Kerajinan kayu, batu, dan logam"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "4027",
-      "adverbTitle": "Areas of Photography",
+      "adverbTitle": {
+        "en": "Areas of Photography",
+        "id": "Bidang fotografi"
+      },
       "words": "27",
       "time": "14"
     },
     {
       "id": "4028",
-      "adverbTitle": "Photographic Formats",
+      "adverbTitle": {
+        "en": "Photographic Formats",
+        "id": "Format fotografi"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "4029",
-      "adverbTitle": "Photography Concepts",
+      "adverbTitle": {
+        "en": "Photography Concepts",
+        "id": "Konsep fotografi"
+      },
       "words": "54",
       "time": "28"
     },
     {
       "id": "4030",
-      "adverbTitle": "Types of Camera",
+      "adverbTitle": {
+        "en": "Types of Camera",
+        "id": "Jenis kamera"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "4031",
-      "adverbTitle": "Parts of Camera",
+      "adverbTitle": {
+        "en": "Parts of Camera",
+        "id": "Bagian kamera"
+      },
       "words": "32",
       "time": "17"
     },
     {
       "id": "4032",
-      "adverbTitle": "Photographic Processing",
+      "adverbTitle": {
+        "en": "Photographic Processing",
+        "id": "Pemrosesan fotografi"
+      },
       "words": "22",
       "time": "12"
     }

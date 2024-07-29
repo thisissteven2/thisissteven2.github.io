@@ -10,67 +10,100 @@
   "list": [
     {
       "id": "5018",
-      "adverbTitle": "Place or Time",
+      "adverbTitle": {
+        "en": "Place or Time",
+        "id": "Tempat atau waktu"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "5050",
-      "adverbTitle": "Quantity or Degree",
+      "adverbTitle": {
+        "en": "Quantity or Degree",
+        "id": "Kuantitas atau gelar"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "5052",
-      "adverbTitle": "Similarity or Contradiction",
+      "adverbTitle": {
+        "en": "Similarity or Contradiction",
+        "id": "Kesamaan atau kontradiksi"
+      },
       "words": "6",
       "time": "4"
     },
     {
       "id": "5053",
-      "adverbTitle": "Purpose & Intention",
+      "adverbTitle": {
+        "en": "Purpose & Intention",
+        "id": "Tujuan & niat"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "5075",
-      "adverbTitle": "Reference & Relation",
+      "adverbTitle": {
+        "en": "Reference & Relation",
+        "id": "Referensi & Relasi"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "5076",
-      "adverbTitle": "Attribution & Consequence",
+      "adverbTitle": {
+        "en": "Attribution & Consequence",
+        "id": "Atribusi & konsekuensi"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "5077",
-      "adverbTitle": "Association & Compliance",
+      "adverbTitle": {
+        "en": "Association & Compliance",
+        "id": "Asosiasi & Kepatuhan"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "5078",
-      "adverbTitle": "Conformity & Connection",
+      "adverbTitle": {
+        "en": "Conformity & Connection",
+        "id": "Kesesuaian & Koneksi"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "5080",
-      "adverbTitle": "Exception & Exclusion",
+      "adverbTitle": {
+        "en": "Exception & Exclusion",
+        "id": "Pengecualian & Pengecualian"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "5081",
-      "adverbTitle": "Means or Cause",
+      "adverbTitle": {
+        "en": "Means or Cause",
+        "id": "Berarti atau menyebabkan"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "5082",
-      "adverbTitle": "Availability or Preference",
+      "adverbTitle": {
+        "en": "Availability or Preference",
+        "id": "Ketersediaan atau preferensi"
+      },
       "words": "8",
       "time": "5"
     }

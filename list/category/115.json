@@ -10,67 +10,100 @@
   "list": [
     {
       "id": "2185",
-      "adverbTitle": "Certainty",
+      "adverbTitle": {
+        "en": "Certainty",
+        "id": "Kepastian"
+      },
       "words": "17",
       "time": "9"
     },
     {
       "id": "2186",
-      "adverbTitle": "Uncertainty",
+      "adverbTitle": {
+        "en": "Uncertainty",
+        "id": "Ketakpastian"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "2187",
-      "adverbTitle": "Unlikely Situations",
+      "adverbTitle": {
+        "en": "Unlikely Situations",
+        "id": "Situasi yang tidak mungkin"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "2188",
-      "adverbTitle": "Impossibility",
+      "adverbTitle": {
+        "en": "Impossibility",
+        "id": "Ketidakmungkinan"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "2220",
-      "adverbTitle": "Luck & Chance",
+      "adverbTitle": {
+        "en": "Luck & Chance",
+        "id": "Keberuntungan dan kesempatan"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "2223",
-      "adverbTitle": "Possibility",
+      "adverbTitle": {
+        "en": "Possibility",
+        "id": "Kemungkinan"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "2226",
-      "adverbTitle": "Likelihood",
+      "adverbTitle": {
+        "en": "Likelihood",
+        "id": "Kemungkinan"
+      },
       "words": "7",
       "time": "4"
     },
     {
       "id": "2231",
-      "adverbTitle": "Expectations",
+      "adverbTitle": {
+        "en": "Expectations",
+        "id": "Harapan"
+      },
       "words": "7",
       "time": "4"
     },
     {
       "id": "2232",
-      "adverbTitle": "Unexpected",
+      "adverbTitle": {
+        "en": "Unexpected",
+        "id": "Tidak terduga"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "2256",
-      "adverbTitle": "Unbelievable",
+      "adverbTitle": {
+        "en": "Unbelievable",
+        "id": "Sulit dipercaya"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "3298",
-      "adverbTitle": "Definite or Unavoidable",
+      "adverbTitle": {
+        "en": "Definite or Unavoidable",
+        "id": "Pasti atau tidak dapat dihindari"
+      },
       "words": "7",
       "time": "4"
     }

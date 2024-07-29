@@ -10,37 +10,55 @@
   "list": [
     {
       "id": "5131",
-      "adverbTitle": "Acts of Assistance or Interaction (Give)",
+      "adverbTitle": {
+        "en": "Acts of Assistance or Interaction (Give)",
+        "id": "Tindakan Bantuan atau Interaksi (Berikan)"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "5132",
-      "adverbTitle": "Providing Intangible Things (Give)",
+      "adverbTitle": {
+        "en": "Providing Intangible Things (Give)",
+        "id": "Memberikan hal -hal tidak berwujud (memberi)"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "5133",
-      "adverbTitle": "Monitoring & Maintaining (Keep)",
+      "adverbTitle": {
+        "en": "Monitoring & Maintaining (Keep)",
+        "id": "Memantau dan memelihara (Keep)"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "5134",
-      "adverbTitle": "Relationships & Communication (Keep)",
+      "adverbTitle": {
+        "en": "Relationships & Communication (Keep)",
+        "id": "Hubungan & Komunikasi (Keep)"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "5135",
-      "adverbTitle": "Actions or Outcomes (Come)",
+      "adverbTitle": {
+        "en": "Actions or Outcomes (Come)",
+        "id": "Tindakan atau hasil (datang)"
+      },
       "words": "17",
       "time": "9"
     },
     {
       "id": "5136",
-      "adverbTitle": "Arrive or Appear (Come)",
+      "adverbTitle": {
+        "en": "Arrive or Appear (Come)",
+        "id": "Tiba atau muncul (datang)"
+      },
       "words": "7",
       "time": "4"
     }

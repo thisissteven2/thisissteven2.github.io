@@ -10,43 +10,64 @@
   "list": [
     {
       "id": "4177",
-      "adverbTitle": "Hunger & Appetite",
+      "adverbTitle": {
+        "en": "Hunger & Appetite",
+        "id": "Kelaparan & nafsu makan"
+      },
       "words": "7",
       "time": "4"
     },
     {
       "id": "4178",
-      "adverbTitle": "Health & Well-Being",
+      "adverbTitle": {
+        "en": "Health & Well-Being",
+        "id": "Kesehatan & Kesejahteraan"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "4179",
-      "adverbTitle": "Health & Hygiene",
+      "adverbTitle": {
+        "en": "Health & Hygiene",
+        "id": "Kesehatan & Kebersihan"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "4180",
-      "adverbTitle": "Habits & Routine",
+      "adverbTitle": {
+        "en": "Habits & Routine",
+        "id": "Kebiasaan & rutinitas"
+      },
       "words": "7",
       "time": "4"
     },
     {
       "id": "4181",
-      "adverbTitle": "Death",
+      "adverbTitle": {
+        "en": "Death",
+        "id": "Kematian"
+      },
       "words": "15",
       "time": "8"
     },
     {
       "id": "4182",
-      "adverbTitle": "Age",
+      "adverbTitle": {
+        "en": "Age",
+        "id": "Usia"
+      },
       "words": "9",
       "time": "5"
     },
     {
       "id": "4183",
-      "adverbTitle": "Nature",
+      "adverbTitle": {
+        "en": "Nature",
+        "id": "Alam"
+      },
       "words": "6",
       "time": "4"
     }

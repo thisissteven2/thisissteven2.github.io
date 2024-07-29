@@ -10,181 +10,271 @@
   "list": [
     {
       "id": "644",
-      "adverbTitle": "Musical Genres",
+      "adverbTitle": {
+        "en": "Musical Genres",
+        "id": "Genre musik"
+      },
       "words": "28",
       "time": "15"
     },
     {
       "id": "645",
-      "adverbTitle": "Classical Music",
+      "adverbTitle": {
+        "en": "Classical Music",
+        "id": "Musik klasik"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "650",
-      "adverbTitle": "Electronic Music",
+      "adverbTitle": {
+        "en": "Electronic Music",
+        "id": "Musik elektronik"
+      },
       "words": "48",
       "time": "25"
     },
     {
       "id": "651",
-      "adverbTitle": "Rock Music",
+      "adverbTitle": {
+        "en": "Rock Music",
+        "id": "Musik rock"
+      },
       "words": "52",
       "time": "27"
     },
     {
       "id": "652",
-      "adverbTitle": "Folk and Country Music",
+      "adverbTitle": {
+        "en": "Folk and Country Music",
+        "id": "Musik rakyat dan country"
+      },
       "words": "28",
       "time": "15"
     },
     {
       "id": "653",
-      "adverbTitle": "Pop and Hip-Hop Music",
+      "adverbTitle": {
+        "en": "Pop and Hip-Hop Music",
+        "id": "Musik pop dan hip-hop"
+      },
       "words": "30",
       "time": "16"
     },
     {
       "id": "654",
-      "adverbTitle": "Latin Music",
+      "adverbTitle": {
+        "en": "Latin Music",
+        "id": "Musik Latin"
+      },
       "words": "17",
       "time": "9"
     },
     {
       "id": "1359",
-      "adverbTitle": "Jazz and Other African-American Music",
+      "adverbTitle": {
+        "en": "Jazz and Other African-American Music",
+        "id": "Jazz dan musik Afrika-Amerika lainnya"
+      },
       "words": "33",
       "time": "17"
     },
     {
       "id": "646",
-      "adverbTitle": "Stringed Instruments",
+      "adverbTitle": {
+        "en": "Stringed Instruments",
+        "id": "Instrumen senar"
+      },
       "words": "42",
       "time": "22"
     },
     {
       "id": "647",
-      "adverbTitle": "Woodwind and Brass Instruments",
+      "adverbTitle": {
+        "en": "Woodwind and Brass Instruments",
+        "id": "Instrumen kayu dan kuningan"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "648",
-      "adverbTitle": "Percussion Instruments",
+      "adverbTitle": {
+        "en": "Percussion Instruments",
+        "id": "Instrumen perkusi"
+      },
       "words": "39",
       "time": "20"
     },
     {
       "id": "649",
-      "adverbTitle": "Keyboard Instruments",
+      "adverbTitle": {
+        "en": "Keyboard Instruments",
+        "id": "Instrumen Keyboard"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "656",
-      "adverbTitle": "Electronic Instruments",
+      "adverbTitle": {
+        "en": "Electronic Instruments",
+        "id": "Instrumen Elektronik"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "655",
-      "adverbTitle": "Parts of Musical Instruments",
+      "adverbTitle": {
+        "en": "Parts of Musical Instruments",
+        "id": "Bagian dari alat musik"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "657",
-      "adverbTitle": "Types of Musicians",
+      "adverbTitle": {
+        "en": "Types of Musicians",
+        "id": "Jenis musisi"
+      },
       "words": "32",
       "time": "17"
     },
     {
       "id": "3176",
-      "adverbTitle": "Other People In The Music Industry",
+      "adverbTitle": {
+        "en": "Other People In The Music Industry",
+        "id": "Orang lain di industri musik"
+      },
       "words": "29",
       "time": "15"
     },
     {
       "id": "3184",
-      "adverbTitle": "Musical Ensembles",
+      "adverbTitle": {
+        "en": "Musical Ensembles",
+        "id": "Ansambel musik"
+      },
       "words": "35",
       "time": "18"
     },
     {
       "id": "3190",
-      "adverbTitle": "Musical Notation",
+      "adverbTitle": {
+        "en": "Musical Notation",
+        "id": "Notasi musik"
+      },
       "words": "70",
       "time": "36"
     },
     {
       "id": "3230",
-      "adverbTitle": "Musical Elements",
+      "adverbTitle": {
+        "en": "Musical Elements",
+        "id": "Elemen musik"
+      },
       "words": "35",
       "time": "18"
     },
     {
       "id": "3199",
-      "adverbTitle": "Musical Pieces",
+      "adverbTitle": {
+        "en": "Musical Pieces",
+        "id": "Karya musik"
+      },
       "words": "58",
       "time": "30"
     },
     {
       "id": "3245",
-      "adverbTitle": "Specific Songs and Music",
+      "adverbTitle": {
+        "en": "Specific Songs and Music",
+        "id": "Lagu dan Musik Khusus"
+      },
       "words": "27",
       "time": "14"
     },
     {
       "id": "3255",
-      "adverbTitle": "Parts of Musical Pieces",
+      "adverbTitle": {
+        "en": "Parts of Musical Pieces",
+        "id": "Bagian dari karya musik"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "3273",
-      "adverbTitle": "Listening to Music",
+      "adverbTitle": {
+        "en": "Listening to Music",
+        "id": "Mendengarkan musik"
+      },
       "words": "35",
       "time": "18"
     },
     {
       "id": "3281",
-      "adverbTitle": "Recording Studio Equipment",
+      "adverbTitle": {
+        "en": "Recording Studio Equipment",
+        "id": "Peralatan Studio Perekaman"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "3294",
-      "adverbTitle": "Opera",
+      "adverbTitle": {
+        "en": "Opera",
+        "id": "Opera"
+      },
       "words": "28",
       "time": "15"
     },
     {
       "id": "3302",
-      "adverbTitle": "The Music Industry",
+      "adverbTitle": {
+        "en": "The Music Industry",
+        "id": "Industri musik"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "3308",
-      "adverbTitle": "Musical Performances",
+      "adverbTitle": {
+        "en": "Musical Performances",
+        "id": "Pertunjukan musik"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "3313",
-      "adverbTitle": "Describing Music",
+      "adverbTitle": {
+        "en": "Describing Music",
+        "id": "Menggambarkan musik"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "3287",
-      "adverbTitle": "Producing, Performing, and Recording Music",
+      "adverbTitle": {
+        "en": "Producing, Performing, and Recording Music",
+        "id": "Memproduksi, menampilkan, dan merekam musik"
+      },
       "words": "50",
       "time": "26"
     },
     {
       "id": "3320",
-      "adverbTitle": "Nouns Related to Music",
+      "adverbTitle": {
+        "en": "Nouns Related to Music",
+        "id": "Kata benda yang terkait dengan musik"
+      },
       "words": "57",
       "time": "29"
     }

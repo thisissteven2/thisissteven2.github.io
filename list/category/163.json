@@ -10,61 +10,91 @@
   "list": [
     {
       "id": "4045",
-      "adverbTitle": "Love & Romance",
+      "adverbTitle": {
+        "en": "Love & Romance",
+        "id": "Cinta & romansa"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "4047",
-      "adverbTitle": "Contentment & Happiness",
+      "adverbTitle": {
+        "en": "Contentment & Happiness",
+        "id": "Kepuasan & kebahagiaan"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "4048",
-      "adverbTitle": "Sense of Belonging",
+      "adverbTitle": {
+        "en": "Sense of Belonging",
+        "id": "Rasa memiliki"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "4049",
-      "adverbTitle": "Negative Feelings",
+      "adverbTitle": {
+        "en": "Negative Feelings",
+        "id": "Perasaan negatif"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "4050",
-      "adverbTitle": "Beliefs & Viewpoints",
+      "adverbTitle": {
+        "en": "Beliefs & Viewpoints",
+        "id": "Keyakinan dan sudut pandang"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "4051",
-      "adverbTitle": "Judgment & Assessment",
+      "adverbTitle": {
+        "en": "Judgment & Assessment",
+        "id": "Penilaian & Penilaian"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "4052",
-      "adverbTitle": "Stereotypic Assumptions",
+      "adverbTitle": {
+        "en": "Stereotypic Assumptions",
+        "id": "Asumsi stereotip"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "4053",
-      "adverbTitle": "Superstition & Folklore",
+      "adverbTitle": {
+        "en": "Superstition & Folklore",
+        "id": "Takhayul dan cerita rakyat"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "4054",
-      "adverbTitle": "Faith & Religion",
+      "adverbTitle": {
+        "en": "Faith & Religion",
+        "id": "Iman & Agama"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "4055",
-      "adverbTitle": "Fate",
+      "adverbTitle": {
+        "en": "Fate",
+        "id": "Takdir"
+      },
       "words": "6",
       "time": "4"
     }

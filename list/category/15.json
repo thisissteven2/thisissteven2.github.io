@@ -10,331 +10,496 @@
   "list": [
     {
       "id": "525",
-      "adverbTitle": "Large Mammals",
+      "adverbTitle": {
+        "en": "Large Mammals",
+        "id": "Mamalia besar"
+      },
       "words": "25",
       "time": "13"
     },
     {
       "id": "532",
-      "adverbTitle": "Canines",
+      "adverbTitle": {
+        "en": "Canines",
+        "id": "Anjing"
+      },
       "words": "34",
       "time": "18"
     },
     {
       "id": "533",
-      "adverbTitle": "Felines",
+      "adverbTitle": {
+        "en": "Felines",
+        "id": "Kucing"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "534",
-      "adverbTitle": "Primates",
+      "adverbTitle": {
+        "en": "Primates",
+        "id": "Primata"
+      },
       "words": "59",
       "time": "30"
     },
     {
       "id": "536",
-      "adverbTitle": "Antelopes",
+      "adverbTitle": {
+        "en": "Antelopes",
+        "id": "Antelopes"
+      },
       "words": "49",
       "time": "25"
     },
     {
       "id": "538",
-      "adverbTitle": "Rodents",
+      "adverbTitle": {
+        "en": "Rodents",
+        "id": "Tikus"
+      },
       "words": "56",
       "time": "29"
     },
     {
       "id": "535",
-      "adverbTitle": "Marsupials and Monotremes",
+      "adverbTitle": {
+        "en": "Marsupials and Monotremes",
+        "id": "Marsupial dan monotrem"
+      },
       "words": "39",
       "time": "20"
     },
     {
       "id": "537",
-      "adverbTitle": "Weasel-like Mammals",
+      "adverbTitle": {
+        "en": "Weasel-like Mammals",
+        "id": "Mamalia seperti musang"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "3454",
-      "adverbTitle": "Aquatic Mammals",
+      "adverbTitle": {
+        "en": "Aquatic Mammals",
+        "id": "Mamalia perairan"
+      },
       "words": "26",
       "time": "14"
     },
     {
       "id": "3455",
-      "adverbTitle": "Bears and Sloths",
+      "adverbTitle": {
+        "en": "Bears and Sloths",
+        "id": "Beruang dan sloth"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "539",
-      "adverbTitle": "Other Mammals",
+      "adverbTitle": {
+        "en": "Other Mammals",
+        "id": "Mamalia lainnya"
+      },
       "words": "40",
       "time": "21"
     },
     {
       "id": "540",
-      "adverbTitle": "Domesticated Animals",
+      "adverbTitle": {
+        "en": "Domesticated Animals",
+        "id": "Hewan peliharaan"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "541",
-      "adverbTitle": "Dog Breeds",
+      "adverbTitle": {
+        "en": "Dog Breeds",
+        "id": "Ras anjing"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "542",
-      "adverbTitle": "Cat Breeds",
+      "adverbTitle": {
+        "en": "Cat Breeds",
+        "id": "Breed kucing"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "548",
-      "adverbTitle": "Types of Cats and Dogs",
+      "adverbTitle": {
+        "en": "Types of Cats and Dogs",
+        "id": "Jenis kucing dan anjing"
+      },
       "words": "25",
       "time": "13"
     },
     {
       "id": "543",
-      "adverbTitle": "Cattle Breeds",
+      "adverbTitle": {
+        "en": "Cattle Breeds",
+        "id": "Breed sapi"
+      },
       "words": "28",
       "time": "15"
     },
     {
       "id": "3514",
-      "adverbTitle": "Sheep and Pig Breeds",
+      "adverbTitle": {
+        "en": "Sheep and Pig Breeds",
+        "id": "Breed Domba dan Babi"
+      },
       "words": "54",
       "time": "28"
     },
     {
       "id": "544",
-      "adverbTitle": "Equines",
+      "adverbTitle": {
+        "en": "Equines",
+        "id": "Kuda"
+      },
       "words": "39",
       "time": "20"
     },
     {
       "id": "545",
-      "adverbTitle": "Animal Young",
+      "adverbTitle": {
+        "en": "Animal Young",
+        "id": "Hewan muda"
+      },
       "words": "51",
       "time": "26"
     },
     {
       "id": "546",
-      "adverbTitle": "Animal Sounds",
+      "adverbTitle": {
+        "en": "Animal Sounds",
+        "id": "Suara binatang"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "547",
-      "adverbTitle": "Animal Types",
+      "adverbTitle": {
+        "en": "Animal Types",
+        "id": "Tipe hewan"
+      },
       "words": "54",
       "time": "28"
     },
     {
       "id": "549",
-      "adverbTitle": "Male and Female Animals",
+      "adverbTitle": {
+        "en": "Male and Female Animals",
+        "id": "Hewan jantan dan betina"
+      },
       "words": "51",
       "time": "26"
     },
     {
       "id": "550",
-      "adverbTitle": "Collective Nouns for Animals",
+      "adverbTitle": {
+        "en": "Collective Nouns for Animals",
+        "id": "Kata benda kolektif untuk hewan"
+      },
       "words": "47",
       "time": "24"
     },
     {
       "id": "551",
-      "adverbTitle": "Animal Homes",
+      "adverbTitle": {
+        "en": "Animal Homes",
+        "id": "Rumah hewan"
+      },
       "words": "52",
       "time": "27"
     },
     {
       "id": "552",
-      "adverbTitle": "Animal Reproduction",
+      "adverbTitle": {
+        "en": "Animal Reproduction",
+        "id": "Reproduksi Hewan"
+      },
       "words": "50",
       "time": "26"
     },
     {
       "id": "553",
-      "adverbTitle": "The Anatomy of Mammals",
+      "adverbTitle": {
+        "en": "The Anatomy of Mammals",
+        "id": "Anatomi mamalia"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "554",
-      "adverbTitle": "The Anatomy of Birds",
+      "adverbTitle": {
+        "en": "The Anatomy of Birds",
+        "id": "Anatomi Burung"
+      },
       "words": "32",
       "time": "17"
     },
     {
       "id": "555",
-      "adverbTitle": "The Anatomy of Fish, Insects, etc.",
+      "adverbTitle": {
+        "en": "The Anatomy of Fish, Insects, etc.",
+        "id": "Anatomi ikan, serangga, dll."
+      },
       "words": "38",
       "time": "20"
     },
     {
       "id": "556",
-      "adverbTitle": "Animal Coverings",
+      "adverbTitle": {
+        "en": "Animal Coverings",
+        "id": "Penutup hewan"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "557",
-      "adverbTitle": "Verbs Relating to Animals",
+      "adverbTitle": {
+        "en": "Verbs Relating to Animals",
+        "id": "Kata kerja yang berkaitan dengan hewan"
+      },
       "words": "69",
       "time": "35"
     },
     {
       "id": "558",
-      "adverbTitle": "Nouns Relating to Animals",
+      "adverbTitle": {
+        "en": "Nouns Relating to Animals",
+        "id": "Kata benda yang berkaitan dengan hewan"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "559",
-      "adverbTitle": "Adjectives Relating to Animals",
+      "adverbTitle": {
+        "en": "Adjectives Relating to Animals",
+        "id": "Kata sifat yang berkaitan dengan hewan"
+      },
       "words": "51",
       "time": "26"
     },
     {
       "id": "1450",
-      "adverbTitle": "Flightless Birds",
+      "adverbTitle": {
+        "en": "Flightless Birds",
+        "id": "Burung yang tidak bisa terbang"
+      },
       "words": "40",
       "time": "21"
     },
     {
       "id": "3709",
-      "adverbTitle": "Finches and Warblers",
+      "adverbTitle": {
+        "en": "Finches and Warblers",
+        "id": "Finch dan warbler"
+      },
       "words": "26",
       "time": "14"
     },
     {
       "id": "1452",
-      "adverbTitle": "Passerine Birds",
+      "adverbTitle": {
+        "en": "Passerine Birds",
+        "id": "Burung Passerine"
+      },
       "words": "69",
       "time": "35"
     },
     {
       "id": "1453",
-      "adverbTitle": "Birds of Prey",
+      "adverbTitle": {
+        "en": "Birds of Prey",
+        "id": "Burung pemangsa"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "1454",
-      "adverbTitle": "Waterfowls",
+      "adverbTitle": {
+        "en": "Waterfowls",
+        "id": "Unggas air"
+      },
       "words": "80",
       "time": "41"
     },
     {
       "id": "3710",
-      "adverbTitle": "Pigeons and Doves",
+      "adverbTitle": {
+        "en": "Pigeons and Doves",
+        "id": "Merpati dan merpati"
+      },
       "words": "23",
       "time": "12"
     },
     {
       "id": "1451",
-      "adverbTitle": "Tropical and Exotic Birds",
+      "adverbTitle": {
+        "en": "Tropical and Exotic Birds",
+        "id": "Burung tropis dan eksotis"
+      },
       "words": "62",
       "time": "32"
     },
     {
       "id": "1456",
-      "adverbTitle": "Freshwater Fish",
+      "adverbTitle": {
+        "en": "Freshwater Fish",
+        "id": "Ikan air tawar"
+      },
       "words": "29",
       "time": "15"
     },
     {
       "id": "1457",
-      "adverbTitle": "Marine Fish",
+      "adverbTitle": {
+        "en": "Marine Fish",
+        "id": "Ikan laut"
+      },
       "words": "54",
       "time": "28"
     },
     {
       "id": "1459",
-      "adverbTitle": "Marine Animals",
+      "adverbTitle": {
+        "en": "Marine Animals",
+        "id": "Hewan laut"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "1460",
-      "adverbTitle": "Shellfish and Mollusks",
+      "adverbTitle": {
+        "en": "Shellfish and Mollusks",
+        "id": "Kerang dan moluska"
+      },
       "words": "29",
       "time": "15"
     },
     {
       "id": "1461",
-      "adverbTitle": "Snakes",
+      "adverbTitle": {
+        "en": "Snakes",
+        "id": "Ular"
+      },
       "words": "56",
       "time": "29"
     },
     {
       "id": "1463",
-      "adverbTitle": "Other Reptiles",
+      "adverbTitle": {
+        "en": "Other Reptiles",
+        "id": "Reptil lainnya"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "1464",
-      "adverbTitle": "Amphibians",
+      "adverbTitle": {
+        "en": "Amphibians",
+        "id": "Amfibi"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "1471",
-      "adverbTitle": "Worms",
+      "adverbTitle": {
+        "en": "Worms",
+        "id": "Cacing"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "1465",
-      "adverbTitle": "Arachnids",
+      "adverbTitle": {
+        "en": "Arachnids",
+        "id": "Arachnids"
+      },
       "words": "26",
       "time": "14"
     },
     {
       "id": "1466",
-      "adverbTitle": "Bees and Ants",
+      "adverbTitle": {
+        "en": "Bees and Ants",
+        "id": "Lebah dan semut"
+      },
       "words": "49",
       "time": "25"
     },
     {
       "id": "1467",
-      "adverbTitle": "Flies and Mosquitos",
+      "adverbTitle": {
+        "en": "Flies and Mosquitos",
+        "id": "Lalat dan nyamuk"
+      },
       "words": "43",
       "time": "22"
     },
     {
       "id": "3513",
-      "adverbTitle": "Butterflies and Moths",
+      "adverbTitle": {
+        "en": "Butterflies and Moths",
+        "id": "Kupu -kupu dan ngengat"
+      },
       "words": "47",
       "time": "24"
     },
     {
       "id": "1468",
-      "adverbTitle": "Beetles and Cockroaches",
+      "adverbTitle": {
+        "en": "Beetles and Cockroaches",
+        "id": "Kumbang dan kecoak"
+      },
       "words": "76",
       "time": "39"
     },
     {
       "id": "1469",
-      "adverbTitle": "Grasshoppers and Dragonflies",
+      "adverbTitle": {
+        "en": "Grasshoppers and Dragonflies",
+        "id": "Belalang dan capung"
+      },
       "words": "27",
       "time": "14"
     },
     {
       "id": "1470",
-      "adverbTitle": "Insect Pests and Parasites",
+      "adverbTitle": {
+        "en": "Insect Pests and Parasites",
+        "id": "Hama dan parasit serangga"
+      },
       "words": "43",
       "time": "22"
     },
     {
       "id": "3094",
-      "adverbTitle": "Taxonomic Rank",
+      "adverbTitle": {
+        "en": "Taxonomic Rank",
+        "id": "Peringkat taksonomi"
+      },
       "words": "31",
       "time": "16"
     }

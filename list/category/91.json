@@ -10,79 +10,118 @@
   "list": [
     {
       "id": "1873",
-      "adverbTitle": "Knowledge",
+      "adverbTitle": {
+        "en": "Knowledge",
+        "id": "Pengetahuan"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "3156",
-      "adverbTitle": "Logic & Wisdom",
+      "adverbTitle": {
+        "en": "Logic & Wisdom",
+        "id": "Logika & Kebijaksanaan"
+      },
       "words": "10",
       "time": "6"
     },
     {
       "id": "1874",
-      "adverbTitle": "Awareness or Unawareness",
+      "adverbTitle": {
+        "en": "Awareness or Unawareness",
+        "id": "Kesadaran atau ketidaksadaran"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "1919",
-      "adverbTitle": "News & Information",
+      "adverbTitle": {
+        "en": "News & Information",
+        "id": "Berita & Informasi"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "1907",
-      "adverbTitle": "Ignorance",
+      "adverbTitle": {
+        "en": "Ignorance",
+        "id": "Ketidaktahuan"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "1911",
-      "adverbTitle": "Understanding",
+      "adverbTitle": {
+        "en": "Understanding",
+        "id": "Memahami"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "1912",
-      "adverbTitle": "Lack of Understanding",
+      "adverbTitle": {
+        "en": "Lack of Understanding",
+        "id": "Kurangnya pemahaman"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "3601",
-      "adverbTitle": "Absence of Comprehension",
+      "adverbTitle": {
+        "en": "Absence of Comprehension",
+        "id": "Tidak adanya pemahaman"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "1926",
-      "adverbTitle": "Realization",
+      "adverbTitle": {
+        "en": "Realization",
+        "id": "Realisasi"
+      },
       "words": "19",
       "time": "10"
     },
     {
       "id": "1932",
-      "adverbTitle": "Remembering",
+      "adverbTitle": {
+        "en": "Remembering",
+        "id": "Mengingat"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "1928",
-      "adverbTitle": "Forgetting",
+      "adverbTitle": {
+        "en": "Forgetting",
+        "id": "Lupa"
+      },
       "words": "9",
       "time": "5"
     },
     {
       "id": "1876",
-      "adverbTitle": "Expertise",
+      "adverbTitle": {
+        "en": "Expertise",
+        "id": "Keahlian"
+      },
       "words": "22",
       "time": "12"
     },
     {
       "id": "3608",
-      "adverbTitle": "Inexpertness",
+      "adverbTitle": {
+        "en": "Inexpertness",
+        "id": "Tidak berpengalaman"
+      },
       "words": "8",
       "time": "5"
     }

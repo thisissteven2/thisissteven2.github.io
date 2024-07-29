@@ -10,109 +10,163 @@
   "list": [
     {
       "id": "2401",
-      "adverbTitle": "Cooking Appliances",
+      "adverbTitle": {
+        "en": "Cooking Appliances",
+        "id": "Peralatan memasak"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "2411",
-      "adverbTitle": "Kitchenware",
+      "adverbTitle": {
+        "en": "Kitchenware",
+        "id": "Peralatan dapur"
+      },
       "words": "63",
       "time": "32"
     },
     {
       "id": "3028",
-      "adverbTitle": "Cookware and Bakeware",
+      "adverbTitle": {
+        "en": "Cookware and Bakeware",
+        "id": "Peralatan masak dan kue"
+      },
       "words": "44",
       "time": "23"
     },
     {
       "id": "3041",
-      "adverbTitle": "Cookware Materials",
+      "adverbTitle": {
+        "en": "Cookware Materials",
+        "id": "Bahan peralatan masak"
+      },
       "words": "31",
       "time": "16"
     },
     {
       "id": "3030",
-      "adverbTitle": "Tableware",
+      "adverbTitle": {
+        "en": "Tableware",
+        "id": "Peralatan makan"
+      },
       "words": "42",
       "time": "22"
     },
     {
       "id": "3174",
-      "adverbTitle": "Flatware and Cutlery",
+      "adverbTitle": {
+        "en": "Flatware and Cutlery",
+        "id": "Perangkat lunak dan peralatan makan"
+      },
       "words": "53",
       "time": "27"
     },
     {
       "id": "3195",
-      "adverbTitle": "Drinkware",
+      "adverbTitle": {
+        "en": "Drinkware",
+        "id": "Peralatan minuman"
+      },
       "words": "39",
       "time": "20"
     },
     {
       "id": "2431",
-      "adverbTitle": "Cooking Weights and Measures",
+      "adverbTitle": {
+        "en": "Cooking Weights and Measures",
+        "id": "Memasak beban dan ukuran"
+      },
       "words": "25",
       "time": "13"
     },
     {
       "id": "2437",
-      "adverbTitle": "Dry Heat Cooking Methods",
+      "adverbTitle": {
+        "en": "Dry Heat Cooking Methods",
+        "id": "Metode memasak panas kering"
+      },
       "words": "29",
       "time": "15"
     },
     {
       "id": "2438",
-      "adverbTitle": "Wet Heat Cooking Methods",
+      "adverbTitle": {
+        "en": "Wet Heat Cooking Methods",
+        "id": "Metode Memasak Panas Basah"
+      },
       "words": "24",
       "time": "13"
     },
     {
       "id": "2440",
-      "adverbTitle": "Frying Cooking Methods",
+      "adverbTitle": {
+        "en": "Frying Cooking Methods",
+        "id": "Metode memasak menggoreng"
+      },
       "words": "20",
       "time": "11"
     },
     {
       "id": "2441",
-      "adverbTitle": "Chemical Cooking Methods",
+      "adverbTitle": {
+        "en": "Chemical Cooking Methods",
+        "id": "Metode Memasak Kimia"
+      },
       "words": "34",
       "time": "18"
     },
     {
       "id": "2442",
-      "adverbTitle": "Mechanical Cooking Methods",
+      "adverbTitle": {
+        "en": "Mechanical Cooking Methods",
+        "id": "Metode memasak mekanis"
+      },
       "words": "80",
       "time": "41"
     },
     {
       "id": "2967",
-      "adverbTitle": "Bread Baking",
+      "adverbTitle": {
+        "en": "Bread Baking",
+        "id": "Memanggang roti"
+      },
       "words": "43",
       "time": "22"
     },
     {
       "id": "2975",
-      "adverbTitle": "Prepared Food",
+      "adverbTitle": {
+        "en": "Prepared Food",
+        "id": "Makanan siap saji"
+      },
       "words": "49",
       "time": "25"
     },
     {
       "id": "2982",
-      "adverbTitle": "Food Preservation",
+      "adverbTitle": {
+        "en": "Food Preservation",
+        "id": "Pengawet Makanan"
+      },
       "words": "37",
       "time": "19"
     },
     {
       "id": "2986",
-      "adverbTitle": "Cooks and Cuisine",
+      "adverbTitle": {
+        "en": "Cooks and Cuisine",
+        "id": "Memasak dan masakan"
+      },
       "words": "41",
       "time": "21"
     },
     {
       "id": "2992",
-      "adverbTitle": "Preparing Drinks",
+      "adverbTitle": {
+        "en": "Preparing Drinks",
+        "id": "Menyiapkan minuman"
+      },
       "words": "37",
       "time": "19"
     }

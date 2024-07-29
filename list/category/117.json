@@ -10,55 +10,82 @@
   "list": [
     {
       "id": "2261",
-      "adverbTitle": "Cautiousness",
+      "adverbTitle": {
+        "en": "Cautiousness",
+        "id": "Hati -hati"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "2273",
-      "adverbTitle": "Posing a Risk",
+      "adverbTitle": {
+        "en": "Posing a Risk",
+        "id": "Menimbulkan risiko"
+      },
       "words": "18",
       "time": "10"
     },
     {
       "id": "2281",
-      "adverbTitle": "Out of Danger",
+      "adverbTitle": {
+        "en": "Out of Danger",
+        "id": "Di luar bahaya"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "2294",
-      "adverbTitle": "Taking Too Much Risk",
+      "adverbTitle": {
+        "en": "Taking Too Much Risk",
+        "id": "Mengambil terlalu banyak risiko"
+      },
       "words": "13",
       "time": "7"
     },
     {
       "id": "2327",
-      "adverbTitle": "Danger & Threat",
+      "adverbTitle": {
+        "en": "Danger & Threat",
+        "id": "Bahaya & Ancaman"
+      },
       "words": "11",
       "time": "6"
     },
     {
       "id": "2328",
-      "adverbTitle": "Asking for Trouble",
+      "adverbTitle": {
+        "en": "Asking for Trouble",
+        "id": "Meminta masalah"
+      },
       "words": "12",
       "time": "7"
     },
     {
       "id": "2332",
-      "adverbTitle": "Conflict & War",
+      "adverbTitle": {
+        "en": "Conflict & War",
+        "id": "Konflik & Perang"
+      },
       "words": "14",
       "time": "8"
     },
     {
       "id": "2333",
-      "adverbTitle": "Violence",
+      "adverbTitle": {
+        "en": "Violence",
+        "id": "Kekerasan"
+      },
       "words": "16",
       "time": "9"
     },
     {
       "id": "2340",
-      "adverbTitle": "Death",
+      "adverbTitle": {
+        "en": "Death",
+        "id": "Kematian"
+      },
       "words": "20",
       "time": "11"
     }
