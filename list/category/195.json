@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Causing Movement",
-  "description": "These classes of verbs refer to acts of making something move, such as by causing separation, change in altitude, using physical force, etc.",
+  "title": {
+    "en": "Verbs of Causing Movement",
+    "id": "Kata kerja penyebab gerakan"
+  },
+  "description": {
+    "en": "These classes of verbs refer to acts of making something move, such as by causing separation, change in altitude, using physical force, etc.",
+    "id": "Kelas -kelas kata kerja ini merujuk pada tindakan membuat sesuatu bergerak, seperti dengan menyebabkan pemisahan, perubahan ketinggian, menggunakan kekuatan fisik, dll."
+  },
   "list": [
     {
       "id": "4601",
@@ -44,5 +50,6 @@
       "words": "22",
       "time": "12"
     }
-  ]
+  ],
+  "id": 195
 }

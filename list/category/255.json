@@ -1,6 +1,12 @@
 {
-  "title": "Sports",
-  "description": "Explore the exciting world of sports with our detailed glossary. learn about various sports, players, and equipment.",
+  "title": {
+    "en": "Sports",
+    "id": "Olahraga"
+  },
+  "description": {
+    "en": "Explore the exciting world of sports with our detailed glossary. learn about various sports, players, and equipment.",
+    "id": "Jelajahi dunia olahraga yang menarik dengan glosarium kami yang terperinci. Pelajari tentang berbagai olahraga, pemain, dan peralatan."
+  },
   "list": [
     {
       "id": "5827",
@@ -380,5 +386,6 @@
       "words": "13",
       "time": "7"
     }
-  ]
+  ],
+  "id": 255
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Knowledge & Wisdom",
-  "description": "Unlock the treasure of knowledge and wisdom with our collection of English proverbs, offering timeless insights and profound life lessons.",
+  "title": {
+    "en": "Knowledge & Wisdom",
+    "id": "Pengetahuan & Kebijaksanaan"
+  },
+  "description": {
+    "en": "Unlock the treasure of knowledge and wisdom with our collection of English proverbs, offering timeless insights and profound life lessons.",
+    "id": "Buka kunci harta pengetahuan dan kebijaksanaan dengan koleksi Amsal Inggris kami, menawarkan wawasan abadi dan pelajaran hidup yang mendalam."
+  },
   "list": [
     {
       "id": "4046",
@@ -68,5 +74,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 164
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Games",
-  "description": "Do you like games? What kind of games do you like to play? Is playing games your hobby? Read these lessons to learn the related vocabulary.",
+  "title": {
+    "en": "Games",
+    "id": "permainan"
+  },
+  "description": {
+    "en": "Do you like games? What kind of games do you like to play? Is playing games your hobby? Read these lessons to learn the related vocabulary.",
+    "id": "Apakah kamu suka permainan? Jenis game apa yang Anda suka mainkan? Apakah bermain game hobi Anda? Baca pelajaran -pelajaran ini untuk mempelajari kosakata terkait."
+  },
   "list": [
     {
       "id": "1137",
@@ -170,5 +176,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 42
 }

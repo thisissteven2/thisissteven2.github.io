@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Attachment and Separation",
-  "description": "These classes of verbs represent actions of connecting or disconnecting various objects.",
+  "title": {
+    "en": "Verbs of Attachment and Separation",
+    "id": "Kata kerja lampiran dan pemisahan"
+  },
+  "description": {
+    "en": "These classes of verbs represent actions of connecting or disconnecting various objects.",
+    "id": "Kelas kata kerja ini mewakili tindakan menghubungkan atau memutuskan berbagai objek."
+  },
   "list": [
     {
       "id": "4609",
@@ -44,5 +50,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 198
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Senses and Emotions",
-  "description": "These classes of verbs are related to sensory perception and emotional expression, involving seeing, feeling, expressing, etc.",
+  "title": {
+    "en": "Verbs of Senses and Emotions",
+    "id": "Kata kerja indera dan emosi"
+  },
+  "description": {
+    "en": "These classes of verbs are related to sensory perception and emotional expression, involving seeing, feeling, expressing, etc.",
+    "id": "Kelas kata kerja ini terkait dengan persepsi sensorik dan ekspresi emosional, yang melibatkan melihat, merasakan, mengekspresikan, dll."
+  },
   "list": [
     {
       "id": "4639",
@@ -50,5 +56,6 @@
       "words": "15",
       "time": "8"
     }
-  ]
+  ],
+  "id": 199
 }

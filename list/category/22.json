@@ -1,6 +1,12 @@
 {
-  "title": "Arts and Crafts",
-  "description": "Here you will find vocabularies about arts and crafts. It is useful for talking or writing about art among art lovers.",
+  "title": {
+    "en": "Arts and Crafts",
+    "id": "Seni dan kerajinan"
+  },
+  "description": {
+    "en": "Here you will find vocabularies about arts and crafts. It is useful for talking or writing about art among art lovers.",
+    "id": "Di sini Anda akan menemukan kosakata tentang seni dan kerajinan. Ini berguna untuk berbicara atau menulis tentang seni di antara pecinta seni."
+  },
   "list": [
     {
       "id": "3997",
@@ -164,5 +170,6 @@
       "words": "22",
       "time": "12"
     }
-  ]
+  ],
+  "id": 22
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Managing Information and Objects",
-  "description": "These classes of verbs include actions related to organizing, handling, or controlling information and physical items.",
+  "title": {
+    "en": "Verbs of Managing Information and Objects",
+    "id": "Kata kerja mengelola informasi dan objek"
+  },
+  "description": {
+    "en": "These classes of verbs include actions related to organizing, handling, or controlling information and physical items.",
+    "id": "Kelas kata kerja ini mencakup tindakan yang terkait dengan pengorganisasian, penanganan, atau pengendalian informasi dan item fisik."
+  },
   "list": [
     {
       "id": "4712",
@@ -68,5 +74,6 @@
       "words": "22",
       "time": "12"
     }
-  ]
+  ],
+  "id": 202
 }

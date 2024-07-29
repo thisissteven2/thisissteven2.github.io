@@ -1,6 +1,12 @@
 {
-  "title": "Adverbs of Time and Place",
-  "description": "In this section, you will be familiarized with adverbs that add information to sentences regarding time, frequency, sequence, place, and direction.",
+  "title": {
+    "en": "Adverbs of Time and Place",
+    "id": "Kata keterangan waktu dan tempat"
+  },
+  "description": {
+    "en": "In this section, you will be familiarized with adverbs that add information to sentences regarding time, frequency, sequence, place, and direction.",
+    "id": "Di bagian ini, Anda akan dibiasakan dengan kata keterangan yang menambahkan informasi ke kalimat mengenai waktu, frekuensi, urutan, tempat, dan arah."
+  },
   "list": [
     {
       "id": "4843",
@@ -80,5 +86,6 @@
       "words": "18",
       "time": "10"
     }
-  ]
+  ],
+  "id": 187
 }

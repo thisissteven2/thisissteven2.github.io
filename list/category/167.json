@@ -1,6 +1,12 @@
 {
-  "title": "Outcome & Impact",
-  "description": "Discover impactful English proverbs on outcome and impact, illuminating the lasting effects of our actions.",
+  "title": {
+    "en": "Outcome & Impact",
+    "id": "Hasil & Dampak"
+  },
+  "description": {
+    "en": "Discover impactful English proverbs on outcome and impact, illuminating the lasting effects of our actions.",
+    "id": "Temukan Amsal Bahasa Inggris yang berdampak pada hasil dan dampak, menerangi efek abadi dari tindakan kita."
+  },
   "list": [
     {
       "id": "4087",
@@ -44,5 +50,6 @@
       "words": "13",
       "time": "7"
     }
-  ]
+  ],
+  "id": 167
 }

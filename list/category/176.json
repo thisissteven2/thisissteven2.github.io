@@ -1,6 +1,12 @@
 {
-  "title": "Human Traits & Qualities",
-  "description": "Explore the intricacies of human traits and qualities through English proverbs, reflecting timeless observations on character and behavior.",
+  "title": {
+    "en": "Human Traits & Qualities",
+    "id": "Sifat & kualitas manusia"
+  },
+  "description": {
+    "en": "Explore the intricacies of human traits and qualities through English proverbs, reflecting timeless observations on character and behavior.",
+    "id": "Jelajahi seluk -beluk sifat dan kualitas manusia melalui Amsal Inggris, yang mencerminkan pengamatan abadi tentang karakter dan perilaku."
+  },
   "list": [
     {
       "id": "4159",
@@ -62,5 +68,6 @@
       "words": "6",
       "time": "4"
     }
-  ]
+  ],
+  "id": 176
 }

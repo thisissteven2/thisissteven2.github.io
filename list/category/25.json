@@ -1,6 +1,12 @@
 {
-  "title": "Music",
-  "description": "If you want to be able to talk or write about the music you listen to or the instruments you play, check out our music-related lessons.",
+  "title": {
+    "en": "Music",
+    "id": "Musik"
+  },
+  "description": {
+    "en": "If you want to be able to talk or write about the music you listen to or the instruments you play, check out our music-related lessons.",
+    "id": "Jika Anda ingin dapat berbicara atau menulis tentang musik yang Anda dengarkan atau instrumen yang Anda mainkan, lihat pelajaran terkait musik kami."
+  },
   "list": [
     {
       "id": "644",
@@ -182,5 +188,6 @@
       "words": "57",
       "time": "29"
     }
-  ]
+  ],
+  "id": 25
 }

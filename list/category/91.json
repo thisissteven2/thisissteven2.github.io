@@ -1,6 +1,12 @@
 {
-  "title": "Knowledge & Understanding",
-  "description": "Here you can find a categorized list of all the English idioms related to Knowledge & Understanding in topics like Awareness, Expertise, Ignorance and Forgettin",
+  "title": {
+    "en": "Knowledge & Understanding",
+    "id": "Pengetahuan & Pemahaman"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Knowledge & Understanding in topics like Awareness, Expertise, Ignorance and Forgettin",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang berkaitan dengan pengetahuan & pemahaman dalam topik -topik seperti kesadaran, keahlian, ketidaktahuan dan lupa"
+  },
   "list": [
     {
       "id": "1873",
@@ -80,5 +86,6 @@
       "words": "8",
       "time": "5"
     }
-  ]
+  ],
+  "id": 91
 }

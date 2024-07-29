@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Value and Significance",
-  "description": "These classes of adjectives express judgments about the importance, worth, or significance of something, indicating its value.",
+  "title": {
+    "en": "Adjectives of Value and Significance",
+    "id": "Kata sifat nilai dan signifikansi"
+  },
+  "description": {
+    "en": "These classes of adjectives express judgments about the importance, worth, or significance of something, indicating its value.",
+    "id": "Kelas kata sifat ini menyatakan penilaian tentang pentingnya, nilai, atau pentingnya sesuatu, yang menunjukkan nilainya."
+  },
   "list": [
     {
       "id": "4303",
@@ -50,5 +56,6 @@
       "words": "18",
       "time": "10"
     }
-  ]
+  ],
+  "id": 218
 }

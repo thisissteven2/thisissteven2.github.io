@@ -1,6 +1,12 @@
 {
-  "title": "Food and Drink Preparation",
-  "description": "Here you will find our food and drink preparation guide, including essential English terms for cooking, baking, and drink preparation.",
+  "title": {
+    "en": "Food and Drink Preparation",
+    "id": "Persiapan Makanan dan Minuman"
+  },
+  "description": {
+    "en": "Here you will find our food and drink preparation guide, including essential English terms for cooking, baking, and drink preparation.",
+    "id": "Di sini Anda akan menemukan panduan persiapan makanan dan minuman kami, termasuk istilah bahasa Inggris yang penting untuk memasak, memanggang, dan persiapan minuman."
+  },
   "list": [
     {
       "id": "2401",
@@ -110,5 +116,6 @@
       "words": "37",
       "time": "19"
     }
-  ]
+  ],
+  "id": 121
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Land Transportation",
-  "description": "Enhance your English skills with our Land Transportation Vocabulary! Ranging from cars to bicycles, and other ways of transportation!",
+  "title": {
+    "en": "Land Transportation",
+    "id": "Transportasi darat"
+  },
+  "description": {
+    "en": "Enhance your English skills with our Land Transportation Vocabulary! Ranging from cars to bicycles, and other ways of transportation!",
+    "id": "Tingkatkan keterampilan bahasa Inggris Anda dengan kosa kata transportasi darat kami! Mulai dari mobil hingga sepeda, dan cara transportasi lainnya!"
+  },
   "list": [
     {
       "id": "6112",
@@ -230,5 +236,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 265
 }

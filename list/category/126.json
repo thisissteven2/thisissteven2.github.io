@@ -1,6 +1,12 @@
 {
-  "title": "Truth, Secrecy, & Deception",
-  "description": "Here you can find a categorized list of all the English idioms related to Truth, Secrecy, & Deception in topics like Keeping Secrets, Lying & Exaggeration.",
+  "title": {
+    "en": "Truth, Secrecy, & Deception",
+    "id": "Kebenaran, kerahasiaan, & penipuan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Truth, Secrecy, & Deception in topics like Keeping Secrets, Lying & Exaggeration.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kebenaran, kerahasiaan, & penipuan dalam topik -topik seperti menjaga rahasia, berbohong & berlebihan."
+  },
   "list": [
     {
       "id": "2553",
@@ -68,5 +74,6 @@
       "words": "5",
       "time": "3"
     }
-  ]
+  ],
+  "id": 126
 }

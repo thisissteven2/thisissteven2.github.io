@@ -1,6 +1,12 @@
 {
-  "title": "Collocations of 'Make- Take- Have'",
-  "description": "This part concentrates on the collocations of the verbs Make, Take, and Have, such as \"make a habit of\", \"take a sip\", \"have a stroke\", etc.",
+  "title": {
+    "en": "Collocations of 'Make- Take- Have'",
+    "id": "Collocations of 'Make- Take- have'"
+  },
+  "description": {
+    "en": "This part concentrates on the collocations of the verbs Make, Take, and Have, such as \"make a habit of\", \"take a sip\", \"have a stroke\", etc.",
+    "id": "Bagian ini berkonsentrasi pada kolokasi kata kerja membuat, mengambil, dan memiliki, seperti \"membuat kebiasaan\", \"minum\", \"memiliki stroke\", dll."
+  },
   "list": [
     {
       "id": "5111",
@@ -62,5 +68,6 @@
       "words": "17",
       "time": "9"
     }
-  ]
+  ],
+  "id": 227
 }

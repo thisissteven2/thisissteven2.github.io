@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Existence and Action",
-  "description": "These classes of verbs denote states of human existence, accommodation, ownership, as well as different types of actions such as using, etc.",
+  "title": {
+    "en": "Verbs of Existence and Action",
+    "id": "Kata kerja keberadaan dan tindakan"
+  },
+  "description": {
+    "en": "These classes of verbs denote states of human existence, accommodation, ownership, as well as different types of actions such as using, etc.",
+    "id": "Kelas kata kerja ini menunjukkan keadaan keberadaan manusia, akomodasi, kepemilikan, serta berbagai jenis tindakan seperti menggunakan, dll."
+  },
   "list": [
     {
       "id": "4566",
@@ -80,5 +86,6 @@
       "words": "15",
       "time": "8"
     }
-  ]
+  ],
+  "id": 186
 }

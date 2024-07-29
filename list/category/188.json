@@ -1,6 +1,12 @@
 {
-  "title": "Adverbs of Evaluation and Emotion",
-  "description": "These classes of adverbs are used to express positive or negative evaluations about something or indicate that specific emotions are evoked or felt.",
+  "title": {
+    "en": "Adverbs of Evaluation and Emotion",
+    "id": "Kata keterangan evaluasi dan emosi"
+  },
+  "description": {
+    "en": "These classes of adverbs are used to express positive or negative evaluations about something or indicate that specific emotions are evoked or felt.",
+    "id": "Kelas kata keterangan ini digunakan untuk mengekspresikan evaluasi positif atau negatif tentang sesuatu atau menunjukkan bahwa emosi spesifik ditimbulkan atau dirasakan."
+  },
   "list": [
     {
       "id": "4870",
@@ -50,5 +56,6 @@
       "words": "21",
       "time": "11"
     }
-  ]
+  ],
+  "id": 188
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Collocations With Other Verbs",
-  "description": "This part concentrates on collocations with other verbs, such as \"call an election\", \"pass judgment\", \"pose a threat\", etc.",
+  "title": {
+    "en": "Collocations With Other Verbs",
+    "id": "Kolokasi dengan kata kerja lainnya"
+  },
+  "description": {
+    "en": "This part concentrates on collocations with other verbs, such as \"call an election\", \"pass judgment\", \"pose a threat\", etc.",
+    "id": "Bagian ini berkonsentrasi pada kolokasi dengan kata kerja lain, seperti \"Panggilan Pemilihan\", \"Judgment\", \"Pose Ancaman\", dll."
+  },
   "list": [
     {
       "id": "5157",
@@ -50,5 +56,6 @@
       "words": "12",
       "time": "7"
     }
-  ]
+  ],
+  "id": 235
 }

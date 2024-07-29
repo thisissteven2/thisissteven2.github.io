@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Abstract Human Attributes",
-  "description": "These classes of adjectives describe abstract attributes of humans such as their intellectual, personal, interpersonal, and moral attributes.",
+  "title": {
+    "en": "Adjectives of Abstract Human Attributes",
+    "id": "Kata sifat atribut manusia abstrak"
+  },
+  "description": {
+    "en": "These classes of adjectives describe abstract attributes of humans such as their intellectual, personal, interpersonal, and moral attributes.",
+    "id": "Kelas kata sifat ini menggambarkan atribut abstrak manusia seperti atribut intelektual, pribadi, interpersonal, dan moral mereka."
+  },
   "list": [
     {
       "id": "4260",
@@ -86,5 +92,6 @@
       "words": "18",
       "time": "10"
     }
-  ]
+  ],
+  "id": 179
 }

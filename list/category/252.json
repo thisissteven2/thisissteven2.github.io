@@ -1,6 +1,12 @@
 {
-  "title": "Education",
-  "description": "Explore subjects, terms, and concepts of education in this category and practice using them in different contexts!",
+  "title": {
+    "en": "Education",
+    "id": "Pendidikan"
+  },
+  "description": {
+    "en": "Explore subjects, terms, and concepts of education in this category and practice using them in different contexts!",
+    "id": "Jelajahi subjek, istilah, dan konsep pendidikan dalam kategori ini dan praktik menggunakannya dalam konteks yang berbeda!"
+  },
   "list": [
     {
       "id": "5726",
@@ -260,5 +266,6 @@
       "words": "29",
       "time": "15"
     }
-  ]
+  ],
+  "id": 252
 }

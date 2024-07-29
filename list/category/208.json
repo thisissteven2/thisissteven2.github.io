@@ -1,6 +1,12 @@
 {
-  "title": "Topic-Related Verbs",
-  "description": "These classes of verbs are related to various subjects or themes, covering a range of actions or processes within those topics.",
+  "title": {
+    "en": "Topic-Related Verbs",
+    "id": "Kata kerja terkait topik"
+  },
+  "description": {
+    "en": "These classes of verbs are related to various subjects or themes, covering a range of actions or processes within those topics.",
+    "id": "Kelas kata kerja ini terkait dengan berbagai subjek atau tema, yang mencakup berbagai tindakan atau proses dalam topik tersebut."
+  },
   "list": [
     {
       "id": "4826",
@@ -68,5 +74,6 @@
       "words": "20",
       "time": "11"
     }
-  ]
+  ],
+  "id": 208
 }

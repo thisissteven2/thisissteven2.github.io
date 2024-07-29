@@ -1,6 +1,12 @@
 {
-  "title": "Everyday Life",
-  "description": "Here you can find a categorized list of all the English idioms related to Everyday Life in topics like Appetite, Drinking, Sleep, Fun, and Communication.",
+  "title": {
+    "en": "Everyday Life",
+    "id": "Kehidupan sehari-hari"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Everyday Life in topics like Appetite, Drinking, Sleep, Fun, and Communication.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kehidupan sehari -hari dalam topik -topik seperti nafsu makan, minum, tidur, menyenangkan, dan komunikasi."
+  },
   "list": [
     {
       "id": "2343",
@@ -80,5 +86,6 @@
       "words": "13",
       "time": "7"
     }
-  ]
+  ],
+  "id": 120
 }

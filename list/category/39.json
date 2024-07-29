@@ -1,6 +1,12 @@
 {
-  "title": "Architecture and Construction",
-  "description": "If you want to talk about architecture and construction, you need to know its related words. Read these lessons and master the words related to them.",
+  "title": {
+    "en": "Architecture and Construction",
+    "id": "Arsitektur dan Konstruksi"
+  },
+  "description": {
+    "en": "If you want to talk about architecture and construction, you need to know its related words. Read these lessons and master the words related to them.",
+    "id": "Jika Anda ingin berbicara tentang arsitektur dan konstruksi, Anda perlu mengetahui kata -kata terkait. Baca pelajaran -pelajaran ini dan kuasai kata -kata yang terkait dengannya."
+  },
   "list": [
     {
       "id": "1106",
@@ -230,5 +236,6 @@
       "words": "43",
       "time": "22"
     }
-  ]
+  ],
+  "id": 39
 }

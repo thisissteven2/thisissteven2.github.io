@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Evoking and Feeling Emotions",
-  "description": "These classes of adjectives convey emotions or feelings, describing how something evokes or relates to specific emotional experiences.",
+  "title": {
+    "en": "Adjectives of Evoking and Feeling Emotions",
+    "id": "Kata sifat membangkitkan dan merasakan emosi"
+  },
+  "description": {
+    "en": "These classes of adjectives convey emotions or feelings, describing how something evokes or relates to specific emotional experiences.",
+    "id": "Kelas kata sifat ini menyampaikan emosi atau perasaan, menggambarkan bagaimana sesuatu membangkitkan atau berhubungan dengan pengalaman emosional tertentu."
+  },
   "list": [
     {
       "id": "4277",
@@ -50,5 +56,6 @@
       "words": "26",
       "time": "14"
     }
-  ]
+  ],
+  "id": 219
 }

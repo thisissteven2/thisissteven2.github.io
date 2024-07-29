@@ -1,6 +1,12 @@
 {
-  "title": "Performing Arts",
-  "description": "Here you will find our extensive wordlist, including words related to theater, dance, music, and more.",
+  "title": {
+    "en": "Performing Arts",
+    "id": "Pentas seni"
+  },
+  "description": {
+    "en": "Here you will find our extensive wordlist, including words related to theater, dance, music, and more.",
+    "id": "Di sini Anda akan menemukan daftar kata kami yang luas, termasuk kata -kata yang berkaitan dengan teater, tarian, musik, dan banyak lagi."
+  },
   "list": [
     {
       "id": "3590",
@@ -98,5 +104,6 @@
       "words": "21",
       "time": "11"
     }
-  ]
+  ],
+  "id": 156
 }

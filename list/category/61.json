@@ -1,6 +1,12 @@
 {
-  "title": "Success",
-  "description": "Here you can find a categorized list of all the English idioms related to success in topics like Victory, Improveming oneself, Power, and Fame.",
+  "title": {
+    "en": "Success",
+    "id": "Kesuksesan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to success in topics like Victory, Improveming oneself, Power, and Fame.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kesuksesan dalam topik -topik seperti kemenangan, meningkatkan diri, kekuatan, dan ketenaran."
+  },
   "list": [
     {
       "id": "1494",
@@ -74,5 +80,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 61
 }

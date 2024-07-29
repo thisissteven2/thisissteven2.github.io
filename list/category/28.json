@@ -1,6 +1,12 @@
 {
-  "title": "Agreement and Disagreement",
-  "description": "On this page, you will find words and phrases that you can use when you want to agree or disagree with someone in English.",
+  "title": {
+    "en": "Agreement and Disagreement",
+    "id": "Perjanjian dan ketidaksepakatan"
+  },
+  "description": {
+    "en": "On this page, you will find words and phrases that you can use when you want to agree or disagree with someone in English.",
+    "id": "Di halaman ini, Anda akan menemukan kata -kata dan frasa yang dapat Anda gunakan saat Anda ingin setuju atau tidak setuju dengan seseorang dalam bahasa Inggris."
+  },
   "list": [
     {
       "id": "697",
@@ -104,5 +110,6 @@
       "words": "33",
       "time": "17"
     }
-  ]
+  ],
+  "id": 28
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Daily Life",
-  "description": "Explore a collection of English proverbs that offer timeless wisdom and practical advice for navigating the complexities of daily life.",
+  "title": {
+    "en": "Daily Life",
+    "id": "Kehidupan sehari-hari"
+  },
+  "description": {
+    "en": "Explore a collection of English proverbs that offer timeless wisdom and practical advice for navigating the complexities of daily life.",
+    "id": "Jelajahi koleksi Amsal Inggris yang menawarkan kebijaksanaan abadi dan saran praktis untuk menavigasi kompleksitas kehidupan sehari -hari."
+  },
   "list": [
     {
       "id": "4177",
@@ -44,5 +50,6 @@
       "words": "6",
       "time": "4"
     }
-  ]
+  ],
+  "id": 178
 }

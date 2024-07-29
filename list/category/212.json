@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Social Human Attributes",
-  "description": "These classes of adjectives describe characteristics related to how people interact, behave, or display qualities in social situations.",
+  "title": {
+    "en": "Adjectives of Social Human Attributes",
+    "id": "Kata sifat atribut manusia sosial"
+  },
+  "description": {
+    "en": "These classes of adjectives describe characteristics related to how people interact, behave, or display qualities in social situations.",
+    "id": "Kelas kata sifat ini menggambarkan karakteristik yang terkait dengan bagaimana orang berinteraksi, berperilaku, atau menampilkan kualitas dalam situasi sosial."
+  },
   "list": [
     {
       "id": "4254",
@@ -38,5 +44,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 212
 }

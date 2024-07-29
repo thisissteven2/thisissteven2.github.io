@@ -1,6 +1,12 @@
 {
-  "title": "Failure",
-  "description": "Here you can find a categorized list of all the English idioms related to failure in topics like Defeat, Wastefulness, Fruitlessness, Defamation & Unpopularity",
+  "title": {
+    "en": "Failure",
+    "id": "Kegagalan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to failure in topics like Defeat, Wastefulness, Fruitlessness, Defamation & Unpopularity",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kegagalan dalam topik -topik seperti kekalahan, pemborosan, ketidakberdayaan, pencemaran nama baik & ketidakpopuleran"
+  },
   "list": [
     {
       "id": "1535",
@@ -68,5 +74,6 @@
       "words": "11",
       "time": "6"
     }
-  ]
+  ],
+  "id": 72
 }

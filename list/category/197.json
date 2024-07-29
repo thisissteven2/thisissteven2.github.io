@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Making and Changing",
-  "description": "These classes of verbs are related to crafting or transforming various elements or situations.",
+  "title": {
+    "en": "Verbs of Making and Changing",
+    "id": "Kata kerja pembuatan dan perubahan"
+  },
+  "description": {
+    "en": "These classes of verbs are related to crafting or transforming various elements or situations.",
+    "id": "Kelas kata kerja ini terkait dengan kerajinan atau mengubah berbagai elemen atau situasi."
+  },
   "list": [
     {
       "id": "4632",
@@ -74,5 +80,6 @@
       "words": "16",
       "time": "9"
     }
-  ]
+  ],
+  "id": 197
 }

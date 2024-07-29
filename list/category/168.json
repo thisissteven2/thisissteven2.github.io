@@ -1,6 +1,12 @@
 {
-  "title": "Perseverance",
-  "description": "Unlock the power of perseverance with these inspiring English proverbs. Stay motivated on your journey to success.",
+  "title": {
+    "en": "Perseverance",
+    "id": "Kegigihan"
+  },
+  "description": {
+    "en": "Unlock the power of perseverance with these inspiring English proverbs. Stay motivated on your journey to success.",
+    "id": "Buka kekuatan ketekunan dengan Amsal Inggris yang menginspirasi ini. Tetap termotivasi dalam perjalanan Anda menuju kesuksesan."
+  },
   "list": [
     {
       "id": "4094",
@@ -56,5 +62,6 @@
       "words": "8",
       "time": "5"
     }
-  ]
+  ],
+  "id": 168
 }

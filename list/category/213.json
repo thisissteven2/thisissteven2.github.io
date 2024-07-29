@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Attributes of Things",
-  "description": "These classes of adjectives describe qualities or characteristics of objects or non-human entities, including their appearance, shape, size, or material.",
+  "title": {
+    "en": "Adjectives of Attributes of Things",
+    "id": "Kata sifat atribut hal"
+  },
+  "description": {
+    "en": "These classes of adjectives describe qualities or characteristics of objects or non-human entities, including their appearance, shape, size, or material.",
+    "id": "Kelas kata sifat ini menggambarkan kualitas atau karakteristik objek atau entitas non-manusia, termasuk penampilan, bentuk, ukuran, atau materialnya."
+  },
   "list": [
     {
       "id": "4238",
@@ -74,5 +80,6 @@
       "words": "16",
       "time": "9"
     }
-  ]
+  ],
+  "id": 213
 }

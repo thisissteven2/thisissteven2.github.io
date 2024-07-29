@@ -1,6 +1,12 @@
 {
-  "title": "Clothes and Fashion",
-  "description": "If you want to talk about the clothes you like to wear or your attitude toward fashion, study the following vocabulary lessons and become an expert on fashion!",
+  "title": {
+    "en": "Clothes and Fashion",
+    "id": "Pakaian dan mode"
+  },
+  "description": {
+    "en": "If you want to talk about the clothes you like to wear or your attitude toward fashion, study the following vocabulary lessons and become an expert on fashion!",
+    "id": "Jika Anda ingin berbicara tentang pakaian yang ingin Anda kenakan atau sikap Anda terhadap fashion, pelajari pelajaran kosa kata berikut dan menjadi ahli dalam fashion!"
+  },
   "list": [
     {
       "id": "3795",
@@ -170,5 +176,6 @@
       "words": "40",
       "time": "21"
     }
-  ]
+  ],
+  "id": 19
 }

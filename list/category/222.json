@@ -1,6 +1,12 @@
 {
-  "title": "Relational Adjectives",
-  "description": "These classes of adjectives describe relationships or connections between entities or concepts, showcasing associations or comparisons between things.",
+  "title": {
+    "en": "Relational Adjectives",
+    "id": "Kata sifat relasional"
+  },
+  "description": {
+    "en": "These classes of adjectives describe relationships or connections between entities or concepts, showcasing associations or comparisons between things.",
+    "id": "Kelas kata sifat ini menggambarkan hubungan atau koneksi antara entitas atau konsep, menampilkan asosiasi atau perbandingan antara berbagai hal."
+  },
   "list": [
     {
       "id": "4352",
@@ -128,5 +134,6 @@
       "words": "32",
       "time": "17"
     }
-  ]
+  ],
+  "id": 222
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Cause and Result",
-  "description": "These classes of adjectives indicate reasons behind actions or events and describe what happens as a result, revealing causal relationships.",
+  "title": {
+    "en": "Adjectives of Cause and Result",
+    "id": "Kata sifat sebab dan akibat"
+  },
+  "description": {
+    "en": "These classes of adjectives indicate reasons behind actions or events and describe what happens as a result, revealing causal relationships.",
+    "id": "Kelas kata sifat ini menunjukkan alasan di balik tindakan atau peristiwa dan menggambarkan apa yang terjadi sebagai hasilnya, mengungkapkan hubungan kausal."
+  },
   "list": [
     {
       "id": "4373",
@@ -44,5 +50,6 @@
       "words": "28",
       "time": "15"
     }
-  ]
+  ],
+  "id": 221
 }

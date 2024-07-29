@@ -1,6 +1,12 @@
 {
-  "title": "Decision & Control",
-  "description": "Here you can find a categorized list of all the English idioms related to Decision & Control in topics like Force & Obligation, Indecisiveness, and obedience.",
+  "title": {
+    "en": "Decision & Control",
+    "id": "Keputusan & Kontrol"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Decision & Control in topics like Force & Obligation, Indecisiveness, and obedience.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan keputusan & kontrol dalam topik -topik seperti kekuatan & kewajiban, keraguan, dan kepatuhan."
+  },
   "list": [
     {
       "id": "1764",
@@ -62,5 +68,6 @@
       "words": "21",
       "time": "11"
     }
-  ]
+  ],
+  "id": 86
 }

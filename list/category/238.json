@@ -1,6 +1,12 @@
 {
-  "title": "Pronouns and Determiners",
-  "description": "This section is designed to help you explore and understand the all types of pronouns and determiners through a simple and organized categorization.",
+  "title": {
+    "en": "Pronouns and Determiners",
+    "id": "Kata ganti dan penentu"
+  },
+  "description": {
+    "en": "This section is designed to help you explore and understand the all types of pronouns and determiners through a simple and organized categorization.",
+    "id": "Bagian ini dirancang untuk membantu Anda mengeksplorasi dan memahami semua jenis kata ganti dan penentu melalui kategorisasi yang sederhana dan terorganisir."
+  },
   "list": [
     {
       "id": "5441",
@@ -92,5 +98,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 238
 }

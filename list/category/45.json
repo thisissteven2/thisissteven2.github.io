@@ -1,6 +1,12 @@
 {
-  "title": "500 Most Common English Verbs",
-  "description": "Here you can learn 500 most common verbs in English. Each lesson contains 25 words, which makes your learning process a lot easier.",
+  "title": {
+    "en": "500 Most Common English Verbs",
+    "id": "500 kata kerja bahasa Inggris yang paling umum"
+  },
+  "description": {
+    "en": "Here you can learn 500 most common verbs in English. Each lesson contains 25 words, which makes your learning process a lot easier.",
+    "id": "Di sini Anda dapat mempelajari 500 kata kerja paling umum dalam bahasa Inggris. Setiap pelajaran berisi 25 kata, yang membuat proses belajar Anda jauh lebih mudah."
+  },
   "list": [
     {
       "id": "1174",
@@ -122,5 +128,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 45
 }

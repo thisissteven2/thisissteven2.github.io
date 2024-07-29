@@ -1,6 +1,12 @@
 {
-  "title": "Situations & States",
-  "description": "Explore a rich collection of English proverbs on situations and states, encapsulating the wisdom of ages to navigate life's varied circumstances with clarity.",
+  "title": {
+    "en": "Situations & States",
+    "id": "Situasi & Negara"
+  },
+  "description": {
+    "en": "Explore a rich collection of English proverbs on situations and states, encapsulating the wisdom of ages to navigate life's varied circumstances with clarity.",
+    "id": "Jelajahi koleksi peribahasa Inggris yang kaya tentang situasi dan negara bagian, merangkum kebijaksanaan usia untuk menavigasi berbagai keadaan kehidupan dengan kejelasan."
+  },
   "list": [
     {
       "id": "4066",
@@ -62,5 +68,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 165
 }

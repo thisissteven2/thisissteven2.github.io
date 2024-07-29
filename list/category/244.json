@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Off' & 'In'",
-  "description": "In this lesson we have prepared a list of phrasal verbs with 'off' and 'in' as their particle, such as wash off, kick off, shut in, fill in, etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Off' & 'In'",
+    "id": "Kata kerja phrasal menggunakan 'off' dan 'in'"
+  },
+  "description": {
+    "en": "In this lesson we have prepared a list of phrasal verbs with 'off' and 'in' as their particle, such as wash off, kick off, shut in, fill in, etc.",
+    "id": "Dalam pelajaran ini kami telah menyiapkan daftar kata kerja phrasal dengan 'off' dan 'in' sebagai partikel mereka, seperti mencuci, memulai, menutup, mengisi, dll."
+  },
   "list": [
     {
       "id": "5540",
@@ -80,5 +86,6 @@
       "words": "40",
       "time": "21"
     }
-  ]
+  ],
+  "id": 244
 }

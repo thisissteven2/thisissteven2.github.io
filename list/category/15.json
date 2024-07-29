@@ -1,6 +1,12 @@
 {
-  "title": "Animals",
-  "description": "Learn about different animals and their characteristics. Explore mammals, rodents, their young, sounds, coverings, and more in this category.",
+  "title": {
+    "en": "Animals",
+    "id": "Hewan"
+  },
+  "description": {
+    "en": "Learn about different animals and their characteristics. Explore mammals, rodents, their young, sounds, coverings, and more in this category.",
+    "id": "Pelajari tentang hewan yang berbeda dan karakteristiknya. Jelajahi mamalia, tikus, anak -anak muda, suara, penutup, dan lainnya dalam kategori ini."
+  },
   "list": [
     {
       "id": "525",
@@ -332,5 +338,6 @@
       "words": "31",
       "time": "16"
     }
-  ]
+  ],
+  "id": 15
 }

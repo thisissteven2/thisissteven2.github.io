@@ -1,6 +1,12 @@
 {
-  "title": "Compound Prepositions",
-  "description": "This part concentrates on Compound Prepositions, going over phrases like \"along with\", \"in aid of\", \"in view of\", \"in sync with\", \"owing to\", etc.",
+  "title": {
+    "en": "Compound Prepositions",
+    "id": "Preposisi majemuk"
+  },
+  "description": {
+    "en": "This part concentrates on Compound Prepositions, going over phrases like \"along with\", \"in aid of\", \"in view of\", \"in sync with\", \"owing to\", etc.",
+    "id": "Bagian ini berkonsentrasi pada preposisi majemuk, membahas frasa seperti \"bersama dengan\", \"dalam bantuan\", \"mengingat\", \"selaras dengan\", \"karena\", dll."
+  },
   "list": [
     {
       "id": "5018",
@@ -68,5 +74,6 @@
       "words": "8",
       "time": "5"
     }
-  ]
+  ],
+  "id": 225
 }

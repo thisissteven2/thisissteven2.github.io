@@ -1,6 +1,12 @@
 {
-  "title": "Prepositions",
-  "description": "This section categorizes all English prepositions based on their function and the relations they indicate between sentence elements.",
+  "title": {
+    "en": "Prepositions",
+    "id": "Preposisi"
+  },
+  "description": {
+    "en": "This section categorizes all English prepositions based on their function and the relations they indicate between sentence elements.",
+    "id": "Bagian ini mengkategorikan semua preposisi bahasa Inggris berdasarkan fungsinya dan hubungan yang mereka tunjukkan antara elemen kalimat."
+  },
   "list": [
     {
       "id": "5164",
@@ -206,5 +212,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 236
 }

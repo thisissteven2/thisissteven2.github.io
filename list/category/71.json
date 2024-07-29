@@ -1,6 +1,12 @@
 {
-  "title": "Personal Care",
-  "description": "Take a look at our vocabulary list related to personal care including words related to taking the best care of your skin!",
+  "title": {
+    "en": "Personal Care",
+    "id": "Perawatan Pribadi"
+  },
+  "description": {
+    "en": "Take a look at our vocabulary list related to personal care including words related to taking the best care of your skin!",
+    "id": "Lihatlah daftar kosa kata kami yang terkait dengan perawatan pribadi termasuk kata -kata yang terkait dengan merawat kulit Anda yang terbaik!"
+  },
   "list": [
     {
       "id": "1522",
@@ -98,5 +104,6 @@
       "words": "11",
       "time": "6"
     }
-  ]
+  ],
+  "id": 71
 }

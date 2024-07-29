@@ -1,6 +1,12 @@
 {
-  "title": "Food Ingredients",
-  "description": "Learn essential food ingredients for cooking and recipes in our extensive wordlist, including everything from cheeses to herbs and more.",
+  "title": {
+    "en": "Food Ingredients",
+    "id": "Bahan makanan"
+  },
+  "description": {
+    "en": "Learn essential food ingredients for cooking and recipes in our extensive wordlist, including everything from cheeses to herbs and more.",
+    "id": "Pelajari bahan makanan penting untuk memasak dan resep dalam daftar kata kami yang luas, termasuk semuanya mulai dari keju hingga rempah -rempah dan banyak lagi."
+  },
   "list": [
     {
       "id": "1722",
@@ -176,5 +182,6 @@
       "words": "32",
       "time": "17"
     }
-  ]
+  ],
+  "id": 81
 }

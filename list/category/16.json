@@ -1,6 +1,12 @@
 {
-  "title": "Appearance",
-  "description": "You might want to talk about what people look like. To do so, you need to know how to describe their physical appearance. Here you will find useful vocabulary.",
+  "title": {
+    "en": "Appearance",
+    "id": "Penampilan"
+  },
+  "description": {
+    "en": "You might want to talk about what people look like. To do so, you need to know how to describe their physical appearance. Here you will find useful vocabulary.",
+    "id": "Anda mungkin ingin berbicara tentang seperti apa penampilan orang. Untuk melakukannya, Anda perlu tahu cara menggambarkan penampilan fisik mereka. Di sini Anda akan menemukan kosa kata yang bermanfaat."
+  },
   "list": [
     {
       "id": "526",
@@ -110,5 +116,6 @@
       "words": "19",
       "time": "10"
     }
-  ]
+  ],
+  "id": 16
 }

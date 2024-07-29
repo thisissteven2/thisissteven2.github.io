@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Together', 'Against', 'Apart', & others",
-  "description": "This lesson gives you phrasal verbs that are formed with 'Together', 'Against', 'Apart', & others, such as go together, run against, pick apart, etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Together', 'Against', 'Apart', & others",
+    "id": "Kata kerja phrasal menggunakan 'bersama', 'melawan', 'apart', & lainnya"
+  },
+  "description": {
+    "en": "This lesson gives you phrasal verbs that are formed with 'Together', 'Against', 'Apart', & others, such as go together, run against, pick apart, etc.",
+    "id": "Pelajaran ini memberi Anda kata kerja phrasal yang dibentuk dengan 'bersama', 'melawan', 'apart', & lainnya, seperti pergi bersama, berlari melawan, memilih, dll."
+  },
   "list": [
     {
       "id": "5603",
@@ -68,5 +74,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 250
 }

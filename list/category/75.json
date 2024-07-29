@@ -1,6 +1,12 @@
 {
-  "title": "Personality",
-  "description": "Here you can find a categorized list of all the English idioms related to personality in topics like Unpleasant Traits or being Skilled, Smart, or Odd.",
+  "title": {
+    "en": "Personality",
+    "id": "Kepribadian"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to personality in topics like Unpleasant Traits or being Skilled, Smart, or Odd.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kepribadian dalam topik -topik seperti sifat yang tidak menyenangkan atau menjadi terampil, pintar, atau ganjil."
+  },
   "list": [
     {
       "id": "1620",
@@ -74,5 +80,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 75
 }

@@ -1,6 +1,12 @@
 {
-  "title": "250 Most Common English Phrasal Verbs",
-  "description": "Here you can learn 250 most common phrasal verbs in English. Each lesson is made up of 25 words, which makes your learning process much easier.",
+  "title": {
+    "en": "250 Most Common English Phrasal Verbs",
+    "id": "250 kata kerja phrasal bahasa Inggris yang paling umum"
+  },
+  "description": {
+    "en": "Here you can learn 250 most common phrasal verbs in English. Each lesson is made up of 25 words, which makes your learning process much easier.",
+    "id": "Di sini Anda dapat belajar 250 kata kerja phrasal paling umum dalam bahasa Inggris. Setiap pelajaran terdiri dari 25 kata, yang membuat proses belajar Anda lebih mudah."
+  },
   "list": [
     {
       "id": "1175",
@@ -62,5 +68,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 46
 }

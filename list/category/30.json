@@ -1,6 +1,12 @@
 {
-  "title": "Certainty and Doubt",
-  "description": "Review this lesson and expand your vocabulary in order to talk about \"certainty and doubt\" on various topics.",
+  "title": {
+    "en": "Certainty and Doubt",
+    "id": "Kepastian dan keraguan"
+  },
+  "description": {
+    "en": "Review this lesson and expand your vocabulary in order to talk about \"certainty and doubt\" on various topics.",
+    "id": "Tinjau pelajaran ini dan perluas kosakata Anda untuk membicarakan \"kepastian dan keraguan\" pada berbagai topik."
+  },
   "list": [
     {
       "id": "727",
@@ -56,5 +62,6 @@
       "words": "35",
       "time": "18"
     }
-  ]
+  ],
+  "id": 30
 }

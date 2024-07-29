@@ -1,6 +1,12 @@
 {
-  "title": "Notions & Feelings",
-  "description": "Explore notions and feelings through insightful English proverbs in our word list, capturing the wisdom of emotions and human experiences.",
+  "title": {
+    "en": "Notions & Feelings",
+    "id": "Gagasan & perasaan"
+  },
+  "description": {
+    "en": "Explore notions and feelings through insightful English proverbs in our word list, capturing the wisdom of emotions and human experiences.",
+    "id": "Jelajahi gagasan dan perasaan melalui Amsal Bahasa Inggris yang berwawasan dalam daftar kata kami, menangkap kebijaksanaan emosi dan pengalaman manusia."
+  },
   "list": [
     {
       "id": "4045",
@@ -62,5 +68,6 @@
       "words": "6",
       "time": "4"
     }
-  ]
+  ],
+  "id": 163
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Colors and Shapes",
-  "description": "Colors and shapes are important in how we see and create art. Learn about different colors and shapes to improve your visual understanding and creativity.",
+  "title": {
+    "en": "Colors and Shapes",
+    "id": "Warna dan bentuk"
+  },
+  "description": {
+    "en": "Colors and shapes are important in how we see and create art. Learn about different colors and shapes to improve your visual understanding and creativity.",
+    "id": "Warna dan bentuk penting dalam cara kita melihat dan menciptakan seni. Pelajari tentang berbagai warna dan bentuk untuk meningkatkan pemahaman visual dan kreativitas Anda."
+  },
   "list": [
     {
       "id": "528",
@@ -134,5 +140,6 @@
       "words": "45",
       "time": "23"
     }
-  ]
+  ],
+  "id": 18
 }

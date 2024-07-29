@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Evaluation and Comparison",
-  "description": "These classes of adjectives are used to judge, assess, evaluate, or compare things based on their qualities or characteristics.",
+  "title": {
+    "en": "Adjectives of Evaluation and Comparison",
+    "id": "Kata sifat evaluasi dan perbandingan"
+  },
+  "description": {
+    "en": "These classes of adjectives are used to judge, assess, evaluate, or compare things based on their qualities or characteristics.",
+    "id": "Kelas kata sifat ini digunakan untuk menilai, menilai, mengevaluasi, atau membandingkan hal -hal berdasarkan kualitas atau karakteristik mereka."
+  },
   "list": [
     {
       "id": "4339",
@@ -44,5 +50,6 @@
       "words": "22",
       "time": "12"
     }
-  ]
+  ],
+  "id": 220
 }

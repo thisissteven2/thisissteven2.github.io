@@ -1,6 +1,12 @@
 {
-  "title": "Adverbs of Manner Related to Humans",
-  "description": "These classes of adverbs describe various aspects of human behaviors and actions, such as their morality, seriousness, intentionality, vigilance, etc.",
+  "title": {
+    "en": "Adverbs of Manner Related to Humans",
+    "id": "Kata keterangan cara yang terkait dengan manusia"
+  },
+  "description": {
+    "en": "These classes of adverbs describe various aspects of human behaviors and actions, such as their morality, seriousness, intentionality, vigilance, etc.",
+    "id": "Kelas kata keterangan ini menggambarkan berbagai aspek perilaku dan tindakan manusia, seperti moralitas, keseriusan, intensionalitas, kewaspadaan, dll."
+  },
   "list": [
     {
       "id": "4882",
@@ -122,5 +128,6 @@
       "words": "28",
       "time": "15"
     }
-  ]
+  ],
+  "id": 190
 }

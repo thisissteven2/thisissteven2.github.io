@@ -1,6 +1,12 @@
 {
-  "title": "500 Most Common English Nouns",
-  "description": "Here you can learn the 500 most common nouns in English. We have divided them into lessons of 25 words to speed up your learning process.",
+  "title": {
+    "en": "500 Most Common English Nouns",
+    "id": "500 kata benda bahasa Inggris yang paling umum"
+  },
+  "description": {
+    "en": "Here you can learn the 500 most common nouns in English. We have divided them into lessons of 25 words to speed up your learning process.",
+    "id": "Di sini Anda dapat mempelajari 500 kata benda paling umum dalam bahasa Inggris. Kami telah membaginya menjadi pelajaran 25 kata untuk mempercepat proses belajar Anda."
+  },
   "list": [
     {
       "id": "1178",
@@ -122,5 +128,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 49
 }

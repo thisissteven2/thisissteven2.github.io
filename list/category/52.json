@@ -1,6 +1,12 @@
 {
-  "title": "Home and Garden",
-  "description": "In this lesson, you are presented with a vocabulary wordlist related to homes and gardens, which could be useful when you want to talk about them.",
+  "title": {
+    "en": "Home and Garden",
+    "id": "Rumah dan taman"
+  },
+  "description": {
+    "en": "In this lesson, you are presented with a vocabulary wordlist related to homes and gardens, which could be useful when you want to talk about them.",
+    "id": "Dalam pelajaran ini, Anda disajikan dengan daftar kata kosa kata yang terkait dengan rumah dan kebun, yang bisa berguna ketika Anda ingin membicarakannya."
+  },
   "list": [
     {
       "id": "1310",
@@ -164,5 +170,6 @@
       "words": "27",
       "time": "14"
     }
-  ]
+  ],
+  "id": 52
 }

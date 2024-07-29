@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Power Relations",
-  "description": "These classes of verbs describe actions concerning the dynamics of power, authority, or control between individuals or groups.",
+  "title": {
+    "en": "Verbs of Power Relations",
+    "id": "Kata kerja hubungan kekuasaan"
+  },
+  "description": {
+    "en": "These classes of verbs describe actions concerning the dynamics of power, authority, or control between individuals or groups.",
+    "id": "Kelas -kelas kata kerja ini menggambarkan tindakan mengenai dinamika kekuasaan, otoritas, atau kontrol antara individu atau kelompok."
+  },
   "list": [
     {
       "id": "4719",
@@ -44,5 +50,6 @@
       "words": "21",
       "time": "11"
     }
-  ]
+  ],
+  "id": 207
 }

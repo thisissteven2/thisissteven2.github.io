@@ -1,6 +1,12 @@
 {
-  "title": "Certainty & Possibility",
-  "description": "Here you can find a categorized list of all the English idioms related to Certainty & Possibility in topics like Uncertainty, Impossibility, Luck, and Chance.",
+  "title": {
+    "en": "Certainty & Possibility",
+    "id": "Kepastian & kemungkinan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Certainty & Possibility in topics like Uncertainty, Impossibility, Luck, and Chance.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kepastian & kemungkinan dalam topik -topik seperti ketidakpastian, ketidakmungkinan, keberuntungan, dan kebetulan."
+  },
   "list": [
     {
       "id": "2185",
@@ -68,5 +74,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 115
 }

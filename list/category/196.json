@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Manual Action",
-  "description": "These classes of verbs denote actions that are done with hands, such as changing the shape of something, writing and marking, placement and decoration, etc.",
+  "title": {
+    "en": "Verbs of Manual Action",
+    "id": "Kata kerja tindakan manual"
+  },
+  "description": {
+    "en": "These classes of verbs denote actions that are done with hands, such as changing the shape of something, writing and marking, placement and decoration, etc.",
+    "id": "Kelas kata kerja ini menunjukkan tindakan yang dilakukan dengan tangan, seperti mengubah bentuk sesuatu, menulis dan menandai, penempatan dan dekorasi, dll."
+  },
   "list": [
     {
       "id": "4619",
@@ -74,5 +80,6 @@
       "words": "23",
       "time": "12"
     }
-  ]
+  ],
+  "id": 196
 }

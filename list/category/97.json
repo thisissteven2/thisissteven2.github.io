@@ -1,6 +1,12 @@
 {
-  "title": "Amounts",
-  "description": "Here you can find a categorized list of all the English idioms related to Amounts in topics like Distance, Extent, Intensity, Speed, and numbers.",
+  "title": {
+    "en": "Amounts",
+    "id": "Jumlah"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Amounts in topics like Distance, Extent, Intensity, Speed, and numbers.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan jumlah dalam topik seperti jarak, tingkat, intensitas, kecepatan, dan angka."
+  },
   "list": [
     {
       "id": "1941",
@@ -44,5 +50,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 97
 }

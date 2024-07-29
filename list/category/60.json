@@ -1,6 +1,12 @@
 {
-  "title": "Relationship",
-  "description": "Here you can find a categorized list of all the English idioms related to relationships in topics like Friendship, Reconciliation, Feud, Family, and Marriage.",
+  "title": {
+    "en": "Relationship",
+    "id": "Hubungan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to relationships in topics like Friendship, Reconciliation, Feud, Family, and Marriage.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan hubungan dalam topik -topik seperti persahabatan, rekonsiliasi, perseteruan, keluarga, dan pernikahan."
+  },
   "list": [
     {
       "id": "1484",
@@ -56,5 +62,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 60
 }

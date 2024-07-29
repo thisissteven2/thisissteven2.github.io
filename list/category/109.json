@@ -1,6 +1,12 @@
 {
-  "title": "Difficulty",
-  "description": "Here you can find a categorized list of all the English idioms related to Difficulty in topics like Troublemaking, Facing Unpleasantness, Acceptance & Relief.",
+  "title": {
+    "en": "Difficulty",
+    "id": "Kesulitan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Difficulty in topics like Troublemaking, Facing Unpleasantness, Acceptance & Relief.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan kesulitan dalam topik -topik seperti pengacau, menghadapi ketidaknyamanan, penerimaan & bantuan."
+  },
   "list": [
     {
       "id": "2109",
@@ -68,5 +74,6 @@
       "words": "9",
       "time": "5"
     }
-  ]
+  ],
+  "id": 109
 }

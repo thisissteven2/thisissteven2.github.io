@@ -1,6 +1,12 @@
 {
-  "title": "Wealth & Success",
-  "description": "Discover the path to prosperity and achievement with these English proverbs on wealth and success. Unlock your potential today.",
+  "title": {
+    "en": "Wealth & Success",
+    "id": "Kekayaan & Sukses"
+  },
+  "description": {
+    "en": "Discover the path to prosperity and achievement with these English proverbs on wealth and success. Unlock your potential today.",
+    "id": "Temukan jalan menuju kemakmuran dan pencapaian dengan Amsal Inggris ini tentang kekayaan dan kesuksesan. Buka kunci potensi Anda hari ini."
+  },
   "list": [
     {
       "id": "4105",
@@ -62,5 +68,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 171
 }

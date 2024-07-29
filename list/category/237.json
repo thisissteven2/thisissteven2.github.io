@@ -1,6 +1,12 @@
 {
-  "title": "Basic Nouns",
-  "description": "Here you will discover various lists of basic English nouns. They are sorted by different subjects or topics to help you find what you need.",
+  "title": {
+    "en": "Basic Nouns",
+    "id": "Kata benda dasar"
+  },
+  "description": {
+    "en": "Here you will discover various lists of basic English nouns. They are sorted by different subjects or topics to help you find what you need.",
+    "id": "Di sini Anda akan menemukan berbagai daftar kata benda bahasa Inggris dasar. Mereka diurutkan berdasarkan berbagai subjek atau topik untuk membantu Anda menemukan apa yang Anda butuhkan."
+  },
   "list": [
     {
       "id": "5336",
@@ -146,5 +152,6 @@
       "words": "52",
       "time": "27"
     }
-  ]
+  ],
+  "id": 237
 }

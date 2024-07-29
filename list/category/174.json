@@ -1,6 +1,12 @@
 {
-  "title": "Social Interaction",
-  "description": "Unlock the wisdom of English proverbs on social interaction. Explore timeless sayings that shed light on human relationships and communication.",
+  "title": {
+    "en": "Social Interaction",
+    "id": "Interaksi sosial"
+  },
+  "description": {
+    "en": "Unlock the wisdom of English proverbs on social interaction. Explore timeless sayings that shed light on human relationships and communication.",
+    "id": "Buka Kunci Kebijaksanaan Amsal Bahasa Inggris tentang Interaksi Sosial. Jelajahi perkataan abadi yang menjelaskan hubungan dan komunikasi manusia."
+  },
   "list": [
     {
       "id": "4144",
@@ -56,5 +62,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 174
 }

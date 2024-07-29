@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Course of Events",
-  "description": "These classes of verbs illustrate actions that describe the progression or unfolding of events or sequences over time.",
+  "title": {
+    "en": "Verbs of Course of Events",
+    "id": "Kata kerja acara"
+  },
+  "description": {
+    "en": "These classes of verbs illustrate actions that describe the progression or unfolding of events or sequences over time.",
+    "id": "Kelas -kelas kata kerja ini menggambarkan tindakan yang menggambarkan perkembangan atau pembukaan peristiwa atau urutan dari waktu ke waktu."
+  },
   "list": [
     {
       "id": "4752",
@@ -44,5 +50,6 @@
       "words": "20",
       "time": "11"
     }
-  ]
+  ],
+  "id": 204
 }

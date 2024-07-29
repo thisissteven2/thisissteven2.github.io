@@ -1,6 +1,12 @@
 {
-  "title": "Relational Adverbs",
-  "description": "These classes of adverbs describe events or behaviors in relation to a specific subject or field of activity, such as medicine, art, science, etc.",
+  "title": {
+    "en": "Relational Adverbs",
+    "id": "Kata keterangan relasional"
+  },
+  "description": {
+    "en": "These classes of adverbs describe events or behaviors in relation to a specific subject or field of activity, such as medicine, art, science, etc.",
+    "id": "Kelas kata keterangan ini menggambarkan peristiwa atau perilaku dalam kaitannya dengan subjek atau bidang aktivitas tertentu, seperti kedokteran, seni, sains, dll."
+  },
   "list": [
     {
       "id": "4936",
@@ -38,5 +44,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 193
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Up'",
-  "description": "In this section, we have prepared a list of phrasal verbs that contain 'up' as their particle, such as give up, level up, etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Up'",
+    "id": "Kata kerja phrasal menggunakan 'up'"
+  },
+  "description": {
+    "en": "In this section, we have prepared a list of phrasal verbs that contain 'up' as their particle, such as give up, level up, etc.",
+    "id": "Di bagian ini, kami telah menyiapkan daftar kata kerja phrasal yang berisi 'up' sebagai partikel mereka, seperti menyerah, naik level, dll."
+  },
   "list": [
     {
       "id": "5510",
@@ -134,5 +140,6 @@
       "words": "20",
       "time": "11"
     }
-  ]
+  ],
+  "id": 242
 }

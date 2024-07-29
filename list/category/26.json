@@ -1,6 +1,12 @@
 {
-  "title": "Media and Communication",
-  "description": "Undoubtedly, media and communication play an important role in our everyday life. Here, you will find the vocabulary related to media and broadcasting.",
+  "title": {
+    "en": "Media and Communication",
+    "id": "Media dan komunikasi"
+  },
+  "description": {
+    "en": "Undoubtedly, media and communication play an important role in our everyday life. Here, you will find the vocabulary related to media and broadcasting.",
+    "id": "Tidak diragukan lagi, media dan komunikasi memainkan peran penting dalam kehidupan kita sehari -hari. Di sini, Anda akan menemukan kosa kata yang terkait dengan media dan penyiaran."
+  },
   "list": [
     {
       "id": "4202",
@@ -176,5 +182,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 26
 }

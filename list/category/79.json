@@ -1,6 +1,12 @@
 {
-  "title": "Work & Money",
-  "description": "Here you can find a categorized list of all the English idioms related to Work & Money in topics like Earning Money, Wealth & Luxury, Price & Money and Saving.",
+  "title": {
+    "en": "Work & Money",
+    "id": "Bekerja & Uang"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Work & Money in topics like Earning Money, Wealth & Luxury, Price & Money and Saving.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan pekerjaan & uang dalam topik -topik seperti menghasilkan uang, kekayaan & kemewahan, harga & uang dan tabungan."
+  },
   "list": [
     {
       "id": "3920",
@@ -74,5 +80,6 @@
       "words": "18",
       "time": "10"
     }
-  ]
+  ],
+  "id": 79
 }

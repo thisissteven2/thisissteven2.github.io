@@ -1,48 +1,38 @@
-const { enToId } = require("./utils");
 const fs = require("fs");
-const path = require("path");
+const { enToId } = require("./utils");
 
-// Function to read and process all files in a folder
-function processFilesInFolder(folderPath) {
-  // Read all files in the folder
-  fs.readdir(folderPath, (err, files) => {
-    if (err) {
-      console.error("Error reading folder:", err);
-      return;
-    }
+async function translateToId(cat) {
+  console.log(`translating ${cat.id}`);
 
-    // Process each file
-    files.forEach((file) => {
-      const filePath = path.join(folderPath, file);
+  const category = JSON.parse(fs.readFileSync(`./list/category/${cat.id}.json`));
+  const translatedAdverbTitles = await enToId(category.list.map((item) => item.adverbTitle));
 
-      // Read the file content
-      fs.readFile(filePath, "utf8", (err, data) => {
-        if (err) {
-          console.error("Error reading file:", err);
-          return;
-        }
+  return {
+    ...category,
+    list: category.list.map((item, i) => ({
+      ...item,
+      adverbTitle: {
+        en: item.adverbTitle,
+        id: translatedAdverbTitles[i],
+      },
+    })),
+  };
+}
 
-        // Parse the file content as JSON
-        let jsonData;
-        try {
-          jsonData = JSON.parse(data);
-        } catch (parseErr) {
-          console.error("Error parsing JSON:", parseErr);
-          return;
-        }
+async function main() {
+  const categories = JSON.parse(fs.readFileSync("./list/categories.json"));
 
-        // Write the modified content back to the file
-        fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), (writeErr) => {
-          if (writeErr) {
-            console.error("Error writing file:", writeErr);
-          } else {
-            console.log(`File processed: ${filePath}`);
-          }
-        });
-      });
-    });
+  const translated = [];
+
+  for (let i = 0; i < categories.length; i += 10) {
+    const batch = categories.slice(i, i + 10);
+    const result = await Promise.all(batch.map((category) => translateToId(category)));
+    translated.push(...result);
+  }
+
+  translated.forEach((category) => {
+    fs.writeFileSync(`./list/category/${category.id}.json`, JSON.stringify(category, null, 2));
   });
 }
 
-const folderPath = path.join(__dirname, "found");
-processFilesInFolder(folderPath);
+main().catch(console.error);

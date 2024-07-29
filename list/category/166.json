@@ -1,6 +1,12 @@
 {
-  "title": "Qualities",
-  "description": "Discover a treasury of English proverbs focused on qualities, revealing timeless insights about virtues, traits, and attributes that shape individuals.",
+  "title": {
+    "en": "Qualities",
+    "id": "Kualitas"
+  },
+  "description": {
+    "en": "Discover a treasury of English proverbs focused on qualities, revealing timeless insights about virtues, traits, and attributes that shape individuals.",
+    "id": "Temukan perbendaharaan Amsal Inggris yang berfokus pada kualitas, mengungkapkan wawasan abadi tentang kebajikan, sifat, dan atribut yang membentuk individu."
+  },
   "list": [
     {
       "id": "4076",
@@ -68,5 +74,6 @@
       "words": "9",
       "time": "5"
     }
-  ]
+  ],
+  "id": 166
 }

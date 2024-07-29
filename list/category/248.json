@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Back', 'Through', 'With', 'At', & 'By'",
-  "description": "Here you are provided with a list of phrasal verbs with 'Back', 'Through', 'With', 'At', & 'By' as their particle, such as bring back, read through, lay by etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Back', 'Through', 'With', 'At', & 'By'",
+    "id": "Kata kerja phrasal menggunakan 'back', 'through', 'with', 'at', & 'by'"
+  },
+  "description": {
+    "en": "Here you are provided with a list of phrasal verbs with 'Back', 'Through', 'With', 'At', & 'By' as their particle, such as bring back, read through, lay by etc.",
+    "id": "Di sini Anda diberi daftar kata kerja phrasal dengan 'back', 'through', 'with', 'at', & 'oleh' sebagai partikel mereka, seperti membawa kembali, membaca, berbaring dll."
+  },
   "list": [
     {
       "id": "5582",
@@ -62,5 +68,6 @@
       "words": "13",
       "time": "7"
     }
-  ]
+  ],
+  "id": 248
 }

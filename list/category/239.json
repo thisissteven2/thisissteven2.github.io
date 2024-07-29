@@ -1,6 +1,12 @@
 {
-  "title": "Conjunctions",
-  "description": "Here you will discover a clear breakdown of all types of conjunction, helping you grasp their distinct functions and how they connect elements in sentences.",
+  "title": {
+    "en": "Conjunctions",
+    "id": "Konjungsi"
+  },
+  "description": {
+    "en": "Here you will discover a clear breakdown of all types of conjunction, helping you grasp their distinct functions and how they connect elements in sentences.",
+    "id": "Di sini Anda akan menemukan rincian yang jelas dari semua jenis konjungsi, membantu Anda memahami fungsi mereka yang berbeda dan bagaimana mereka menghubungkan elemen dalam kalimat."
+  },
   "list": [
     {
       "id": "5457",
@@ -56,5 +62,6 @@
       "words": "11",
       "time": "6"
     }
-  ]
+  ],
+  "id": 239
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Opinion",
-  "description": "Here you can find a categorized list of all the English idioms related to Opinion in topics like Criticism, Disagreement, Discussion, Thoughts & Assumptions.",
+  "title": {
+    "en": "Opinion",
+    "id": "Pendapat"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Opinion in topics like Criticism, Disagreement, Discussion, Thoughts & Assumptions.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang berkaitan dengan pendapat dalam topik -topik seperti kritik, ketidaksepakatan, diskusi, pemikiran & asumsi."
+  },
   "list": [
     {
       "id": "2541",
@@ -68,5 +74,6 @@
       "words": "18",
       "time": "10"
     }
-  ]
+  ],
+  "id": 125
 }

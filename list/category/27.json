@@ -1,6 +1,12 @@
 {
-  "title": "Foods and Drinks",
-  "description": "Learn about different types of foods, from bread to stews, and all sorts of drinks, from wines to non-alcoholic ones.",
+  "title": {
+    "en": "Foods and Drinks",
+    "id": "Makanan dan minuman"
+  },
+  "description": {
+    "en": "Learn about different types of foods, from bread to stews, and all sorts of drinks, from wines to non-alcoholic ones.",
+    "id": "Pelajari tentang berbagai jenis makanan, dari roti hingga semur, dan segala macam minuman, dari anggur hingga yang tidak alkohol."
+  },
   "list": [
     {
       "id": "1809",
@@ -248,5 +254,6 @@
       "words": "30",
       "time": "16"
     }
-  ]
+  ],
+  "id": 27
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Physical and Social Lifestyle",
-  "description": "These classes of verbs are related to actions concerning physical activities and interactions within social contexts.",
+  "title": {
+    "en": "Verbs of Physical and Social Lifestyle",
+    "id": "Kata kerja gaya hidup fisik dan sosial"
+  },
+  "description": {
+    "en": "These classes of verbs are related to actions concerning physical activities and interactions within social contexts.",
+    "id": "Kelas kata kerja ini terkait dengan tindakan mengenai kegiatan fisik dan interaksi dalam konteks sosial."
+  },
   "list": [
     {
       "id": "4675",
@@ -80,5 +86,6 @@
       "words": "29",
       "time": "15"
     }
-  ]
+  ],
+  "id": 200
 }

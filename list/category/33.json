@@ -1,6 +1,12 @@
 {
-  "title": "Medical Science",
-  "description": "Talking or writing about a topic like \"Medical Science\" requires a wide range of vocabulary. So, read these lessons and learn the words related to this topic.",
+  "title": {
+    "en": "Medical Science",
+    "id": "Ilmu kedokteran"
+  },
+  "description": {
+    "en": "Talking or writing about a topic like \"Medical Science\" requires a wide range of vocabulary. So, read these lessons and learn the words related to this topic.",
+    "id": "Berbicara atau menulis tentang topik seperti \"Ilmu Kedokteran\" membutuhkan berbagai kosakata. Jadi, baca pelajaran ini dan pelajari kata -kata yang terkait dengan topik ini."
+  },
   "list": [
     {
       "id": "784",
@@ -170,5 +176,6 @@
       "words": "42",
       "time": "22"
     }
-  ]
+  ],
+  "id": 33
 }

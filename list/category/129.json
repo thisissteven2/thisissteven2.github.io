@@ -1,6 +1,12 @@
 {
-  "title": "Describing Qualities",
-  "description": "Here you can find a categorized list of all the English idioms used to Describe Qualities in topics like Comparison, Good and bad Quality, Shape, and Color.",
+  "title": {
+    "en": "Describing Qualities",
+    "id": "Menggambarkan kualitas"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms used to Describe Qualities in topics like Comparison, Good and bad Quality, Shape, and Color.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang digunakan untuk menggambarkan kualitas dalam topik seperti perbandingan, kualitas, bentuk, dan warna yang baik dan buruk."
+  },
   "list": [
     {
       "id": "2631",
@@ -98,5 +104,6 @@
       "words": "22",
       "time": "12"
     }
-  ]
+  ],
+  "id": 129
 }

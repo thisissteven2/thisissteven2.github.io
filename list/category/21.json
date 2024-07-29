@@ -1,6 +1,12 @@
 {
-  "title": "Linguistics",
-  "description": "Discover the fascinating world of linguistics and explore essential vocabulary to enhance your understanding of language and its structures.",
+  "title": {
+    "en": "Linguistics",
+    "id": "Ilmu bahasa"
+  },
+  "description": {
+    "en": "Discover the fascinating world of linguistics and explore essential vocabulary to enhance your understanding of language and its structures.",
+    "id": "Temukan dunia linguistik yang menarik dan jelajahi kosakata penting untuk meningkatkan pemahaman Anda tentang bahasa dan strukturnya."
+  },
   "list": [
     {
       "id": "531",
@@ -146,5 +152,6 @@
       "words": "44",
       "time": "23"
     }
-  ]
+  ],
+  "id": 21
 }

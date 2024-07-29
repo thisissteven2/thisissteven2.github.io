@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Down' & 'Away'",
-  "description": "Here we have prepared phrasal verbs that contain the particles 'down' or 'away', such as gun down, bog down, get away, take away, etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Down' & 'Away'",
+    "id": "Kata kerja phrasal menggunakan 'down' & 'Away'"
+  },
+  "description": {
+    "en": "Here we have prepared phrasal verbs that contain the particles 'down' or 'away', such as gun down, bog down, get away, take away, etc.",
+    "id": "Di sini kita telah menyiapkan kata kerja phrasal yang mengandung partikel 'turun' atau 'pergi', seperti menembak, macet, pergi, mengambil, dll."
+  },
   "list": [
     {
       "id": "5563",
@@ -62,5 +68,6 @@
       "words": "31",
       "time": "16"
     }
-  ]
+  ],
+  "id": 246
 }

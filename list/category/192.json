@@ -1,6 +1,12 @@
 {
-  "title": "Adverbs of Result and Viewpoint",
-  "description": "These classes of adverbs describe the results of actions or are used to indicate the attitude and viewpoint of the speaker in different contexts.",
+  "title": {
+    "en": "Adverbs of Result and Viewpoint",
+    "id": "Kata keterangan hasil dan sudut pandang"
+  },
+  "description": {
+    "en": "These classes of adverbs describe the results of actions or are used to indicate the attitude and viewpoint of the speaker in different contexts.",
+    "id": "Kelas kata keterangan ini menggambarkan hasil tindakan atau digunakan untuk menunjukkan sikap dan sudut pandang pembicara dalam konteks yang berbeda."
+  },
   "list": [
     {
       "id": "4922",
@@ -68,5 +74,6 @@
       "words": "38",
       "time": "20"
     }
-  ]
+  ],
+  "id": 192
 }

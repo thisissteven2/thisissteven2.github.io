@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Verbal Action",
-  "description": "These classes of verbs are related to actions involving speech and communication.",
+  "title": {
+    "en": "Verbs of Verbal Action",
+    "id": "Kata kerja tindakan verbal"
+  },
+  "description": {
+    "en": "These classes of verbs are related to actions involving speech and communication.",
+    "id": "Kelas kata kerja ini terkait dengan tindakan yang melibatkan bicara dan komunikasi."
+  },
   "list": [
     {
       "id": "4644",
@@ -122,5 +128,6 @@
       "words": "16",
       "time": "9"
     }
-  ]
+  ],
+  "id": 210
 }

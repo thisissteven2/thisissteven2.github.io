@@ -1,6 +1,12 @@
 {
-  "title": "Perseverance",
-  "description": "Here you can find a categorized list of all the English idioms related to Perseverance in topics like Determination & Hard Work and Doing One's Best.",
+  "title": {
+    "en": "Perseverance",
+    "id": "Kegigihan"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Perseverance in topics like Determination & Hard Work and Doing One's Best.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan ketekunan dalam topik -topik seperti tekad & kerja keras dan melakukan yang terbaik."
+  },
   "list": [
     {
       "id": "1732",
@@ -56,5 +62,6 @@
       "words": "6",
       "time": "4"
     }
-  ]
+  ],
+  "id": 82
 }

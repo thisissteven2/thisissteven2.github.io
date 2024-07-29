@@ -1,6 +1,12 @@
 {
-  "title": "Literature",
-  "description": "On this page, there are more than 900 words about books and writers which will help you widen your range of vocabulary.",
+  "title": {
+    "en": "Literature",
+    "id": "literatur"
+  },
+  "description": {
+    "en": "On this page, there are more than 900 words about books and writers which will help you widen your range of vocabulary.",
+    "id": "Di halaman ini, ada lebih dari 900 kata tentang buku dan penulis yang akan membantu Anda memperluas jangkauan kosa kata Anda."
+  },
   "list": [
     {
       "id": "636",
@@ -116,5 +122,6 @@
       "words": "44",
       "time": "23"
     }
-  ]
+  ],
+  "id": 24
 }

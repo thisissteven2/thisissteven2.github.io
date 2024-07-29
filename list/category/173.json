@@ -1,6 +1,12 @@
 {
-  "title": "Behavior, Attitude, & Approach",
-  "description": "Discover English proverbs on behavior, attitude, and approach. Learn from age-old wisdom about navigating life with grace and wisdom.",
+  "title": {
+    "en": "Behavior, Attitude, & Approach",
+    "id": "Perilaku, sikap, & pendekatan"
+  },
+  "description": {
+    "en": "Discover English proverbs on behavior, attitude, and approach. Learn from age-old wisdom about navigating life with grace and wisdom.",
+    "id": "Temukan Amsal Bahasa Inggris tentang perilaku, sikap, dan pendekatan. Belajar dari kebijaksanaan kuno tentang menavigasi kehidupan dengan rahmat dan kebijaksanaan."
+  },
   "list": [
     {
       "id": "4123",
@@ -110,5 +116,6 @@
       "words": "11",
       "time": "6"
     }
-  ]
+  ],
+  "id": 173
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Abstract Attributes",
-  "description": "These classes of adjectives describe intangible qualities, emotions, or concepts like love, freedom, justice, or happiness.",
+  "title": {
+    "en": "Adjectives of Abstract Attributes",
+    "id": "Kata sifat atribut abstrak"
+  },
+  "description": {
+    "en": "These classes of adjectives describe intangible qualities, emotions, or concepts like love, freedom, justice, or happiness.",
+    "id": "Kelas kata sifat ini menggambarkan kualitas, emosi, atau konsep yang tidak berwujud seperti cinta, kebebasan, keadilan, atau kebahagiaan."
+  },
   "list": [
     {
       "id": "4308",
@@ -92,5 +98,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 217
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Movement",
-  "description": "These classes of verbs denote different types of movement, such as moving on foot, in water, using vehicles, etc.",
+  "title": {
+    "en": "Verbs of Movement",
+    "id": "Kata kerja gerakan"
+  },
+  "description": {
+    "en": "These classes of verbs denote different types of movement, such as moving on foot, in water, using vehicles, etc.",
+    "id": "Kelas kata kerja ini menunjukkan berbagai jenis gerakan, seperti bergerak berjalan kaki, dalam air, menggunakan kendaraan, dll."
+  },
   "list": [
     {
       "id": "4576",
@@ -98,5 +104,6 @@
       "words": "28",
       "time": "15"
     }
-  ]
+  ],
+  "id": 194
 }

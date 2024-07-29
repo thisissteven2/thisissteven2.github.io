@@ -1,6 +1,12 @@
 {
-  "title": "Decision, Suggestion, and Obligation",
-  "description": "In this section, we will get acquainted with the words related to \"decision, suggestion, and obligation\".",
+  "title": {
+    "en": "Decision, Suggestion, and Obligation",
+    "id": "Keputusan, saran, dan kewajiban"
+  },
+  "description": {
+    "en": "In this section, we will get acquainted with the words related to \"decision, suggestion, and obligation\".",
+    "id": "Di bagian ini, kami akan berkenalan dengan kata -kata yang terkait dengan \"keputusan, saran, dan kewajiban\"."
+  },
   "list": [
     {
       "id": "736",
@@ -116,5 +122,6 @@
       "words": "31",
       "time": "16"
     }
-  ]
+  ],
+  "id": 31
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Quantifiers",
-  "description": "Here you will discover all categorized quantifiers helping you understand words expressing quantity and recognize amounts in various situations.",
+  "title": {
+    "en": "Quantifiers",
+    "id": "Kuantifikasi"
+  },
+  "description": {
+    "en": "Here you will discover all categorized quantifiers helping you understand words expressing quantity and recognize amounts in various situations.",
+    "id": "Di sini Anda akan menemukan semua kuantifikasi yang dikategorikan membantu Anda memahami kata -kata yang mengekspresikan jumlah dan mengenali jumlah dalam berbagai situasi."
+  },
   "list": [
     {
       "id": "5466",
@@ -74,5 +80,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 240
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives Describing Sensory Experiences",
-  "description": "These classes of adjectives describe how things are perceived through the senses, encompassing taste, touch, smell, sight, or sound.",
+  "title": {
+    "en": "Adjectives Describing Sensory Experiences",
+    "id": "Kata sifat yang menggambarkan pengalaman sensorik"
+  },
+  "description": {
+    "en": "These classes of adjectives describe how things are perceived through the senses, encompassing taste, touch, smell, sight, or sound.",
+    "id": "Kelas kata sifat ini menggambarkan bagaimana hal -hal yang dirasakan melalui indera, mencakup rasa, sentuhan, bau, penglihatan, atau suara."
+  },
   "list": [
     {
       "id": "4279",
@@ -98,5 +104,6 @@
       "words": "16",
       "time": "9"
     }
-  ]
+  ],
+  "id": 215
 }

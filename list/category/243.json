@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'Out'",
-  "description": "In this section you are provided with a list of phrasal verbs with 'out' as their particle, such as turn out, carry out, etc.",
+  "title": {
+    "en": "Phrasal Verbs Using 'Out'",
+    "id": "Kata kerja phrasal menggunakan 'out'"
+  },
+  "description": {
+    "en": "In this section you are provided with a list of phrasal verbs with 'out' as their particle, such as turn out, carry out, etc.",
+    "id": "Di bagian ini Anda diberi daftar kata kerja phrasal dengan 'keluar' sebagai partikel mereka, seperti hasilnya, dilaksanakan, dll."
+  },
   "list": [
     {
       "id": "5525",
@@ -92,5 +98,6 @@
       "words": "27",
       "time": "14"
     }
-  ]
+  ],
+  "id": 243
 }

@@ -1,6 +1,12 @@
 {
-  "title": "500 Most Common English Adverbs",
-  "description": "Here you can learn the 500 most common adverbs in English. Each lesson contains 25 words, which allows you to master them a lot faster.",
+  "title": {
+    "en": "500 Most Common English Adverbs",
+    "id": "500 kata keterangan bahasa Inggris yang paling umum"
+  },
+  "description": {
+    "en": "Here you can learn the 500 most common adverbs in English. Each lesson contains 25 words, which allows you to master them a lot faster.",
+    "id": "Di sini Anda dapat mempelajari 500 kata keterangan paling umum dalam bahasa Inggris. Setiap pelajaran berisi 25 kata, yang memungkinkan Anda menguasainya jauh lebih cepat."
+  },
   "list": [
     {
       "id": "1177",
@@ -122,5 +128,6 @@
       "words": "25",
       "time": "13"
     }
-  ]
+  ],
+  "id": 48
 }

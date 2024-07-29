@@ -1,6 +1,12 @@
 {
-  "title": "Eating, Drinking, and Serving Food",
-  "description": "Here is an extensive wordlist with words related to eating, drinking, and serving that are commonly used for dining, beverages, and even serving them!",
+  "title": {
+    "en": "Eating, Drinking, and Serving Food",
+    "id": "Makan, minum, dan menyajikan makanan"
+  },
+  "description": {
+    "en": "Here is an extensive wordlist with words related to eating, drinking, and serving that are commonly used for dining, beverages, and even serving them!",
+    "id": "Berikut adalah daftar kata yang luas dengan kata -kata yang berkaitan dengan makan, minum, dan porsi yang biasa digunakan untuk makan, minuman, dan bahkan melayani mereka!"
+  },
   "list": [
     {
       "id": "3219",
@@ -74,5 +80,6 @@
       "words": "48",
       "time": "25"
     }
-  ]
+  ],
+  "id": 148
 }

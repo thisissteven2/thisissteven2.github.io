@@ -1,6 +1,12 @@
 {
-  "title": "Phrasal Verbs Using 'On' & 'Upon'",
-  "description": "Phrasal verbs that contain the particles 'on' or 'upon', such as go on, hang on, touch up, fall upon, etc. are listed here.",
+  "title": {
+    "en": "Phrasal Verbs Using 'On' & 'Upon'",
+    "id": "Kata kerja phrasal menggunakan 'on' & 'up'"
+  },
+  "description": {
+    "en": "Phrasal verbs that contain the particles 'on' or 'upon', such as go on, hang on, touch up, fall upon, etc. are listed here.",
+    "id": "Kata kerja phrasal yang mengandung partikel 'pada' atau 'di atas', seperti melanjutkan, bertahan, sentuh, jatuh, dll. Terdaftar di sini."
+  },
   "list": [
     {
       "id": "5553",
@@ -62,5 +68,6 @@
       "words": "10",
       "time": "6"
     }
-  ]
+  ],
+  "id": 245
 }

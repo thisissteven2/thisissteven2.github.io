@@ -1,6 +1,12 @@
 {
-  "title": "Health and Sickness",
-  "description": "Have you ever wanted to talk or write about different diseases or your state of health? Review these lessons to learn the related vocabulary.",
+  "title": {
+    "en": "Health and Sickness",
+    "id": "Kesehatan dan penyakit"
+  },
+  "description": {
+    "en": "Have you ever wanted to talk or write about different diseases or your state of health? Review these lessons to learn the related vocabulary.",
+    "id": "Pernahkah Anda ingin berbicara atau menulis tentang berbagai penyakit atau keadaan kesehatan Anda? Tinjau pelajaran ini untuk mempelajari kosa kata terkait."
+  },
   "list": [
     {
       "id": "767",
@@ -134,5 +140,6 @@
       "words": "21",
       "time": "11"
     }
-  ]
+  ],
+  "id": 32
 }

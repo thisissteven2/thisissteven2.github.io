@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Physical Human Attributes",
-  "description": "These classes of adjectives describe physical characteristics unique to humans, such as height, weight, color, appearance, or physical condition.",
+  "title": {
+    "en": "Adjectives of Physical Human Attributes",
+    "id": "Kata sifat atribut fisik manusia"
+  },
+  "description": {
+    "en": "These classes of adjectives describe physical characteristics unique to humans, such as height, weight, color, appearance, or physical condition.",
+    "id": "Kelas kata sifat ini menggambarkan karakteristik fisik yang unik bagi manusia, seperti tinggi, berat badan, warna, penampilan, atau kondisi fisik."
+  },
   "list": [
     {
       "id": "4247",
@@ -62,5 +68,6 @@
       "words": "31",
       "time": "16"
     }
-  ]
+  ],
+  "id": 211
 }

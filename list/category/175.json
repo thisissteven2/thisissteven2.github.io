@@ -1,6 +1,12 @@
 {
-  "title": "Human Relationships",
-  "description": "Discover the essence of human relationships through English proverbs, timeless wisdom that illuminates the dynamics of connections and emotions.",
+  "title": {
+    "en": "Human Relationships",
+    "id": "Hubungan manusia"
+  },
+  "description": {
+    "en": "Discover the essence of human relationships through English proverbs, timeless wisdom that illuminates the dynamics of connections and emotions.",
+    "id": "Temukan esensi hubungan manusia melalui Amsal Inggris, kebijaksanaan abadi yang menerangi dinamika koneksi dan emosi."
+  },
   "list": [
     {
       "id": "4152",
@@ -44,5 +50,6 @@
       "words": "12",
       "time": "7"
     }
-  ]
+  ],
+  "id": 175
 }

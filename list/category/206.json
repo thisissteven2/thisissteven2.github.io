@@ -1,6 +1,12 @@
 {
-  "title": "Verbs of Evoking and Feeling Emotions",
-  "description": "These classes of verbs involve actions that either trigger or express emotions and feelings.",
+  "title": {
+    "en": "Verbs of Evoking and Feeling Emotions",
+    "id": "Kata kerja membangkitkan dan merasakan emosi"
+  },
+  "description": {
+    "en": "These classes of verbs involve actions that either trigger or express emotions and feelings.",
+    "id": "Kelas kata kerja ini melibatkan tindakan yang memicu atau mengekspresikan emosi dan perasaan."
+  },
   "list": [
     {
       "id": "4782",
@@ -62,5 +68,6 @@
       "words": "20",
       "time": "11"
     }
-  ]
+  ],
+  "id": 206
 }

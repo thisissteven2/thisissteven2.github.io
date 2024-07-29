@@ -1,6 +1,12 @@
 {
-  "title": "Adjectives of Size and Quantity",
-  "description": "These classes of adjectives convey information about the extent, volume, or amount of something, indicating its size, quantity, or magnitude.",
+  "title": {
+    "en": "Adjectives of Size and Quantity",
+    "id": "Kata sifat ukuran dan kuantitas"
+  },
+  "description": {
+    "en": "These classes of adjectives convey information about the extent, volume, or amount of something, indicating its size, quantity, or magnitude.",
+    "id": "Kelas kata sifat ini menyampaikan informasi tentang tingkat, volume, atau jumlah sesuatu, yang menunjukkan ukuran, kuantitas, atau besarnya."
+  },
   "list": [
     {
       "id": "4237",
@@ -50,5 +56,6 @@
       "words": "14",
       "time": "8"
     }
-  ]
+  ],
+  "id": 214
 }

@@ -1,6 +1,12 @@
 {
-  "title": "Interactions",
-  "description": "Here you can find a categorized list of all the English idioms related to Interactions in topics like Support, Mistreatment, Enmity, Sympathy and Jokes.",
+  "title": {
+    "en": "Interactions",
+    "id": "Interaksi"
+  },
+  "description": {
+    "en": "Here you can find a categorized list of all the English idioms related to Interactions in topics like Support, Mistreatment, Enmity, Sympathy and Jokes.",
+    "id": "Di sini Anda dapat menemukan daftar yang dikategorikan dari semua idiom bahasa Inggris yang terkait dengan interaksi dalam topik -topik seperti dukungan, penganiayaan, permusuhan, simpati, dan lelucon."
+  },
   "list": [
     {
       "id": "1546",
@@ -80,5 +86,6 @@
       "words": "7",
       "time": "4"
     }
-  ]
+  ],
+  "id": 73
 }
