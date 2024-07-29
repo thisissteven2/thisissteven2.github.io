@@ -17,6 +17,17 @@ async function translateToId(category) {
   };
 }
 
+async function removeUnused(category) {
+  console.log(`removed unused in ${category.title}`);
+
+  return {
+    ...category,
+    urlId: undefined,
+    photo: undefined,
+    photoThumbnail: undefined,
+  };
+}
+
 async function main() {
   const categories = JSON.parse(fs.readFileSync("categories.json"));
 
@@ -24,7 +35,7 @@ async function main() {
 
   for (let i = 0; i < categories.length; i += 10) {
     const batch = categories.slice(i, i + 10);
-    const result = await Promise.all(batch.map((category) => translateToId(category)));
+    const result = await Promise.all(batch.map((category) => removeUnused(category)));
     translated.push(...result);
   }
 
