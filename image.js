@@ -3,14 +3,18 @@ const axios = require("axios");
 const { downloadImage } = require("./utils");
 
 async function scrapeAndDownloadImage(query, id) {
-  const { data: axiosData } = await axios.get(
-    `https://unsplash.com/napi/search/photos?page=1&per_page=1&query=${query}`
-  );
+  try {
+    const { data: axiosData } = await axios.get(
+      `https://unsplash.com/napi/search/photos?page=1&per_page=1&query=${query}`
+    );
 
-  const url = axiosData.results[0].urls.small;
+    const url = axiosData.results[0].urls.small;
 
-  console.log(`Downloaded image for query: ${query}`);
-  await downloadImage(url, `./images/${id}.jpeg`);
+    console.log(`Downloaded image for query: ${query}`);
+    await downloadImage(url, `./images/${id}.jpeg`);
+  } catch {
+    console.error(`Failed to download image for query: ${query}`);
+  }
 }
 
 async function main() {
