@@ -2,89 +2,32 @@ const axios = require("axios");
 const { load } = require("cheerio");
 const fs = require("fs");
 const path = require("path");
-const { enToId, enToZh, zhCNTozhTW } = require("../translate");
 
 const getUri = (subcategory) => `https://langeek.co/en-ZH/vocab/subcategory/${subcategory}/learn/review`;
 
-const downloadImage = async (url, filepath) => {
-  const response = await axios({
-    url,
-    responseType: "stream",
-  });
-
-  return new Promise((resolve, reject) => {
-    const writer = fs.createWriteStream(filepath);
-    response.data.pipe(writer);
-    writer.on("finish", resolve);
-    writer.on("error", reject);
-  });
-};
-
-const getImagePath = (id) => `https://content.hanzi.id/langeek/images/${id}.jpeg`;
-
-const getProps = async (scriptText) => {
+const fixImageUrl = async (scriptText) => {
   const parsedScriptText = JSON.parse(scriptText);
   const props = parsedScriptText.props.pageProps.initialState.static.subcategory;
 
-  const title = props.title;
-  const description = props.description;
-
-  const [titleId, descriptionId] = await enToId([title, description]);
+  const subcategory = JSON.parse(fs.readFileSync(`./found/${props.id}.json`, "utf-8"));
 
   const cards = await Promise.all(
-    props.cards.map(async (card) => {
-      const id = card.id;
-      const enShort = card.mainTranslation.title;
-      const enLong = card.mainTranslation.translation;
-      const enPartOfSpeech = card.mainTranslation.partOfSpeech.partOfSpeechType;
-
-      const [idShort, idLong, idPartOfSpeech] = await enToId([enShort, enLong, enPartOfSpeech]);
-
-      const chineseEntry = card.mainTranslation.localizedProperties?.translation ?? (await enToZh(enShort));
-
-      const simplified = typeof chineseEntry === "string" ? chineseEntry : chineseEntry.text;
-
-      const traditionalEntry = await zhCNTozhTW(simplified);
-      const traditional = traditionalEntry.text;
-
+    props.cards.map(async (card, index) => {
       const image = card.mainTranslation.wordPhoto?.photo ?? null;
-      const imagePath = image ? path.join(__dirname, "images", `${id}.jpeg`) : null;
 
-      if (image) {
-        await downloadImage(image, imagePath);
+      if (!image) {
+        return {
+          ...subcategory.cards[index],
+          image: null,
+        };
       }
 
-      return {
-        id: id,
-        translation: {
-          en: {
-            short: enShort,
-            long: enLong,
-            partOfSpeech: enPartOfSpeech,
-          },
-          id: {
-            short: idShort,
-            long: idLong,
-            partOfSpeech: idPartOfSpeech,
-          },
-        },
-        image: getImagePath(id),
-        simplified,
-        traditional,
-      };
+      return subcategory.cards[index];
     })
   );
 
   return {
-    id: props.id,
-    title: {
-      en: title,
-      id: titleId,
-    },
-    description: {
-      en: description,
-      id: descriptionId,
-    },
+    ...subcategory,
     cards,
   };
 };
@@ -95,7 +38,7 @@ const processSubcategory = async (subcategory) => {
   const $ = load(data);
   const scriptText = $("#__NEXT_DATA__").text();
   try {
-    const props = await getProps(scriptText);
+    const props = await fixImageUrl(scriptText);
 
     console.log(`Processed subcategory with title ${props.title.en}`);
 
