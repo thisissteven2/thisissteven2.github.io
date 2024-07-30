@@ -44,7 +44,7 @@ function processFilesInFolder(folderPath) {
       return item;
     });
 
-    const outFilePath = path.join(__dirname, "new", file);
+    const outFilePath = path.join(__dirname, "found", file);
 
     fs.writeFileSync(outFilePath, JSON.stringify(jsonData, null, 2), "utf8");
   });

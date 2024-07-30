@@ -5,7 +5,8 @@
     "id": "Pelajaran 3"
   },
   "description": {
-    "en": ""
+    "en": "",
+    "id": null
   },
   "cards": [
     {
@@ -94,7 +95,7 @@
         },
         "id": {
           "short": "tak terkatakan",
-          "long": "tidak mungkin dijelaskan atau diekspresikan dengan kata -kata",
+          "long": "tidak mungkin dijelaskan atau diekspresikan dengan kata-kata",
           "partOfSpeech": "kata sifat"
         }
       },
@@ -265,7 +266,7 @@
         },
         "id": {
           "short": "duniawi",
-          "long": "menunjukkan kurangnya rasa hormat terhadap hal -hal suci atau Tuhan, terutama dengan menggunakan bahasa ofensif atau cabul",
+          "long": "menunjukkan kurangnya rasa hormat terhadap hal-hal suci atau Tuhan, terutama dengan menggunakan bahasa ofensif atau cabul",
           "partOfSpeech": "kata sifat"
         }
       },
@@ -283,7 +284,7 @@
           "partOfSpeech": "noun"
         },
         "id": {
-          "short": "kata -kata kotor",
+          "short": "kata-kata kotor",
           "long": "Bahasa atau perilaku yang tidak dapat diterima secara sosial, biasanya melibatkan penggunaan istilah penghinaan atau ofensif",
           "partOfSpeech": "kata benda"
         }

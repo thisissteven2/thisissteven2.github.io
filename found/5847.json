@@ -5,7 +5,8 @@
     "id": "Bola voli"
   },
   "description": {
-    "en": ""
+    "en": "",
+    "id": null
   },
   "cards": [
     {
@@ -132,7 +133,7 @@
         },
         "id": {
           "short": "membuang",
-          "long": "(bola voli) hit yang tidak terduga oleh setter di atas jaring alih -alih mengaturnya ke rekan satu tim",
+          "long": "(bola voli) hit yang tidak terduga oleh setter di atas jaring alih-alih mengaturnya ke rekan satu tim",
           "partOfSpeech": "kata benda"
         }
       },
@@ -265,7 +266,7 @@
         },
         "id": {
           "short": "kontak ganda",
-          "long": "pelanggaran di mana pemain bola voli memukul bola dua kali berturut -turut selama satu permainan",
+          "long": "pelanggaran di mana pemain bola voli memukul bola dua kali berturut-turut selama satu permainan",
           "partOfSpeech": "kata benda"
         }
       },

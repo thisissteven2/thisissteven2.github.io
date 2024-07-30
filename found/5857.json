@@ -5,7 +5,8 @@
     "id": "Bowling"
   },
   "description": {
-    "en": ""
+    "en": "",
+    "id": null
   },
   "cards": [
     {
@@ -246,7 +247,7 @@
         },
         "id": {
           "short": "mata ular",
-          "long": "(bowling) Tindakan merobohkan hanya satu pin pada masing -masing dari dua upaya dalam satu bingkai, menghasilkan skor dua",
+          "long": "(bowling) Tindakan merobohkan hanya satu pin pada masing-masing dari dua upaya dalam satu bingkai, menghasilkan skor dua",
           "partOfSpeech": "kata benda"
         }
       },
