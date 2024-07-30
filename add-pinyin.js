@@ -63,4 +63,3 @@ function processFilesInFolder(folderPath) {
 
 const folderPath = path.join(__dirname, "found");
 processFilesInFolder(folderPath);
-// console.log(JSON.stringify(getPinyin("你好！"), null, 2));
