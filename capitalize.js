@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const regex = /(\p{L}|\p{N}) - ?(\p{L}|\p{N})/gu;
+
 // Function to read and process all files in a folder
 function processFilesInFolder(folderPath) {
   // Read all files in the folder
@@ -35,6 +37,11 @@ function processFilesInFolder(folderPath) {
         jsonData.description.en = jsonData.description.en.charAt(0).toUpperCase() + jsonData.description.en.slice(1);
         jsonData.description.id = jsonData.description.id.charAt(0).toUpperCase() + jsonData.description.id.slice(1);
 
+        jsonData.title.en = jsonData.title.en.replace(regex, "$1-$2");
+        jsonData.title.id = jsonData.title.id.replace(regex, "$1-$2");
+        jsonData.description.en = jsonData.description.en.replace(regex, "$1-$2");
+        jsonData.description.id = jsonData.description.id.replace(regex, "$1-$2");
+
         // "list": [
         // {
         //     "id": "636",
@@ -50,6 +57,8 @@ function processFilesInFolder(folderPath) {
         jsonData.list = jsonData.list.map((item) => {
           item.adverbTitle.en = item.adverbTitle.en.charAt(0).toUpperCase() + item.adverbTitle.en.slice(1);
           item.adverbTitle.id = item.adverbTitle.id.charAt(0).toUpperCase() + item.adverbTitle.id.slice(1);
+          item.adverbTitle.en = item.adverbTitle.en.replace(regex, "$1-$2");
+          item.adverbTitle.id = item.adverbTitle.id.replace(regex, "$1-$2");
           return item;
         });
 
