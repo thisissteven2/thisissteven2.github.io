@@ -55,7 +55,7 @@ const processSubcategory = async (subcategory) => {
 };
 
 async function main() {
-  const subcategories = Array.from({ length: 5000 }, (_, i) => i + 2041);
+  const subcategories = Array.from({ length: 5000 }, (_, i) => i + 2001);
 
   for (let i = 0; i < subcategories.length; i += 10) {
     const batch = subcategories.slice(i, i + 10);
