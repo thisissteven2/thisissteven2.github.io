@@ -96,6 +96,15 @@ async function zhCNTozhTW(text) {
   };
 }
 
+async function zhCNTozhTWBatch(text) {
+  const result = await tr(text, {
+    from: "zh-CN",
+    to: "zh-TW",
+  });
+
+  return result;
+}
+
 module.exports = {
   downloadImage,
   zhToEn,
@@ -105,4 +114,5 @@ module.exports = {
   enToZh,
   enToZhTw,
   zhCNTozhTW,
+  zhCNTozhTWBatch,
 };

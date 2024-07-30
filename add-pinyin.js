@@ -1,64 +1,45 @@
-const { segment } = require("../books/tokenizer");
 const fs = require("fs");
 const path = require("path");
+const { zhCNTozhTWBatch } = require("./utils");
 
-function getPinyin(word) {
-  return segment(word)
-    .map((entry) => (entry.matches[0]?.pinyinPretty ?? "").replace(" ", ""))
-    .filter((entry) => entry.length > 0)
-    .join(" ");
+async function getPinyin(words) {
+  const translated = await zhCNTozhTWBatch(words);
+  return translated.pronunciation.split("\n");
 }
 
 // Function to read and process all files in a folder
-function processFilesInFolder(folderPath) {
-  // Read all files in the folder
-  fs.readdir(folderPath, (err, files) => {
-    if (err) {
-      console.error("Error reading folder:", err);
-      return;
-    }
+async function processFilesInFolder(folderPath) {
+  const files = fs.readdirSync(folderPath);
 
-    // Process each file
-    files.forEach((file) => {
+  // Split files into batches of 10
+  const batches = [];
+  for (let i = 0; i < files.length; i += 20) {
+    batches.push(files.slice(i, i + 20));
+  }
+
+  for (const batch of batches) {
+    const batchPromises = batch.map(async (file) => {
       const filePath = path.join(folderPath, file);
+      const data = fs.readFileSync(filePath, "utf8");
 
-      // Read the file content
-      fs.readFile(filePath, "utf8", (err, data) => {
-        if (err) {
-          console.error("Error reading file:", err);
-          return;
-        }
+      let jsonData = JSON.parse(data);
 
-        // Parse the file content as JSON
-        let jsonData;
-        try {
-          jsonData = JSON.parse(data);
-        } catch (parseErr) {
-          console.error("Error parsing JSON:", parseErr);
-          return;
-        }
+      const pinyins = await getPinyin(jsonData.cards.map((card) => card.simplified));
 
-        // Modify the .cards array by adding pinyin
-        if (Array.isArray(jsonData.cards)) {
-          jsonData.cards = jsonData.cards.map((card) => {
-            if (card.simplified) {
-              card.pinyin = getPinyin(card.simplified);
-            }
-            return card;
-          });
-        }
-
-        // Write the modified content back to the file
-        fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), (writeErr) => {
-          if (writeErr) {
-            console.error("Error writing file:", writeErr);
-          } else {
-            console.log(`File processed: ${filePath}`);
-          }
-        });
+      jsonData.cards = jsonData.cards.map((card, index) => {
+        return {
+          ...card,
+          pinyin: pinyins[index],
+        };
       });
+
+      fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2));
+
+      console.log(`Processed file: ${file}`);
     });
-  });
+
+    await Promise.all(batchPromises);
+  }
 }
 
 const folderPath = path.join(__dirname, "found");
